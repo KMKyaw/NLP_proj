@@ -1,0 +1,527 @@
+[
+    {
+        "conversation_id": "conv_3606",
+        "turns": [
+            {
+                "text": "What are your favorite shows",
+                "label": "qo"
+            },
+            {
+                "text": "Well I its doesnt seem like I get enough time to watch much but --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- the ones that are out now - I Ive watched that SISTERS couple of times I think thats kind of good show",
+                "label": "+"
+            },
+            {
+                "text": "Ive never seen that",
+                "label": "sd"
+            },
+            {
+                "text": "Havent you",
+                "label": "qy"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "nn"
+            },
+            {
+                "text": "Oh I like that one and um Im trying to think I I dont even know if I have any other real regular ones that I watch How about you",
+                "label": "sd"
+            },
+            {
+                "text": "Um I like LAW --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- not because its realistic but its entertaining",
+                "label": "+"
+            },
+            {
+                "text": "I do like that",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "Yeah occasionally Ill see that one",
+                "label": "%"
+            },
+            {
+                "text": "Lets see I watch CHEERS sometimes",
+                "label": "^h"
+            },
+            {
+                "text": "Do you",
+                "label": "bh"
+            },
+            {
+                "text": "And mostly just movies when theres good movie on",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Actually when there isnt good movie on too",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "I just like to have the on if you know if Im home alone or something --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- have - either the radio or the - got to be on the whole time",
+                "label": "%"
+            },
+            {
+                "text": "Yeah uh oh I do I kind of have gotten into couple of soaps lately",
+                "label": "b"
+            },
+            {
+                "text": "Oh really",
+                "label": "b"
+            },
+            {
+                "text": "Ive well Ive been home with um - I have baby and --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and so Ive havent seemed to have gotten out as much and --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- so Ill Ill watch soap occasionally",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Do you watch any of those",
+                "label": "qy"
+            },
+            {
+                "text": "I well I dont because I work all day",
+                "label": "ng"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But um I pro- - I usually do if Im home for couple of days like you know around Christmas or whatever after while Ill start watching it --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and then on - for while Ill ask people if they know what happened --",
+                "label": "%"
+            },
+            {
+                "text": "Oh --",
+                "label": "b"
+            },
+            {
+                "text": "-- and then Ill just forget it",
+                "label": "sd"
+            },
+            {
+                "text": "-- what what ones do you get into",
+                "label": "qw"
+            },
+            {
+                "text": "Uh I dont even remember the last time I watched was back in college It was like GENERAL HOSPITAL or something --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and I maybe watched it for week --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- but um I know that people used to arrange their whole schedules around the you know - they wouldnt take class that was in the middle of their soap opera",
+                "label": "sd"
+            },
+            {
+                "text": "How funny oh yeah",
+                "label": "ba"
+            },
+            {
+                "text": "It was -",
+                "label": "%"
+            },
+            {
+                "text": "Oh I dont get into them that much When Im home sometimes in the day Ill --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- Ill watch them --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but yeah oh I was really trying to think I dont even know if theres any other shows that I watch or else",
+                "label": "sd"
+            },
+            {
+                "text": "Well you said you have kids How old",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I have six year old and I have um - hell be year old in January",
+                "label": "sd"
+            },
+            {
+                "text": "So youre you arent SESAME STREET fan",
+                "label": "qy^d"
+            },
+            {
+                "text": "Well they do they watch it My six year olds kind of - hes outgrown that one little bit but --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but Ive started to turn it on little bit for the baby and hes kind of hes entertained by it",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So yes I I do watch that one",
+                "label": "ny"
+            },
+            {
+                "text": "Supposed to be great babysitter",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah well theyre not entertained for too long with it Hes hes still too little but --",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- yeah I do turn that on",
+                "label": "+"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "And I I do like um DONAHUE",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Sometimes I watch that I think he has some interesting things on it",
+                "label": "sd"
+            },
+            {
+                "text": "I know what time is that on listen strange placement I never see it",
+                "label": "aa"
+            },
+            {
+                "text": "Um thats on at lets see its on at four",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay Im not home then thats why I dont see it",
+                "label": "bk"
+            },
+            {
+                "text": "Yeah Ill watch that occasionally Hes got some real - I dont know theres some real weird people that he seems to come up with",
+                "label": "b"
+            },
+            {
+                "text": "Isnt it strange how people are fascinated by other people that they think are strange",
+                "label": "qy"
+            },
+            {
+                "text": "Yes Yeah oh yeah He does have some real bizarre things I think",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So other than that I dont know",
+                "label": "sd"
+            },
+            {
+                "text": "Whats that",
+                "label": "br"
+            },
+            {
+                "text": "Guess Im not much of person really",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah well I guess it wasnt real good topic for us but Well tell me is it snowing up there",
+                "label": "b"
+            },
+            {
+                "text": "Um no",
+                "label": "nn"
+            },
+            {
+                "text": "No",
+                "label": "b^m"
+            },
+            {
+                "text": "It snowed little bit um probably about four days ago --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and they said we werent going to get any more for Christmas",
+                "label": "sd"
+            },
+            {
+                "text": "Wow But do you have snow on the ground now two utts",
+                "label": "qy@"
+            },
+            {
+                "text": "Yeah --",
+                "label": "ny"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- there is snow on the ground",
+                "label": "sd^e"
+            },
+            {
+                "text": "Well thats nice",
+                "label": "ba"
+            },
+            {
+                "text": "I I wish it would snow little bit more Ive heard its raining there",
+                "label": "sd"
+            },
+            {
+                "text": "Oh gosh weve broken all sorts of records",
+                "label": "fe"
+            },
+            {
+                "text": "Oh really",
+                "label": "ba"
+            },
+            {
+                "text": "Theyve got - I mean we still have some highways closed and it stopped raining almost twenty-four hours ago",
+                "label": "%"
+            },
+            {
+                "text": "Oh my goodness",
+                "label": "ba"
+            },
+            {
+                "text": "But um oh just phenomenal I mean I you know - you see it on the news all the time but until youve really seen it it does- it doesnt really hit you",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But I was driving home from work Friday and I saw there were some stop signs I mean submerged up to the writing on the stop sign and that was just -- -",
+                "label": "sd"
+            },
+            {
+                "text": "Oh goodness",
+                "label": "ba"
+            },
+            {
+                "text": "-- it was amazing to me",
+                "label": "sd"
+            },
+            {
+                "text": "Oh gee so",
+                "label": "ba"
+            },
+            {
+                "text": "So",
+                "label": "%"
+            },
+            {
+                "text": "So there has been some flooding and -",
+                "label": "bf"
+            },
+            {
+                "text": "Oh theres been lot yeah Its its too bad but you know the thing is that this happens in the last three years its happened at least once year if not twice",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But the people continue to move back in the flood zones",
+                "label": "+"
+            },
+            {
+                "text": "Oh gee",
+                "label": "ba"
+            },
+            {
+                "text": "So I dont know I mean you got to wonder how long theyre going to keep doing that for",
+                "label": "h"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I dont think I would",
+                "label": "sv"
+            },
+            {
+                "text": "Oh boy",
+                "label": "ba"
+            },
+            {
+                "text": "Because they just finished cleaning up from the last flood",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah oh what mess",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Well now do you work for I",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah I do yeah",
+                "label": "ny"
+            },
+            {
+                "text": "oh uh-huh Huh Well this has been an interesting thing to do",
+                "label": "b"
+            },
+            {
+                "text": "Have you made lot of calls or -",
+                "label": "qy"
+            },
+            {
+                "text": "Um Ive Ive probably talked maybe to five people",
+                "label": "na"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "My husband is doing it too and hes --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- talked to few more than me and but its been real interesting and kind of fun",
+                "label": "+"
+            },
+            {
+                "text": "Do you get paid for these",
+                "label": "qy"
+            },
+            {
+                "text": "Um five dollars",
+                "label": "sd"
+            },
+            {
+                "text": "Five dollars call",
+                "label": "br"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Gosh I wish I could do that",
+                "label": "ba"
+            },
+            {
+                "text": "Uh dont you have to do it as part of its -",
+                "label": "qy"
+            },
+            {
+                "text": "We cant get paid for it",
+                "label": "no"
+            },
+            {
+                "text": "Dont you have to do it -",
+                "label": "%"
+            }
+        ]
+    }
+]

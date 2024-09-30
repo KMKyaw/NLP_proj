@@ -1,0 +1,355 @@
+[
+    {
+        "conversation_id": "conv_3359",
+        "turns": [
+            {
+                "text": "Oh I guess uh this is topic near and dear to my heart since I am am healthy eater",
+                "label": "sd"
+            },
+            {
+                "text": "Well I I try to be as well",
+                "label": "sd"
+            },
+            {
+                "text": "Well Im not uh I - there really isnt any kind of particular food that I I dont dont like really and I like good Italian restaurant --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- or good uh uh - especially like good prime rib --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- so if its uh nice to get out and find good restaurant like that and I live here in uh Rome New York and there are lot of good restaurants around here",
+                "label": "sv"
+            },
+            {
+                "text": "Oh youre in New York I was going to - theres place if you ever make it to Dallas --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- they have the best prime rib Its called Lawrys like Lawrys seasoning salt --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and it is absolutely wonderful",
+                "label": "sv"
+            },
+            {
+                "text": "Really",
+                "label": "b"
+            },
+            {
+                "text": "And uh we were there few months ago and it I mean its kind of pricey well from New York it probably doesnt matter but -",
+                "label": "sd"
+            },
+            {
+                "text": "Oh no Im in upstate New York and its actually very inexpensive I - theres --",
+                "label": "ar"
+            },
+            {
+                "text": "Oh is it okay",
+                "label": "ba"
+            },
+            {
+                "text": "-- theres place um half mile from me here that uh has uh fantastic prime rib for oh eleven dollars --",
+                "label": "+"
+            },
+            {
+                "text": "Wow",
+                "label": "ba"
+            },
+            {
+                "text": "-- for whole meal you know --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- potato and salad and soup and the whole whole nine yards so that -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah well I think the cheapest there probably starts at eighteen and it includes you know salad and rolls and oh some other stuff but --",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- it is absolutely wonderful Its the best I have ever had",
+                "label": "+"
+            },
+            {
+                "text": "Uh I was going to this place up the street from me is the best Ive ever had so",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Ill have to go there when I get to --",
+                "label": "+"
+            },
+            {
+                "text": "Well -",
+                "label": "%"
+            },
+            {
+                "text": "-- get to Dallas",
+                "label": "+"
+            },
+            {
+                "text": "Yeah well we like uh lots of people down here like Mexican food --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh sure",
+                "label": "b"
+            },
+            {
+                "text": "-- so um thats - I I think Italian and Mexican food are probably my favorites",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But um Im not into sushi or any of that kind of stuff",
+                "label": "sd"
+            },
+            {
+                "text": "No no Im not into the the dont do the the raw raw fish like that but I do like uh like seafood bar like raw raw bar like oysters and things like that uh --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- that they uh - I go on - Im an officer in the Air Force and travel quite bit on business --",
+                "label": "%"
+            },
+            {
+                "text": "Oh okay",
+                "label": "b"
+            },
+            {
+                "text": "-- so I uh find myself down in Melbourne Florida about once once month once every two months or so --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh go and hit the the oyster bars down there quite bit --",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah --",
+                "label": "b"
+            },
+            {
+                "text": "-- but I love that",
+                "label": "sd"
+            },
+            {
+                "text": "-- fresh seafood down there",
+                "label": "^2"
+            },
+            {
+                "text": "Yeah and um and uh Marylands great you get the crabs --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- its like I cant go anywhere where I --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- where I dont enjoy myself so -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah seafood seems to be lit- little bit more expensive than than other types of food",
+                "label": "b"
+            },
+            {
+                "text": "Thats true",
+                "label": "aa"
+            },
+            {
+                "text": "But it sure is good and its supposed to be good for you",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah well uh its really strange that that that seafood is so expensive because when you in reality uh uh I say that uh the oceans have the greatest re- resource of food --",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- on the planet and yet we havent as human beings havent figured out way to harvest it economically --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- so we managed to uh figure out how to get at just about everything else but uh but not uh not seafood",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Do you like spicy foods or -",
+                "label": "b"
+            },
+            {
+                "text": "Yeah yeah I like uh I make wicked chili and around here the big spicy thing is like uh buffalo wings --",
+                "label": "ny"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and so uh it people they you know - you go out to get the chicken wings and those are really hot --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and the hotter the better",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Well we uh we like spicy food down here especially uh the hot sauce Picante sauce or salsa --",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- whatever you all call it --",
+                "label": "+"
+            },
+            {
+                "text": "Sure",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh we we sure go through lot of that",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But I like it hot but I dont like it real hot --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- because then my nose starts running",
+                "label": "+"
+            },
+            {
+                "text": "My generally my my scalp will start I can feel just the top of my scalp getting hot the weirdest weirdest sensation almost like tingling but uh I dont know but uh - yeah well there isnt isnt too much in the way of restaurants that I dont like",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Things that are kind of oddball like uh Thai cuisine I never been really fond of that stuff You talk about spicy thatll thatll literally blow your head off its so hot",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh and I can handle just about any kind of food without uh um - well but that that stuff is goes one notch beyond uh my tolerances",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So Although I guess on this topic are to talk about the uh service in restaurant is always nice though too --",
+                "label": "sv"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- thats one thing",
+                "label": "sd"
+            },
+            {
+                "text": "and the price",
+                "label": "^2"
+            },
+            {
+                "text": "Whats that",
+                "label": "br"
+            },
+            {
+                "text": "And the price",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Make you want to come back",
+                "label": "+"
+            },
+            {
+                "text": "Well I find that lately that so many people are working you know working waitressing jobs or waiter",
+                "label": "sd"
+            }
+        ]
+    }
+]

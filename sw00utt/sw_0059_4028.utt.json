@@ -1,0 +1,283 @@
+[
+    {
+        "conversation_id": "conv_4028",
+        "turns": [
+            {
+                "text": "Okay um I guess were going to talk describe uh job benefits and so what do you think next to salary do you rank is the most important job benefits",
+                "label": "o"
+            },
+            {
+                "text": "Uh I would say the medical uh group insurance area --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- as far as uh covering medical costs for yourself or family members",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh Well um does your company have good benefits in that in that regard",
+                "label": "b^r"
+            },
+            {
+                "text": "Yeah I think - I work for public school system district --",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh so its different than company where most companies fund almost the entire thing where the school district does um the employee must pick up greater figure in the way of uh costs",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "But overall um Ive been pleased with it over the years",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I think the biggest frustration is because of the cost of insurance going up every year our district has had to alter uh you know change companies or now were on managed care thing which has stressed lot of people out --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "-- although it has not disturbed me any",
+                "label": "+"
+            },
+            {
+                "text": "I see",
+                "label": "b"
+            },
+            {
+                "text": "How about yourself",
+                "label": "qo"
+            },
+            {
+                "text": "Uh well Im - my medical coverage is with an --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- um so thats in my opinion thats get- thats bordering on health clinic but it seems to be good way to maintain costs and still provide good amount of coverage",
+                "label": "sv"
+            },
+            {
+                "text": "Right yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "Our district did that for the ninety-one and the ninety school year or calendar years and I was in the and um I was because my my same doctor you know agreed to be in it for uh - they usually sign contract or something --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and um uh I did have surgery last summer and I paid ten dollars when I went to see him that first day and Ive never seen another bill so I --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- I have to say it really works But again I was fortunate because my doctor agreed to be in it Uh if youve been going to doctor for you know ten years or something and he elects not to join it can be very stressful for --",
+                "label": "+"
+            },
+            {
+                "text": "Yes",
+                "label": "aa"
+            },
+            {
+                "text": "-- you know those people",
+                "label": "+"
+            },
+            {
+                "text": "Thats right yeah Im Im fairly young myself Ive only been - when I first started working which - three years ago is when I first got into full time employment --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh at that time I immediately joined the and I never really - so the only doctor I Ive kind of consistently had has been through the and uh --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- you know for me its worked out real good",
+                "label": "+"
+            },
+            {
+                "text": "Right but if you you know have family and and um everybodys gone to different doctors uh it is hard to give up somebody who you feel knows you and your body and your just has you know all the medical history and you feel comfortable with it",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I Im sure it would be very stressful and my husband and I have just elected that if that happens I will go and just pay You can continue to go to your own doctor --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "-- but your benefits are not as you know good so uh -",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Yeah um like you you mentioned you work for school system I work for uh Georgia Tech in the --",
+                "label": "b^r"
+            },
+            {
+                "text": "Oh all right",
+                "label": "b"
+            },
+            {
+                "text": "-- research branch and I guess another one that that I rank up there high is the uh kind of job flexibility and time off um I enjoy as benefit",
+                "label": "+"
+            },
+            {
+                "text": "I do too Are you talking about like Spring Break and -",
+                "label": "aa"
+            },
+            {
+                "text": "Right --",
+                "label": "na"
+            },
+            {
+                "text": "Right",
+                "label": "b^m"
+            },
+            {
+                "text": "-- yeah getting lot of breaks --",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "aa"
+            },
+            {
+                "text": "-- between quarters and that and having lot of vacation",
+                "label": "+"
+            },
+            {
+                "text": "It it really um - I dont think most of our teachers - now Im not teacher I am secretarial executive assistant but I dont think the teachers could stand the stress all all year long --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- frankly It is just Texas has really um you know - they want everybody educated no matter what it costs uh and it it would be just - we all look forward to - like in two weeks we have Spring Break and --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "-- I dont know who looks forward to it more the students or the teachers and the staff",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "What do you do there",
+                "label": "qw"
+            },
+            {
+                "text": "Well um Im not actually on the teaching faculty but we have large research organization associated with the university and thats who I work with",
+                "label": "sd"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "Um and were given you know good bit of flexibility in what we do We can kind of pursue our own interests in terms of the research areas that we study",
+                "label": "sd"
+            },
+            {
+                "text": "Well thats good Yeah I would think that that type of employment youre youre one day you might be really tuned in and the next day oh little luke warm or something --",
+                "label": "ba"
+            },
+            {
+                "text": "Right",
+                "label": "aa"
+            },
+            {
+                "text": "-- and um its good that they allow you that",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "aa^r"
+            },
+            {
+                "text": "It um - as I say the schools - now we do have to work you know the day but we do get many days off and uh we all look forward to it",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Thats the only reason I work there is that my children now have graduated and graduated from college but at the --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- time I worked there because my hours and days were the same as theirs --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh Ive just continued to uh stay there",
+                "label": "sd"
+            },
+            {
+                "text": "Are there are there any things that that youd like to see changed in terms of the the benefits",
+                "label": "qy"
+            }
+        ]
+    }
+]

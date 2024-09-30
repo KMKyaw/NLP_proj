@@ -1,0 +1,263 @@
+[
+    {
+        "conversation_id": "conv_3696",
+        "turns": [
+            {
+                "text": "Hi",
+                "label": "fp"
+            },
+            {
+                "text": "Hi Im Carol and Im calling from Garland Texas",
+                "label": "fp"
+            },
+            {
+                "text": "Yeah this is - Im in Dallas",
+                "label": "b"
+            },
+            {
+                "text": "Oh okay Because yesterday I talked to someone upstate Im not even sure where and my husband talked to the people in Utah so Um anyway let me press one",
+                "label": "bk"
+            },
+            {
+                "text": "Okay",
+                "label": "aa"
+            },
+            {
+                "text": "Okay um let me see I think weve only planned one family reunion in our life so --",
+                "label": "b"
+            },
+            {
+                "text": "I -",
+                "label": "%"
+            },
+            {
+                "text": "-- we dont do this too often Um most of my familys in California but my husbands is in San Antonio and so we did this in San Antonio and um it was an experience that I I wont do again",
+                "label": "+"
+            },
+            {
+                "text": "How big family do you have",
+                "label": "qw"
+            },
+            {
+                "text": "Um well it wasnt that big of family but um it just got out of hand and um so many people were coming that we were trying to figure out how much food we were going to need and and um how much um beverages we were going to need and this and that and oh it just grew and grew and grew and um when the time came only about half that amount of people came So it wasnt you know - you have to really just get an accurate amount and - but overall we all had good time We saw people we hadnt see in while so -",
+                "label": "sd"
+            },
+            {
+                "text": "Did you have people coming from far away",
+                "label": "qy"
+            },
+            {
+                "text": "No It was all in the San Antonio area",
+                "label": "nn"
+            },
+            {
+                "text": "Well sometimes",
+                "label": "%"
+            },
+            {
+                "text": "But it it just kept growing and growing and growing and growing and were going Oh my gosh So -",
+                "label": "sd"
+            },
+            {
+                "text": "Well you have you have - the family lives too close together they see each other too often --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh basically",
+                "label": "aa"
+            },
+            {
+                "text": "-- they dont take that kind of thing seriously",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And if uh --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- uh they come from far away its uh it it they take it more seriously and -",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh I think youre right",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "My familys not very big but uh were kind of -",
+                "label": "sd"
+            },
+            {
+                "text": "Your familys from where",
+                "label": "qw^d"
+            },
+            {
+                "text": "Well I have brother lives in Indianapolis sister lives in Chicago and my folks live back in Buffalo New York",
+                "label": "sd"
+            },
+            {
+                "text": "Oh no",
+                "label": "ba"
+            },
+            {
+                "text": "Uh I guess we have reunions about once year or so",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "We got together over Christmas My wifes family theyre theyre all in - most of them are in upstate New York They have regular uh regular family reunions every summer",
+                "label": "sd"
+            },
+            {
+                "text": "Oh those are nice",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah it is -",
+                "label": "aa"
+            },
+            {
+                "text": "And Im Im sure theyre lot more organized too because theyve done it before",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah and its its just something that they they plan on doing every summer They just have --",
+                "label": "aa"
+            },
+            {
+                "text": "Thats great",
+                "label": "ba"
+            },
+            {
+                "text": "-- weekend picnic and every year everyone asks --",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- when is it happening and where is it happening --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and they just plan on being here",
+                "label": "sd"
+            },
+            {
+                "text": "That makes big difference too I know everybodys real eager to participate Yeah well thats great",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah they they had family reunion for uh well for my mother-in-law at her seventy-fifth birthday and they managed to get just about everybody everybody into town uh last November --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- including number of people from out in California",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "So it was it was good it uh --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- it worked out very well One in- interesting thing that they did at the time is they um they videotaped the the whole shebang --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- which it made nice remembrance of of the entire party",
+                "label": "+"
+            },
+            {
+                "text": "Yeah more people want to come back again",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah they want to come back",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah thats good",
+                "label": "b"
+            },
+            {
+                "text": "So so that that works pretty well that way",
+                "label": "sd"
+            },
+            {
+                "text": "My uh my grandmother in California is um - this is my dads part side of the family is planning reunion um this spring but we wont be going because um I dont know how they thought of this its going to be on cruise and um it seems like most of the family is uh going you know all the nieces and all the grandchildren and all that are most of them are going but its too costly for us But anyway theyre going to go on cruise and um it sounds really neat it really does",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I I can go for that What - what do - I guess interesting if you had very extended family that that kind of involved lot of people that --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- cousins and things that you dont really know that youve never met itd be interesting to meet lot of those people",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Uh I dont know how you would go about uh getting them together but that that would be uh -",
+                "label": "sd"
+            },
+            {
+                "text": "And friend of mine um she plans her family reunion um every year and they go camping and she says they have the greatest time and she says usually everybody shows up in exception to maybe one person but she said they all go camping and they have really good for the whole weekend - So thats -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I kind of wonder what what kind of tradition were going to establish for our family I had hoped that our our kids get together at least regularly",
+                "label": "b"
+            },
+            {
+                "text": "Yeah yeah Right now we only have two children so I -",
+                "label": "b"
+            }
+        ]
+    }
+]

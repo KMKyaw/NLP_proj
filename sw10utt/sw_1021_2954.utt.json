@@ -1,0 +1,899 @@
+[
+    {
+        "conversation_id": "conv_2954",
+        "turns": [
+            {
+                "text": "Okay",
+                "label": "o"
+            },
+            {
+                "text": "Have you ever uh organized family reunion",
+                "label": "qy"
+            },
+            {
+                "text": "Uh no I have never organized one But we are we have one uh we are going to have one on Memorial Day I guess",
+                "label": "nn"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "They have had one the last two years We go out to the my dads farm and uh and you know it is just picnic and spend the night",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Go fishing and stuff --",
+                "label": "+"
+            },
+            {
+                "text": "How many --",
+                "label": "qw"
+            },
+            {
+                "text": "-- like that",
+                "label": "+"
+            },
+            {
+                "text": "-- people usually show up",
+                "label": "+"
+            },
+            {
+                "text": "Oh about ten",
+                "label": "sd"
+            },
+            {
+                "text": "Oh it is not that big",
+                "label": "sd"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "Because",
+                "label": "sd"
+            },
+            {
+                "text": "It -",
+                "label": "%"
+            },
+            {
+                "text": "uh we have had sort of weekends like that too But I never thought of it really as reunion",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I sort of think of reunion with my uh all the extended family",
+                "label": "sd"
+            },
+            {
+                "text": "Everybody yeah",
+                "label": "^2"
+            },
+            {
+                "text": "Yeah That would be hard for us because most of the family is out in California And some is in New York --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and North Carolina and it gets - it is kind of hard to get ev- get everybody organized Uh is there someone - do you all just sort of chip in and help out with stuff when you are there Or -",
+                "label": "+"
+            },
+            {
+                "text": "Uh yes Yeah My my uh dad has house out there anyway",
+                "label": "ny"
+            },
+            {
+                "text": "And there is there is uh - he keeps - uh food out there",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "year round So so he does not live there though",
+                "label": "+"
+            },
+            {
+                "text": "Uh no It is it is it is like country country home",
+                "label": "nn"
+            },
+            {
+                "text": "Vacation home",
+                "label": "bf"
+            },
+            {
+                "text": "uh-huh",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah It sounds nice Uh are there kids that are there too or mostly adults",
+                "label": "b"
+            },
+            {
+                "text": "Yeah The grandchildren -",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Just few It just depends uh uh all my grandparents are dead so uh there is there are not you know none of them are there And and uh then an uncle is dead So --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- the the big family is lot smaller that it used to be",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh Are you all located in Texas",
+                "label": "b"
+            },
+            {
+                "text": "Uh yeah We are in we are all uh - like they live up in Sherman It is near Lake Texoma",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And -",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh Yeah",
+                "label": "b"
+            },
+            {
+                "text": "uh all of his children live in the Dallas area too So -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah That to me is - yeah Dallas I know of Houston I know of and that is about it",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "In Texas The rest of it is sort of big void to me",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But uh you know we have uh well - we all got together it was about two years ago for - I was - I had graduated from college And uh I was going to live in France for year And so my parents invited - it was not just family it was friends too But uh we all got together for just party And that was kind of fun",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Nice to have everybody together at once and things like that",
+                "label": "sd"
+            },
+            {
+                "text": "French reunion",
+                "label": "qy^d"
+            },
+            {
+                "text": "Well",
+                "label": "nd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "not quite French but uh it was sort of reunion before leaving It was fun It was on uh New Years Day So it was almost celebration of the new year too at the same time",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Yeah It was kind of fun But uh but who was it friend of mine had big family reunion couple of years ago and you know everybody flew in from all over the place for the weekend And it really sounded like it was fun But I am not quite sure what I would do I think it would be fun to like rent big mansion or house someplace and have everybody meet someplace where they do not really know",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And have different areas to explore and things like that",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So that would be kind of fun",
+                "label": "sd"
+            },
+            {
+                "text": "Meet in the middle",
+                "label": "^2@"
+            },
+            {
+                "text": "Yep",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "+@"
+            },
+            {
+                "text": "Where nobody lives",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "But at least that way it is at nobodys house so nobody one no one person is responsible for everything",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah And they do not have to clean up afterwards",
+                "label": "b"
+            },
+            {
+                "text": "Yep",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "That is for sure The cleaning up can be mess",
+                "label": "ba"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But uh do you have horses or anything at your dads farm",
+                "label": "qy"
+            },
+            {
+                "text": "I am I am sorry",
+                "label": "br"
+            },
+            {
+                "text": "Does does your dad have horses there",
+                "label": "qy"
+            },
+            {
+                "text": "Uh no he does not really have any any uh uh domestic livestock anyway",
+                "label": "nn"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But he leased uh to his neighbor for the cattle to feed on",
+                "label": "sd"
+            },
+            {
+                "text": "I see so its - so he really does use it as vacation home It is not like farm that he has somebody else run for him or something like that",
+                "label": "bk"
+            },
+            {
+                "text": "Yeah Pretty much He has garden and uh lot of fruit trees --",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and blueberry bushes and things",
+                "label": "+"
+            },
+            {
+                "text": "Well that sounds nice Do people actually pick the fruit and things",
+                "label": "ba"
+            },
+            {
+                "text": "uh-huh And then there is wild blackberries there too",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "Yeah I used to",
+                "label": "b"
+            },
+            {
+                "text": "he gets -",
+                "label": "%"
+            },
+            {
+                "text": "we used to go pick wild blackberries at my friends property but we never got enough I used to make jam but I never had enough to really make you know more than jar or something",
+                "label": "+"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "So it was not so worth it",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah It is kind of theyre kind of off and on it seems like",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Depends on the rain",
+                "label": "sd"
+            },
+            {
+                "text": "That sounds - is - does he have lot of land to go walking --",
+                "label": "ba"
+            },
+            {
+                "text": "Uh",
+                "label": "%"
+            },
+            {
+                "text": "-- around and things there",
+                "label": "+"
+            },
+            {
+                "text": "it is uh it is uh eighty acres",
+                "label": "na"
+            },
+            {
+                "text": "Well that is pretty big",
+                "label": "ba"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I do not know how they do scale down there You know here it would be huge amount of land",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Because they - per- is - this house here that has lot of space is three or four acres",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "As opposed to --",
+                "label": "+"
+            },
+            {
+                "text": "And uh -",
+                "label": "%"
+            },
+            {
+                "text": "-- tens of acres",
+                "label": "+"
+            },
+            {
+                "text": "and most of it you know - you just spend time on maybe ten acres of it",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh because that is where the ponds are and where everybody fishes",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "We kind of have an informal contest My uncle uh put some bass in uh his pond few years ago Well he put some crappie too But the bass - we have not been able to catch any of the adult bass yet So -",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "they are in there but they are real spooky",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I think my dad put some We have little pond at our at his vacation home too And - - I mean really little",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And they were having problems with too many goldfish because we had put some goldfish in and there were too many little goldfish and so the big ones never got bigger",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "And uh somebody suggested to get bass",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And so they went fishing and caught bass near some place and put it in there and never saw it again",
+                "label": "sd"
+            },
+            {
+                "text": "Never saw the bass",
+                "label": "qy^d"
+            },
+            {
+                "text": "No",
+                "label": "nn"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "So we do not know whether it is living or -",
+                "label": "sd"
+            },
+            {
+                "text": "Oh it is probably in there just burping goldfish",
+                "label": "sv"
+            },
+            {
+                "text": "Yep",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "We still have lots of little goldfish They propagate pretty well those little fish",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "they really do",
+                "label": "sd"
+            },
+            {
+                "text": "because we started - we have got hundreds in there now and we started with I think ten or twenty little feeder fish that I picked up for dollar you know",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "ma- no matter how many it was for dollar And",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and some of them are probably eight inches long But he wants your really big ones you know the ones that get to be like foot and half long",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "And -",
+                "label": "%"
+            },
+            {
+                "text": "yeah",
+                "label": "b"
+            },
+            {
+                "text": "It -",
+                "label": "%"
+            },
+            {
+                "text": "They ha- - there is uh - you might put some like some yellow catfish in there I do not know if they would live very well up in New York but they get huge And uh they routinely use them for bait for uh goldfish for bait --",
+                "label": "%"
+            },
+            {
+                "text": "Oh okay",
+                "label": "bk"
+            },
+            {
+                "text": "-- for yellow catfish",
+                "label": "+"
+            },
+            {
+                "text": "Well we would want to put some small ones in so they do not eat the big guys the goldfish too",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But yeah We could see I do not know if yellow catfish live up this way But catfish do I think",
+                "label": "b"
+            },
+            {
+                "text": "Yeah They live in the Mississippi River all the way through Minnesota --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and up into Canada",
+                "label": "+"
+            },
+            {
+                "text": "So that - you mean - well we could try it That is good idea",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Because he was trying to catch them you know using little uh - - - I forget theres little uh nets you can use to catch fish to use as feeder fish and things like that",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Minnow nets or something",
+                "label": "+"
+            },
+            {
+                "text": "Uh",
+                "label": "b@"
+            },
+            {
+                "text": "My father was taking those and trying to catch the goldfish And it was really funny because uh one time he left the net in the pond and he like would put some tuna fish or things in the middle of it to attract the fish",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "+@"
+            },
+            {
+                "text": "And uh he left it in the middle of the pond And that night he came out and the trap was gone",
+                "label": "sd"
+            },
+            {
+                "text": "Uh",
+                "label": "%@"
+            },
+            {
+                "text": "And it was raccoon that had taken it",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "+@"
+            },
+            {
+                "text": "So it was really funny And you could see that you know you could see where the trap the trap was dragged and things like that",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And so -",
+                "label": "%"
+            },
+            {
+                "text": "Yeah That is what happens",
+                "label": "b"
+            },
+            {
+                "text": "But do you guys have fishing competitions while you are there",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah And uh we feed the catfish",
+                "label": "ny"
+            },
+            {
+                "text": "Uh",
+                "label": "%@"
+            },
+            {
+                "text": "They feed the catfish like uh every couple of weeks And uh and sometimes that is the best time to catch them",
+                "label": "sd"
+            },
+            {
+                "text": "When they are feeding",
+                "label": "+@"
+            },
+            {
+                "text": "Yeah Because they will just they will just come after anything then",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And you could catch couple anyway --",
+                "label": "sd"
+            },
+            {
+                "text": "What --",
+                "label": "qw"
+            },
+            {
+                "text": "-- during that time",
+                "label": "+"
+            },
+            {
+                "text": "-- do you feed them",
+                "label": "+"
+            },
+            {
+                "text": "Uh mixed Purina uh it is uh cat food uh catfish food",
+                "label": "sd"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "And it is --",
+                "label": "qy^d"
+            },
+            {
+                "text": "But -",
+                "label": "%"
+            },
+            {
+                "text": "-- especially made for catfish",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Well I do not know how much different it is from dog food but you know",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "it is uh it looks like Purina High Pro Yeah",
+                "label": "+"
+            },
+            {
+                "text": "That is funny",
+                "label": "ba"
+            },
+            {
+                "text": "But they come up to the top And it is the best time to take pictures because they come up to the top and you can see their whiskers come through the water And --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- theyre - the ca- the big catfish just kind of vacuum the top of the water",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh I have never seen catfish you know except in fi- filleted on plate I think maybe I think I have seen once or twice in like the museum",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But I have never seen them just alive someplace That would be fun to see",
+                "label": "sd"
+            },
+            {
+                "text": "Well they are really funny fish",
+                "label": "ba"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "When you catch them they make kind of burping growling sound at you",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And they try to hit you with their tails",
+                "label": "sd"
+            },
+            {
+                "text": "How big do they get",
+                "label": "qw"
+            },
+            {
+                "text": "Oh well the channel catfish get up to uh - I think the world record is fifty some pounds",
+                "label": "sd"
+            },
+            {
+                "text": "Okay But how long in feet",
+                "label": "qw@"
+            },
+            {
+                "text": "Uh",
+                "label": "%"
+            },
+            {
+                "text": "Do you know",
+                "label": "qy"
+            },
+            {
+                "text": "that that is only about three and half feet long",
+                "label": "sd"
+            },
+            {
+                "text": "That is pretty big though",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "they get real fat",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh from the time - they they stay slender until they get to be uh eighteen inches long and then they start to widen --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- out Uh my daughter we were up there one time and my daughter was fishing And I think that was when she was three And she caught catfish by accident She was fishing for sunfish",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And she said Here and she handed me her rod and reel And and uh you know it was just pulling drag out",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And it swimmed wherever it wanted to",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah That sounds amazing I will have to see them sometime But all righty",
+                "label": "b"
+            },
+            {
+                "text": "Okay It was nice talking --",
+                "label": "b"
+            },
+            {
+                "text": "Nice talking --",
+                "label": "fc^m"
+            },
+            {
+                "text": "-- to you",
+                "label": "+"
+            },
+            {
+                "text": "-- to you too",
+                "label": "+"
+            },
+            {
+                "text": "Okay Bye-bye",
+                "label": "fc"
+            },
+            {
+                "text": "Enjoy your uh weekend",
+                "label": "fc"
+            },
+            {
+                "text": "Yeah Have nice Memorial weekend",
+                "label": "fc"
+            },
+            {
+                "text": "Okay You too Bye-bye",
+                "label": "fc"
+            },
+            {
+                "text": "Bye",
+                "label": "fc"
+            }
+        ]
+    }
+]

@@ -1,0 +1,507 @@
+[
+    {
+        "conversation_id": "conv_2344",
+        "turns": [
+            {
+                "text": "Hello",
+                "label": "fp"
+            },
+            {
+                "text": "Hi",
+                "label": "fp"
+            },
+            {
+                "text": "Hi",
+                "label": "fp^m"
+            },
+            {
+                "text": "My names Ken",
+                "label": "fp"
+            },
+            {
+                "text": "Hi Ken my names Diane",
+                "label": "fp"
+            },
+            {
+                "text": "And um youre in Texas right",
+                "label": "qy"
+            },
+            {
+                "text": "Yes Im in San Antonio",
+                "label": "ny"
+            },
+            {
+                "text": "Everybodys in Texas God Im in Rochester New York Everybody else but one has been in Texas",
+                "label": "sv"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Okay well I guess we should get on with this",
+                "label": "b"
+            },
+            {
+                "text": "Okay",
+                "label": "aa"
+            },
+            {
+                "text": "Um did you get the message about what it was right",
+                "label": "qy^t"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "Okay go ahead Im going to hit the button Okay um do you think that the Soviet Union represents threat to us",
+                "label": "bk"
+            },
+            {
+                "text": "I think theyll always represent threat wheth- whether or not theres an active cold war or not Uh its its totally different economy based on different beliefs and and uh different priorities and uh given the the uh military powers on both sides I think its always threat",
+                "label": "sv"
+            },
+            {
+                "text": "Thats interesting I dont I I suspect theyre not our biggest threat anymore",
+                "label": "ba"
+            },
+            {
+                "text": "Probably not no",
+                "label": "aa"
+            },
+            {
+                "text": "I suspect its probably some crazy man like Saddam Hussein --",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- whos our biggest threat but um I wonder if theyre I wonder how much of threat they are I agree with you that that theyll always be somewhat of threat given that they have that theres just its just so big and theres just so much military machine there",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh and and its recognized that the two great powers --",
+                "label": "aa"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- are us and them and and the great powers are always pitted against each other",
+                "label": "+"
+            },
+            {
+                "text": "But I wonder how much longer theyre going to be them",
+                "label": "qw^d"
+            },
+            {
+                "text": "I dont know They theyre going downhill pretty steady",
+                "label": "no"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But I I agree right now theyre not - I dont believe theyre large threat right now I think theres always some threat",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah oh I agree I mean if we were to if if something were to happen Im sure they would all of sudden band together just for the sake of for the sake of uh of of unity against us or something --",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- if if if need be But -",
+                "label": "+"
+            },
+            {
+                "text": "Actually I feel kind of sorry for them right now because the people are are are uh wanting things that we have that theyre not allow- - I mean just some basic freedoms and and their government is not allowing it and Gorbachev seems to be going back on some of the things that hes been trying to push",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah actually I noticed this I mean this this this most recent scare of his where he said or he just decided that instead of having uh instead of having I cant think of the word now if there are any demonstrations for in favor of Boris Yeltsin he decided well Ill just cancel all demonstrations altogether",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So I I I think that he he hes actually - he I think is becoming very dangerous --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- because hes making those people angry at him and hes also I think hes also making um the military angry at him",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I mean Ive heard stories now where the where the um the military is running around and theyre sort of getting restless and restless military is the kind of thing that happens you know - like with the Baltic states when they just go in there -- -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- divvy the people up",
+                "label": "sd"
+            },
+            {
+                "text": "See Im concerned that that since hes banned demonstrations altogether that hes going to do the type of thing that happened in Tiananmen Square and hes going to wipe out no telling how many of his --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- own countrymen uh right in the middle of Red Square and uh its going to cause more civil war than is already occurring",
+                "label": "+"
+            },
+            {
+                "text": "Thats interesting I I wonder I dont know if hes - he he seems - the thing about Gorbachev strikes that he wouldnt be that dumb I dont know though",
+                "label": "ba"
+            },
+            {
+                "text": "I dont know I mean and it it might be something that he wouldnt be able to control",
+                "label": "h^m"
+            },
+            {
+                "text": "Thats that thats something that really true sort of military thing I was speaking of before",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Thats thats certainly true I mean his military may just go out and say Well we just - Gorbachev said you cant do it and were to not let you do it you know So -",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Yeah that thats real scary actually",
+                "label": "b^m"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I mean I I I would expect their own problems would keep them away from us for while but it could be real dangerous",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah weve got our own worries at the moment",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah right we dont need to worry about them",
+                "label": "aa"
+            },
+            {
+                "text": "I guess as long as uh theyre fighting each other we dont have to worry about them wasting their time with us",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah but wouldnt it be nice if no one had to fight anybody else",
+                "label": "aa"
+            },
+            {
+                "text": "Well sure that but thats thats an impossibility I think --",
+                "label": "na"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- given the differences in the world and people are just too different",
+                "label": "+"
+            },
+            {
+                "text": "Well I dont I dont know I think that un- underlying were all pretty probably not as as different as everybody thinks",
+                "label": "ar"
+            },
+            {
+                "text": "But unfortunately people people arent that insightful",
+                "label": "sv"
+            },
+            {
+                "text": "Right Well thats thats certainly true of it",
+                "label": "aa"
+            },
+            {
+                "text": "They just see that this guy prays differently and to someone else than I do So therefore hes wrong and hes bad and we have to wipe wipe him out",
+                "label": "sv"
+            },
+            {
+                "text": "Thats true I was I was discussing with someone before um - this someone before actually one of these calls -- -",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- matter of fact about another topic - but it came up one of these calls -- -",
+                "label": "sd^t"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- matter of fact about um another topic - but it came up one of these this this poem Everything I Wanted to Know I Learned in Kindergarten or something -",
+                "label": "sd^t"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Youve read that one before",
+                "label": "qy^d"
+            },
+            {
+                "text": "No I havent read it Ive heard all about it though",
+                "label": "nn"
+            },
+            {
+                "text": "That this this is the idea that I think is actually very is is what I think we should all revert to The idea that um - basically they said everything happened in kindergarten and in kindergarten we learned to share and we learned to um play with each other we learned to take nap and to take naps and whenever wed start fight wed all apologize and hug each other --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- you know and that would be all If we could just do the same thing sort of with with with everybody else I suspect wed wed be fine",
+                "label": "+"
+            },
+            {
+                "text": "Yes but people grow up and they forget",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah unfortunately",
+                "label": "aa"
+            },
+            {
+                "text": "Well -",
+                "label": "%"
+            },
+            {
+                "text": "Because I often I often sort of wonder how having never been to the Soviet Union um how different the people there really are you know How much",
+                "label": "qw^d"
+            },
+            {
+                "text": "Thats one of the places I would most like to go Not right now of course --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- but at some point I would like to go to Moscow and and to just to see all these things that you can see on television now and can read about that ten years ago we didnt have this kind of information --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- and we didnt know what things were like So -",
+                "label": "sd"
+            },
+            {
+                "text": "I would I would love to go there I mean like again not now but at some point to go see what what this is like I mean this this is amazing because this is this is an this is an example of an entirely different culture that wants to be like us Like you said before so it would be interesting to watch",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I and I the the people I just feel so sorry for the people in the country that they cant I mean they they cant do any- they cant change it They try they and they theres nothing that they can do",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah thats thats - and the ones I even feel somewhat worse for even um - the ones in like the Baltic states --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- where they dont have strong leader then you know - at least at least Russia has some sort of strong leader I mean they have Yeltsin who may who may yet sort of help Russia",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But um I mean the Baltic states I think are just sort of trapped I mean they were taken over couple you know not too long ago --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and then just sort of told well youre here now youre part of our country You be this way Its I think its sad state of affairs but -",
+                "label": "+"
+            },
+            {
+                "text": "Its its probably not dissimilar from the uh what are they the the the Im trying to think of the name of the the something like that in Northern Iraq --",
+                "label": "sv"
+            },
+            {
+                "text": "Oh yeah yeah",
+                "label": "aa"
+            },
+            {
+                "text": "-- who are actually countrymen of - I mean some of them were split off into Israel I believe and some of them are in Turkey --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- when actually they they dont theyre their own people and their beliefs and their own culture system",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And they were split up into three different countries",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Yeah well yeah and that -",
+                "label": "aa"
+            },
+            {
+                "text": "And and theyre very dissatisfied and theyre theyre causing wars right now and I dont think its that different from what the Baltic states are are going through",
+                "label": "sv"
+            },
+            {
+                "text": "Um um um uh actually it sounds very I mean very similar Theyre sort of being they were sort of forced and now they just want to sort of speak up and say Hey we want our piece",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And they have like problem they have Muslims to deal with --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- as well as Saddam Hussein I I mean I think their big problem up there is you know unfortunately - not only are they vic- - theres more than one group fighting for the same place They all want the you know - whereas the Baltics are saying Oh we want our own We just want this little tiny piece of land",
+                "label": "+"
+            },
+            {
+                "text": "Yeah The the one that I think - one of the wom- women that I work for is married to an Iranian and so she has lot of insight because she knows lot of the history --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- of the countries over there and within five or six countries there are probably ten cultures of people",
+                "label": "+"
+            },
+            {
+                "text": "Yes yes",
+                "label": "aa"
+            },
+            {
+                "text": "And thats they dont all have their own country and and some of them are mad about it",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Um actually my wife is Syrian so I I also I know some of the history",
+                "label": "aa"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "And actually the other funny thing is that Im Im Jewish Were sort of like the Middle East peace talks ourselves",
+                "label": "sd"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So we I I know Ive been to Israel and I know and I sort of toured the area and I know that it really is very lots of different cultures in one place I mean --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and its the same thing I thi- its its almost the same thing out out in the Soviet Union right now There you know there are - you cant take whole bunch of people who just arent the same people and dont want to be together and put them together forcibly",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I mean we did it couple of hundred years ago here but they wanted to do it So -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah and I dont think the people here two hundred years ago were that different I really dont",
+                "label": "aa"
+            },
+            {
+                "text": "Thats thats certainly true",
+                "label": "aa"
+            },
+            {
+                "text": "I mean they had the same ideals and the same basic beliefs",
+                "label": "sv"
+            },
+            {
+                "text": "Right uh I wonder I wonder if now the people in the Soviet Union dont have ideas very different from that",
+                "label": "aa"
+            },
+            {
+                "text": "The- the- they might The Baltic states might be feeling the same way that our forefathers felt when they were leaving to come here",
+                "label": "am"
+            }
+        ]
+    }
+]

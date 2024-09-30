@@ -1,0 +1,351 @@
+[
+    {
+        "conversation_id": "conv_4379",
+        "turns": [
+            {
+                "text": "Kathy",
+                "label": "qy"
+            },
+            {
+                "text": "uh-huh Do you -",
+                "label": "ny"
+            },
+            {
+                "text": "So what is your uh family - what do you usually do as far as budgeting",
+                "label": "qw"
+            },
+            {
+                "text": "We have very detailed budget Because my husband is finance major",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And we have you know we have money that we take out each month that we uh you know for food and and for for gas and things like that And then we put aside so much money each month for birthdays and for Christmas and for uh other things",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "Then we take our major purchases we want to make during that year and we budget them into what we call our our needs and wants list",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "And so uh the things that like vacation - We have vacation fund We have fund for the things we need And then for the things that we want",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "And uh and were continually putting into those you know each month how much were going to need and then we know the month that were going to have enough to get that particular item",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "So we very rarely buy anything on credit Everything we buy is paid for",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah My husband is finance major also And uh we kind of have the same plan Uh we have one credit card and every month we put uh you know the same amount in for retirement Uh and we budget were our our new thing to our budget is we just had baby So were budgeting uh each month uh an allowance for his education --",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- starting now",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b^r"
+            },
+            {
+                "text": "So thats in our budget every month now Thats the newest addition But we too do the same thing as far as uh - we have set amount we take oh one big vacation year and then maybe you know three small vacations So we you know an exact amount that we spend on that each year",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And -",
+                "label": "%"
+            },
+            {
+                "text": "Uh we have found that we spend less money if we pull out the money Uh --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- instead of just writing checks for things",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "If we actually pull it out and keep it in safe here",
+                "label": "sd"
+            },
+            {
+                "text": "I see",
+                "label": "b"
+            },
+            {
+                "text": "And we actually pull out the money each month that we want to put in for birthdays that we want to put in for uh the vacation That we put in for Christmas",
+                "label": "sd"
+            },
+            {
+                "text": "Like you have separate account for that then",
+                "label": "qy"
+            },
+            {
+                "text": "Well lot of that uh I dont know how safe it is I guess uh we keep it all in safe here at the house",
+                "label": "h"
+            },
+            {
+                "text": "Oh I see uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And so its actually pulled out Then we keep our -- -",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I see",
+                "label": "b"
+            },
+            {
+                "text": "-- we have savings account for the kids education That money goes into there",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Each of our - we have three children So they each have their own account",
+                "label": "%"
+            },
+            {
+                "text": "I see",
+                "label": "b"
+            },
+            {
+                "text": "That money is put into each month",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Does your husband deal in uh stocks and bonds and mutual funds and all that kind of stuff Th- does he invest in that and --",
+                "label": "b"
+            },
+            {
+                "text": "He does somewhat",
+                "label": "no"
+            },
+            {
+                "text": "-- for long-term",
+                "label": "+"
+            },
+            {
+                "text": "Yeah He does somewhat",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh we have an investment plan Yeah I guess he does",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But uh we have really found - this is the first year weve done it this way And we are really saving lot of money",
+                "label": "sd"
+            },
+            {
+                "text": "Really Because youre youve youve sat down with piece of paper and said well lets see what are we going to - so what goes into that that particular thing Its vacations Christmas",
+                "label": "b"
+            },
+            {
+                "text": "Christmas birthdays uh car maintenance dental medical we just averaged out how much last year we used per month on medical and how much --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- we used on dental and uh and so now when we have to come up with that deductible that our insurance doesnt cover --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- rather than wondering where its going to come from we have it you know",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And when when we see something on sale uh instead of just looking in our checking account and saying well weve got enough and getting it and then when something comes up you know kind of scrimping to pay for medical bill",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "Everythings taken care of And were finding that we even have more money than we thought",
+                "label": "+"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Well you know uh what do you do as far as - I I take it - do you uh run the family budget as far as uh groceries and that sort of thing",
+                "label": "qw"
+            },
+            {
+                "text": "I do uh-huh All the money",
+                "label": "na"
+            },
+            {
+                "text": "uh-huh And how whats that",
+                "label": "b"
+            },
+            {
+                "text": "All the money is turned over to me",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Do you have set amount that that you spend each month or --",
+                "label": "b"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "-- or how do you work that",
+                "label": "+"
+            },
+            {
+                "text": "I have set amount Its very generous and I usually have extra",
+                "label": "sd^e"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And so then that can go uh you know either back into our checking account or I can just carry it over",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "Uh you know there are certain months of the year that youll spend more on food than other months And --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "-- certain times when that will be left over But thats completely up to me how I do that And --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- then uh because I dont work I stay home",
+                "label": "+"
+            },
+            {
+                "text": "I do too I stay home also",
+                "label": "sd"
+            },
+            {
+                "text": "And so its kind of my money and I also get my own money to do what I want to Go to lunches you know and do that kind of thing",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "We have clothing uh envelope for each of the kids and for myself and my husband that we put how much we figure we need each month on clothing",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "It really works out great Were finding that we have lot more money to spend on things like that And were -",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah What what - as far as like big things like something comes up and you have to buy or big item like for the house How - do you have like household",
+                "label": "b"
+            },
+            {
+                "text": "Yes We have household budget Like were going to need to buy bed for my daughter thats coming out of her crib this year",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And also we need new bed And so weve got both of those budgeted and we put certain amount in each month and we know which month well enough saved to go buy those",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "And if we find one on sale before then then we can just take that and put it towards -",
+                "label": "sd"
+            }
+        ]
+    }
+]

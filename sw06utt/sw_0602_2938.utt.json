@@ -1,0 +1,779 @@
+[
+    {
+        "conversation_id": "conv_2938",
+        "turns": [
+            {
+                "text": "All right Do you have bunch of factories and stuff out there",
+                "label": "o"
+            },
+            {
+                "text": "Um weve got quite few actually What were more concerned with is the inner pollution in the city",
+                "label": "na"
+            },
+            {
+                "text": "The uh -",
+                "label": "%"
+            },
+            {
+                "text": "Um weve actually had some warnings in uh Raleigh --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh you mean --",
+                "label": "qy"
+            },
+            {
+                "text": "-- uh on air pollution",
+                "label": "+"
+            },
+            {
+                "text": "-- for like smog and stuff",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh because of there so many cars and we have belt line alo- around Raleigh where were trying to divert traffic",
+                "label": "ny"
+            },
+            {
+                "text": "Huh",
+                "label": "%"
+            },
+            {
+                "text": "And um you know i- its still its just surrounding the city and you can actually see it Theres couple of uh tall buildings --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- in Raleigh and and you can actually you know - theyre blurred theyre even dark and what it is is the pollution",
+                "label": "+"
+            },
+            {
+                "text": "Huh What do you think of that uh the greenhouse effect thats going on",
+                "label": "%"
+            },
+            {
+                "text": "Well I guess thats fluoro- the fluorocarbons --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah --",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh -",
+                "label": "%"
+            },
+            {
+                "text": "-- thats causing the hole in the ozone",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Yeah thats very serious I mean we can were even feeling the effects of the weather from uh uh the shift in the jet stream",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh It it is scary though isnt it",
+                "label": "b"
+            },
+            {
+                "text": "Oh yeah I mean uh the last two uh years our winters have been absolutely nothing",
+                "label": "ny"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "I mean maybe one snow",
+                "label": "sd"
+            },
+            {
+                "text": "Well all right North Carolina Thats up there by Kentucky isnt it",
+                "label": "b"
+            },
+            {
+                "text": "Kentucky",
+                "label": "br^m"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Uh North Carolina is all the way on the east coast",
+                "label": "sd"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "Its further west than Georgia its uh right below Virginia",
+                "label": "sd"
+            },
+            {
+                "text": "Okay Well Kentuckys next to Virginia Im pretty sure Well Im from Kentucky I should know but I dont Im sorry But Kentucky we use to have severe I mean just real cold cold winters --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and wed have three and four feet of snow Course here in Texas they dont have snow they dont know what snow is They freak out when theres snow on the ground",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Originally Im from Texas so I mean Amarillo So uh -",
+                "label": "b"
+            },
+            {
+                "text": "Oh Amarillo",
+                "label": "br^m"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Well thats close to here",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah real close",
+                "label": "aa"
+            },
+            {
+                "text": "How long have you been in Raleigh",
+                "label": "qw"
+            },
+            {
+                "text": "Um Ive been out of Texas about ten years",
+                "label": "sd"
+            },
+            {
+                "text": "Well how old are you",
+                "label": "qw"
+            },
+            {
+                "text": "Oh twenty uh seven I almost forgot my age",
+                "label": "sd"
+            },
+            {
+                "text": "Okay Well were the same age",
+                "label": "bk"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah I forget my age all the time so thats okay Its I think its just something that goes with the territory",
+                "label": "ny"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "But to me Texas see and Kentucky we had to have ice on the ground for them to close school Okay",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "In Texas Im serious if it gets cold and it looks like its going to rain I I swear they close everything down I just laugh I mean I do they get I mean - and traffic slows down to nothing",
+                "label": "sv"
+            },
+            {
+                "text": "Actually theyve been doing the same thing here Its you know its kind of funny they um I guess northerners are different but even uh North Carolinians they dont know how to handle cold weather",
+                "label": "sd"
+            },
+            {
+                "text": "Oh well no northe- - Im from the north thats why I said we in Kentucky we - I dont know you just get used to the weather and of course the people down in south they don- theyre not used to cold weather and stuff and uh",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "it just - I dont know I just laugh every time they have every time they have snow on the ground everythings closed up And you know you can have snow on the ground and not be slick on the road",
+                "label": "+"
+            },
+            {
+                "text": "Thats true",
+                "label": "aa"
+            },
+            {
+                "text": "But uh -",
+                "label": "%"
+            },
+            {
+                "text": "Do you all have much pollution there",
+                "label": "qy"
+            },
+            {
+                "text": "No not really I mean not to see it Now of course theres you know I is here Oscar Mayer --",
+                "label": "nn"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and there is few factories but I dont see much pollution going on",
+                "label": "sd"
+            },
+            {
+                "text": "Well you know what irks me is these cars that are driving down the road",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and you have that black smoke coming from their tail pipe",
+                "label": "sd"
+            },
+            {
+                "text": "Well see they have that um what is it test or something like that they call it",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh",
+                "label": "sv"
+            },
+            {
+                "text": "Well -",
+                "label": "nd"
+            },
+            {
+                "text": "thats supposed to cut down on it",
+                "label": "+"
+            },
+            {
+                "text": "supposedly thats supposed to catch it But Ill tell you what and even these buses oh lord it real bad These buses in Raleigh",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah school buses and the --",
+                "label": "aa"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "aa"
+            },
+            {
+                "text": "-- commercial buses yeah",
+                "label": "+"
+            },
+            {
+                "text": "I mean school buses are notorious",
+                "label": "sv"
+            },
+            {
+                "text": "Well theyre burning that diesel fuel is what it is",
+                "label": "sv"
+            },
+            {
+                "text": "Oh yeah yeah",
+                "label": "aa"
+            },
+            {
+                "text": "And uh it it gets bad",
+                "label": "sv"
+            },
+            {
+                "text": "Well you know what theyve started doing is is instead of the tail pipes being at the bottom of those buses --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- theyve started putting them up at the top and that way it gets above um other cars on the road --",
+                "label": "+"
+            },
+            {
+                "text": "Well thats good idea",
+                "label": "sv"
+            },
+            {
+                "text": "-- and uh it really does make difference although it it settles you know even if its at the top and its lot of black smoke coming out it still settles and and you know if youre going to be jogging on the side of the road thats thats even more miserable I would Id have to go out to the country to jog",
+                "label": "sv"
+            },
+            {
+                "text": "Well uh the you know pregnant women arent supposed to walk along highway --",
+                "label": "sv"
+            },
+            {
+                "text": "No I didnt know that",
+                "label": "ar"
+            },
+            {
+                "text": "-- because of that smoke fumes When I was pregnant with my first little boy I had read it because back then because I was walking back and forth toc- - well not back and forth I was walking home from uh the college I was going to --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- in Kentucky And I was having to walk along the highway It was just one day week But it was in - I I have no sense of smell so I couldnt smell this but it would make me sick and Id be real tired anyway --",
+                "label": "+"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "-- just from walking --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- along the highway",
+                "label": "+"
+            },
+            {
+                "text": "Golly thats thats bad",
+                "label": "ba"
+            },
+            {
+                "text": "But - yeah its - yeah all the exhaust Uh well that was four years ago too its probably lot worse now",
+                "label": "%"
+            },
+            {
+                "text": "Oh Im sure",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Well they um you can really feel it you know in your breathing even normal people and if youre older um I mean you can really deplete your oxygen and itll you know pass out",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and its you know its killed several people",
+                "label": "sd"
+            },
+            {
+                "text": "Do you uh smoke",
+                "label": "qy"
+            },
+            {
+                "text": "Um actually Im very I just smoke one in the evening if that So Im very very light smoker",
+                "label": "na"
+            },
+            {
+                "text": "- yeah its kind of - -",
+                "label": "bk"
+            },
+            {
+                "text": "It was kind of funny They were doing some uh ozone testing and uh th- the and they were just screening some candidates and I dont think Id ever you know do that but they uh asked me if I was smoker and I didnt fit into the smokers category and I didnt fit into the nonsmokers category Um it was you know I was just one of those -- -",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah because you do smoke one day",
+                "label": "b"
+            },
+            {
+                "text": "-- yeah in between people So that kind of threw them off",
+                "label": "aa"
+            },
+            {
+                "text": "Um Uh",
+                "label": "%"
+            },
+            {
+                "text": "But theyre doing lot of research here uh the",
+                "label": "sd"
+            },
+            {
+                "text": "For the air pollution",
+                "label": "qy^d"
+            },
+            {
+                "text": "For ozone and oh yeah all that Theyre theyre real big into it Theyve got Research Triangle Park here and theyre you know theyre just doing lot of uh lot of stuff",
+                "label": "na"
+            },
+            {
+                "text": "Huh But they - I dont hear much about it down here Course Texas we dont have bunch of - pollution",
+                "label": "%"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "But too weve got that air coming in off the coast",
+                "label": "sd"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And you know itd blow it up north",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "So maybe thats part of the reason its not so bad down here",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But no it would seem like it would be the same way in on the California coastline wouldnt it",
+                "label": "ar"
+            },
+            {
+                "text": "Oh gosh I think I would hate to live in California the smog there",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I mean I cant believe they have warnings here which it its mainly just when it gets real real hot",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh But they usually have that everywhere because of the humidity especially",
+                "label": "b"
+            },
+            {
+                "text": "Really - well thats kind of good to know because I thought lord I thought I lived in halfway decent area",
+                "label": "bh"
+            },
+            {
+                "text": "I think they do that for most everybody",
+                "label": "sv"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "I- especially its usually for the young children and the older the old people --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- older old people",
+                "label": "+"
+            },
+            {
+                "text": "Well you ought to come to North Carolina Its big change",
+                "label": "ad"
+            },
+            {
+                "text": "It is",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah There was no trees where I was from in Amarillo and here theyve got the mountains the beach the trees you know its --",
+                "label": "ny"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- theyve got streams rivers ponds its really pretty here",
+                "label": "+"
+            },
+            {
+                "text": "Oh well this is pretty wooded area down here so -",
+                "label": "sd"
+            },
+            {
+                "text": "Is it",
+                "label": "qy"
+            },
+            {
+                "text": "- in lot of parts yeah I know Texas is supposed to be flat but theyve got you know down by the Denison Dam --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- theres lot of uh -",
+                "label": "+"
+            },
+            {
+                "text": "Sherman and Denison do you know my grandparents live in Durant",
+                "label": "sd"
+            },
+            {
+                "text": "They do",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "They live close then",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah real close I go there",
+                "label": "aa"
+            },
+            {
+                "text": "In Durant Oklahoma",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "You go where Uh you go to visit them",
+                "label": "qw^d"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "Yeah we used to go fishing in Lake Texoma",
+                "label": "b"
+            },
+            {
+                "text": "Yeah well down by Lake Texoma theres bunch of wooded area This - but but Kentuckys beautiful Theyve got trees and trees are supposed to you know purify You know what the best indoor purifying plant is for smoke and stuff",
+                "label": "b"
+            },
+            {
+                "text": "Huh- huh-uh",
+                "label": "nn"
+            },
+            {
+                "text": "Its philodendron",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "Its supposed to filter the air for you in your home",
+                "label": "sv"
+            },
+            {
+                "text": "Well Im going to have to get some",
+                "label": "sd"
+            },
+            {
+                "text": "I had one My husband bought it for me when my daughter was born three months four months ago",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Do you smoke",
+                "label": "b"
+            },
+            {
+                "text": "Yeah I do",
+                "label": "ny"
+            },
+            {
+                "text": "Do you",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah I do",
+                "label": "ny"
+            },
+            {
+                "text": "Did you smoke when you when you were pregnant",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah I did I couldnt make myself quit",
+                "label": "ny"
+            },
+            {
+                "text": "Well -",
+                "label": "%"
+            },
+            {
+                "text": "I did cut down lot",
+                "label": "sd"
+            },
+            {
+                "text": "I mean I can understand that actually",
+                "label": "sd"
+            },
+            {
+                "text": "I got I Ive got one vice and smoke is smoking is it",
+                "label": "sd"
+            },
+            {
+                "text": "Well -",
+                "label": "%"
+            },
+            {
+                "text": "I dont I dont drink and I try not to cuss and I do I do very little and smoking I just I got in the habit of it when I was about thirteen",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Well one thing I miss is uh is the people from Texas are are you know - I miss their morals their values and everything Its uh -",
+                "label": "b"
+            },
+            {
+                "text": "Yeah were down here at the Bible belt arent we Uh I wasnt saved until I got down here and people down here are just - theres so many Christians and its so different from Kentucky but -",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh Howd you get involved in this research",
+                "label": "b"
+            },
+            {
+                "text": "Um I worked at I for while but then my brother-in-law works there and he got me into it",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I see Huh",
+                "label": "bk"
+            },
+            {
+                "text": "Howd you get into it",
+                "label": "qw"
+            },
+            {
+                "text": "Um I I was taking voice I class and um and actually doing some research and so they told me about this project",
+                "label": "sd"
+            },
+            {
+                "text": "Well its fun I like talking to new people",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I half the time well couple of times Ive been interrupted by my little girl Ive had to hang up and stuff",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But I enjoy it I talked to people from well - what Carolina now --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "-- up in uh Boston and New York well Boston is New York isnt it No",
+                "label": "+"
+            },
+            {
+                "text": "Uh no Bostons above",
+                "label": "nn^m"
+            },
+            {
+                "text": "Boston Massachusetts",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "aa"
+            },
+            {
+                "text": "But Ive talked to people in New York but Ive talked to lot of people in Texas because I guess its because I - down here",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Ive talked to lot of people in Texas I had one call - actually from Charlotte North Carolina and Virginia and um - I cant remember where all From up north like you said I think one was from Boston",
+                "label": "b"
+            },
+            {
+                "text": "With Boston I love their accent I do I love the Boston acc- accent I met girl from Boston one time My husband was in the service so we went from Kentucky to Louisiana --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- down here to Texas and his familys --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "-- down here Were out of the service now",
+                "label": "+"
+            },
+            {
+                "text": "Oh I bet youre glad",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah he got out of it his unit right after Panama We went to Pana- he went to Panama --",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- when Noriega was doing all that",
+                "label": "+"
+            },
+            {
+                "text": "Oh gosh",
+                "label": "ba"
+            },
+            {
+                "text": "And uh he -",
+                "label": "%"
+            }
+        ]
+    }
+]

@@ -1,0 +1,355 @@
+[
+    {
+        "conversation_id": "conv_2927",
+        "turns": [
+            {
+                "text": "Well Im talking to you from Dallas What part of the country are you in",
+                "label": "sd"
+            },
+            {
+                "text": "Oh boy this is going to be tough Im in Plano",
+                "label": "sd"
+            },
+            {
+                "text": "Well we can uh complain together or swear we can complain together about the humidity",
+                "label": "ad"
+            },
+            {
+                "text": "Exactly I guess the weather hasnt been too different between us",
+                "label": "aa"
+            },
+            {
+                "text": "No I dont think so I wouldnt think yeah I -",
+                "label": "nn"
+            },
+            {
+                "text": "- - what part of Dallas are you from",
+                "label": "%"
+            },
+            {
+                "text": "Far north Dallas",
+                "label": "sd"
+            },
+            {
+                "text": "Oh north Dallas",
+                "label": "b^m"
+            },
+            {
+                "text": "Yeah about half mile from Plano",
+                "label": "aa"
+            },
+            {
+                "text": "Well jeez",
+                "label": "ba"
+            },
+            {
+                "text": "So were in the -",
+                "label": "sd"
+            },
+            {
+                "text": "Well then youve been getting quite bit of rain also",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah its been very very rainy I know Oh --",
+                "label": "ny"
+            },
+            {
+                "text": "How about that How does it compare to the years past",
+                "label": "bh"
+            },
+            {
+                "text": "-- um I dont know I havent lived here lets see we - lived out of state in Wisconsin and we just - - we lived here ten years ago and when we first lived here we - we were in Garland East Richardson",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and um doesnt seem like it was quite as humid",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "And I dont know then we went we lived in uh Madison Wisconsin for five years um for my husbands schooling - graduate schooling and it just - its lot cleaner up there but um its lot colder too",
+                "label": "sd"
+            },
+            {
+                "text": "Huh Well what brought you guys down to Texas then",
+                "label": "b"
+            },
+            {
+                "text": "Uh his job he came back to start work again for different company so said",
+                "label": "sd"
+            },
+            {
+                "text": "How about that",
+                "label": "bh"
+            },
+            {
+                "text": "Here heres - - here we are again",
+                "label": "+"
+            },
+            {
+                "text": "Thats great",
+                "label": "ba"
+            },
+            {
+                "text": "It just seems little more humid than it - I dont ever remember of course you know you only remember the good stuff but um I just dont remember the humidity",
+                "label": "sd"
+            },
+            {
+                "text": "Right Well --",
+                "label": "b"
+            },
+            {
+                "text": "This much rain and this much humidity",
+                "label": "sd"
+            },
+            {
+                "text": "-- definitely Im sure the winters are more mild here",
+                "label": "+"
+            },
+            {
+                "text": "Uh yeah they are Actually though it was lot rainier here in the winter uh we came back last August",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Its just lot rainier than I remember it all th- through the seasons you know",
+                "label": "sd"
+            },
+            {
+                "text": "Sure",
+                "label": "b"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "It seems that progressive - Ive been down here five years just over five years now that every spring and summer seems to get more and more rainy",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah and I think its because its just getting more crowded and more polluted I really do think thats part of it",
+                "label": "aa"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "Um uh in in Wisconsin and Minnesota when they get winters its um th- the winters are bad but not what you hear about Its just like down here when you hear when people here think its hundred and six people up north think its hundred and sixty down here",
+                "label": "sd"
+            },
+            {
+                "text": "hundred and sixty",
+                "label": "b^m"
+            },
+            {
+                "text": "Hundre- - Im making that up",
+                "label": "sd^r"
+            },
+            {
+                "text": "uh-huh right",
+                "label": "b"
+            },
+            {
+                "text": "You know when its only like ninety-five",
+                "label": "sd"
+            },
+            {
+                "text": "Sure",
+                "label": "b"
+            },
+            {
+                "text": "Um its just like up there when you hear its forty below its probably really only five below",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Um and its so dry that its its like going to Ar- - well probably what - Arizona used to be like you know",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "its just dry and cool so its not its not what you think it is",
+                "label": "+"
+            },
+            {
+                "text": "True",
+                "label": "aa"
+            },
+            {
+                "text": "Um no there have been times though when it gets so frigid that you you cant stand it Where did you move here from",
+                "label": "ar"
+            },
+            {
+                "text": "Colorado",
+                "label": "sd"
+            },
+            {
+                "text": "Well there - you could talk about that thats",
+                "label": "%"
+            },
+            {
+                "text": "Oh sure I Im uh",
+                "label": "aa"
+            },
+            {
+                "text": "thats strange state for -",
+                "label": "+"
+            },
+            {
+                "text": "Im very familiar - my grandparents and all my relatives are from Wisconsin",
+                "label": "+"
+            },
+            {
+                "text": "Oh there you go okay",
+                "label": "bk"
+            },
+            {
+                "text": "So Im uh quite familiar with how it is up there and if you - kind of interesting uh the people down here typically dont think it gets above you know fifty degrees",
+                "label": "sd"
+            },
+            {
+                "text": "This is very true",
+                "label": "aa"
+            },
+            {
+                "text": "And its always snow you know but uh -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah right well actually the summers up there we thought were the most beautiful time of the year",
+                "label": "aa"
+            },
+            {
+                "text": "Oh yes",
+                "label": "aa"
+            },
+            {
+                "text": "Um in terms of Colorado I know my husband likes to camp and backpack and all the stuff I dont like um but Id - used to go on - I worked for mortgage company in Wisconsin and I did lot of business in uh um Colo- well Denver and thats thats probably one of the stranger things when you see the air inversions",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and then you go into the mountains and its snowy and col- uh it just was very mixed bag in terms of Colorado",
+                "label": "+"
+            },
+            {
+                "text": "Oh sure My parents just live uh thirty miles south of Denver and it can be sunny and and no problem in Denver and theyll be having snow",
+                "label": "aa"
+            },
+            {
+                "text": "Isnt that strange",
+                "label": "bh"
+            },
+            {
+                "text": "So its pretty amazing it can be that drastic in just short distance",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah and then things like torn- - are there tornadoes in Colorado yes or - I dont -",
+                "label": "aa"
+            },
+            {
+                "text": "Uh its getting to be more and more of possibility",
+                "label": "na"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "It used to be no problem just because it was such rugged terrain and with trees everywhere but now",
+                "label": "sd"
+            },
+            {
+                "text": "The mountains yeah",
+                "label": "bf"
+            },
+            {
+                "text": "as they start to clear more things out",
+                "label": "+"
+            },
+            {
+                "text": "Even I mean - Im originally from Pittsburgh Pennsylvania and I can tell you that um theyve even had - in eastern Ohio and western Pennsylvania theyve even had Im going to say mini tornadoes for lack of better word",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And and thats just part of the country that its rolling hillside That was unheard of you know twenty years ago",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Um so I dont know whats happening if its you know we are the greenhouse I dont really know",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah me neither",
+                "label": "aa"
+            },
+            {
+                "text": "Its just you know",
+                "label": "sv"
+            },
+            {
+                "text": "But -",
+                "label": "%"
+            },
+            {
+                "text": "Its definitely not as um - I know I associate the pollution with weather in general so I guess one thing we do miss is thats smaller town and it - it was - it just seemed little bit more pleasant in terms of the atmosphere you know",
+                "label": "+"
+            },
+            {
+                "text": "Sure sure Well its been good talking to you",
+                "label": "aa"
+            },
+            {
+                "text": "You too",
+                "label": "fc"
+            },
+            {
+                "text": "Good-bye",
+                "label": "fc"
+            },
+            {
+                "text": "Okay",
+                "label": "fc"
+            },
+            {
+                "text": "Good-bye",
+                "label": "fc^r"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc"
+            }
+        ]
+    }
+]

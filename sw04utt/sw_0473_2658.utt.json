@@ -1,0 +1,715 @@
+[
+    {
+        "conversation_id": "conv_2658",
+        "turns": [
+            {
+                "text": "Uh I guess Ive had to return something but Im ca- cant decide mostly its been because I didnt like the color",
+                "label": "o"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "or um Im not sure whether Ive had to return that many things uh",
+                "label": "sd"
+            },
+            {
+                "text": "Well Im having problem right now with computer that weve just returned",
+                "label": "sd"
+            },
+            {
+                "text": "Oh are you",
+                "label": "bh"
+            },
+            {
+                "text": "So for me its actually pretty good topic",
+                "label": "sd"
+            },
+            {
+                "text": "Okay good so well talk about that some",
+                "label": "b"
+            },
+            {
+                "text": "Yeah well we could talk about that and then we could talk bit about um just quality of products in general",
+                "label": "aa"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "if - theyre better or worse like if they last longer or something like that",
+                "label": "+"
+            },
+            {
+                "text": "Okay Im going to let you kind of lead the pack because you sound like youre - I- - let me tell you just little bit about myself I for years I did all that shopping and whatnot but for the last four or five years Ive had eye problem",
+                "label": "aa"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "and Ive had two cornea transplants Shopping is no fun anymore",
+                "label": "sd"
+            },
+            {
+                "text": "I can imagine Well see I dont -",
+                "label": "ba"
+            },
+            {
+                "text": "I cant see good enough you know and uh its hard to tell what Im doing and its just aggrav- -",
+                "label": "sd"
+            },
+            {
+                "text": "You cant read labels and you cant -",
+                "label": "qy^d"
+            },
+            {
+                "text": "Oh I just thought of something we have to return",
+                "label": "sd"
+            },
+            {
+                "text": "Good There you go",
+                "label": "ba"
+            },
+            {
+                "text": "All right It itll come to us okay",
+                "label": "b"
+            },
+            {
+                "text": "Okay",
+                "label": "na^m"
+            },
+            {
+                "text": "Are you ready",
+                "label": "qy^t"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Laurie all right",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "All right uh tell me about your computer Laurie I think that sounds fascinating",
+                "label": "b"
+            },
+            {
+                "text": "Well we bought computer because my husband needed to use it to do some work for consulting project and we called up the company and asked them details on it We bought it sort of your not name brand because the clones are so much cheaper",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And we called up the company that somebody else we knew had dealt with and they were very happy with the system and they felt theyve gotten good price And we went in we explained what we needed and yes we had to go across the George Washington Bridge to New Jersey to get to meet these people",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And so we went there we told them about the stuff and the guy said uh that the computer would fit our needs And we - these things wont make any sense to you probably but he told us there were",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "we need user positions to put our own equipment in the computer",
+                "label": "+"
+            },
+            {
+                "text": "Oh yes",
+                "label": "b"
+            },
+            {
+                "text": "And its called user boards or slots is what its called",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And he told us theres two sixteen bit slots and two eight bit sorry two six- four sixteen bit slots and two eight bit slots available for the user and we can put full size cards in there And so we said great you know well buy it and we put in our order And week later we went back and picked up the computer And then we got it home and tried to put our own board in it and theres only one slot we could put it in",
+                "label": "sd"
+            },
+            {
+                "text": "Oh lovely",
+                "label": "ba"
+            },
+            {
+                "text": "And at this point we only have one board so it wasnt so bad so we used it bit but we tried to figure out whether we could put three in because we really need to be able to put at least three in",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "And -",
+                "label": "%"
+            },
+            {
+                "text": "Oh no the computer was supposed to have two",
+                "label": "ba"
+            },
+            {
+                "text": "Well it has them but the problem is that you cant put the type of card that we need to put in it in it",
+                "label": "nd"
+            },
+            {
+                "text": "Oh I see",
+                "label": "b"
+            },
+            {
+                "text": "And even though they told us in advance that you could they told us there would be no problem because you know",
+                "label": "+"
+            },
+            {
+                "text": "I see",
+                "label": "b"
+            },
+            {
+                "text": "the salesman just doesnt really know",
+                "label": "+"
+            },
+            {
+                "text": "In some ways it has more to do with the people who sold it They probably didnt know what they were talking about",
+                "label": "sv"
+            },
+            {
+                "text": "Right Thats completely it The salesman didnt know",
+                "label": "aa"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "So we went back in and we struck an agreement with the people who said change the casing it comes in so that we could put in extra boards",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "Okay So they did that And we said are you sure this will work we dont want you to go through the work and then find out that this doesnt really work anyway and et cetera and theyre they were doing it at their own costs And so we said fine And we went back and we talked to the person second time and things like that and then we come we get the computer home my husband goes to pick it up last week and we couldnt go get it sooner because I just had the baby and",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "you know lifes just little bit complicated",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh he goes and gets it brings it home first of all theyre missing components of it like cables so you cant really test it out And then second thing we still cant put the boards in",
+                "label": "sd"
+            },
+            {
+                "text": "Oh jeez",
+                "label": "ba"
+            },
+            {
+                "text": "because they have other things blocking where we need to do it",
+                "label": "+"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "And see now were dealing with having to bring it back again and they say they can you know do something different and change some connectors and we hope so but its hassle",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah it really is",
+                "label": "aa"
+            },
+            {
+                "text": "You kn- you know its just this problem with sales people just not knowing what goes on",
+                "label": "sv"
+            },
+            {
+                "text": "Right and and so much time goes past before you finally get any kind of satisfaction",
+                "label": "aa"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "I think thats the worst part I -",
+                "label": "sv"
+            },
+            {
+                "text": "So well actually some things are pretty good with that because I put it on gold credit card and I just called the credit card company and explained to them the situation and they said well you dont have to pay for it yet",
+                "label": "sd"
+            },
+            {
+                "text": "Now thats an advantage isnt it",
+                "label": "qy^g"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "It really is I think uh uh theres lot not to be said for credit but thats one thing to be said for credit It how",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "it gets you some muscle where you need it",
+                "label": "+"
+            },
+            {
+                "text": "Right So and so you know -",
+                "label": "aa"
+            },
+            {
+                "text": "And I think thats really important",
+                "label": "sv"
+            },
+            {
+                "text": "Well because these guys if they um give us hard time were going to say you look you know if if you cant fix this to our satisfaction",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "were just returning the computer",
+                "label": "+"
+            },
+            {
+                "text": "Thats right Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "And if we do that - I just tell the credit card company dont pay the charge",
+                "label": "%"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "even though theyve already paid it",
+                "label": "+"
+            },
+            {
+                "text": "No",
+                "label": "aa"
+            },
+            {
+                "text": "But theyll just you know",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah they will",
+                "label": "aa"
+            },
+            {
+                "text": "undo the credit that they did to them",
+                "label": "+"
+            },
+            {
+                "text": "Thats right They will",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "they will put the kind of clout on them that you cant really do",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And -",
+                "label": "%"
+            },
+            {
+                "text": "We - Hal bought me uh uh small uh well uh uh little jam box kind of thing so Id - my I have my ninety-three year old mother living with us and so I she doesnt remember anything but to keep her entertained music and some of these things do help",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I thought well if I had uh nic- nice little um tape recorder you know so that I could put some good music on in there for her every once in while And then also so that I can uh uh copy uh parts off I I do some musicals and things like this and if I can copy sections off that I can use someplace so I figured well this will be good",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Well the first uh uh the first time I turned it on uh I was recording and the next thing I knew the tape was chewed up in the",
+                "label": "sd"
+            },
+            {
+                "text": "Oh no",
+                "label": "ba"
+            },
+            {
+                "text": "thing Okay so after that then you couldnt get you couldnt get tape to play at the right speed in that side",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And then on the other side when I when I uh I loa- loaned it to my daughter the other day to take it over to uh to uh videotaping they were doing and she says its wrong too because the little thing pokes out too far and so you cant you cant get it to run the right the right way",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "either so uh -",
+                "label": "+"
+            },
+            {
+                "text": "What brand is it Do you know",
+                "label": "qw"
+            },
+            {
+                "text": "Yeah so I I wish I could tell you I really dont know which brand it is Its -",
+                "label": "b"
+            },
+            {
+                "text": "But I was wondering like you know in our case where we knew we were buying copy - we werent buying",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "on I and I was wondering if you -",
+                "label": "+"
+            },
+            {
+                "text": "No I think this is I think this is maybe name brand and I suspect that its probably just fluke you know I have the papers and everything and were going to get just take it back but uh -",
+                "label": "nn"
+            },
+            {
+                "text": "uh-huh Do you buy it at some major store",
+                "label": "b"
+            },
+            {
+                "text": "Yeah I think just uh just uh one of the maj- major I think it was you know I dont I think it was uh you know like Highlands or something like this",
+                "label": "ny"
+            },
+            {
+                "text": "Highlands chain down there that I dont know up here",
+                "label": "b^m"
+            },
+            {
+                "text": "Do they have Highlands up there",
+                "label": "qy"
+            },
+            {
+                "text": "Nope",
+                "label": "nn"
+            },
+            {
+                "text": "Dont they Well this is is was regular uh electronics store you know",
+                "label": "bh"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So I dont think I dont think there will be too much problem but I I guess Im not sure whether I think things are not made as well I think they deliberately sometimes um -",
+                "label": "sv"
+            },
+            {
+                "text": "I think lot of things are not made as well",
+                "label": "sv"
+            },
+            {
+                "text": "Dont you What what for instance what are you -",
+                "label": "bh"
+            },
+            {
+                "text": "Um oh wel- - of course its hard to think of an exact example",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "but I think that um",
+                "label": "%"
+            },
+            {
+                "text": "Thats good theyre getting kind of attitude of",
+                "label": "ba"
+            },
+            {
+                "text": "I jus- -",
+                "label": "+"
+            },
+            {
+                "text": "not -",
+                "label": "+"
+            },
+            {
+                "text": "yeah I just have well I like electronic stuff",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "you know for one thing I know their work you know cars I think are not made",
+                "label": "+"
+            },
+            {
+                "text": "Well -",
+                "label": "%"
+            },
+            {
+                "text": "as well as they could be",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "I think thats right The fact that -",
+                "label": "aa"
+            },
+            {
+                "text": "because I - they want people to replace it after",
+                "label": "%"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "couple of years",
+                "label": "+"
+            },
+            {
+                "text": "The fact that they that they have competition with the Japanese and whatnot sometimes uh dwells on fact that you know uh - Ive had Ive known people who have had Toyotas for years that have had almost no repair work to do on them",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Well they may cost little more but they dont have to take them to the shop every other day",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah I had Toyota and I loved it",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "My Toyota did",
+                "label": "sd"
+            },
+            {
+                "text": "It does the",
+                "label": "sv"
+            },
+            {
+                "text": "really well",
+                "label": "+"
+            },
+            {
+                "text": "it did good job so part of it is that we need to develop more of of pride in in uh the kinds of things we do so we make them better",
+                "label": "+"
+            },
+            {
+                "text": "Good Yeah",
+                "label": "ba"
+            },
+            {
+                "text": "And it kind of has to start from the top and and go clea- or from the bottom maybe and go clear up People -",
+                "label": "sv"
+            },
+            {
+                "text": "Well I think part of the problem comes in sort of shoddy workmanship The people just dont care about",
+                "label": "sv"
+            },
+            {
+                "text": "No",
+                "label": "aa"
+            },
+            {
+                "text": "what theyre doing",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know the whole - nobody cares no nobodys",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "really paying -",
+                "label": "+"
+            },
+            {
+                "text": "Attitude is is just get me my dollar so I can go do what I want to do and on",
+                "label": "sv(^q)"
+            },
+            {
+                "text": "Right give me my paycheck so I can go home",
+                "label": "aa"
+            },
+            {
+                "text": "what Im doing right I think thats too bad And its shame too because uh when you get right down to it most things there isnt any if you do good job nobody can pay you enough There isnt",
+                "label": "sv(^q)"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "any way to get paid enough But if you do good job you feel enough satisfaction so whatever youre paid is enough",
+                "label": "+"
+            },
+            {
+                "text": "Yeah and also I think - well I do research and so Im used to sort of being underpaid for whatever work gets done",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But and you get satisfaction out of it",
+                "label": "sv"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "And",
+                "label": "sv"
+            },
+            {
+                "text": "I think they underestimate how much how much value the satisfaction - is",
+                "label": "sv"
+            },
+            {
+                "text": "But I think lot of it you know I think things come both from the uh individual side and also from the company side because the companies that let give the attitude that well you know - youre the last one hired so youll be the first one fired",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "+@"
+            },
+            {
+                "text": "and we just want you to do your days work",
+                "label": "^q"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and we dont really care about you",
+                "label": "^q"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "as an individual When youve got that type of attitude on it the people dont care",
+                "label": "+"
+            },
+            {
+                "text": "No",
+                "label": "aa"
+            },
+            {
+                "text": "about their work And so -",
+                "label": "+"
+            },
+            {
+                "text": "It probab- it probably basically goes right back into the - home though unfortunately Starts with the one person that you know - and so you need to really work hard at helping your kids to understand that there is value just in work for itself without any pay you know",
+                "label": "sv"
+            },
+            {
+                "text": "Little value just in whatever you do",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah The",
+                "label": "b"
+            },
+            {
+                "text": "Doing good job of it",
+                "label": "sv"
+            },
+            {
+                "text": "the the that the value is in doing it well and -",
+                "label": "+"
+            }
+        ]
+    }
+]

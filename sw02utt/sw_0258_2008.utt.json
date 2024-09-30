@@ -1,0 +1,327 @@
+[
+    {
+        "conversation_id": "conv_2008",
+        "turns": [
+            {
+                "text": "Hi Cynthia What did you wear to work today",
+                "label": "fc"
+            },
+            {
+                "text": "Um lets see What did I wear to work today Um actually I wore corduroy shorts with white blouse um and flat shoes",
+                "label": "^h"
+            },
+            {
+                "text": "So can you dress pretty casually",
+                "label": "qy"
+            },
+            {
+                "text": "Um on occasion",
+                "label": "na"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "On occasion Um I do vary Um you know I wear suits I wear skirts and sweaters On occasion I can wear jeans Um how about you",
+                "label": "+"
+            },
+            {
+                "text": "Well I um run business out of my home",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So I tend to get up in the morning put on",
+                "label": "sd"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "sweats um",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "do whatever I want to do with the kids then whenever I have meeting with client Ill put suit on",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And then come home and get back into regular clothes again",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh Um you know theres real no no real dress code where I work Um you see people wearing you know all different attire I um dont like to wear heels that really tires me out I work in big building",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So I predominantly wear flat shoes Um you know in the winter I wear sweaters in summer I you know I like one piece dresses short sleeves things like that",
+                "label": "sd"
+            },
+            {
+                "text": "Ive recently um tried to update my wardrobe trying to put suits together that I can interchange the",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "jackets and the blouses and all that lot",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Thats helped me lot with having - I can only have limited wardrobe since Im only",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "working part-time right now",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Um but still it gives it some variety",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Add different blouses and scarves and belts and things like that",
+                "label": "+"
+            },
+            {
+                "text": "Right right accessories uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "What about your casual wear Do you like to wear jeans most of the time",
+                "label": "qo"
+            },
+            {
+                "text": "Um yeah mostly I mean at home I predominantly wear sweatpants and things like that",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "also",
+                "label": "+"
+            },
+            {
+                "text": "Its nice you can wear shorts especially on day like today when its so hot",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah well theyre um you know theyre like Ber- -",
+                "label": "b"
+            },
+            {
+                "text": "Dress shorts",
+                "label": "^2"
+            },
+            {
+                "text": "yeah theyre like black corduroy Ber- Bermuda shorts",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And sometimes I wear blazer with them and I get really lot of compliments on them Um where I work is predominantly male",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So you know they - their attire is always the same you know Suits or slacks you know jeans whatever",
+                "label": "%"
+            },
+            {
+                "text": "Yeah but -",
+                "label": "b"
+            },
+            {
+                "text": "And um but Im really the only woman I guess at work that does that but seems to work for me",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah but -",
+                "label": "b"
+            },
+            {
+                "text": "In fact I just bought I I just got new outfit as gift that um - its one of those skorts you know th- - its shorts but it looks like skirt",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So I think thatll be good for work too",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah Itll be comfortable",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Yeah So -",
+                "label": "b"
+            },
+            {
+                "text": "I guess down here uh - we just recently moved to Texas so my wardrobe has changed quite bit",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Um we moved from Colorado where - and I have closet full of sweaters",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "That -",
+                "label": "%"
+            },
+            {
+                "text": "Well see I live in Virginia",
+                "label": "sd"
+            },
+            {
+                "text": "You live in Virginia now",
+                "label": "qy^d"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Oh thats interesting",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah Yeah So Im - you know like right now today was in about you know the fifties",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But um you know I I do wear lot of sweaters and things like sweater dresses",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Id like to be able to wear those here Today its eighty-eight degrees",
+                "label": "b"
+            },
+            {
+                "text": "Oh my",
+                "label": "ba"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Needless to say my sweaters have been hung in the closet for quite while now",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Today was uh definitely shorts day around here",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Yeah were still pretty much you know in winter as far as that goes here",
+                "label": "b"
+            },
+            {
+                "text": "This is pretty un- unseasonal but uh at least we - you know it it it feels good it gets uh - everybody doesnt have cabin fever today Its nice to get",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "out and about",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh I guess weve discussed everything there is about clothing",
+                "label": "b"
+            },
+            {
+                "text": "Okay Sounds good",
+                "label": "b"
+            },
+            {
+                "text": "Okay",
+                "label": "bh"
+            },
+            {
+                "text": "It was nice talking to you",
+                "label": "fc"
+            },
+            {
+                "text": "Okay it was nice talking to you also",
+                "label": "fc"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc^m"
+            }
+        ]
+    }
+]

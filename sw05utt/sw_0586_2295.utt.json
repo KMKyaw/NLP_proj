@@ -1,0 +1,519 @@
+[
+    {
+        "conversation_id": "conv_2295",
+        "turns": [
+            {
+                "text": "All right Well on this subject I really hadnt had to deal with putting someone in there yet but my mothers always been administrator of nursing home --",
+                "label": "o"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- so Ive always been involved you know in one",
+                "label": "sd"
+            },
+            {
+                "text": "How do you feel about them I mean since youve --",
+                "label": "qo"
+            },
+            {
+                "text": "Well Ive",
+                "label": "sd"
+            },
+            {
+                "text": "-- kind of been close to that",
+                "label": "+"
+            },
+            {
+                "text": "Well I can kind of see both sides you know I really can Uh nursing homes to me - I would personally be the last resort --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know I rea- you know if I had to put someone in there",
+                "label": "+"
+            },
+            {
+                "text": "Well Ive had touch of experience My um dad had emphysema and got to the point where mother couldnt --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah if its have to thing yeah I - yeah",
+                "label": "aa"
+            },
+            {
+                "text": "-- take care of him and uh she put him in but he wasnt there very long before he died --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but um I guess um the one time that I saw him there you know as far as the surroundings that seemed okay",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But um we kind of thought that maybe they just wanted to give him some medication to sort of you know --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- keep him real out of it all the time --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and thats always kind of bothered me",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Well I kind of think thats true too I guess because its so under staffed you know -- slash error two utts",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- thats like everything else though",
+                "label": "sv"
+            },
+            {
+                "text": "I have sister-in-law who runs nursing home but Ive never actually been there --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and I know that shes the kind of person who wouldnt allow you know lot of the --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- horror things to take place that you hear about",
+                "label": "+"
+            },
+            {
+                "text": "Yeah but -",
+                "label": "nd"
+            },
+            {
+                "text": "But still --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- Im sure there are you know aspects to it --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- that arent really desirable",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I know Ive always - well my sisters involved in one also and I really think they really do wonderful job But still theres those little things that happens you know --",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- there really is which - I think its wonderful place you know if it comes to that you know if you just cant take care of them any more",
+                "label": "sv"
+            },
+            {
+                "text": "Well sometimes you dont have any other alternative --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh thats it",
+                "label": "b"
+            },
+            {
+                "text": "-- family and friends are usually well --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- familys tied up with --",
+                "label": "+"
+            },
+            {
+                "text": "Other things",
+                "label": "^2"
+            },
+            {
+                "text": "-- their own lives and things and usually working and --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah yeah --",
+                "label": "aa"
+            },
+            {
+                "text": "-- its hard to -",
+                "label": "+"
+            },
+            {
+                "text": "-- but I think when the time comes I I hope to have the time to really look around you know --",
+                "label": "sd"
+            },
+            {
+                "text": "Yes",
+                "label": "aa"
+            },
+            {
+                "text": "-- and pick one that I really think my mother would be happy at",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh I think thats important too in fact --",
+                "label": "b"
+            },
+            {
+                "text": "I do too",
+                "label": "aa"
+            },
+            {
+                "text": "-- theres -",
+                "label": "+"
+            },
+            {
+                "text": "Outsides awful deceiving sometimes --",
+                "label": "sv"
+            },
+            {
+                "text": "Yes",
+                "label": "aa"
+            },
+            {
+                "text": "-- you know",
+                "label": "+"
+            },
+            {
+                "text": "Theres one close to where my mother is but in order to get in you have to be able to um walk in on your own in other words you cant be in you know too bad shape --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- to start out with",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But then if you deteriorate um they have separate section for those who need care --",
+                "label": "sd"
+            },
+            {
+                "text": "Ca- - yeah",
+                "label": "%"
+            },
+            {
+                "text": "-- you know all the time",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But its always well - and they have long waiting list too So theres always this feeling of well golly gee you know youve got to be able to walk in the door so you cant wait until youre too bad off --",
+                "label": "%"
+            },
+            {
+                "text": "Off yeah",
+                "label": "b^m"
+            },
+            {
+                "text": "-- but then you dont want to go do that when you dont have to --",
+                "label": "sv"
+            },
+            {
+                "text": "To no",
+                "label": "b^m"
+            },
+            {
+                "text": "-- because like uh you have to give up your automobile or whatever",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh and everything you worked so hard for all your life --",
+                "label": "b"
+            },
+            {
+                "text": "Yeah --",
+                "label": "b"
+            },
+            {
+                "text": "-- yeah",
+                "label": "%"
+            },
+            {
+                "text": "-- and if youre still capable of driving and doing those things then you feel like well gee Im you know Im isolating myself --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- here for no reason at the moment",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So its kind of thats hard one but it is very nice nursing home",
+                "label": "sv"
+            },
+            {
+                "text": "Now there is some really nice ones Theres also you know some private ones you know --",
+                "label": "ba"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but of course I would never be able to afford to put my parents in something like that you know",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah thats the problem --",
+                "label": "aa"
+            },
+            {
+                "text": "thats way out of my reach",
+                "label": "sd"
+            },
+            {
+                "text": "-- the expense of it all is - and uh what I another thing I hate to see is when someone has small amount of money and they go into one of these places and they just eat it all up immediately",
+                "label": "%"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "But those who dont have money can go in and get the same care",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh --",
+                "label": "b"
+            },
+            {
+                "text": "You know",
+                "label": "+"
+            },
+            {
+                "text": "-- the very same yeah",
+                "label": "aa"
+            },
+            {
+                "text": "So I dont like that aspect",
+                "label": "sd"
+            },
+            {
+                "text": "No but I theres I think theres ways around it though that you know - like they could put it in one of their childrens names or something --",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- you know But still lot of them doesnt feel comfortable doing that You know its their money",
+                "label": "+"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "You know thats how I feel about it anyway",
+                "label": "sd"
+            },
+            {
+                "text": "Well yeah Ive talked to my mother about that several times lately and I I said I want you to have control of your own business",
+                "label": "b"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "But you know what if",
+                "label": "qh"
+            },
+            {
+                "text": "Yeah my mothers seventy now so naturally shes retired but shes still on her own I mean",
+                "label": "b"
+            },
+            {
+                "text": "Yeah yeah my mothers uh seventy-five and still has her own home and everything",
+                "label": "b"
+            },
+            {
+                "text": "I think thats wonderful I really do just as long as they can and then on the other hand Ive seen some people go into the nursing home and just so happy --",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- you know",
+                "label": "+"
+            },
+            {
+                "text": "Thats true They have lot of people around to do things with",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh theyre not lonely",
+                "label": "b"
+            },
+            {
+                "text": "Some of those places have wonderful activities and things you know lots of stuff going on",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yes uh-huh",
+                "label": "aa"
+            },
+            {
+                "text": "And theyll take them places --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- so I dont know its not all bad --",
+                "label": "h"
+            },
+            {
+                "text": "No",
+                "label": "aa"
+            },
+            {
+                "text": "-- but I guess once you get ill then you know you really have some problems if you cant get around --",
+                "label": "sv"
+            },
+            {
+                "text": "Around yeah",
+                "label": "aa^m"
+            },
+            {
+                "text": "-- and do things",
+                "label": "+"
+            },
+            {
+                "text": "But I really dont know what the other solution would be --",
+                "label": "sd"
+            },
+            {
+                "text": "No",
+                "label": "b"
+            },
+            {
+                "text": "-- you know I really dont But no when the time comes Im really hopefully well really look around before I decide on one for my parents --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- really do because I have been raised in one you know so theres lot of things I know to look for",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And I dont think theyd want to go where they used to work either --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- you know I really dont",
+                "label": "+"
+            },
+            {
+                "text": "That might be kind of tough huh",
+                "label": "sv"
+            },
+            {
+                "text": "It really would yes yes and like I said my sisters still in it and I really dont think my motherd want to be there either Oh Well its been nice talking to you",
+                "label": "aa"
+            },
+            {
+                "text": "Well you too",
+                "label": "fc"
+            },
+            {
+                "text": "And I guess wed better get back to work huh",
+                "label": "fc"
+            },
+            {
+                "text": "Okay",
+                "label": "fc"
+            },
+            {
+                "text": "All right Bye-bye",
+                "label": "fc"
+            },
+            {
+                "text": "Bye",
+                "label": "fc"
+            }
+        ]
+    }
+]

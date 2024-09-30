@@ -1,0 +1,459 @@
+[
+    {
+        "conversation_id": "conv_3081",
+        "turns": [
+            {
+                "text": "Okay well I I I guess if I was having dinner party I depending on the number of people I might cook like brisket or roast or maybe chicken dish --",
+                "label": "o"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and um I guess I usually plan probably lettuce salad and potato dish and we usually serve fresh fruit and uh then make dessert",
+                "label": "sd"
+            },
+            {
+                "text": "Oh that sounds good",
+                "label": "ba"
+            },
+            {
+                "text": "So that makes -",
+                "label": "%"
+            },
+            {
+                "text": "Uh were not uh real wealthy at the moment Last time I had people over for dinner we had lasagna and I used my mothers recipe I really like it Its got um - you cook the noodles and make and brown hamburger and put tomato sauce in with it and Im not sure she even puts - must be some Italian spices in there I cant remember But um for the cheese part you mix uh sour cream and cream cheese and cottage cheese --",
+                "label": "sd"
+            },
+            {
+                "text": "Well that sounds good",
+                "label": "ba"
+            },
+            {
+                "text": "-- and uh layer all that Its good",
+                "label": "+"
+            },
+            {
+                "text": "That sounds good",
+                "label": "ba^r"
+            },
+            {
+                "text": "And then uh uh tossed salad and and um Oh - my goodness Diane get down from there And uh lets see what else did I serve with that",
+                "label": "sd"
+            },
+            {
+                "text": "Bread do you have bread to go with it",
+                "label": "qy"
+            },
+            {
+                "text": "Corn yeah I made French bread with that one too",
+                "label": "sd"
+            },
+            {
+                "text": "Gosh",
+                "label": "ba"
+            },
+            {
+                "text": "I have recipe thats pretty good for that So -",
+                "label": "sd"
+            },
+            {
+                "text": "Oh well lasagnas always wonderful for large crowds",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Ive heard you know Ive heard lot of people say it the short cut on the cooking for lasagna they theyve told me that they go to Sams and buy great big pan of lasagna",
+                "label": "sd"
+            },
+            {
+                "text": "Ive heard that Sams has really good lasagna --",
+                "label": "sd"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "-- in fact I think I had it at at party once",
+                "label": "sd"
+            },
+            {
+                "text": "Did you",
+                "label": "bh"
+            },
+            {
+                "text": "It was good",
+                "label": "sd"
+            },
+            {
+                "text": "Well I I know people that have have served it and they say gosh if you have company coming --",
+                "label": "sd"
+            },
+            {
+                "text": "Easy",
+                "label": "^2"
+            },
+            {
+                "text": "-- when you dont want to be always in the kitchen its easy and she said its they said its good",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So that thats always sounds good to me um",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I feel like I feel like Im in the kitchen cooking lot",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I know",
+                "label": "ba"
+            },
+            {
+                "text": "I cook guess I cook seems like I cook lot of dinners oh not always for company just for just for family",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "So feels like Im often in the kitchen",
+                "label": "sd"
+            },
+            {
+                "text": "Not my favorite place but",
+                "label": "sv"
+            },
+            {
+                "text": "But time consuming place",
+                "label": "^2"
+            },
+            {
+                "text": "necessity",
+                "label": "+"
+            },
+            {
+                "text": "Yeah right right so -",
+                "label": "b"
+            },
+            {
+                "text": "Lets see what else do we like to have for - trying to think what else I like to serve My mother likes to serve taco grandes Have you ever had",
+                "label": "^h"
+            },
+            {
+                "text": "I dont know",
+                "label": "no"
+            },
+            {
+                "text": "that",
+                "label": "+"
+            },
+            {
+                "text": "what that is No I dont know what that is",
+                "label": "sd"
+            },
+            {
+                "text": "You take flour tortilla and you fry it like taco --",
+                "label": "sd"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "-- shell --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- and you uh - for all the inside parts you brown hamburger and put some um tomato sauce in it and and I like to just add picante sauce to get the Mexican flavor so you dont have to mess with spices and stuff",
+                "label": "%"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And then um lets see and then and you heat up refried beans and you cut up tomatoes and lettuce and grated cheese and what you do to make it you take the shell and you spread the beans on first then you put the meat then you put the grated cheese and then you put um - lets see whats next then and I I usually put the cut up tomatoes next --",
+                "label": "^h"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- and then the um lettuce and you can put uh like guacamole and - Katy Im on the phone Well get towel or go change Im on the phone Um oh little sour cream is good --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- and and chopped olives",
+                "label": "+"
+            },
+            {
+                "text": "Right Do you like to make your own guacamole",
+                "label": "b"
+            },
+            {
+                "text": "Uh yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah we we dont make it very often I guess but uh -",
+                "label": "b"
+            },
+            {
+                "text": "No I dont very often Usually when we get avocados my kids just like to eat them plain --",
+                "label": "aa"
+            },
+            {
+                "text": "Oh do they",
+                "label": "bh"
+            },
+            {
+                "text": "-- so Yeah",
+                "label": "%"
+            },
+            {
+                "text": "Gosh",
+                "label": "ba"
+            },
+            {
+                "text": "I just cut slices off and",
+                "label": "sd"
+            },
+            {
+                "text": "Gosh",
+                "label": "ba"
+            },
+            {
+                "text": "I like an avocado sandwich too",
+                "label": "+"
+            },
+            {
+                "text": "Oh thats good thats good or its always good on top of something in the sandwich",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "Oh well we made I made guacamole that I would take to pool party across the street the other day and and everyone there said they never made guacamole salad",
+                "label": "sd"
+            },
+            {
+                "text": "What you want wh- where do they get it",
+                "label": "t3"
+            },
+            {
+                "text": "Well I dont know I guess they dont have it at home",
+                "label": "sd"
+            },
+            {
+                "text": "I cant imagine it would stay fresh long enough to - I guess they just buy it at restaurant when they eat it at restaurant maybe",
+                "label": "sv"
+            },
+            {
+                "text": "They must they just said they never had it at home So I I was concerned that I thought oh taking this you know taking this as dip I thought gosh you know sometimes when we have it at home it it turns dark on the top --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- so quickly so I just -",
+                "label": "+"
+            },
+            {
+                "text": "It helps if you I helps if you leave the pit in it",
+                "label": "sd"
+            },
+            {
+                "text": "Oh does that help",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah if you leave the pit in the bowl with the thing especially while youre waiting before you serve it",
+                "label": "ny"
+            },
+            {
+                "text": "Okay well -",
+                "label": "b"
+            },
+            {
+                "text": "Thats supposed to help keep the um keep it from turning brown so quick",
+                "label": "sd"
+            },
+            {
+                "text": "Well Ill have to remember that Well I just I that day I just took extra lemon and just squeezed across the top and it really stayed longer than I --",
+                "label": "cc"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- ever thought it would so -",
+                "label": "+"
+            },
+            {
+                "text": "Oh thats good",
+                "label": "ba"
+            },
+            {
+                "text": "I thought maybe that was the trick",
+                "label": "sd"
+            },
+            {
+                "text": "That probably helps too",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah yeah so Oh well I guess we bought lot of - weve been buying turkey lately instead of beef so -- -",
+                "label": "b"
+            },
+            {
+                "text": "Do you want it",
+                "label": "t3"
+            },
+            {
+                "text": "-- even though you know -",
+                "label": "%"
+            },
+            {
+                "text": "Oh yeah we have too",
+                "label": "b"
+            },
+            {
+                "text": "the ground turkey its the meat is softer and I - everybody --",
+                "label": "sd"
+            },
+            {
+                "text": "Do you want scrambled",
+                "label": "t3"
+            },
+            {
+                "text": "-- seems to like it So Sometimes it seems to be cheaper too so we --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- often buy it --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah --",
+                "label": "b"
+            },
+            {
+                "text": "-- we buy it",
+                "label": "sd"
+            },
+            {
+                "text": "-- if you get it on sale",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah yeah so we bought that or we bought the the filets and then the chicken or turkey nuggets and I dont think anybody in my house knows the difference unless you tell them",
+                "label": "b"
+            },
+            {
+                "text": "Yeah yeah --",
+                "label": "b"
+            },
+            {
+                "text": "Or in -",
+                "label": "%"
+            },
+            {
+                "text": "-- I dont think mine know either In fact weve been getting lunch meat thats turkey too It costs less than the other I dont know theres supposed to be something more healthy about it",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "Poultry instead of the beef and --",
+                "label": "sd"
+            },
+            {
+                "text": "Less cho- less cholesterol",
+                "label": "sd@"
+            },
+            {
+                "text": "-- pork yeah",
+                "label": "+"
+            },
+            {
+                "text": "Yeah right right Well I guess thats probably all we need to do for tonight",
+                "label": "+@"
+            },
+            {
+                "text": "Yeah I I cant think of any other specific things I like to serve Um",
+                "label": "aa"
+            },
+            {
+                "text": "I always like dessert",
+                "label": "sd"
+            },
+            {
+                "text": "One salad that we always like my sister-in-law always brings to family dinners is - I dont know what you call it Uh you mix um cottage cheese and package of jello and thing of uh like Cool Whip --",
+                "label": "sd"
+            },
+            {
+                "text": "Right right --",
+                "label": "b"
+            },
+            {
+                "text": "-- thats good --",
+                "label": "sv"
+            },
+            {
+                "text": "-- thats always good",
+                "label": "ba"
+            },
+            {
+                "text": "-- and quick and easy",
+                "label": "+"
+            },
+            {
+                "text": "Probably probably the only family recipe that we we make and its really for special occasions is cheese cake and we take recipe from my grandmother you know --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- its probably fairly typical cream cheese and egg and sugar and the insides of -",
+                "label": "sd"
+            }
+        ]
+    }
+]

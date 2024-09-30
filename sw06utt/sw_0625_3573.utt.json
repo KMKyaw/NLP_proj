@@ -1,0 +1,239 @@
+[
+    {
+        "conversation_id": "conv_3573",
+        "turns": [
+            {
+                "text": "Okay well -",
+                "label": "o"
+            },
+            {
+                "text": "There we are",
+                "label": "sd"
+            },
+            {
+                "text": "All right Um um well uh tell me about the car that youve got",
+                "label": "b"
+            },
+            {
+                "text": "Well I have Honda um hatchback nineteen eighty-four",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I had hatchback nineteen seventy-eight version before this one",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "And uh Ill be honest with you I have never found any automobile that has been more conscientiously constructed and and uh put together and it it does its job All I have to do on my Honda is change the oil and the filter every thirty-five hundred miles and I I did have to put two two new front tires on at fifty thousand miles but that car just purrs like the day it was built I get forty-two miles per gallon on the highway and uh twen- twenty-eight to thirty driving around in town Its five speed straight stick machine",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "And I can carry more in that uh that trunk area in my little Honda than I can in the big cars and I have large um Pontiac and I have sixty-nine Cougar which really is Im saving because its its old but its in beautiful shape",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But I can carry as much in my Honda or more than I can in in those other bigger cars",
+                "label": "sd"
+            },
+            {
+                "text": "Well thats very interesting Ive had Ive had exactly the same experience with the one that Ive got Its - and surprisingly its also an eighty-four --",
+                "label": "ba"
+            },
+            {
+                "text": "Oh oh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh - Yeah Im still here Um Im sorry what",
+                "label": "%"
+            },
+            {
+                "text": "It was an",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yes its an its not hatchback but its um its uh -",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh yours is four door",
+                "label": "b"
+            },
+            {
+                "text": "Four door yeah --",
+                "label": "na^m"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and very very comfortable car Big roomy trunk --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- uh and uh and very happy with it and I must admit its you know - if if if uh - my only consideration were were you know buying another car just to tool around town in and make you know brief trips and things like that I would very very seriously consider buying one Uh I think theyre extraordinarily reliable cars",
+                "label": "sd"
+            },
+            {
+                "text": "Yes they are",
+                "label": "aa"
+            },
+            {
+                "text": "Um my my real concern with uh uh why Im not sure I want to buy Honda is because I have to make kind of steady um trip down the road about once month because Im divorced and I have daughter that lives down in North Carolina --",
+                "label": "sd"
+            },
+            {
+                "text": "Um uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh I drive down Interstate Ninety-five and its just an absolutely wild highway",
+                "label": "sd"
+            },
+            {
+                "text": "Ninety-five is wild in any car Theres no doubt about that --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah and -",
+                "label": "b"
+            },
+            {
+                "text": "-- because I I I run over to Crystal City or used to Im retiring the end of this month --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but Im very much aware of the crazy driving that goes on over there",
+                "label": "sd"
+            },
+            {
+                "text": "And you well youve got it and uh so having precious cargo in the car with me as you can well imagine its very hard for me to imagine that that uh Hondas going to be as safe car as as the one that Ive got my eye on which is Volvo",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "In in fact quite frankly Ive owned Volvo in the past and --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh Ive Ive - theyre expensive cars to keep up when they need service but uh Ive found that Ive had lot of luck with them Uh course Im mechanically inclined kind of person and I always wind up getting under the hood and finding out all the things that you know need to be taken care of and so forth And I guess thats one thing that that recommends the Honda to lot of people is is theres just very little that you have to do under the hood and uh -",
+                "label": "+"
+            },
+            {
+                "text": "Yes it just just sits there and purrs and you all you got to do is the main major thing of changing that oil and that filter I get six hundred miles on tank of gas",
+                "label": "aa"
+            },
+            {
+                "text": "Oh I know Its really amazing",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Its uh -",
+                "label": "sv"
+            },
+            {
+                "text": "Beautiful beautiful machine",
+                "label": "^2"
+            },
+            {
+                "text": "Absolutely incredible So um yeah anyway Ive been looking at the prices of these cars and and so forth and I think that its its very surprising some of these very expensive Volvos can be gotten for lot less money than you would think if youre --",
+                "label": "aa"
+            },
+            {
+                "text": "Is that right uh-huh",
+                "label": "bh"
+            },
+            {
+                "text": "-- willing to buy ones that are about the vintage of the cars that you and I currently own --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and um -",
+                "label": "%"
+            },
+            {
+                "text": "Well brand new Volvo costs what thirty thousand dollars",
+                "label": "qy^d"
+            },
+            {
+                "text": "Well certainly some of the top end ones You can still get get uh even the the low end wagons um for less than twenty thousand dollars --",
+                "label": "na"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh we get you know - in the Washington area of course being as affluent as it is there are lots and lots of Volvo dealerships down here --",
+                "label": "sd"
+            },
+            {
+                "text": "Um uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- so therere lots and lots of them available in the paper at any any week and I sort of you know scan the paper and look at them and so forth and --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- so um anyway and thats thats the other thing is that Ive Ive never really been too terribly much of new car person I think Ive bought one or two new cars in my life and Ive tended to um to uh buy cars that are you know two or three and sometimes even four and five or six years old This Honda that I have I bought used and in fact it had an extraordinarily low amount of mileage on it Ive just rolled seventy thousand miles and its seventy-four I mean an eighty-four So -",
+                "label": "+"
+            },
+            {
+                "text": "Well my my eighty-four just has seventy-seven on it --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and Ive made many trips to Washington and down to Virginia Beach Virginia where my mother lives and things like that and I drive it",
+                "label": "sd"
+            }
+        ]
+    }
+]

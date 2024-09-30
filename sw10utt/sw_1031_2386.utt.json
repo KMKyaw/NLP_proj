@@ -1,0 +1,779 @@
+[
+    {
+        "conversation_id": "conv_2386",
+        "turns": [
+            {
+                "text": "Well Patricia I was just about to get on my tread mill and then I remembered that I didnt make call last night and I thought Id make one tonight",
+                "label": "sd"
+            },
+            {
+                "text": "Well I have an exercise bicycle in my bedroom but it usuallys holding clothes",
+                "label": "sd"
+            },
+            {
+                "text": "Thats what I did with mine for long time put it on the handlebars so I can hang them up",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And sometimes she just flops them all over the seat",
+                "label": "sd"
+            },
+            {
+                "text": "Well thats not why I got it right How do you like your tread mill",
+                "label": "sd"
+            },
+            {
+                "text": "I like it",
+                "label": "sd"
+            },
+            {
+                "text": "You dont get - is it less boring than the bicycle or not",
+                "label": "%"
+            },
+            {
+                "text": "No its just as boring",
+                "label": "nn"
+            },
+            {
+                "text": "You watch or something while you do it",
+                "label": "qy"
+            },
+            {
+                "text": "I read book while Im doing it",
+                "label": "na"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "But I was doing that on the exercise bike",
+                "label": "sd"
+            },
+            {
+                "text": "Well I do that too",
+                "label": "sd"
+            },
+            {
+                "text": "I feel like Im getting little better of workout and Im losing more weight on this --",
+                "label": "sd"
+            },
+            {
+                "text": "Really",
+                "label": "b"
+            },
+            {
+                "text": "-- than on the other",
+                "label": "+"
+            },
+            {
+                "text": "Are you",
+                "label": "bh"
+            },
+            {
+                "text": "And my legs you know - how - okay Im going to turn forty this summer I was getting all dimpled up",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And those are going away",
+                "label": "sd"
+            },
+            {
+                "text": "Really",
+                "label": "b"
+            },
+            {
+                "text": "So thats real good",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "We got it at little bit of an incline",
+                "label": "sd"
+            },
+            {
+                "text": "Are they kind of expensive",
+                "label": "qy"
+            },
+            {
+                "text": "Uh this one yeah this is five hundred",
+                "label": "na@"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I know they get cheaper",
+                "label": "sd"
+            },
+            {
+                "text": "They do",
+                "label": "bh"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Probably the more you pay though the better the machine you have",
+                "label": "sv"
+            },
+            {
+                "text": "Well I hope so",
+                "label": "sd"
+            },
+            {
+                "text": "Well you can believe that anyway right",
+                "label": "qy^g"
+            },
+            {
+                "text": "Yeah I didnt buy it really My husband bought it because we wed never get out and go walking or anything and we go to the lake and we ski and swim in the summer but --",
+                "label": "ny"
+            },
+            {
+                "text": "During the year",
+                "label": "^2"
+            },
+            {
+                "text": "-- besides that - uh-huh",
+                "label": "+"
+            },
+            {
+                "text": "Yeah well in bad weather you know well youd have to do something inside",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Do you work at I",
+                "label": "qy"
+            },
+            {
+                "text": "uh-huh I think your voice sounds familiar",
+                "label": "b"
+            },
+            {
+                "text": "Really",
+                "label": "b"
+            },
+            {
+                "text": "Where do you wo-",
+                "label": "qw"
+            },
+            {
+                "text": "I live in Arlington",
+                "label": "sd"
+            },
+            {
+                "text": "I wonder if we talked before",
+                "label": "sd^t"
+            },
+            {
+                "text": "Where do you live",
+                "label": "qw"
+            },
+            {
+                "text": "Im in Garland",
+                "label": "sd"
+            },
+            {
+                "text": "No uh well -",
+                "label": "nn"
+            },
+            {
+                "text": "You sound like this girl that I talked to about books and we got into movies one night",
+                "label": "sd^t"
+            },
+            {
+                "text": "Oh really",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh no this is the first time Ive done it Uh my husband was just running out the door hes working at night tonight So I decided to do it I havent talked before Uh what subjects have you talked about",
+                "label": "ar"
+            },
+            {
+                "text": "Lets see education",
+                "label": "^h"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "Social changes that weve seen in the last ten twenty thirty years",
+                "label": "+@"
+            },
+            {
+                "text": "Well thats interesting",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah that one was",
+                "label": "+@"
+            },
+            {
+                "text": "Its more interesting than the treadmill and the bicycle Right",
+                "label": "sv"
+            },
+            {
+                "text": "The most boring one was about what meal would you cook for sit down dinner",
+                "label": "sv^t"
+            },
+            {
+                "text": "Oh my goodness",
+                "label": "ba"
+            },
+            {
+                "text": "The other woman didnt cook too much either Right",
+                "label": "sd^t"
+            },
+            {
+                "text": "really have lot of variety",
+                "label": "sv^t"
+            },
+            {
+                "text": "Yeah they do I talked to this old woman that was retired administrator in Ohio one night about education",
+                "label": "aa^t"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "And she was -",
+                "label": "%"
+            },
+            {
+                "text": "school administrator",
+                "label": "^2"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Well that could",
+                "label": "sv"
+            },
+            {
+                "text": "Retired but -",
+                "label": "sd"
+            },
+            {
+                "text": "That would have been interesting",
+                "label": "+"
+            },
+            {
+                "text": "Yeah and then one night I talked to these two guys no one night I talked to one guy and then couple of weeks later I talked to the guys roommate in Virginia about different things",
+                "label": "b"
+            },
+            {
+                "text": "Really well thats neat",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh One was about painting When was the last time you painted something Did you feel like you did good job Did you feel uh rewarded while you were doing it",
+                "label": "b"
+            },
+            {
+                "text": "Hm",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "How long is this going to go on do you know",
+                "label": "qy^t"
+            },
+            {
+                "text": "I dont know",
+                "label": "no"
+            },
+            {
+                "text": "I dont either Its interesting though I never heard of such project before",
+                "label": "sd^t"
+            },
+            {
+                "text": "Huh-uh Well howd you find out about it",
+                "label": "b"
+            },
+            {
+                "text": "Pardon me",
+                "label": "br"
+            },
+            {
+                "text": "How did you find out about it",
+                "label": "qw^t"
+            },
+            {
+                "text": "Oh I dont know I guess my husband got letter at the office I I presume and they must have been asking Does your husband work with I",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "nn"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "uh-huh I have friend that had roommate --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- that worked at I and she saw it on the computer screen -- -- and they made copies of it",
+                "label": "+"
+            },
+            {
+                "text": "Oh so they wanted any anybody dont have to work at I",
+                "label": "sd^t"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Well thats interesting",
+                "label": "ba"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I had no idea that was just for the employees and I couldnt understand I kept getting these calls I thought it was an advertisement and they just were also called I you know there is Texas Industries and different things",
+                "label": "sd^t"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I kept hanging up on them for days until my husband told me what it was",
+                "label": "sd^t"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "I didnt know",
+                "label": "sd^t"
+            },
+            {
+                "text": "Well if you work for I youre supposed to get prize is what I heard and if you dont work for them youre supposed to get cash",
+                "label": "sd^t"
+            },
+            {
+                "text": "Ooh",
+                "label": "ba"
+            },
+            {
+                "text": "But then on the letter it says cash or prize",
+                "label": "sd^t"
+            },
+            {
+                "text": "Oh Well the prizes are pretty nice He brought booklet home and depending on how many calls I think three was the minimum - But it went up to I dont know nine or ten How many calls have you ma- had",
+                "label": "b"
+            },
+            {
+                "text": "I dont know gobs",
+                "label": "h"
+            },
+            {
+                "text": "Well it sounds like lot",
+                "label": "+@"
+            },
+            {
+                "text": "This is going on my fourth week to do it",
+                "label": "sd^t"
+            },
+            {
+                "text": "Oh my And some of the prizes are pretty nice",
+                "label": "b"
+            },
+            {
+                "text": "Well like what tell me",
+                "label": "qw^d"
+            },
+            {
+                "text": "Oh I wish I had that booklet here Oh I think I do its right here Ill look at the end because those would be the best ones okay",
+                "label": "h^t"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Um well they have some watches that look really nice Theres one thats got some diamonds on it",
+                "label": "sd^t"
+            },
+            {
+                "text": "For how many calls Does it say",
+                "label": "qw^d^t"
+            },
+            {
+                "text": "I havent quite figured that out I thought it was eight or nine but seems like too nice prize for nine just nine calls isnt it",
+                "label": "sd^t"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Says when we have enough calls from you you will receive in the mail numbered certificate for your calls and and explanation how to redeem for gifts Are you listening to him",
+                "label": "sd(^q)^t"
+            },
+            {
+                "text": "No Im trying not to Hes telling me to start the grill",
+                "label": "nn"
+            },
+            {
+                "text": "Oh It says three for gift five for gift et cetera And this only goes up to So I thought that was somewhere around nine But anyway its got these beautiful watches on it Let me see what else it has uh clock radio that also plays - uh you know tapes Then its got oh some binoculars and some pretty brass lamps Got some oh food processor",
+                "label": "b"
+            },
+            {
+                "text": "So its not all stuff that I makes",
+                "label": "qy^d^t"
+            },
+            {
+                "text": "Oh no I dont - I havent seen anything in here that I makes The Mister Coffee the double Mister Coffee you know the two Oh and theres phone in here thats hilarious It has button you can push if you get call you dont like then it makes machine gun noise And then theres an attache case and cordless telephone and then theres card table doesnt have any chairs just card table Oh some more jewelry suitcases and have you seen those univ- anniversary lamps where the little balls go around",
+                "label": "nn"
+            },
+            {
+                "text": "You mean the clocks",
+                "label": "bf"
+            },
+            {
+                "text": "Yeah clocks",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I can - Im going crazy my daughters playing the piano and I cant think",
+                "label": "%"
+            },
+            {
+                "text": "Oh god",
+                "label": "b"
+            },
+            {
+                "text": "Its got one of those - and um well its got lot I mean pages and pages Its got wheelbarrows lot of kitchen stuff of the mixer the toaster waffle maker popcorn popper all kinds of stuff like that Heres where heres calculator but its not even made by I isnt that funny",
+                "label": "sd^t"
+            },
+            {
+                "text": "Did they mail that to you or he brought it to you",
+                "label": "qr^t"
+            },
+            {
+                "text": "He brought it home",
+                "label": "sd^t"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "I believe it came in his uh his mail Heres camera and dustbuster and some tools someone lot of tools man might like you know",
+                "label": "sd^t"
+            },
+            {
+                "text": "Yeah so youre bound to find something you want",
+                "label": "b"
+            },
+            {
+                "text": "Oh yeah youre bound to All kinds of phones and clocks and uh heres more jewelry and oh theres even pictures and little porcelain things to put on coffee table Oh heres some brass animals brass candlesticks theyre pretty So Im sure youd find something",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And uh -",
+                "label": "%"
+            },
+            {
+                "text": "Well you know -",
+                "label": "%"
+            },
+            {
+                "text": "Silver plated bowls and stuff Theres lot of stuff its big booklet",
+                "label": "sd^t"
+            },
+            {
+                "text": "Well do you know you have ten limit ten minute time limit",
+                "label": "qy^t"
+            },
+            {
+                "text": "Oh no",
+                "label": "nn"
+            },
+            {
+                "text": "Well thats okay and then they come on and tell you and they tell you got five seconds to say good-bye",
+                "label": "bk"
+            },
+            {
+                "text": "Oh well its been fun this is my first time to do it",
+                "label": "sd^t"
+            },
+            {
+                "text": "Well keep talking if we want to come up with something else",
+                "label": "sd^t"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Lets see oh I tried exercise classes and I never would go We fin - we joined ex -",
+                "label": "^h"
+            },
+            {
+                "text": "I went to Metropolitan couple of years ago so I sit and study I sit in class and I have really ballooned up since then and so hes says I ought to join one of those that makes you go but -",
+                "label": "sd"
+            },
+            {
+                "text": "They dont either Well the first one I joined they went out of business and they transferred it to another one that was really far away",
+                "label": "sv"
+            },
+            {
+                "text": "Thats very common experience",
+                "label": "sv"
+            },
+            {
+                "text": "And we were going to do it there was four of us together Well then forget that it wasnt near me",
+                "label": "sd"
+            },
+            {
+                "text": "No",
+                "label": "b"
+            },
+            {
+                "text": "And then the second time I was going to do it at Richland College and we - I just get with another friend and wed end up just smoking cigarettes and riding around like we couldnt find the place",
+                "label": "sd"
+            },
+            {
+                "text": "Thats funny",
+                "label": "ba"
+            },
+            {
+                "text": "So my husbands just discouraged me on those things",
+                "label": "sd"
+            },
+            {
+                "text": "Right well if you if you can make yourself do the tread mill I mean gosh thats good workout",
+                "label": "b"
+            },
+            {
+                "text": "Oh yeah my husband said hes never joined course right And I got one of those Jane Fonda workout tapes that I dubbed from friend",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "That didnt last long I had baby I think",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah right each one of those puts on few pounds doesnt it How many children do you have",
+                "label": "b"
+            },
+            {
+                "text": "Two",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I do too Two - girl ones in college - so I dont have have baby anymore",
+                "label": "b"
+            },
+            {
+                "text": "Oh Lord youre lucky Well Ive got step-daughter shes in college",
+                "label": "b"
+            },
+            {
+                "text": "Oh well",
+                "label": "b"
+            },
+            {
+                "text": "So theres where the money goes",
+                "label": "sd"
+            },
+            {
+                "text": "tell me about it tell me",
+                "label": "ba"
+            },
+            {
+                "text": "Wheres you ki- -",
+                "label": "qw"
+            },
+            {
+                "text": "putting two of us through isnt he lucky",
+                "label": "sd"
+            },
+            {
+                "text": "Two",
+                "label": "bf"
+            },
+            {
+                "text": "Well me Im going and my daughter Janet in Austin",
+                "label": "sd"
+            },
+            {
+                "text": "Uh",
+                "label": "%"
+            },
+            {
+                "text": "Yeah right So Ill probably have to sell the prize I get",
+                "label": "b"
+            },
+            {
+                "text": "Where you going to school",
+                "label": "qw"
+            },
+            {
+                "text": "right here",
+                "label": "sd"
+            },
+            {
+                "text": "And what are you doing",
+                "label": "qw"
+            },
+            {
+                "text": "Well Im um going to be certified as an English teacher teach English as second language",
+                "label": "sd"
+            },
+            {
+                "text": "Yes I do I just got my certification",
+                "label": "o@"
+            },
+            {
+                "text": "Youre kidding",
+                "label": "ba"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "Oh thats -",
+                "label": "%"
+            },
+            {
+                "text": "The test is booger The test the exit test",
+                "label": "sv"
+            },
+            {
+                "text": "Hard -",
+                "label": "bf"
+            },
+            {
+                "text": "Its hard",
+                "label": "aa"
+            },
+            {
+                "text": "Oh no",
+                "label": "fe"
+            },
+            {
+                "text": "It is so hard",
+                "label": "sv"
+            },
+            {
+                "text": "Really",
+                "label": "b@"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Really how are the other ones I havent taken any of the exit tests",
+                "label": "+@"
+            },
+            {
+                "text": "See I didnt have to take any other exit test because Ive been teaching for quite while",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah before they started -",
+                "label": "b"
+            },
+            {
+                "text": "But Ive heard theyre terrible",
+                "label": "sd"
+            },
+            {
+                "text": "Really",
+                "label": "b"
+            },
+            {
+                "text": "Bilingual is just horrendous Ive had friends fail that twice",
+                "label": "sd"
+            },
+            {
+                "text": "Really I didnt know any of this None of my friends have failed the English or the education ones",
+                "label": "b"
+            },
+            {
+                "text": "Good",
+                "label": "b"
+            },
+            {
+                "text": "I really ought to take those quickly while I still remember some",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Yeah right after you get out",
+                "label": "b"
+            },
+            {
+                "text": "I know",
+                "label": "sd"
+            },
+            {
+                "text": "Boring - and they really dont help you whole lot Now see I went to and I took one course through most of the training Ive got has been through Dallas just teaching",
+                "label": "%"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "From Chapter One Tea -",
+                "label": "sd"
+            }
+        ]
+    }
+]

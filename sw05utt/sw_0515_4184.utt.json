@@ -1,0 +1,467 @@
+[
+    {
+        "conversation_id": "conv_4184",
+        "turns": [
+            {
+                "text": "You have any pets",
+                "label": "qy"
+            },
+            {
+                "text": "Do I have pets",
+                "label": "br^m"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Yes I have cat and I have two dogs",
+                "label": "ny"
+            },
+            {
+                "text": "Two dogs what kind",
+                "label": "b^m"
+            },
+            {
+                "text": "I have Schnauzer and I have Sheltie",
+                "label": "sd"
+            },
+            {
+                "text": "Schnauzers Is it miniature or standard Schnauzer",
+                "label": "b^m"
+            },
+            {
+                "text": "It its miniature",
+                "label": "sd"
+            },
+            {
+                "text": "Uh",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Im going into all this because I used to - I just got done working at pet shop actually",
+                "label": "+"
+            },
+            {
+                "text": "Oh okay",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Well the Schnauzer Im Im watching for one of uh the managers where I work and hes been transferred to Germany for while --",
+                "label": "sd"
+            },
+            {
+                "text": "Uh",
+                "label": "b"
+            },
+            {
+                "text": "-- and Im taking care of his dog and uh and I had just got the kitten when he asked me that and he says well my dog doesnt like cats and I said well we wont tell him its - we wont tell her its cat because it was kitten and you know they just they just love kittens",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "They just are fascinated",
+                "label": "sv"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "So she doesnt know that this is cat yet",
+                "label": "sd"
+            },
+            {
+                "text": "Thats good They say -",
+                "label": "ba"
+            },
+            {
+                "text": "And they get along real good I said if Tom could see dog lick this kitty hed flip listen So that was interesting",
+                "label": "sd"
+            },
+            {
+                "text": "Didnt expect that would happen Yeah thats cool thats nice Uh lets see what was the other dog you had",
+                "label": "bf"
+            },
+            {
+                "text": "Its sheltie",
+                "label": "sd"
+            },
+            {
+                "text": "Oh sheltie",
+                "label": "b^m"
+            },
+            {
+                "text": "Shes real - sweet little dog Shes got very nice temperament Uh theyre not as aggressive as Schnauzer",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know the Schnauzers are little aggressive",
+                "label": "sv"
+            },
+            {
+                "text": "They can be nippy",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Yeah shelties are nice Everybody seems to be really happy with them Theyre good temperament",
+                "label": "b"
+            },
+            {
+                "text": "Theyre good temperament --",
+                "label": "sv^r"
+            },
+            {
+                "text": "They put up with lot",
+                "label": "sv"
+            },
+            {
+                "text": "-- and they and they just uh - they - I think they have good head on their shoulders I think they have higher level of intelligence than other uh dogs that I have encountered",
+                "label": "sv"
+            },
+            {
+                "text": "Schnauzers in particular probably",
+                "label": "sv"
+            },
+            {
+                "text": "Well yeah but also some poodles uh --",
+                "label": "aa"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- theyre kind of - there are some smart ones out there but theres some also some uh not so smart ones",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah I - - it seems the smaller the are the the worse off they are",
+                "label": "b"
+            },
+            {
+                "text": "Yeah thats thats maybe thats theres uh some credence in that statement",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah the- theyre bred down so much Its -",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "They arent the best pets",
+                "label": "sv"
+            },
+            {
+                "text": "I Id I really dont know --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- what the best pet is I guess its up to the individual and how they relate to their animal",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I mean some people seem fairly well suited for --",
+                "label": "b"
+            },
+            {
+                "text": "Um slash error",
+                "label": "b@"
+            },
+            {
+                "text": "-- for uh miniature poodles and such",
+                "label": "+"
+            },
+            {
+                "text": "And bull dogs But I dont know about these uh these uh uh these pincers these now what are they called Pit bulls pit bulls --",
+                "label": "+"
+            },
+            {
+                "text": "Pit bull",
+                "label": "^2"
+            },
+            {
+                "text": "-- that are so vicious",
+                "label": "+"
+            },
+            {
+                "text": "They might - theyre actually very friendly dogs",
+                "label": "%"
+            },
+            {
+                "text": "Are they really I dont think Ive ever --",
+                "label": "bh"
+            },
+            {
+                "text": "Uh theyre really nice",
+                "label": "sv"
+            },
+            {
+                "text": "-- seen one",
+                "label": "+"
+            },
+            {
+                "text": "I Ive dealt with quite few of them People uh customers that bring them into the shop and ask me like they uh fit collars and stuff on them and they are they are just really nice really friendly uh kind of like medium intelligence Uh",
+                "label": "sd"
+            },
+            {
+                "text": "Well how do they become - - - - how did they get their reputation then",
+                "label": "qw"
+            },
+            {
+                "text": "Well because some people uh want to train them as -",
+                "label": "sd"
+            },
+            {
+                "text": "Oh they train them to be that way then",
+                "label": "bf"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Oh okay",
+                "label": "bk"
+            },
+            {
+                "text": "You really cant get pit bull from birth thats that way",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay",
+                "label": "bk"
+            },
+            {
+                "text": "Yeah it takes lot of training and lot of abuse to get dog to really --",
+                "label": "b"
+            },
+            {
+                "text": "Oh dear so the --",
+                "label": "ba"
+            },
+            {
+                "text": "-- respond",
+                "label": "+"
+            },
+            {
+                "text": "-- the poor animal is doing it in self protection",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "aa"
+            },
+            {
+                "text": "Oh dear",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah they arent they arent by nature really nasty critters They are very determined critters --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and so once you get them going its not good to to deal with but they I I really like them two utts I was I was impressed by them Theyre theyre real sturdy little critters and they arent that big",
+                "label": "sv*"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh just really friendly",
+                "label": "+"
+            },
+            {
+                "text": "Well thats unusual",
+                "label": "ba"
+            },
+            {
+                "text": "I was I was --",
+                "label": "sd"
+            },
+            {
+                "text": "I -",
+                "label": "%"
+            },
+            {
+                "text": "-- overwhelmed",
+                "label": "+"
+            },
+            {
+                "text": "Huh well I suppose you were surprised",
+                "label": "bf"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "After --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah right now -",
+                "label": "b"
+            },
+            {
+                "text": "-- the reputation that you know - they have quite an uh uh notable reputation as far as you know -",
+                "label": "+"
+            },
+            {
+                "text": "They picked up lot of bad press lately",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah theyre banned from in some areas I understand",
+                "label": "aa"
+            },
+            {
+                "text": "Well yeah",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But any any any pets going to can can be bad if you train it to be that way",
+                "label": "sv"
+            },
+            {
+                "text": "You know that - they must have just targeted that breed and said boy were going",
+                "label": "%"
+            },
+            {
+                "text": "Well yeah its when - in my hometown they just outlawed ferrets --",
+                "label": "b"
+            },
+            {
+                "text": "Oh okay",
+                "label": "b"
+            },
+            {
+                "text": "-- because they had one incident of ferret uh attacking - child --",
+                "label": "+"
+            },
+            {
+                "text": "Oh okay",
+                "label": "b"
+            },
+            {
+                "text": "-- in house",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I mean these people had left this infant in the same room with this loose ferret The the ferret is used to running the house and was kind of wild --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and you know they should expect something like that to happen And so bas- - now its like ferrets are outlawed in the town",
+                "label": "sv"
+            },
+            {
+                "text": "Oh did it attack the child then",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah it it bit him",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And that was that was not good thing but I think it was probably an individual ferret thing because it was - it was fairly wild ferret",
+                "label": "sv"
+            },
+            {
+                "text": "Well the --",
+                "label": "sv"
+            },
+            {
+                "text": "Hadnt they hadnt -",
+                "label": "%"
+            },
+            {
+                "text": "-- the people that owned him should have been on the --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I mean --",
+                "label": "b"
+            },
+            {
+                "text": "-- lookout for that",
+                "label": "+"
+            },
+            {
+                "text": "-- they really should have should have expected it",
+                "label": "+"
+            },
+            {
+                "text": "Um slash error",
+                "label": "b@"
+            },
+            {
+                "text": "And taken the precautions They didnt",
+                "label": "+"
+            },
+            {
+                "text": "Sure yeah",
+                "label": "+"
+            },
+            {
+                "text": "Its too bad it happened though",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah because then the the animals in trouble and not the person",
+                "label": "aa"
+            },
+            {
+                "text": "Right",
+                "label": "aa"
+            }
+        ]
+    }
+]

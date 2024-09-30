@@ -1,0 +1,111 @@
+[
+    {
+        "conversation_id": "conv_4345",
+        "turns": [
+            {
+                "text": "I uh get lot of my news driving home from work listening to ALL THINGS CONSIDERED on national public radio Uh that is one of my big sources for current events information Uh I really like that coverage My wife uh on the other hand is home most of the day and she watches lot of the cable news network Have you seen uh - have you uh ever heard of ALL THINGS CONSIDERED",
+                "label": "sd"
+            },
+            {
+                "text": "No we dont have the uh national public radio in in my area",
+                "label": "nn"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I can hear it at the uh uh oh the college town nearby when Im in Stillwater which is about an hour away but the signal doesnt reach this far",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "Uh Ill listen to shortwave quite bit It gives you whole different perspective on the news uh when you hear it from say European --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "-- point of view or from the country of origin Uh I agree with you too on the uh uh the cable channel and HEADLINE NEWS Uh Im not too satisfied with our local newspaper --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "-- uh which is why I rely on shortwave and and then the cable cable",
+                "label": "+"
+            },
+            {
+                "text": "Im uh interested in the in the shortwave aspect of it Uh how do you find that the the coverage from other places in the world uh compares with the American coverage of - how do you think that uh the viewpoints differ",
+                "label": "sd"
+            },
+            {
+                "text": "I think lot of it is just uh the fact that in the youre so far removed uh in lot of cases from say conflicts or or its not happening in your backyard --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- so its its more of its not as personal uh the news isnt as personal in what we receive domestically than than whats on shortwave Its is uh oh I dont know the right word is is almost uh - they almost take all emotions out of it when they --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "-- report it and it just - they seem to give more of just the facts than opinions",
+                "label": "+"
+            },
+            {
+                "text": "Do you think then that uh the American media is presenting an opinion along with their facts",
+                "label": "qy"
+            },
+            {
+                "text": "Uh very much so very much so and I I think lot of it is uh especially news they dont really have the time and lot of them dont have the education and the background to uh oh to really decipher the news and to really explain it I mean I you know I think its important to interpret it but lot of times the person doesnt have the experience to to do the interpreting",
+                "label": "na"
+            },
+            {
+                "text": "uh-huh Which uh which approach do you find to be uh more useful the the interpretive approach or the straight reporting",
+                "label": "b"
+            },
+            {
+                "text": "Oh I like the straight reporting Uh and then I I hope to be able to form my own opinion of it Its its nice to hear someones interpretation of it --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh I always think its humorous when when the President gives the State of the Union and uh for thirty minutes and then for an hour and half you hear different commentators explaining what you just heard And lot of time I dont hear exactly what they what they write into it",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So I overall I think I would rather hear just straight reporting",
+                "label": "sd"
+            },
+            {
+                "text": "One of the things that I found interesting last year during the uh the Gulf conflict was sentiment against uh Peter Arnett who had stayed in Iraq and was presenting uh some of the things that were available Uh there was there was uh piece where he was showing bombed out building where there was obviously crudely uh uh hastily erected sign saying baby milk factory and while he was being severely uh censored and could not make any judgment call on this it was fairly obvious that it was piece of propaganda but people were really down on him for reporting the fact that th- you know this isnt baby milk factory how could he say it was uh I I think that that to me showed that the Americans were really getting used to having the not just the facts but also the conclusions and opinions spoon fed to them",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah I I think people are people have that opinion They they want to sit down in front of the TV and uh or at read magazine or TODAY and read in four paragraphs uh and and find out every- -",
+                "label": "aa"
+            }
+        ]
+    }
+]

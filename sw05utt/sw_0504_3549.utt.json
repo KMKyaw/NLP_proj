@@ -1,0 +1,347 @@
+[
+    {
+        "conversation_id": "conv_3549",
+        "turns": [
+            {
+                "text": "What are you guys having for Christmas",
+                "label": "qo"
+            },
+            {
+                "text": "What are we having Lets see Well Im not planning the menu",
+                "label": "^h"
+            },
+            {
+                "text": "Oh youre not",
+                "label": "bh"
+            },
+            {
+                "text": "No We usually go out to ei- either one of our folks they both live close to -- -",
+                "label": "nn"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- but um I dont know it seems like big thing for Christmas is usually ham",
+                "label": "sd"
+            },
+            {
+                "text": "Well funny you should mention that Im pig farmer",
+                "label": "sd"
+            },
+            {
+                "text": "Oh you are --",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "-- huh",
+                "label": "b"
+            },
+            {
+                "text": "Well now its kind of hobby more than anything else but were going to have uh wild boar --",
+                "label": "sd"
+            },
+            {
+                "text": "My goodness",
+                "label": "ba"
+            },
+            {
+                "text": "-- we uh we killed boar the other day it was you know mating with the sows and you cant use the piglets you know so -",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "Its about six months of no use so we uh we shot him and cleaned him out and had him you know processed into ham and uh were also going to have little roast suckling pig because I Ive got one thats got hernia --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "-- and rather than you know pay the vet four hundred dollars for surgery well just cook him and eat him",
+                "label": "sd"
+            },
+            {
+                "text": "Is that is that hard",
+                "label": "qy"
+            },
+            {
+                "text": "Well no hey I tell you what preparing little pig is is snap Im telling you real easy easier than chicken",
+                "label": "nn"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah you just uh - you kill him you know you probably - most guys just shoot them in the head they go you know - in second theyre gone --",
+                "label": "ny"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- and then you just dip the carcass in uh boiling water pull it out and theres we use little raspy brush pulls the hair off and uh gut it and uh just stick it down in pit with some cloves and uh some pineapple about three pineapples you know sliced them up and uh cover him up with uh wet uh sacks feed sacks is what I usually use -- more than one utt",
+                "label": "sd*"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and then start charcoal fire on top of him",
+                "label": "+"
+            },
+            {
+                "text": "Oh my goodness",
+                "label": "ba"
+            },
+            {
+                "text": "And after about six hours you put the fire out and dig that baby out of there and its the best eating you ever had",
+                "label": "sd"
+            },
+            {
+                "text": "Oh well does boar taste just like regular ham",
+                "label": "qy"
+            },
+            {
+                "text": "Yep just like pig --",
+                "label": "ny"
+            },
+            {
+                "text": "Does it",
+                "label": "bh"
+            },
+            {
+                "text": "-- I mean you know uh it has lot less fat",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "This wild boar weighed probably about three hundred and thirty pounds --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh my",
+                "label": "ba"
+            },
+            {
+                "text": "-- and he dressed out to almost two hundred and ten pounds",
+                "label": "sd"
+            },
+            {
+                "text": "Oh my goodness",
+                "label": "ba"
+            },
+            {
+                "text": "Well you know we took the skin and the head and the le- and the feet off and that was about you know hundred hundred pounds of just ham",
+                "label": "sd"
+            },
+            {
+                "text": "Oh well how many people are you planning on serving at Christmas",
+                "label": "qw"
+            },
+            {
+                "text": "Oh well were you know were not going to eat the whole thing",
+                "label": "sd"
+            },
+            {
+                "text": "Eat it all yeah",
+                "label": "b^m"
+            },
+            {
+                "text": "It would take year But uh you know were going to drive up to Kansas City see my wifes folks and uh she she - whats whats whats your mother cooking for Christmas yeah well her moms doing brisket",
+                "label": "sd"
+            },
+            {
+                "text": "I dont - what is brisket",
+                "label": "sd"
+            },
+            {
+                "text": "Brisket Its part of the cow that they used to throw away",
+                "label": "bh^m"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "Its just tough as boot --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh you know they used to use it for leather I think",
+                "label": "sd"
+            },
+            {
+                "text": "Oh my goodness",
+                "label": "ba"
+            },
+            {
+                "text": "I mean no I was kidding",
+                "label": "ar"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But uh its its part of the loin you know the rib cage and it has lot of muscle in it and lot of gristle where it attaches to the ribs so its really really tough piece of meat --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh my goodness",
+                "label": "ba"
+            },
+            {
+                "text": "-- but its so tasty you cant stand it",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "So you just take it and you marinate it for couple of days --",
+                "label": "sd"
+            },
+            {
+                "text": "And that softens it up huh",
+                "label": "bf"
+            },
+            {
+                "text": "--",
+                "label": "x"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "And then uh you just put it in the oven takes about four hours to cook one They weigh about anywhere from ten to twenty pounds",
+                "label": "sd"
+            },
+            {
+                "text": "Oh gee",
+                "label": "ba"
+            },
+            {
+                "text": "And uh were going to have that",
+                "label": "sd"
+            },
+            {
+                "text": "Well what else do you serve with your pig",
+                "label": "qw"
+            },
+            {
+                "text": "Oh well well have cranberries and hominy and uh we we are were big on olives and cucumbers and stuff up here",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "We have oliv- olives black olives and cucumbers and uh tomatoes we still have tomatoes --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh do you",
+                "label": "bh"
+            },
+            {
+                "text": "-- yeah fresh tomatoes",
+                "label": "ny"
+            },
+            {
+                "text": "Oh we we just got lots of snow",
+                "label": "sd"
+            },
+            {
+                "text": "Well it started to freeze up around here you know theres nothing between you and us but our barb wire and half of thats down I mean its thirty degrees this morning",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "But uh itll go up to fifty or sixty almost",
+                "label": "sd"
+            },
+            {
+                "text": "Oh my goodness I didnt know it got that low at night",
+                "label": "ba"
+            },
+            {
+                "text": "Oh yeah Well its desert you know where where we are its its its uh the edge of the desert I mean its part of the Great Plains So in the day time in the summer it goes up to hundred hundred and ten --",
+                "label": "aa"
+            },
+            {
+                "text": "Oh gee",
+                "label": "ba"
+            },
+            {
+                "text": "-- and at night it goes down to about sixty",
+                "label": "sd"
+            },
+            {
+                "text": "My goodness",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah we get fifty de- degree temperature swing in about four hours",
+                "label": "aa"
+            },
+            {
+                "text": "Oh boy",
+                "label": "ba"
+            },
+            {
+                "text": "So everything that lives around here is real tough",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Thats trees you know we got hundred year old trees that are you know twenty feet tall",
+                "label": "sd"
+            },
+            {
+                "text": "Oh gee",
+                "label": "ba"
+            },
+            {
+                "text": "Thats all the bigger they get they you know theyre just hard as rock",
+                "label": "sd"
+            }
+        ]
+    }
+]

@@ -1,0 +1,403 @@
+[
+    {
+        "conversation_id": "conv_4019",
+        "turns": [
+            {
+                "text": "Okay um Chuck do you have any pets there at your home",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah I do",
+                "label": "ny"
+            },
+            {
+                "text": "And what kind do you have",
+                "label": "qw"
+            },
+            {
+                "text": "Ive got male Siamese about year old here I live alone in an apartment and uh --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- except for the cat",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "How about you",
+                "label": "qo"
+            },
+            {
+                "text": "Well we have cat um hes probably oh good two years old big old fat and sassy tabby",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Oh Uh hows the disposition of your Siamese cat",
+                "label": "qw"
+            },
+            {
+                "text": "Well its uh you know theyre just uh aggressive by nature --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh hes been neutered and declawed so --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- hes an indoor cat so uh that kind of calms him down for the most part How about yours",
+                "label": "+"
+            },
+            {
+                "text": "Well yeah hes uh he has been really aggressive uh especially towards my little girl for --",
+                "label": "o"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "-- some reason Hes uh been so mean to her",
+                "label": "+"
+            },
+            {
+                "text": "And and you say youve had him how long",
+                "label": "qw^d"
+            },
+            {
+                "text": "Weve had him for about two years --",
+                "label": "sd"
+            },
+            {
+                "text": "Two years",
+                "label": "b^m"
+            },
+            {
+                "text": "-- and he was so mean to her um right after we first got him So we had him neutered and and declawed and now he bites her He cant --",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "-- scratch her any more he bites her",
+                "label": "+"
+            },
+            {
+                "text": "Does he bite her enough to draw blood",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah yeah he has couple of times so -",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But hes very possessive cat He he loves my son its his cat and hes the only one that allows him to touch him or pet him or love him --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and hes so funny he just follows my son around just like dog",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "He wont even let my son shower",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "He meows and wants to get in the bathroom and while he showers its so hilarious So hes quite animal",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah boy I guess Well as long as he doesnt get too aggressive I guess with the daughter hes all right",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You wouldnt want him to carry her off or something",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah well we we did uh actually take him to the pound couple of times you know --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- because we just couldnt have him being --",
+                "label": "+"
+            },
+            {
+                "text": "Sure",
+                "label": "b"
+            },
+            {
+                "text": "-- so aggressive towards the girl but uh he seems to have mellowed out little bit and we do keep our daughter away from him So -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "Were it not for my son the cat would not be in this house",
+                "label": "sd"
+            },
+            {
+                "text": "Is that the only pet that you have",
+                "label": "qy"
+            },
+            {
+                "text": "It is uh-huh We we tried dog about four years ago and we ended up with uh oh malamute and some other kind of mix Anyway it was it ended up being just huge huge dog that ate us out of house and home So we gave him up and tried",
+                "label": "na"
+            },
+            {
+                "text": "Well do you live you you in house or place where you uh -",
+                "label": "qy"
+            },
+            {
+                "text": "Yes uh-huh were in house but were in subdivision --",
+                "label": "ny"
+            },
+            {
+                "text": "I see",
+                "label": "bk"
+            },
+            {
+                "text": "-- where we really cant allow the dog we couldnt allow him to run free so he was just chained up all the time and it was it was --",
+                "label": "+"
+            },
+            {
+                "text": "Sure",
+                "label": "b"
+            },
+            {
+                "text": "-- unfortunate So have you tried any other pets",
+                "label": "+"
+            },
+            {
+                "text": "No no I I live alone in an apartment and uh its its not that big that uh -- -",
+                "label": "nn"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- although Ive heard rabbits are pretty good --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know I saw something on or on cable here --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- while ago that showed some people that had rabbits in apartments --",
+                "label": "+"
+            },
+            {
+                "text": "Oh my word",
+                "label": "ba"
+            },
+            {
+                "text": "-- and in houses and they apparently uh - especially when theyre young when they bring them in -- -",
+                "label": "+"
+            },
+            {
+                "text": "Oh my word",
+                "label": "ba"
+            },
+            {
+                "text": "-- uh",
+                "label": "%"
+            },
+            {
+                "text": "And do they they just paper train it or something",
+                "label": "qy"
+            },
+            {
+                "text": "I guess I guess yeah and I would imagine that they dont have many more than one to start with either",
+                "label": "na"
+            },
+            {
+                "text": "Yeah Well rabbits are darling That would be fun if you could get them trained Otherwise theyre pretty smelly",
+                "label": "b"
+            },
+            {
+                "text": "Yep thats right",
+                "label": "aa"
+            },
+            {
+                "text": "Oh",
+                "label": "%"
+            },
+            {
+                "text": "Did you see the the the the dog show uh",
+                "label": "qy"
+            },
+            {
+                "text": "Huh-uh we dont have we dont have cable",
+                "label": "nn"
+            },
+            {
+                "text": "I see Well they have uh uh Wesmin- they call it the Westminster Dog Show uh I think its in New York City at the at the Gardens there once year live -- -",
+                "label": "bk"
+            },
+            {
+                "text": "Oh",
+                "label": "%"
+            },
+            {
+                "text": "-- and they had that on last week and thats really kind of something --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "%"
+            },
+            {
+                "text": "-- to watch uh its on I think two or three nights for maybe an hour or two --",
+                "label": "+"
+            },
+            {
+                "text": "Is that right",
+                "label": "bh"
+            },
+            {
+                "text": "-- and some of the weirdest animals you ever want to see in there",
+                "label": "sv"
+            },
+            {
+                "text": "Oh",
+                "label": "%"
+            },
+            {
+                "text": "Some of them are really beautiful too",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "Well Id be interesting to watch",
+                "label": "sd"
+            },
+            {
+                "text": "So you live in Utah do you",
+                "label": "qy^g"
+            },
+            {
+                "text": "Yes uh-huh Elton",
+                "label": "ny"
+            },
+            {
+                "text": "Goodness",
+                "label": "ba"
+            },
+            {
+                "text": "We live out here by its by Ogden Its north of Salt Lake City Utah --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and we really love it out here Its uh kind of country Were were only about ten minutes from Ogden",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So were kind of country but not too",
+                "label": "sd"
+            },
+            {
+                "text": "Well do you all work for I or for -",
+                "label": "qr"
+            },
+            {
+                "text": "No huh-uh Do you",
+                "label": "nn"
+            },
+            {
+                "text": "Yeah yeah yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Oh well see Im getting so many calls to Texas",
+                "label": "sd^t"
+            },
+            {
+                "text": "This is the very first one Ive Ive talked to",
+                "label": "sd^t"
+            },
+            {
+                "text": "Oh well great Yeah Ive been doing it for about two weeks and uh no my",
+                "label": "ba"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "No my -",
+                "label": "+"
+            }
+        ]
+    }
+]

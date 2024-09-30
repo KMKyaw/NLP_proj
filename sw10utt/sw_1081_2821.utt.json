@@ -1,0 +1,867 @@
+[
+    {
+        "conversation_id": "conv_2821",
+        "turns": [
+            {
+                "text": "Are you still there",
+                "label": "qy"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "Okay it worked out fine",
+                "label": "b"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "Well we just ate out um had big lunch actually because we both have been working late and we had Italian um have you ever been to the Olive Garden",
+                "label": "sd"
+            },
+            {
+                "text": "No I havent is that good",
+                "label": "nn"
+            },
+            {
+                "text": "Yeah Well do you really like Italian food",
+                "label": "ny"
+            },
+            {
+                "text": "It- its not my favorite but",
+                "label": "sd"
+            },
+            {
+                "text": "Then dont -",
+                "label": "%"
+            },
+            {
+                "text": "I like its okay",
+                "label": "+"
+            },
+            {
+                "text": "Then this will probably - I mean this isnt really excellent Italian food",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "That sounds terrible to tell you to go somewhere where its not that great but its um - youre not going to believe this but I have to tell you this if I dont because youre in Plano",
+                "label": "sv"
+            },
+            {
+                "text": "Thats okay",
+                "label": "bd"
+            },
+            {
+                "text": "but my um softball unit here is acting like hes dying of tramane poison It wasnt that bad actually its very good its all of these run adult males -",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "which Im not Italian - no its its all the garlic bread and all the",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "salads you can eat with an entree",
+                "label": "+"
+            },
+            {
+                "text": "Oh that sounds really good",
+                "label": "ba"
+            },
+            {
+                "text": "So it wasnt too bad it really wasnt but I was more in the mood for french toast any way so",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "so I really like Italian food though but do you have any favorite",
+                "label": "+"
+            },
+            {
+                "text": "Well are there just the two of you",
+                "label": "qy"
+            },
+            {
+                "text": "Uh yes uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Okay well when my husband and I go out we have four children",
+                "label": "bk"
+            },
+            {
+                "text": "Oh youre kidding",
+                "label": "ba"
+            },
+            {
+                "text": "So that makes difference For us when we go out with the kids obviously we want to go somewhere that we can - the fast food ones are probably the ones they like the best",
+                "label": "sd"
+            },
+            {
+                "text": "Oh sure",
+                "label": "ba"
+            },
+            {
+                "text": "But we dont like to go there because thats the most expensive so we like to go to pizza place where you can buy pizza for one price an- and feed the whole family",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and like that",
+                "label": "+"
+            },
+            {
+                "text": "You can usually get variety of what youre looking for",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "like at Gattis or something like that",
+                "label": "+"
+            },
+            {
+                "text": "Right but when my husband and I go out we like to go somewhere with little atmosphere and we usually head on down um oh whats the freeway down here",
+                "label": "b"
+            },
+            {
+                "text": "Uh six thirty-five",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And there are um all along that that freeway there are restaurant but one of our favorites is Pappasitos",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah Pappasitos",
+                "label": "b"
+            },
+            {
+                "text": "No we love to go there",
+                "label": "b"
+            },
+            {
+                "text": "We went there on my birthday in March its great",
+                "label": "sd"
+            },
+            {
+                "text": "You know it always kills me cause I dont like the the decorations so much its too -",
+                "label": "sd"
+            },
+            {
+                "text": "too much like bar naturally",
+                "label": "^2"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and Mexico yeah I know Ive seen it",
+                "label": "+"
+            },
+            {
+                "text": "But I love the food I love the food",
+                "label": "sd"
+            },
+            {
+                "text": "The food is probably -",
+                "label": "sv"
+            },
+            {
+                "text": "the food is great",
+                "label": "sv"
+            },
+            {
+                "text": "Im not Im Mexican food gourmet by any means but its probably the best tasting - I dont know would you classify that as Tex-Mex",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Um the shredded beef the type of",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "spices or sauces they use",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh I like to get that uh shrimp its shrimp dish",
+                "label": "b"
+            },
+            {
+                "text": "Really",
+                "label": "b"
+            },
+            {
+                "text": "and I dont remember the name of it",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "but its rolled up into into something and oh its really good",
+                "label": "sd"
+            },
+            {
+                "text": "Ive never had anything there that wasnt delicious",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah they are really good",
+                "label": "aa"
+            },
+            {
+                "text": "Even though you have to stand in line and all of that thats the only thing I dont like about it too its little bit with th- the meat market atmosphere you know",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "Even though we dont have kids weve been married long enough to um be around not be around that",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Um Im trying to think of what else we like to eat The one thing I notice is its just um about dining out that you probably can relate to with four children and two of us getting ready to adopt I mean we find prohibited",
+                "label": "^h"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "just to cost any more",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I mean lunch today was eighteen dollars",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah its very expensive",
+                "label": "b"
+            },
+            {
+                "text": "Yeah I dont know how you feel about that but I think that some of its over priced",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Im glad Im talking about food normally these conversations are -",
+                "label": "sd^t"
+            },
+            {
+                "text": "Sometimes its hard isnt it to keep -",
+                "label": "qy^t"
+            },
+            {
+                "text": "Yeah it is I dont know um",
+                "label": "ny"
+            },
+            {
+                "text": "No sometimes Mark and I thats my husband Mark",
+                "label": "o"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "um go to the August Moon which is down there its Chinese",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah my husband likes that",
+                "label": "b"
+            },
+            {
+                "text": "uh restaurant with the lions in the front",
+                "label": "+"
+            },
+            {
+                "text": "yeah off of Arapaho down there",
+                "label": "b"
+            },
+            {
+                "text": "yeah and",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah August Moon uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Oh its pretty good as far as Chinese but Chinese isnt my favorite so -",
+                "label": "+"
+            },
+            {
+                "text": "I dont like it at all usually so -",
+                "label": "sd"
+            },
+            {
+                "text": "But he likes it kind of so he heats us up good fight now me Im like I said seafood Im - I like that",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I love seafood",
+                "label": "b"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "and I I like lot of different ethnic foods I like Japanese food Theres place on Greenville called Sagars",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "Well we havent been in years down near Presby and I had meeting down there today and I saw that and I said gee I remember that they offer you um authentic Japanese feeding",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "or American or piano bar and I remember when we went we were married with another couple that was just dating and um I had never had saki",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "It made all raw fish tastes great but if youre looking for very uh - its very pretty inside",
+                "label": "sd"
+            },
+            {
+                "text": "Is it",
+                "label": "bh"
+            },
+            {
+                "text": "and the girls wear kimonos and",
+                "label": "sd"
+            },
+            {
+                "text": "Oh how nice",
+                "label": "ba"
+            },
+            {
+                "text": "You know if youre ever looking for that",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Um but what other kind of foods gee I dont know we went to place called Grishmans in Greenville",
+                "label": "t1"
+            },
+            {
+                "text": "I dont know that place",
+                "label": "sd"
+            },
+            {
+                "text": "which was really over priced",
+                "label": "+"
+            },
+            {
+                "text": "Was it",
+                "label": "qy"
+            },
+            {
+                "text": "uh-huh They had great desert bar",
+                "label": "ny"
+            },
+            {
+                "text": "Um Thats what we need isnt it",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "No theres lot of nice barbecue places here now I like barbecue okay Texas barbecue",
+                "label": "b"
+            },
+            {
+                "text": "Yeah I like",
+                "label": "b"
+            },
+            {
+                "text": "Its good",
+                "label": "sd"
+            },
+            {
+                "text": "barbecue have you ever been to th- I think its called Spring Creek Barbecue",
+                "label": "+"
+            },
+            {
+                "text": "Yeah now",
+                "label": "b"
+            },
+            {
+                "text": "Thats real good",
+                "label": "sd"
+            },
+            {
+                "text": "theyre real good",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "They are good",
+                "label": "sd"
+            },
+            {
+                "text": "There had - oh my husbands going upstairs and he says free ice cream",
+                "label": "%"
+            },
+            {
+                "text": "Yeah free ice cream yeah",
+                "label": "b"
+            },
+            {
+                "text": "I didnt know they had that",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I cant talk I had chocolate bavarian tort for desert",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "today which I never eat at lunch and it was wonderful",
+                "label": "+"
+            },
+            {
+                "text": "Just to die for exactly",
+                "label": "sv"
+            },
+            {
+                "text": "It was",
+                "label": "aa"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "in fact if I could pick my um restaurants on how their coffee is and how their french bread is and the butter and the desert I would be",
+                "label": "sd"
+            },
+            {
+                "text": "In heaven",
+                "label": "^2"
+            },
+            {
+                "text": "yes I would be in hog heaven And how are your kids at an age where they can contribute to what they want or do you still order for them",
+                "label": "+"
+            },
+            {
+                "text": "Well my two littlest - I just had baby",
+                "label": "sd"
+            },
+            {
+                "text": "Oh congratulations",
+                "label": "ba"
+            },
+            {
+                "text": "and shes six months and then my four year old he he still - but my other older two they can So",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "theyre theyre kind of - my littlest girl shes still like wants McDonalds McDonalds McDonalds",
+                "label": "+"
+            },
+            {
+                "text": "Yeah everybody every child that I even know that eats vegetables um looked five years old still after certain age realized that there is something called McDonalds",
+                "label": "b"
+            },
+            {
+                "text": "Oh Im telling you",
+                "label": "ba"
+            },
+            {
+                "text": "Its really sad isnt it cause its hard to get them away from junk then",
+                "label": "sv"
+            },
+            {
+                "text": "Well its kind of funny is sometimes were like we all want different things",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and so theres Avenue down here",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh I know where that -",
+                "label": "b"
+            },
+            {
+                "text": "and along are these fast food restaurants",
+                "label": "+"
+            },
+            {
+                "text": "Right thats all -",
+                "label": "b"
+            },
+            {
+                "text": "So we all get to go to our own little thing and drive through and get our own thing and then we go to park over there so we can all have our own",
+                "label": "sd"
+            },
+            {
+                "text": "Well thats all right as long as -",
+                "label": "sv"
+            },
+            {
+                "text": "thats on the nights we cant decide",
+                "label": "sd"
+            },
+            {
+                "text": "I was going to say because with six people how do you um - cause with two we have problem I mean I cant even imagine you know trying to um - you sound like youre doing pretty well with four children",
+                "label": "sd"
+            },
+            {
+                "text": "Well five of them theyre good",
+                "label": "sd"
+            },
+            {
+                "text": "Thats the way the -",
+                "label": "%"
+            },
+            {
+                "text": "kids",
+                "label": "+"
+            },
+            {
+                "text": "Yeah well were getting ready to - I shouldnt say this on this conversation but its just on my mind were getting ready to go overseas to adopt",
+                "label": "b"
+            },
+            {
+                "text": "Oh how nice",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah were excited",
+                "label": "b"
+            },
+            {
+                "text": "It will be neat",
+                "label": "ba"
+            },
+            {
+                "text": "I think it will be worth it and somebody said to me in terms of - this is food so I can say this but they you have to bring formula and I said whats that They laughed and I said well you know Im",
+                "label": "sd"
+            },
+            {
+                "text": "Foods food",
+                "label": "^2"
+            },
+            {
+                "text": "thirty something",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and I think that that would make them drool any way",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know I guess are you is it little bit of constricted because lot of restaurants dont take - in terms of talking about restaurants I mean are lot of restaurants how are they when you have children let alone three or four children",
+                "label": "qy"
+            },
+            {
+                "text": "You have to be careful if you go to restaurant that",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "that really is more adults you know",
+                "label": "+"
+            },
+            {
+                "text": "Sure",
+                "label": "b"
+            },
+            {
+                "text": "with the atmosphere and everything they - if youre - like we could probably take our oldest son and",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and our oldest daughter",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And they know how to act",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I dont think I would chance it with my younger ones because theyre just too much of distraction and some restaurants are really trying to go for that atmosphere kind of thing",
+                "label": "sd"
+            },
+            {
+                "text": "That yuppie kind of crowd yeah",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "I just I just Ive been in some places where they say they take children and then Ive just seen where the wait attendance the wait staff is rude you know",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And that always just bothered me and then um on the other hand sometimes the children or the adults are themselves",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I dont know what other kind of restaurants - really Pappasitos we love um we went to one Italian back on the Italian we went to some place across from Collin Creek Mall that absolutely putrid for Italian food",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "I cant remember the name of it its on uh -",
+                "label": "sd"
+            },
+            {
+                "text": "Is it Tias not Tias um",
+                "label": "qy"
+            },
+            {
+                "text": "No thats Mexican um right across from on the Dillards side there",
+                "label": "nn"
+            },
+            {
+                "text": "Yeah I know which one it is and I cant think of it",
+                "label": "b"
+            },
+            {
+                "text": "I cant - yeah its in the strip yeah and it had white tablecloth I think it was like paper where you could write on them or something with crayons it was just terrible",
+                "label": "%"
+            },
+            {
+                "text": "Oh dear",
+                "label": "ba"
+            },
+            {
+                "text": "I mean I was shocked I mean the dish was dirty um",
+                "label": "sd"
+            },
+            {
+                "text": "It was one of these you have bad experience and",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah where you felt like",
+                "label": "b"
+            },
+            {
+                "text": "say I dont think Ill come back here",
+                "label": "+"
+            },
+            {
+                "text": "like when youre in bad part of Italy or something",
+                "label": "+"
+            },
+            {
+                "text": "Oh dear",
+                "label": "ba"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Boy but other then that I dont know we we do our share of pizza eating too but more like go get it and carry it in cause were too",
+                "label": "b"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "cheap to pay the delivery",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "I dont like strange people coming to my door um",
+                "label": "sd"
+            },
+            {
+                "text": "Well I Ive got selv- - one of my favorites were - and I cant really think of any other um places",
+                "label": "%"
+            },
+            {
+                "text": "No except that this makes me fat No Im just kidding",
+                "label": "b"
+            },
+            {
+                "text": "Yeah you have to watch it if you go out to eat thats true",
+                "label": "b"
+            },
+            {
+                "text": "Yeah thats true but you can always blame it on having children no",
+                "label": "b"
+            },
+            {
+                "text": "Yeah there you go",
+                "label": "b"
+            },
+            {
+                "text": "Well I enjoyed talking to you and I guess you know",
+                "label": "fc"
+            },
+            {
+                "text": "Well good luck",
+                "label": "fc"
+            },
+            {
+                "text": "Maybe well see you in the restaurants somewhere",
+                "label": "+"
+            },
+            {
+                "text": "Yeah maybe",
+                "label": "fc"
+            },
+            {
+                "text": "Okay",
+                "label": "fc"
+            },
+            {
+                "text": "Okay Bye-bye",
+                "label": "fc^m"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc^m"
+            }
+        ]
+    }
+]

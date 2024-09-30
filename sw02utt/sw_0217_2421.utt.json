@@ -1,0 +1,499 @@
+[
+    {
+        "conversation_id": "conv_2421",
+        "turns": [
+            {
+                "text": "Okay So uh what do you think about it",
+                "label": "o"
+            },
+            {
+                "text": "Well um I guess I Im more concerned about public safety than I am about the um the concern for the private uh the idea of",
+                "label": "sd"
+            },
+            {
+                "text": "Privacy",
+                "label": "^2"
+            },
+            {
+                "text": "preserving privacy for",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "the individual um because I cant really see why anyone um who has nothing to hide would object",
+                "label": "+"
+            },
+            {
+                "text": "Well there is always the uh the possibility even remote as it is of uh of mistaken uh of -",
+                "label": "sd"
+            },
+            {
+                "text": "Thats of course that is certainly true",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "yeah",
+                "label": "b"
+            },
+            {
+                "text": "And see that bothers me Im Im I mean Im Im very much for drug testing",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "uh I really am I mean Im going Im going to take the negative side just for second",
+                "label": "sd"
+            },
+            {
+                "text": "Sure",
+                "label": "b"
+            },
+            {
+                "text": "just to do it Um see I have to take uh medication for uh for for kidney transplant",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And Im going to be taking that the rest of my life Now you -",
+                "label": "sd"
+            },
+            {
+                "text": "Sure",
+                "label": "b"
+            },
+            {
+                "text": "I dont know how thats going to affect uh",
+                "label": "sd"
+            },
+            {
+                "text": "If you had to have drug test",
+                "label": "qy^d"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I mean I havent had one yet Um I - I work for Texas Instruments --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and and uh we you know we do have the random drug testing but Ive missed it so far But I mean it in the back of my mind it always bothers me And what happens if it you know if it if they catch it they think that Im you know Im on drugs and they send me and and have me uh you know go through this this",
+                "label": "sd"
+            },
+            {
+                "text": "Checked out or whatever",
+                "label": "^2"
+            },
+            {
+                "text": "thing you know yeah",
+                "label": "+"
+            },
+            {
+                "text": "But it seems to me that there are ways to accommodate that Um I agree that that some innocent person might be victimized",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "by false test but I would think that um that some guidelines could be set up to avoid that For example that one uh positive would not be uh accepted as an automatic um reason for whatever they might be going",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "to do if they found positive uh dismissal or treatment or whatever but that that what it would do is it would trigger perhaps uh one or two more stages where further tests could be ta- uh done",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Because um there are there must be people like you or in other circumstances that could come up with with uh false positives for certain kind of drugs On the other hand um I think theres certainly some professions that ought to be tested --",
+                "label": "sv"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- because of the of their responsibility for the public welfare and certainly people in uh industries well the transportation industry",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "for spe- uh you know specifically",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "But um in many many cases whether or not an individual has problem with drugs its not even going to effect anybody but his uh you know himself and his own family perhaps um depending on the kind of drug he might be on",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "But um and eventually thats going to show up anyway in the way he works",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and so on But theres so many things that it would make difference I guess I I uh I would not want to have anyone in my family uh victimized by someone who you know bus driver or train engineer or something like that who um you know hadnt been tested",
+                "label": "+"
+            },
+            {
+                "text": "Right Well I you know Im like I said Im Im very much pro testing um and and this is why",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Uh number one is I Im Im kind of - I know this sounds like slogan for the government but I you know we are in war against",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "drugs I mean --",
+                "label": "+"
+            },
+            {
+                "text": "Sure",
+                "label": "b"
+            },
+            {
+                "text": "-- its its horrible I mean you dont know whether the person sitting next to you --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- anywhere is on drugs or not",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and it takes some drastic steps at this point And I think personally the drastic step has to be that um that you cant work if you continue taking drugs",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I mean its as simple as that I mean make it so",
+                "label": "sv"
+            },
+            {
+                "text": "Make it difficult enough",
+                "label": "^2"
+            },
+            {
+                "text": "Well make it uh ma- not necessarily difficult but make it so that its not glamorous",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "I mean its glamorous taking drugs or at least it seems that way",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah according to what you",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "you hear The people who um have serious problems I mean - we have um - really I guess were kind of lucky We really only know of one uh young man who uh whos fam- - they go to our church",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and its the son and so on and he was friends with my children um and hes really the only one that I know of personally who got himself really messed up um ha- having been involved with drugs But I know of number of other people who have you know gotten all messed up",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Most of these are young people I work in the education system and so I have little more contact with that But um the effect that its had on this young mans life is so dramatic that its heartbreaking --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and he may never really be productive member of society But sadder than that he may never be able to have normal happy life because it has strung him out so that he has anxieties now that are are almost uncontrollable I mean he he puts himself in the hospital fairly regularly thinking that you know he hes not sure if hes going try to commit suicide or not",
+                "label": "sv"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "I mean hes you know hes so messed up",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And um this was nice sweet young man who teenager you know - and hes now young man about twenty I guess who um just got really down the wrong path",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And uh you know I dont know that that his problem would ever have been detected by drug testing But seeing what drugs did to him makes me see makes me realize what it could do to people you know in the work force as well",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Um its horrible",
+                "label": "sv"
+            },
+            {
+                "text": "Well then - lets lets answer the second half of the question What limits ought to be put on it do you think",
+                "label": "%"
+            },
+            {
+                "text": "Well the limits uh uh would I think have to do with what Id alluded to before that there needs to be further um that that one positive on drug test",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "would not constitute uh dismissal or grounds for whatever the company or agency might uh have set up for those who genuinely have problem",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "In other words there needs to be um more than -",
+                "label": "sv"
+            },
+            {
+                "text": "Treatment before for dismissal type thing",
+                "label": "^2"
+            },
+            {
+                "text": "Pard- - yes right",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "there needs to be more than one test and there needs to be some some measure of uh certainty before anything drastic happens",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "There are lots of things that are involved there um such as perhaps insurance --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh you know denial of insurance for someone um and undoubtedly there are people who would be victimized by this um that would that you know - it would be unfair and people who are on medication for example or um even people who might be of the gay community - and Im not an advocate for that particular segment of society but um I think that there doesnt need to be fuel to the fire for discrimination --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- because it makes bigger problem Um so it seems to me that that um there needs to be some ground you know some rules --",
+                "label": "+@"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- that protect Im not sure though when we talk about what rules if any that we should say well certain segments should not have to be tested I really dont see why",
+                "label": "+"
+            },
+            {
+                "text": "Personally I think thats what I was about to say --",
+                "label": "sd"
+            },
+            {
+                "text": "And yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- is that everyone needs to be tested",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I dont",
+                "label": "b"
+            },
+            {
+                "text": "It you know -",
+                "label": "%"
+            },
+            {
+                "text": "I dont know why it would be you know uh bad to test just every- and it may be you know - its not feasible to do everyone but certainly random testing the fact that people know that that they -",
+                "label": "+"
+            },
+            {
+                "text": "That it could happen",
+                "label": "^2"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "would be some measure of protection - But the bottom line is that that if if youre going to stay clean and straight then um youre youre going to do that because you want to",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Really",
+                "label": "b"
+            },
+            {
+                "text": "Well theres yeah there theres going to be some measure of incentive uh reward or whatever but the reward ultimately comes down to what you want",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So I Ive got to agree with that So um -",
+                "label": "aa"
+            },
+            {
+                "text": "Thats very true",
+                "label": "ba"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "Well it sounds like we agree anyway",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah I think so I think we I think we did pretty good",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Well all right well uh I guess thats about it",
+                "label": "b"
+            },
+            {
+                "text": "I guess if thats all weve done and I guess weve talked long enough",
+                "label": "sv"
+            },
+            {
+                "text": "All right",
+                "label": "b"
+            },
+            {
+                "text": "It was nice talking to you",
+                "label": "fc"
+            },
+            {
+                "text": "It was it was talk nice talking to you too",
+                "label": "fc^m"
+            },
+            {
+                "text": "Okay bye-bye",
+                "label": "fc"
+            },
+            {
+                "text": "All right bye-bye",
+                "label": "fc"
+            }
+        ]
+    }
+]

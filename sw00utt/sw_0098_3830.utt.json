@@ -1,0 +1,523 @@
+[
+    {
+        "conversation_id": "conv_3830",
+        "turns": [
+            {
+                "text": "Hello",
+                "label": "fp"
+            },
+            {
+                "text": "Hello",
+                "label": "fp"
+            },
+            {
+                "text": "How you doing",
+                "label": "fp"
+            },
+            {
+                "text": "Fine",
+                "label": "fp"
+            },
+            {
+                "text": "Im Lee with uh uh - Im over here in Plano Texas",
+                "label": "sd"
+            },
+            {
+                "text": "Okay Let me ask you something can I run minute and shut my radio off",
+                "label": "b"
+            },
+            {
+                "text": "Oh sure",
+                "label": "na"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "Where are you calling from or --",
+                "label": "qw"
+            },
+            {
+                "text": "Arlington",
+                "label": "sd"
+            },
+            {
+                "text": "-- where are you at",
+                "label": "+"
+            },
+            {
+                "text": "Arlington Texas",
+                "label": "sd^r"
+            },
+            {
+                "text": "Arlington",
+                "label": "b^m"
+            },
+            {
+                "text": "Yes",
+                "label": "aa"
+            },
+            {
+                "text": "Well theres lot of - stuff going on in Arlington these days",
+                "label": "sv"
+            },
+            {
+                "text": "Yes not all good stuff",
+                "label": "aa"
+            },
+            {
+                "text": "Are you involved in any of that",
+                "label": "qy"
+            },
+            {
+                "text": "No",
+                "label": "nn"
+            },
+            {
+                "text": "No",
+                "label": "b^m"
+            },
+            {
+                "text": "No Im not not personally",
+                "label": "nn^r"
+            },
+            {
+                "text": "Well uh what benefits do - now do you work",
+                "label": "qw"
+            },
+            {
+                "text": "Im going to school right now",
+                "label": "sd"
+            },
+            {
+                "text": "Oh you are",
+                "label": "bh"
+            },
+            {
+                "text": "I can tell you about my last job or --",
+                "label": "co"
+            },
+            {
+                "text": "Okay",
+                "label": "aa"
+            },
+            {
+                "text": "-- whatever you want to talk about that or my husbands or what I think",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Ive got lot of -",
+                "label": "sd"
+            },
+            {
+                "text": "Because I I work for myself --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and so uh theres lot that I that I guess I do miss uh lot of benefits from working for big corporation I miss uh --",
+                "label": "sv"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "-- insurance and --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- uh the steady paychecks that come",
+                "label": "+"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "But uh -",
+                "label": "%"
+            },
+            {
+                "text": "Yes Ive been in my own business Mary Kay in fact Im selling in out now to go to school full time and --",
+                "label": "b"
+            },
+            {
+                "text": "Oh is that right",
+                "label": "bh"
+            },
+            {
+                "text": "-- I enjoyed the freedom of having that you know go to work when I wanted to or not --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but you know the benefits werent there",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "I uh I own part of roofing company",
+                "label": "sd"
+            },
+            {
+                "text": "Oh do you",
+                "label": "bh"
+            },
+            {
+                "text": "In the in the Dallas Fort Worth area",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh you know unfortunately we we were part of of bigger bigger company --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "-- and they uh you know we we had all the benefits there and and I do miss that",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know but uh on the other hand I I uh I enjoy having the the time --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- that I have with my family and --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- being able to you know work when I want and -",
+                "label": "+"
+            },
+            {
+                "text": "I think today the thing that I uh would appreciate the most - uh because my husband gets his medical through his company but we have --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- to pay for mine and were the only one Im the only one thats being insured and --",
+                "label": "+"
+            },
+            {
+                "text": "Oh is that right",
+                "label": "bh"
+            },
+            {
+                "text": "-- and we pay the same amount that someone over there that has four children has I mean so its kind of -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And I would - I really - and the way medical expenses are --",
+                "label": "%"
+            },
+            {
+                "text": "Its -",
+                "label": "%"
+            },
+            {
+                "text": "-- I think thats probably one of the biggest --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- benefits --",
+                "label": "+"
+            },
+            {
+                "text": "It it -",
+                "label": "%"
+            },
+            {
+                "text": "-- to ha- you need to have",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Ill tell you what that is the single most --",
+                "label": "aa"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- uh benefit that I that I enjoyed and I do miss because I looked into picking up some uh medical insurance for my just for my family you know just - and it is unbelievable --",
+                "label": "+"
+            },
+            {
+                "text": "Its out of sight",
+                "label": "aa"
+            },
+            {
+                "text": "-- how much you have to pay for it",
+                "label": "+"
+            },
+            {
+                "text": "Right its out of sight",
+                "label": "aa"
+            },
+            {
+                "text": "And uh yeah",
+                "label": "b"
+            },
+            {
+                "text": "Even at group rate I couldnt believe how much --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah --",
+                "label": "aa"
+            },
+            {
+                "text": "-- is our -",
+                "label": "+"
+            },
+            {
+                "text": "-- even at group rate Uh its its unbelievable and uh the amount that you have to pay for you know for kids and and if you want to add dental to it I mean thats --",
+                "label": "aa"
+            },
+            {
+                "text": "Right it goes up",
+                "label": "b"
+            },
+            {
+                "text": "-- that eats even more",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "So yeah I guess what the other benefits that uh that I uh that I miss I guess is uh you know some of the bonuses and stuff that --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- that goes on with just being involved with big company you know and course these days you cant count on that because -- -",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- uh you know I feel bad for the people that are involved in that uh deal there in --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b^r"
+            },
+            {
+                "text": "-- in Arlington and Im sure it will be you know quite few people are affected by that so -",
+                "label": "+"
+            },
+            {
+                "text": "Right its going to hurt the city although uh I will personally tell you I used to work at bank and I would see the people come in when they were they would shut down to retool",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "They were paid that whole time and I dont know if youre aware of this - -",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "Yes they come in there just they go off fishing and stuff and come in and every Friday and go to the safety deposit box and Im sitting there making hundred dollars week you know and",
+                "label": "ny"
+            },
+            {
+                "text": "Is that right",
+                "label": "bh"
+            },
+            {
+                "text": "And they had all these gr- - I I really believe they have done this to themselves in way because of the unions being so stocked",
+                "label": "+"
+            },
+            {
+                "text": "The union yeah",
+                "label": "b^m"
+            },
+            {
+                "text": "And right now anybodys thats laid off from will have full years paycheck I just read this in the paper the other day",
+                "label": "sd"
+            },
+            {
+                "text": "Is that right",
+                "label": "bh"
+            },
+            {
+                "text": "Plus probably an additional six months through the the workers stuff that they have at at uh through the company so Im sor- you know Im sorry its happening --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- because its going to hurt but I dont feel as sorry for them",
+                "label": "+"
+            },
+            {
+                "text": "Well -- -",
+                "label": "%"
+            },
+            {
+                "text": "If my husband --",
+                "label": "sd"
+            },
+            {
+                "text": "-- really the -",
+                "label": "%"
+            },
+            {
+                "text": "-- were laid off tomorrow wed get one more check and that would be it",
+                "label": "+"
+            },
+            {
+                "text": "Yeah really the ones its going to hurt is is actually the the businesses around --",
+                "label": "b"
+            },
+            {
+                "text": "Yes",
+                "label": "aa"
+            },
+            {
+                "text": "-- in that area",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah thats already --",
+                "label": "aa"
+            },
+            {
+                "text": "You know thats the ones that --",
+                "label": "sv"
+            },
+            {
+                "text": "-- hurting",
+                "label": "+"
+            },
+            {
+                "text": "-- that thats going to hurt because they depend on that uh",
+                "label": "+"
+            },
+            {
+                "text": "But I think theres case where benefits have gotten - they voted them in and they got so good I mean like two dollars for prescription --",
+                "label": "sv"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- no deductible on the medical all these things you know --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^r"
+            },
+            {
+                "text": "-- and it made the prices of cars go up and --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and you know the - I we I believe in unions but they went too far",
+                "label": "+"
+            },
+            {
+                "text": "Well Ill tell you I --",
+                "label": "sd"
+            },
+            {
+                "text": "I mean I cant make eighteen dollars an hour",
+                "label": "sd"
+            },
+            {
+                "text": "-- Ive had my fill of unions I -",
+                "label": "+"
+            },
+            {
+                "text": "I mean I know someone out here that makes eighteen dollars an hour",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            }
+        ]
+    }
+]

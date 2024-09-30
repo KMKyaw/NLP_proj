@@ -1,0 +1,439 @@
+[
+    {
+        "conversation_id": "conv_2380",
+        "turns": [
+            {
+                "text": "Well this is kind of ironic because I work in I - legal department",
+                "label": "sv"
+            },
+            {
+                "text": "Do you",
+                "label": "bh"
+            },
+            {
+                "text": "And although we dont have any criminal actions here we do have other um lawsuits that do go to trial from time to time",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh when was it couple weeks ago I was asked to go to uh jury duty I I wasnt selected but um for some of our cases in particular we have um very technical cases from time to time because of like our patents and such",
+                "label": "t1"
+            },
+            {
+                "text": "Sure",
+                "label": "b"
+            },
+            {
+                "text": "And its very difficult for lay people for somebody who might just you know happen to be selected in our jury to understand what were talking about",
+                "label": "sv"
+            },
+            {
+                "text": "Well I do think that the cases like the uh oh say something like Texaco versus Pennzoil",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "or or the Texaco Pennzoil problem",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "uh is ridiculous for people just taken off the street to understand and",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "really should have some better way where people who understand both the circumstances and the complex issues involved should handle cases like that",
+                "label": "+"
+            },
+            {
+                "text": "Yeah you know some I dont - you always have the option now in criminal I guess you always have jury but in civil cases you have the option of whether you want jury or not",
+                "label": "b"
+            },
+            {
+                "text": "Oh is that right",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah and in some incidences I think they ought to ought not to have jury",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "um",
+                "label": "%"
+            },
+            {
+                "text": "Okay boy Or uh or there should be some way where it could be opted for them not to have jury Uh I was only on one jury ever",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "so far in my life and uh it really was pretty trivial case and it seemed to me all the time I was thinking of all these people in the courtroom over the case that involved oh couple thousand dollars I think",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "it was it was really just uh uh terrific waste of everybodys time and money",
+                "label": "+"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "And it finally ended up that uh even though we had reached verdict before we were allowed to give it they settled the case",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "They wo- they had settled while we were deliberating",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Now the one thing I did approve of there was that we didnt have to be unanimous because it was civil case",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh we were split uh ten to two so it was uh good thing that it wasnt total waste of time to have hung jury on case that trivial",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah well um Ive never fully served I mean Ive been asked twice to go down but I didnt get elected on the panel but I know that um for lot of the civil cases its rare - I mean if your lawyer um there you could be lawyer who never actually gets into the courtroom theres lot of attorneys like that that never get to the courtroom Some their kind of law doesnt get them to the courtroom but even in um litigation which is doing lawsuits is lot of times that you never get to the courtroom itself and",
+                "label": "b"
+            },
+            {
+                "text": "Well I think that the trial in sense is kind of threat to hold over people to try to get them to reach an agreement out of court",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "+@"
+            },
+            {
+                "text": "because it does cost so much money",
+                "label": "+"
+            },
+            {
+                "text": "But its shame that oh - its not so bad for the court system because the money there isnt being spent but theres awful lot of money in time and effort spent in preparing for trial only to then finally get scared enough by going to the court and usually its the scare kind of of the jury because you really dont know one way or the other how that jury is going to feel",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You could feel that you really have very strong case and that youre very much right but the jury may or may not see it that way",
+                "label": "sv"
+            },
+            {
+                "text": "Sure",
+                "label": "b"
+            },
+            {
+                "text": "so you get little antic- you know anxious there and go well you know",
+                "label": "sv(^q)"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I dont feel that sure and who knows what the jury will say because sometimes you know the juries come down with result and you go gee",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I was witness in case in criminal case",
+                "label": "b^r"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And it was absolutely horrifying to me how that operated because so much evidence was excluded",
+                "label": "sv"
+            },
+            {
+                "text": "Um",
+                "label": "b@"
+            },
+            {
+                "text": "and that the jury was never allowed to hear and they convicted the defendant I on as far as I could tell very flimsy evidence and two perjured testimonies",
+                "label": "sv"
+            },
+            {
+                "text": "Oh really",
+                "label": "+@"
+            },
+            {
+                "text": "And I knew the people involved both the people who and the people who uh were defendants",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And - yeah I think that was just horrible miscarriage of justice because of the uh you know staying by the absolute strict rules and not allowing things to be presented to the jury that uh were highly irrelevant to the case and could I thought have established the defendants innocence",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So uh I do - although Im lawyers daughter and I have lawyers",
+                "label": "%"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh@"
+            },
+            {
+                "text": "and judges on both sides of the family and uncles and cousins and things like that I really think that we have gotten into much too legalistic of society and that we we spend far too much on the fine points of the law and far too little on achieving justice",
+                "label": "+"
+            },
+            {
+                "text": "Yeah and it seems lot of times that uh especially in criminals that their rights are so protected but what about the rights of you know the rest of society I mean were protecting this persons rights who has broken the law",
+                "label": "+@"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "um and we protect him so much but what about the rest of the society you know what are we doing for them were kind of you know forgetting about them and I think sometimes that criminal should kind of - if he breaks law especially it hes repeater the law shouldnt just always cover for him",
+                "label": "+"
+            },
+            {
+                "text": "Well and then in lot of -",
+                "label": "sv"
+            },
+            {
+                "text": "that some of his rights as should be taken",
+                "label": "+"
+            },
+            {
+                "text": "Yeah in criminal cases uh for instance you cant bring up prior convictions unless they are somehow directly related to the case And it seems to me that jury can make much more rational decision if they know somebody had fifteen convictions for similar crime",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "now its possible that he didnt commit the - but the likelihood certainly tilts it",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^r"
+            },
+            {
+                "text": "With record like that And",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^r"
+            },
+            {
+                "text": "that was one of the things that were not allowed to was not allowed in the uh trial I went to though uh one of the two people who gave the perjured testimony had long criminal record and had been you know real sleaze bag",
+                "label": "+"
+            },
+            {
+                "text": "Um",
+                "label": "b@"
+            },
+            {
+                "text": "And he came in and was presented to the court as standing young man who had uh been in seminary to become priest and you would have thought the guy was just pure as the driven snow but I happen to know his background and I know that he would have sold out his mother for uh uh shorter sentence",
+                "label": "sv"
+            },
+            {
+                "text": "Jeez",
+                "label": "ba"
+            },
+            {
+                "text": "And you know its its really annoying when the - I asked the defense attorney later why he didnt bring up all this other trouble the guy had been in He said that that was barred uh by the court",
+                "label": "sv"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "So we do have some problems and it seems to me that uh maybe its time to just scrap all the case law and go back to general principles and start over And then make legal system that carefully protects people but uh where you -",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah Id even go for for trying to get some truth out of the witness stand if they come up with some pretty reliable uh um lie detector tests that we can see right then and there whether theyre lying or telling the truth",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Yeah that would be wrongful",
+                "label": "b"
+            },
+            {
+                "text": "Yeah you know",
+                "label": "b"
+            },
+            {
+                "text": "Sure would",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah I witnessed one trial many years ago when I was first um studying to be paralegal and uh uh they barred priors on this uh person and they never then told us I guess because priors had reason as to why these two people were very much in hatred of each other",
+                "label": "b"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "And they never told us why these two people had such vendetta against each other and the crime was uh uh attempt to commit murder you know",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "but they never told us why these people were mad at each other and gee you know thats -",
+                "label": "sd"
+            },
+            {
+                "text": "And you think that would be relevant",
+                "label": "^2"
+            },
+            {
+                "text": "Yeah you know because they they told us in school that you know crime has to be an intent you know has to be not just the act but you have to intend to do it because there could be accidental kind of things you know",
+                "label": "aa"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "but they never told us why these two people hated themselves or if one had done something to you know really aggravate the other there was never any motive",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "given and and I had tough time with that and and being person who saw what the jury didnt plus what the jury did because we were just observing you know there in the courtroom",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "at the end of it all I still didnt know",
+                "label": "+"
+            },
+            {
+                "text": "Yeah right",
+                "label": "b"
+            },
+            {
+                "text": "I still have lot of reasonable doubts and Ive seen everything presented and you know they just havent done real complete case here to my thinking",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I dont know that I want to",
+                "label": "sv"
+            },
+            {
+                "text": "I think so and I -",
+                "label": "sd"
+            },
+            {
+                "text": "sit on jury like that and youd still you know - I want ask some questions here",
+                "label": "+"
+            },
+            {
+                "text": "Yeah thats something I thought would be very good idea of when juries come in they are told just to shut up and listen",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And it seems to me that youd get lot more uh information if your questions were heard",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "if you were allowed to ask the witnesses things or if or the lawyers things or even the judge",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "But particularly the witnesses",
+                "label": "sv"
+            },
+            {
+                "text": "Right Yeah allow them to uh go back and and deliberate and uh you know after each days proceedings come out with some questions that they want answered like the next day bring those people back",
+                "label": "aa"
+            },
+            {
+                "text": "Or if they would allow them to uh give broader answers they - its really kind of uh choreographed Its like script has been written when people testify They arent testifying really in their own words",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Yeah I can remember uh friends of Daddy -",
+                "label": "b"
+            }
+        ]
+    }
+]

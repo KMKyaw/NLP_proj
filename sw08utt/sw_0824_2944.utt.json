@@ -1,0 +1,599 @@
+[
+    {
+        "conversation_id": "conv_2944",
+        "turns": [
+            {
+                "text": "Uh well I mean Ive had time to think about it because uh weve had - uh i- - i- - theres been great deal of difficulty in finding someone to talk to so",
+                "label": "sd^t"
+            },
+            {
+                "text": "Oh okay",
+                "label": "b"
+            },
+            {
+                "text": "So um I I was thinking about couple things uh --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and whether they are serious Some things are serious and some arent I guess the biggest thing that bothers me is is uh -- -",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- not the biggest thing - but one of the things that bothers me is the credit information uh situation",
+                "label": "t1"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "that you uh that you find yourself almost compromised into giving if you want any - sort of credit",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "- extensive checks and and things of that nature",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "When um - I I I mean I I dont know if thats an invasion of privacy simply I I do - I do feel it is but I dont know whether",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "some of the questions they ask are legitimate --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh because they are the ones who are making the profit out of your -",
+                "label": "+"
+            },
+            {
+                "text": "Well whats scary is uh uh about two three four months ago on Sun- in the Sunday edition of what is called the morning paper here The DALLAS MORNING NEWS",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "They showed reporter and um and copy editor how they went out and they just took um fellow in John Public in Dallas and all they had was - lets see they had his birth- they had something like his birth date the street address um they werent even sure of the correct spelling of his last name excuse me and it was um very scary to see what they found out I mean they were able to find out what liens he still had against you know two or three houses through two divorces childrens names locations um it was really frightening",
+                "label": "sd"
+            },
+            {
+                "text": "Well I guess I guess then its just the big brother concept of the fact",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "that once you give your social security number there are people I guess who are who are uh actually collecting all this all the time and",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and profiles are given I understand uh - I read the other day that uh these telemarketeers when someone talks to you on the phone --",
+                "label": "+@"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh all all they need now is your telephone number which I guess is involved in this controversy of whether they can reveal your telephone number or not",
+                "label": "+"
+            },
+            {
+                "text": "Right uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I I I feel that is an invasion of privacy but it -",
+                "label": "sv"
+            },
+            {
+                "text": "I do too yeah I dont the other thing I dont like is um in terms of uh - like we just moved here from uh Minneapolis and uh to get the the very nice townhouse that were in",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "you were required by the property management firm that was representing private landlo- - you know husband and wife owners um who had never done this before They um asked us for again an astounding amount of information and what we really didnt have the same opportunity - you know and I guess thats when I also get upset that if youre going to do it then I want to do it too",
+                "label": "+"
+            },
+            {
+                "text": "Yeah exactly",
+                "label": "aa"
+            },
+            {
+                "text": "Um in terms of the credit - yeah I know um were also going through adoption now",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "in for an adoption - and I mean after we gave our fingerprints - to the I you you",
+                "label": "%"
+            },
+            {
+                "text": "My God",
+                "label": "ba@"
+            },
+            {
+                "text": "look at each other yeah you look at each other and say well its too late now",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "+@"
+            },
+            {
+                "text": "Um so I mean its its matter of anybody can get it any way and how if they really try um -",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah I I have particular subject that not everyone agrees with me uh --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh go ahead",
+                "label": "b"
+            },
+            {
+                "text": "-- uh well by - - uh I make my living by uh flying airplanes for",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "for company",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh as as uh an airline pilot I have to take random drug testing",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I mean it seems to me the public outcry was for that at the time - so I when I finish certain flight on random basis I have to",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "uh have wri- drug test and and and thats without i- uh probably cause",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and uh - - and",
+                "label": "%"
+            },
+            {
+                "text": "it isnt -",
+                "label": "%"
+            },
+            {
+                "text": "in the end now I mean theyve tested theyve spent forty million dollars and theyve found uh I think uh in pilots anyway of something like uh uh eighty-six thousand tests theres only been two guys have come up uh three guys have come up positive and one of them was bad test so -",
+                "label": "+"
+            },
+            {
+                "text": "Positive for anything see yeah See uh and I just started working well for an electronics firm down here I used to be reporter",
+                "label": "^2"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And then now Im in corporate communications",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and uh part of that excuse me was as new hire that I had to take drug test",
+                "label": "sd"
+            },
+            {
+                "text": "Drug test righ- -",
+                "label": "b^m"
+            },
+            {
+                "text": "and I had never been asked that and I thought um I really didnt like it Um I I have very mixed feelings about it I dont disagree or agree with you",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Um I think i- I think that its well and youre in that field so I dont know but its - you know we lived in uh Minneapolis when the Northwest Airlines pilot in the Dakotas -",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah right",
+                "label": "b"
+            },
+            {
+                "text": "yeah that hit the fan like uh - you uh youre obviously aware of that um",
+                "label": "b"
+            },
+            {
+                "text": "Yes I am",
+                "label": "aa"
+            },
+            {
+                "text": "I dont know there should be some happy medium in terms of - if theyre going to do random um - I I dont agree with random - I guess I would look for standard in consistency",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know in terms of maybe at set intervals so that everybody knows whats going on um I dont see problem with that I do think I see some level of necessity um in something where people are transporting other people uh only because of the things youve heard about The problem is - the reason I feel that way even to low degree is because its the old story the minority make it bad for the you know majority um",
+                "label": "+@"
+            },
+            {
+                "text": "Yeah I I can understand the publics alarm to it",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Im not alarmed",
+                "label": "b"
+            },
+            {
+                "text": "but I guess having done this all my life I knew that there wasnt problem and and it indeed it has proved out that way but now try to get the damn thing repealed you know",
+                "label": "sd"
+            },
+            {
+                "text": "You cant yeah I know its um -",
+                "label": "ar"
+            },
+            {
+                "text": "I guess I feel bad because - uh not only that - but in some of the instances like you just cited where you have to give your fingerprints I mean wha- what what happens if you say no If you say no then youre excluded and I - doesnt seem the courts -",
+                "label": "sd"
+            },
+            {
+                "text": "Right right its matter - and thats um exactly what it is",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I mean that that kind of screening in general is matter of exclusion Um if we didnt give it we wouldnt go to Romania",
+                "label": "sv"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "I mean if - you hate to say that but thats the way it is",
+                "label": "%"
+            },
+            {
+                "text": "Its my feeling also that that that although - I I dont know if its that serious i- but that was part of the question",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I do feel the courts have have held up great deal of of our privacy I mean particularly look in in some of the in some of the -",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "uh I notice in some of the sexual cases theyve held up great deal of privacy",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "which I support of course but it I guess with our fear with crime and maybe airline crashes and things like that it does seem that weve weve slipped and thats eroded or at least those in the market place their everyday life seemed to take that as signal that you know its fair game - - you you have to answer these questions of course",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh I dont know I I feel there has been an erosion and I dont really know how serious it is except I dont like it",
+                "label": "h"
+            },
+            {
+                "text": "In terms of the privacy yeah that in it - and also I agree with that and in the in terms of the question um in terms uh - I worked in medical public relations for almost decade",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "and that was pre-AIDS and all the other um things",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "that were probably there but just not excuse me labeled and I have real problem with medical professionals um it goes back to the things like drug screening but if its in any level even with the potential to endangerment -",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "um and I think this is much stronger than you know pilots or uh train engineers being screened",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "um the transmission of the AIDS virus um - i- - i- - thats real ethical problem I mean I dont I dont have the answer I I you know I mean I think of the young girl in Florida who - well yeah thats - was she from your part of the country Or was she from -",
+                "label": "sd"
+            },
+            {
+                "text": "What was that",
+                "label": "br"
+            },
+            {
+                "text": "The young girl that uh contracted AIDS through her dentist allegedly",
+                "label": "sd^r"
+            },
+            {
+                "text": "Oh yeah yeah yeah",
+                "label": "bk"
+            },
+            {
+                "text": "And then they proved it yeah",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "I dont I dont know um i- - I dont know if its the old story that we are killing ourselves in general or what um",
+                "label": "sd"
+            },
+            {
+                "text": "Well I mean it it - just take that that step now where where now we feel theres need to do that and the next thing you know then",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "uh theres always the need to to go and inspect lockers of high school students tha- -",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah the - I guess the question is uh - the the thing for me is who sets the parameters or who has the control you know",
+                "label": "b"
+            },
+            {
+                "text": "Yeah I guess so I mean well uh good luck to you you just moved to Texas --",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- from Minneapolis Uh I dont",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I dont hold out much hope for you I think theyll be cultural shock I mean I was based there lot uh several times in the service and I was absolutely flabbergasted at the - in in at least in criminal law some of the some of the",
+                "label": "+"
+            },
+            {
+                "text": "Oh its its ter- -",
+                "label": "%"
+            },
+            {
+                "text": "latitudes that the police had - but -",
+                "label": "+"
+            },
+            {
+                "text": "Im uh - very seriously - no- - more than just seriously - Im more than likely going to be going to law school in the Fall",
+                "label": "%"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "bk"
+            },
+            {
+                "text": "And yeah if I figure out thats still what I really want to do - and th- the things Im finding out are the in terms of things like privacy the way the law is interpreted presented",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "um its no better than journalism Um except in journalism its words um this is very frightening in that uh oh - and in uh in Texas they they - they do not require for instance for prospective adoptive parents",
+                "label": "sv"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "whether its domestic or international - theyre one of only five states that do not require criminal investigation check Yet if youre caught with - lets just say um that somebody whos in ne- - not us - but somebody whos need of carting um aluminum beer cans around they havent touched them they havent drank them",
+                "label": "+"
+            },
+            {
+                "text": "Um",
+                "label": "b@"
+            },
+            {
+                "text": "they picked them up off the street and they want to take them to recycling uh resource --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "+@"
+            },
+            {
+                "text": "-- for money or whatever Um theyve theyve been going through lot of bad publicity here in the last three or four months again um because theyve been arresting people like that",
+                "label": "+"
+            },
+            {
+                "text": "Well I mean I dont understand",
+                "label": "sd"
+            },
+            {
+                "text": "You know -",
+                "label": "qy"
+            },
+            {
+                "text": "if you if you dont - if they dont make criminal check why do you have to be fingerprinted",
+                "label": "%"
+            },
+            {
+                "text": "Because um in our case one is at the state and the other one is at the federal level Because you have to de- because you have to deal with the I yeah because you have to deal with the uh imi- immigration service -",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I see oh the state doesnt require it Well thats kind of thats rather thats rather unusual isnt it",
+                "label": "bk"
+            },
+            {
+                "text": "Yeah it is its uh - the whole thing is - I mean theres again theres no consistency You know like in your - in terms of you being pilot and being tested randomly um I cant see why after certain number of years or after certain time frame they cant do it at an interval or you know I mean -",
+                "label": "ny"
+            },
+            {
+                "text": "Well I guess I guess the extension of that is why why not - the next thing you know well just stop random amount of motorists and then if we really think that drugs are problem we can randomly stop anybody on the street",
+                "label": "qh"
+            },
+            {
+                "text": "They they do that in Texas",
+                "label": "sd"
+            },
+            {
+                "text": "Oh they do",
+                "label": "bh"
+            },
+            {
+                "text": "They dont do it for drugs what they do is they check to see if youve got uh current insurance or they check to",
+                "label": "na"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "to see if youre permits are -",
+                "label": "+"
+            },
+            {
+                "text": "Well theres theres all sorts of scare tactics I guess to to invade our privacy and -",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah I know and its kind of um - whats the word I want I dont - its ju- - to me its just frightening you know",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I mean the old uh - Im old enough now where George Orwell - uh way past time -",
+                "label": "%"
+            },
+            {
+                "text": "I just going to say NINETEEN EIGHTY-FOUR",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "is come an- is come and gone but its here",
+                "label": "+"
+            },
+            {
+                "text": "Yeah its exactly true I mean I -",
+                "label": "aa"
+            },
+            {
+                "text": "And the computers of course helps that The computer abilities store that information",
+                "label": "sv"
+            },
+            {
+                "text": "Well look at what were talking now I mean its - look how were talking now I mean you wonder ultimately what network of stranger you know -",
+                "label": "ad^t"
+            }
+        ]
+    }
+]

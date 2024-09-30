@@ -1,0 +1,415 @@
+[
+    {
+        "conversation_id": "conv_2191",
+        "turns": [
+            {
+                "text": "Well I uh before I was married I used to play lot of sports",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh but when I got married and had children and everything it seems like I keep all my activity just chasing around fulfilling my obligations so I havent done lot of uh exercise on purpose",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "What about you",
+                "label": "qo"
+            },
+            {
+                "text": "Well its funny this week - yesterday I started exercising seriously",
+                "label": "^h"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "This weekend I cleaned out my closets and uh couple years ago I too got married I havent have any children yet but this weekend I cleaned out some closets and I found bathing suit that I had bought",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Tried it on and decided I really did not like how it looked on me",
+                "label": "sd"
+            },
+            {
+                "text": "Oh no that can be awful",
+                "label": "nn"
+            },
+            {
+                "text": "So yesterday I went to uh spa I belong to private spa and went in and and got with trainer and uh he checked body fat content --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and we set up program for me to work on and I went back tonight also",
+                "label": "sd"
+            },
+            {
+                "text": "Oh thats good",
+                "label": "ba@"
+            },
+            {
+                "text": "So Ive been two nights in row and I Im going to take it pretty seriously Im going to start going every night just you know - even if I I - like tonight I only went for thirty minutes",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "+@"
+            },
+            {
+                "text": "but I at least did something",
+                "label": "sd"
+            },
+            {
+                "text": "Do you work out on - like is it the weight machines or aerobics or what is it",
+                "label": "qy"
+            },
+            {
+                "text": "Last night I did about thirty minutes of riding bike and few like three different types of uh uh weight lifting for my legs and",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and my hips --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and then I did hour of aerobics",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And that was really tough",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I bet",
+                "label": "ba"
+            },
+            {
+                "text": "And I was sore this morning when I got up but then tonight I got into - its sort of like an aerobics class --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but its only thirty minutes and its for your abdominals --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- your thighs and your butt",
+                "label": "+"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "So and that was - thirty minutes was definitely plenty So -",
+                "label": "%"
+            },
+            {
+                "text": "Doesnt sound like low impact",
+                "label": "qy^d"
+            },
+            {
+                "text": "No it was lot of sweat but",
+                "label": "nn"
+            },
+            {
+                "text": "Well -",
+                "label": "%"
+            },
+            {
+                "text": "Ive been trying to eat correctly also",
+                "label": "+@"
+            },
+            {
+                "text": "Well thats good",
+                "label": "ba"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "So are you moti- -",
+                "label": "qy"
+            },
+            {
+                "text": "Have you started exercising at home or -",
+                "label": "qy"
+            },
+            {
+                "text": "Well I like I am undisciplined in the sense that I cant just go and do exercise but I like to uh play tennis and play racquetball --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- I I like to get exercise when Im playing game of some sort and so thats always been the way that I have kept myself in uh the shape that I was satisfied with at least And uh then I have given that up but uh I would really like to start that again because I am now you know not in position that I like myself",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I dont feel good and I get you know - when you get out of shape and you dont - if - youre easily tired --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and so that has made me - but I Im not the kind of person that could go to spa --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and work out I just - if something like uh - I mean I have so many chores and so many --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- obligations every day for to add another obligation --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- would make me feel stressed",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I wouldnt enjoy it But if I have something some team sport or some activity then its kind of like having fun",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "playing and then you then you get some of the uh good exercise and some of the desired results but you youre doing it for fun",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But I really admire people who can go and work out and",
+                "label": "sd"
+            },
+            {
+                "text": "Well I dont you know - lot of people - I have girlfriend that goes for the social aspect of it --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "+@"
+            },
+            {
+                "text": "-- and she walks around talks to people and and I dont really get into that Naturally Im married --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- so my husband goes lot and well go and and just do what we want to do and then leave",
+                "label": "sd"
+            },
+            {
+                "text": "Well thats nice",
+                "label": "ba"
+            },
+            {
+                "text": "But yeah and swimming is is part that I Id like to get into as far as my you know - just aerobic activity --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- they say that swimming is real good so Id like to try that as well And thats probably something that that you could do you know --",
+                "label": "+"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "-- family",
+                "label": "+"
+            },
+            {
+                "text": "It is kind -",
+                "label": "%"
+            },
+            {
+                "text": "included",
+                "label": "+"
+            },
+            {
+                "text": "It is family and its fun",
+                "label": "^2"
+            },
+            {
+                "text": "uh-huh",
+                "label": "aa"
+            },
+            {
+                "text": "Its fun thing and kids enjoy that and and all And also the nice thing about belonging to club is that you can have some of the relaxation you know like saunas or --",
+                "label": "sd^r"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- you know uh hot Jacuzzis or whatever",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "they have that kind of is kind of makes it fun and stuff you know you can relax that way",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "afterwards and things",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I agree",
+                "label": "aa"
+            },
+            {
+                "text": "Well I guess its getting late",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And I should take off but uh I appreciate that that helped me helped motivate me",
+                "label": "sd"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "Think someone can do it",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Maybe I should start thinking about it again",
+                "label": "sd"
+            },
+            {
+                "text": "Well try it or or maybe just exercise at home I bought tape and Im going to try doing that",
+                "label": "ad"
+            },
+            {
+                "text": "Yeah I bought one I went to the - I bought the low impact first I thought",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I shouldnt out of the blue just jump in",
+                "label": "+@"
+            },
+            {
+                "text": "Yeah thats me",
+                "label": "b"
+            },
+            {
+                "text": "So but I havent done it",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But Im going to try it Well you have good night",
+                "label": "sd"
+            },
+            {
+                "text": "Thanks lot",
+                "label": "fc"
+            },
+            {
+                "text": "Well see you Bye-bye",
+                "label": "fc"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc^m"
+            }
+        ]
+    }
+]

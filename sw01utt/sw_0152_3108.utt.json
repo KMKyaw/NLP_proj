@@ -1,0 +1,535 @@
+[
+    {
+        "conversation_id": "conv_3108",
+        "turns": [
+            {
+                "text": "Well what movies have you seen recently Valerie",
+                "label": "qw"
+            },
+            {
+                "text": "Lets see the last one we saw was THELMA AND LOUISE",
+                "label": "^h"
+            },
+            {
+                "text": "Oh we havent seen that one yet",
+                "label": "sd"
+            },
+            {
+                "text": "Well dont bother",
+                "label": "ad"
+            },
+            {
+                "text": "Oh it wasnt that good",
+                "label": "qy^d"
+            },
+            {
+                "text": "Well oh from womans point of view and it was very uh chauvinistic as far as women go Uh it was it was entertaining but yeah I dont think the general audience would would go for it",
+                "label": "sv"
+            },
+            {
+                "text": "The most recent one that uh my wife and I have seen was the CITY SLICKER",
+                "label": "sv"
+            },
+            {
+                "text": "How was that",
+                "label": "qw"
+            },
+            {
+                "text": "That was excellent It was --",
+                "label": "sd"
+            },
+            {
+                "text": "That is one Ive been dying to see",
+                "label": "sd"
+            },
+            {
+                "text": "-- just really really funny movie At the same time it had story line about people trying to find themselves There were parts that were sad I mean it just ran the gamut of emotion",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh uh-huh and -",
+                "label": "b"
+            },
+            {
+                "text": "And but it was just enter- all around entertaining",
+                "label": "sd"
+            },
+            {
+                "text": "How long did that movie run",
+                "label": "qw"
+            },
+            {
+                "text": "Uh its still on to the best of my knowledge",
+                "label": "sd"
+            },
+            {
+                "text": "But I mean time wise how long was it --",
+                "label": "qw"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- two hour or -",
+                "label": "+"
+            },
+            {
+                "text": "Uh its I think its less than two hours",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Okay okay",
+                "label": "b"
+            },
+            {
+                "text": "We we rented one recently that seemed to go on forever",
+                "label": "sd"
+            },
+            {
+                "text": "That always seems to happen when you rent them you know",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah but this one it was fairly long I Im guessing probably an hour and forty-five minutes maybe",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh uh-huh and uh it -",
+                "label": "b"
+            },
+            {
+                "text": "But excellent acting by Billy Crystal and --",
+                "label": "sd"
+            },
+            {
+                "text": "Was it oh good",
+                "label": "ba"
+            },
+            {
+                "text": "Bruno Kirby",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh who was the - oh Jack Palance had an excellent part in there as the old cowboy",
+                "label": "sd"
+            },
+            {
+                "text": "Oh great",
+                "label": "ba"
+            },
+            {
+                "text": "So we really enjoyed that",
+                "label": "sd"
+            },
+            {
+                "text": "Oh well Im looking forward to seeing that one That was next on our list so uh -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I think that uh I can highly recommend that movie this to see",
+                "label": "b"
+            },
+            {
+                "text": "Okay okay good deal --",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- good deal Do you rent movies very often or -",
+                "label": "ba^r"
+            },
+            {
+                "text": "Uh we generally rent couple week Uh in order to get decent movie to have on weekend youve got to rent it on Thursday",
+                "label": "sd"
+            },
+            {
+                "text": "Right Right",
+                "label": "b"
+            },
+            {
+                "text": "They get --",
+                "label": "sd"
+            },
+            {
+                "text": "Thats exactly right",
+                "label": "aa"
+            },
+            {
+                "text": "-- they get taken up at the store so -",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "We will rent two or three movies on Thursday and uh with luck youll have one or two that are good",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah right right",
+                "label": "aa"
+            },
+            {
+                "text": "Most of them are coin flip",
+                "label": "sv"
+            },
+            {
+                "text": "Oh gosh Yeah yeah And we usually have oh we dont get out as much as we like We have two children so we occasionally get out to the movies --",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- but uh its its fun its fun thing to do to get out and --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah well",
+                "label": "b"
+            },
+            {
+                "text": "-- be entertained for once",
+                "label": "+"
+            },
+            {
+                "text": "Quite frequently we have our grandchildren on the weekends --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh well try to rent something that they can see as well as something else that we can see and",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh What ages are they Have you found --",
+                "label": "b"
+            },
+            {
+                "text": "Uh",
+                "label": "+"
+            },
+            {
+                "text": "-- trouble finding movies for them or -",
+                "label": "+"
+            },
+            {
+                "text": "Uh generally try to stay in the at least range",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "The uh the oldest is nine the youngest is three He doesnt really pay attention",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "The five year old doesnt have the attention span either",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But the the nine year old will watch anything thats on",
+                "label": "sd"
+            },
+            {
+                "text": "Uh-oh uh-oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "They have been doing that Weve been waiting for good movie out this summer for the kids to see The last one they saw was HOME ALONE and uh they enjoyed that but uh I missed that one My husband took the kids to see that one so -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah my wife took uh I think the kids to see that one but --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- we can generally find something at the store for them to watch",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah well thats good deal",
+                "label": "b"
+            },
+            {
+                "text": "The - uh oh we saw this movie - PRESUMED INNOCENT was the one we rented uh --",
+                "label": "%"
+            },
+            {
+                "text": "Okay let me think --",
+                "label": "b"
+            },
+            {
+                "text": "-- last weekend",
+                "label": "+"
+            },
+            {
+                "text": "-- if I have rented that one",
+                "label": "+"
+            },
+            {
+                "text": "Harrison Ford",
+                "label": "sd"
+            },
+            {
+                "text": "Harrison Ford and how does the story line go",
+                "label": "qw"
+            },
+            {
+                "text": "Its uh he is prosecuting attorney and uh another prosecutor in the woman prosecutor in there is murdered --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay we havent seen that one",
+                "label": "bk"
+            },
+            {
+                "text": "-- and hes trying to find it but course its one of these with twist where it looks like hes the one that wound up killing her so its",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And its an extremely long movie Its its over two hours long",
+                "label": "+"
+            },
+            {
+                "text": "Oh gosh oh gosh",
+                "label": "ba"
+            },
+            {
+                "text": "Which - uh my wife enj- she likes the suspense movies I enjoy --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- them to degree",
+                "label": "+"
+            },
+            {
+                "text": "I think thats the one I wanted to pick up the other day and then my husband wasnt going to be able to watch it with me so I thought I better save that one for another day",
+                "label": "sd"
+            },
+            {
+                "text": "Save that for another day",
+                "label": "b^m"
+            },
+            {
+                "text": "Yeah because I think hed like that one",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You enjoyed that one then",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah I think you its uh its something I think you would enjoy yes",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh okay well thats good one to put on the list",
+                "label": "b"
+            },
+            {
+                "text": "It its like most suspense movies what was - it was on recently uh FATAL ATTRACTION",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Its one that once youve seen it once and uh the suspense there is not really you really cant see it again --",
+                "label": "sd"
+            },
+            {
+                "text": "Right okay",
+                "label": "b"
+            },
+            {
+                "text": "-- so you know all the story and who did what --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and when it happened so --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh okay",
+                "label": "b"
+            },
+            {
+                "text": "-- once once you seen one thats suspenseful type movie like that then its its not good for second watching particularly",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "At least I dont think so",
+                "label": "sd"
+            },
+            {
+                "text": "I dont think too many of them are anymore Its its shame but uh -",
+                "label": "sv"
+            },
+            {
+                "text": "I dont know weve watched WEEKEND AT BERNIES any number of times",
+                "label": "h"
+            },
+            {
+                "text": "I know",
+                "label": "aa"
+            },
+            {
+                "text": "Its just slapstick comedy",
+                "label": "sd"
+            },
+            {
+                "text": "Oh no Oh",
+                "label": "ba"
+            },
+            {
+                "text": "Sit there and laugh and my one grandson and I - my wife cant understand it but we like BILL AND TEDS EXCELLENT ADVENTURE --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh gosh",
+                "label": "ba"
+            },
+            {
+                "text": "-- which is another funny one",
+                "label": "+"
+            },
+            {
+                "text": "Yeah weve heard about that one but we havent seen that one either So well it sounds like you and your grandson like the same kinds of movies",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah we like to laugh",
+                "label": "aa"
+            },
+            {
+                "text": "Oh God",
+                "label": "ba"
+            },
+            {
+                "text": "I I have theory I like movies for entertainment I dont want to --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- uh go away depressed --",
+                "label": "+"
+            },
+            {
+                "text": "Right right",
+                "label": "b"
+            },
+            {
+                "text": "-- from watching movie",
+                "label": "+"
+            },
+            {
+                "text": "I agree I agree",
+                "label": "aa"
+            },
+            {
+                "text": "Lifes depressing enough",
+                "label": "sv"
+            },
+            {
+                "text": "Thats for sure",
+                "label": "aa"
+            },
+            {
+                "text": "Well Ive certainly enjoyed talking with you",
+                "label": "fc"
+            },
+            {
+                "text": "Well you too Jim",
+                "label": "fc"
+            },
+            {
+                "text": "Okay bye",
+                "label": "fc"
+            },
+            {
+                "text": "Thanks for punching in and uh -- -",
+                "label": "ft^t"
+            },
+            {
+                "text": "Have nice weekend",
+                "label": "fc"
+            },
+            {
+                "text": "-- I hope you see good movie soon",
+                "label": "fc"
+            },
+            {
+                "text": "Okay",
+                "label": "fc"
+            },
+            {
+                "text": "Okay",
+                "label": "fc"
+            },
+            {
+                "text": "Bye",
+                "label": "fc"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc"
+            }
+        ]
+    }
+]

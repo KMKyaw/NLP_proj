@@ -1,0 +1,947 @@
+[
+    {
+        "conversation_id": "conv_3057",
+        "turns": [
+            {
+                "text": "Hi you want to start first",
+                "label": "fp"
+            },
+            {
+                "text": "Of course We are talking about the elderly and",
+                "label": "aa"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "uh whether or not we wo- we like nursing homes and",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "as matter of fact I can tell you something about that",
+                "label": "+"
+            },
+            {
+                "text": "You apparently have somebody there in one",
+                "label": "qy^d"
+            },
+            {
+                "text": "No actually my grandmother owned and operated nursing home for years and her mother -",
+                "label": "nn"
+            },
+            {
+                "text": "Oh you are kidding",
+                "label": "qy"
+            },
+            {
+                "text": "No she did",
+                "label": "nn"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "And then my mother also owned and operated nursing home",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "for years",
+                "label": "+"
+            },
+            {
+                "text": "I will be darned",
+                "label": "ba"
+            },
+            {
+                "text": "And then uh went on back to school and became the director of nurses at nursing home",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh my mother and my older sister both are geriatric nurses",
+                "label": "sd"
+            },
+            {
+                "text": "Oh for heavens sake",
+                "label": "ba"
+            },
+            {
+                "text": "So I do know something about that",
+                "label": "sd"
+            },
+            {
+                "text": "You are very very much aware of what goes on",
+                "label": "sv"
+            },
+            {
+                "text": "Absolutely",
+                "label": "aa"
+            },
+            {
+                "text": "That is great",
+                "label": "ba"
+            },
+            {
+                "text": "Actually the motivation for Grandmother entering the business",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "was that her mother was very old",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and couldnt seem to find companions",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "She was lonely",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And she needed company",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "for her mother and so she opened nursing home and initially started with eight ladies",
+                "label": "+"
+            },
+            {
+                "text": "I will be darned",
+                "label": "ba"
+            },
+            {
+                "text": "And then uh it it grew into",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "very prosperous business from that point Uh then they -",
+                "label": "+"
+            },
+            {
+                "text": "Now see that is nice attitude to go into",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh it seems like they must be waiting until it is necessity --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and there is no chance of uh good companionship or doing anything",
+                "label": "sv"
+            },
+            {
+                "text": "Well that is not really true either uh I think that is stigma and an I",
+                "label": "ad"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and an impression that has come from some few bad experiences You see those who had bad experiences talk about them",
+                "label": "+"
+            },
+            {
+                "text": "Uh right right",
+                "label": "b"
+            },
+            {
+                "text": "And those who do not may write",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "letter to the nursing home and say you did good",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "but they do not talk whole lot about that",
+                "label": "sd"
+            },
+            {
+                "text": "That is true But what I mean is instead of maybe entering nursing home",
+                "label": "ba"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "when you are still able to have good",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "relationships with",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "maybe other friends --",
+                "label": "+"
+            },
+            {
+                "text": "Sure Well now",
+                "label": "b"
+            },
+            {
+                "text": "-- they wait until they are you know unable",
+                "label": "+"
+            },
+            {
+                "text": "That is right Well that is because they wait until the children make those choices",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "they choose to not make those",
+                "label": "+"
+            },
+            {
+                "text": "Right right",
+                "label": "b"
+            },
+            {
+                "text": "choices themselves However my daughter-in-law also is nurse in nursing home",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh she works for one here in Dallas which is more retirement village than it is nursing home And these these -",
+                "label": "sd"
+            },
+            {
+                "text": "Uh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I love watching these elderly people come they will come and tell her Well I am going for my",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "tennis lessons And uh would yo- would you you know call down and have the van come around and take",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "us for our tennis lessons And they are very active and very enthusiastic and they have",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "some excellent programs right there on site",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Their dining room looks like you know Lubys Cafeteria",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah That is great",
+                "label": "b"
+            },
+            {
+                "text": "Or or one of the lovely cafeterias And they have you know pink linen napkins for their dinners",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And well equipped library",
+                "label": "+"
+            },
+            {
+                "text": "Yeah that sounds great",
+                "label": "b"
+            },
+            {
+                "text": "Oh I am certainly very much for nursing home and I think when the the parent gets old enough",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "to the extent where they just do not want to be bothered with keeping house",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and with taking care of themselves",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "anymore That is wonderful alternative",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "It is expensive It is costly",
+                "label": "sv"
+            },
+            {
+                "text": "See if they could could get this idea across though better than what it is",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "you know -",
+                "label": "+"
+            },
+            {
+                "text": "Well now my daddys mother uh lived in retirement village and she and her sister had side by side duplexes",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "one bedroom duplex She still had her individuality",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "but they were there close and they did have uh you know the button that you could push the central office if you got into problems and",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "there were lights that you could flip on and so forth And they have security -",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "No I am very much in favor - I have heard horror stories",
+                "label": "b"
+            },
+            {
+                "text": "Oh well you have that with anything",
+                "label": "sd"
+            },
+            {
+                "text": "I know that the elderly can easily be abused",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "but I would be willing to bet they are far less abused in nursing home than are they are in",
+                "label": "sd"
+            },
+            {
+                "text": "In the homes yeah",
+                "label": "^2"
+            },
+            {
+                "text": "homes of their own children",
+                "label": "+"
+            },
+            {
+                "text": "Well",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "we used our nursing home as uh - like when my sister was real bad before she died --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh we took her the last month and half",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "into nursing home",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And they were super with her",
+                "label": "sd"
+            },
+            {
+                "text": "Absolutely",
+                "label": "aa"
+            },
+            {
+                "text": "They were uh",
+                "label": "sd"
+            },
+            {
+                "text": "Well now my grandmother - of course all of my folks lived to be very old --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and my grandmother developed Hodgkins Disease",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "when she was in her late eighties",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "uh late seventies I mean",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "She went to the doctor she had surgery she got the treatments and during",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "the period of time that she was undergoing those treatments she was in nursing home",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "She got better she got well she got out and went dancing again",
+                "label": "sd"
+            },
+            {
+                "text": "Well lot of people do that They",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "left them temporally maybe they had",
+                "label": "+"
+            },
+            {
+                "text": "That is right",
+                "label": "ba"
+            },
+            {
+                "text": "broken hip or something or -",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh uh-huh I think it is wonderful interim place",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "it is place that you do not have to struggle with hospital",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "problems and yet it is not you know - you have -",
+                "label": "+"
+            },
+            {
+                "text": "And it can become home to them",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "It",
+                "label": "sv"
+            },
+            {
+                "text": "It certainly is",
+                "label": "ba"
+            },
+            {
+                "text": "It depends upon the individual",
+                "label": "+"
+            },
+            {
+                "text": "It certainly does but you see we have had excellent experience with that And uh I I did not put my husband in nursing home when he became ill but",
+                "label": "ba"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I would not object to going to one I might",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I might like to be uh coherent enough to make my own choice",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh I would not particularly think I would want my kids to say well I think this is what I need for Mom and",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "This is - and -",
+                "label": "%"
+            },
+            {
+                "text": "then dump me there But I would like -",
+                "label": "+"
+            },
+            {
+                "text": "There has to be consideration taken on everything",
+                "label": "sv"
+            },
+            {
+                "text": "That is right uh-huh uh-huh And I think you would shop for nursing home just like you would shop for church",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "or doctor or anything else",
+                "label": "+"
+            },
+            {
+                "text": "That is right you would look into it thoroughly and",
+                "label": "ba"
+            },
+            {
+                "text": "uh-huh sure",
+                "label": "b"
+            },
+            {
+                "text": "do do the best job you could in choosing one",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh When you get to the point where you are in trouble",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and you have got to have that help you are in no position to make those choices",
+                "label": "+"
+            },
+            {
+                "text": "No and you do not have the time to look that is what",
+                "label": "b"
+            },
+            {
+                "text": "That is right",
+                "label": "ba"
+            },
+            {
+                "text": "I am saying",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "most people will not even look at that until it becomes necessity",
+                "label": "sv"
+            },
+            {
+                "text": "Absolutely I think that one of the best ways to do that is for families to realize they are going to be needing those facilities one day",
+                "label": "ba"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and to actually get involved and participate on community level with community service Go out to the nursing home help guide some craft programs perhaps work on some music programs whatever their talents are",
+                "label": "+"
+            },
+            {
+                "text": "Whatever their talents yeah",
+                "label": "b^m"
+            },
+            {
+                "text": "And work with",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "those senior citizens",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I have cousin who is uh - she had son that was epileptic from birth and he did fine",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "at home they lived on farm",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "but she made arrangements so that when she was gone",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "she did not want her her children --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- her other children burdened with his care",
+                "label": "+"
+            },
+            {
+                "text": "That is right",
+                "label": "ba"
+            },
+            {
+                "text": "So he they she has made arrangements that when she she was gone that he would go into the nursing home",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And he has I would say he adjusted very well and uh he he he has been there quite long time",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh he dont know me usually",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So he goes wheeling down uh the hall to bingo Somebody else is helping him out",
+                "label": "sd"
+            },
+            {
+                "text": "That is right",
+                "label": "ba"
+            },
+            {
+                "text": "you know",
+                "label": "+"
+            },
+            {
+                "text": "Uh",
+                "label": "sv"
+            },
+            {
+                "text": "and uh he has adjusted very well",
+                "label": "sd"
+            },
+            {
+                "text": "Well one of the things I think that is most desirable for the elderly and that is routine",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh oh yes Yes",
+                "label": "b"
+            },
+            {
+                "text": "Routine and",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "uh constancy",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh the only real problem with that in nursing home is that the staff turns over I do not think they pay the nursing home staff sufficiently",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "to to get the dedication",
+                "label": "+"
+            },
+            {
+                "text": "To keep them there uh-huh",
+                "label": "^2"
+            },
+            {
+                "text": "that they have in some other profession",
+                "label": "+"
+            },
+            {
+                "text": "True",
+                "label": "ba"
+            },
+            {
+                "text": "and that is sad because I think the health profession is one of the most critical",
+                "label": "sv"
+            },
+            {
+                "text": "Yes But",
+                "label": "b"
+            },
+            {
+                "text": "And uh -",
+                "label": "%"
+            },
+            {
+                "text": "for some reason people resist uh the fact that they should be paid as well as businesses and that type of thing you know",
+                "label": "+"
+            },
+            {
+                "text": "That is right",
+                "label": "ba"
+            },
+            {
+                "text": "It seems to be resistance",
+                "label": "sv"
+            },
+            {
+                "text": "Care for the elderly and care for the children",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I cannot imagine more costly and more",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "more uh better area to invest",
+                "label": "+"
+            },
+            {
+                "text": "Right right",
+                "label": "b"
+            },
+            {
+                "text": "your money",
+                "label": "+"
+            },
+            {
+                "text": "But there seems to be resistance",
+                "label": "sv"
+            },
+            {
+                "text": "You are preserving your heritage and your future there",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah yeah So uh -",
+                "label": "b"
+            },
+            {
+                "text": "And as matter of fact I do not see why they do not have childrens programs in nursing homes",
+                "label": "sv"
+            },
+            {
+                "text": "Well around here we have some you know the churches",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "take your the children and",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I know our kids thoroughly - the children thoroughly enjoy -",
+                "label": "+"
+            }
+        ]
+    }
+]

@@ -1,0 +1,583 @@
+[
+    {
+        "conversation_id": "conv_3524",
+        "turns": [
+            {
+                "text": "I say Arlington Texas now because I talked one night to somebody in Arlington Virginia",
+                "label": "sd"
+            },
+            {
+                "text": "Oh my yeah Well and Plano Texas rather than Plano Illinois",
+                "label": "ba"
+            },
+            {
+                "text": "Oh do they have one",
+                "label": "qy"
+            },
+            {
+                "text": "Yes they do",
+                "label": "ny"
+            },
+            {
+                "text": "Oh I didnt know that Well I learned something already",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Well lets see the three questions are what uh -",
+                "label": "b"
+            },
+            {
+                "text": "How much time do you spend with your children",
+                "label": "qw"
+            },
+            {
+                "text": "Very little",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "Because theyre grown",
+                "label": "+"
+            },
+            {
+                "text": "What",
+                "label": "br"
+            },
+            {
+                "text": "Theyre grown and gone",
+                "label": "sd^r"
+            },
+            {
+                "text": "Oh yeah well mine is uh down at Austin at college and the other one is in high school",
+                "label": "b"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "So you do spend less time then",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah --",
+                "label": "ny"
+            },
+            {
+                "text": "- -",
+                "label": "%"
+            },
+            {
+                "text": "-- because they dont want to know they almost dont want to know us",
+                "label": "sd"
+            },
+            {
+                "text": "They want to be with their friends How old are your kids Are they married or what",
+                "label": "qy^d"
+            },
+            {
+                "text": "Uh yes I have uh two married two almo- and then two almost married and the other two Im not sure Well Two - two two uh uh for sure are single",
+                "label": "ny"
+            },
+            {
+                "text": "Oh boy you have lot of kids",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah we have between the spouse and myself we have six",
+                "label": "aa"
+            },
+            {
+                "text": "Oh well thats kind of nice though You --",
+                "label": "ba"
+            },
+            {
+                "text": "Because I came with split family and --",
+                "label": "sd"
+            },
+            {
+                "text": "-- you shouldnt be --",
+                "label": "+"
+            },
+            {
+                "text": "-- she had -",
+                "label": "+"
+            },
+            {
+                "text": "-- lonesome on holiday huh",
+                "label": "+"
+            },
+            {
+                "text": "Well no there is so much of them are gone and theyre doing their own things and --",
+                "label": "nn"
+            },
+            {
+                "text": "Well thats true",
+                "label": "aa"
+            },
+            {
+                "text": "-- and lot of times they theyve got you know uh when the holidays -",
+                "label": "+"
+            },
+            {
+                "text": "They have to see their other parent I guess --",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah --",
+                "label": "ny"
+            },
+            {
+                "text": "-- too",
+                "label": "+"
+            },
+            {
+                "text": "-- and sometimes they want to do their own thing so --",
+                "label": "sd"
+            },
+            {
+                "text": "I know",
+                "label": "ba"
+            },
+            {
+                "text": "-- sometimes its just spouse and me And and you know what",
+                "label": "+"
+            },
+            {
+                "text": "What",
+                "label": "qw"
+            },
+            {
+                "text": "Sometimes thats okay",
+                "label": "sd"
+            },
+            {
+                "text": "I know",
+                "label": "ba"
+            },
+            {
+                "text": "Because -",
+                "label": "%"
+            },
+            {
+                "text": "Thats what my mother said one time",
+                "label": "sd"
+            },
+            {
+                "text": "You know right because who says that they just must got to come over to see us all the time --",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- for the holidays",
+                "label": "+"
+            },
+            {
+                "text": "No thats true and if they force them to you know --",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- thats not good either",
+                "label": "+"
+            },
+            {
+                "text": "That becomes drudgery and",
+                "label": "sv"
+            },
+            {
+                "text": "Well do they all live in the area",
+                "label": "qy"
+            },
+            {
+                "text": "Well lets see - got of the six weve got four around here",
+                "label": "+@"
+            },
+            {
+                "text": "uh-huh oh wow",
+                "label": "b"
+            },
+            {
+                "text": "Uh you know well were talking like north Texas",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And then one is in Vermont uh Montpe- Mont- Montpelier --",
+                "label": "sd"
+            },
+            {
+                "text": "Golly",
+                "label": "ba"
+            },
+            {
+                "text": "-- Montpelier Vermont and the other one is in Everett Washington",
+                "label": "+"
+            },
+            {
+                "text": "How did they end up so far away",
+                "label": "qw"
+            },
+            {
+                "text": "Well that is thats the the my little pair",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And my second marriage Uh and uh -",
+                "label": "+"
+            },
+            {
+                "text": "Those are the youngest ones",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah well the - - the the the the fourth and fifth child of the --",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- of the of the uh six are the two that are scattered like that",
+                "label": "+"
+            },
+            {
+                "text": "Boy thats those are long way",
+                "label": "sv"
+            },
+            {
+                "text": "And",
+                "label": "sd"
+            },
+            {
+                "text": "How -",
+                "label": "%"
+            },
+            {
+                "text": "Well they wanted to go uh my my my last son --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- or my middle son excuse me fell in love with Washington state --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and the the the third daughter fell in love with uh uh Vermont",
+                "label": "sd"
+            },
+            {
+                "text": "Vermont",
+                "label": "b^m"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "So they wanted to make their homes there",
+                "label": "bf"
+            },
+            {
+                "text": "Yeah thats where theyve gone to make their homes",
+                "label": "aa"
+            },
+            {
+                "text": "My goodness Are they are those two married",
+                "label": "ba"
+            },
+            {
+                "text": "No",
+                "label": "nn"
+            },
+            {
+                "text": "They uh just working up there or going to school or what",
+                "label": "qr"
+            },
+            {
+                "text": "Well uh lets see yeah I guess youd say is working going to - trying to go to school",
+                "label": "^h"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I wish to God he would go back",
+                "label": "sd"
+            },
+            {
+                "text": "Oh they do",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Especially if they if theyre meant to I think",
+                "label": "+"
+            },
+            {
+                "text": "Well I certainly hope so",
+                "label": "sd"
+            },
+            {
+                "text": "I mean Ive got daughter thats sophomore at and Im Im going to right now myself so --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- its never too late",
+                "label": "+"
+            },
+            {
+                "text": "Well its oh I agree its never too late",
+                "label": "aa"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And -",
+                "label": "%"
+            },
+            {
+                "text": "Especially in some of these schools around here I think they have about twenty percent older students",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah and when youre saying older were talking fifty up",
+                "label": "aa"
+            },
+            {
+                "text": "Oh yeah Ive seen some people that are really quite up there you know --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- they look like in their very late sixties and I say --",
+                "label": "+"
+            },
+            {
+                "text": "Oh my uh-huh",
+                "label": "ba"
+            },
+            {
+                "text": "-- thats great why not you know",
+                "label": "+"
+            },
+            {
+                "text": "Yes why not because thats lot of times well its - I believe that uh we in that category - and Im not in that category quite yet --",
+                "label": "aa"
+            },
+            {
+                "text": "No",
+                "label": "aa"
+            },
+            {
+                "text": "-- but we are seasoned minds",
+                "label": "sv"
+            },
+            {
+                "text": "Oh yeah youre really ready to learn finally",
+                "label": "aa"
+            },
+            {
+                "text": "Yes uh-huh",
+                "label": "aa"
+            },
+            {
+                "text": "I mean I dont know why I even went to college when I was seventeen",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah it was -",
+                "label": "b"
+            },
+            {
+                "text": "It was complete waste of money",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah settle down - we know what were wanting to to uh study and uh --",
+                "label": "aa"
+            },
+            {
+                "text": "Right right We -",
+                "label": "aa"
+            },
+            {
+                "text": "-- we know our limitations",
+                "label": "+"
+            },
+            {
+                "text": "Right and uh -",
+                "label": "aa"
+            },
+            {
+                "text": "And we dont try to burn the candle at both ends and in --",
+                "label": "sv"
+            },
+            {
+                "text": "No",
+                "label": "aa"
+            },
+            {
+                "text": "-- the middle altogether",
+                "label": "+"
+            },
+            {
+                "text": "We dont go out drinking beer till three and try to go to class in the morning",
+                "label": "sv"
+            },
+            {
+                "text": "At seven yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Were past yeah were past that age",
+                "label": "sv"
+            },
+            {
+                "text": "Yes were were smarter now",
+                "label": "aa"
+            },
+            {
+                "text": "We know what we can do",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah right uh so lets see So mine I dont spend whole lot of time because theyre not here",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And so the second question forgot what the second question",
+                "label": "sd^t"
+            },
+            {
+                "text": "What was it uh - what do the trends in families and do we approve what other families do",
+                "label": "t1"
+            },
+            {
+                "text": "Well uh the trends in the families were to spread apart do your own thing",
+                "label": "sv"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "But I have seen --",
+                "label": "sd"
+            },
+            {
+                "text": "change",
+                "label": "qy^2"
+            },
+            {
+                "text": "-- lately yes I am seeing",
+                "label": "+"
+            },
+            {
+                "text": "I was going to say the same thing",
+                "label": "sd"
+            },
+            {
+                "text": "Im seeing change that whoops government cant do it schools are --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- not able to --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and between persons religion uh their their faith in their maker --",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- - whether you know uh whether youre Christian or Jewish --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- or whatever uh - and the family -- -",
+                "label": "+"
+            },
+            {
+                "text": "Are going to have to solve some of the problem huh",
+                "label": "qy^g"
+            },
+            {
+                "text": "-- those are the two that can that that have the wherewithal and of course Judeo-Christianity uh and of the Jewish folks too believe that the family unit is the one that was given the uh uh mission by the Lord --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- to do this very thing So when another group of of uh people step in try to do it theyre theyre tromping on our territory so to speak so -- -",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- I firmly believe that uh",
+                "label": "sd"
+            }
+        ]
+    }
+]

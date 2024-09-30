@@ -1,0 +1,507 @@
+[
+    {
+        "conversation_id": "conv_3255",
+        "turns": [
+            {
+                "text": "Okay for as far as um I would think the probably the uh worst substance thats probably um - or started to say the uh - what causes the most air pollution is probably the car --",
+                "label": "o"
+            },
+            {
+                "text": "Probably so",
+                "label": "ba"
+            },
+            {
+                "text": "-- and uh whether or not um theyll ever get into like huge transit systems into big cities where people would all travel on high speed uh train or or something like that or -",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah itll be hard to get people to give up their mobility",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah thats exactly it and thats what were finding um here where were at in Minneapolis area is that people dont want to carpool --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- that there are inconveniences to that or maybe you dont like the person you have to you would want to carpool with that kind of thing so its its kind of thing where uh I think the majority of the people do not carpool",
+                "label": "+"
+            },
+            {
+                "text": "I think so too Im in Texas --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and very few people carpool --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- uh the people that I know dont want to because uh they never know for sure what time theyre going to leave their job --",
+                "label": "sd"
+            },
+            {
+                "text": "Exactly",
+                "label": "aa"
+            },
+            {
+                "text": "-- they never know when they want to run out and do an errand at noon you know",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "they just feel they need their car",
+                "label": "+"
+            },
+            {
+                "text": "or if somebody gets sick Yeah or if somebody gets sick and its not the other person --",
+                "label": "^2"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and they want to go home and that one persons got the car --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- then theyre theyre stuck youre --",
+                "label": "+"
+            },
+            {
+                "text": "Thats right",
+                "label": "ba"
+            },
+            {
+                "text": "-- definitely right so slash error",
+                "label": "+"
+            },
+            {
+                "text": "And people dont want to give it up --",
+                "label": "sv"
+            },
+            {
+                "text": "Yes slash error",
+                "label": "+@"
+            },
+            {
+                "text": "-- but now I think weve made great strides --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- in changing lot of that by going to the unleaded gasoline and --",
+                "label": "+"
+            },
+            {
+                "text": "Sure",
+                "label": "b"
+            },
+            {
+                "text": "-- and to change the car itself --",
+                "label": "+"
+            },
+            {
+                "text": "Sure that happens quite bit",
+                "label": "aa"
+            },
+            {
+                "text": "-- but uh you know I I dont guess we can get away from it hundred percent --",
+                "label": "sv"
+            },
+            {
+                "text": "Yes yeah --",
+                "label": "b"
+            },
+            {
+                "text": "-- but --",
+                "label": "%"
+            },
+            {
+                "text": "-- thats very true",
+                "label": "ba"
+            },
+            {
+                "text": "-- yeah should this be two slash units",
+                "label": "+@"
+            },
+            {
+                "text": "Uh other than that uh I dont know",
+                "label": "sd"
+            },
+            {
+                "text": "Well my other line is ringing --",
+                "label": "sd^c"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "-- but were going to ignore it",
+                "label": "ad^c"
+            },
+            {
+                "text": "Oh okay well try to be real quick here",
+                "label": "aa"
+            },
+            {
+                "text": "Im sorry for these beeps",
+                "label": "fa^c"
+            },
+            {
+                "text": "The other thing then is because I dont know how long they want us to talk",
+                "label": "qw^d^t"
+            },
+            {
+                "text": "Oh close to five minutes I believe",
+                "label": "sd^t"
+            },
+            {
+                "text": "Five minutes oh okay",
+                "label": "b^m"
+            },
+            {
+                "text": "And youre in Minneapolis",
+                "label": "qy^d"
+            },
+            {
+                "text": "Minneapolis area",
+                "label": "na"
+            },
+            {
+                "text": "Well is the pollution really bad up there",
+                "label": "qy"
+            },
+            {
+                "text": "Uh actually no We have uh quite bit uh the only problem that we have and thats all over the whole world is ozone --",
+                "label": "ng"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and of course hay fever season --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you get some pollutants such as those but those are natural --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- um but there is starting to - in Minneapolis itself because of so many people on the highway there is becoming problem of pollution and --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- they just put in strict law that as of every year when you get your license tabs --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you have to have your car inspected --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- to see if its releasing any uh lead into the air --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- or other pollutants and if thats the case then you have to get your car fixed",
+                "label": "+"
+            },
+            {
+                "text": "Well --",
+                "label": "sd"
+            },
+            {
+                "text": "at least where you -",
+                "label": "%"
+            },
+            {
+                "text": "-- thats the way it has gotten here We have just had that law I think about year maybe year and half here in Texas --",
+                "label": "+"
+            },
+            {
+                "text": "Sure yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- but uh I think its good idea --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah its not bad idea",
+                "label": "aa"
+            },
+            {
+                "text": "-- because lot of people still want to drive the older cars --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- which you cant blame them for that --",
+                "label": "+"
+            },
+            {
+                "text": "Sure sure",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh but if they are polluting the air they need do need to have them fixed --",
+                "label": "sv"
+            },
+            {
+                "text": "Exactly",
+                "label": "aa"
+            },
+            {
+                "text": "-- and you know theres big move especially in the industrial part in Texas right now of controlling the - --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- that the big manufacturing companies are producing into the air --",
+                "label": "+"
+            },
+            {
+                "text": "Sure",
+                "label": "b"
+            },
+            {
+                "text": "-- theyre having to change the type of products they use --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh they cant use - like I have friend thats in the air conditioning heating business --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and they have to pay penalty for every ounce or pound of this certain type of freon that they use in the air conditioning syst- systems --",
+                "label": "sd"
+            },
+            {
+                "text": "Sure",
+                "label": "b"
+            },
+            {
+                "text": "-- therefore the individual every time they have service call if they have an old unit thats still using this twenty-two freon or whatever --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- it is it costs them three times as much to get it fixed --",
+                "label": "+"
+            },
+            {
+                "text": "Sure",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh if you have new high efficiency system that uses the new type of freons that do not release as many - into the atmosphere --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- it doesnt cost as much --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- so eventually people are going to have to go to newer systems you know",
+                "label": "+"
+            },
+            {
+                "text": "Sure --",
+                "label": "b"
+            },
+            {
+                "text": "But -",
+                "label": "%"
+            },
+            {
+                "text": "-- uh the other thing when youre talking about freon with cars uh air conditioning Im sure --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- over there its necessity --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- versus something up here we can live without it but its uncomfortable --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but uh this year my husband recharged our freon because it was needed to be done and one of the cans released entire amount --",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "-- of freon into the uh into the air because he opened it and I dont know --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- if there was something wrong with it or it his directions werent quite fully instructed onto that and I was thinking how many other people -- -",
+                "label": "+"
+            },
+            {
+                "text": "Its probably happened to millions of people",
+                "label": "sv"
+            },
+            {
+                "text": "-- oh sure because --",
+                "label": "ba"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- if you take it into service station they want to charge you forty dollars just for uh freon which only costs you about three dollars --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- so I have this feeling that freon probably will increase in price because it is something that people will have to take into consideration and say Hey thats --",
+                "label": "sv(^q)"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- thats right there I think its like three or four dollars can --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and it takes about four to five cans to fill up air conditioning unit in car and I I thought about that and my husband even was kind of woozy after that because Im sure he breathed it --",
+                "label": "sd"
+            },
+            {
+                "text": "Inhaled so much of it uh-huh",
+                "label": "^2"
+            },
+            {
+                "text": "-- but uh you think about that all the people that are using freon and things like that and slash error",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah well of course in the uh - I think you probably noticed in the discount stores and places in the hair sprays --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh slash error",
+                "label": "+@"
+            },
+            {
+                "text": "-- were not seeing as many aerosol cans down here --",
+                "label": "+"
+            },
+            {
+                "text": "Exactly",
+                "label": "aa"
+            },
+            {
+                "text": "-- nearly everything is in the pump squirt",
+                "label": "+"
+            },
+            {
+                "text": "Pump yeah should this be two slash units",
+                "label": "b^m@"
+            }
+        ]
+    }
+]

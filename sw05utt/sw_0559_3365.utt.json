@@ -1,0 +1,395 @@
+[
+    {
+        "conversation_id": "conv_3365",
+        "turns": [
+            {
+                "text": "Hi this is Donna Donahue",
+                "label": "fp"
+            },
+            {
+                "text": "Hi Donna",
+                "label": "fp"
+            },
+            {
+                "text": "Hi",
+                "label": "fp"
+            },
+            {
+                "text": "Ready to get started",
+                "label": "qy^t"
+            },
+            {
+                "text": "Uh yeah I think so",
+                "label": "ny^t"
+            },
+            {
+                "text": "Okay Sort of an interesting topic since I just got back from lunch here",
+                "label": "o"
+            },
+            {
+                "text": "Okay Well what did you have for lunch",
+                "label": "b"
+            },
+            {
+                "text": "Oh it was uh it was - Im an officer in the Air Force",
+                "label": "%"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "and we went to the Officers Club for little Mexican food slash error with utt2 one utt today slash error",
+                "label": "sd@"
+            },
+            {
+                "text": "Oh Well thats interesting",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "+"
+            },
+            {
+                "text": "Okay So our topic is is food today is that -",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "If youre having dinner party what what would you serve",
+                "label": "qw"
+            },
+            {
+                "text": "Okay uh do you want me to go first",
+                "label": "^h"
+            },
+            {
+                "text": "Sure",
+                "label": "na"
+            },
+            {
+                "text": "Okay If I was having dinner party I would probably um have some um some uh um some fruit to start with with some apples sliced up and maybe some cheddar cheese and crackers and grapes and um probably serve maybe some wine and beer and maybe have some uh uh salsa and chips around and peanuts And then I would have um lets see I usually have like little theme when I have dinner party so slash error",
+                "label": "^h"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Um I would have maybe um say if it was like Greek night or something -- sd",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- um maybe um on the barbecue wed put uh cubes of lamb or I guess lamb used for Greek And um like shish kabob",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and um mushrooms and tomatoes and onions and then wed have um like big Greek tossed salad kind of like Caesar salad",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And um lets see what else Um maybe some rolls and um I guess some uh some rice or something like that How does that sound",
+                "label": "t1"
+            },
+            {
+                "text": "Jeez well well when is the party here",
+                "label": "fe"
+            },
+            {
+                "text": "Yeah Um yeah that would take some planning but -",
+                "label": "b"
+            },
+            {
+                "text": "I dont know being being the bachelor here that I am I I dont think Id Id be - - - I mean it its not question of capability here to do something like that Its just theres theres no motivation",
+                "label": "h"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "You know I want to I want to throw some charcoal on the grill and and throw steak on there and some baked potatoes and stuff like that but um -",
+                "label": "sd"
+            },
+            {
+                "text": "Well that sounds good too I have um I have three kids --",
+                "label": "ba"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- so um when we have friends over I have my oldest kind of baby-sit for the little two younger ones upstairs and um usually we just have very plain kind of you know interesting not very interesting meals",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Pizza and that all so once in while when we do something like that its kind of fun but its not",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "not regular thing Um slash error",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Now are we supposed to talk for about five minutes is that - slash error with utt3 one unit it",
+                "label": "+"
+            },
+            {
+                "text": "Yeah thats what they",
+                "label": "ny"
+            },
+            {
+                "text": "Okay slash error",
+                "label": "+@"
+            },
+            {
+                "text": "they are shooting for here",
+                "label": "+"
+            },
+            {
+                "text": "Okay Um lets see now wh- - okay so you would have barbecue wouldn- -",
+                "label": "bk"
+            },
+            {
+                "text": "Well I live on I live on lake here",
+                "label": "no"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and uh so it - and then during the summertime its real nice to be able to entertain outdoors",
+                "label": "%"
+            },
+            {
+                "text": "Oh sure",
+                "label": "ba"
+            },
+            {
+                "text": "like thats little more casual thing But in mine the wintertime its not bad too because then Ive got fireplace and nice nice house and all that so we",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "sort of slash error with a54--two utts",
+                "label": "+@"
+            },
+            {
+                "text": "Oh that sounds wonderful",
+                "label": "ba"
+            },
+            {
+                "text": "really good place to do entertaining like that - I just havent uh really tried whole lot but uh --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- I dont know lets see I have had well one time I did have dinner party I served uh uh - I had gang of people over and kind of made fried chicken thing and biscuits",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and kind of southern uh southern food even though Im up here in New York so -",
+                "label": "+"
+            },
+            {
+                "text": "Oh you are in New York right now",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Oh Im Im in Texas I didnt know this was all from all over the whole country",
+                "label": "b"
+            },
+            {
+                "text": "Oh yeah Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Oh I see",
+                "label": "bk"
+            },
+            {
+                "text": "it is Its -",
+                "label": "sd"
+            },
+            {
+                "text": "And Im fr- originally from Long Island",
+                "label": "sd"
+            },
+            {
+                "text": "Oh no kidding",
+                "label": "qy"
+            },
+            {
+                "text": "Yes and now where are you in New York",
+                "label": "ny"
+            },
+            {
+                "text": "Upstate",
+                "label": "sd"
+            },
+            {
+                "text": "Oh upstate",
+                "label": "b^m"
+            },
+            {
+                "text": "Rome In uh",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay",
+                "label": "bk"
+            },
+            {
+                "text": "Griffins Air Force Base",
+                "label": "+"
+            },
+            {
+                "text": "Oh okay Is that where you you are originally from around there",
+                "label": "bk"
+            },
+            {
+                "text": "Well I was born in Buffalo slash error with a76 one utt",
+                "label": "no@"
+            },
+            {
+                "text": "Oh okay",
+                "label": "bk"
+            },
+            {
+                "text": "and uh been all over the place",
+                "label": "sd"
+            },
+            {
+                "text": "Oh wow Thats interesting Okay lets see Um well I like to have um sometimes when I have dinner party Ill have um everybody bring something",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and thats real interesting because then you get different um different kinds of foods and new recipes and um uh sometimes somebody will be bring something that you really like",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "and get the recipe from them or whatever And we are just getting interested in in Mexican food because here in Texas they have lots of",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "really good Mexican restaurants and",
+                "label": "+"
+            },
+            {
+                "text": "Sure",
+                "label": "ba"
+            },
+            {
+                "text": "um were were just getting into the fajitas and all that stuff that you could - do you know what fajita is",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Ive been down to Texas few times",
+                "label": "sd"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "and uh had uh the pleasure of their good Mexican",
+                "label": "+"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "cuisine down there",
+                "label": "+"
+            },
+            {
+                "text": "They have some delicious delicious things and I um - since I always make chicken burritos and just --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- take chicken breasts and you boil them maybe like four chicken breasts and you boil them until they are cooked",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Maybe like thirty minutes and then you debone them and and kind of shred them up into the meat that has gotten cooled and you take um - little bit maybe two tablespoons of butter and fr- in big frying pan And chop up some onion and put in oregano and salt",
+                "label": "+"
+            }
+        ]
+    }
+]

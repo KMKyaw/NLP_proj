@@ -1,0 +1,543 @@
+[
+    {
+        "conversation_id": "conv_2562",
+        "turns": [
+            {
+                "text": "All right do you do garden work",
+                "label": "o"
+            },
+            {
+                "text": "As little as possible Im college student --",
+                "label": "na"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- so if I do any garden work its only when I go home in the Summer",
+                "label": "sd"
+            },
+            {
+                "text": "Oh where do you go to college Wheres that",
+                "label": "qw"
+            },
+            {
+                "text": "Its about two hours north of Pittsburgh",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay",
+                "label": "bk"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "Yes Well do you you know do you do gardening at home",
+                "label": "b"
+            },
+            {
+                "text": "Yeah we go home - well we have large family theres twelve kids in my family",
+                "label": "ny"
+            },
+            {
+                "text": "Oh my goodness",
+                "label": "ba"
+            },
+            {
+                "text": "So like almost all our vegetables and everything is from the garden",
+                "label": "sd"
+            },
+            {
+                "text": "Hm",
+                "label": "b"
+            },
+            {
+                "text": "So we have pretty good size garden",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah well I guess you glad you got to go to college so youd get some rest",
+                "label": "b"
+            },
+            {
+                "text": "But we have like lot - like my mom likes flowers so we have lot of flowers too",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I had whole bunch of flowers and things Well I dont have as many now We lived in the country --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- for long time and I had whole bunch But now I work and I live in the city so that sort kind of hung it up I have few flowers but most of mine are like in barrels and things like that",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And this year I decided that - well my husband made little garden out there with some tomatoes and stuff in it but I decided that I dont like grass I dont like to have to have to pull grass --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- so I decided that I would plant me tomato plant in flower pot --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and see how it worked And mine looks real good",
+                "label": "+"
+            },
+            {
+                "text": "You know Ive seen lot of people that do that",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Ive seen you know like elderly people --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- that really cant get out too much sometimes Like we - I have great aunt that lives in - its just like uh high rise for elderly people And you know she does her own thing and everything but she has - its like little apartment building And she has tomato plant year round",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Because she you know - they keep it warm with for all the older people and she keeps it year round",
+                "label": "sd"
+            },
+            {
+                "text": "I had never thought about that I could probably plant one and bring it in and just like I bring my plants in every year Thatd be neat Well I got patio and I tried to talk my husband into just buying whole bunch of pots And planting them all in it you know because thats favorite thing is tomatoes --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- to grow And so um but he said No he was going to plant in the earth you know like he always has because hes always had garden out in the country",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I think he kind of misses it little bit you know since we moved to the city But um I went ahead and planted one and mine looks better than his It does and then I like um - you know what day lilies are",
+                "label": "sd"
+            },
+            {
+                "text": "Pardon me",
+                "label": "br"
+            },
+            {
+                "text": "Day lilies",
+                "label": "sd^r"
+            },
+            {
+                "text": "Are they well - do they just come out in the morning then go --",
+                "label": "qy"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "-- but we call them Morning Glories up here",
+                "label": "sd"
+            },
+            {
+                "text": "No no Huh-uh These look like lily They look like well they really look like an orchid when they come out",
+                "label": "ar"
+            },
+            {
+                "text": "Oh really",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh That what the look like but they only bloom for one day",
+                "label": "b"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Theyll um - youll have bud the evening before and then the next morning as soon as the sun hits it it open- it starts opening up and then when it gets dark it closes and thats it It only blooms for one day",
+                "label": "sd"
+            },
+            {
+                "text": "And then its done completely done",
+                "label": "qy^d"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "Yeah But um they look like orchids is what they look like but they look like different color ones like I have uh yellow ones and I have red ones and --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- I have purple ones and then they have like you know the real velvety looking stuff inside --",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- it looks just like orchids in different colors Thats what they look like",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really pretty",
+                "label": "ba"
+            },
+            {
+                "text": "They are theyre beautiful Uh I have friend when I lived out in the country and she had belonged to this kind of society that like every year you know or every so many months they would send you different bulbs that they came out with",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I mean they were real expensive They were like well - the most expensive one that she gave me bulb for was like thirty-two fifty for one bulb",
+                "label": "sd"
+            },
+            {
+                "text": "Oh my gosh",
+                "label": "ba"
+            },
+            {
+                "text": "So what she would do is she would plant them and they multiplied So the next year when she you know weeded them out --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- so they wouldnt be as thick then shed give me some of the bulbs And I mean I have some of the most beautiful day lilies that youve ever seen So when we decided to move it was really funny because like I said I had whole bunch of different kinds of things and I kept saying Well I want to take few of these and I want to take these and I want to take these My husband finally said Look are we going to take the grass Can we leave the grass I said Yes we may leave that",
+                "label": "+"
+            },
+            {
+                "text": "take the whole grass the whole yard",
+                "label": "bf"
+            },
+            {
+                "text": "And we had tree that was like seventeen foot tall or something like that that he said No no I am not taking the tree You know I mean every time we went outside hed look at something that was humongous you know No were not taking that But the last day he said Cant we leave the grass and I said Yeah I think we will leave that",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Thatd be funny",
+                "label": "ba"
+            },
+            {
+                "text": "But I brought - my kids when they were little they had given me some azaleas --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- so I brought all my azalea bushes",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And you know I brought I brought as much as I could bring --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- without you know really tearing up their place But just like um you know - the people that bought ours bought the place but um I knew that they would you know - if I left like one bulb of each one of them by this year theyd have ten bulbs of each one of them",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So it wasnt like it was going to be this big raw place or something you know it would cover it right up",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But I just couldnt see it you know going off and leaving everything like that",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Because this house I really liked it and everything but the yard was lot to be desired Oh --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- there was nothing These people - we have one ugly pine tree I mean and it is ugly I even tried making it look nicer you know I tied the yellow ribbon around it and it was so ugly Oh it did not help let me tell you I took it off and put it on my door I did not want to call attention I mean it was terrible So really the plants that I brought over and put out here are just about all I dont do any of the mowing or you know edging and all that --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- My husband does all that stuff But thats because Im allergic to the grass",
+                "label": "sd"
+            },
+            {
+                "text": "Oh thatd be awful I love going out in the Summer in the grass",
+                "label": "ba"
+            },
+            {
+                "text": "Really",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Now I like to go to the beach where the sand is because then it doesnt make me ill",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah And um well even up here at school you know it gets hot and we have the windows open well they mow the grass up here sometimes six oclock in the morning And just to smell the grass its just - I just love the smell of freshly cut grass",
+                "label": "b"
+            },
+            {
+                "text": "Yeah I used to until it I got so allergic to it I dont know if its all well - I went and had some tests run and just about all the kinds I was allergic to But its not as bad here like Saint Augustine I think is what we have And its not as bad as it was when we were out in the country",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But out in the country I mean - if I went outside while he was mowing the grass I was going to have gigantic attack",
+                "label": "sd"
+            },
+            {
+                "text": "Oh my gosh",
+                "label": "ba"
+            },
+            {
+                "text": "So um I get shots for it now too That helps whole bunch",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But one good thing about it see I dont have to mow the grass or - I mean thats really nice",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah you said that you had garden What all things do you plant in it or do you like to plant in it",
+                "label": "b"
+            },
+            {
+                "text": "Well the first thing we always plant is tomatoes --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- every year I dont care if we dont have anything else were going to have tomatoes And then we plant cucumbers and -",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh do your cucumbers come good",
+                "label": "b"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Really Sometimes when my dad has like - thats the one thing no one is allowed to touch except my dad He takes care of all the cucumbers because he said the vines are just so - at our house as soon as you touch vine its like it completely dies",
+                "label": "b"
+            },
+            {
+                "text": "Really",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "It must be the uh -",
+                "label": "sd"
+            },
+            {
+                "text": "Sometimes we have really good luck with them but then therell be like maybe two years in row that we cant get anything",
+                "label": "sd"
+            },
+            {
+                "text": "Now thats I mean thats something that grows like weed here",
+                "label": "sd"
+            },
+            {
+                "text": "Oh wow",
+                "label": "ba"
+            },
+            {
+                "text": "I mean it grows like weed We have to allow extra room for those because you know I mean extra space",
+                "label": "sd^r"
+            },
+            {
+                "text": "Yeah because they take up lot",
+                "label": "b"
+            },
+            {
+                "text": "between the rows and all Yes but I mean we usually get - if we plant for every one plant we probably get fifty to sixty cucumbers off of it",
+                "label": "+"
+            },
+            {
+                "text": "Holy smoke",
+                "label": "ba"
+            },
+            {
+                "text": "I mean just pulling them as fast as you can We usually give them to everybody",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Anybody that wants cucumber can have it But we tried it too where you run it up fence --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and um we had some weird cucumbers because they grew inside the fence I mean like the little thing would be half on one side and half on the other",
+                "label": "sd"
+            },
+            {
+                "text": "Oh my gosh",
+                "label": "ba"
+            },
+            {
+                "text": "I mean it was - but theyre so heavy you know they get so heavy they kind of weigh it down But I mean cucumbers here grow like crazy",
+                "label": "sd"
+            },
+            {
+                "text": "Wow",
+                "label": "b"
+            },
+            {
+                "text": "Of course its real hot here too",
+                "label": "sd"
+            },
+            {
+                "text": "Well see tomatoes grow like crazy at our house Like we have section of tomatoes and we put the tomatoes there every year in the same section And I swear we get tomatoes six rows up",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah now if we have any like the birds will pick or something you know and some of the seeds drop Have you ever had them just come up in different places",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "I know we do that too you know and at the first year - because I was from the city when we got married and the first year that we planted I couldnt figure out I mean the - well the first year after --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- I mean we planted them - but the first year you know after wed had crop --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- all these little things like - we had cucumbers coming up you know in the middle of our okra and I thought how did this get here --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- I know I didnt put that seed there And it was weird but the birds had you know evidently just deposited them for us",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Well sometimes too when we take out our garbage and we usually you know we just dump it in the middle of the garden you know after your gardens basically done --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and were finding out - like we have peach trees in the middle of our garden now because we took peach seeds and dump them there whenever the garden - like in the Fall - now we have peach trees coming up",
+                "label": "sd"
+            }
+        ]
+    }
+]

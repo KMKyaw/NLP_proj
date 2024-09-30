@@ -1,0 +1,587 @@
+[
+    {
+        "conversation_id": "conv_2373",
+        "turns": [
+            {
+                "text": "Okay",
+                "label": "o"
+            },
+            {
+                "text": "Was I supposed to do something",
+                "label": "qy^t"
+            },
+            {
+                "text": "No I had to press one",
+                "label": "nn"
+            },
+            {
+                "text": "Good Uh lets see so uh were we right in the Middle East",
+                "label": "ba"
+            },
+            {
+                "text": "Sure",
+                "label": "na"
+            },
+            {
+                "text": "Should we have been there",
+                "label": "qy"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Did we do what was correct there",
+                "label": "qy"
+            },
+            {
+                "text": "I think we should have stayed longer",
+                "label": "sv"
+            },
+            {
+                "text": "Should we have fought them harder Used more weapons equal to their chemical weapons that werent used",
+                "label": "qy"
+            },
+            {
+                "text": "Uh I think what we did was good but I think we just should have stayed there longer and continued doing what we did do",
+                "label": "na"
+            },
+            {
+                "text": "Oh you agree with Schwartzkopf who says uh Drive on into Baghdad",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah I think we should have stayed and kind of helped the people in Iraq out now because its kind of like civil war going on now And its almost like theyre killing each other off and there is not going to be anything left of Iraq at all",
+                "label": "ny"
+            },
+            {
+                "text": "Would that be so bad Was there anything there to begin with",
+                "label": "qy"
+            },
+            {
+                "text": "Well I think I dont think it would be good if we were to completely lose it um",
+                "label": "sv"
+            },
+            {
+                "text": "It wasnt ours",
+                "label": "sv"
+            },
+            {
+                "text": "Well no I just mean that that the world in general",
+                "label": "aa"
+            },
+            {
+                "text": "Weve got to talk so its just just as well we argue",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah Um I dont know I think we should have helped the the innocent people in Iraq out little bit more",
+                "label": "aa"
+            },
+            {
+                "text": "I agree",
+                "label": "aa"
+            },
+            {
+                "text": "than rather than just quitting where we did",
+                "label": "+"
+            },
+            {
+                "text": "Wouldnt it have been wonderful if we could have freed the country",
+                "label": "qy"
+            },
+            {
+                "text": "Yes But I think thats almost impossible next to impossible",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah So other political things thats going on I heard Mister Bush say excuse me President Bush say that he uh wanted to improve the highways",
+                "label": "b"
+            },
+            {
+                "text": "Oh see I havent really been keeping up with them so I really dont know what he said What did he say about it",
+                "label": "sd"
+            },
+            {
+                "text": "Oh he wanted to take the current secondary highway system --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and turn it into interstates like the rest of the country",
+                "label": "+"
+            },
+            {
+                "text": "We dont have the money for that",
+                "label": "sv"
+            },
+            {
+                "text": "But wouldnt it be wonderful",
+                "label": "qy^d"
+            },
+            {
+                "text": "It would be really nice because Im kind of tired of driving in pot holes",
+                "label": "na"
+            },
+            {
+                "text": "And back east you all drive at fifty-five dont you Whats that",
+                "label": "qy^g"
+            },
+            {
+                "text": "Im sorry I dropped the phone",
+                "label": "fa^c"
+            },
+            {
+                "text": "Oh okay um I say back east you all drive at fifty-five dont you",
+                "label": "bk"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "See out here in the west lot of our secondary roads are fifty-five --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- we drive sixty-five",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really",
+                "label": "b"
+            },
+            {
+                "text": "Oh yes Well I uh last weekend went home to visit my parents My dads in the hospital",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh between here and west Texas there was probably three and four hours at sixty-five miles an hour",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I didnt realize that",
+                "label": "sd"
+            },
+            {
+                "text": "Nonstop Have you ever been out here",
+                "label": "sd"
+            },
+            {
+                "text": "No huh-uh",
+                "label": "nn"
+            },
+            {
+                "text": "How far west have you been",
+                "label": "qw"
+            },
+            {
+                "text": "Only in Ohio",
+                "label": "sd"
+            },
+            {
+                "text": "Oh youve never",
+                "label": "qy^d"
+            },
+            {
+                "text": "Ive never been past Ohio",
+                "label": "sd"
+            },
+            {
+                "text": "Youve never seen the great American desert",
+                "label": "+"
+            },
+            {
+                "text": "No huh-uh Ive never seen anything out I never seen the great - Ive seen -",
+                "label": "nn"
+            },
+            {
+                "text": "The Rocky Mountains",
+                "label": "qy^d"
+            },
+            {
+                "text": "Ive never seen - Ive seen pictures of it but -",
+                "label": "ng"
+            },
+            {
+                "text": "Yellowstone",
+                "label": "qy^d"
+            },
+            {
+                "text": "Ive never been there Ive seen pictures I just Im college student and um Im paying for my own education and Im I come from large family and we we were never able to take vacations because theres theres twelve kids in the family",
+                "label": "ng"
+            },
+            {
+                "text": "Uh",
+                "label": "%"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "Well my college educa- uh thirty-six - worked for Texas Instruments for seventeen or eighteen now",
+                "label": "sd"
+            },
+            {
+                "text": "Oh my",
+                "label": "ba"
+            },
+            {
+                "text": "Uh know virtually nothing else",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh yeah I got my four year",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "got my in General Science",
+                "label": "+"
+            },
+            {
+                "text": "Really",
+                "label": "b"
+            },
+            {
+                "text": "Yeah I know its funny degree Anyway uh I know nothing other than the west",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "In fact uh down in east Texas --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- where the companys located --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- theres streams and water and things I dont understand Trees and the gulf and its really interesting",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So tell me about where you live",
+                "label": "ad"
+            },
+            {
+                "text": "Well um Im Im originally from Butler and thats about an hour away from where I am now Im at Clairon And um its its pretty like windy and hilly",
+                "label": "sd"
+            },
+            {
+                "text": "Uh how high is the highest elevation",
+                "label": "qw"
+            },
+            {
+                "text": "Oh I couldnt even tell you",
+                "label": "sd"
+            },
+            {
+                "text": "Like uh probably -- -",
+                "label": "%"
+            },
+            {
+                "text": "Its not like mountain It wouldnt be like mountain Its uh -",
+                "label": "sd"
+            },
+            {
+                "text": "-- three thousand feet",
+                "label": "qy^d"
+            },
+            {
+                "text": "Oh I dont even know I have no clue",
+                "label": "no"
+            },
+            {
+                "text": "Close to sea level",
+                "label": "qy^d"
+            },
+            {
+                "text": "I would say its closer to sea level",
+                "label": "na"
+            },
+            {
+                "text": "Okay uh right here in Colorado Springs where I live --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- its over six thousand foot",
+                "label": "+"
+            },
+            {
+                "text": "Oh well see um",
+                "label": "%@"
+            },
+            {
+                "text": "Um yes when I lived in Texas every year I had to drive you know I drove every year to the gulf and you know so I could have feast of fresh seafood --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "+@"
+            },
+            {
+                "text": "-- six eight twelve hours away",
+                "label": "+"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "You know just just for fresh I Im really interested in the basic concept differences between west and east coast and the central parts of America",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "How many hours have you been from home",
+                "label": "qw"
+            },
+            {
+                "text": "Uh the farthest away from home",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "Probab- Id say five or six",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Uh now when I was growing up in the Panhandle of Texas - look at your map later and see the the town of Amarillo --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- fifty miles north of that up in the Panhandle To just go buy pair of jeans wed drive an hour",
+                "label": "+"
+            },
+            {
+                "text": "Oh my Oh my Gosh",
+                "label": "ba"
+            },
+            {
+                "text": "When I was growing up",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Now things are different and people buy jeans in town but uh we thought nothing at all of wake up waking up in the morning hopping into your car grabbing the fishing poles and driving four hours",
+                "label": "+"
+            },
+            {
+                "text": "Oh yes Now see for me thats long ways",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah It is I imagine",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh Even well like I Im in like little town right now Its smaller than Butler and um Butler Butler is about an hour north east of Pittsburgh So that will give you some idea of where Im at",
+                "label": "b"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "And Im about",
+                "label": "sd"
+            },
+            {
+                "text": "Okay Ill look at my map later",
+                "label": "b"
+            },
+            {
+                "text": "Im about two hours north east of Pittsburgh",
+                "label": "+"
+            },
+            {
+                "text": "Wow How neat",
+                "label": "ba"
+            },
+            {
+                "text": "And uh I mean just this this little town here is basically college town The college without the college here this town would be nothing It would be absolutely dead Because its completely made up of fast food restaurants and and in the summer when we co- uh - my fianc3ees family lives up there typo we come up here in the summer and its - I mean theres just no one around",
+                "label": "sd"
+            },
+            {
+                "text": "So are you working your way through college",
+                "label": "qy"
+            },
+            {
+                "text": "Um well I go home in the summer and I work in the summer and between what I make in the summer and student loans thats how I go to college",
+                "label": "sd"
+            },
+            {
+                "text": "Well how neat Whats your major",
+                "label": "ba"
+            },
+            {
+                "text": "Finance",
+                "label": "sd"
+            },
+            {
+                "text": "Finance",
+                "label": "b^m"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Well thats interesting",
+                "label": "ba"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So uh what do you plan to do with it",
+                "label": "qw"
+            },
+            {
+                "text": "Um well like I said my fianc3ee - typo",
+                "label": "sd"
+            },
+            {
+                "text": "Savings and loans uh",
+                "label": "qy^d"
+            },
+            {
+                "text": "No No no no um my fianc3ee works down in typo and Id actually like to work for company rather than bank or something Id rather work for company and um like be their financial advisor or something",
+                "label": "nn"
+            },
+            {
+                "text": "Oh that would be great That would be neat Lets see uh so were all excited in Colorado Springs",
+                "label": "ba"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Apple Computer is coming to town",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really",
+                "label": "b"
+            },
+            {
+                "text": "Yes The uh new employer is in the city",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So were expecting our local economy to",
+                "label": "sd"
+            },
+            {
+                "text": "Take boom little bit",
+                "label": "^2"
+            },
+            {
+                "text": "Well maybe not boom but uh at least recover to where we can all hold regular forty hour jobs still",
+                "label": "+"
+            },
+            {
+                "text": "Well well what would be the unemployment rate out there",
+                "label": "qw"
+            },
+            {
+                "text": "Uh unemployment runs approximately six percent",
+                "label": "sd"
+            },
+            {
+                "text": "See thats what it is here too",
+                "label": "sd"
+            },
+            {
+                "text": "But now under employment I would suspect to run closer to eighteen or twenty percent",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And the problem is that there are no good permanent full time jobs for people without technical four year degree",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Its even getting hard for the four year people to find jobs",
+                "label": "b"
+            },
+            {
+                "text": "Yes It is",
+                "label": "aa"
+            },
+            {
+                "text": "I know people they are out of school for two or three years and they have job that has nothing to do -",
+                "label": "sd"
+            }
+        ]
+    }
+]

@@ -1,0 +1,347 @@
+[
+    {
+        "conversation_id": "conv_4158",
+        "turns": [
+            {
+                "text": "Um are you working right now",
+                "label": "qy"
+            },
+            {
+                "text": "Uh yes I am Im working in the computer science department here --",
+                "label": "ny"
+            },
+            {
+                "text": "Uh",
+                "label": "%"
+            },
+            {
+                "text": "-- uh at",
+                "label": "+"
+            },
+            {
+                "text": "What kind of what kind of work do you do",
+                "label": "qw"
+            },
+            {
+                "text": "Uh Im doing basically system system design --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- work and uh implementation work for the speech for the speech group --",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh here",
+                "label": "+"
+            },
+            {
+                "text": "Wh- - is that how you heard about this thing",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Uh",
+                "label": "%"
+            },
+            {
+                "text": "actually through electronic mail",
+                "label": "sd^e"
+            },
+            {
+                "text": "uh-huh Me too I work at uh the Georgia Tech Research Institute",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Um Im co-op student so I work and go to school about halftime And uh I really dont have any job benefits to speak of Were kind of um - I dont know - they just kind of forget us on that end We dont really have any vacation or you know sick days or health care or anything really so -",
+                "label": "sd"
+            },
+            {
+                "text": "Right So its pretty fair theyve got you slaving away",
+                "label": "b"
+            },
+            {
+                "text": "Exactly",
+                "label": "aa"
+            },
+            {
+                "text": "at at this point",
+                "label": "+"
+            },
+            {
+                "text": "Exactly",
+                "label": "aa^r"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "What about you",
+                "label": "qo"
+            },
+            {
+                "text": "Well um - i- Im research stuff here now so what they they have uh um okay benefits package Its not quite as good as industry but one of the significant um benefits here is that you can take uh up to two courses semester um and they pay for --",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "%"
+            },
+            {
+                "text": "-- you know pay for the classes So",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Carnegie Mellon that works out to be um reasonable reasonable benefit",
+                "label": "+"
+            },
+            {
+                "text": "Uh they do that I think if youre uh research here then I know of some of the people that have gotten their masters and I think that um they might you know pay for that",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Pay for the classes and stuff but I know they let you theyll let you decrease how many hours you work by kind of percentage You know theyll let you work halftime if you want to if you want to finish",
+                "label": "+"
+            },
+            {
+                "text": "If you want to",
+                "label": "bf"
+            },
+            {
+                "text": "you want to -",
+                "label": "b^m"
+            },
+            {
+                "text": "do it quickly",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Theyll let you work decrease your number of hours by any percentage just just about so if you want to get your masters and then I think of course you get like with your extra degrees you get pay raise due so --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- that will probably help out But",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Yeah So I I dont know in in terms of other things other benefits other than sort of monetary Id you know I -",
+                "label": "b"
+            },
+            {
+                "text": "Do you get any kind of health care type stuff",
+                "label": "+@"
+            },
+            {
+                "text": "Yeah we we do We have to contribute certain amount uh to it",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And its kind of split between and",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and you know the employee",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I think I mean thats pretty thats pretty important uh part of it there because that that can be really expensive if you ever have any health problems My dad I think my - Im still covered on with my dads uh health plan at his where he works but --",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- it would definitely be something to look into once I get my own",
+                "label": "+"
+            },
+            {
+                "text": "Yeah and its also right now its uh the - like everywhere else uh - here in Pittsburgh the health care uh rates are are going up pretty quickly",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Thats whole other topic --",
+                "label": "sd"
+            },
+            {
+                "text": "They have",
+                "label": "%"
+            },
+            {
+                "text": "-- to begin with too but - Yeah but its you are right I I I really agree that that thats pretty important",
+                "label": "+"
+            },
+            {
+                "text": "Well the only I think the I guess the only real um benefit I guess you could say working for me working here besides I mean - Im learning and stuff because",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Im at you know in school But --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b^r"
+            },
+            {
+                "text": "-- theres theres some weird law where uh uh student employees working for the government --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- dont have to pay Social Security tax",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Though --",
+                "label": "sd"
+            },
+            {
+                "text": "Now thats big win",
+                "label": "sv"
+            },
+            {
+                "text": "-- thats about five percent right there so -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah Thats -",
+                "label": "b"
+            },
+            {
+                "text": "Thats about the only real bonus --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- I have so I have to take that into consideration when I evaluate like how much I get paid real you know because if I was working somewhere else Id have to you know pay an extra five percent",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^r"
+            },
+            {
+                "text": "or so",
+                "label": "+"
+            },
+            {
+                "text": "I figured for - and theyve just raised the um income caps on Social Security to the point where --",
+                "label": "%"
+            },
+            {
+                "text": "Huh",
+                "label": "%"
+            },
+            {
+                "text": "-- you have to be pretty you have to be pretty well off before you stop paying --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- paying that as well Yeah well if you could call it benefit that I mean i- - the other thing that they allow you to do here while you are working is is consult for um you know other companies",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "bh"
+            },
+            {
+                "text": "Um so thats that kind of helps out in terms of",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "you know keeping up-to-date with contacts in industry",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know in case",
+                "label": "sd"
+            },
+            {
+                "text": "help lot",
+                "label": "sv"
+            },
+            {
+                "text": "you know in case you ever need to bail out",
+                "label": "+"
+            },
+            {
+                "text": "Yeah See around around here its like uh - we pretty much work from project to project on well you know with different sponsors",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Theres not there is not whole lot of you know funded research from -",
+                "label": "sd"
+            }
+        ]
+    }
+]

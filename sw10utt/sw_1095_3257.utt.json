@@ -1,0 +1,323 @@
+[
+    {
+        "conversation_id": "conv_3257",
+        "turns": [
+            {
+                "text": "What do you like to watch on television",
+                "label": "qw"
+            },
+            {
+                "text": "Well I guess lot of the uh - something thats kind of more of comedy We do have uh cable and we have premium stations like and Showtime and such and I guess lot of times when I first turn the on I I normally go to those because I pay for them --",
+                "label": "sd"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "-- I guess I I want to see if theres anything I really want to see there so I dont end up watching the um prime time on some of the standard channels as much I tend to go to my premium channels first",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh Well we have cable but we only have Cinemax and --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh I think our favorite night is uh Monday night and we start out with EVENING SHADE --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and MAJOR DAD and --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- I think thats the one night that we really try to watch television You know --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- my husbands always got it on Im not always sitting down and -",
+                "label": "+"
+            },
+            {
+                "text": "Monday nights pretty good with MURPHY BROWN --",
+                "label": "sv"
+            },
+            {
+                "text": "Yes",
+                "label": "aa"
+            },
+            {
+                "text": "-- and DESIGNING WOMEN",
+                "label": "+"
+            },
+            {
+                "text": "Yes yes I just I love that all those that two hours --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh now tonight I just finished up with that WOMAN CALLED JACKIE did you watch --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- did you watch it",
+                "label": "+"
+            },
+            {
+                "text": "We had watched it uh I guess Sunday night and Monday night but we didnt get to watch it tonight",
+                "label": "na"
+            },
+            {
+                "text": "Yeah it it was pretty good it uh sometimes I like dramatization and I like uh when they had their uh uh mystery movies and things their --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- made for movies --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh I like those We very seldom watch any uh Public Television Channel Thirteen Do you watch it much",
+                "label": "sd"
+            },
+            {
+                "text": "The only night we tend to watch some of that is on Sunday nights starting fairly late like Im talking ten oclock and maybe toward midnight They have some British comedy --",
+                "label": "sd"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "-- that weve weve really liked and theres variety Some of them is uh BLACK ADDER or GOOD NEIGHBORS or YES PRIME MINISTER and ARE YOU BEING SERVED They they rotate those around and um we like that British comedy British comedy is very fast you really have to --",
+                "label": "+"
+            },
+            {
+                "text": "Yes --",
+                "label": "aa"
+            },
+            {
+                "text": "-- listen --",
+                "label": "+"
+            },
+            {
+                "text": "-- it is should this be two slash units",
+                "label": "+@"
+            },
+            {
+                "text": "-- but -",
+                "label": "%"
+            },
+            {
+                "text": "Now we havent watched any of those",
+                "label": "sd"
+            },
+            {
+                "text": "Theyre real good but they do come on kind of late but we really do enjoy those Sometimes we get to watching some stuff on the Discovery Channel",
+                "label": "sv"
+            },
+            {
+                "text": "Yes now we have watched some things on that",
+                "label": "b"
+            },
+            {
+                "text": "And Im amazed sometimes what I see on there But Im very intrigued I one time I was watching an operation and I thought Gee I dont believe Im watching",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah we had uh - I dont know my husband loves to uh that male syndrome of flicking that channel so you know and hes sit in front of it and and he went by and he said Whoops and he backed up and you know theres this surgery going on as were eating our dinner --",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- you know and Im saying lets move right on",
+                "label": "+"
+            },
+            {
+                "text": "Yeah right right",
+                "label": "b"
+            },
+            {
+                "text": "But our grandchildren like that Discovery Channel --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- if theyre over here because lots of times it will have things on uh animals --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and they just thoroughly you know enjoy that --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- in fact I think they were watching something on uh whales or killer sh- sharks one or the other --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- couple of weeks ago over here --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh so we have watched that --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh otherwise of course my husbands into the football --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- and you know I will watch that some if Im reading or doing something else you know --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- with him",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Im not into watching sports Now my husband likes to watch football hes not really into uh baseball or basketball too much but uh football soon as its fall then he likes --",
+                "label": "b"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "-- to watch college on Saturday and then of course Cowboys on Sunday",
+                "label": "+"
+            },
+            {
+                "text": "Yes and sometimes now were getting that uh the other football where they play it inside and you know this is you know this is too much Saturdays and Sunday this is fine but do we have to carry this on into the summer and the spring --",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- you know all of that and uh but he will uh hell flip around I think the other night we had on uh uh it was it was car races some kind of car races where they were bumping over hills and flying into the air and coming down I dont know what channel he found that on --",
+                "label": "+"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "-- and uh but he will turn that on especially for if again if our uh oldest grandson is over here Hes ten --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh theyll find something like that and just absolutely sit glued to it I you know I keep telling them its the same mentality you know and somethings wrong and uh but uh and we very seldom watch television on Friday night or Saturday night because were not home --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh so and Sundays uh we usually have all of our kids are over on Sunday so you know we dont get into that except that sometimes well get into their home videos --",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "-- do you ever watch that",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah the - you mean talking about the funny home videos and stuff --",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah uh-huh --",
+                "label": "ny"
+            },
+            {
+                "text": "-- yeah those are pretty good --",
+                "label": "ny"
+            },
+            {
+                "text": "-- that are sometimes so dumb",
+                "label": "^2"
+            },
+            {
+                "text": "-- but true to life I mean some of the -",
+                "label": "+"
+            },
+            {
+                "text": "But very true to life I mean Ive seen our family in several of those situations",
+                "label": "sv^m"
+            }
+        ]
+    }
+]

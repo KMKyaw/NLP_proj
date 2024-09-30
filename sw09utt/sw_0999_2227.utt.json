@@ -1,0 +1,607 @@
+[
+    {
+        "conversation_id": "conv_2227",
+        "turns": [
+            {
+                "text": "Okay so you watch DAVID LETTERMAN",
+                "label": "o"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Well see our favorite show - I I I live in dorm --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and our favorite show is CHEERS",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really yeah thats pretty awesome too I watch it every now and then",
+                "label": "b"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "Thats hilarious",
+                "label": "ba"
+            },
+            {
+                "text": "well we try - like here they show it like every day",
+                "label": "%"
+            },
+            {
+                "text": "Oh serious",
+                "label": "b"
+            },
+            {
+                "text": "And then like on Thursdays is the night where the new ones come on",
+                "label": "sd"
+            },
+            {
+                "text": "Oh thats cool",
+                "label": "ba"
+            },
+            {
+                "text": "But we watch it like every day But I like late night we dont watch uh what we do is we stay up till around one thirty",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and then they show the TWILIGHT ZONE at one thirty and so we just stay and watch that",
+                "label": "sd"
+            },
+            {
+                "text": "TWILIGHT ZONE rules man",
+                "label": "sv"
+            },
+            {
+                "text": "The what",
+                "label": "br"
+            },
+            {
+                "text": "TWILIGHT ZONE rules",
+                "label": "sv^r"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Thats all",
+                "label": "sd"
+            },
+            {
+                "text": "I used I used to live in the house that the guy owned",
+                "label": "sd"
+            },
+            {
+                "text": "Are you serious",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah it was really it was really oh well it was all full with uh shelves everywhere and we didnt have enough books to fill it up but",
+                "label": "ny"
+            },
+            {
+                "text": "Thats psychedelic",
+                "label": "ba"
+            },
+            {
+                "text": "But uh so what what do you like why do you like DAVID LETTERMAN",
+                "label": "+"
+            },
+            {
+                "text": "Oh he just like totally sarcastic and hilarious and I dont know Im lot like him in way so --",
+                "label": "sv"
+            },
+            {
+                "text": "So the -",
+                "label": "%"
+            },
+            {
+                "text": "-- and hes got curly hair and so do I so -",
+                "label": "+"
+            },
+            {
+                "text": "Oh do you watch SATURDAY NIGHT LIVE What Hes got what",
+                "label": "qy"
+            },
+            {
+                "text": "Curly hair and so do I so hey",
+                "label": "sd"
+            },
+            {
+                "text": "Hey I got long hair wait wait",
+                "label": "sd"
+            },
+            {
+                "text": "Cool how long is it",
+                "label": "ba"
+            },
+            {
+                "text": "Uh I dont know but people - the other day I went into bar and this guy asked me to dance All he saw was my hair and he goes do you want to dance I turn around and go what He goes do you want to dance I go no no he goes oh oh Im sorry I go yeah you better be I go",
+                "label": "no"
+            },
+            {
+                "text": "Thats hilarious",
+                "label": "ba"
+            },
+            {
+                "text": "you better be so But okay so - wait do you watch SATURDAY NIGHT LIVE yesterday",
+                "label": "+"
+            },
+            {
+                "text": "No it - with the uh - who was on the music people wasnt that Fishbone",
+                "label": "nn"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah I saw that it was awesome But I didnt see the rest of it",
+                "label": "b^m"
+            },
+            {
+                "text": "No oh you missed WAYNES WORLD",
+                "label": "b"
+            },
+            {
+                "text": "Are you serious",
+                "label": "bh"
+            },
+            {
+                "text": "WAYNES WORLD was pretty cool",
+                "label": "sv"
+            },
+            {
+                "text": "Theyre awesome",
+                "label": "aa"
+            },
+            {
+                "text": "So uh lets see what else Uh see like all we do here is like every time we walk in the room we turn on the --",
+                "label": "^h"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "-- because we dont want to do anything like study or anything",
+                "label": "+"
+            },
+            {
+                "text": "Yeah that sucks",
+                "label": "b"
+            },
+            {
+                "text": "so all the all we do is turn - like like when I was in high school I used to do like my homework in front of the set",
+                "label": "sd"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "you know",
+                "label": "+"
+            },
+            {
+                "text": "Uh kind of annoying but thats cool",
+                "label": "sv"
+            },
+            {
+                "text": "What",
+                "label": "br"
+            },
+            {
+                "text": "Kind of annoying to like in front of like trying to do homework you know",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Trying to write an essay you start talking about you know like IN LIVING COLOR or something I dont know",
+                "label": "sv"
+            },
+            {
+                "text": "Well I like I I just I just bogused on all my homework so it really didnt matter",
+                "label": "sd"
+            },
+            {
+                "text": "Cool yeah thats the way to do it",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah I know and I did that all through college and it worked",
+                "label": "aa"
+            },
+            {
+                "text": "Cool yeah works for me",
+                "label": "ba"
+            },
+            {
+                "text": "So uh lets see what else Like the news we dont watch",
+                "label": "^h"
+            },
+            {
+                "text": "No unless -",
+                "label": "aa"
+            },
+            {
+                "text": "because theyre boring",
+                "label": "+"
+            },
+            {
+                "text": "I watched through the war you know theres only one",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah especially the war I mean it was like I havent I seen this episode before you know",
+                "label": "b"
+            },
+            {
+                "text": "I know I guess they think that people dont watch but I mean if you watch it for like five minutes then it repeats everything over and over and over",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah I know",
+                "label": "aa"
+            },
+            {
+                "text": "Its like oh man",
+                "label": "sv(^q)"
+            },
+            {
+                "text": "And and in North - - see the the thing is like here they just they just give you like local news okay",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Like house burned down in this little town",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "And were here and I go so what happened worldwide you know Its like you know even though two hundred and fifty thousand people died somewhere else theyre not going to tell you you know theyre going to spend more time on doing thing on on cross guard whos hundred and five years old than they are on anything else you know",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So but uh lets see what else Oh we watch like for example uh - okay do you watch STAR TREK",
+                "label": "^h"
+            },
+            {
+                "text": "Uh I havent seen it in years but I used to",
+                "label": "ng"
+            },
+            {
+                "text": "Okay well I used to hate STAR TREK",
+                "label": "bk"
+            },
+            {
+                "text": "Yeah",
+                "label": "bh"
+            },
+            {
+                "text": "I thought I thought - like when it like when I was like in high school and junior high school I used to hate it --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but then we started watching it And and like the new ones are pretty cool because",
+                "label": "sd"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "because they got like uh like special like especially things that like fuck with your mind",
+                "label": "+"
+            },
+            {
+                "text": "Oh really thats cool",
+                "label": "b"
+            },
+            {
+                "text": "Because what happened is like they have this hologram right",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "where you walk in and you can program and everything looks real and you can touch everything and stuff",
+                "label": "+"
+            },
+            {
+                "text": "Are you serious Oh man",
+                "label": "bh"
+            },
+            {
+                "text": "But its only program and its really great because sometimes its like the hologram makes up all these things and uh I mean sometimes it sometimes its funny sometimes its not but uh you know",
+                "label": "sd"
+            },
+            {
+                "text": "Thats cool",
+                "label": "ba"
+            },
+            {
+                "text": "its something to pass the time",
+                "label": "+"
+            },
+            {
+                "text": "Sound like -",
+                "label": "%"
+            },
+            {
+                "text": "till we do - and then and then we watch football",
+                "label": "+"
+            },
+            {
+                "text": "Uh yeah basketballs cool but football kind of after while -",
+                "label": "b"
+            },
+            {
+                "text": "Which basketball",
+                "label": "qw"
+            },
+            {
+                "text": "Which basketball",
+                "label": "qw^m"
+            },
+            {
+                "text": "College or -",
+                "label": "qr"
+            },
+            {
+                "text": "Yeah I kind of like college better its more spirited",
+                "label": "ny"
+            },
+            {
+                "text": "We got we got two teams of the going there",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "bh"
+            },
+            {
+                "text": "We got Duke and North Carolina",
+                "label": "sd"
+            },
+            {
+                "text": "Cool",
+                "label": "ba"
+            },
+            {
+                "text": "But I mean the I mean theres nothing to do like for example yesterday --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh they go - some girl goes do you dares want to go to picnic right I hear no looks mistranscribed were just you know its like we just woke up we had hangover and everything you know And so we just woke up and uh were watching and I go no today were just going to dedicate ourself to watching golf --",
+                "label": "+"
+            },
+            {
+                "text": "golf yay",
+                "label": "b"
+            },
+            {
+                "text": "-- and bowling you know and everybody it was like oh God do you guys really watch that No you know I was - like whole golf tournament its - like for example baseball I hate baseball I mean",
+                "label": "+"
+            },
+            {
+                "text": "Oh me too",
+                "label": "sd"
+            },
+            {
+                "text": "Somebody told me like that like you can watch baseball and the actual play time that there is --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- is five minutes Because by the play time is --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- when the person when the pitcher pitches the ball and it goes to the catcher or when the when the pitcher pitches and its hit",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "Thats true",
+                "label": "aa"
+            },
+            {
+                "text": "and thats like you know five seconds for the whole play --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah thats true",
+                "label": "aa"
+            },
+            {
+                "text": "-- and thats it I mean maybe home run could last little bit longer because the guy has to run around all the bases you know But I mean its its like that - I mean its was its just - but when I went home thats all like they had on --",
+                "label": "sv"
+            },
+            {
+                "text": "Ooh really",
+                "label": "bh"
+            },
+            {
+                "text": "-- so I tu- I watched entire games of baseball and theyre going oh my God And in Argentinas really bad",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really So so why from Argentina whyd you come over here",
+                "label": "b"
+            },
+            {
+                "text": "Uh because uh I wanted to go to school here",
+                "label": "sd"
+            },
+            {
+                "text": "Oh thats cool",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "How long did you live there",
+                "label": "qw"
+            },
+            {
+                "text": "they have better computer science up here than they than they do down there",
+                "label": "sv"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "So and I also uh my father works for I",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and we came up here we well we came to the United States in nineteen seventy-six",
+                "label": "sd"
+            },
+            {
+                "text": "Uh",
+                "label": "b"
+            },
+            {
+                "text": "seventy-seven --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh we lived here for about seven years then we moved back",
+                "label": "+"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "And so then I said Im going to move back up there to go to college",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Thats cool",
+                "label": "ba"
+            },
+            {
+                "text": "He goes okay So he goes but do it fast so I did my undergraduate in two years",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Oh really Awesome",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah So but its its just you know oh well weve been talking for five minutes",
+                "label": "ny"
+            },
+            {
+                "text": "Thats cool",
+                "label": "ba"
+            },
+            {
+                "text": "Thats the only obligation we have",
+                "label": "sd^t"
+            },
+            {
+                "text": "Groovy",
+                "label": "ba"
+            },
+            {
+                "text": "And uh well tell your dad that now he owes you five bucks",
+                "label": "ad"
+            },
+            {
+                "text": "Yeah no doubt",
+                "label": "aa"
+            },
+            {
+                "text": "Okay",
+                "label": "fc"
+            },
+            {
+                "text": "Okay",
+                "label": "fc^m"
+            },
+            {
+                "text": "All right nice talking to you",
+                "label": "fc"
+            },
+            {
+                "text": "Yeah you too",
+                "label": "fc"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc"
+            },
+            {
+                "text": "Bye",
+                "label": "fc"
+            }
+        ]
+    }
+]

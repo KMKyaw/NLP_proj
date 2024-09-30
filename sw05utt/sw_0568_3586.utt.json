@@ -1,0 +1,555 @@
+[
+    {
+        "conversation_id": "conv_3586",
+        "turns": [
+            {
+                "text": "Im sorry um --",
+                "label": "fa"
+            },
+            {
+                "text": "Thats okay I didnt hear",
+                "label": "bd"
+            },
+            {
+                "text": "-- hobbies",
+                "label": "sd"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "Let me see I dont know if that took or not Ill do it again",
+                "label": "^h"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "Okay What are your hobbies I hear you have kids right",
+                "label": "%"
+            },
+            {
+                "text": "You heard her in the background Thats babies",
+                "label": "sd"
+            },
+            {
+                "text": "Thats your full time uh hobby right",
+                "label": "qy^g"
+            },
+            {
+                "text": "Takes lot of time huh I like uh most sports I like to do that I kind of like to do little bit of sewing",
+                "label": "na"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Oh little bit of embroidery work once in while",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "What do you like to do",
+                "label": "qo"
+            },
+            {
+                "text": "Um I try to do some painting although Im not very good at it",
+                "label": "sd"
+            },
+            {
+                "text": "Well Im sure you probably are",
+                "label": "ba"
+            },
+            {
+                "text": "Well no not really",
+                "label": "bd"
+            },
+            {
+                "text": "You like it thats the main -",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah I I have you know I inherited the genes that make me think Im creative but not the ones that give me the ability to be",
+                "label": "aa"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "So I always try I I do some sewing mostly out of necessity Um Im making drapes for my house just because Im -",
+                "label": "sd"
+            },
+            {
+                "text": "Oh boy thats hard sewing",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah well it isnt and it is It is you know - actually the sewing isnt the hard part its just being able to lay out the material and measure it --",
+                "label": "aa"
+            },
+            {
+                "text": "Measure it and get it to -",
+                "label": "bf"
+            },
+            {
+                "text": "-- because you need so much room",
+                "label": "+"
+            },
+            {
+                "text": "Well if it it depends on how elaborate you get it If you get pleats and all kinds of -",
+                "label": "aap"
+            },
+            {
+                "text": "Yeah Ive been doing that and",
+                "label": "aa"
+            },
+            {
+                "text": "Thats lot of work",
+                "label": "ba"
+            },
+            {
+                "text": "That - yeah that - but usually have to do the pleats by hand So that at least --",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- I can do you know watching or whatever but -",
+                "label": "+"
+            },
+            {
+                "text": "Right right",
+                "label": "b"
+            },
+            {
+                "text": "Yeah and Ive Ive gone and you know put the needle through my thumb few times trying to get it through but -",
+                "label": "b"
+            },
+            {
+                "text": "That feels really good",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah so thats not really my favorite thing to do or anything but I I need to do it",
+                "label": "aa"
+            },
+            {
+                "text": "To do it right",
+                "label": "aa^m"
+            },
+            {
+                "text": "I have lets see I have dog and lot of fish Keeping fish I guess --",
+                "label": "sd"
+            },
+            {
+                "text": "Keeping fish -",
+                "label": "b^m"
+            },
+            {
+                "text": "-- is my biggest hobby",
+                "label": "+"
+            },
+            {
+                "text": "Well theyre probably easier than keeping dogs though arent they",
+                "label": "sv"
+            },
+            {
+                "text": "Um yes and no It depends on how frequently they die and --",
+                "label": "aap"
+            },
+            {
+                "text": "Oh no",
+                "label": "ba"
+            },
+            {
+                "text": "-- how much that bothers you",
+                "label": "+"
+            },
+            {
+                "text": "How much that bothers you and you probably have to clean out the tank too",
+                "label": "b^m"
+            },
+            {
+                "text": "Thats - you dont have to do as much as as I thought In fact my problem - I had fish as kid and they always died --",
+                "label": "%"
+            },
+            {
+                "text": "Oh no",
+                "label": "ba"
+            },
+            {
+                "text": "-- immediately and what Im what I think now is the reason is I kept the tank too clean --",
+                "label": "+"
+            },
+            {
+                "text": "Oh youre kidding --",
+                "label": "ba"
+            },
+            {
+                "text": "-- because you have -",
+                "label": "%"
+            },
+            {
+                "text": "-- because they need to have little bit of the -",
+                "label": "bf"
+            },
+            {
+                "text": "Right you need to let the bacteria build up and then it keeps all the chemicals in balance",
+                "label": "aa"
+            },
+            {
+                "text": "I see",
+                "label": "b"
+            },
+            {
+                "text": "And I would just take everything out and just like you know wash it with scalding hot water --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh no",
+                "label": "ba"
+            },
+            {
+                "text": "-- and it would kill all the bacteria and that would screw up all the chemical cycles again --",
+                "label": "sd"
+            },
+            {
+                "text": "And so youd have to --",
+                "label": "bf"
+            },
+            {
+                "text": "-- so -",
+                "label": "%"
+            },
+            {
+                "text": "-- start all over --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "aa"
+            },
+            {
+                "text": "-- to build that up probably",
+                "label": "+"
+            },
+            {
+                "text": "Thats right So now only I only clean things to make things look more aesthetically pleasing --",
+                "label": "aa"
+            },
+            {
+                "text": "Right right",
+                "label": "aa"
+            },
+            {
+                "text": "-- and I dont try and sterilize things",
+                "label": "sd"
+            },
+            {
+                "text": "Dont go through the whole nine yards and --",
+                "label": "bf"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "-- they kind of need little bit of that",
+                "label": "+"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "So youve had fish for long time",
+                "label": "bf"
+            },
+            {
+                "text": "Well Ive had them - I guess its been two years now Ive had tank here and then back at home I used to have small you know five gallon tank But that never worked well And slash error",
+                "label": "%"
+            },
+            {
+                "text": "What size do you have now",
+                "label": "qw"
+            },
+            {
+                "text": "I have fifty-five gallons now sd",
+                "label": "+"
+            },
+            {
+                "text": "Oh thats good size",
+                "label": "ba"
+            },
+            {
+                "text": "Its lot easier",
+                "label": "sd"
+            },
+            {
+                "text": "Have you ever had it uh crack or break or leak",
+                "label": "qy"
+            },
+            {
+                "text": "No No not yet",
+                "label": "nn"
+            },
+            {
+                "text": "Fifty-five gallons youd hope it would never do that",
+                "label": "sv"
+            },
+            {
+                "text": "Thats right I really do But you know -",
+                "label": "aa"
+            },
+            {
+                "text": "Do you have all kinds of different fish or -",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah I just have you know what they call community fish --",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- guppies and platies and and basic things I dont get into the -- -",
+                "label": "+"
+            },
+            {
+                "text": "Real exotic -",
+                "label": "^2"
+            },
+            {
+                "text": "-- right right The expensive ones",
+                "label": "aa"
+            },
+            {
+                "text": "Well theyre probably hardy harder to take care of and -",
+                "label": "sv"
+            },
+            {
+                "text": "They are Theyre very expensive and you know when you die its like when they die its more like an investment",
+                "label": "aa"
+            },
+            {
+                "text": "Yes I bet it is",
+                "label": "b"
+            },
+            {
+                "text": "You lost an investment so -",
+                "label": "sv"
+            },
+            {
+                "text": "Do you have problems with them uh the fish eating each other",
+                "label": "qy"
+            },
+            {
+                "text": "No not really Only if theres baby fish",
+                "label": "nn"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "You always have to isolate those",
+                "label": "sd"
+            },
+            {
+                "text": "Then you have to - how do you isolate them",
+                "label": "%"
+            },
+            {
+                "text": "You get -- -",
+                "label": "sd"
+            },
+            {
+                "text": "jar or something or -",
+                "label": "qy^d"
+            },
+            {
+                "text": "-- well no they have breeders",
+                "label": "nn"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "Its little plastic things that sort of floats --",
+                "label": "sd"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "-- and you put the mother fish in there and then its got like trough underneath her --",
+                "label": "sd"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "-- so as the babies come out they fall down in the trough and theres hole in the middle so they fall into the bottom part of the chamber --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- so the mother cant get to them either And thats you know - it kind of works but its also got slots in it so the water can circulate --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- and on occasion if you get real small one slash error one utt with utt2 itll fit out the slots",
+                "label": "sd@"
+            },
+            {
+                "text": "Itll go through the slot",
+                "label": "bf^m"
+            },
+            {
+                "text": "Thats right so But you know it works I guess",
+                "label": "aa"
+            },
+            {
+                "text": "That works all right then They dont uh want the mothers to be with the little fish either",
+                "label": "qy^d"
+            },
+            {
+                "text": "Oh theyll eat them",
+                "label": "sd"
+            },
+            {
+                "text": "They will",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Isnt that odd",
+                "label": "qy"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "You wouldnt think that",
+                "label": "sv"
+            },
+            {
+                "text": "It and its funny because the one I have every single month without fail she has babies",
+                "label": "sd"
+            },
+            {
+                "text": "Youre kidding",
+                "label": "ba"
+            },
+            {
+                "text": "Oh no All the time and um I - and shes supposed to - her variety it says they wont eat the babies and Ive seen her do it So -",
+                "label": "aa"
+            },
+            {
+                "text": "And that just makes you sick almost doesnt it",
+                "label": "qy^g"
+            },
+            {
+                "text": "Oh its ter- - well it makes you understand that you know things are different",
+                "label": "%"
+            },
+            {
+                "text": "Things are different in the animal kingdom huh",
+                "label": "bf"
+            },
+            {
+                "text": "We might right We might decide whats proper and what isnt but --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- you know thats the way it is for them",
+                "label": "+"
+            },
+            {
+                "text": "Thats kind of the way they do it",
+                "label": "bf"
+            },
+            {
+                "text": "Yeah Thats it",
+                "label": "aa"
+            },
+            {
+                "text": "Survival of the fittest or something",
+                "label": "bf"
+            },
+            {
+                "text": "Yes because if the baby is strong enough it can swim away fast enough --",
+                "label": "aa"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- and go hide",
+                "label": "+"
+            },
+            {
+                "text": "Go hide from them well --",
+                "label": "bf"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "-- and then you think well how did they do it out in the real world anyway --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- when these fish are in the tropicals or wherever they are --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- kind of trying to keep up with that but If youre like me you never have enough time for the hobbies",
+                "label": "+"
+            },
+            {
+                "text": "No not really I I try I also I play couple of instruments",
+                "label": "nn"
+            }
+        ]
+    }
+]

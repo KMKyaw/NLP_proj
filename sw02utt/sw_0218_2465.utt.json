@@ -1,0 +1,619 @@
+[
+    {
+        "conversation_id": "conv_2465",
+        "turns": [
+            {
+                "text": "Well do you own",
+                "label": "qy"
+            },
+            {
+                "text": "No I dont I have one at uh - the company I work for furnishes so I can work at home",
+                "label": "nn"
+            },
+            {
+                "text": "Oh wow",
+                "label": "ba"
+            },
+            {
+                "text": "And its just an old old compact that is super slow and but it does it does its job so -",
+                "label": "sd"
+            },
+            {
+                "text": "What processor does it have in it",
+                "label": "qw"
+            },
+            {
+                "text": "Um I dont know its so old Its one of -",
+                "label": "no"
+            },
+            {
+                "text": "Oh what kind of work do you do on it",
+                "label": "qw"
+            },
+            {
+                "text": "Um I do um television ratings and I process some ratings and put do graphics for their television stations",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay",
+                "label": "bk"
+            },
+            {
+                "text": "their clients so -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Its basically just data entry and running you know some some software so it doesnt really have to be anything sophisticated you know",
+                "label": "sd"
+            },
+            {
+                "text": "Huh yeah I dont own but Ive Ive yeah I work for I and uh -",
+                "label": "b"
+            },
+            {
+                "text": "Yeah my husband does too so -",
+                "label": "b"
+            },
+            {
+                "text": "Well I have uh pretty fa- fairly fancy one its I model Its an one thousand which has it has fast processor in it three eighty-six",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I - the the job that I do - I do lot of training of our customers for new products",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I have to develop uh functional specs and disk and desk top publishing and everything so its",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "its kind of fun",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I mean I I always say that I need to buy computer for the house but I just havent got around to doing it yet",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah Id like to have one for the house too but sometimes my husband my husband says usually I work on the computer all day at work I dont want to come home and have to work on one too",
+                "label": "b"
+            },
+            {
+                "text": "Your husband what what group is your husband in",
+                "label": "qw"
+            },
+            {
+                "text": "Um something with the defense",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Huh",
+                "label": "br"
+            },
+            {
+                "text": "Defense systems and electronics group",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah something like that yeah theyve changed their name so many times Ive lost track so -",
+                "label": "ny"
+            },
+            {
+                "text": "I see Yeah",
+                "label": "b"
+            },
+            {
+                "text": "He works up in Plano",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay",
+                "label": "b"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "Yeah I work on uh printers and",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "the peripheral products division basically uh I work in the airline ma- marketing group",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "So we we do lot of -",
+                "label": "%"
+            },
+            {
+                "text": "I didnt even know they had anything like that",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "Man theres so - theyre - I learned so many things that they they do theyre into so many different things so - Yeah I just kind of - in for while you know - he had he had uh one of those what are they top secret things",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "you know where he couldnt talk about what he did so",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "For while but then he switched jobs I dont understand half the stuff he does and I have uh -",
+                "label": "+"
+            },
+            {
+                "text": "Is he programmer",
+                "label": "qy"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "I see",
+                "label": "bk"
+            },
+            {
+                "text": "Software design engineer so as they call it so - But I have degree in information management",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "which is computer you know",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "its basically the more the bus- business end of it than the programming end of it you know",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "So but Ive been at it for you know five years so Everythings changed so much I probably couldnt even get job right now It seems like its changed so much so you know theyve made such advances in computers so -",
+                "label": "sd"
+            },
+            {
+                "text": "Really So uh does your husband ever use uh laptop or notebook Does he bring little one home with him or -",
+                "label": "ba"
+            },
+            {
+                "text": "No huh-uh sometimes he bri- he brought home uh portable one",
+                "label": "nn"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "but uh it it quit working so he brought it brought it back and he just hasnt brought another one home But they did give him new computer at work so -",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I see Yeah we we build uh laptop and notebook computers here in Temple also",
+                "label": "b"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And those are really handy I mean we they they have modems in them you can send fax from your",
+                "label": "sd"
+            },
+            {
+                "text": "Oh how nice",
+                "label": "ba"
+            },
+            {
+                "text": "but theyre theyre really -",
+                "label": "%"
+            },
+            {
+                "text": "no he doesnt have one of those so -",
+                "label": "o"
+            },
+            {
+                "text": "Whats that",
+                "label": "br"
+            },
+            {
+                "text": "He doesnt have one of those",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah theyre theyre pretty handy because you know when I travel its easy to check messages just you know",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "plug in the phone to your computer and dial in and -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Well my husband doesnt have to travel so -",
+                "label": "b"
+            },
+            {
+                "text": "Oh okay Yeah I just found out Im going to Denver Sunday night again",
+                "label": "b"
+            },
+            {
+                "text": "Oh boy Well at least you get to -",
+                "label": "ba"
+            },
+            {
+                "text": "So that kind of reeks havoc with plans but it its really not enough to become big hassle",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Well thats good Some people enjoy the travel but I dont think Id like it if he traveled lot",
+                "label": "b"
+            },
+            {
+                "text": "I see",
+                "label": "b"
+            },
+            {
+                "text": "Yeah I would love to have computer they - but theyre so expensive",
+                "label": "b"
+            },
+            {
+                "text": "Well I dont know there you can get well - depends on what you consider expensive I mean -",
+                "label": "h"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "you can get real high powered stuff now for under two thousand dollars where you know just few years ago it would have been six seven eight nine thousand dollars",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah You know I guess its not its all you know its inexpensive compared to what it used to be but its lot to put into one",
+                "label": "b"
+            },
+            {
+                "text": "Yeah its still I mean - you know two thousand dollars isnt just just pocket change to lot of people",
+                "label": "b"
+            },
+            {
+                "text": "Thats right No its not Its its not pocket change so its major Maybe when the kids get in school that will be you know - when they start needing something you know then that will be different but -",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah when I started at uh I I was Summer development student",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and finishing up at school and so those papers really - I mean it was nice having access to the",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "equipment to uh -",
+                "label": "+"
+            },
+            {
+                "text": "Yes I remember that I had to do some of my husbands papers because I had access to one but you know he his was more for scientific stuff than for word processing you know so -",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I did lot of his papers Yeah they come in real handy that was lifesaver",
+                "label": "sd"
+            },
+            {
+                "text": "Well how many different types of packages do you use",
+                "label": "qw"
+            },
+            {
+                "text": "At home",
+                "label": "qy^d"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Um all I - the packages I I dont really use I what I use that outside development that we use most of its just stuff thats been written in house that I use",
+                "label": "%"
+            },
+            {
+                "text": "Oh okay Yeah Golly Ive got - up up at work anyway I use WordPerfect and Lotus and",
+                "label": "b"
+            },
+            {
+                "text": "Yeah I know those two",
+                "label": "b"
+            },
+            {
+                "text": "and which is uh uh line-draw package",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh Ive just used WordPerfect and Lotus and the most",
+                "label": "b"
+            },
+            {
+                "text": "Yeah You probably use or something like that",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "for your uh data entry stuff that your",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "talking about",
+                "label": "+"
+            },
+            {
+                "text": "lot of the data entry stuff they used uh survey system and and um you know just in-house programs to do what they needed I work -",
+                "label": "sd"
+            },
+            {
+                "text": "Do you get do you work at home all the time or just -",
+                "label": "qy"
+            },
+            {
+                "text": "Well no I worked for this company before I had my first daughter",
+                "label": "nn"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and they just wanted me to continue working for them at home doing other things so -",
+                "label": "sd"
+            },
+            {
+                "text": "Oh that that was that worked out pretty good then",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah it did You know I dont do I dont really dont do basic lot of what I used to do I just do you know something really minor but",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "its something that nobody else wants to do",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and its time consuming So -",
+                "label": "sd"
+            },
+            {
+                "text": "So it keeps you in the company huh",
+                "label": "qy^g"
+            },
+            {
+                "text": "Thats right you know it gives me paycheck you know its only like the works only you know three weeks Goes for like three to four weeks three times year",
+                "label": "na"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "you know its not something thats continual because you know the television ratings dont come out you know all the time They only come out four times year so but -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Boy I tell you if I could bring computer home and do stuff here Id get all kinds of stuff done",
+                "label": "b"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Phones always ringing and",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "people always asking me to do something else",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Ive got lot of - especially right now weve got several new products coming out and Ive got lots of documentation I need to review and some I need to revise",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh will they let you take computer home to work",
+                "label": "b"
+            },
+            {
+                "text": "Well yeah but you know I need to be at the office too",
+                "label": "ny"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know Ive just got to deal with all those other things that happen but",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "at the house would really take lot of the load off",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I bet Yeah my hu- he took one home when they when they had it you know they had big deadline coming up and it was looking little touchy to meet so -",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh well Ive Ive done that before on couple times",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But that would make it just that much easier instead of bringing home computer you just bring home few floppy disks you know",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh thats right I thought that would be you know - because its real nice with this because I dont even have to go into the office Ive maybe been into the office once in the past three years you know",
+                "label": "b"
+            },
+            {
+                "text": "Oh my",
+                "label": "ba"
+            },
+            {
+                "text": "They just um they just send me everything and pick it up courier or whatever so you know -",
+                "label": "sd"
+            },
+            {
+                "text": "Man that sounds really nice",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah It is real nice you know I just deal with them on the telephone half the people dont even know who theyre talking to",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But I you know worked - I know most of them well I cant say that lot of people changed around there but most people know who I am but I dont know who they are you know",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "lot of them just know me by name and phone voice",
+                "label": "sd"
+            },
+            {
+                "text": "Right Yeah Ive got lot of folks that Ive worked with like that as well",
+                "label": "b"
+            },
+            {
+                "text": "Yeah you just know them by the telephone so But well its been good talking to you I think weve got the subject",
+                "label": "b"
+            },
+            {
+                "text": "Yeah we sort of stayed to the topic anyway",
+                "label": "b"
+            },
+            {
+                "text": "Yeah we tried Its hard to sometimes",
+                "label": "b"
+            },
+            {
+                "text": "Okay well well talk to you later",
+                "label": "b"
+            },
+            {
+                "text": "Okay well thanks bye bye",
+                "label": "fc"
+            },
+            {
+                "text": "Bye",
+                "label": "fc"
+            }
+        ]
+    }
+]

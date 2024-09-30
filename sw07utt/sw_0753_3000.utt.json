@@ -1,0 +1,307 @@
+[
+    {
+        "conversation_id": "conv_3000",
+        "turns": [
+            {
+                "text": "Well lets see um I I like to go out to eat I really do but being from Dallas um I think we have an average of six or seven restaurants that open and close every we- month and we ave- we have really high turn over rate",
+                "label": "^h"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "Oh yeah and and this is I mean there are streets just called restaurant rows and uh you can get everything here from um very spicy Indian meal to you know the favorite barbecue and and uh just anything your little hearts desires around here so here they have to entertain us to make us come back",
+                "label": "ny"
+            },
+            {
+                "text": "Uh",
+                "label": "%"
+            },
+            {
+                "text": "And I guess its all one big game because you you just never run out of places to go you really dont",
+                "label": "sd"
+            },
+            {
+                "text": "Thats good",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I never really thought about that but uh good turn over would be sort of nice Course if you find place you like and it works out that no one else likes it it would be sort of sad to see it go under",
+                "label": "sd"
+            },
+            {
+                "text": "Really and and we go to you know like an older part of town and we just notice how many oh well - that restaurants changed and oh gee there theyve changed and oh weve got to go try that one you know and its its really - you have the pick of the you know the crop here",
+                "label": "aa"
+            },
+            {
+                "text": "Are they big into am- ambiance down there or is it more like -",
+                "label": "qy"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "uh Texas to me makes - it seems like it would be portions would be the big thing",
+                "label": "sd"
+            },
+            {
+                "text": "You know your your fourteen ounce steak with your potato and stuff",
+                "label": "bf"
+            },
+            {
+                "text": "Yeah right uh-huh",
+                "label": "aa"
+            },
+            {
+                "text": "Um you can get that too No theyve got everything here from the uh French Room which is ultra ultra to um um Dean Ferrings uh uh restaurant which is the Mansion on Turtle Creek I mean weve got beautiful places to go You can get as dressed up or - you know just going to the local barbecue and just doing take out",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So you know I guess uh some of the foods that we really enjoy though are the um um like Chinese",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "and were always searching around for Chinese And now of course theyve added the Taiwanese and and um uh various you know any any part of the country you want to hit they have got it I mean Vietnamese restaurant we went to you know last week Its great its good stuff you kno-",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But uh its so its very very mixed and uh you know I think if you like food like we do - I I dont know if that happened before or after we moved here but um",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "you know you get lot of uh great variety of things here so - But if you were going to restaurant say um where would you go",
+                "label": "+"
+            },
+            {
+                "text": "Oh well we had uh we have lot of favorites here uh in Northern Virginia and of course weve got to call on you know",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "and theres all sorts of things down there One thing about is that there are lot of traditional restaurants where you know its the guy used to be the cook for the Capitol and so he stays in the same restaurant for twenty years you know",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay",
+                "label": "bk"
+            },
+            {
+                "text": "and hes got big clientele and um so there are there are some hang outs where you can go if you want to see people You know its its sort of like Hollywood in way because theres theres favorite haunts for Southerners and things like that",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Um we dont hang around with them because usually its you know ninety dollars plate or something silly like that",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah right",
+                "label": "aa"
+            },
+            {
+                "text": "So uh but uh my wife has friend that - runs one of the restaurants down there and weve been down there and had French cuisine and uh I dont know I dont particularly care for that sort of thing just th- the type of food just because I do like uh you know getting meal",
+                "label": "sd"
+            },
+            {
+                "text": "I see",
+                "label": "b"
+            },
+            {
+                "text": "And uh most French food always leaves me hungry for some reason I I dont know what they say about Chinese Im always hungry after French meal uh",
+                "label": "sd"
+            },
+            {
+                "text": "Thats true too",
+                "label": "aa"
+            },
+            {
+                "text": "And uh - but the the atmosphere is just wonderful You do feel like youve gone out you know and done something",
+                "label": "%"
+            },
+            {
+                "text": "To another place yeah",
+                "label": "bf"
+            },
+            {
+                "text": "when you go to French restaurant or restaurant downtown Well as out here you might have enjoyed the meal and go away feeling satisfied its not so much an event you know out in the suburbs when you go to local restaurant",
+                "label": "+"
+            },
+            {
+                "text": "Yeah well -",
+                "label": "b"
+            },
+            {
+                "text": "And theres theyre starting to get little bit different um theyre theyre realizing that more of the the people with the money are coming out and living in the suburbs getting away from the city and so there are couple jazz houses you know that have jazz bands playing while youre eating and stuff like that",
+                "label": "sd"
+            },
+            {
+                "text": "Oh there you go yeah",
+                "label": "ba"
+            },
+            {
+                "text": "which is kind of nice because -",
+                "label": "+"
+            },
+            {
+                "text": "Oh were sort of in the middle of uh the extension of the Cajun country too so we have um lot of ambiance provided by you know the the bands and everyth- you know like you said jazz bands and things like that You know",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "you go out and you eat your crawfish and --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah right",
+                "label": "b"
+            },
+            {
+                "text": "-- jambalaya and stuff You know I I really dont like that stuff but my husband does He loves to cook it so",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "he and friend of his get together and they cook I mean you know like for bunch of people and and uh its really - in fact we do lot more entertaining I think at home than we do going out So when we do go out we really you know want to be wowed by um the presentation so to speak",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And uh you know but but there are little places um and like I said some of our very favorites are the Chinese restaurants just to",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and we do lot of take out because everybodys so busy running around",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and its the fastest thing to do and so we sort of enjoy the you know both parts because slash unit because As next utterance is backchannel of B58",
+                "label": "sd"
+            },
+            {
+                "text": "We have two uh two very special places in Northern Virginia that people go to Uh ones called Captain Pells --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Should be indep slash unit",
+                "label": "+@"
+            },
+            {
+                "text": "-- which is crab house",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "you know being so close to Maryland",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Maryland is you know big place for crabs with the with the bay pretty much taking over most of Maryland",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And um Captain Pells is place with the big huge wooden tables inside and people just go in there and just pig out and everything And then um the other place is called the Vienna Inn which is uh uh - Vienna is suburb of also in Virginia and uh that place is known for the the rudest waitresses in the country are are at the Vienna Inn And uh people go there to be abused I mean",
+                "label": "sd"
+            },
+            {
+                "text": "Just to be abused by the meanest waitress slash unit",
+                "label": "bf@"
+            },
+            {
+                "text": "you actually go in there to be abused by the by the waitresses and the bartenders and stuff",
+                "label": "+"
+            },
+            {
+                "text": "Oh thats talent Indep slash unit",
+                "label": "+@"
+            },
+            {
+                "text": "And people come all over the country amazed at um the abuse they were seized And then its on the honor system You pay totally on the honor system",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "And so you know you tell them what youve eaten and what you drank or whatever and they figure out the bill for you and youre lucky if you get change Usually they they take your change and throw you couple of mints in your hand and say thanks you know Because uh they -",
+                "label": "sd"
+            },
+            {
+                "text": "Got to carry through with the abuse huh",
+                "label": "^2^g"
+            },
+            {
+                "text": "Yeah carry on with the abuse they say you need - mints here guy you dont get any change you know",
+                "label": "aa"
+            },
+            {
+                "text": "Oh gee Well thats funny I we just went to an Italian restaurant this - um just wonderful - and they I mean - its like being in It- - I mean Ive never been to Italy okay but its just this big beautiful Italian restaurant Very um low key in terms of the people are from California you know so they have their own adaptation of what Italian is I mean but its it was wonderful wonderful experience You know they have uh women there going to going to uh Southern Methodist University and and graduating in opera or something like that and they are all singing arias to you and",
+                "label": "ba"
+            },
+            {
+                "text": "Oh wow",
+                "label": "ba"
+            },
+            {
+                "text": "and just walking around the restaurant singing and they make the food right there so its display cooking and and uh then they have wine casks all over the place so youre lined up waiting in line to this place and you just take drink of wine and you know they dont count that really they just -",
+                "label": "+"
+            }
+        ]
+    }
+]

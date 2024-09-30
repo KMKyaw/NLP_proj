@@ -1,0 +1,451 @@
+[
+    {
+        "conversation_id": "conv_3203",
+        "turns": [
+            {
+                "text": "All righty",
+                "label": "o"
+            },
+            {
+                "text": "Okay",
+                "label": "o"
+            },
+            {
+                "text": "What type of home do you have in Dallas",
+                "label": "qw"
+            },
+            {
+                "text": "We have uh four bedroom split brick home in in Richardson actually",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh we bought it back in about nineteen seventy-three So weve seen it go up in value wise real well",
+                "label": "sd"
+            },
+            {
+                "text": "Oh good",
+                "label": "ba"
+            },
+            {
+                "text": "Yes",
+                "label": "aa"
+            },
+            {
+                "text": "And its probably typical of your neighborhood",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yes yes It it looks like all the others Its uh -",
+                "label": "ny"
+            },
+            {
+                "text": "Im in Plano just you know north of where you live",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh we live near Coit and Legacy in relatively new development that just has gone in about two years ago",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I know where that is Yeah should this be two slash units",
+                "label": "sd@"
+            },
+            {
+                "text": "So my home is typical Its brick home two story brick home and its typical of - of the other homes in our neighborhood too",
+                "label": "sv"
+            },
+            {
+                "text": "Yes youre in the the styles that they have started building in the last couple years with the real high ceilings",
+                "label": "b"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "and uh-huh Thou- those are lovely",
+                "label": "%"
+            },
+            {
+                "text": "Yes The the one thing we did do instead of having twenty foot living room ceiling - were from the north and we just couldnt stand the wasted space so we had them - we have high entry hall and then we had them level off our living room and dining room ceiling to um nine feet so we could get bedrooms above",
+                "label": "aa"
+            },
+            {
+                "text": "Oh Oh nice",
+                "label": "b"
+            },
+            {
+                "text": "So that way we we sort of have the entryway that looks typical of the area but we dont have so much wasted space",
+                "label": "sd"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "And we could get more bedrooms per square foot that way",
+                "label": "sd"
+            },
+            {
+                "text": "Have you um found in talking to your neighbors that your utilities are quite bit higher with those high ceilings",
+                "label": "qy"
+            },
+            {
+                "text": "Mine are actually the lowest in the neighborhood",
+                "label": "ng"
+            },
+            {
+                "text": "Are they",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh Well I would expect so I have wondered about the cooling and the heating",
+                "label": "b"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "Especially the cooling",
+                "label": "+@"
+            },
+            {
+                "text": "Right I know Our air conditioner during the summer we - its over three fifty month",
+                "label": "b"
+            },
+            {
+                "text": "Wow uh-huh",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah just to air-condition it so -",
+                "label": "b"
+            },
+            {
+                "text": "Well how many bedrooms do you have in your home",
+                "label": "qw"
+            },
+            {
+                "text": "I have uh master bedroom and den on the main floor and then upstairs I have three bedrooms and I have - Im writer and I work in my home so",
+                "label": "sd"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "bk"
+            },
+            {
+                "text": "above the garage area I have studio",
+                "label": "+"
+            },
+            {
+                "text": "Oh how nice Huh should this be two slash units",
+                "label": "ba@"
+            },
+            {
+                "text": "So its not really bedroom It doesnt have closet and it",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and its the size of three car garage So thats where I work",
+                "label": "+"
+            },
+            {
+                "text": "Thats pretty good size room",
+                "label": "sv"
+            },
+            {
+                "text": "Yes yes",
+                "label": "aa"
+            },
+            {
+                "text": "Thats neat",
+                "label": "ba"
+            },
+            {
+                "text": "So we - this is our dream home and we just absolutely love it I -",
+                "label": "%"
+            },
+            {
+                "text": "Well it sounds like real nice one",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah were were really proud of it I just hope we never have to move again This is al- -",
+                "label": "b"
+            },
+            {
+                "text": "Right Where did you move from",
+                "label": "b"
+            },
+            {
+                "text": "Uh Detroit this last time",
+                "label": "sd"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "bk"
+            },
+            {
+                "text": "We were there two years and -",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Do you like the Dallas area",
+                "label": "b"
+            },
+            {
+                "text": "Oh we love it",
+                "label": "sd"
+            },
+            {
+                "text": "And I would imagine that you have found that the homes down here are uh much better value down here",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yes and theyre much",
+                "label": "ny"
+            },
+            {
+                "text": "arent they than they are -",
+                "label": "+"
+            },
+            {
+                "text": "much better constructed down south than they are up north too",
+                "label": "+"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "The -",
+                "label": "%"
+            },
+            {
+                "text": "Now thats interesting",
+                "label": "ba"
+            },
+            {
+                "text": "uh-huh The quality of the workmanship we noticed tremendous difference Up north they just kind of throw them together Because we had homes built in in Detroit also",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and they just didnt care If the trim work didnt line up its just thats just what you get",
+                "label": "sd"
+            },
+            {
+                "text": "Thats interesting because Ive heard so many people down here say that they dont feel like the quality of the homes you know are that good down here",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "And uh so thats interesting",
+                "label": "ba"
+            },
+            {
+                "text": "Yes Well the carpenter and painter and you know everybody the marble man were just there in the house everyday when we would come to check on it as it was being built and theyd say just look at this and you know they seemed so proud of everything they did",
+                "label": "b"
+            },
+            {
+                "text": "Well thats good",
+                "label": "ba"
+            },
+            {
+                "text": "And it really made difference to us",
+                "label": "sd"
+            },
+            {
+                "text": "Well I know as I as I said our house is about seventeen years old and uh weve been very pleased with it Weve had no major problems with it Knock on wood",
+                "label": "sd"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "And uh you know it is with uh with the you know two children growing up and now three grandsons roaming through it",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "all the time So and we like our neighborhood It it",
+                "label": "+"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "has has grown and the majority of the people you know keep up the neighborhood",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh Thats important too",
+                "label": "b"
+            },
+            {
+                "text": "And thats very important and and as I said it it has ris- risen in value",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But we bought back when housing was so low",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "and you know and now i- you know i- - then it started jumping by leaps and bounds",
+                "label": "%"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "It seems to have leveled off and actually dropped back down little bit",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "but were still fine",
+                "label": "sd"
+            },
+            {
+                "text": "ours is pretty much level in the two years",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "that weve been there Were hoping it takes off again but --",
+                "label": "+"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "-- I dont know with the building and Pennys and everything going in up on Legacy were hoping that brings in more people",
+                "label": "+"
+            },
+            {
+                "text": "It should bring up your property values little bit",
+                "label": "sv"
+            },
+            {
+                "text": "Thats what were hoping because",
+                "label": "sd"
+            },
+            {
+                "text": "Your pricing",
+                "label": "sv"
+            },
+            {
+                "text": "were were just real close to to where that is",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "I think once the economic situation in the Dallas area --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- improves I think the housing will go up",
+                "label": "+"
+            },
+            {
+                "text": "I hope so too",
+                "label": "sd"
+            },
+            {
+                "text": "You know Right now theres lot on the market for sale because of people having lost their jobs",
+                "label": "sv"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "and everything so thats you know that keeps prices down --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and value down and Im sure the packs uh or - would like for it to go up",
+                "label": "+"
+            },
+            {
+                "text": "Yes Im sure For that reason it can stay the same",
+                "label": "aa"
+            },
+            {
+                "text": "Thats right",
+                "label": "ba"
+            },
+            {
+                "text": "but",
+                "label": "sd"
+            },
+            {
+                "text": "Thats right",
+                "label": "ba^r"
+            },
+            {
+                "text": "But we love being where we are",
+                "label": "+"
+            }
+        ]
+    }
+]

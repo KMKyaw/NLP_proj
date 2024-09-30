@@ -1,0 +1,383 @@
+[
+    {
+        "conversation_id": "conv_3576",
+        "turns": [
+            {
+                "text": "Lets see something missing A1 my husband does the majority of the um the uh gardening uh taking care of the lawn and fertilizing but I um tend to all the planting the annuals and and the spraying --",
+                "label": "^h"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and um taking care of them and maybe putting flowers in you know throughout that season and later on maybe planting some mums and that kind of stuff and um any kind of decorating for the holidays you know Ill fix the porch up with pumpkins for Halloween and Christmas but basically he does all the heavy stuff and I do all the fun stuff",
+                "label": "+"
+            },
+            {
+                "text": "Well we have it just opposite here My wife works in you know at at at the I and shes uh sedentary all day long --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- so when she gets home she likes to mow",
+                "label": "+"
+            },
+            {
+                "text": "I see",
+                "label": "b"
+            },
+            {
+                "text": "And we have about ten acres and she tries --",
+                "label": "sd"
+            },
+            {
+                "text": "Wow",
+                "label": "ba"
+            },
+            {
+                "text": "-- to mow about half of it",
+                "label": "+"
+            },
+            {
+                "text": "Wow Thats big job",
+                "label": "ba"
+            },
+            {
+                "text": "Well yeah it keeps uh well - its doing real well because when we got this place the the dirt was just overgrazed --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- I mean you know it was bare dirt in lot of places --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and now you know since weve been mowing it - and you know of course we water little bit thats just too much to water all at once but --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh sure",
+                "label": "ba"
+            },
+            {
+                "text": "-- but just by keeping it mowed and getting it mulched in weve reclaimed lot of it",
+                "label": "+"
+            },
+            {
+                "text": "Oh I bet its beautiful",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah but we dont do much in the way of uh flowers We have one little flower garden --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- that we that we work with The rest of it is just like wild flowers --",
+                "label": "+"
+            },
+            {
+                "text": "Wild flowers",
+                "label": "b^m"
+            },
+            {
+                "text": "-- and in the summertime we get the prettiest yellow flowers",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Theyre about oh I guess third the size of your palm of your hand --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh that sounds lovely",
+                "label": "ba"
+            },
+            {
+                "text": "-- course in the spring we get the bluebonnets and Indian paintbrush",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh Oh the wild flowers are beautiful I think um I was thinking about throwing some for in the back just where the kids um just way in the back behind the swing sets or just have some wild flowers growing back there would be real pretty Then you dont really have to have much maintenance involved",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Well my wife and I really enjoy that sort of thing",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh she enjoys mowing I cant believe it",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh I know lot of -- -",
+                "label": "b"
+            },
+            {
+                "text": "I mean I hate it",
+                "label": "sd"
+            },
+            {
+                "text": "-- uh-huh lot of women do Um Ive just never really you know - maybe one of these days Ill have to get out there and mow but um my husband takes it on and Ill help rake up the grass and um sometimes Ill help him edge um because we dont have that much property but were on corner lot so theres lot of edging to do --",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- and um uh thats whats nice about living more in the country you dont have to worry about any of that",
+                "label": "sv"
+            },
+            {
+                "text": "We dont even have any concrete --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- or asphalt",
+                "label": "+"
+            },
+            {
+                "text": "Oh thats nice I - this is different for us because the other - in the past weve had homes that havent had any side walks and um its been little more country with the trees and we do miss that Um if we had chance to move I think wed move back to somewhere that was little more countrified --",
+                "label": "ba"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and little less maintenance required --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah --",
+                "label": "b"
+            },
+            {
+                "text": "-- as as far as that goes",
+                "label": "+"
+            },
+            {
+                "text": "-- but you know we do everything together",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "This this spring we got thousand pine trees from the - actually this fall I was talking about - two weeks ago --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- we got thousand pine trees from the you know soil and conservation people --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh were in the process of of planting --",
+                "label": "sd"
+            },
+            {
+                "text": "Wow thats -",
+                "label": "ba"
+            },
+            {
+                "text": "-- and were building stand uh just to the north of our house and along the east uh property line --",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "-- and I uh I think what were what were trying to do is create sort of wind break --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- because I tell you in the winter time when that when that wind comes out of the north it just cuts right through you like youre not even there",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "Right Well I put -",
+                "label": "b"
+            },
+            {
+                "text": "On the other side of the house though thats where we have all the the delicate flowers and the mums and we have morning glory --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and we have trumpet vine and moon flowers and we planted those out by the septic so that uh they get plenty of water --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and we get hummingbirds come in the --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- spring you know all summer long",
+                "label": "+"
+            },
+            {
+                "text": "Oh that sounds so pretty",
+                "label": "ba"
+            },
+            {
+                "text": "And well when we leave the doors open they fly in the house",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really Do they dont do any damage though they just fly right back out if you have the -",
+                "label": "ba"
+            },
+            {
+                "text": "Well yeah they dont like it in here because theres nothing to eat --",
+                "label": "ny"
+            },
+            {
+                "text": "I see",
+                "label": "ba"
+            },
+            {
+                "text": "-- and when youre as busy as one of those babies youve got to eat most of the time",
+                "label": "sd"
+            },
+            {
+                "text": "I see",
+                "label": "b"
+            },
+            {
+                "text": "And we got few you know we put up some hummingbird feeders and some bird feeders",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But you know for the most part gardening for us is - well we got asparagus and uh weve got some plum trees and some apple trees and some tomato --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and some blackberries and strawberries Man we get the best strawberries that you just cant believe",
+                "label": "+"
+            },
+            {
+                "text": "Oh oh that sounds wonderful",
+                "label": "ba"
+            },
+            {
+                "text": "We just got our last tomatoes",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I love home gro- grown tomatos",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Theres nothing like them They just dont have the same ones in the supermarket",
+                "label": "sv"
+            },
+            {
+                "text": "Well these are accidental tomatos",
+                "label": "sd"
+            },
+            {
+                "text": "What does that mean accidental tomatoes",
+                "label": "qw"
+            },
+            {
+                "text": "Well last year the birds came and ate few of the tomatoes of course youre going to lose some that way --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and the seeds go right through them",
+                "label": "sd"
+            },
+            {
+                "text": "I see",
+                "label": "b"
+            },
+            {
+                "text": "And wherever they pooped -",
+                "label": "sd"
+            }
+        ]
+    }
+]

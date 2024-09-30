@@ -1,0 +1,387 @@
+[
+    {
+        "conversation_id": "conv_3236",
+        "turns": [
+            {
+                "text": "Why dont you go ahead and say what you feel and then Ill respond",
+                "label": "ad"
+            },
+            {
+                "text": "All right Well Im uh Im very guilty of of not doing my part with recycling Im afraid We um recently moved here from North Carolina and they had curbside recycling and it was very easy to you know to put everything out there but we dont have it in at least in our neighborhood right now --",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh so Ive been very guilty about not making the effort to to take things where take things where they belong",
+                "label": "sd"
+            },
+            {
+                "text": "Well how long have you been here",
+                "label": "qw"
+            },
+            {
+                "text": "Well weve been here since January so --",
+                "label": "sd"
+            },
+            {
+                "text": "Well -",
+                "label": "%"
+            },
+            {
+                "text": "-- we we still feel very new but uh --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- its working up to year now so I guess were old timers compared to some people",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I think thats good excuse You need to get into the --",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- the system little more and know where to take things",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Weve been here probably two and half years and and we didnt recycle at all before we came --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- so I think were doing well We we save most of our aluminum cans and glass --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and newspaper right now",
+                "label": "+"
+            },
+            {
+                "text": "Well where do you take those things",
+                "label": "qw"
+            },
+            {
+                "text": "Well the um glass and the newspaper we usually take to Walmart They have um in behind Walmart they have bins --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and then we usually save up our cans and and change them in for money",
+                "label": "sd"
+            },
+            {
+                "text": "Well where do you do that because weve been saving cans for my daughters choir --",
+                "label": "qw"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- um but I didnt know where to take them",
+                "label": "+"
+            },
+            {
+                "text": "Um theres place on Parker Road um its just over the overpass before you get like to -Mart I think theres service station there Theres usually semi truck that has person there that will weigh them and",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "Now they arent worth much right now but --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- its better than nothing so -- -",
+                "label": "+"
+            },
+            {
+                "text": "Better than nothing right",
+                "label": "b^m"
+            },
+            {
+                "text": "-- and what I hear lot of neighborhoods do have the the pickup now and we hopefully well be getting them in the month of October",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I - it seems like ever since weve moved here weve been hearing that you know --",
+                "label": "b"
+            },
+            {
+                "text": "Yeah and",
+                "label": "b"
+            },
+            {
+                "text": "-- its coming in couple of months but -",
+                "label": "+"
+            },
+            {
+                "text": "I think its been delayed I think it was originally scheduled for February but the trucks that were supposed to do it theres been some problems with --",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- from what Ive read in you know the mail that we get --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- and I cant wait for that that will be easy I get tired of newspaper littering the garage",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah it gets to be bit much to haul it off but -",
+                "label": "b"
+            },
+            {
+                "text": "I feel guilty we dont recycle our our milk containers because they seem like big waste",
+                "label": "sv"
+            },
+            {
+                "text": "Well they yeah they theyre lot of bulk anyway --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah --",
+                "label": "b"
+            },
+            {
+                "text": "-- yeah",
+                "label": "b^r"
+            },
+            {
+                "text": "-- yeah they fill up the whole kitchen garbage can --",
+                "label": "b^r"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- so Ill be glad when the bins do come and I think thats when Ill Ill start doing the plastic too",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah it was real easy with the bins it really was it was just no effort at all um no more trouble than taking out the garbage so um -",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Ive gotten used to washing the you know the um salad dressing bottles and --",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- things like that its not that big of deal and its nicer to just throw them out but we can do our part --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- take an extra minute or two",
+                "label": "+"
+            },
+            {
+                "text": "Well how much do you earn on the cans I I didnt know ho- what kind of an idea to give her for -",
+                "label": "qw"
+            },
+            {
+                "text": "Oh when we first were were here it was like wed take maybe oh grocery sack full or --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- maybe two grocery sacks full and it would be like two dollars --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- but since last time weve gotten more like dollar",
+                "label": "+"
+            },
+            {
+                "text": "So its gone down",
+                "label": "bf"
+            },
+            {
+                "text": "Yeah --",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^m"
+            },
+            {
+                "text": "-- which is understandable I think more people are --",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- are recycling",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Thats something we we dont really make any effort to and whatever pop we drink we used to take the boys out for bike ride and pick up the litter you know the the cans --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and that was kind of fun but we havent done that for long time --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- so -",
+                "label": "%"
+            },
+            {
+                "text": "Well that sounds like pretty good project",
+                "label": "ba"
+            },
+            {
+                "text": "Well the boys think its fun plus you get your exercise and you do get to stop once in while when there is can to rest so -- -",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- but -",
+                "label": "%"
+            },
+            {
+                "text": "Well Ill have to keep myself and and ge- get on it My neighbor across the street um is so careful about recycling and so I keep telling myself Ill Ill get it organized but may maybe theyll beat me and and do the city wide first",
+                "label": "sd"
+            },
+            {
+                "text": "Well hopefully the bins will be here in this month and that will spur you on so -",
+                "label": "sd"
+            },
+            {
+                "text": "Right right I wont have any excuse then thats for sure",
+                "label": "aa"
+            },
+            {
+                "text": "All right well it sounds like were doing our part and at least starting",
+                "label": "sv"
+            },
+            {
+                "text": "Thinking about it anyway",
+                "label": "^2"
+            },
+            {
+                "text": "Trying thats all you can do --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah but",
+                "label": "b"
+            },
+            {
+                "text": "-- so -",
+                "label": "%"
+            },
+            {
+                "text": "Well um have you - do they time this thing for us or do we",
+                "label": "+"
+            },
+            {
+                "text": "Um yeah you can do it as long as you want They you know - if its been long enough five minutes is is when they cut in and say say we dont have any more room for recording",
+                "label": "ny"
+            },
+            {
+                "text": "You cant chat all day huh",
+                "label": "qy^g"
+            },
+            {
+                "text": "So --",
+                "label": "fc"
+            },
+            {
+                "text": "Okay",
+                "label": "fc"
+            },
+            {
+                "text": "-- we can say good-bye now It was good talking to you and maybe well get on line again",
+                "label": "+"
+            },
+            {
+                "text": "Okay",
+                "label": "fc"
+            },
+            {
+                "text": "Thanks Sherry",
+                "label": "fc"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc^m"
+            }
+        ]
+    }
+]

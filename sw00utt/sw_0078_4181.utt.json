@@ -1,0 +1,363 @@
+[
+    {
+        "conversation_id": "conv_4181",
+        "turns": [
+            {
+                "text": "I dont think anybody pays too little",
+                "label": "sv"
+            },
+            {
+                "text": "No I would tend to agree very highly I think that were all paying little bit too much taxes and not seeing too much good come out of it",
+                "label": "aa"
+            },
+            {
+                "text": "Do you get hit up for local taxes there",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah we sure do Here in Indiana we pay uh we pay county income tax state income tax we pay five percent sales tax uh you name it they tax it",
+                "label": "ny"
+            },
+            {
+                "text": "Oh so - - you get the whole smorgasbord",
+                "label": "bf"
+            },
+            {
+                "text": "Thats right we -",
+                "label": "aa"
+            },
+            {
+                "text": "Well I I actually live in New Hampshire --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- tax free or die",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "+"
+            },
+            {
+                "text": "Which is probably pretty nice but Ill bet that means your state sales tax is pretty high",
+                "label": "sv"
+            },
+            {
+                "text": "No actually theres no sales tax in New Hampshire either",
+                "label": "nn"
+            },
+            {
+                "text": "Theres no sales tax either",
+                "label": "br^m"
+            },
+            {
+                "text": "No what there is is very high property taxes because thats how they fund schools and everything",
+                "label": "nn"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "The only problem is I work in Massachusetts so they --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- they hit me up for the five percent there",
+                "label": "+"
+            },
+            {
+                "text": "Taxachusetts",
+                "label": "sd"
+            },
+            {
+                "text": "Yep but it - well you know we - its only state tax here no local",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Weve got five percent sales tax",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "But uh the problem is that so Im paying state tax even if I dont live here",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b^r"
+            },
+            {
+                "text": "But at least on things like stock options and things like that they dont tax me",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So thats not too bad",
+                "label": "sv"
+            },
+            {
+                "text": "No I uh I really think that here in Indiana at least we pay whole uh just too much tax I worked in factory uh last summer and on the average I was losing twenty percent of every paycheck to taxes and I dont feel that I really get whole lot of return from that I mean I dont utilize all you know it really any government welfare services Of course I drive on the roads and I you know went to the schools and stuff but I really feel that that Im just getting overtaxed",
+                "label": "aa"
+            },
+            {
+                "text": "Oh I I mean I Id consider twenty percent lucky because just on I mean you know when you figure out just on feds you know I actually hit the thirty-one bracket --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- this year which was no fun",
+                "label": "+"
+            },
+            {
+                "text": "No thats thats not any fun",
+                "label": "aa"
+            },
+            {
+                "text": "Right and also you know then you figure out seven or eight percent for I --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- which is taxes --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- where you - most people forget about them because youve - you know you cant always get your I back at the end of the year",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b^r"
+            },
+            {
+                "text": "But so you know and then you know like five percent surtax Im paying forty percent tax",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah which is just outrageous and lot of it - and if you look at the way the government is run these days it just seems like lot of its going to waste",
+                "label": "b"
+            },
+            {
+                "text": "Yeah well I I mean I think theres some people there - certainly are some things where you need infrastructure and you need --",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- you - you know there are things government does better you know I think government does better space program --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b^r"
+            },
+            {
+                "text": "-- than youre going to get out of private individuals but you know I think you know you look at things like you know tax subsidies to tobacco farmers --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b^r"
+            },
+            {
+                "text": "-- because Jesse Helms wants it that way or",
+                "label": "+"
+            },
+            {
+                "text": "Thats right got to keep those farmers happy",
+                "label": "aa"
+            },
+            {
+                "text": "You know and and just tremendous amounts of you know - so much of it is now just going to service debt or --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know is going in into into programs that you know - yeah they are they are fat You know I think the military is really fat I think that lot of the the services although theyre providing necessary services have too much fat in them",
+                "label": "+"
+            },
+            {
+                "text": "Right The- there is just way too much bureaucracy and so much of that tax money is going just to keep that bureaucracy running keep the paper shuffling around --",
+                "label": "aa"
+            },
+            {
+                "text": "You know like we -",
+                "label": "%"
+            },
+            {
+                "text": "-- instead of real you know good programs",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I mean we we spend fortune for things like hospitals and you know then you look at how well theyre managed you know I dont think were getting our moneys work out worth out of there I think its all going into into bureaucrats",
+                "label": "aa"
+            },
+            {
+                "text": "Right and lot of its feeding that Just I just I really especially in the election year I mean Im really thinking lot about this the economy and questions like that and and just the whole - it seems like everything is really screwy right now as far as the economy uh the government goes and our our whole economy in general and our taxes just are going to keep rising no matter what happens and especially when youve got the Bush administration who has increased government expenditures uh beyond what any other President since World War Two has done and yet --",
+                "label": "aa"
+            },
+            {
+                "text": "Well be- --",
+                "label": "aa"
+            },
+            {
+                "text": "-- he supposedly -",
+                "label": "+"
+            },
+            {
+                "text": "-- between him and Reagan yeah",
+                "label": "+"
+            },
+            {
+                "text": "Right right yeah",
+                "label": "aa"
+            },
+            {
+                "text": "The great communicator",
+                "label": "sd"
+            },
+            {
+                "text": "I mean I just read something that two thirds or three quarters Im not exactly sure of our national debt are was created during the Reagan Bush era --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh oh yeah they think -",
+                "label": "aa"
+            },
+            {
+                "text": "-- who are suppo- supposedly fiscally conservative",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah and then they go and say Im not - - Congress theyre the fault for it",
+                "label": "aa"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "But you know the other thing is its tricky though because like in New Hampshire they say oh all right lets cut the military budget",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b^r"
+            },
+            {
+                "text": "Well yeah then you lose half your jobs in New Hampshire --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you lose - Grotten Connecticut goes so you know its like you know its very tricky to balance that stuff off because then you hurt you know - if the if the if people lose their jobs then they become load and theyre not contributing taxes",
+                "label": "sd"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "So you know its its very hard to say you know this is what we should cut",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah its really - that is the - especially that defense cuts in the defense is really Catch twenty-two -- -- double whammy because like you say if you cut defense well thats great thats going to lower our national expenditures but then youre going to have people on welfare and theyre not --",
+                "label": "aa"
+            },
+            {
+                "text": "Who arent contributing",
+                "label": "^2"
+            },
+            {
+                "text": "-- putting taxes in",
+                "label": "+"
+            },
+            {
+                "text": "Right yeah",
+                "label": "aa"
+            },
+            {
+                "text": "So thats thats really - its -",
+                "label": "sv"
+            },
+            {
+                "text": "And uh in our -",
+                "label": "%"
+            },
+            {
+                "text": "Im glad Im not the one who has to come up with these policies",
+                "label": "sd"
+            },
+            {
+                "text": "Right But whats very funny is in our town meeting they were - - th- this this guy had both for our school district meeting and our town meeting had this proposal which unfortunately violates New Hampshire constitution --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- - for our local town to do it to uh have you have people line item their taxes",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "They say I want to pay for this and this and this and this and this Course the only problem with that is then nobody paying for the necessary services they dont use",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            }
+        ]
+    }
+]

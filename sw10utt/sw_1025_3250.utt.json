@@ -1,0 +1,323 @@
+[
+    {
+        "conversation_id": "conv_3250",
+        "turns": [
+            {
+                "text": "Okay",
+                "label": "o"
+            },
+            {
+                "text": "Why dont you go ahead and start",
+                "label": "ad"
+            },
+            {
+                "text": "Okay well we subscribe to PEOPLE magazine and to TIME and of course I like the PEOPLE magazine because its gossipy --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and its fast reading and uh the TIME of course is uh you know more newsworthy and uh it has more world affair type things of course And then I will purchase GOOD HOUSEKEEPING occasionally especially around the holiday time because of recipes and ideas and --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and things like that --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh do you subscribe to any magazines",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah I well I have in whi- for while I havent gotten any because I just find that Im not reading what Im getting because uh I have so much going on in my life that seems to be the last thing I pick up so I found that I was wasting my money As much as I enjoy them uh when I do subscribe I Ive gotten in the past the PARENTS magazine and uh the HOUSEKEEPING magazine --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh --",
+                "label": "b"
+            },
+            {
+                "text": "-- uh",
+                "label": "%"
+            },
+            {
+                "text": "-- you probably have smaller children --",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yes yeah",
+                "label": "ny"
+            },
+            {
+                "text": "-- younger children My children our children are grown --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "ny"
+            },
+            {
+                "text": "-- and uh Im letting their mother read on the grandchildren",
+                "label": "sd"
+            },
+            {
+                "text": "Right well I found that after couple of years of having PARENTS magazine it was getting repetitious so I kind of canceled it anyway for that reason Uh the HOUSEKEEPING magazines I do like because they like you say they have nice uh recipes in them and ideas but uh lately theyve just been piling up on me so I figured it wasnt uh something I needed at this point in time",
+                "label": "b"
+            },
+            {
+                "text": "Well do you think that people subscribe to magazines as much as they used to",
+                "label": "qy"
+            },
+            {
+                "text": "I dont know I I well - my husband would love to have more Now hes the type who will get the uh INC magazine and MONEY magazine and all the financial type magazines",
+                "label": "no"
+            },
+            {
+                "text": "Yes now my husband does that and -- -",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- you know and of course uh naturally WALL STREET JOURNAL you know --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh yes",
+                "label": "b"
+            },
+            {
+                "text": "-- and or SPORTS ILLUSTRATED but I dont know I know few people leafing through them at the store -- -",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "+@"
+            },
+            {
+                "text": "-- but you just dont hear people talk about them and I know years ago when uh my children were young and stuff I just loved LADIES HOME JOURNAL McCALLS GOOD HOUSEKEEPING and I took them all --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh then oh I dont know what - in the seventies maybe late seventies they changed their format --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and I havent - I dont think theres been magazine as they used to be --",
+                "label": "%"
+            },
+            {
+                "text": "Well -- -",
+                "label": "b"
+            },
+            {
+                "text": "-- even GOOD HOUSEKEEPING I dont -",
+                "label": "sv"
+            },
+            {
+                "text": "-- yeah and some of those have had what what I consider or what - I get the idea that they are maybe the the more pricier type magazines as far as womens magazines They seem just to be so chocked full of of ads",
+                "label": "b"
+            },
+            {
+                "text": "Oh they are My sister uh takes uh TOWN AND COUNTRY and VOGUE --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and she sends them to me and theres really nothing in them but advertisements --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- for very expensive clothes very expensive jewelry --",
+                "label": "+"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "-- things that the average middle class citizen is not going to be purchasing --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- you know and if I want to drool or if I want to see how the other half is living --",
+                "label": "sd"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "-- you know then I can I look through them --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and I do I just - what I do is I flip through them and and pitch them then you know theyre not something I you know take any length of time over",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I have discovered that you know with my available time I would rather actually read book --",
+                "label": "sd"
+            },
+            {
+                "text": "Yes --",
+                "label": "b"
+            },
+            {
+                "text": "-- than magazine",
+                "label": "+"
+            },
+            {
+                "text": "-- I enjoy books lot more --",
+                "label": "sd"
+            },
+            {
+                "text": "Yes --",
+                "label": "b"
+            },
+            {
+                "text": "-- thats true",
+                "label": "sv"
+            },
+            {
+                "text": "-- and uh -",
+                "label": "%"
+            },
+            {
+                "text": "Well --",
+                "label": "%"
+            },
+            {
+                "text": "So but -",
+                "label": "%"
+            },
+            {
+                "text": "-- now I have certainly stopped subscribing as much as I used to other than my children have gotten - You know they get tons of magazines it seems --",
+                "label": "sd"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "-- theyre always getting something in the mail and and uh so between reading to them and uh reading the newspaper - and then I have book that Im occasionally reading when I get chance but I just dont get chance for those uh newsy magazines the ones that are full of ads unless you just want to skim through while youre - I I read them when Im at doctors office or you know waiting on something like that",
+                "label": "sd"
+            },
+            {
+                "text": "Yes yes I will read them in doctors office too",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "As I said I I subscribe to uh to PEOPLE and to TIME and uh and I will go through the TIME but usually not cover to cover you know Ill glance through it I like reading uh you know the PASSAGE OF PEOPLE or something --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know and uh but I do like the PEOPLE magazine It it reminds me of the old time movie magazines when I was young --",
+                "label": "+"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh thats one and you know I really like that I enjoy that Its quick reading --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know it doesnt require lot of thinking and sometimes after Ive worked all day --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and have things to do at night I just I want fluff --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- I dont want lot of thinking",
+                "label": "sd"
+            },
+            {
+                "text": "Thats true that kind of is good way to do it",
+                "label": "ba"
+            },
+            {
+                "text": "It uh you know its its much more relaxing Sometimes when I read TIME magazine after Ive read an article Im real depressed over the situation of the world so Well it seems like we both kind of agree on the subject of magazines --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh -- -",
+                "label": "%"
+            },
+            {
+                "text": "Okay",
+                "label": "fc"
+            },
+            {
+                "text": "-- so uh I think that probably I will end the call Ive enjoyed -",
+                "label": "fc"
+            }
+        ]
+    }
+]

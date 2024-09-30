@@ -1,0 +1,427 @@
+[
+    {
+        "conversation_id": "conv_3743",
+        "turns": [
+            {
+                "text": "Well Nancy what do you think um some of the changes in roles of women are in American society in the past generation or two",
+                "label": "qw"
+            },
+            {
+                "text": "Well of course working",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Thats definitely got to be the biggest thing is that everybodys out there working --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- including me",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Well what do you think it is",
+                "label": "qw"
+            },
+            {
+                "text": "Um yeah I agree",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I also think that there are more um - the people are - women stay single longer it seems like",
+                "label": "sv"
+            },
+            {
+                "text": "Yes they do",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Yeah they do",
+                "label": "b"
+            },
+            {
+                "text": "I know my mother and her sister were both married by the time they were twenty --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- and I waited until I was thirty-two so -",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know um I know that",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah thats true Its big change Im an nurse and so I really do see what youre saying there",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "It used to be that our list ran nineteen twenty twenty-one for our patients ages And now our care plans look more like thirty-two thirty-three --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and if we get somebody twenty-one we go oh look how young",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So yeah youre right theres big change and we have lot of first time moms in their late thirties and even forties",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So its true",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But again I guess it probably does go back to the same thing of women having careers",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "If they didnt have - if they werent out there working and having their careers --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- they probably would be married and having their children So -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah Seems like theres -",
+                "label": "b"
+            },
+            {
+                "text": "I guess its combination",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh go ahead",
+                "label": "b"
+            },
+            {
+                "text": "No go on",
+                "label": "ar"
+            },
+            {
+                "text": "Uh it just seems like there are more single mothers too I mean thats - therere --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- lot of either divorced or um you know never been married so -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah yeah theres lot of mixed up families thats for sure",
+                "label": "b"
+            },
+            {
+                "text": "Yeah I agree Well what do you think have been the most significant changes in the past generation or so",
+                "label": "aa"
+            },
+            {
+                "text": "Well just that I think the families - the the role in the family - and the mother doesnt stay home and cook the dinner --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- take care of the children um we do it all",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I really think that and I know that theres lot more participation by the fathers but I still think the mothers have the major role",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I really do I think theyre just theyre not doing very much less I dont think as far as the kids and and the house and everything --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- are concerned not from what I see --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and and theyre contributing to the income besides",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I think that were really really putting lot of stress on ourselves",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh yeah and it really its affecting the families --",
+                "label": "b"
+            },
+            {
+                "text": "Oh it is",
+                "label": "aa@"
+            },
+            {
+                "text": "-- you know for mothers not not to be home and yet you know um - I mean I I dont blame anybody when they have to work --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "+@"
+            },
+            {
+                "text": "-- because um - yeah",
+                "label": "+"
+            },
+            {
+                "text": "Yeah its its difficult and I think that - I live in Plano actually so -- -",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- its very wealthy town and were not part of that but it is you know - and I think what I see lot of parents lot of mothers working just for bigger and better -- -",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and I really hate that --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know I hate to see that and I Ive been here for very long time --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but um I dont know now Im single parent and I dont have choice any more --",
+                "label": "h"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but I used to just work occasionally for extra money but now I have to work all the time --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and thats really hard --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and and I dont know how mother does just choose to go out to work and and leave the kids In way its good its very good to get out with adults and I think thats good thing if you can do it --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- part time But to just go out there forty hours week at least and --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and work and and leave your kids to get home from school alone and that kind of thing I think thats not very smart I think thats --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- difficult on them So -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Well what do you thinks going to happen in the next generation You think itll continue",
+                "label": "b"
+            },
+            {
+                "text": "Well its going to be interesting",
+                "label": "^h"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Yeah I think it will change but Im not sure how its going to because you see young people today and wonder how in the world theyll ever afford to buy home and --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and to raise family I dont know how theyre going to do it",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And so I dont know how it can change to where the mother can get back into the home again I dont that ever will go backwards --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but I dont know what effect its going to have on these kids now when they grow up how theyre going to feel about it",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "sv"
+            },
+            {
+                "text": "It you know it could lead to another Woodstock type thing you know where --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- where theres just too much material things and and maybe these kids will really resent that their parents are out there working for things --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- they might want to do without things rather than do that to their families",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Its hard to say",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah it is I think some - I dont know how many you know what percentage but some are will move back toward more traditional lifestyle of staying home with the children I guess I see that happening already",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Some choosing it and and they get you know - therere - people chide them for it you know why arent you out -",
+                "label": "sv"
+            }
+        ]
+    }
+]

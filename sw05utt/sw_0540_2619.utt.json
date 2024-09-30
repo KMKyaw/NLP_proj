@@ -1,0 +1,275 @@
+[
+    {
+        "conversation_id": "conv_2619",
+        "turns": [
+            {
+                "text": "Well uh what what do you think about the metric system Uh do you uh find it useable Have you tried much with it",
+                "label": "qo"
+            },
+            {
+                "text": "Well wi- with an engineering",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "degree its of course its whole lot easier",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "because uh -",
+                "label": "%"
+            },
+            {
+                "text": "To use you mean uh-huh",
+                "label": "bf"
+            },
+            {
+                "text": "yeah if if somebody ha- is totally unfamiliar with it uh human nature being what it is we dont like to change",
+                "label": "aa"
+            },
+            {
+                "text": "Yes",
+                "label": "aa"
+            },
+            {
+                "text": "Uh it just absolutely makes perfectly good sense to me because its all decimal",
+                "label": "sd"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "And its so easy to convert from one set of units to another",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh uh-huh We - well Ive lived both in the United States and and in country where they do use the metric system and uh so Ive Ive lived with pounds and inches and found it really quite easy to convert over Um the secret seeming to me to be to not bother ever converting inches to centimeters and",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "aa"
+            },
+            {
+                "text": "pounds to kilom- uh uh kilograms",
+                "label": "+"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "and I think thats what hung people up the most is they went now wait minute an inch is two point fifty-four centimeters",
+                "label": "sv(^q)"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "how on earth am I every going to do the math spelling",
+                "label": "^q"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And the problem is that we tried to convert everything from inches to centimeters preserving basically the inches but expressing them as centimeters rather than saying no centimeter is about the width of your thumbnail or whatever and you know and leaving it at that and uh you know kilogram weighs about this much and get used to it from scratch cause I still cant convert back and forth from inches to centimeters but Im perfectly comfortable using either",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I think the real problem with this this weird conversion yo- you see signs that say fifty-five miles per hour and you know whatever it would be one hundred six kilometers per hour you know - people you know - its hard to take it seriously",
+                "label": "sv"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "And as long as both were given you basically just dont read the kilometers per hour you just say well look read the miles per hour one the other one must be for someone else",
+                "label": "sd"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "Uh I dont know I mean even Britain has converted over and we inherited this mess from them and uh -",
+                "label": "h"
+            },
+            {
+                "text": "Thats right its all their fault",
+                "label": "aa"
+            },
+            {
+                "text": "Well I mean its more our fault than theirs at this point because they they saw the light um I dont know why they we- um were more able than we were except I think that they probably just said well were just going to start using the things now and you sort of have to force people to change since they dont want to",
+                "label": "sv"
+            },
+            {
+                "text": "Of course being part of the European community if everybody else did it they they were probably much more - is much more necessary for them than for us",
+                "label": "%"
+            },
+            {
+                "text": "Thats true thats thats probably true and America does have long history of sort of doing things our own way rather than adopting you know some other model",
+                "label": "aa"
+            },
+            {
+                "text": "Theres an expression for that With eyes on the past backing confidently into the future",
+                "label": "sd"
+            },
+            {
+                "text": "Ive never heard that one thats very nice Oh so Im all for the metric system and converting over and I think - I guess my feeling is the way to do it is is to just start giving weights you know have very brief transition period and then just start giving weights and kilometers er just as in kilometers and weights and kilograms and everything like that and uh just have people start using it rather than having people constantly trying to convert Remember me getting package of something that said one pound this is package of dates mind you its was presumably something you weigh fairly precisely it said one pound and then in parenthesis it said four hundred fifty-four point six grams",
+                "label": "sd"
+            },
+            {
+                "text": "Right right",
+                "label": "b"
+            },
+            {
+                "text": "And as near as I could tell seeing that was basically anti-metric propaganda cause anyone who would say well look I can either buy pound of something at four hundred sixty-four point six grams which of course they couldnt weigh it out accurately anyway um every time I see something like that I think well thats thats an anti-metric argument",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Well uh I I dont think itll it could ever happen with with quick transition",
+                "label": "b"
+            },
+            {
+                "text": "You dont",
+                "label": "qy"
+            },
+            {
+                "text": "No I I think that would be the easiest way but human nature being such as it is",
+                "label": "nn"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I would think it would take probably two or three years before people co- could completely cut the cord",
+                "label": "+"
+            },
+            {
+                "text": "Yeah oh oh thats what I was thinking by quick transition I didnt mean you know I didnt mean like Sweden going over to right hand drive or anything you know at midnight tonight we all switch over or anything",
+                "label": "b"
+            },
+            {
+                "text": "Did they switch",
+                "label": "qy"
+            },
+            {
+                "text": "Uh I believe so yeah and I think they did it overnight cause you know you cant do it gradually Thats an example of something you cant do gradually",
+                "label": "^h"
+            },
+            {
+                "text": "Well thats true It it has to be kind of discreet transaction",
+                "label": "aa"
+            },
+            {
+                "text": "Yes it does quantum leap from left to right hand drive",
+                "label": "aa"
+            },
+            {
+                "text": "Interesting",
+                "label": "ba"
+            },
+            {
+                "text": "And they - but you know that must have taken uh - that was something that had to be done quickly",
+                "label": "%"
+            },
+            {
+                "text": "Oh yes",
+                "label": "aa"
+            },
+            {
+                "text": "you know because of external circumstances but they decided to do it to make themselves in sync with the rest of Europe",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "or the rest of continental Europe and you know",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But that must have been tremendously difficult to orchestrate",
+                "label": "+"
+            },
+            {
+                "text": "Im sure",
+                "label": "ba"
+            },
+            {
+                "text": "Um so I I I I I think its essential that its done and I think the real trick is to avoid the you know - little more attention to human psychology and whereas people want round numbers - and after all the whole reason to go over to metric is to have round numbers",
+                "label": "sv"
+            },
+            {
+                "text": "Exactly exactly",
+                "label": "aa"
+            },
+            {
+                "text": "so they dont deal with thirty seconds of an inch and so what the exact - the thing that was best about metric was the thing that was most poorly represented Really I think",
+                "label": "+"
+            },
+            {
+                "text": "Well we do have the two liter soda pop bottles",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh I saw that I saw that the other day I don- dont drink soda pop",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "but I saw two liter soda pop bottle so yeah things like that are good start and if you start expressing one liters and one kilograms and then the pounds come in the the you know the odd numbers",
+                "label": "sd"
+            },
+            {
+                "text": "Right Yes",
+                "label": "aa"
+            },
+            {
+                "text": "you know two point two pounds or something I think people will start getting sense of gee the metric is the sensible one",
+                "label": "+"
+            },
+            {
+                "text": "Thats true Well sure have enjoyed our talk",
+                "label": "ba"
+            },
+            {
+                "text": "Yes well get back to what youre doing and Ill do the same I enjoyed talking with you too",
+                "label": "fc"
+            },
+            {
+                "text": "Okay God bless - - Bye-bye",
+                "label": "fc"
+            },
+            {
+                "text": "Okay Bye-bye",
+                "label": "fc"
+            }
+        ]
+    }
+]

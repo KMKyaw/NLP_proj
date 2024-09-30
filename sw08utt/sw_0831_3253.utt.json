@@ -1,0 +1,259 @@
+[
+    {
+        "conversation_id": "conv_3253",
+        "turns": [
+            {
+                "text": "Hi",
+                "label": "fp"
+            },
+            {
+                "text": "Hi",
+                "label": "fp^m"
+            },
+            {
+                "text": "Im wondering what what camping means to you",
+                "label": "qw^d"
+            },
+            {
+                "text": "When I think of camping I think of of bugs and sleeping bags and and tents uh like along the Appalachian Trail",
+                "label": "sd"
+            },
+            {
+                "text": "Oh very good Thats sort of the same thing that that I do I dont think of um trailers and campers and all this stuff",
+                "label": "ba"
+            },
+            {
+                "text": "No",
+                "label": "aa"
+            },
+            {
+                "text": "Um do you do much camping",
+                "label": "qy"
+            },
+            {
+                "text": "I have never been camping",
+                "label": "ng"
+            },
+            {
+                "text": "Oh youve never been camping Oh gee",
+                "label": "b^m"
+            },
+            {
+                "text": "No Do you do much",
+                "label": "nn"
+            },
+            {
+                "text": "Well um yes and no and the uh - I havent done much recently but um up until gee maybe five or six years ago I did lot of it --",
+                "label": "no"
+            },
+            {
+                "text": "Really",
+                "label": "b"
+            },
+            {
+                "text": "-- and you know Ive -",
+                "label": "%"
+            },
+            {
+                "text": "Where you live now or",
+                "label": "qy^d"
+            },
+            {
+                "text": "Say",
+                "label": "br"
+            },
+            {
+                "text": "Did you camp up in Maryland or -",
+                "label": "+@"
+            },
+            {
+                "text": "No um I used to live abroad and so I I camped lot in um the Middle East --",
+                "label": "nn"
+            },
+            {
+                "text": "Oh okay",
+                "label": "bk"
+            },
+            {
+                "text": "-- and I was able to camp right in ruins which was always very exciting --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I bet",
+                "label": "ba"
+            },
+            {
+                "text": "-- and bit exotic for those who love bugs but um and then when I used to come back to the states in summer wed often go up um to the lake country in New York --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- with my brothers family and and do camping there",
+                "label": "+"
+            },
+            {
+                "text": "Oh okay Well my cou- uh husband and and his uncle especially uh grew up camping together and uh they they just love it and theyre planning trip uh into Canada this I guess in about year and theyre going to spend about week and half camping up there",
+                "label": "b"
+            },
+            {
+                "text": "And youre not going",
+                "label": "qy"
+            },
+            {
+                "text": "No this is this is mans trip",
+                "label": "nn"
+            },
+            {
+                "text": "Oh thats too bad",
+                "label": "by"
+            },
+            {
+                "text": "So theyre really looking forward to that --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh gee",
+                "label": "ba"
+            },
+            {
+                "text": "-- so -",
+                "label": "%"
+            },
+            {
+                "text": "I guess it makes difference I grew up camping being in Girl Scouts and things like that so -",
+                "label": "sd"
+            },
+            {
+                "text": "And see I was I was never exposed to it --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- so - I I feel like Im little bit too uh much of city city mouse to try doing it",
+                "label": "%"
+            },
+            {
+                "text": "Oh thats too bad I think the- you know theres certainly lot of aspects you would like but maybe not the yo- you know the Canada mens trip but some other you know nice tent on the the shore of lake and -",
+                "label": "by"
+            },
+            {
+                "text": "Whats the best part about it to to you the the quiet the getting away",
+                "label": "qw"
+            },
+            {
+                "text": "Right the the the no telephone the - gee whiz you go to bed when it gets dark and you get up when it gets light",
+                "label": "na"
+            },
+            {
+                "text": "Wow",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah and um I guess just just the change from the rat race",
+                "label": "b"
+            },
+            {
+                "text": "Now do you usually like do you usually go and theres lots of other people around or is it pretty much isolated",
+                "label": "qy"
+            },
+            {
+                "text": "No its uh its pretty isolated um and to me I like that I guess too although there are people I mean you know its really hard to get away --",
+                "label": "nn"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and I guess when when we did sites in in the Middle East of course it was with group in order to make it safe --",
+                "label": "sd"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "-- but I mean wed go in different parts of the ruins and and things like that But we didnt even have tents there we just sort of put out the sleeping roll",
+                "label": "sd"
+            },
+            {
+                "text": "Oh good grief That that does sound neat but I dont think I Ive got quite enough nerve to do that I know my husbands gone uh for several days on the Appalachian Trail before and he said that you can lot of times you can go for you know good day before youll see or meet anybody else on the trail",
+                "label": "fe"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "So its not for the faint of heart I dont think",
+                "label": "sv"
+            },
+            {
+                "text": "Right Actually I just joined um the Appalachian Trail Walking Club or whatever they call it what - uh --",
+                "label": "aa"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- and Im very eager to to start uh I love to walk --",
+                "label": "+@"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and um Im going to start with day trips though because I dont know the territory and all and Im not sure - my son is not eager to go and you know I think that that that might be little eerie at first going alone",
+                "label": "sd"
+            },
+            {
+                "text": "I think it would be yeah Well that sounds really neat",
+                "label": "aa"
+            },
+            {
+                "text": "Oh but you know Im going to try",
+                "label": "sd"
+            },
+            {
+                "text": "Well",
+                "label": "o@"
+            },
+            {
+                "text": "Well gee whiz I hope you get into camping some day just slowly",
+                "label": "fe"
+            },
+            {
+                "text": "I dont know uh we talk about sometimes going up to Chincoteague --",
+                "label": "+@"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh I - maybe like you said start out slow and and kind of get used to it and find out that it maybe its not as bad as I I fear it might be",
+                "label": "%"
+            },
+            {
+                "text": "Right I think that you know - I guess one time recently we went up to Maine and had planned to camp and you know the only site left when we got there was in the middle of field and I said Gee whiz for twenty dollars we can go down the road and get motel --",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- which we did and so that you know - if the setting was right and that its its great - but if its -",
+                "label": "+"
+            }
+        ]
+    }
+]

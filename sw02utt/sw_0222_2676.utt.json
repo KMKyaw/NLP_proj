@@ -1,0 +1,815 @@
+[
+    {
+        "conversation_id": "conv_2676",
+        "turns": [
+            {
+                "text": "Do you live in Plano or work in Plano or both",
+                "label": "qr"
+            },
+            {
+                "text": "Both",
+                "label": "sd"
+            },
+            {
+                "text": "Both are you I -er",
+                "label": "b^m"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "Are you at work right now",
+                "label": "qy"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "So am I In building which building",
+                "label": "sd"
+            },
+            {
+                "text": "Well are you Summit or are you uh",
+                "label": "qr"
+            },
+            {
+                "text": "Im Im",
+                "label": "sd"
+            },
+            {
+                "text": "Spring Creek",
+                "label": "+"
+            },
+            {
+                "text": "Im Spring Creek",
+                "label": "+"
+            },
+            {
+                "text": "Oh this is fun What building are you in",
+                "label": "sv"
+            },
+            {
+                "text": "Im building uh one",
+                "label": "sd"
+            },
+            {
+                "text": "Oh Im building two At least we found something different Thats - Ive never had call",
+                "label": "sd"
+            },
+            {
+                "text": "Not like that Neither have I",
+                "label": "aa"
+            },
+            {
+                "text": "No isnt that funny I usually get some place - I got woman in New Jersey the last time I called I think",
+                "label": "aa"
+            },
+            {
+                "text": "Right Thats funny",
+                "label": "b"
+            },
+            {
+                "text": "That is funny So -",
+                "label": "aa"
+            },
+            {
+                "text": "So hows the build- hows the weather in building two",
+                "label": "qo"
+            },
+            {
+                "text": "The weather in building two is cold its been cold Its been cold in the building Outside the building its not bad Typical I or I listen I got me doing it Typical Texas Spring Are you native to Texas",
+                "label": "sd"
+            },
+            {
+                "text": "No no Im Im transplant",
+                "label": "nn"
+            },
+            {
+                "text": "From",
+                "label": "qw"
+            },
+            {
+                "text": "From California",
+                "label": "sd"
+            },
+            {
+                "text": "So what do you think of the Texas weather",
+                "label": "qw"
+            },
+            {
+                "text": "Not as nice as California",
+                "label": "sd"
+            },
+            {
+                "text": "How long have you been here",
+                "label": "qw"
+            },
+            {
+                "text": "Oh five years now",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay",
+                "label": "bk"
+            },
+            {
+                "text": "Ive been here long en- pretty long So -",
+                "label": "sd"
+            },
+            {
+                "text": "You you you know about August then",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yes oh Ive been through five of those",
+                "label": "ny"
+            },
+            {
+                "text": "Okay theres no surprises left",
+                "label": "b"
+            },
+            {
+                "text": "Right right lot of people try to leave the state for couple of weeks in August for you know - if theyre going to go out of state for vacation --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- thats the time to go",
+                "label": "+"
+            },
+            {
+                "text": "Good idea Real good idea",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah we went up to Wyoming this last uh Summer during that time And it was like you know eighty degrees up there It was beautiful Nice to get out of Texas for while",
+                "label": "b"
+            },
+            {
+                "text": "We went to Alaska",
+                "label": "sd"
+            },
+            {
+                "text": "Well thats thats the even even farther away",
+                "label": "sd"
+            },
+            {
+                "text": "That is really nice It is so cool you wear jacket you know",
+                "label": "sd"
+            },
+            {
+                "text": "Even in the Summer time huh",
+                "label": "bf"
+            },
+            {
+                "text": "Yeah or keep one handy",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Because its it rains lot in Alaska",
+                "label": "+"
+            },
+            {
+                "text": "Is that right",
+                "label": "bh"
+            },
+            {
+                "text": "Uh it - they call it their liquid gold",
+                "label": "%"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "But it you know - you get sunshine and its lovely and then it rains just enough to keep everything nice --",
+                "label": "%"
+            },
+            {
+                "text": "Green",
+                "label": "^2"
+            },
+            {
+                "text": "-- and moist and very green",
+                "label": "+"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "And blooming Oh my goodness its pretty",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Well Texas isnt bad",
+                "label": "sv"
+            },
+            {
+                "text": "No no",
+                "label": "aa"
+            },
+            {
+                "text": "Not in the Spring",
+                "label": "sv"
+            },
+            {
+                "text": "Right I have to think every year to try to remember what it was whats it supposed to like this time of year",
+                "label": "b"
+            },
+            {
+                "text": "Spring is nice",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah Because March we usually get lot of rain in March you know Itll seem the news the Harold Taft you know on the local news",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "March we typically get lot of rain and weve had this many inches and you know were right on target you know and just seem like we were getting lot of rain in March but I -- -",
+                "label": "sd"
+            },
+            {
+                "text": "Oh we always --",
+                "label": "sd"
+            },
+            {
+                "text": "-- its hard to remember twelve months ago what it was like",
+                "label": "sd"
+            },
+            {
+                "text": "-- we always do though",
+                "label": "+"
+            },
+            {
+                "text": "Yeah --",
+                "label": "b"
+            },
+            {
+                "text": "uh it -",
+                "label": "%"
+            },
+            {
+                "text": "-- I wish I just wish it wouldnt come all at once",
+                "label": "sd"
+            },
+            {
+                "text": "Thats right and --",
+                "label": "ba"
+            },
+            {
+                "text": "And and",
+                "label": "%@"
+            },
+            {
+                "text": "-- then we get all that heat Right",
+                "label": "+"
+            },
+            {
+                "text": "Right Well its just that you know when it rains it rains In California you get these nice lovely rains you know nothing really down- you know like downpours like you have here The other day we had some hail the biggest hail Ive ever seen in Texas",
+                "label": "+@"
+            },
+            {
+                "text": "Oh really",
+                "label": "b"
+            },
+            {
+                "text": "Yeah I live in Garland",
+                "label": "b"
+            },
+            {
+                "text": "Oh you got into that bad stuff",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah We got hail the size of marbles I mean just so noisy hitting the house and the glass on the windows It didnt break anything but we went out there afterwards and theres ice balls the size of marbles all over our lawn",
+                "label": "aa"
+            },
+            {
+                "text": "Isnt that strange",
+                "label": "ba"
+            },
+            {
+                "text": "I know I - you pick them up you know and theyre perfectly round And I go gee how did they form you know so perfect like that",
+                "label": "%"
+            },
+            {
+                "text": "I think thats one of the strange strange things and you very seldom see it though",
+                "label": "sv"
+            },
+            {
+                "text": "Right right Ive seen hail you know but usually the size you know of uh tiny tiny pebbles You know really small you know But this was uh really large",
+                "label": "b"
+            },
+            {
+                "text": "So it had come its drop of water that had come through quite few rain clouds apparently Is that correct",
+                "label": "sv"
+            },
+            {
+                "text": "Uh I dont know how hail is formed --",
+                "label": "no"
+            },
+            {
+                "text": "I think I think --",
+                "label": "sv"
+            },
+            {
+                "text": "-- to tell you the truth",
+                "label": "+"
+            },
+            {
+                "text": "-- thats -",
+                "label": "+"
+            },
+            {
+                "text": "You dont think its cold enough you know to -",
+                "label": "sv"
+            },
+            {
+                "text": "Its not on the ground but --",
+                "label": "sd"
+            },
+            {
+                "text": "Right must be",
+                "label": "b"
+            },
+            {
+                "text": "-- in the clouds it is",
+                "label": "+"
+            },
+            {
+                "text": "I guess and then I think you know all that falling would warm it up and melt it but maybe thats what rounds it I dont know But tumbling",
+                "label": "sv"
+            },
+            {
+                "text": "I was dumb I was in um Florida for week on business",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I had called back to the house I stayed the weekend and I called back to the house My housekeeper was baby-sitting my cats and dogs said something to the effect of now weve made the national news dont get upset and dont worry its in Garland where all the bad weather is I said Okay you know --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and I watched the news and I thought ha ha thats Garland thats not Plano I dont have anything to worry about I was on the plane heading back to Dallas before it dawned on me stupid you own property in Garland Felt so dumb",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "Finally I got home and found out my property was okay",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "There was no problem with it But I guess you just tend to think of of where your house is --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- you know and nothing else",
+                "label": "+"
+            },
+            {
+                "text": "Right and close to that whats called Duck Creek that runs through part of Garland thats the part that always seems to get hardest hit when theres theres the hard rain",
+                "label": "b"
+            },
+            {
+                "text": "Oh oh I see",
+                "label": "b"
+            },
+            {
+                "text": "The creek overflows and lot of houses lot of houses around that creek seem to to get flooded --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay",
+                "label": "b"
+            },
+            {
+                "text": "-- the streets and stuff around that area",
+                "label": "sd"
+            },
+            {
+                "text": "The house that house",
+                "label": "sd"
+            },
+            {
+                "text": "get lot of flooding",
+                "label": "+"
+            },
+            {
+                "text": "that I bought is close to Firewheel golf course",
+                "label": "+"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "Just going to be blocks off of that new highway one ninety thats going through",
+                "label": "sd"
+            },
+            {
+                "text": "Right Thats where I live close to that",
+                "label": "b"
+            },
+            {
+                "text": "Oh really",
+                "label": "b"
+            },
+            {
+                "text": "Yeah uh uh not quite I dont live in that Firewheel division But I live close by there --",
+                "label": "b"
+            },
+            {
+                "text": "Is that nice area",
+                "label": "qy"
+            },
+            {
+                "text": "-- in north far north Garland Yeah theyre supposed to - its getting built up you know with more new new shopping centers and things You know its fairly new area Yeah and uh and theyre supposed to be building mall somewhere close by by the next by ninety-three or ninety-four or something brand new mall --",
+                "label": "+"
+            },
+            {
+                "text": "Well -",
+                "label": "%"
+            },
+            {
+                "text": "-- not too far away from that area so -",
+                "label": "+"
+            },
+            {
+                "text": "The house that --",
+                "label": "sd"
+            },
+            {
+                "text": "Itd be nice",
+                "label": "ba"
+            },
+            {
+                "text": "-- the house that I bought was really really nice",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh in the Firewheel Estates there whatever",
+                "label": "b"
+            },
+            {
+                "text": "Yes yes",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Really really nice home very pretty Uh",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh But youre not living there right now",
+                "label": "b"
+            },
+            {
+                "text": "No Im going to lease it",
+                "label": "nn"
+            },
+            {
+                "text": "Oh I see",
+                "label": "bk"
+            },
+            {
+                "text": "Its its investment property",
+                "label": "sd"
+            },
+            {
+                "text": "I see",
+                "label": "b"
+            },
+            {
+                "text": "But it is really its very nice place Uh I I would cheerfully live there Of course its not my home and Ive lived in my home in well almost ten years and you know Ive got everything just exactly like I want it",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "But if I were to live some place else it certainly meets my standards Its nice house",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh yeah thats nice area Is it on the golf course",
+                "label": "b"
+            },
+            {
+                "text": "No its not its off the golf course and Ill be honest with you Im going to have to get map to figure out exactly where is the golf course versus where my house is",
+                "label": "nn"
+            },
+            {
+                "text": "Is that right",
+                "label": "b"
+            },
+            {
+                "text": "But its in the estates that adjoin it",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah right right Well thats nice area",
+                "label": "b"
+            },
+            {
+                "text": "Yes it is",
+                "label": "aa"
+            },
+            {
+                "text": "That really is nice area When they get that highway finished you can hop on that and get anywhere you need to go --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah that one nine --",
+                "label": "b"
+            },
+            {
+                "text": "-- fairly quick",
+                "label": "+"
+            },
+            {
+                "text": "-- that one ninety is just going to be the mo- the outer- outermost loop around",
+                "label": "+"
+            },
+            {
+                "text": "Right another belt line just uh farther out",
+                "label": "b"
+            },
+            {
+                "text": "Right just continue to do that",
+                "label": "b"
+            },
+            {
+                "text": "Right right right",
+                "label": "b"
+            },
+            {
+                "text": "Where are you from in California",
+                "label": "qw"
+            },
+            {
+                "text": "Southern California",
+                "label": "sd"
+            },
+            {
+                "text": "San Diego",
+                "label": "qy^d"
+            },
+            {
+                "text": "Ive lived in San Diego for six years when I was ki- younger and area and my parents live in Anaheim right now Lived up north of Los Angeles in Thousand Oaks area where the Cowboys have their training camp or used to anyway",
+                "label": "na"
+            },
+            {
+                "text": "Ive been through all of that",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Uh there is an area beyond Thousand Oaks north of Los Angeles that is really an eerie strange looking area -- -- with boulders I won- - theyre not really hills theyre more like just huge boulders with very little vegetation",
+                "label": "sd"
+            },
+            {
+                "text": "Huh Im not familiar with what is it along the coast or --",
+                "label": "b"
+            },
+            {
+                "text": "Uh",
+                "label": "sd"
+            },
+            {
+                "text": "-- or inland",
+                "label": "+"
+            },
+            {
+                "text": "Well you know it may be little bit more inland That is one of the strangest areas I have ever seen",
+                "label": "+"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "Uh I had to go up to I on business --",
+                "label": "sd"
+            },
+            {
+                "text": "Out there uh-huh",
+                "label": "^2"
+            },
+            {
+                "text": "-- couple years ago --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and we went up that coastline and I was just amazed how unusual that looks",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "Here hang on just second Ive got Los Angeles map Let me just quick -",
+                "label": "ad"
+            },
+            {
+                "text": "Yeah they have some pretty nice weather out there in Los Angeles",
+                "label": "b"
+            },
+            {
+                "text": "valley",
+                "label": "^2"
+            },
+            {
+                "text": "valley",
+                "label": "+@"
+            },
+            {
+                "text": "Yes --",
+                "label": "aa"
+            },
+            {
+                "text": "Okay I know where that is",
+                "label": "b"
+            },
+            {
+                "text": "-- beyond Thousand Oaks",
+                "label": "sd"
+            },
+            {
+                "text": "I know where Valley is Ive been out there before sure",
+                "label": "sd"
+            },
+            {
+                "text": "You dont think thats strange looking",
+                "label": "qy^d"
+            },
+            {
+                "text": "I didnt notice anything strange I guess --",
+                "label": "ng"
+            },
+            {
+                "text": "Oh okay --",
+                "label": "bk"
+            },
+            {
+                "text": "-- about it",
+                "label": "+"
+            },
+            {
+                "text": "-- maybe maybe Im used to Texas",
+                "label": "sd"
+            },
+            {
+                "text": "Maybe Texas the way -",
+                "label": "sd"
+            },
+            {
+                "text": "The elevation is extremely high",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Its got curving roads on it but but the - its just strange landscape theres very little vegetation",
+                "label": "sd"
+            },
+            {
+                "text": "Huh I didnt I dont remember seeing that part of it I know Valley yeah its just suburb of",
+                "label": "b"
+            },
+            {
+                "text": "Right Its -",
+                "label": "b"
+            },
+            {
+                "text": "And theyve built some new highways out to that area and things lately People can get in and out of easier",
+                "label": "sd"
+            },
+            {
+                "text": "Maybe its place I went to it was far extreme thought wed never find the place",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "It was interesting",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah sounds interesting",
+                "label": "b"
+            },
+            {
+                "text": "Because we went out the Ventura highway to Thousand Oaks and on up --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- through that way",
+                "label": "+"
+            },
+            {
+                "text": "Right right I I know exactly that area Its nice area out there I love Thousand Oaks Uh Texas I dont know thing things - you just have less variety I guess I think I dont think its quite as green you know Its green with all the trees and things out here but its just -",
+                "label": "b"
+            },
+            {
+                "text": "Oh its green sometime",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah but its just you know - I dont know",
+                "label": "b"
+            },
+            {
+                "text": "Well it doesnt stay green you know --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- the really - and in all honesty - I know this sounds like Texas story all honesty you havent seen the hottest of summers if youve only been here five years We havent had --",
+                "label": "%"
+            },
+            {
+                "text": "Yeah --",
+                "label": "b"
+            },
+            {
+                "text": "-- really bad one",
+                "label": "+"
+            },
+            {
+                "text": "-- I missed that one of eighty or eighty-two or eighty-one --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- that had the heat wave",
+                "label": "+"
+            },
+            {
+                "text": "It may be eighty-two because we bought our house in eighty-one and we built pool in eighty-two",
+                "label": "sd"
+            }
+        ]
+    }
+]

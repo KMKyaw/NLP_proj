@@ -1,0 +1,407 @@
+[
+    {
+        "conversation_id": "conv_3728",
+        "turns": [
+            {
+                "text": "Okay what um - do you watch much or you know -",
+                "label": "o"
+            },
+            {
+                "text": "Um no I dont watch much Sometimes um usually the reason I will turn it on is to hear the news",
+                "label": "nn"
+            },
+            {
+                "text": "The news yeah",
+                "label": "b^m"
+            },
+            {
+                "text": "But I dont think of that every day even",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Um I think I get most of my current events - well I get them from everywhere I sometimes watch if I - I guess I watch if I havent read the paper that day We dont get paper but I work um at - I teach college class and uh -- -",
+                "label": "sd"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- theres - the library has paper And so I often drop in on break and --",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and read it And I keep the radio on quite bit when Im home",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And then I I figure if theres big big news Ill hear it from my husband when he gets home or someone else you know",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah Now I also - I get it from all over I watch the news every day and I ha- we have news - you know we get the newspaper and uh --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- um magazines an- anything You know Im - I read lot so I get - um you know Im Im really up on uh current affairs I get you know --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- the news and and everything",
+                "label": "+"
+            },
+            {
+                "text": "Yeah whats your favorite news do you get news magazine or -",
+                "label": "b"
+            },
+            {
+                "text": "Um well Im not getting an- - no Im not getting any news magazines --",
+                "label": "ng"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but um you know as as I said I do - its uh its easy to keep up on current event- you know --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- on cert- --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah weve got -",
+                "label": "b"
+            },
+            {
+                "text": "-- you know especially when you um --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know you get paper every day",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah exactly",
+                "label": "b"
+            },
+            {
+                "text": "And uh -",
+                "label": "%"
+            },
+            {
+                "text": "Are you satisfied with the quality of coverage",
+                "label": "qy"
+            },
+            {
+                "text": "Uh I dont know Is there anything missing I you know -",
+                "label": "no"
+            },
+            {
+                "text": "Yeah its kind of hard to know",
+                "label": "aa"
+            },
+            {
+                "text": "And I dont know you know what whats I mean what are we supposed to uh compare it to --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know I mean the quality uh - whatever they tell you - you know I uh I guess I I you know Im satisfied I mean I - uh you know they theyre supposedly covering everything that happens so -- -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- you know -",
+                "label": "%"
+            },
+            {
+                "text": "Well I do feel like little bit like - being from California and wanting to hear like - Ive heard through the grapevine sometimes that theres been an earthquake or sliding or something and -- -",
+                "label": "sv"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "-- I dont ever hear it in the news here",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "Well uh sometimes its such - you know its its so um slight you know like --",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- the tremors are so slight that they dont even bother putting it in the --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- paper But most of the ti- the times I find that even if there are you know they do have like tremors out there you know therell be small article in the paper about it",
+                "label": "+"
+            },
+            {
+                "text": "Yeah --",
+                "label": "b"
+            },
+            {
+                "text": "But uh -",
+                "label": "%"
+            },
+            {
+                "text": "-- yeah yeah I sometimes feel like um the Dallas paper and the DALLAS NEWS um the top headlines are always murder you know",
+                "label": "b"
+            },
+            {
+                "text": "Oh well",
+                "label": "sv"
+            },
+            {
+                "text": "That --",
+                "label": "sv"
+            },
+            {
+                "text": "Thats what sells papers",
+                "label": "+"
+            },
+            {
+                "text": "-- thats because theres high crime rate Yeah Yeah",
+                "label": "+"
+            },
+            {
+                "text": "Thats um thats been like that since they the first newspaper you know",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah yeah Im sure",
+                "label": "b"
+            },
+            {
+                "text": "You know but um I dont know I I guess Im satisfied I dont uh -",
+                "label": "h"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I mean what basis you know of comparison do we have really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah really",
+                "label": "aa"
+            },
+            {
+                "text": "We dont get you know -",
+                "label": "%"
+            },
+            {
+                "text": "Thats true We certainly get enough coverage I mean we we can get news you know I mean theres even the channel --",
+                "label": "ba"
+            },
+            {
+                "text": "Oh yeah I was going to -",
+                "label": "b"
+            },
+            {
+                "text": "-- where we can get world news twenty-four hours day",
+                "label": "+"
+            },
+            {
+                "text": "Sure yeah Sometimes you dont even want to be bothered with the news because its all so bad",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Its all so negative you know",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah often times",
+                "label": "b"
+            },
+            {
+                "text": "But -",
+                "label": "%"
+            },
+            {
+                "text": "So Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Well we have to keep talking I guess",
+                "label": "sv^t"
+            },
+            {
+                "text": "Well no I guess we can end",
+                "label": "ar"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Yeah its just whenever were um -",
+                "label": "b"
+            },
+            {
+                "text": "Oh is it really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah Have you always gone until the recording",
+                "label": "ny"
+            },
+            {
+                "text": "Well yeah I dont I dont uh -",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh I guess were not supposed to",
+                "label": "b"
+            },
+            {
+                "text": "I dont know were sup- -- -- I guess were supposed to wait or --",
+                "label": "h"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- I dont know",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Becau- I - you know like one uh well - was it last week we were supposed to talk about gardening --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh and it was really funny I I I mixed it made the call and it happened to be my friend who lives few blocks away",
+                "label": "sd^t"
+            },
+            {
+                "text": "Oh really",
+                "label": "b"
+            },
+            {
+                "text": "Yeah and it was really - We were laughing I mean But you know we dont really do any gardening so like that took like minute --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and then we just talked about you know whatever I mean",
+                "label": "sd^t"
+            },
+            {
+                "text": "uh-huh Interesting Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know I mean some topics - really now you know now this topic this is I mean - there really isnt much to say after --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know you uh you know you you tell the person what uh news there uh you know where their where they find their sources of information from --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and then you know if its uh if theyre satisfied - and thats about it really",
+                "label": "sv^t"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Its hard to talk for five minutes on this",
+                "label": "sv^t"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So um -",
+                "label": "%"
+            },
+            {
+                "text": "Yeah Well I guess I can just say I it bothers me that I hear lot about um you know on the news that - well it seems like I dont know some things are sensationalized or some things are um you know youll hear one report and then youll hear that it you know they didnt um -",
+                "label": "b"
+            }
+        ]
+    }
+]

@@ -1,0 +1,627 @@
+[
+    {
+        "conversation_id": "conv_2241",
+        "turns": [
+            {
+                "text": "Okay Um what do you do this weekend",
+                "label": "o"
+            },
+            {
+                "text": "Well uh pretty much spent most of my time either in the yard or at nurseries buying stuff for the yard",
+                "label": "sd"
+            },
+            {
+                "text": "Huh Which is - wh- - what do you plan have planned for your yard",
+                "label": "%"
+            },
+            {
+                "text": "Well uh we just bought our house uh last July and its it it the house is forty years old so theres theres an established lawn and whatnot flower beds things like that but theyve uh theyve gone few years of neglect",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So were in the process of uh revitalizing the whole situation Weve got um different flower beds in front and uh window box built in window box um trying to get some color back in those get the trees trimmed up uh get rid of few weed problems and things like that",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "What part of the state do you live in",
+                "label": "qw"
+            },
+            {
+                "text": "Uh I live in Dallas",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay Okay My wife and I we live in Dallas too so -",
+                "label": "bk"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "Yeah just what that area - were planning on moving to Flower Mound and were going to be getting some wheel - - were going to have to do lot of lawn and garden work there",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Seems like it Uh the place weve been living at its uh were were just leasing it The in Plano and the soil has so much has such high clay content",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "that uh uh I went to use my dad-in-laws tiller and it about for my arms off",
+                "label": "+"
+            },
+            {
+                "text": "Ill bet",
+                "label": "ba"
+            },
+            {
+                "text": "sockets",
+                "label": "+"
+            },
+            {
+                "text": "Ill bet",
+                "label": "ba"
+            },
+            {
+                "text": "I mean just just scratching two or three inches was just chore It was it was and then when it gets wet you know you dont even want to get out in the yard",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "its horrible",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Its nightmare But um I dont know what what i- - um where you live is there real high uh alkaline or ash content or -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah its pretty high alk- - - ac- actually its done uh its in the north end of Oak Cliff in uh Kessler Park area",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "and uh weve got about -",
+                "label": "%"
+            },
+            {
+                "text": "I know right where thats at",
+                "label": "sd"
+            },
+            {
+                "text": "yeah weve weve got mayb- maybe eight to eight inches to foot of soil",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and then its solid rock from then on down so -",
+                "label": "sd"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah its uh little aggravating we cant we cant put in anything too big um as far as uh shrubs and things like that because theyve got to get chance to find the find the cracks in the rock",
+                "label": "ny"
+            },
+            {
+                "text": "Golly",
+                "label": "ba"
+            },
+            {
+                "text": "But uh -",
+                "label": "%"
+            },
+            {
+                "text": "Is it is it limestone under underneath",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah it is Its its solid limestone",
+                "label": "ny"
+            },
+            {
+                "text": "How do you put trees in there",
+                "label": "qo"
+            },
+            {
+                "text": "Uh you just were just happy that theres trees already there so far",
+                "label": "^h"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "um anything like that is is uh major undertaking I guess uh sprinkler systems or anything uh start to get real expensive because theres an awful lot of work that has to be done chopping through the rock But uh - and it you know no- not even consider considering pool or anything like that thats thats",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "practically has to be blasted in I guess But uh - and it makes it makes for different challenge Ive never - well I I moved to Dallas about five years ago",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and uh I never really messed with anything uh gardening or anything like that until now but uh I I keep hearing all the stories of of different parts of town In fact uh we even we were at the farmers market yesterday and bought few tomato plants and things like that",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and the first thing the the old guy there at the stand asked is what part of town we lived in because he said uh Ive got Ive got dozen different varieties and each one works in one part of town and thats it Thats basically what he was trying to tell us",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Yeah Oh yeah we we tried planting tomatoes last year and it they they turned out pretty poor",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I just I wi- I just wish Id known the the variety and everything",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah it -",
+                "label": "b"
+            },
+            {
+                "text": "But it its amazing we also have roses and I mean they just grow so beautifully",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah that wou- - in fact we put in some uh some more roses yesterday",
+                "label": "b"
+            },
+            {
+                "text": "Like what um what type roses",
+                "label": "qw"
+            },
+            {
+                "text": "Uh different uh few different uh hybrid tea type varieties",
+                "label": "sd"
+            },
+            {
+                "text": "Oh hybrid teas",
+                "label": "b^m"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Yeah we we have few uh of the real short stem Theyre kin- theyre kind of like the bush roses",
+                "label": "b^m"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "But uh I dont know I think its I think it only has about five or six more years to go because its its really old bush",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and but I I Im amazed because the sun is so intense and the roses just seem to survive just fine there",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah thats we thats what were searching uh weve got weve got all the different lake editions around the house and were were kind of experimenting right now",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "We do weve got the direct sun in front and the backyard has two great big uh spruce and and an oak tree all about forty to fifty foot tall so the backyard is just complete dark all day long",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh were were struggling to find something for those areas",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Have you have you uh done um done lot of tree surgeon work on your trees or not",
+                "label": "b"
+            },
+            {
+                "text": "No theyre theyre in pretty good condition",
+                "label": "nn"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Uh weve been weve been pretty lucky on that",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah just if you want lot of you know light for underneath",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "that may be the all right because we had because we have some we have some old fruit trees We have plum thats just about ready to go",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "so we may just be getting rid of that but but our peaches they they seem to be doing just fine but they they really need pruning",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "It just seems like they that that even you know pruning once year is really not enough but the the way they behave -",
+                "label": "sv"
+            },
+            {
+                "text": "Thats true Thats true",
+                "label": "aa"
+            },
+            {
+                "text": "I dont know But uh but uh what kind of uh what kind of what kind of grass are you growing",
+                "label": "h"
+            },
+            {
+                "text": "Its uh bermuda",
+                "label": "sd"
+            },
+            {
+                "text": "Bermuda",
+                "label": "b^m"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Oh Ive Ive been trying uh uh mixture of uh the bermuda and the rye",
+                "label": "b^m"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "but I may be working like fescue in because of you know the type of weather It seems that uh bermudas bermudas fine but um it looks like it would hold the soil but it really doesnt",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "lot of lot silt that comes in it just doesnt seem to hold it very well",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But uh but the rye does really well Especially during the wintertime",
+                "label": "sv"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "But uh but boy once it gets over seventy seventy-five degrees that it just dries up",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "shrivels up and dies But anyway -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah its uh - theres such theres such difference",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "through the year Uh",
+                "label": "+"
+            },
+            {
+                "text": "My my parents-in-law theyre theyre building house into the side of hill um well its already been built and everything",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Theyve been living there for about three months now but uh this is out in west Texas",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "but the the wind there has been so bad that I mean theyve tried to plant grass and they just have some problems",
+                "label": "sd"
+            },
+            {
+                "text": "thats it",
+                "label": "ba"
+            },
+            {
+                "text": "big time problems they just",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "so they just washing uh watching their lawn just blow away But its its quite an undertaking They have about two or three acres of land on lake front property",
+                "label": "+"
+            },
+            {
+                "text": "Oh wow",
+                "label": "ba"
+            },
+            {
+                "text": "on on the side of hill Its beautiful I mean",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "you can see the house from you know miles away but its you know its pretty neat little job but",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "they save lot of they save lot of energy but just uh you know for them I mean they theyre going to have to start gardening Its going to be from the ground up",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "The whole way",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And they said well we just plan on spending the rest of our lives just getting this property developed Its amazing I mean",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "they have have the all they have are me- uh mesquite and cottonwoods",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and uh its its all on Lake Greenbelt",
+                "label": "sd"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "that property out there And uh I dont know that what they have they have all the water they want",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "they can they can actually they can pump water I mean they have to get permission but they can pump water up from the shore",
+                "label": "sd"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "but uh thats for like an additional - they have to pay like some kind of fee per year",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay",
+                "label": "b"
+            },
+            {
+                "text": "But uh theyre uh right now though I think theyre just theyre trying to get the trees planted and everything",
+                "label": "sd"
+            },
+            {
+                "text": "Sure",
+                "label": "b"
+            },
+            {
+                "text": "But man I I just think of all of the money that they that theyre going to have to spend just getting that But the taxes alone there Lake Greenbelt - and some places they they they really nail them for tax",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I mean your talking what just several hundred dollars year in property taxes",
+                "label": "sd"
+            },
+            {
+                "text": "Wow",
+                "label": "ba"
+            },
+            {
+                "text": "Its its ridiculous",
+                "label": "sv"
+            },
+            {
+                "text": "That really is it it would - it seem like it be just the opposite when you get -",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah No no its not its - because even though its far out there its just that Lake Greenbelt you know they have to they they try to do it just from the selling the water",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But um the water usage you know they try to limit even though theres three or four streams that flow into it people still use it enough in like in towns like Clarendon and other areas that where they irrigate",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "They they they still havent gotten used to the dry land farming but",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah thats true that -",
+                "label": "aa"
+            },
+            {
+                "text": "the ir- irrigation because its gotten so bad the past few years but I dont know I just came back from there and just the air is so dry I dont see how anything can survive out there for long periods of time Should say - my father-in-law says the mesquite trees are theyre theyre pretty smart theyre smart theyre about the smartest tree around They dont they dont even start growing until May",
+                "label": "+"
+            },
+            {
+                "text": "Yeah thats true",
+                "label": "aa"
+            },
+            {
+                "text": "May or April like after its been raining for few months",
+                "label": "+"
+            },
+            {
+                "text": "Thats true",
+                "label": "aa"
+            },
+            {
+                "text": "They say the roots have developed so thats all they work on Just leafy - they dont do anything",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Yeah thats something Ive been uh been looking around and noticed all the flowering trees and stuff are",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "at this time of the year and you know were trying to decide what what to what to put on one side of the house and things like that but theres so many things that they they last for just couple of weeks and then it then its just bush there from then on Its kind of its kind of disappointing",
+                "label": "+"
+            },
+            {
+                "text": "I I dont know my my wife and I we planted on the on the south side of our of our house we planted some gardenias",
+                "label": "h"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And they did real fine during the summertime its just - but during the fall when it stopped when uh the rain let off just little bit it I mean it just dried up",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And uh so I guess it these plants they just they dont - its like they remain",
+                "label": "%"
+            }
+        ]
+    }
+]

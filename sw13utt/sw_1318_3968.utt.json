@@ -1,0 +1,423 @@
+[
+    {
+        "conversation_id": "conv_3968",
+        "turns": [
+            {
+                "text": "Okay",
+                "label": "o"
+            },
+            {
+                "text": "All right Thats real different topic Im not sure Im familiar with with what they mean of invasion of privacy",
+                "label": "b"
+            },
+            {
+                "text": "I know I guess that I guess you consider just things that every day that would you would think of about See Im college student so I can think of lots of things that my roommate does that bother me --",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- you know that I thinks like is an invasion of my privacy stuff like that But I think --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^r"
+            },
+            {
+                "text": "-- itd be it is kind of tough topic",
+                "label": "+"
+            },
+            {
+                "text": "I think personally you know - Im I used to be college student --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- ten years ago --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "-- but uh now I think an invasion of my privacy is when someone calls me on the telephone --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "-- and says Mrs Miller have we got deal for you",
+                "label": "+"
+            },
+            {
+                "text": "Oh golly Youre like No you dont no",
+                "label": "ba"
+            },
+            {
+                "text": "Its like how do you know my name where did you get my phone number and why do you think its deal for me",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I mean those people theyll call you any time of the day or night with try to solicit --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and thats an invasion of my privacy I think",
+                "label": "sv"
+            },
+            {
+                "text": "They call late now I mean now theres I heard that they were going to start calling on Saturdays or some- -",
+                "label": "sv"
+            },
+            {
+                "text": "Oh they do already",
+                "label": "sd"
+            },
+            {
+                "text": "See thats ridi- - I would be so mad",
+                "label": "%"
+            },
+            {
+                "text": "Well and Ive even had the computer generated calls on Sundays too",
+                "label": "b"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "But I do know of way to get around the computer generated calls",
+                "label": "sd"
+            },
+            {
+                "text": "How",
+                "label": "qw"
+            },
+            {
+                "text": "Dont answer your phone Hello The computers geared to to start talking to you on the on the word Hello",
+                "label": "ad"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Huh I dont know I think like things that that - I thinks like privacy is like just like not going through my stuff like going through just like my clothes or my drawer just going through my stuff basically",
+                "label": "b"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "That drives me up wall",
+                "label": "sd"
+            },
+            {
+                "text": "Are you and your roommate similar size",
+                "label": "qy"
+            },
+            {
+                "text": "No see were not and uh -",
+                "label": "nn"
+            },
+            {
+                "text": "And she still goes through your clothes",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah shell take all my shirts and stuff because she cant wear like my pants --",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but shell take all my shirts and my blouses and stuff",
+                "label": "sd"
+            },
+            {
+                "text": "Ooh",
+                "label": "ba"
+            },
+            {
+                "text": "Man Im just glad she cant wear my pants or my skirts or my dresses you know",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "But still shell just take them and she wont even think about it and then Ill like see her that day and shell be wearing my clothes and Ill be like you know I dont like to borrow my clothes out you know I really dont So --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- I prefer that you just not go in and get them --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "-- because she doesnt even ask me Stuff like that really - like thats an invasion of my privacy I feel like",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah I agree",
+                "label": "aa"
+            },
+            {
+                "text": "Stuff like that when you have your door closed people just walking in and stuff like that",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I was thinking like my mom I know this she would think this is like an invasion of her privacy is like going through her purse like if you ever needed money and stuff --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- we always just give her her purse you know and shell --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- get it out or whatever",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I was trying to think I was thinking thats the only thing I could really think of that would really be -",
+                "label": "^h"
+            },
+            {
+                "text": "My mom doesnt even like for us to go through her cabinets",
+                "label": "sd"
+            },
+            {
+                "text": "Really",
+                "label": "b"
+            },
+            {
+                "text": "I mean were all grown all her kids are grown and we have our own families --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and now if we go through her cabinets shes like Well what are you digging for",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Yeah get out of my cabinets",
+                "label": "b"
+            },
+            {
+                "text": "Like what are you doing Dont you have your own house to dig through",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Thats great",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah so I guess privacy is really - and at the work place I suppose - oh well actually yes I can say definitely privacy at the work place",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I hate it for people to open up my drawer --",
+                "label": "sd"
+            },
+            {
+                "text": "See",
+                "label": "b"
+            },
+            {
+                "text": "-- to my desk --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- because that was that was where I kept all my stuff and I could tell I mean even if pen was turned the wrong way",
+                "label": "sd"
+            },
+            {
+                "text": "You could tell you know you put your stuff where its - Yeah That would drive that would that -",
+                "label": "bf"
+            },
+            {
+                "text": "It would drive it drove me batty for while",
+                "label": "sd"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah well I worked second shift --",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and everybody else in my area worked first shift --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "-- and our shifts overlapped --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "-- so I would come in and there would be people sitting at my desk working and Im wondering you know um what is this its my vitamins I wonder what is you know yeah what is - why are they working at my desk and can I have it back",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Can I have it back soon maybe",
+                "label": "^q"
+            },
+            {
+                "text": "Then you start missing stuff and -",
+                "label": "qy^d"
+            },
+            {
+                "text": "Oh yeah no mommy is going to take the vitamins Im sorry I have -",
+                "label": "ny"
+            },
+            {
+                "text": "Thats okay See that would that would make me really mad because you can always tell when someones touched your stuff just because - I mean I know I have everything like certain way -- -- and you know how it looks and everything",
+                "label": "bd"
+            },
+            {
+                "text": "Oh yeah Well you know how you left it the day before",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh childtalking That would bother me definitely",
+                "label": "b"
+            },
+            {
+                "text": "Oh yeah so thats childtalking - yeah I agree its its pretty tough that way and I know even like with your school books and papers",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Do you miss your papers sometimes",
+                "label": "qy"
+            },
+            {
+                "text": "See - yeah",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know Thats the only thing I can really think about being an invasion of privacy like something every day though",
+                "label": "%"
+            },
+            {
+                "text": "Yeah well actually I do know and I have used it once --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and it it really is an invasion of privacy but in the library theres book that you can find out what peoples phone numbers are by where they live their street address",
+                "label": "sv"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And that - I mean Ive Ive used it once",
+                "label": "%"
+            }
+        ]
+    }
+]

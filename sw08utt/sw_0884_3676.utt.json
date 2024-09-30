@@ -1,0 +1,263 @@
+[
+    {
+        "conversation_id": "conv_3676",
+        "turns": [
+            {
+                "text": "What kind of movies have you been seeing lately",
+                "label": "qw"
+            },
+            {
+                "text": "Uh its been probably month or so since Ive been to the movies Course my my favorite now is is DANCES WITH WOLVES",
+                "label": "sd"
+            },
+            {
+                "text": "Oh its an excellent movie",
+                "label": "sd"
+            },
+            {
+                "text": "Uh SILENCE OF THE LA- uh of the LAMBS was good",
+                "label": "sd"
+            },
+            {
+                "text": "SILENCE OF THE LAMBS",
+                "label": "b^m"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "What was that anyway",
+                "label": "qw"
+            },
+            {
+                "text": "Oh its I guess its mystery youd call it Its with uh Jodie Foster",
+                "label": "sd"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "And it uh its pretty good Another one that I think I really liked was uh THE FISHER KING",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Lets see who was in FISHER KING That was um Robin Williams and uh --",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh I cant the last name",
+                "label": "+"
+            },
+            {
+                "text": "How about you What are you",
+                "label": "qo"
+            },
+            {
+                "text": "Uh weve not been having many opportunities to see movies lately Um we really enjoyed um DEAD POETS SOCIETY",
+                "label": "sd"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "Um several years back one we saw we saw we really really enjoyed was uh ORDINARY PEOPLE with uh Timothy Hutton and uh Mary Tyler Moore and uh uh who played the father anyway --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- excellent movie",
+                "label": "sd"
+            },
+            {
+                "text": "That was that was an excellent movie Have you seen DANCES WITH WOLVES",
+                "label": "sd^m"
+            },
+            {
+                "text": "Yes we have",
+                "label": "ny"
+            },
+            {
+                "text": "Whatd you think of it",
+                "label": "qw"
+            },
+            {
+                "text": "Oh we loved it",
+                "label": "sd"
+            },
+            {
+                "text": "I dont think I can see it enough times",
+                "label": "sd"
+            },
+            {
+                "text": "I know what you mean I know what you mean",
+                "label": "ba"
+            },
+            {
+                "text": "Course Im Kevin Costner fan",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Im pretty impressed with stuff hes done Uh he made kind of an odd sounding ROBIN HOOD but uh I mean you know basic thick western accent for ROBIN HOOD just doesnt seem to fit",
+                "label": "b"
+            },
+            {
+                "text": "No but you know it wasnt bad movie",
+                "label": "aa"
+            },
+            {
+                "text": "Oh no Its good movie",
+                "label": "aa"
+            },
+            {
+                "text": "It got such bad reviews really and and I thoroughly enjoyed it But I then I wasnt expecting any classic either",
+                "label": "sd"
+            },
+            {
+                "text": "Well um they did real good job with it",
+                "label": "sv"
+            },
+            {
+                "text": "I thought so",
+                "label": "aa"
+            },
+            {
+                "text": "Um they didnt try to make him super human or you know invincible They just just - he worked hard at it",
+                "label": "sd"
+            },
+            {
+                "text": "Have you seen THE FISHER KING",
+                "label": "qy"
+            },
+            {
+                "text": "No I havent not an opportunity to see that uh",
+                "label": "nn"
+            },
+            {
+                "text": "Uh it - you you know - I guess it it really isnt for everybody Its its pretty deep and uh uh philosophical",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But I thought it had wonderful message to it Its the kind you came out and looked at somebody and said You know I think I liked that",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And then the more you got to thinking about it the more you thought You know I did like it",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But when you first came out you werent real sure",
+                "label": "sv"
+            },
+            {
+                "text": "It sounds kind of like one uh we saw at home here on the rented it um CLARAS HEART",
+                "label": "sd"
+            },
+            {
+                "text": "Havent seen that",
+                "label": "sd"
+            },
+            {
+                "text": "Um Whoopi Goldberg",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yes I did yes I did",
+                "label": "ny"
+            },
+            {
+                "text": "And she played uh - the uh - shes housekeeper",
+                "label": "sd"
+            },
+            {
+                "text": "Uh the nanny type",
+                "label": "bf"
+            },
+            {
+                "text": "Yeah shes housekeeper she",
+                "label": "aa"
+            },
+            {
+                "text": "Housekeeper uh-huh",
+                "label": "b^m"
+            },
+            {
+                "text": "She was oh now I cant say it Haitian Anyway she uh she seemed to be that sort of person that seems half crazy but then again shes got whole lot on the ball and the movie had the whole lot of philosophical content more than more than you know it wasnt mystery it wasnt you know blood and guts and violence and and car chases type thing It was just good movie",
+                "label": "+"
+            },
+            {
+                "text": "I saw one the other day that was KISS BEFORE DYING",
+                "label": "sd"
+            },
+            {
+                "text": "KISS BEFORE DYING",
+                "label": "b^m"
+            },
+            {
+                "text": "uh-huh I had not heard about it when it was on the movies but was out on video",
+                "label": "ny"
+            },
+            {
+                "text": "And -",
+                "label": "%"
+            },
+            {
+                "text": "And its with Sean Young",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And its its mystery It was very predictable I mean you knew you knew when the murder was going to happen or something but it was still so well done --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- that it was enjoyable",
+                "label": "+"
+            },
+            {
+                "text": "That that takes good bit to make one thats predictable thats still worth watching",
+                "label": "sv"
+            },
+            {
+                "text": "Thats right I had uh uh - I like the I think its called the uh RAZORS EDGE but no -- -- no the JAGGED EDGE the JAGGED EDGE --",
+                "label": "aa"
+            },
+            {
+                "text": "Oh okay",
+                "label": "b"
+            },
+            {
+                "text": "-- with uh -",
+                "label": "+"
+            }
+        ]
+    }
+]

@@ -1,0 +1,907 @@
+[
+    {
+        "conversation_id": "conv_3046",
+        "turns": [
+            {
+                "text": "Good morning",
+                "label": "fp"
+            },
+            {
+                "text": "Hi",
+                "label": "fp"
+            },
+            {
+                "text": "My name is Jean",
+                "label": "fp"
+            },
+            {
+                "text": "Im Tina",
+                "label": "fp"
+            },
+            {
+                "text": "Oh where you from Tina",
+                "label": "qw"
+            },
+            {
+                "text": "I live in Garland Texas",
+                "label": "sd"
+            },
+            {
+                "text": "Oh Garland Texas Im in Pennsylvania",
+                "label": "bk^m"
+            },
+            {
+                "text": "Oh my lands youre the farthest person Ive ever talked to",
+                "label": "sd"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Do you work for Texas Instruments",
+                "label": "qy"
+            },
+            {
+                "text": "My husband does",
+                "label": "ng"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Probably most people you talk to do huh",
+                "label": "b"
+            },
+            {
+                "text": "Most of them do Now I dont have anybody that works for I but uh --",
+                "label": "na"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "-- my son works for computer company the National Institute of - - something I dont know what",
+                "label": "+"
+            },
+            {
+                "text": "I see well thats neat",
+                "label": "b"
+            },
+            {
+                "text": "So I guess were supposed to talk about foods today",
+                "label": "sd^t"
+            },
+            {
+                "text": "Yeah I guess you have to push one though",
+                "label": "aa"
+            },
+            {
+                "text": "Yes uh-huh",
+                "label": "aa"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "You ready",
+                "label": "qy^t"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Okay Uh foods like you would for dinner party or something like that",
+                "label": "bk"
+            },
+            {
+                "text": "Yeah I guess so it may be interesting because probably here in Texas we may eat little differently than you do up there",
+                "label": "b"
+            },
+            {
+                "text": "Well I dont know my brother lives down East of us down there and I dont think they ate all that much different",
+                "label": "nd"
+            },
+            {
+                "text": "Oh really",
+                "label": "b"
+            },
+            {
+                "text": "Uh I think as long as you plan your basic foods course for dinner party you fancy things up little bit more",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah thats true",
+                "label": "aa"
+            },
+            {
+                "text": "Uh",
+                "label": "b"
+            },
+            {
+                "text": "Well uh the thing that I found interesting - my husband and I lived up in Washington State for awhile --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and up there of course they ate lot of sea food",
+                "label": "sd"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and that kind of thing and down here sea food is pretty expensive because",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "you have to ship it long way to get it",
+                "label": "+"
+            },
+            {
+                "text": "Yeah and its not as good as if its fresh",
+                "label": "aa"
+            },
+            {
+                "text": "Right and and uh and but here we eat lot of like Mexican foods",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and um up there there was no no place that we went tasted like real Mexican food to me",
+                "label": "sd"
+            },
+            {
+                "text": "Is that right",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah it tasted like they were trying to do the best they could but it just",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "didnt taste right",
+                "label": "+"
+            },
+            {
+                "text": "well they probably were trying to do the best they could",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^m"
+            },
+            {
+                "text": "and uh down here we eat lot more fried foods I think",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Like chicken fried steak",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "is real big thing",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Up there uh it was hardly ever heard of and",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "we drink ice tea with every meal",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and up there hardly anyone drank ice tea",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah well they do in the summertime I think that --",
+                "label": "b"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "-- tea is big in the summertime mostly",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Of course you have warmer weather most of the time",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "So uh -",
+                "label": "%"
+            },
+            {
+                "text": "Yeah it never gets real cold",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah So I -",
+                "label": "b"
+            },
+            {
+                "text": "Yeah but when when we have dinner party around here I think lot of the time Mexican menu is something real popular",
+                "label": "b"
+            },
+            {
+                "text": "Is that right",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah I know that um I do lot of planning with our church",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and lot of the times when we get together well everybody will bring Mexican dish or",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And Italian food is real big too",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh More like covered dishes for those type of dinners",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh Yeah Yeah How about you what is real popular up there",
+                "label": "aa"
+            },
+            {
+                "text": "Well I dont know just about anything",
+                "label": "no"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah we we really uh use most anything I uh I think like parties and that though are - well like we had dinner party here here not too long ago with mystery dinner party",
+                "label": "ny"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "But basically we tried you know included all the basic uh foods that you are supposed to have in meal",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Your uh bread family and your - or least what it used to be the regular menu was followed and",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "ham and bake potatoes uh",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "uh something from each each area that youre supposed to choose from",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh we we we ourselves are into the wok cooking you know they been advertising that and",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "weve really been enjoying those uh meals",
+                "label": "+"
+            },
+            {
+                "text": "Well thats good",
+                "label": "ba"
+            },
+            {
+                "text": "They have lot of vegetable to them and uh",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh right",
+                "label": "b"
+            },
+            {
+                "text": "they really are very good",
+                "label": "+"
+            },
+            {
+                "text": "Oh yes I I love that kind of cooking My uh unfortunately I am married to man and have two children that eat about four things",
+                "label": "aa"
+            },
+            {
+                "text": "Is he meat and potato person",
+                "label": "qy"
+            },
+            {
+                "text": "Right They",
+                "label": "na"
+            },
+            {
+                "text": "Well all our family is is gone They are out on their own",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh",
+                "label": "sd"
+            },
+            {
+                "text": "That probably makes it easier but -",
+                "label": "sv"
+            },
+            {
+                "text": "It its much different and uh -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah We find ourselves eating lot of macaroni and cheese and uh",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and of course -",
+                "label": "+"
+            },
+            {
+                "text": "Well my husband didnt like that so we us kids - we had five children and we ate that when he he wasnt going to be home for supper",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "thats what we had",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah well thats pretty much what we do if dads not coming home we have macaroni and cheese",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "or something But they like uh spaghetti",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know thats one meal",
+                "label": "sd"
+            },
+            {
+                "text": "Uh yeah",
+                "label": "b"
+            },
+            {
+                "text": "I can fix and the whole family eats But uh there are several things that - well as matter of fact I keep chicken nuggets handy all the time because -",
+                "label": "+"
+            },
+            {
+                "text": "Oh those always go good",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah the children love them",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and uh they are real easy to cook and",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "that way whatever meat we have if they dont like it well - and my girls dont like beef I",
+                "label": "+"
+            },
+            {
+                "text": "Oh really",
+                "label": "b"
+            },
+            {
+                "text": "dont know",
+                "label": "+"
+            },
+            {
+                "text": "Well maybe",
+                "label": "sv"
+            },
+            {
+                "text": "I guess",
+                "label": "h"
+            },
+            {
+                "text": "thats good the way way the things are going",
+                "label": "+"
+            },
+            {
+                "text": "Well yeah it could be bec- they dont - I think its the texture of it",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "but it takes more chewing",
+                "label": "sv"
+            },
+            {
+                "text": "Right Children usually they like the ham and the hamburgers",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and that and it is easier to chew",
+                "label": "+"
+            },
+            {
+                "text": "Right Right So theyre not too much into beef",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "My husband and I eat more beef than we should but at least we keep our chicken nuggets handy for them",
+                "label": "sd"
+            },
+            {
+                "text": "Right We dont really have uh you know entertain too much",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I dont know if you do or not but we we dont whole lot were more once in while but mostly family",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "activities",
+                "label": "+"
+            },
+            {
+                "text": "Well most of the entertaining we do is church associated",
+                "label": "na"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "We have real tiny little house we dont have room really",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "to have people here",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But we do get together for wh- fellowships at our church",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and my husband and I do lot of the planning in that",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And -",
+                "label": "%"
+            },
+            {
+                "text": "Well thats good",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah it is and its fun to uh - I like just having pot luck meal where everyone brings their favorite dish",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah we do lot of that take",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "things to church and our homemakers meet at the church also and uh",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "thats what we do mostly",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "most of the time for that",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So you dont really include any certain food groups you just bring",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "what you like",
+                "label": "+"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "Sometimes you have all desserts sometimes",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "you have all vegetables",
+                "label": "+"
+            },
+            {
+                "text": "Yeah thats true thats the only problem with just letting you bring whatever",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "you uh like best",
+                "label": "+"
+            },
+            {
+                "text": "But it doesnt happen very often usually you get pretty wide variety and you can you can",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "have pretty good meals",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "from one of those",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I remember one time we had progressive dinner",
+                "label": "aa"
+            },
+            {
+                "text": "Oh those are fun",
+                "label": "ba"
+            },
+            {
+                "text": "Its the only time that ever - Yeah they are",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But its the only time tha- I can remember that - I cant remember what food it was I it might have been the main dish that hardly anyone showed up with Several people were supposed to bring",
+                "label": "sd"
+            },
+            {
+                "text": "Uh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "you know each like uh an appetizer",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and main dish and dessert And we had tons of desserts and tons of appetizers and",
+                "label": "+"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "but when we came to the main main dish plate",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "+"
+            },
+            {
+                "text": "there was only like two or three",
+                "label": "+"
+            },
+            {
+                "text": "Was there enough to go around",
+                "label": "qy"
+            },
+            {
+                "text": "Well not really you know we all took real tiny little portions",
+                "label": "ng"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and uh were kind of angry with whoever it was we were not sure who didnt show up with the food",
+                "label": "+"
+            },
+            {
+                "text": "Yeah thats kind of irresponsible and does upset you because they are grown adults usually",
+                "label": "b"
+            },
+            {
+                "text": "Yes",
+                "label": "aa"
+            },
+            {
+                "text": "and you know they know better",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Even if they cant do it they can always maybe get somebody else to cook",
+                "label": "sv"
+            },
+            {
+                "text": "Right Either either go ahead and fix your dish or call someone that can",
+                "label": "aa"
+            },
+            {
+                "text": "Right Right",
+                "label": "aa"
+            },
+            {
+                "text": "I know it Well that sounds neat I cant uh believe youre so far away but you sound so close",
+                "label": "b"
+            },
+            {
+                "text": "They said that we could share we share",
+                "label": "sd^t"
+            },
+            {
+                "text": "It sounds like youre here in Dallas",
+                "label": "sd"
+            },
+            {
+                "text": "recipe but Im up at my daughters I dont even have any of my recipes with me",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Uh you know -",
+                "label": "%"
+            },
+            {
+                "text": "I dont know if I have anything handy we were just about we were getting ready to go swimming",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "and were waiting on my sister",
+                "label": "sd"
+            },
+            {
+                "text": "Oh great",
+                "label": "ba"
+            },
+            {
+                "text": "Cara hold on just second As matter of fact my",
+                "label": "t3"
+            },
+            {
+                "text": "They are ready to go",
+                "label": "^2"
+            },
+            {
+                "text": "little one is hollering",
+                "label": "+"
+            },
+            {
+                "text": "Well we probably have we talked long enough I -",
+                "label": "fc"
+            },
+            {
+                "text": "I think it probably has been",
+                "label": "fc"
+            },
+            {
+                "text": "Okay so Ill let -",
+                "label": "fc"
+            },
+            {
+                "text": "So Ive enjoyed talking to you",
+                "label": "fc"
+            },
+            {
+                "text": "Oh same here You have good day",
+                "label": "fc"
+            },
+            {
+                "text": "Thank you Thanks for calling",
+                "label": "fc"
+            },
+            {
+                "text": "uh-huh",
+                "label": "fc"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc^m"
+            }
+        ]
+    }
+]

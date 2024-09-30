@@ -1,0 +1,283 @@
+[
+    {
+        "conversation_id": "conv_3587",
+        "turns": [
+            {
+                "text": "Uh it seems like an unusual subject this time of the year but uh its its camping",
+                "label": "sv^t"
+            },
+            {
+                "text": "Really When was the last time you went",
+                "label": "b"
+            },
+            {
+                "text": "The last time I went camping was about uh in the middle of October and we went up to Lake Bonham and really enjoyed it Had real good time with the family We do an awful lot of camping How about yourself",
+                "label": "sd"
+            },
+            {
+                "text": "Well I havent been in probably about three years",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And the last time we went was in um well I guess it was it was like hunting season and we went down to like hunting ground and lake --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- Lake Sam Rayburn --",
+                "label": "+"
+            },
+            {
+                "text": "Yes oh",
+                "label": "b"
+            },
+            {
+                "text": "-- which is in East Texas",
+                "label": "+"
+            },
+            {
+                "text": "Very good I bet its pretty over there",
+                "label": "ba"
+            },
+            {
+                "text": "It is real pretty Um lets see -",
+                "label": "sd"
+            },
+            {
+                "text": "What do you think what kind of --",
+                "label": "qw"
+            },
+            {
+                "text": "Do you do lot of fishing",
+                "label": "qy"
+            },
+            {
+                "text": "-- camping uh are you talking about Do you go out and is camping for you in motor home or trailer or do you actually put up tent or -",
+                "label": "+"
+            },
+            {
+                "text": "One of the ones that you pull along --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay so you have -",
+                "label": "bk"
+            },
+            {
+                "text": "-- and then pop-- is it pop-up",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Pop-up",
+                "label": "b^r"
+            },
+            {
+                "text": "pop-up trailer huh",
+                "label": "qy^g"
+            },
+            {
+                "text": "Yeah What do you have",
+                "label": "ny"
+            },
+            {
+                "text": "We have tent",
+                "label": "sd"
+            },
+            {
+                "text": "tent",
+                "label": "br^m"
+            },
+            {
+                "text": "Yes So I guess we really rough it",
+                "label": "ny"
+            },
+            {
+                "text": "Really",
+                "label": "b"
+            },
+            {
+                "text": "And we really enjoy that Uh one thing uh Ive done all sorts of camping Ive Ive camped uh in the snow on glacier Ive camped uh basically almost anywhere even to the point where weve had to backpack in and everything you carried in was what you had to use to sustain you for that that camping trip and had to pack it back out",
+                "label": "sd"
+            },
+            {
+                "text": "So youre serious camper",
+                "label": "bf"
+            },
+            {
+                "text": "Well we enjoy it yeah But since Ive been married and with family uh we have to go where theres restrooms",
+                "label": "aa"
+            },
+            {
+                "text": "Well that makes sense",
+                "label": "ba"
+            },
+            {
+                "text": "And playgrounds and so forth so we really enjoy it But also while I was growing up we did have trailer and uh I camped in that trailer and in tent and in in log cabins and so forth too So lot of different things And yes I - to answer your questions earlier yes I we do enjoy fishing and I do go fishing Havent done whole lot down here We recently moved from the Rocky Mountain area up in uh northern Utah down to here because of work and uh havent been able to enjoy fishing like I used to up there which is uh clear water fishing and streams and and rivers",
+                "label": "+"
+            },
+            {
+                "text": "But when you all went camping is that what you normally I mean - what did you normally do",
+                "label": "qy"
+            },
+            {
+                "text": "We normally yeah - we did we did lot of the fishing but mainly what we did was we did lot of hiking and exploring and and just going out and seeing what there was to see uh in the area",
+                "label": "sd"
+            },
+            {
+                "text": "I guess probably just wherever you live at has lot to do with where what youre going to do when you go and you do actually camp",
+                "label": "sv"
+            },
+            {
+                "text": "Oh yes Thats true thats true And slash error",
+                "label": "aa"
+            },
+            {
+                "text": "Did you ever like travel around to whats that the little camps whenever -- -",
+                "label": "qy"
+            },
+            {
+                "text": "No slash error we --",
+                "label": "+@"
+            },
+            {
+                "text": "-- ever done that",
+                "label": "qy"
+            },
+            {
+                "text": "-- never did that They - although Ive stayed in campgrounds uh weve never done that just to go around and camp Um personally I when I when we were growing up and when we were going camping I thought that was little too structured of camp ground",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Um you know that was mainly for people in motor homes or or had trailers or and so on and so forth where you know we really wanted to go camping in tent --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh is is geared for the people that have hookup",
+                "label": "sd"
+            },
+            {
+                "text": "That actually travel what city to city state to state",
+                "label": "bf"
+            },
+            {
+                "text": "Right exactly and uh I started out basically camping when I was when I was in Boy Scouts and we did an awful lot of that as as Boy Scout group As I mentioned earlier we went into wilderness areas and we camped in the snow and in uh snow caves and and uh -",
+                "label": "aa"
+            },
+            {
+                "text": "Thats probably where I first started was in Girl Scouts",
+                "label": "sd"
+            },
+            {
+                "text": "All right And you got lot of that in huh",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "What do you like to do when you go camping",
+                "label": "qw"
+            },
+            {
+                "text": "Um well lets see I just I mean I just like to go and normally I go with whole group of friends --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and we just kind of go and hang out and just do fun stuff",
+                "label": "sd"
+            },
+            {
+                "text": "Enjoy it huh",
+                "label": "qy^g"
+            },
+            {
+                "text": "Roast marshmallows",
+                "label": "sd"
+            },
+            {
+                "text": "Tell scary or scary stories around the fire and -",
+                "label": "bf"
+            },
+            {
+                "text": "Yeah or um take deck of cards if we can actually see and um play cards and stuff",
+                "label": "aa"
+            },
+            {
+                "text": "Oh yeah You know lots lot of people Ive talked to have said well isnt camping boring Dont you get dont you uh get bored and not have anything to do but Ive found out that actually we we really enjoy getting away from the television the telephone --",
+                "label": "b"
+            },
+            {
+                "text": "Yeah its relaxing",
+                "label": "aa"
+            },
+            {
+                "text": "-- and yes Exactly Get out - getting out and enjoying nature and each other as company when were out camping",
+                "label": "aa"
+            },
+            {
+                "text": "Plus you um - kind of makes you appreciate some lot of the things you take for granted",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Running water --",
+                "label": "sd"
+            },
+            {
+                "text": "Running water --",
+                "label": "b^m"
+            },
+            {
+                "text": "-- your hair dryer --",
+                "label": "sd"
+            },
+            {
+                "text": "-- and private bathroom",
+                "label": "^2"
+            },
+            {
+                "text": "-- curling iron",
+                "label": "sd"
+            },
+            {
+                "text": "Yes",
+                "label": "aa"
+            },
+            {
+                "text": "What about your family Do your kids and everything like to",
+                "label": "qo"
+            },
+            {
+                "text": "Yes they really do they have great time and like I mentioned uh the we weve been camping couple of times this year and the last time was in October and we went up to Lake Bonham and there was playground for them so they had swings",
+                "label": "ny"
+            }
+        ]
+    }
+]

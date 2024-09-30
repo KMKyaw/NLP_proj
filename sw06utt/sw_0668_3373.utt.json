@@ -1,0 +1,591 @@
+[
+    {
+        "conversation_id": "conv_3373",
+        "turns": [
+            {
+                "text": "All right What is your favorite show",
+                "label": "o"
+            },
+            {
+                "text": "Well I was just trying to think When they called I didnt have as much time to prepare for this as I did some of the others Um I love watching some of the uh new new shows basically",
+                "label": "^h"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And we uh to- we subscribe to and we took that and we started watching lot of those especially during the war or during anything kind of thing like the earthquake and I have gotten stuck on lot of this The new shows and the stuff that comes on that that it you know - like the uh at night the discussion talk shows and things -",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And we really havent gotten lot into the sitcoms that are current uh especially with the kids here because we have to kind of filter it before they get here",
+                "label": "sd"
+            },
+            {
+                "text": "Sure",
+                "label": "b"
+            },
+            {
+                "text": "We have little ones Uh we do let them watch NINE ONE ONE",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and we think thats kind of informative to teach them",
+                "label": "sv"
+            },
+            {
+                "text": "It really is",
+                "label": "aa"
+            },
+            {
+                "text": "how to handle things in situations",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "What do you watch",
+                "label": "qw"
+            },
+            {
+                "text": "I watch just about anything",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "but not lot of",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I mean Ill watch you know maybe little while when I first get home in the evening",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I usually watch you know the news and then Ill watch that HARD COPY or --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Thats the same thing we do",
+                "label": "b"
+            },
+            {
+                "text": "-- or that kind of thing you know and I like the NINE ONE ONE",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and UNSOLVED MYSTERIES",
+                "label": "+"
+            },
+            {
+                "text": "Yeah that kind thats the kind I like really more than",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "the sitcoms I havent gotten",
+                "label": "+"
+            },
+            {
+                "text": "Now I do",
+                "label": "sd"
+            },
+            {
+                "text": "into many of those",
+                "label": "+"
+            },
+            {
+                "text": "like - my husband is really crazy about EVENING SHADE that comes on on Monday evening",
+                "label": "+"
+            },
+            {
+                "text": "I have heard thats real good",
+                "label": "sd"
+            },
+            {
+                "text": "And I",
+                "label": "%"
+            },
+            {
+                "text": "Thats",
+                "label": "qy^g"
+            },
+            {
+                "text": "uh -",
+                "label": "+"
+            },
+            {
+                "text": "Burt Reynolds isnt it",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah Ive heard that",
+                "label": "b"
+            },
+            {
+                "text": "And Ive got to where every Monday I rush around so I could sit and watch that with him because its really funny",
+                "label": "sd"
+            },
+            {
+                "text": "Now someone told me that and also uh I meant to be trying to pick up on MURPHY BROWN",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "because they said that that was really good this season",
+                "label": "+"
+            },
+            {
+                "text": "Well his favorite night is Monday night so weve got to where we will sit",
+                "label": "sd"
+            },
+            {
+                "text": "Youve got to yeah",
+                "label": "bf"
+            },
+            {
+                "text": "and watch it on Monday night",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "because that and then that uh oh - I cant even think of the name of it Like I say Im not -",
+                "label": "%"
+            },
+            {
+                "text": "DESIGNING WOMEN is on that night",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "too",
+                "label": "+"
+            },
+            {
+                "text": "and the one with the the sergeant that married the woman with the kids Sergeant McGillis",
+                "label": "sd"
+            },
+            {
+                "text": "Huh I dont even know",
+                "label": "sd"
+            },
+            {
+                "text": "Sergeant uh MA- MAJOR DAD",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay Now I",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "weve never even seen that",
+                "label": "+"
+            },
+            {
+                "text": "that comes on right after uh the EVENING SHADE and then MURPHY BROWN",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and DESIGNING WOMEN So we always he watches that and I kind of - I watch the first one then kind of sit in on the others",
+                "label": "+"
+            },
+            {
+                "text": "On the others",
+                "label": "b^m"
+            },
+            {
+                "text": "as I can",
+                "label": "+"
+            },
+            {
+                "text": "Well you know on Friday nights especially we like to watch TWENTY TWENTY",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Or um -",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Its kind of competition on Thursdays between PRIME TIME and KNOTS LANDING",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But uh we used to like KNOTS LANDING lot Oh excuse me just minute The money is right there on the thing and the coupon",
+                "label": "sd"
+            },
+            {
+                "text": "Well you cant hardly watch KNOTS LANDING with the little kids around though",
+                "label": "sv"
+            },
+            {
+                "text": "Oh I know Thats the thing And so",
+                "label": "aa"
+            },
+            {
+                "text": "Except they",
+                "label": "sv"
+            },
+            {
+                "text": "we -",
+                "label": "+"
+            },
+            {
+                "text": "probably are in bed",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "by nine",
+                "label": "+"
+            },
+            {
+                "text": "Well they are In fact on weeknights they are in bed by eight but we have just gotten any more that where we just keep it off",
+                "label": "sd"
+            },
+            {
+                "text": "Did you get your pizza taken care of",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah he has gone to get it Thank you Um but I was to say on Saturdays there is absolutely nothing and thats the day my husband",
+                "label": "ny"
+            },
+            {
+                "text": "Well do you know -",
+                "label": "qy"
+            },
+            {
+                "text": "wants to -",
+                "label": "+"
+            },
+            {
+                "text": "I have picked up show lately on Saturday night that Ive really liked and thats SISTERS Have you watched that",
+                "label": "sd"
+            },
+            {
+                "text": "No but I saw that advertised today and it sounds like its not fluff It sounds like its good",
+                "label": "nn"
+            },
+            {
+                "text": "Its really you know its really pretty good",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I mean its kind of like you know um soap opera I guess",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah thats what they said it was kind of",
+                "label": "b"
+            },
+            {
+                "text": "But its -",
+                "label": "%"
+            },
+            {
+                "text": "little more drama to it",
+                "label": "+"
+            },
+            {
+                "text": "So far it Ive watched it about three times now and its really held my attention Its been pretty good Some",
+                "label": "sd"
+            },
+            {
+                "text": "Well and -",
+                "label": "sd"
+            },
+            {
+                "text": "pretty good acting",
+                "label": "+"
+            },
+            {
+                "text": "and another one now that its getting darker and you are wanting to cocoon more that they said is excellent is the ILL FLY AWAY and BROOKLYN BRIDGE Some of these",
+                "label": "+"
+            },
+            {
+                "text": "Now I watched",
+                "label": "sd"
+            },
+            {
+                "text": "that are nostalgic",
+                "label": "+"
+            },
+            {
+                "text": "BROOKLYN BRIDGE this week for the first time",
+                "label": "+"
+            },
+            {
+                "text": "Did you",
+                "label": "qy"
+            },
+            {
+                "text": "but I havent -",
+                "label": "sd"
+            },
+            {
+                "text": "like it",
+                "label": "+"
+            },
+            {
+                "text": "I did I liked it",
+                "label": "na"
+            },
+            {
+                "text": "Did you Well they said that one and ILL FLY AWAY are really quality you know and -",
+                "label": "bh"
+            },
+            {
+                "text": "Now I havent seen ILL FLY AWAY yet",
+                "label": "sd"
+            },
+            {
+                "text": "I havent seen it either I think what I need to do is kind of read to see what is on these days because by the time we get the kids in bed at eight oclock and then I get my bath --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- its you know its almost too late to start",
+                "label": "+"
+            },
+            {
+                "text": "Its nearly",
+                "label": "bf"
+            },
+            {
+                "text": "something new",
+                "label": "+"
+            },
+            {
+                "text": "too late for",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Thats the way I am I get in",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "from work and Im tired and I sit and watch for few minutes so I have to get up and do dinner",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and everything",
+                "label": "+"
+            },
+            {
+                "text": "Yeah and then weve gotten to where we rent videos for weekend nights",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So its like",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "we are kind of",
+                "label": "+"
+            },
+            {
+                "text": "Thats us",
+                "label": "sd"
+            },
+            {
+                "text": "tuned out of our",
+                "label": "+"
+            },
+            {
+                "text": "If we are home on the weekend we always watch videos so -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah well we do too",
+                "label": "b"
+            },
+            {
+                "text": "But there are some good shows on I I really probably should watch more of them than I do",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But I like - I dont know I Im always in to making things and",
+                "label": "sd"
+            },
+            {
+                "text": "I dont know yeah Theres lot more to do with",
+                "label": "h"
+            },
+            {
+                "text": "And I dont just spend all my time -",
+                "label": "+"
+            },
+            {
+                "text": "with your time when you get into it",
+                "label": "+"
+            },
+            {
+                "text": "and I my husband now he sits and watches constantly",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Well my my sister and them and her husband do on weekends They dont have children yet and they just turn it on when they walk in they turn it off when they leave",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So they are used to that too",
+                "label": "sd"
+            },
+            {
+                "text": "I could be around here for hours by myself and never have it on",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I understand Same here",
+                "label": "b"
+            },
+            {
+                "text": "But uh but there are some really good new shows that I have enjoyed and Ill have to watch that ILL FLY AWAY this week",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah its real good And then of course in the afternoons if I get in from work in time I watch OPRAH some of those",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "you know talk shows I like her",
+                "label": "+"
+            },
+            {
+                "text": "I never get in in time for any of those",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^m"
+            },
+            {
+                "text": "Well its its nice talking to you I guess weve kind of exhausted this one but its nice talking with you",
+                "label": "fc"
+            },
+            {
+                "text": "Well its nice talking with you",
+                "label": "fc"
+            },
+            {
+                "text": "Thank you",
+                "label": "fc"
+            },
+            {
+                "text": "Bye",
+                "label": "fc"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc"
+            }
+        ]
+    }
+]

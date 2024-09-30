@@ -1,0 +1,419 @@
+[
+    {
+        "conversation_id": "conv_2113",
+        "turns": [
+            {
+                "text": "Uh the last movie that I saw - I I dont go to that many so Ill just have to talk about the ones that I went to see but",
+                "label": "sd"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "uh it was AWAKENINGS with uh Robin Williams and uh Peter DeNiro",
+                "label": "+"
+            },
+            {
+                "text": "Yes uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Have you seen it",
+                "label": "qy^d"
+            },
+            {
+                "text": "No unfortunately I havent I heard its really good but -",
+                "label": "nn"
+            },
+            {
+                "text": "It is I just have to take my hat off to Peter DeNiro",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "He is one of the best actors Ive ever seen Its - theres point where - the uh the show is about these uh catatonic type people that - this doctor discovers drug that brings them back to the the living more or less but it wears off",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And the way it wears off is he goes through all these spastic you know uh - it starts off with like tic",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and then it gets to where he cant you know control his movements at all And it was just so realistic The way you know you have to just keep reminding yourself that hes an actor",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh What does uh - is - Robby Robin Williams does he have funny part in it",
+                "label": "b"
+            },
+            {
+                "text": "No it was very serious very se- -",
+                "label": "nn"
+            },
+            {
+                "text": "Oh how does he do serious",
+                "label": "qo^d"
+            },
+            {
+                "text": "Hes good hes hes talented boy he is",
+                "label": "sv"
+            },
+            {
+                "text": "Ive only seen him in funny stuff and so -",
+                "label": "sd"
+            },
+            {
+                "text": "I know me too But uh well what was that show um Gar- uh Garf- - I want to say Garfield but that wasnt it",
+                "label": "b"
+            },
+            {
+                "text": "Yeah uh GARP THE WORLD ACCORDING TO GARP",
+                "label": "b"
+            },
+            {
+                "text": "Yeah THE WORLD ACCORDING TO GARP He wasnt always funny in that show was he",
+                "label": "aa"
+            },
+            {
+                "text": "I didnt read see the the movie I read the book but I -",
+                "label": "no"
+            },
+            {
+                "text": "I did too Thats why I was thinking it couldnt be just totally funny part",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah in fact it got some pretty serious deep parts in it so -",
+                "label": "b"
+            },
+            {
+                "text": "Yeah right",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Well what have you seen",
+                "label": "qw"
+            },
+            {
+                "text": "I think the last movie that we went out to see was DANCES WITH WOLVES",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I saw it",
+                "label": "sd"
+            },
+            {
+                "text": "Good weve both seen one Did you cry through it",
+                "label": "b"
+            },
+            {
+                "text": "Yes the whole way",
+                "label": "ny"
+            },
+            {
+                "text": "It was telling friend I I said I only cried twice but each was about half an hour long so -",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Where did you cry",
+                "label": "qw^d"
+            },
+            {
+                "text": "Um lets see when I each time that I thought that the Indians were going to get killed I cried",
+                "label": "^h"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Um I cried the first time when the um the wagon man got killed when they attacked him",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "And uh I think from there on all the way through the movie - Lets see what else did it Um what other parts I cant remember any of the other parts right off now",
+                "label": "sd"
+            },
+            {
+                "text": "I cried when the horse got killed and when the wolf got killed",
+                "label": "sd"
+            },
+            {
+                "text": "We- - I dont remember when the horse got killed",
+                "label": "%"
+            },
+            {
+                "text": "Oh th- - when he was riding back to the settlement and they shot his horse out from under him",
+                "label": "%"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "And then he uh the next day he looked out there and saw those buzzards you know",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And that horse has been such pal to him",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "when he was alone You can tell Im an animal lover you can hear my dog",
+                "label": "+"
+            },
+            {
+                "text": "Unfortunately we dont have any animals so uh -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah It was beautiful story it really was",
+                "label": "b"
+            },
+            {
+                "text": "It - there was lot of pretty scenery too in that movie",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "What did you think about the buffalo scenes",
+                "label": "qw^d"
+            },
+            {
+                "text": "Oh I thought it was awful",
+                "label": "sv"
+            },
+            {
+                "text": "That was",
+                "label": "aa"
+            },
+            {
+                "text": "and so graphic",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I mean I hadnt even imagined it you know I think we all heard the story of the slaughter of the buffalo",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Um I had friend who had fixed some uh chili buffalo chili and about week before went to see the movie",
+                "label": "sd"
+            },
+            {
+                "text": "Oh oh",
+                "label": "b"
+            },
+            {
+                "text": "Of course they raise them now you know to eat",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh yeah its not -",
+                "label": "b"
+            },
+            {
+                "text": "But she we were both feeling so guilty about enjoying this chili after seeing that",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh well at least you know that it wasnt same situation that the buffalo died in",
+                "label": "b"
+            },
+            {
+                "text": "No it wasnt",
+                "label": "aa"
+            },
+            {
+                "text": "Um I thought the scenes when the buffalos running though were beautiful like that was great",
+                "label": "sv"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "aa"
+            },
+            {
+                "text": "And there were so many of them I didnt know that that many buffaloes alive much less in one place",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah really",
+                "label": "b"
+            },
+            {
+                "text": "So that was pretty",
+                "label": "sv"
+            },
+            {
+                "text": "And to think about how it just changed the whole landscape you know you could follow this this beaten down path",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and it sounded like thunder and earthquakes and that sort of thing",
+                "label": "sv"
+            },
+            {
+                "text": "I wonder how they kept up with them though it seemed like the buffaloes were moving so fast",
+                "label": "sd"
+            },
+            {
+                "text": "I know",
+                "label": "aa"
+            },
+            {
+                "text": "I guess they graze though that wouldnt be problem",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah Uh have you seen any of the behind the scenes uh of of that movie",
+                "label": "b"
+            },
+            {
+                "text": "No huh-uh",
+                "label": "nn"
+            },
+            {
+                "text": "It was - they tried to keep it you know as very close to real",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I mean like Kevin Costner did all of his own scenes and uh they had to teach wolf how to to howl",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Thats the part they had trouble finding was wolves",
+                "label": "sd"
+            },
+            {
+                "text": "I guess theyre just not domesticated or or -",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah what - they just dont howl that much anymore",
+                "label": "b"
+            },
+            {
+                "text": "Uh",
+                "label": "%@"
+            },
+            {
+                "text": "I could bring them in with my dogs and set siren off and thats all theyd have to do",
+                "label": "sd"
+            },
+            {
+                "text": "Thatll teach them in couple minutes huh",
+                "label": "+@"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Well thats funny",
+                "label": "ba"
+            },
+            {
+                "text": "Well I think weve made it",
+                "label": "sv"
+            },
+            {
+                "text": "Oh is that five minutes is that -",
+                "label": "qy^d"
+            },
+            {
+                "text": "I dont know is it five or three",
+                "label": "no"
+            },
+            {
+                "text": "Okay oh Im not sure",
+                "label": "bk"
+            },
+            {
+                "text": "Im not either",
+                "label": "sd"
+            },
+            {
+                "text": "Okay well I think were were weve done okay though",
+                "label": "b"
+            },
+            {
+                "text": "Okay me too",
+                "label": "b"
+            },
+            {
+                "text": "Well thank you for calling",
+                "label": "fc"
+            },
+            {
+                "text": "Well thank you",
+                "label": "fc^m"
+            },
+            {
+                "text": "And I hope you enjoy some more good movies late-",
+                "label": "fc"
+            },
+            {
+                "text": "Yeah you too",
+                "label": "fc"
+            },
+            {
+                "text": "Bye bye",
+                "label": "fc"
+            },
+            {
+                "text": "Bye bye",
+                "label": "fc^m"
+            }
+        ]
+    }
+]

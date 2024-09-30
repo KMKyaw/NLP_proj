@@ -1,0 +1,439 @@
+[
+    {
+        "conversation_id": "conv_2896",
+        "turns": [
+            {
+                "text": "What kind of painting are you planning to do",
+                "label": "qw"
+            },
+            {
+                "text": "Well I have wallpaper in both of my bathrooms right now which is really pretty disgusting",
+                "label": "nd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And um its rent house and I decided its too expensive to rewallpaper so I decided Im going to paint",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And Ive been buying some magazines and stuff and looking at different ways to paint And Im thinking about maybe sponge painting them",
+                "label": "sd"
+            },
+            {
+                "text": "Oh what would be interesting",
+                "label": "ba"
+            },
+            {
+                "text": "Either that or maybe rag rolling",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "To give it kind of country look",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Ive never done any of those fancy kinds of paint treatments but they look very interesting and you get some beautiful effects with them",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Uh one of the books that I bought where its - describing the sponge painting said you can like layer different colors and -",
+                "label": "aa"
+            },
+            {
+                "text": "Yes yeah Ive seen that done where theres uh oh - I saw one that was kind on an ecru undercoat and then it had little bit darker sort of peachy color",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and in between there was sort of rust uh put on very sparingly",
+                "label": "sd"
+            },
+            {
+                "text": "Ugh",
+                "label": "b"
+            },
+            {
+                "text": "And it gave the impression of very old weathered stucco",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Um what I what Im trying to do is Ive got yellow tile in both the bathrooms --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- so I want something thats going to tie that together and Im changing the like the towel racks and stuff the the fixtures out to make them wood Im going to put wood in there",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah that should be nice",
+                "label": "b"
+            },
+            {
+                "text": "So its going to have kind of country look",
+                "label": "bf"
+            },
+            {
+                "text": "uh-huh",
+                "label": "aa"
+            },
+            {
+                "text": "Um and I havent even decided as far as um what kind of paint to buy I dont have an actual instruction book so Im really in kind of the beginning stages right now",
+                "label": "sd"
+            },
+            {
+                "text": "Well uh -",
+                "label": "%"
+            },
+            {
+                "text": "Um its going to be big experiment",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I was about to say you ought to experiment on at least small part of it before you just tackle the whole thing",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Because you might find that its beyond uh what youre willing to put into it",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Although I think it could turn out really nice",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Ive -",
+                "label": "aa"
+            },
+            {
+                "text": "I havent ever done fancy painting but I sure did my share of just regular painting Uh Ive painted several houses inside No- - I",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh inside -",
+                "label": "b"
+            },
+            {
+                "text": "never painted the outside",
+                "label": "+"
+            },
+            {
+                "text": "What what kind of what kind of paint do you normally use",
+                "label": "qw"
+            },
+            {
+                "text": "Well uh we used latex uh wall paint and then semigloss enamel for the woodwork and my job was mostly the woodwork",
+                "label": "sd"
+            },
+            {
+                "text": "Okay uh-huh",
+                "label": "bk"
+            },
+            {
+                "text": "My husband would paint the walls and ceilings with the rollers and I got to do all of the masking tape and then all of the little fine uh trim work",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "where Id use small brush and uh try to keep the paint from dripping on the windows and things like that",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh Well we only have on- only one of our bathroom has window in it so Im hoping that um it wont be too much of problem",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Um Im wondering if my bigger problem is getting the wallpaper taken down first Because I I think -",
+                "label": "qy^d"
+            },
+            {
+                "text": "Well I was going to ask if you planned to paint over it or try to strip it",
+                "label": "qr"
+            },
+            {
+                "text": "No Im Im planning on taking it off",
+                "label": "nn"
+            },
+            {
+                "text": "I have heard that theyve got these steamers you can rent now which make it much easier to get wallpaper off",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "Um I tried to get wallpaper off once twenty years ago oh with just scraper and wet sponge and it took forever I would not recommend that method",
+                "label": "sd"
+            },
+            {
+                "text": "Okay",
+                "label": "aa"
+            },
+            {
+                "text": "Uh if --",
+                "label": "sv"
+            },
+            {
+                "text": "Well thats something that thats worthwhile checking into then Cause I -",
+                "label": "sv"
+            },
+            {
+                "text": "-- if you can rent steamer if its modern wallpaper it should come off without too much trouble If its really old you dont know what its put on with",
+                "label": "+"
+            },
+            {
+                "text": "It its hard to tell its - the patterns look like theyre nineteen sixties style",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And I know the house um was built around the mid fifties",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So it may be the original wallpaper",
+                "label": "sd"
+            },
+            {
+                "text": "Could be yeah Um if its vinyl it should be easier to strip too If its paper it will probably shred",
+                "label": "aa"
+            },
+            {
+                "text": "Um in one bathroom its um its probably paper uh its silver silver and yellow",
+                "label": "sd"
+            },
+            {
+                "text": "Um uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and white",
+                "label": "+"
+            },
+            {
+                "text": "Well the wallpaper that I was trying to remove was black i- this was in bathroom too And the the tiles were sort of mottled grey and had little trim strip of maroon and white and the the wallpaper in that bathroom had black background and then it had vivid uh almost neon colors of hot pink and turquoise and lime green and silver and uh little bit of yellow that looked like coral sands and sea horses and things like that",
+                "label": "sd"
+            },
+            {
+                "text": "Um thats kind of an odd color for bathroom",
+                "label": "ba"
+            },
+            {
+                "text": "Oh it was awful it was absolutely hideous and and we had dinner party before we started renovating it and guest went in there and he said its good thing I went to the bathroom before dinner because if I had had something to drink and went in there I would think I was having hallucinations",
+                "label": "sd"
+            },
+            {
+                "text": "Really Well I Ive also been thinking about after looking at all these magazines um these design magazines and stuff Im thinking about maybe painting the bedroom walls too in color that will kind of um tie in our um our um our uh comforter",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "with color thats kind of um burgundy and green and yellow and blue and beige floral design",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Um and Im not really quite sure I dont know if maybe Im biting off more than I can chew",
+                "label": "sd"
+            },
+            {
+                "text": "Well Id say tackle one project first and see how it goes and if you discover you like it then you can always upscale",
+                "label": "ad"
+            },
+            {
+                "text": "Yeah well the bedroom would probably be the easier of the two because it would be just plain painting",
+                "label": "aa"
+            },
+            {
+                "text": "Sure",
+                "label": "aa"
+            },
+            {
+                "text": "It wouldnt be any kind of special um special effects type thing",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "It would be just plain paint",
+                "label": "sd"
+            },
+            {
+                "text": "Well its not hard to do if you get everything prepared ahead of time Because if you uh use drop cloths to cover everything and you use masking tape to trim out uh all the parts that you dont want to slop over onto you dont have to be quite as precise about how you do it and it can be done whole lot faster",
+                "label": "sv"
+            },
+            {
+                "text": "Um okay",
+                "label": "aa"
+            },
+            {
+                "text": "And with rollers and uh modern latex paints you can wash up easily because theyre water soluble",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And they dry fast so you really dont have to be disrupted for more than about weekend If you have some help",
+                "label": "sv"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "And then if that if you discover the little tricks and tips about you know how you get through corners and how you do trim and uh how long to leave the masking tape down because if you leave it too long and it dries it can flake when it when you pull it up",
+                "label": "sv"
+            },
+            {
+                "text": "It it peels the paint off when you take it off yeah",
+                "label": "sv"
+            },
+            {
+                "text": "Well not - i- if you leave it on for weeks it will do that If you take it up the next day it should be fine You want it to get dry but not uh just real hard",
+                "label": "%"
+            },
+            {
+                "text": "Yeah okay",
+                "label": "aa"
+            },
+            {
+                "text": "You dont want the gum on the back of the masking tape to get dried to hard Thats the problem",
+                "label": "ad"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "It will come up lot easier if you dont wait too long And Ive I was told - I always used the nice wide masking tape but Ive heard from people who tried to get by and skimp on narrow masking tape that it was more trouble than it was worth",
+                "label": "sv"
+            },
+            {
+                "text": "Oh really okay",
+                "label": "b"
+            },
+            {
+                "text": "Because it it rips as you pull it off for one thing and then you end up tediously scraping these tiny little shreds of masking tape",
+                "label": "+"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "And the whole point of using it is to save yourself work You can do little faster painting and much easier clean up if you use the masking tape But use use good uh stuff and buy it at paint store where they have the right brands",
+                "label": "sv"
+            },
+            {
+                "text": "Okay",
+                "label": "aa"
+            },
+            {
+                "text": "that will go down and come up easily",
+                "label": "+"
+            },
+            {
+                "text": "Well I really appreciate all the helpful tips I think you are just made my project lot easier",
+                "label": "ft"
+            },
+            {
+                "text": "Well I wish you very good luck with it and I will tell you that I have retired from the painting business The last time I had something done was my kitchen cabinets and I decided that was too much to tackle Id hire professional",
+                "label": "fx"
+            },
+            {
+                "text": "If you were if you were closer Id Id Id tell you you could come over and supervise",
+                "label": "ad"
+            },
+            {
+                "text": "Well if I were closer I might Oh well I hope your project turns out great and I really think that its exciting that youre going to try the sponge painting I think that could give it really -",
+                "label": "aa"
+            },
+            {
+                "text": "Well well see how it goes I may just be flat painting over it",
+                "label": "sv"
+            },
+            {
+                "text": "Well of course thats the other advantage of paint If you dont like it all you do is put on another coat",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I guess wed better go because our time looks like its about up",
+                "label": "fc"
+            },
+            {
+                "text": "Yeah I I need to go to the dentist so -",
+                "label": "fc"
+            },
+            {
+                "text": "Okay bye-bye",
+                "label": "fc"
+            },
+            {
+                "text": "Its was nice talking to you Kathleen",
+                "label": "fc"
+            },
+            {
+                "text": "Thank you",
+                "label": "fc"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc^m"
+            }
+        ]
+    }
+]

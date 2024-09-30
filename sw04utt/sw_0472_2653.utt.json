@@ -1,0 +1,411 @@
+[
+    {
+        "conversation_id": "conv_2653",
+        "turns": [
+            {
+                "text": "So I own at my home",
+                "label": "o"
+            },
+            {
+                "text": "uh-huh I could never justify owning personal computer at home uh I mean thats quite an expense to look for uh well who is this what do you use yours at home for",
+                "label": "b"
+            },
+            {
+                "text": "Well thats actually good question My wife works out of the home our home She has an office and in fact she sits in the office and she uses it to compose and print out letters",
+                "label": "nd"
+            },
+            {
+                "text": "Okay well now -",
+                "label": "bk"
+            },
+            {
+                "text": "So thats very regular use of it that she has",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And in addition to that I tinker around with it Im computer scientist",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "And so I write programs to do little things Im actually working on data base at home just to keep track of things nothing special And also Im interested in writing some programs that will kind of like remind me of things like remind me that Wednesdays is trash day and the like",
+                "label": "sd"
+            },
+            {
+                "text": "Uh huh well excuse me I uh uh well Im technician electronics tech Years ago I sent me to their uh computer school down in Austin",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So uh I learned to repair one but you know I never really learned to operate one",
+                "label": "sd"
+            },
+            {
+                "text": "Oh thats key thing Well actually thats - theres really two issues to that that theres so many software packages available today",
+                "label": "sv"
+            },
+            {
+                "text": "Yes",
+                "label": "aa"
+            },
+            {
+                "text": "That just require no programming So that yo- - in other words when someone built that software packet they had to use the programming but if they were careful they could make the use of it totally without understanding how the computer works",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But I think you you really hit the nail on the head For the average person is exactly what he can use it for And if your wife isnt working out of the home and sending letters or if you dont want to build data base to keep track of the nuts and bolts in your garage whatever there your issue is then there really -",
+                "label": "sv"
+            },
+            {
+                "text": "Well uh space is handicap with me I live in motor home",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I see well -",
+                "label": "b"
+            },
+            {
+                "text": "And Im preparing for retirement",
+                "label": "sd"
+            },
+            {
+                "text": "I see well congratulations on that",
+                "label": "b"
+            },
+            {
+                "text": "And Im not to far from it another year and half",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah well actually one other thing I might ought to mention is that they are actually getting quite cheap",
+                "label": "b"
+            },
+            {
+                "text": "Yes definitely but just like the computers",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh remember how they started out running three four hundred dollars",
+                "label": "sd"
+            },
+            {
+                "text": "Right Oh the calculators you mean",
+                "label": "b"
+            },
+            {
+                "text": "I mean ca- calculators I beg your pardon",
+                "label": "na"
+            },
+            {
+                "text": "Yeah they sure do Yeah I actually was thinking about upgrading mine very recently and kind of look at the whole spectrum You can actually buy whole brand new computer with not not necessarily slow one or inadequate one but pretty good one for six hundred dollars",
+                "label": "aa"
+            },
+            {
+                "text": "Youre kidding",
+                "label": "bh"
+            },
+            {
+                "text": "No",
+                "label": "nn"
+            },
+            {
+                "text": "Including printer",
+                "label": "qy"
+            },
+            {
+                "text": "Well actually I wasnt including printer but you you can buy printer now for hundred dollars so make it seven hundred",
+                "label": "nd"
+            },
+            {
+                "text": "hundred",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Wholly smoke respectable one",
+                "label": "ba"
+            },
+            {
+                "text": "Yes uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Well see of not being particularly interested I dont keep track of prices on them but Im Im that does amaze me",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah the prices had plummeted you can buy the computer the guts just the guts with the power supply",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "the box and the mother board of type of computer called an eighty eighty-eight for about two hundred dollars",
+                "label": "+"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "And then the keyboard is another fifty the monitor with the card that drives is another hundred and then the disk drive is two fifty",
+                "label": "sd"
+            },
+            {
+                "text": "Well what what is good brand inexpensive",
+                "label": "qy"
+            },
+            {
+                "text": "Well thats thats the deal is youre not buying brands now youre buying these knock offs so theres - probably the way to do it if you really wanted to buy one is theres magazine called COMPUTER SHOPPER",
+                "label": "nd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Its big magazine its twelve inches acro- narrow the narrow side and --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh wow",
+                "label": "ba"
+            },
+            {
+                "text": "-- seventeen inches the tall side and its probably an inch thick thousand pages But the book is the magazine is full of these mail order computer mail-order houses and theyre all competing with each",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So you just flip through there until you find eighty eighty-eight computer that thats called its the original So its - we call the I Im sorry an I compatible And youll find all these things and youll find the monitors forty dollars and the card that drives the monitor that goes in the back of the board for twenty-five dollars which is amazing to me",
+                "label": "sd"
+            },
+            {
+                "text": "Uh",
+                "label": "b"
+            },
+            {
+                "text": "And you mix and match and then you do it by mail-order But theres no real brands its probably half dozen companies around the world that are making those mother boards the main computer the circuit board",
+                "label": "sd"
+            },
+            {
+                "text": "I see How do you go about getting one of those catalogs",
+                "label": "bk"
+            },
+            {
+                "text": "Theyre available in you know the Daltons that that type of thing",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Youll notice that in that its its its although its magazine its large And like I said its about an inch thick",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh well getting back to the - Ill tell you I ya - first of all I dont like machine thats smarter than me And secondly I did learn this much about computers they they are pretty stupid because they add one and one up and come up with ten In binary",
+                "label": "b"
+            },
+            {
+                "text": "Thats right Theres great",
+                "label": "aa"
+            },
+            {
+                "text": "Well anyway thats one ever my favorite jokes",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "One and one equals ten",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah thats great",
+                "label": "b"
+            },
+            {
+                "text": "Course its its kind of an inside joke you know",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You can only tell that to somebody who understands binary",
+                "label": "sv"
+            },
+            {
+                "text": "I understand thats great thats good joke",
+                "label": "ba"
+            },
+            {
+                "text": "So what - do you uh uh work with computers at I",
+                "label": "%"
+            },
+            {
+                "text": "I did for years and then I was scientist over in central research labs and just recently Ive changed my job to actually do some of the marketing",
+                "label": "na"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh now I I type that one but I dont use it anymore",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh well I just recently started using one",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "In connection with my work",
+                "label": "+"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "Uh I keep track of an inventory here",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And of course now that is where computer is very handy",
+                "label": "sv"
+            },
+            {
+                "text": "Yes I agree",
+                "label": "aa"
+            },
+            {
+                "text": "And well I its my responsibility to see that equipment is sent off to be calibrated",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "See Im with the lab",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I see thats fascinating",
+                "label": "b"
+            },
+            {
+                "text": "Qualification and evaluation so naturally our equipment has to be in top condition and is constantly calibrated",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and theyre dated So I have to keep up with them uh and and its very handy doing it on the computer",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I just run printout every week and and it puts me right up-to-date what Im what I have to do what I have to ship what I should be expecting to be returned",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So - it it is handy",
+                "label": "%"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And I must admit that up until I did start using one uh it was I had very little interest in computers",
+                "label": "sd"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "But they are amazing",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah they certainly are So lets see see so I guess with respect to the question - yeah I guess weve kind of covered it",
+                "label": "aa"
+            },
+            {
+                "text": "I think we did",
+                "label": "aa"
+            },
+            {
+                "text": "Great nice little conversation with you Jack",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah Mike you take care now",
+                "label": "fc"
+            },
+            {
+                "text": "Good day",
+                "label": "fc"
+            },
+            {
+                "text": "Good luck to you",
+                "label": "fc"
+            },
+            {
+                "text": "Thank you Same to you",
+                "label": "fc"
+            }
+        ]
+    }
+]

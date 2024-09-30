@@ -1,0 +1,359 @@
+[
+    {
+        "conversation_id": "conv_3052",
+        "turns": [
+            {
+                "text": "Okay well the topic is selecting care for the elderly",
+                "label": "o"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I dont have elderly parents yet but not that far in the distant future What about yourself",
+                "label": "sd"
+            },
+            {
+                "text": "Well my parents are both in their seventies My my mother and stepfather and my father and stepmother are all in their seventies And my uh uh father and stepmother are not in very good health So this is something that is -",
+                "label": "sd"
+            },
+            {
+                "text": "concern of yours right now",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yes it is",
+                "label": "ny"
+            },
+            {
+                "text": "Are are they living independently right now",
+                "label": "qy"
+            },
+            {
+                "text": "Yes they are",
+                "label": "ny"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "They are",
+                "label": "sd^r"
+            },
+            {
+                "text": "Have you looked at any homes for them or talked to them about that",
+                "label": "qy"
+            },
+            {
+                "text": "Not for them my my mother and stepfather have have uh set up an arrangement where they have large home and uh two of my sisters and and their families one of thems husband and then all the children are living in this home Its got lot of bedrooms and bathrooms and and uh they all share the same kitchen and dining room and den and kitchen And and uh my father bought this uh my stepfather bought this thinking of time when one or the other of them might need care and they felt like that would be their alternative to nursing home",
+                "label": "ng"
+            },
+            {
+                "text": "Oh that sounds the ultimate",
+                "label": "ba"
+            },
+            {
+                "text": "Unless unless they were so ill that they needed nursing care that could not be given in the home",
+                "label": "sd"
+            },
+            {
+                "text": "Well even at that point most care can be given at in the home That sound like just an excellent solution You must feel real good about that",
+                "label": "sv"
+            },
+            {
+                "text": "Well I I felt good about it because thats my personal feeling also I uh I read lot and then I know people th- then have visited nursing homes and uh have had great grandparents in the nursing homes and it was not happy situation for for any of them And and uh we have very active nursing home here in Plano that that has uh activities going all the time and they have uh - even the people that are wheelchair bound and and really are are ti- ti- incapacitated",
+                "label": "nd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Go and uh participate in olympics and they make their crafts and sell them at big fair thats held annually at big mall here",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "You know th- so there are lot of lot of activities going on all the time and this is nursing home its not senior citizens home So that the people are really uh -",
+                "label": "sd"
+            },
+            {
+                "text": "Really in need of nursing home",
+                "label": "^2"
+            },
+            {
+                "text": "Right They need",
+                "label": "aa"
+            },
+            {
+                "text": "Right uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "the nursing care and and but its very expensive solution",
+                "label": "+"
+            },
+            {
+                "text": "Well its you know I think we just you know listen to is the fact that there are good solutions both inside and outside of nursing homes Its just matter of finding",
+                "label": "aa"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "good home",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And and then of course there is always the problem of being able able to afford either of those solutions",
+                "label": "sv"
+            },
+            {
+                "text": "Right uh-huh",
+                "label": "aa"
+            },
+            {
+                "text": "And that I think is what is scary and I also feel that thats where some of the bad images of nursing homes come from Is when people have to put people in nursing homes and they really can not afford the best",
+                "label": "sv"
+            },
+            {
+                "text": "Right And thats right I well I took my husband one night to an emergency room when he was in an emergency situation and uh they brought in very elderly man from nursing home who had had uh apparently inhaled some chicken he was eating",
+                "label": "aa"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "And uh he had apparently had not been in the home too long just week or so but when they the family came in to see him they had not been made aware I was in the room when the emergency technicians brought him in from the ambulance and I overheard their conversation And when the family walked in his wife and daughter and son-in-law they were not even aware of what had happened",
+                "label": "sd"
+            },
+            {
+                "text": "Oh goodness",
+                "label": "ba"
+            },
+            {
+                "text": "So I told them he strangled on some chicken and uh they said the the woman the wife said he was not even supposed to be eating any food like that that would require chewing or",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "so you know and I thought -",
+                "label": "+"
+            },
+            {
+                "text": "What shame they put him in the home so that he could be cared for --",
+                "label": "ba"
+            },
+            {
+                "text": "Right Right",
+                "label": "aa"
+            },
+            {
+                "text": "-- and then they could have done that well at home",
+                "label": "sv"
+            },
+            {
+                "text": "And then she was upset he had on two different shoes one of which was not even his He had on pair",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "of slacks and the wife said these are not his slacks and she said I just took two pair over yesterday for him that were clean And -",
+                "label": "+"
+            },
+            {
+                "text": "You hear these stories",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "all the time",
+                "label": "+"
+            },
+            {
+                "text": "Right Well I this was just something that I was",
+                "label": "aa"
+            },
+            {
+                "text": "You happened -",
+                "label": "%"
+            },
+            {
+                "text": "I witnessed to",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And and uh at no point did anybody from the nursing home come in And we were there in the same room with the man for half hour",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "And with just curtain of course between us and and uh -",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "th- they re- revived the man and cleared out his airway and so forth and he was definitely - just by looking at him and the way he acted you could tell he was in need of of nursing home care but the family were all talking about uh putting him in another home They said he will not go back --",
+                "label": "sd"
+            },
+            {
+                "text": "Well good",
+                "label": "ba"
+            },
+            {
+                "text": "-- to that one",
+                "label": "+"
+            },
+            {
+                "text": "Good Im glad they have solution",
+                "label": "ba"
+            },
+            {
+                "text": "Im glad they the option -",
+                "label": "sd"
+            },
+            {
+                "text": "To do that yes I know",
+                "label": "+"
+            },
+            {
+                "text": "I I would hate to be in position where that was all I could afford and there were not there was no choice",
+                "label": "sd"
+            },
+            {
+                "text": "Exactly My uh my ex-husbands grandmother had been in nursing home now for oh it must be seven eight years and uh and uh",
+                "label": "aa"
+            },
+            {
+                "text": "Oh my",
+                "label": "ba"
+            },
+            {
+                "text": "Its just her her condition deteriorated deteriorated instantly upon getting into that home",
+                "label": "+"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "As the situation is so sad because it just takes all the dignity away from",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "aa"
+            },
+            {
+                "text": "from people who have been independent all their lives Like this was really neat vital woman and you get in nursing home and the first thing that happens you have to share your your whole living space",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "with someone that you have never known before in your life",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And oh I I do not know what the answer is but I do know that there are some wonderful places out there and it I think it does - lot of it goes down to just money",
+                "label": "sd"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "And family support uh if you you know have family that uh you can live with",
+                "label": "+"
+            },
+            {
+                "text": "Visits everyday",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "aa"
+            },
+            {
+                "text": "Right",
+                "label": "aa^m"
+            },
+            {
+                "text": "Right I I really - I think the way of selecting nursing home would be similar to the way you would select child care you know You would do your research and you would go visit",
+                "label": "aa^m"
+            },
+            {
+                "text": "Visit right",
+                "label": "b^m"
+            },
+            {
+                "text": "And uh hopefully they would have they would have it so that you could go there anytime",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Because if you could not go there anytime then that would make you",
+                "label": "sv"
+            },
+            {
+                "text": "Suspicious",
+                "label": "^2"
+            },
+            {
+                "text": "little bit su- - right",
+                "label": "+"
+            },
+            {
+                "text": "You know I I my I remember my my grandmother many years ago when she was in nursing home before she died and I guess there was not name for what she had at that time but I guess Alzheimers would come as close as anything she really was not aware of what she was doing",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh I ca- I can remember she had several strokes and the nursing home was right next to hospital and they would rush her to the hospital and revive her and just bring her back to the nursing home in couple of days And it was she was it was just like keeping something",
+                "label": "sd"
+            }
+        ]
+    }
+]

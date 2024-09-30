@@ -1,0 +1,203 @@
+[
+    {
+        "conversation_id": "conv_4096",
+        "turns": [
+            {
+                "text": "Hello Ann",
+                "label": "fp"
+            },
+            {
+                "text": "Hello Chuck",
+                "label": "fp"
+            },
+            {
+                "text": "Uh the other day I attended conference here at Utah State University on recycling --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh I was kind of interested to hear cause they had some people from the and lots of different places --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh they had basically decided that there is going to be real problem here within few years on solid waste",
+                "label": "sd"
+            },
+            {
+                "text": "Uh I didnt think that was new revelation",
+                "label": "sv"
+            },
+            {
+                "text": "Well its not too new",
+                "label": "aa"
+            },
+            {
+                "text": "Right So what what is the recommending now",
+                "label": "b"
+            },
+            {
+                "text": "Oh they really didnt propose any solutions Actually they were the guy was pretty negative about the things that the government was doing even though he was from the",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But he had lot of uh facts to to give and uh things like how many solid waste plants were being shut down and and uh one of the most interesting things that he was talking about was recycling of of news print He was talking about uh the City of New York and how they went and collected all this news print --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and they could sell it for while They were able to sell it for some amount per ton and now at this stage of the game where they have gotten into recycling theyve collected so much news print that they have to pay to have it hauled away",
+                "label": "sd"
+            },
+            {
+                "text": "Right Thats thats common problem though That it seems that has happened in Dallas as well as New York and I try to recycle all of the newspapers that come to my house and after while I just quit taking the newspaper because I couldnt recycle it anymore which isnt good for business on the other end either I suppose",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Were doing some here in in Cash Valley the community here",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Theres uh weve actually got kind of nice set up Weve got couple of plants here that actually take uh recycled paper and shred it and spray it with chemical treatment so that its not fire hazard --",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- and make it into insulation and they can actually use as much recycled paper as the community can get to them Because they are actually buying it and shipping it in from outside",
+                "label": "+"
+            },
+            {
+                "text": "Well thats good",
+                "label": "ba"
+            },
+            {
+                "text": "So one of the real keys it sounds like to getting recycling for uh paper or something like that to go is to get some sort of business to actually want it once you have collected it",
+                "label": "sv"
+            },
+            {
+                "text": "Right There has to be uh reuse for it I mean thats why they recycle The one I think is the most interesting is with the recycled bottles and all that uh the industry seems to be doing with the recycled polymers Uh everything from uh waste baskets to carpet to the no stick I mean the sticky slide rugs under the carpet --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh I think they are even putting it in the roadways these days and theyre making clothes now that are recycled Like the recycled plastic coke bottles and and milk cartons and things like that",
+                "label": "sv"
+            },
+            {
+                "text": "And there was paper presented at this conference from guy from Alabama and he was kind of hired to do study by two departments for the government One was like environmental protection and the other one was oh I cant remember what but the basic idea it was presented to him was how can we maximize the amount of energy that we can get back from recycling and minimize the volume of stuff that we are putting into our landfill --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh the solution that he came up with for plastics and it was really quite amazing he says well the best thing to do with plastics is to burn them",
+                "label": "sv"
+            },
+            {
+                "text": "Oh really",
+                "label": "b"
+            },
+            {
+                "text": "He came to the conclusion plastics is actually one of the biggest problems in landfills cause its its low weight but its high volume so it takes up lot of space --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- and theres almost no energy theres very little energy value in actually doing lot of the recycling but there is lot of energy in it if you can burn it and use it produce electricity",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "%"
+            },
+            {
+                "text": "So his solution was to burn plastic Collect it and burn it",
+                "label": "sd"
+            },
+            {
+                "text": "Well its carbon so that makes sense like carbon fuel of some sort but --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- what --",
+                "label": "+"
+            },
+            {
+                "text": "And its more than even paper or something like that There is more energy in it per pound or whatever",
+                "label": "sd"
+            },
+            {
+                "text": "-- what about emissions",
+                "label": "+"
+            },
+            {
+                "text": "Well that was he didnt deal with that",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "He just said burn it",
+                "label": "sd"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "He didnt talk about cleaning it up or anything like that So its not very practical",
+                "label": "sd"
+            },
+            {
+                "text": "No Well its interesting I bet that was good day at the yeah conference then",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah well real interesting",
+                "label": "aa"
+            },
+            {
+                "text": "Did it change anything for you",
+                "label": "qy"
+            },
+            {
+                "text": "Uh not too much Uh I got bit Actually -",
+                "label": "ng"
+            }
+        ]
+    }
+]

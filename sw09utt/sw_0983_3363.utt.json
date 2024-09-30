@@ -1,0 +1,435 @@
+[
+    {
+        "conversation_id": "conv_3363",
+        "turns": [
+            {
+                "text": "Okay what kind of car are you going to buy next",
+                "label": "o"
+            },
+            {
+                "text": "Well one of the cars Im thinking about buying next is uh nice safe small car but um uh the reason being is we just purchased van little while ago because we have --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- big family and we use that to get back and forth and haul kids around and --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- so forth and we have another four door car that I drive to work and I think itd be more economical if I were able to smaller car --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh wouldnt be wouldnt cost much with gas",
+                "label": "+"
+            },
+            {
+                "text": "Thats true thats true",
+                "label": "aa"
+            },
+            {
+                "text": "What what are you looking at",
+                "label": "qw"
+            },
+            {
+                "text": "Well Im really not looking at anything for while but --",
+                "label": "nd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know when youre driving down the road you see all these pretty new ones that are out and you think Oh well maybe maybe I would like new car",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "But I think Ill be driving mine about two or three more years anyway",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yes oh yes",
+                "label": "b"
+            },
+            {
+                "text": "But uh -",
+                "label": "%"
+            },
+            {
+                "text": "Well the cost of new cars recently are extremely outrageous for the -- -",
+                "label": "sv"
+            },
+            {
+                "text": "Right they are",
+                "label": "aa"
+            },
+            {
+                "text": "-- -",
+                "label": "x"
+            },
+            {
+                "text": "I sure do like the looks of that new Mit- Mitsubishi Diamante",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yes oh yes",
+                "label": "b"
+            },
+            {
+                "text": "That is pretty car",
+                "label": "sv"
+            },
+            {
+                "text": "Im uh I really like the looks also of the new Mazda --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh thats pretty too",
+                "label": "b"
+            },
+            {
+                "text": "-- that they have but um I uh you know the the costs of new car and those new models are extremely out of our price range right now",
+                "label": "+"
+            },
+            {
+                "text": "Yeah they get pretty expensive",
+                "label": "b"
+            },
+            {
+                "text": "Yes they do",
+                "label": "aa"
+            },
+            {
+                "text": "The last one I bought I bought uh - well its its Town Car but it was demo returned --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and I got it with like you know I think it was like fourteen thousand miles on it --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- and nearly ten thousand dollars of- less than what the list price was",
+                "label": "+"
+            },
+            {
+                "text": "Well you cant go wrong with that kind of opportunity",
+                "label": "sv"
+            },
+            {
+                "text": "So I was really pleased to find that and I then I bought it for cheaper I was looking at Honda Accord brand new one --",
+                "label": "sd"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "-- and I bought this uh the the Lincoln Town Car for just little less money than what I was going to buy the new Honda Accord",
+                "label": "sd"
+            },
+            {
+                "text": "Wow Well you get much bigger better --",
+                "label": "ba"
+            },
+            {
+                "text": "And the thing about it is --",
+                "label": "sd"
+            },
+            {
+                "text": "-- comfortable ride",
+                "label": "+"
+            },
+            {
+                "text": "-- they give you that ten uh that hundred thousand mi- mile five year warranty --",
+                "label": "+"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "-- where it only costs you twenty-five dollars to have anything repaired",
+                "label": "+"
+            },
+            {
+                "text": "Well thats fantastic Thats real real good",
+                "label": "ba"
+            },
+            {
+                "text": "So uh I have really been impressed I said I probably never be able to find another one that I can afford you know",
+                "label": "sd"
+            },
+            {
+                "text": "No do you -",
+                "label": "aa"
+            },
+            {
+                "text": "But I have loved this car better than anything Ive ever driven because you can go on the road and get there and youre not even tired",
+                "label": "sd"
+            },
+            {
+                "text": "Very comfortable smooth ride huh",
+                "label": "qy^g"
+            },
+            {
+                "text": "And it gets like twenty-six miles to the gallon on the road",
+                "label": "sd"
+            },
+            {
+                "text": "Oh it does",
+                "label": "bh"
+            },
+            {
+                "text": "It sure does",
+                "label": "na"
+            },
+            {
+                "text": "Thats thats unbelievable for that size of car",
+                "label": "sv"
+            },
+            {
+                "text": "I they kept telling me that and I thought theyre crazy so the week after I got it well actually before I signed the papers on it I took it over to Boozier City --",
+                "label": "sd"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "-- and it did it",
+                "label": "sd"
+            },
+            {
+                "text": "Wow Thats great",
+                "label": "ba"
+            },
+            {
+                "text": "But its uh -",
+                "label": "%"
+            },
+            {
+                "text": "Thats great That kind of gas mileage uh were were kind of hoping for on our van",
+                "label": "ba^r"
+            },
+            {
+                "text": "Yeah Well thats kind of what weve always been told you know theyll do and then we hope for it and it never happens --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but it really it does get good gas mileage",
+                "label": "sd"
+            },
+            {
+                "text": "Well thats excellent",
+                "label": "ba"
+            },
+            {
+                "text": "Most of the time when I dont go anywhere I can drive it for like three weeks from to and from work you know and then fill it up so -",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Do you uh do does it uh need lot of repairs Is it very reliable kind of car",
+                "label": "b"
+            },
+            {
+                "text": "I havent had anything Ive taken it in twice for like just really minor things and it cost me the twenty-five dollars The uh really something really silly when we first got it we couldnt get the light - they have all these lights in the car --",
+                "label": "sd"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "-- and it has this fancy little light that gives you reading light for the passengers in the back seat --",
+                "label": "sd"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "-- and we couldnt get the light to turn off",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "And we kept trying you know and we went out to dinner with some friends and it stayed on all night you know --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh dear",
+                "label": "ba"
+            },
+            {
+                "text": "-- just shining right down on them you know --",
+                "label": "+"
+            },
+            {
+                "text": "Oh dear",
+                "label": "ba"
+            },
+            {
+                "text": "-- and we couldnt get it to turn off and the next day my husband goes out there and he tries to get it off we turn the knob you know in the front thats supposed to turn the --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- lights on and off and --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- we turned everything we could and he took it in and they said you know you just have to press the switch He says Ive pressed every switch in that car and I cant get the light off its broken",
+                "label": "+"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "So they took it in and charged us the twenty-five dollars and they called and told us though that all you have to do is turn the off switch and they showed us where the switch was",
+                "label": "sd"
+            },
+            {
+                "text": "They charged you twenty-five dollars just to tell you that huh",
+                "label": "bf"
+            },
+            {
+                "text": "They they thought there was really something wrong with it when he told them he had already done the switch",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh oh so they probably went through the -",
+                "label": "b"
+            },
+            {
+                "text": "But he hadnt he hadnt done the right one",
+                "label": "sd"
+            },
+            {
+                "text": "I see",
+                "label": "b"
+            },
+            {
+                "text": "And its right on the arm rest in the back --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and we didnt know it was there",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay",
+                "label": "b"
+            },
+            {
+                "text": "And the guy hit it with his arm when he got in the car --",
+                "label": "sd"
+            },
+            {
+                "text": "And found it right away",
+                "label": "qy^d"
+            },
+            {
+                "text": "-- and so we thought you know there there was it was broken",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But weve had just uh - I guess its been in two times Ive had it three years now",
+                "label": "%"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "And uh its been in two maybe three times But its just been real minor things",
+                "label": "sd"
+            },
+            {
+                "text": "Well I think that uh you have an excellent deal then and the the company is able probably to offer that kind of warranty on the car because they know its so well built that they dont expect any kind of major repairs --",
+                "label": "sv"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "-- whereas with an awful lot of other lower quality cars you would be getting repairs after repair after repair --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and those companies wouldnt be able to afford that for that kind of extended warranty or warranty at all so -",
+                "label": "sv"
+            },
+            {
+                "text": "Thats right But its really its been an enjoyable car Like I say Ill probably never be able to have another one because I think we bought it for about sixteen thousand you know --",
+                "label": "aa"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "-- and I said Ill never find another one for that price",
+                "label": "sv"
+            },
+            {
+                "text": "No not at all",
+                "label": "aa"
+            },
+            {
+                "text": "And they keep going up so Ill have to enjoy it",
+                "label": "sv"
+            }
+        ]
+    }
+]

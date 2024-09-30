@@ -1,0 +1,459 @@
+[
+    {
+        "conversation_id": "conv_3791",
+        "turns": [
+            {
+                "text": "Oh so what would be the your favorite meal to cook",
+                "label": "qw"
+            },
+            {
+                "text": "None to cook I dont like to cook",
+                "label": "sd"
+            },
+            {
+                "text": "Dont like to cook huh",
+                "label": "b^m^g"
+            },
+            {
+                "text": "Spaghetti I guess though I make mean spaghetti",
+                "label": "aap"
+            },
+            {
+                "text": "Make mean spaghetti huh",
+                "label": "b^m^g"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Uh got kids",
+                "label": "qy"
+            },
+            {
+                "text": "No",
+                "label": "nn"
+            },
+            {
+                "text": "- - married",
+                "label": "%"
+            },
+            {
+                "text": "Huh-uh According to the following utterance this is an AFFIRMATIVE answer so should be uh-huh Just my husband and I and the two dogs",
+                "label": "ny*"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So what about yours",
+                "label": "qo"
+            },
+            {
+                "text": "Well uh- my wife and I and weve got thirteen week old baby so --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- dont do much cooking for him yet Uh",
+                "label": "+"
+            },
+            {
+                "text": "So I guess its supposed to be dinner party is that what they said",
+                "label": "qy^g^t"
+            },
+            {
+                "text": "Uh yeah what kind of menu would you plan for dinner party and uh what kind of dishes you might have for it or --",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- some sort of thing like that",
+                "label": "+"
+            },
+            {
+                "text": "Huh we dont -",
+                "label": "b"
+            },
+            {
+                "text": "Lets see good dinner party --",
+                "label": "^h"
+            },
+            {
+                "text": "Think you -",
+                "label": "%"
+            },
+            {
+                "text": "-- menu I suppose it would just about depend on who was coming I guess",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know uh something light and easy If it was pretty in- informal --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- about anything",
+                "label": "+"
+            },
+            {
+                "text": "Sometimes --",
+                "label": "sd"
+            },
+            {
+                "text": "Breast of chicken",
+                "label": "sd"
+            },
+            {
+                "text": "-- well have uh well have bunch of people over and cook deer",
+                "label": "+"
+            },
+            {
+                "text": "Oh gosh yeah How do you usually cook your deer",
+                "label": "ba"
+            },
+            {
+                "text": "Huh",
+                "label": "br"
+            },
+            {
+                "text": "How do you usually cook your deer",
+                "label": "qw^r"
+            },
+            {
+                "text": "How do we usually",
+                "label": "br^m"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "On the grill well take the back strap and soak it in Italian dressing for couple of hours --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and throw it on the grill and it is good",
+                "label": "+"
+            },
+            {
+                "text": "I imagine",
+                "label": "ba"
+            },
+            {
+                "text": "Real good",
+                "label": "sd"
+            },
+            {
+                "text": "I would imagine it is",
+                "label": "ba^r"
+            },
+            {
+                "text": "Either that or hamburgers we really dont have dinner parties",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Yeah I understand",
+                "label": "b"
+            },
+            {
+                "text": "Um slash error",
+                "label": "o@"
+            },
+            {
+                "text": "We just had uh deer stew sort of --",
+                "label": "sd"
+            },
+            {
+                "text": "Ooh slash error",
+                "label": "+@"
+            },
+            {
+                "text": "-- uh it was deer steak stew",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh well about day day and half in the crock pot uh --",
+                "label": "+"
+            },
+            {
+                "text": "Ooh",
+                "label": "ba"
+            },
+            {
+                "text": "-- uh some deer steaks --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- in kind of mushroom gravy",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh some veggies in it",
+                "label": "sd"
+            },
+            {
+                "text": "Did you kill --",
+                "label": "qy"
+            },
+            {
+                "text": "Delic- -",
+                "label": "%"
+            },
+            {
+                "text": "-- the deer",
+                "label": "+"
+            },
+            {
+                "text": "No",
+                "label": "nn"
+            },
+            {
+                "text": "No",
+                "label": "b^m"
+            },
+            {
+                "text": "No the times Ive been out deer hunting I I can go out in the woods unarmed and deer will be tripping over me and vice versa",
+                "label": "nn^r"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I mean I get close to the woods with anything resembling weapon and suddenly there isnt deer within fifty miles So no this was given to us by some friends",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh guy was in uh in hunting club --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and you know - but the whole group goes out hunting and then at the end of the day they split it --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and whoever brought it down gets the lions share and the rest of it is split with the rest with everybody in the group",
+                "label": "sd"
+            },
+            {
+                "text": "Oh well thats nice",
+                "label": "ba"
+            },
+            {
+                "text": "Well he wou- - they they went out last year and almost everybody got it the limit --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- so theres everybody had deer coming out their ears So -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah we still got some from last year",
+                "label": "b"
+            },
+            {
+                "text": "Yeah they they gave us some deer and some of its still in the freezer and they - about eight months ago they gave it to us",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "We we either crock pot deer or well uh you know put it out on the grill so that uh --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- the bulk of the tallow will dribble off of it",
+                "label": "+"
+            },
+            {
+                "text": "Yeah We - - we usually have most of it made into uh hamburger meat though",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And cook you know spaghetti with it",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Chili",
+                "label": "sd"
+            },
+            {
+                "text": "That is good",
+                "label": "sv"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "Deer spaghetti is real good",
+                "label": "sv^r"
+            },
+            {
+                "text": "uh-huh",
+                "label": "aa"
+            },
+            {
+                "text": "Anyway uh no I think if I was going to have dinner party Id probably have uh sandwiches or something along those lines and --",
+                "label": "o"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- then uh uh you know just something light finger food sort of something or",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "Or maybe have something roasting out on the fire Oh well anyway",
+                "label": "+"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "Uh we dont do much in the way of entertaining Usually its one other couple come over for dinner",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Lets see what did we have the last time we had guests over Ah yeah we had uh turkey loaf",
+                "label": "t1"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Which uh kind of taco turkey loaf It was good Uh scalloped potatoes",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "No mashed potatoes",
+                "label": "ar"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Mashed potatoes with uh - cheese melted over the top of them",
+                "label": "sd"
+            },
+            {
+                "text": "Um slash error",
+                "label": "o@"
+            },
+            {
+                "text": "couple things like that It was pretty good little dinner",
+                "label": "sd"
+            },
+            {
+                "text": "Um sounds good slash error",
+                "label": "+@"
+            },
+            {
+                "text": "Yeah usually its - -",
+                "label": "aa"
+            },
+            {
+                "text": "This isnt good topic for me right now Im on diet",
+                "label": "sd"
+            },
+            {
+                "text": "Oh dont you hate that Ive got I got few pounds to lose myself Thats okay",
+                "label": "bh"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "Ive been fighting my weight since I was about ten years old",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I have too I was real skinny till I was ten",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah yeah I was left the fourth grade weighing about hundred pounds and started the seventh grade grade at two",
+                "label": "b"
+            }
+        ]
+    }
+]

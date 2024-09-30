@@ -1,0 +1,347 @@
+[
+    {
+        "conversation_id": "conv_3453",
+        "turns": [
+            {
+                "text": "Okay did they tell you our topic",
+                "label": "o"
+            },
+            {
+                "text": "Uh no somebody else answered the phone and put my number in",
+                "label": "nn"
+            },
+            {
+                "text": "Okay its uh -",
+                "label": "bk"
+            },
+            {
+                "text": "Uh what is the topic",
+                "label": "qw"
+            },
+            {
+                "text": "The topic is cars What kind of car will you buy next and what kind of decision youd do you think about getting you know pick that car out and uh and why",
+                "label": "sd"
+            },
+            {
+                "text": "Okay Uh my next car to buy probably would be Cadillac",
+                "label": "bk"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "Ive had uh - well Im on my third one And Im not real sure that Id be in the market for car for quite while",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Im the same way I was uh I had two Cadillacs I went to my first Lincoln this last time I travel and uh my grandfather worked for Ford Motor Company so he always said why dont you drive Ford or why dont you try Lincoln --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- so I finally tried one --",
+                "label": "sd"
+            },
+            {
+                "text": "My -",
+                "label": "%"
+            },
+            {
+                "text": "-- after fifty years and uh Ive had I guess I guess four Cadillacs and and one Suburban in my last five cars but I bought Lincoln and I like it",
+                "label": "+"
+            },
+            {
+                "text": "My dad has been uh Lincoln man for lot of years but Ive always been man Im in the auto parts business myself",
+                "label": "sd"
+            },
+            {
+                "text": "Oh are you",
+                "label": "bh"
+            },
+            {
+                "text": "And uh the last Cadillac I bought was an Allante",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I just love it to death Im not sure Id ever get rid of it",
+                "label": "sd"
+            },
+            {
+                "text": "Well Im Im traveling salesman I travel on the road so I like little heavier car but -",
+                "label": "sd"
+            },
+            {
+                "text": "I used to do that quite bit myself",
+                "label": "sd"
+            },
+            {
+                "text": "So thats why I choose you know to drive heavier car --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and more luxury car But I tell you what I will probably get Cadillac the next time quite honestly",
+                "label": "+"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah because I like the Lincoln but theres just something about that Cadillac that whether its product or whatever",
+                "label": "ny"
+            },
+            {
+                "text": "They seem to put",
+                "label": "sv"
+            },
+            {
+                "text": "Seems they handle better",
+                "label": "+"
+            },
+            {
+                "text": "They seem to be put together little bit better",
+                "label": "+"
+            },
+            {
+                "text": "I think so too",
+                "label": "aa"
+            },
+            {
+                "text": "And you know the buttons on the controls and things like that are little easier to get to than Ford products and I think thats one of the things that makes me shy away from uh imports is they put so much you know gadgetry on the dash and and the the buttons are so small --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah they really do",
+                "label": "aa"
+            },
+            {
+                "text": "-- to push and doesnt seem to do that I kind of like that feature so -",
+                "label": "+"
+            },
+            {
+                "text": "You know Im funny duck that came it comes to the simple things like front end alignments --",
+                "label": "h"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- I have never had to have front end alignment on Cadillac I dont know why why --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- whether I just seem to drive them better or what but Ive never had to have front end alignment on Cadillac They always appear to hold well",
+                "label": "+"
+            },
+            {
+                "text": "Ive uh I had an Eldorado was my first one was an eighty --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh I think at about sixty thousand miles I finally had it lined up",
+                "label": "sd"
+            },
+            {
+                "text": "Did you",
+                "label": "qy^d"
+            },
+            {
+                "text": "And I had them do all four wheels",
+                "label": "sd"
+            },
+            {
+                "text": "And the only thing I miss about Cadillac is - Fleetwood Brougham was my last car and I traded it in traded it in on my Lincoln and theyre just not as large as before I do miss that",
+                "label": "sd"
+            },
+            {
+                "text": "Thats true yeah But what is big today",
+                "label": "sv"
+            },
+            {
+                "text": "Well youre right",
+                "label": "aa"
+            },
+            {
+                "text": "You know Lincoln is still as big as it always has been but -",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah its big but the trunk space for me uh - what I usually do is I usually take the back seat out of my car and thats where I put my samples because trunks just arent big enough",
+                "label": "aa"
+            },
+            {
+                "text": "You know car I ran across recently that has tremendously large trunk is the Lincoln Continental",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah now I have the Town Car and its its deep trunk but not as broad as the uh the Cadillac",
+                "label": "b"
+            },
+            {
+                "text": "Well the Town Car I noticed uh - or with the with the Continental uh I was rented one one time --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh we could uh put golf clubs in them",
+                "label": "+"
+            },
+            {
+                "text": "Oh good",
+                "label": "ba"
+            },
+            {
+                "text": "You know straight across I mean -",
+                "label": "sd"
+            },
+            {
+                "text": "They went all the way down",
+                "label": "qy^d"
+            },
+            {
+                "text": "Front to back",
+                "label": "na"
+            },
+            {
+                "text": "Well thats good",
+                "label": "ba"
+            },
+            {
+                "text": "Not going from side to side",
+                "label": "sd"
+            },
+            {
+                "text": "Thats good",
+                "label": "ba"
+            },
+            {
+                "text": "And we got three full sets in there and still had room for luggage",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I sell sporting goods uh hunting related items I sell guns gun cases --",
+                "label": "b"
+            },
+            {
+                "text": "I see",
+                "label": "ba"
+            },
+            {
+                "text": "-- and things like that --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and I need to you know - thats about the same size as golf club",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "They need to samples need to stretch out and gun cases and things like that and -",
+                "label": "sd"
+            },
+            {
+                "text": "I dont know if youve ever looked at Continental",
+                "label": "qy^d"
+            },
+            {
+                "text": "Nope",
+                "label": "nn"
+            },
+            {
+                "text": "Uh its not as peppy as as Town Car --",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- because its Six but it uh - I too- I drove it from here to Memphis and I really enjoyed driving that car If I was going to buy Ford product thats what I would buy",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I drove mine couple weeks ago to our one of our big national sales meetings in Nashville I usually fly I drove it with another one of my guy that worked for me We drove it ten hours to Nashville and it it handled real well but my main thing is space so if Continental - I might consider it the next time Continental has --",
+                "label": "b"
+            },
+            {
+                "text": "You might take look at them",
+                "label": "ad"
+            },
+            {
+                "text": "-- more trunk space",
+                "label": "+"
+            },
+            {
+                "text": "They they had lot more trunk space As matter of fact they had more trunk space than my uh Sedan De Ville had",
+                "label": "sv"
+            },
+            {
+                "text": "You always have leather interiors on your Cadillacs",
+                "label": "qy"
+            },
+            {
+                "text": "Uh all three of mine have had leather interiors yeah",
+                "label": "na"
+            },
+            {
+                "text": "Yeah I like leather interiors also",
+                "label": "b"
+            },
+            {
+                "text": "Uh I had eighty Eldorado which was leather and uh then my eighty-six was touring sedan",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh it had the gray leather package in it and my Allante has uh --",
+                "label": "sd"
+            },
+            {
+                "text": "Thats nice car",
+                "label": "sv"
+            },
+            {
+                "text": "-- I guess saddle saddle colored type thing",
+                "label": "+"
+            },
+            {
+                "text": "You bet and Ill I will say one thing about Cadillacs versus -",
+                "label": "ba"
+            }
+        ]
+    }
+]

@@ -1,0 +1,579 @@
+[
+    {
+        "conversation_id": "conv_2884",
+        "turns": [
+            {
+                "text": "Go ahead So Ken how do you do your family budget",
+                "label": "ad"
+            },
+            {
+                "text": "Well we dont actually have budget budget per se What we do is uh maintain normal checkbook You know like",
+                "label": "sd"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "everyone in the world does I guess and occasionally it actually balances And um we also we um we have Air and Visa card",
+                "label": "+"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "Every every dollar we every dollar we charge is mile for our frequent flier mileage",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "Its real good deal actually if you charge lot So what we what my wife and I have taken to doing is charging everything in sight Anything we buy we charge including groceries and so forth",
+                "label": "sd"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "So what well do is -",
+                "label": "sd"
+            },
+            {
+                "text": "Well then you just pay it off at the end of the month",
+                "label": "qy^2"
+            },
+            {
+                "text": "Right We actually maintain - we have we we we we have checking account that we treat like savings - scratch that we have savings account that we treat like checking account",
+                "label": "na"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "And so what we do is we anytime we do or make or charge something we write it out as if we wrote check",
+                "label": "sd"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "And then at the end of the month all the money to covered already So we just pay it off without having to worry about any interest or anything",
+                "label": "sd"
+            },
+            {
+                "text": "Oh Thats real good idea",
+                "label": "b"
+            },
+            {
+                "text": "It keeps us hopping",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah See now Id never get my wife to be able to follow that Before we got married I had money in the bank I owned my own home I put in so much money each you know month towards long term savings you know like in uh mutual funds and things you know",
+                "label": "b"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "and uh after I got married - no it just didnt work anymore She spends lot She likes to spend on anything and everything With body lotion everything So we really havent we dont have good organized system yet Maybe after awhile Ill rub off on her or something I dont think -",
+                "label": "sd"
+            },
+            {
+                "text": "Well you know you know you know whats always good is sort of for savings where they just take money out of youre pay",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "We did that for awhile where um - we actually still do it with with my wifes salary",
+                "label": "sd"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b@"
+            },
+            {
+                "text": "where we put it we have separate third account even savings account in in an entirely different bank --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "+@"
+            },
+            {
+                "text": "-- where what we do is take money out of her paycheck every week Im graduate student",
+                "label": "+"
+            },
+            {
+                "text": "Yes So am I",
+                "label": "b"
+            },
+            {
+                "text": "Oh really In what field",
+                "label": "b"
+            },
+            {
+                "text": "Well uh in information systems Im voice researcher",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay Im in uh psycholinguistics actually",
+                "label": "bk"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "Um but my wife has real job",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah So does mine",
+                "label": "b"
+            },
+            {
+                "text": "Yeah What we do is we take money out of her out of her paycheck each week",
+                "label": "b"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "And put it it goes directly to another account that we dont at an entirely different bank that we dont have access to so easily and it goes there and it stays there and it builds up until we need it for something",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah See I think we might have to do that Of course she looks at what she brings home each week Its going to be hard for her to uh not have her own money Because like now you know I put money in the bank and saved to go back to graduate school for two years And now she wants to go back to school but she saved enough maybe to get her through August",
+                "label": "b"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "You know and thats it And I keep saying now Laura youre going to have to save little money I dont know if my paltry graduate student fees are going to get us through It doesnt work Ken",
+                "label": "sd"
+            },
+            {
+                "text": "Gee",
+                "label": "b"
+            },
+            {
+                "text": "My mother always said now dont argue about money so we dont",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "But you know there goes my savings",
+                "label": "sd"
+            },
+            {
+                "text": "God",
+                "label": "ba"
+            },
+            {
+                "text": "But you know its one of those things",
+                "label": "sd"
+            },
+            {
+                "text": "I got lucky My wife apparently is not - she likes to spend but shes pretty good about things",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Now see my wife will do things like make clothes",
+                "label": "b"
+            },
+            {
+                "text": "Wow",
+                "label": "ba"
+            },
+            {
+                "text": "One of our one of our big investments that you know I was wholeheartedly in favor of was to buy sewing machine Because she makes clothes And you know descent sewing machine will really help her out and shes already made you know presents and gifts and things for",
+                "label": "sd"
+            },
+            {
+                "text": "That was great",
+                "label": "ba@"
+            },
+            {
+                "text": "shorts for me and things for the summer You know so I guess I cant you know weve probably almost paid off the sewing with uh",
+                "label": "+"
+            },
+            {
+                "text": "With the money savings there",
+                "label": "+@"
+            },
+            {
+                "text": "yeah with the savings from that So I cant complain too much you know shes shes good about that And also we we dine at home lot You know she likes to cook So that saves us from restaurants or whatever but",
+                "label": "+"
+            },
+            {
+                "text": "Thats good",
+                "label": "+@"
+            },
+            {
+                "text": "but she does have things where she likes to pamper herself that just to me seem like money dumped down drain",
+                "label": "+"
+            },
+            {
+                "text": "Right Well",
+                "label": "b"
+            },
+            {
+                "text": "You know",
+                "label": "+"
+            },
+            {
+                "text": "I guess we all have those feelings",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I uh I uh I I go to uh - I pay what I think is lot of money to go to karate class you know",
+                "label": "%"
+            },
+            {
+                "text": "Huh-uh You know but you need hobby",
+                "label": "b"
+            },
+            {
+                "text": "Right Exactly but that to her is sort of like waste",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Thats true",
+                "label": "b"
+            },
+            {
+                "text": "But she does her nails So -",
+                "label": "sd"
+            },
+            {
+                "text": "I know and those nails are so expensive Oh gosh I was so excited when she decided she wasnt going to do her nails anymore I guess she just stopped polishing them because they were yellow",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And then she waits for them to get their color back And then shell polish them again I dont know whatever So she stopped for awhile Boy what difference They buy nail polish every two weeks its uh - my gosh",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And lotion oh my goodness body lotion",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "we spend more on soft on on body lotions with sesame oil and all these different things than uh - she must spend more on one application of body lotion than I do on soap for an entire year",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Good old Ivory",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Its funny",
+                "label": "b"
+            },
+            {
+                "text": "Um well its for your benefit though right",
+                "label": "qy^g"
+            },
+            {
+                "text": "Oh I think so shes always soft Thats true",
+                "label": "na"
+            },
+            {
+                "text": "so thats helpful",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah But I think um - I dont know maybe after were not in school anymore well be much better at saving I think uh",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I think thats uh -",
+                "label": "+"
+            },
+            {
+                "text": "Now do you still own house You said you owned one",
+                "label": "qy"
+            },
+            {
+                "text": "I sold my house And thats whats really paying for my time unemployed or whatever",
+                "label": "ng"
+            },
+            {
+                "text": "Thats great",
+                "label": "ba"
+            },
+            {
+                "text": "Because the graduate assistantship really doesnt cover the ten thousand dollars in tuition really doesnt cover living expenses Um",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "we actually live in two different places right now because she has her job So that makes it hard with uh you know - were paying double rent double utilities",
+                "label": "sd"
+            },
+            {
+                "text": "Oh wow",
+                "label": "ba"
+            },
+            {
+                "text": "and that makes it sort of expensive but see I live within my I live within my me- very menial income and she doesnt She doesnt live within her professional income you know So I just get -",
+                "label": "sd"
+            },
+            {
+                "text": "thats the killer two apartments",
+                "label": "sv"
+            },
+            {
+                "text": "yeah and then even if we want to see each other on weekends its twenty-five thirty dollars in gas every weekend and that really adds up too you know so it gets tough",
+                "label": "aa"
+            },
+            {
+                "text": "Wow",
+                "label": "ba"
+            },
+            {
+                "text": "I think well do much better when were living together and were only paying one rent and one telephone You know it will cut our telephone bills you know by five by four-fifths you know",
+                "label": "sd"
+            },
+            {
+                "text": "Eventually right I mean youre not going to - Right",
+                "label": "ba"
+            },
+            {
+                "text": "if shes here so its actually tough this year but it will be better in June She will move in with me in June so hopefully our budget will in increase then",
+                "label": "+"
+            },
+            {
+                "text": "Have you been married for long",
+                "label": "qy"
+            },
+            {
+                "text": "No Just since December",
+                "label": "nn"
+            },
+            {
+                "text": "Oh wow So you guys really are newlyweds",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah Were very newlyweds but thats the - we were together probably for um uh very close for about six months before we got married So you know we lived within - though I had my own house and things you know we still uh were still pretty close I knew her spending habits and theyre about the same",
+                "label": "b"
+            },
+            {
+                "text": "Oh wow",
+                "label": "ba"
+            },
+            {
+                "text": "they havent changed at all you know My mother always said to me Tom now the best thing to do is be like youre father Never say word when youre wife spends money And I was like well thats true my dad never said word you know",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "I actually encourage my wife to spend money sometimes Because I think you know um I sort of feel guilty you know given that she makes twice as much as I do",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So I say if she wants to go out and buy something I never argue with her because shes real good at you know sort of -",
+                "label": "sd"
+            },
+            {
+                "text": "I dont argue with her but I just get all - it must show in my face Must be like must be cringes or something you know",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "especially yesterday or this past weekend We met half way between at her parents house and um she had on new pair of jeans and shed gotten all new underwear and I was like Laura How did you get all this stuff Well I just got paid And and I was like oh",
+                "label": "+"
+            },
+            {
+                "text": "Had some money in her pocket yeah",
+                "label": "ba"
+            },
+            {
+                "text": "It was there It was burning It had to be spent You know and Im like - and she said everything was on sale Oh oh thats good at least it was on sale Thats good honey Im glad you bought it on sale What else can you say",
+                "label": "sd"
+            },
+            {
+                "text": "Thats right I do recommend the for savings bit They uh",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah I think -",
+                "label": "b"
+            },
+            {
+                "text": "they take it out or your paycheck before you see it because it doesnt hurt",
+                "label": "+"
+            },
+            {
+                "text": "Yeah You dont notice it I think thats probably really good idea",
+                "label": "b"
+            },
+            {
+                "text": "You know you dont even think about it if its gone",
+                "label": "sv"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "Yeah so uh until you really need it - and then you realize youve got couple of thousand dollars built up someplace else",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Yeah see I was - when I had when I was living alone and I had my own house and things uh I put one I was paid twice month one paycheck went into savings and one went into the checking account that paid the mortgage",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "and the food bills and it - and I was even able to you know to accumulate some savings in sense in the checking account because Im pretty thrifty and you know But my wife likes to spend She enjoys - so thats fine But - for savings Ill have to look into that",
+                "label": "+"
+            },
+            {
+                "text": "Yeah thats thats been our godsend you know",
+                "label": "b"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "Weve had some sort of major emergencies come up you know where - we also own our own house",
+                "label": "sd"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "um we had an ice storm up here",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "recently where it was pathe- I mean it was horrible I mean half the city owned trees One-third of all vegetation in this county is just wiped out",
+                "label": "+"
+            },
+            {
+                "text": "Oh really because of the heavy ice",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "It broke the limbs",
+                "label": "sd"
+            },
+            {
+                "text": "Exactly",
+                "label": "aa"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "We had to our backyard tremendous willow tree that just fortunately - but it cost us you know couple of hundred dollars just to bring the tree down",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "I mean just to take off what was broken Plus we went with friend and they said you know - and then the whole ice storm cost us quite bit of money even though insurance picked up some of it",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "still not all of it They dont get you know -",
+                "label": "+"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "and that - plus - and then we had car expense like that same week One of the cars died you know All of this adds up and that for savings really comes in handy",
+                "label": "%"
+            },
+            {
+                "text": "Yeah Yeah I can see that I can that - I keep trying to say to her Laura dont spend so much What happens if something happens to car you know",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Oh well nothing will happen Oh",
+                "label": "sd"
+            }
+        ]
+    }
+]

@@ -1,0 +1,779 @@
+[
+    {
+        "conversation_id": "conv_2827",
+        "turns": [
+            {
+                "text": "Okay um do you like to cook",
+                "label": "qy"
+            },
+            {
+                "text": "Well I love to cook as matter of fact Im making dinner right now",
+                "label": "na"
+            },
+            {
+                "text": "Oh really what are you making",
+                "label": "b"
+            },
+            {
+                "text": "Um I um Im making some uh - I have little turkey left from passover whi- whi- which was in April",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I had frozen it and Im defrosting that and making some dressing and gravy and making corn and wheat stuff that you can buy at store which is like uh rice pilaf",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "but we - with with with wheat kernel that -",
+                "label": "%"
+            },
+            {
+                "text": "And do you cook I mean are you single do you cook every night for yourself",
+                "label": "qy"
+            },
+            {
+                "text": "No um Im married and actually the - my wife is vegetarian",
+                "label": "nn"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "so this isnt for her this is for our friends that came over and helped",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "helped me do some stuff so -",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "stuff so -",
+                "label": "sd^r"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "he and I - and and shes having - I I do cook um virtually - I cook most of the time because I -",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh well like if you were having dinner party what would you cook variety of things I mean you know vegetarian and nonvegetarian",
+                "label": "b"
+            },
+            {
+                "text": "Yeah we we consistently - if we cook - if if we have dinner party we usually make it vegetarian just to make life easier",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So well make something you know uh some sort of pasta or something",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "you know homemade pasta or lasagna or something",
+                "label": "+"
+            },
+            {
+                "text": "Yeah thats something thats you know really easy In fact Im having dinner party next Saturday and that is what Im having is pasta",
+                "label": "b"
+            },
+            {
+                "text": "Oh good idea",
+                "label": "ba"
+            },
+            {
+                "text": "Well for",
+                "label": "sd"
+            },
+            {
+                "text": "What -",
+                "label": "qw"
+            },
+            {
+                "text": "for Christmas I got um pasta machine",
+                "label": "+"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "and all all my friends are really anxious you know to have the homemade noodles so um -",
+                "label": "sd"
+            },
+            {
+                "text": "Electric or uh -",
+                "label": "qr"
+            },
+            {
+                "text": "No its the hand kind",
+                "label": "nn"
+            },
+            {
+                "text": "Best",
+                "label": "sv"
+            },
+            {
+                "text": "old fashion kind",
+                "label": "+"
+            },
+            {
+                "text": "kind That that that thats - we we bought one in Italy",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Thats the best kind to have",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah yeah I like you know kind of still having in put that not everythings being done for me",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know",
+                "label": "+@"
+            },
+            {
+                "text": "thats real good",
+                "label": "ba"
+            },
+            {
+                "text": "But um yeah so thats what Im going to be cooking you know",
+                "label": "b"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "I thought I would - um pasta salad first and um then just something for desert you know bread and wine and cheese stuff like that",
+                "label": "sd"
+            },
+            {
+                "text": "That would be great Have you made pasta before",
+                "label": "ba"
+            },
+            {
+                "text": "uh-huh Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Um so you know so you know that its lot of fun actually",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "I -",
+                "label": "%"
+            },
+            {
+                "text": "lot of people think though that Ive talked to about it think that its you know lot of hard work and I said heck its kind of easy",
+                "label": "sd"
+            },
+            {
+                "text": "It actually is if if if you have food processor I dont know if you have food processor or not Actually",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah I do",
+                "label": "ny"
+            },
+            {
+                "text": "it it turns out that i- i- if if you really want to be nice and easy about it you can make the dough in the food processor really simply",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And then um and with that it becomes really easy to make colorful pasta",
+                "label": "sd@"
+            },
+            {
+                "text": "Right right",
+                "label": "b"
+            },
+            {
+                "text": "By throwing in some spinach or some tomato or something and mixing it up it its",
+                "label": "+@"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "snap from there And then",
+                "label": "+@"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I made - I making yucky -",
+                "label": "+@"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Its also - people think its real hard it just time consuming to get all of the little things right",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Otherwise its real -",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "its good stuff What other kinds of uh dinner parties do you serve",
+                "label": "sd"
+            },
+            {
+                "text": "Um well I dont entertain that often uh when I do though I I have some friends that I always like to experiment on But you know um I see recipe and think oh wow Id really like to try this cause Im single and I live by myself",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "so its not necessarily something that I would cook just for myself",
+                "label": "sd"
+            },
+            {
+                "text": "Right you didnt want to cook",
+                "label": "b"
+            },
+            {
+                "text": "So Ill say okay you guys are experimental I want say how this is going to turn out say see but here we go and usually Im Im pretty good about it",
+                "label": "sd@"
+            },
+            {
+                "text": "Thats great",
+                "label": "ba"
+            },
+            {
+                "text": "Um I have this really good recipe for this um pork chop and apple casserole kind of thing and um you put stuffing and put poached apples and everything and my girlfriend and her husband loved it",
+                "label": "sd"
+            },
+            {
+                "text": "Uh",
+                "label": "b@"
+            },
+            {
+                "text": "in fact she passed it on to her parent and so its like it really made the rounds and I was quite impressed with myself if I should say so",
+                "label": "+"
+            },
+            {
+                "text": "Yeah thats how these things sort of make it for one person as an experiment and",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I usually find it when I make up for the first time I usually doctor it just",
+                "label": "+@"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "little bit and little here and there and",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "it works real well",
+                "label": "+@"
+            },
+            {
+                "text": "Well Im the kind of cook that I dont normally measure things I just kind of throw them in and you know I dont to the point of you know measuring down to the exact amount that they say",
+                "label": "sd"
+            },
+            {
+                "text": "That means youre real cook",
+                "label": "sv"
+            },
+            {
+                "text": "Oh is that what it means",
+                "label": "bd"
+            },
+            {
+                "text": "If youve ever watched the ones on television like uh Jeff Schmidt the super gourmet",
+                "label": "sd@"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "He he just thro- takes stuff he says yeah about an ounce of this or something Its real good",
+                "label": "+@"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Yeah we have we do uh uh middle eastern dinner quite bit actually",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "or uh we have people other that have never experienced it before and havent had much middle eastern food other over",
+                "label": "sd@"
+            },
+            {
+                "text": "No I havent",
+                "label": "nn"
+            },
+            {
+                "text": "We make uh cause were my wife is Syrian",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And um her families always have this food she grew up in and Ive made some of it before as well",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "so we make uh four or five middle eastern dishes that are just all real simple",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "We put them out for people an- and thats always real big kick for people who want you know whove never tried it before",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Thats thats thats thats fun idea I mean if you ever uh want something different to try",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I would try that",
+                "label": "cc"
+            },
+            {
+                "text": "Um yeah Ive been wanting to take an um oriental cooking class and I just havent gotten around to it yet",
+                "label": "b"
+            },
+            {
+                "text": "Oh do you have wok though",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I stir fry things on occasion but Id like to know more about you know more elaborate things like guess -",
+                "label": "sd"
+            },
+            {
+                "text": "I think its Gods gift to cooking Cause its just quick",
+                "label": "sv@"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "its easy um and the food just comes out - you know if you do it right I think it comes out the food comes out very tasty not very mushy",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "you know and and it doesnt taste like million calories of oil so",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "We li- live in our wok",
+                "label": "+@"
+            },
+            {
+                "text": "uh-huh really",
+                "label": "b"
+            },
+            {
+                "text": "Yeah we we we like to eat even when we eat out and stuff we eat lot of Chinese food",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "or Japanese food or you know",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Korean",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and that seems to - so wok food seems to be our thing",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So anything else you cook",
+                "label": "qo"
+            },
+            {
+                "text": "Um I just kind of you know cook here cook there I dont have any one specialty I mean Im always willing to try anything usually",
+                "label": "sd"
+            },
+            {
+                "text": "Well thats good thats always the way to do it I think its uh -",
+                "label": "ba"
+            },
+            {
+                "text": "And I I especially like baking and making deserts Ive taken cake decorating class and -",
+                "label": "sd"
+            },
+            {
+                "text": "Oh the Wilson course",
+                "label": "qy"
+            },
+            {
+                "text": "No no actually it was private course",
+                "label": "nn"
+            },
+            {
+                "text": "I like it",
+                "label": "sd"
+            },
+            {
+                "text": "through like com- -",
+                "label": "+"
+            },
+            {
+                "text": "Thats great I havent the Wilson class -",
+                "label": "ba"
+            },
+            {
+                "text": "It is its its neat but it takes long time you know I mean like Im elected to always bring cakes into work Like for peoples birthdays and that and its like you know you bake the cakes and then I guess just because I dont have the expertise to just hurry up and do it",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "like you know some professional would I try to I go real slow and you know its little time consuming",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "but its really worth your effort once you see how you do",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah oh yeah we have um - my brother can do it",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "hes hes uh got degree in business management so he learned to uh how to do this",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Can you hold on one second",
+                "label": "ad"
+            },
+            {
+                "text": "Sure",
+                "label": "aa"
+            },
+            {
+                "text": "Thank you Sorry about that",
+                "label": "ft"
+            },
+            {
+                "text": "Thats okay",
+                "label": "bd"
+            },
+            {
+                "text": "Some one kept beeping in our calling waiting",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "so",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Yeah he he do- does that lot",
+                "label": "b"
+            },
+            {
+                "text": "So",
+                "label": "%"
+            },
+            {
+                "text": "so you know he cooks lot but",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "you know he bakes lot whenever he - whe- when my wife and I got married the night before we had party",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Or two nights before and he baked us he made real big cake himself",
+                "label": "+@"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "so New Years our friend made baby",
+                "label": "sd@"
+            },
+            {
+                "text": "Oh my",
+                "label": "ba@"
+            },
+            {
+                "text": "Cake like baby New York",
+                "label": "+@"
+            },
+            {
+                "text": "uh-huh",
+                "label": "+@"
+            },
+            {
+                "text": "It was amazing I never",
+                "label": "ba"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "could do anything with cakes so I get the mold I put I put it on you know the frosting always melts and its its just horrible",
+                "label": "+"
+            },
+            {
+                "text": "Well you learn helpful hints in the classes at least",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah Im -",
+                "label": "b"
+            },
+            {
+                "text": "You know the instructor told us certain things about well dont follow whats really necessarily on the box you know if youre making just cake from box you know do this cause you know make it variety",
+                "label": "sd"
+            },
+            {
+                "text": "Oh that that you mean about the",
+                "label": "bf"
+            },
+            {
+                "text": "You know some different hints",
+                "label": "sd"
+            },
+            {
+                "text": "mix itself",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "+"
+            },
+            {
+                "text": "Well that helps",
+                "label": "ba"
+            },
+            {
+                "text": "Some different hints you know and the different thi- the different kinds of frostings you can make - you know and I have book an it - and you know all of the different you know decorating tips an things like that",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So",
+                "label": "%"
+            },
+            {
+                "text": "Well most frostings are sort of butter cream to arent they to too",
+                "label": "qy^g*"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Those are those kill me its like its like Im eating sugar but theyre good sugar",
+                "label": "sd"
+            },
+            {
+                "text": "Well yeah",
+                "label": "b"
+            },
+            {
+                "text": "I think thats part of the problem yeah",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah so thats about it",
+                "label": "b"
+            },
+            {
+                "text": "Yeah I guess so",
+                "label": "fc"
+            },
+            {
+                "text": "Okay well",
+                "label": "fc"
+            },
+            {
+                "text": "It was it was pleasure chatting with you",
+                "label": "fc"
+            },
+            {
+                "text": "It was nice talking to you",
+                "label": "fc^m"
+            },
+            {
+                "text": "Yes well have good time cooking for your dinner party next week",
+                "label": "fc"
+            },
+            {
+                "text": "Thank you",
+                "label": "fc"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc^m"
+            }
+        ]
+    }
+]

@@ -1,0 +1,295 @@
+[
+    {
+        "conversation_id": "conv_3506",
+        "turns": [
+            {
+                "text": "Now is it Stacy",
+                "label": "qy"
+            },
+            {
+                "text": "Angie",
+                "label": "sd"
+            },
+            {
+                "text": "Angie Im sorry",
+                "label": "b^m"
+            },
+            {
+                "text": "Okay",
+                "label": "bd"
+            },
+            {
+                "text": "Well now so if you were going to have dinner party what would you make",
+                "label": "qw"
+            },
+            {
+                "text": "Um lets see uh I like seafood Uh lets see uh shrimp steamed she- uh shellfish with maybe herbs Uh spicy lobster with lem- linguini",
+                "label": "^h"
+            },
+            {
+                "text": "That sounds good",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Now what is uh what is uh the steamed shellfish you said",
+                "label": "br"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "And what would that be like clam or uh -",
+                "label": "qr"
+            },
+            {
+                "text": "Right",
+                "label": "na"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "Yeah Uh I think hors doeuvres are good too Uh and that way you can have variety Uh",
+                "label": "b"
+            },
+            {
+                "text": "So if you have dinner party and youre going to serve uh seafood for supper what type of uh hors doeuvres would you serve prior to the meal",
+                "label": "qw"
+            },
+            {
+                "text": "Uh",
+                "label": "%"
+            },
+            {
+                "text": "Like cheeses or fruits or vegetables or -",
+                "label": "qrr"
+            },
+            {
+                "text": "Yeah fresh vegetables would be good or uh just -",
+                "label": "b"
+            },
+            {
+                "text": "Probably not nachos and dip huh",
+                "label": "qy^g"
+            },
+            {
+                "text": "No",
+                "label": "nn"
+            },
+            {
+                "text": "And would you uh would it be appropriate to uh drink with the uh prior when you have the hors doeuvres",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Okay And then when you serve the meal what type of wine would you have with uh with the with seafood",
+                "label": "bk"
+            },
+            {
+                "text": "Oh all these hard questions Uh what white wine",
+                "label": "^h"
+            },
+            {
+                "text": "That would be my guess",
+                "label": "na"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And",
+                "label": "sd"
+            },
+            {
+                "text": "Im not really drinker so Im not I dont know lot about that",
+                "label": "sd"
+            },
+            {
+                "text": "And then uh uh dessert Something sweet",
+                "label": "+"
+            },
+            {
+                "text": "Oh goodness Uh chocolate something chocolate Uh",
+                "label": "ba"
+            },
+            {
+                "text": "You must like chocolate",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "Well lets see Usually when we have dinner party I always I like to grill",
+                "label": "^h"
+            },
+            {
+                "text": "Oh you do",
+                "label": "qy^d"
+            },
+            {
+                "text": "So we might have some cocktails ahead of time and maybe some uh some dip uh some cheese One of our favorites is uh to take some lets see Philadelphia cream cheese I think is that what comes in --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- those little blocks",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And pour cocktail sauce over the top of it and then get these little canned shrimp and uh wash them and cool them and then dump them in the uh sauce and then take crackers and then you just dip the cracker in the sauce with the clams and the cream cheese and you have real nice dip that goes good with cocktail And then I like to barbecue like steaks or pork chops And then we have uh - oh lot of times well have baked potatoes with them --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and salad and then uh I dont know what we usually have for dessert Cake sometimes but uh thats what we would do for dinner party I guess",
+                "label": "+"
+            },
+            {
+                "text": "That sounds good too",
+                "label": "sv"
+            },
+            {
+                "text": "But thats I guess when you talk about dinner party thats probably not uh thats more for like when friends come --",
+                "label": "sv"
+            },
+            {
+                "text": "Traditional --",
+                "label": "sd"
+            },
+            {
+                "text": "-- over",
+                "label": "+"
+            },
+            {
+                "text": "-- right",
+                "label": "^g"
+            },
+            {
+                "text": "Traditional yeah",
+                "label": "sd^r"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I wouldnt be the big uh snotty kind",
+                "label": "sv"
+            },
+            {
+                "text": "I just started I just really started uh uh learning about that and I bought Martha Stewart I dont know if youve heard of her",
+                "label": "sd"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "nn"
+            },
+            {
+                "text": "Her cookbook and she talks about catering and uh you know goes into goes into all that and the different types of uh uh different types of parties you know different types of foods",
+                "label": "sd"
+            },
+            {
+                "text": "Oh well do you work in uh in setting where you uh are in the food business",
+                "label": "qy"
+            },
+            {
+                "text": "Um my father owns restaurant",
+                "label": "sd"
+            },
+            {
+                "text": "Oh in uh",
+                "label": "qy"
+            },
+            {
+                "text": "Its its just uh - cafe so its not really anything you know that I want to - its not the same",
+                "label": "sd"
+            },
+            {
+                "text": "Is it in Dallas",
+                "label": "+"
+            },
+            {
+                "text": "Uh its in Lewisville",
+                "label": "sd"
+            },
+            {
+                "text": "Okay all right So you graduated from which high school",
+                "label": "bk"
+            },
+            {
+                "text": "Trinity",
+                "label": "sd"
+            },
+            {
+                "text": "Trinity okay And thats public school or private",
+                "label": "b^m"
+            },
+            {
+                "text": "Thats public",
+                "label": "sd"
+            },
+            {
+                "text": "Huh okay I have to get to know this area little better I guess Uh well is your fathers cafe uh one that you could cater out of",
+                "label": "bk"
+            },
+            {
+                "text": "No uh-huh listen mistranscription of uh-uh its not",
+                "label": "nn"
+            },
+            {
+                "text": "Um and hes not interested in letting his twenty-one year old daughter experiment with it probably",
+                "label": "qy^d"
+            },
+            {
+                "text": "Uh",
+                "label": "%"
+            },
+            {
+                "text": "Well lets see what else for catering Uh",
+                "label": "^h"
+            },
+            {
+                "text": "Lets see what about Hawaiian luau",
+                "label": "t1"
+            },
+            {
+                "text": "Oh that would be good",
+                "label": "sv"
+            },
+            {
+                "text": "Could have uh uh fruits and and pineapple uh lets see uh",
+                "label": "sd"
+            },
+            {
+                "text": "And you could actually go with uh chicken if you wanted to",
+                "label": "sv"
+            },
+            {
+                "text": "I think I think decorating your food is you know really -",
+                "label": "sv"
+            }
+        ]
+    }
+]

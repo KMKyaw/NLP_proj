@@ -1,0 +1,323 @@
+[
+    {
+        "conversation_id": "conv_3628",
+        "turns": [
+            {
+                "text": "What vacations have you been on that you like",
+                "label": "qo"
+            },
+            {
+                "text": "Um well I really enjoyed um - I went to Mackinaw Island --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- few years back Its in the middle of Michigan and --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- so that was nice I like um driving to different cities because of the scenery so that was nice",
+                "label": "+"
+            },
+            {
+                "text": "So you - most of yours is kind of driving and -",
+                "label": "%"
+            },
+            {
+                "text": "Yeah weve Ive been all over the states except for pretty much east Um its very pretty driving like um up north in Wisconsin too",
+                "label": "aa"
+            },
+            {
+                "text": "Um how how far do you usually end end up driving just",
+                "label": "qw"
+            },
+            {
+                "text": "Um the furthest I drove was probably Texas and then Ive taken train before to California",
+                "label": "sd"
+            },
+            {
+                "text": "Now where youre from where slash error",
+                "label": "qw"
+            },
+            {
+                "text": "Kenosha Wisconsin",
+                "label": "sd"
+            },
+            {
+                "text": "Oh Wisconsin",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "aa"
+            },
+            {
+                "text": "Okay Yeah I have brother in Minnesota that used to live in Wisconsin",
+                "label": "bk"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "So yeah thats quite ways",
+                "label": "b"
+            },
+            {
+                "text": "Yeah it is",
+                "label": "aa"
+            },
+            {
+                "text": "Ive uh - we went to California this last year --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh liked it but it was too crowded --",
+                "label": "+"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "-- Walt Disney World and other places its just the wrong time of the year to go",
+                "label": "sv"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "And uh course uh you get in any of those tourist traps --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and everythings uh outrageously priced and uh kind of - you wonder if theyre its really worth it to pay uh thirty-five dollars or forty dollars just to get in",
+                "label": "+"
+            },
+            {
+                "text": "Yeah --",
+                "label": "aa"
+            },
+            {
+                "text": "But",
+                "label": "sd"
+            },
+            {
+                "text": "-- thats true",
+                "label": "aa"
+            },
+            {
+                "text": "Theres lots of fun places to see Um I think the scenery kind of - thats something do to you like to get up in mountains two utts or -",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Do you have any mountains nearby",
+                "label": "qy"
+            },
+            {
+                "text": "No",
+                "label": "nn"
+            },
+            {
+                "text": "Pretty flat isnt it",
+                "label": "qy^g"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Um I think uh the biggest limitation is lot just time and money isnt it",
+                "label": "sv"
+            },
+            {
+                "text": "Oh yeah Yeah",
+                "label": "b"
+            },
+            {
+                "text": "What vacation have you enjoyed the most",
+                "label": "qw"
+            },
+            {
+                "text": "Uh um Probably uh when we go to Wisconsin Um its pretty fun Theres lot to do up there Its pretty busy though you have to like crowds you know",
+                "label": "sd"
+            },
+            {
+                "text": "What is it",
+                "label": "qw"
+            },
+            {
+                "text": "Um oh its like huge amusement park --",
+                "label": "sd"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "-- um they have water slides --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and its just big big tourist attraction The downtown is all like little shops and candy shops and its its really neat I dont think uh hardly anybody lives there because its just kind of like you know tourists",
+                "label": "sd"
+            },
+            {
+                "text": "Probably city in itself kind of like huh",
+                "label": "qy^g"
+            },
+            {
+                "text": "Yeah its mostly summer summer place",
+                "label": "ny"
+            },
+            {
+                "text": "Summer place How far away is it",
+                "label": "b^m"
+            },
+            {
+                "text": "Um from Kenosha its about three hours",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "Its about hour away from Madison",
+                "label": "sd"
+            },
+            {
+                "text": "Okay sure",
+                "label": "bk"
+            },
+            {
+                "text": "Yeah so --",
+                "label": "b"
+            },
+            {
+                "text": "Sure",
+                "label": "ba"
+            },
+            {
+                "text": "-- thats nice Its its pretty ride up there too I really like the city Wausau in Wisconsin Its really pretty Its nice out there Oh I like all the nature things there are to look at you know",
+                "label": "+"
+            },
+            {
+                "text": "Right well and you can probably - youre in climate thats kind of humid so you have probably lot of green and lot of real pretty things Our our climates real dry --",
+                "label": "b"
+            },
+            {
+                "text": "Where is that",
+                "label": "qw"
+            },
+            {
+                "text": "-- and you have to kind of get up into the mountains to get much of the greenery Most of most most of the lands pretty brown You dont have as much of the greenery like you have",
+                "label": "sd"
+            },
+            {
+                "text": "Oh wheres that",
+                "label": "b"
+            },
+            {
+                "text": "Uh Idaho is where I live and uh - Yes",
+                "label": "sd"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "Its by uh - I have little baby thinks he needs to cry now that Im on the phone Its by um Boise You ever heard of Boise",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah yeah",
+                "label": "ny"
+            },
+            {
+                "text": "And uh its fine its nice Its uh lot different kind of I lived in Indiana for while and its real different uh land and scenery than there Its kind of fun to have little bit diversity and --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- things like that I think uh theres lot of places uh oh down even in southern Utah the canyons canyon lands and Bryce Canyon and oh boy theyre gorgeous --",
+                "label": "+"
+            },
+            {
+                "text": "--",
+                "label": "x"
+            },
+            {
+                "text": "--",
+                "label": "x"
+            },
+            {
+                "text": "-- yeah",
+                "label": "b"
+            },
+            {
+                "text": "Those are kind of fun places We usually go over to Bear Lake in the summer which is kind of on the border of Idaho and Utah and the lake goes on forever and thats real pretty over there too",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "But I think Im kind of summer vacationer",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah me too uh me too Unless Im going somewhere warm --",
+                "label": "aa"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- for the winter",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Yeah thatd be nice",
+                "label": "aa"
+            },
+            {
+                "text": "Whered you -",
+                "label": "qw"
+            }
+        ]
+    }
+]

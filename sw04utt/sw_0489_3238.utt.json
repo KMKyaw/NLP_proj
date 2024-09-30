@@ -1,0 +1,203 @@
+[
+    {
+        "conversation_id": "conv_3238",
+        "turns": [
+            {
+                "text": "Hello",
+                "label": "fp"
+            },
+            {
+                "text": "Hello",
+                "label": "fp^m"
+            },
+            {
+                "text": "Hi",
+                "label": "fp"
+            },
+            {
+                "text": "Hi",
+                "label": "fp^m"
+            },
+            {
+                "text": "My names Gail Im calling from Texas",
+                "label": "fp"
+            },
+            {
+                "text": "Im Sandy Im in Texas too",
+                "label": "fp"
+            },
+            {
+                "text": "Oh what deal Took long enough to find you",
+                "label": "ba"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah seems like they take forever any more but um so did you hear what the topic was --",
+                "label": "ny"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "-- did she tell you okay",
+                "label": "qy^t"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Great well if youre ready then uh Ill just go ahead and start",
+                "label": "ba"
+            },
+            {
+                "text": "Okay",
+                "label": "na"
+            },
+            {
+                "text": "Okay hold on Okay well I guess were supposed to talk about the changing roles of women",
+                "label": "bk^m"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Seems like um to me everything is just changing so much that its almost like um you cant keep up with things any more and everything is uh ther- everyones striving so much to make it equal between men and women I personally Im stay home mom and I like it the way it used to be",
+                "label": "sv"
+            },
+            {
+                "text": "So am I",
+                "label": "sd"
+            },
+            {
+                "text": "Are you",
+                "label": "b"
+            },
+            {
+                "text": "You know I think its kind of coming back around to that dont you I mean that theres lot more people that stay home now than before but I guess more than anything I think maybe people were just kind of wanting to have the choice of what they could do you know --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- I dont know I mean I think sometimes some of the the womens lib though is kind of like they wanted it all you know and you cant have everything --",
+                "label": "h"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- I dont I dont think that you can have I mean theres no way I could have career and then be the kind of mom that I want to be --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and to me thats more important",
+                "label": "sv"
+            },
+            {
+                "text": "Ho- how many kids do you have",
+                "label": "qw"
+            },
+            {
+                "text": "Two",
+                "label": "sd"
+            },
+            {
+                "text": "Two",
+                "label": "qy^m"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Are they young or -",
+                "label": "qy"
+            },
+            {
+                "text": "Five and two",
+                "label": "sd"
+            },
+            {
+                "text": "Five and two I have two and mine are two and nine months so um being being home is real - I I just am fortunate because I dont know real lot of moms that get to stay home and uh I just its just weird that I was just talking to somebody this morning whos whos working uh lady working mom and you know these people have secretaries and these high power jobs and it just seems like um - she she told me now her daughter took her first steps at the day care and uh I just think I I I just dont agree with that I think it should be that people should get back to staying home and and being family more family oriented than than not You know it seems like everybodys always so busy with everything that theyre doing that theres no time for this and that and the other and I hope it just doesnt get to where you know theres more women more and more women going into the work force",
+                "label": "b^m"
+            },
+            {
+                "text": "Well I agree I mean but I I hate for them to make people feel bad that have to work too saying you know you should stay home you know otherwise your children arent going to you know turn out or whatever --",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- because thats not fair to you know like the single moms that have to work or if they wouldnt be able to make ends meet --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- not working or whatever I mean I think its got to be personal choice and its nice that that we could have the choice to stay home",
+                "label": "+"
+            },
+            {
+                "text": "Yeah well I find that I whenever I have to whenever Im in group of people and were discussing things - like just over the weekend I visited my family and some cousins I hadnt seen in long time and everyones all interested in what everybodys doing and uh you know well I had my baby with me and I found that all I talked about was my baby which was fine with me but its like you know here these people are theyre going to school getting degrees making all this money and you know they kind of looked at me like I was from the dark ages you know like I because I didnt have really all that much to talk about uh where career and things like that were concerned and you kind of feel little bit like an outcast for while --",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- in social situations sometimes which is too bad because you know I I feel like I dont obviously I dont get paid for my job but I should get paid at least double what my husband makes working in an office for staying home --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- thats what I figure Im worth lot just for what I do every day but you know I dont know this is kind of um - at at least here Ive noticed - Im not from here Im from Colorado but Ive really noticed that there are lot of uh lot more people that are more comfortable at least with some women being home and at least in the circles Ive travelled and in the church that I go to you know that - men dont treat you like you dont know anything generally --",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- speaking",
+                "label": "+"
+            },
+            {
+                "text": "Well and I think lot of companies are realizing this and offering more opportunities as far as like job sharing or you know even having day care on site and that kind of stuff and I think thats really important --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- that that they do that and they realize theres need for that and um I dont know I found when I did do some work when my son was young it was like contract work and it wasnt where I had to be there every day but I mean we were going to the doctor once week so I dont know how you could have full time job and ever have any vacation time to do anything besides go to the doctor",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah I can see where that would definitely hinder the problem definitely Well -",
+                "label": "aa"
+            }
+        ]
+    }
+]

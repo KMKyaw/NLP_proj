@@ -1,0 +1,839 @@
+[
+    {
+        "conversation_id": "conv_2488",
+        "turns": [
+            {
+                "text": "Okay Deanna uh on capital punishment in our state they give the death penalty for shooting of policeman",
+                "label": "o"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and I believe also in shooting of uh rape I mean killing rape victim",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I mean someone in the process of rape and I dont know what el- I dont really remember what else",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But -",
+                "label": "%"
+            },
+            {
+                "text": "How do yo- wh- what do you think about it",
+                "label": "qo"
+            },
+            {
+                "text": "I think its justified",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Very much so",
+                "label": "sv"
+            },
+            {
+                "text": "I agree I I agree you know I -",
+                "label": "aa"
+            },
+            {
+                "text": "I think it should be in other cases other than just shooting policeman",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah oh I do too I do too",
+                "label": "aa"
+            },
+            {
+                "text": "I mean I think theyre doing their duty but I think if theyre going to come out and kill somebody else then they deserve it",
+                "label": "sv"
+            },
+            {
+                "text": "They ought to get it for killing civilian just as easily as policeman",
+                "label": "sv"
+            },
+            {
+                "text": "Thats right I agree",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah I agree Uh I heard something on the news the other night they were talking about uh oh I know what it was it was in our in our little local paper our little Lewisville paper that comes out twice week on the front page every week uh theres little thing at the bottom tha- its like call in survey that says you know do you think so and so and then you call this number and you press like one for yes and two for no",
+                "label": "aa"
+            },
+            {
+                "text": "Right uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And one of the things the questions the other day this last paper and I havent seen the results of it Im anxious to was do you think that um capital punishment ought to apply to drug dealers",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Oh I think -",
+                "label": "%"
+            },
+            {
+                "text": "Which I thought was real interesting question",
+                "label": "+"
+            },
+            {
+                "text": "Right right did you see SIXTY MINUTES tonight by any chance",
+                "label": "b"
+            },
+            {
+                "text": "No I didnt huh-uh",
+                "label": "nn"
+            },
+            {
+                "text": "Well they were showing segment on man in Philadelphia thats going after the drug dealers Hes just civilian hes black man",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and he just got fed up with it",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And he said hes had his house broken into and windows smashed and his car stolen three times and everything trying to ge- keep him quiet",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "but hes organizing people and theyre going out and marching on the corners and takin- taking back their territory",
+                "label": "sd"
+            },
+            {
+                "text": "You know I think thats what its going to take though",
+                "label": "sv"
+            },
+            {
+                "text": "I think so I think -",
+                "label": "aa"
+            },
+            {
+                "text": "I really do Oh yeah its going to take uh you know - the police I think I dont think can do it can do it alone you know",
+                "label": "sv"
+            },
+            {
+                "text": "Thats right I think youre right",
+                "label": "aa"
+            },
+            {
+                "text": "Its going to take uh its going to take all of us getting together Im sorry Im trying to - my kid is asking for kiss and hug so he can go to bed Its going to take all of us you know getting together and just saying",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "we are not going to take it any more",
+                "label": "+"
+            },
+            {
+                "text": "We wont allow this in our neighborhood",
+                "label": "sd"
+            },
+            {
+                "text": "Thats right thats right",
+                "label": "aa"
+            },
+            {
+                "text": "And it said theyre going to other neighborhoods from there",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and then quite often theyll get shot",
+                "label": "sd"
+            },
+            {
+                "text": "Uh",
+                "label": "b"
+            },
+            {
+                "text": "because theyre horning in on somebody elses territory",
+                "label": "+"
+            },
+            {
+                "text": "Thats right thats right uh",
+                "label": "aa"
+            },
+            {
+                "text": "I think they said forty-one had been shot out of one church in the last year",
+                "label": "sd"
+            },
+            {
+                "text": "Oh my gosh The only thing about the death penalty and and I know that that they try to be careful and they try to be sure but these people are on death row for like twenty years you know",
+                "label": "ba"
+            },
+            {
+                "text": "Right I know it",
+                "label": "aa"
+            },
+            {
+                "text": "An- you know - if if you know - I I think to be you know being convicted is one thing you know and thats and thats great if theyre con- if theyre sentenced to death to me you could not sentence them to death unless the case was for sure I mean it ha- -",
+                "label": "%"
+            },
+            {
+                "text": "Well it goes all through the st- it goes all through the state supreme court system before theyre -",
+                "label": "sv"
+            },
+            {
+                "text": "Right right by the time it gets there and theyve been convicted and then theyve been sentenced to death theyre sure I mean theres no doubt I mean I -",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh then it should happen yeah",
+                "label": "aa"
+            },
+            {
+                "text": "there can be no shadow of doubt in my mind there has to be no shadow of doubt to get that penalty",
+                "label": "sd"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "So once theyve gotten the penalty and there is no doubt do it you know just -",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "I don- I guess I mean that may sound that sounds cold but gosh you know were keeping you know were were keeping these men in prison for fifteen or twenty years on death row",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh thats right",
+                "label": "aa"
+            },
+            {
+                "text": "and not doing anything with them and its costing us heck of lot of money and thats terrible to look at it that way but -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah it is I know but that thats the way it is",
+                "label": "aa"
+            },
+            {
+                "text": "Ye- if the crime was bad enough that they were sentenced to death then do it you know uh",
+                "label": "sv"
+            },
+            {
+                "text": "We had one in Virginia that was sentenced to death and the execution was to have taken place few weeks ago I dont know if there was anything in your paper about it",
+                "label": "sd"
+            },
+            {
+                "text": "I didnt notice it huh-uh",
+                "label": "ng"
+            },
+            {
+                "text": "And there was lot of protest even Robert Redford you know was protesting this guys execution",
+                "label": "sd"
+            },
+            {
+                "text": "Gosh yeah",
+                "label": "ba"
+            },
+            {
+                "text": "So the governor backed down and I was so mad",
+                "label": "sd"
+            },
+            {
+                "text": "Oh man",
+                "label": "ba"
+            },
+            {
+                "text": "The crime was horrible his crime was just horrible",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah and those kind of people Im sorry you dont reform them you know",
+                "label": "b"
+            },
+            {
+                "text": "No I dont think",
+                "label": "aa"
+            },
+            {
+                "text": "I really beli- you dont",
+                "label": "sv"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "aa"
+            },
+            {
+                "text": "If theyre the kind of people that commit these excuse me grotesque crimes and have done it over and over and over again you dont reform those kind of people",
+                "label": "sv"
+            },
+            {
+                "text": "Huh-uh and being under the influence of drugs is no excuse to me",
+                "label": "aa"
+            },
+            {
+                "text": "No no and I dont know the same thing goes with some of these insanity pleas you know",
+                "label": "aa"
+            },
+            {
+                "text": "Right yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Well if youre insane enough that you can go cut twelve people up into little bitty pieces and bury them in your back yard then are - can can you be helped you know I have I have my doubts you know",
+                "label": "qh"
+            },
+            {
+                "text": "Thats right yeah yeah I do too",
+                "label": "aa"
+            },
+            {
+                "text": "I you know I dont know I think theres point some of these plea bargains and all this kind of stuff that they do its just it just gets out of hand",
+                "label": "h"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "and I understand that you know that you know - my husband and I -",
+                "label": "sd"
+            },
+            {
+                "text": "Wasnt it Lewisburg that had lot of uh bad things happening just in the last couple of weeks or was it not",
+                "label": "qy^d"
+            },
+            {
+                "text": "No",
+                "label": "nn"
+            },
+            {
+                "text": "No",
+                "label": "b^m"
+            },
+            {
+                "text": "No huh-uh",
+                "label": "nn"
+            },
+            {
+                "text": "Mayb- - it was I think it was the south east area",
+                "label": "%"
+            },
+            {
+                "text": "Oh really",
+                "label": "b"
+            },
+            {
+                "text": "from Dallas My daughter",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "my daughter lives down in Rowlett and she was telling me about it",
+                "label": "+"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^m"
+            },
+            {
+                "text": "Uh I cant remember what the town was some little area",
+                "label": "sd"
+            },
+            {
+                "text": "Weve had several here lately and it - there were several of them in North Dallas and then it started kind of happening couple of places in South Dallas and thats maybe what you were talking about Men breaking in uh to houses and taking or man - they they think its the same person taking uh little girls right straight out of their beds at night",
+                "label": "sd"
+            },
+            {
+                "text": "Oh gosh",
+                "label": "ba"
+            },
+            {
+                "text": "And ku- you know breaking in obviously watching them in the house",
+                "label": "+"
+            },
+            {
+                "text": "And thats the last they se- -",
+                "label": "%"
+            },
+            {
+                "text": "because theyre breaking into the right window",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "you know the little girls bedroom",
+                "label": "+"
+            },
+            {
+                "text": "Oh gee",
+                "label": "ba"
+            },
+            {
+                "text": "And taking them out putting them in car and driving them out and taking them out and molesting them and then bringing them back and throwing them back in their own front yards",
+                "label": "+"
+            },
+            {
+                "text": "Is that right",
+                "label": "bh"
+            },
+            {
+                "text": "Yes that is happened",
+                "label": "ny"
+            },
+            {
+                "text": "I hadnt heard about that",
+                "label": "sd"
+            },
+            {
+                "text": "I think theres been I think theres been like six or seven of them",
+                "label": "sd"
+            },
+            {
+                "text": "Gosh",
+                "label": "ba"
+            },
+            {
+                "text": "over the last like probably eight or nine months",
+                "label": "+"
+            },
+            {
+                "text": "They dont kill them They just mo- -",
+                "label": "qy"
+            },
+            {
+                "text": "They dont kill them no",
+                "label": "ng^m"
+            },
+            {
+                "text": "Gosh",
+                "label": "ba"
+            },
+            {
+                "text": "Theyve tak- - and theyre all like um like ni- anywhere from nine to twelve years old I think is what theyve been",
+                "label": "%"
+            },
+            {
+                "text": "Gosh",
+                "label": "ba"
+            },
+            {
+                "text": "And hes taken them and and raped them and then brought them right back and just kind of thrown them out of the car in their front yard",
+                "label": "sd"
+            },
+            {
+                "text": "Boy thats scary isnt it",
+                "label": "bh"
+            },
+            {
+                "text": "Oh can you imagine because it it happens in the middle of the night so the parent",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "you know these parents didnt know this the the kid was gone until the kid is knocking on the door screaming let me in",
+                "label": "+"
+            },
+            {
+                "text": "Oh boy",
+                "label": "ba"
+            },
+            {
+                "text": "You know can you imagine",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah you wouldnt even dare put these signs in the win- little emblems in the window saying child in this room in case of fire you know Have you seen those",
+                "label": "b"
+            },
+            {
+                "text": "Shoo- I you know Ive got one of those in Brians room",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I never even thought about that God maybe Ill take it out",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I hadnt even thought about it Thats terrible",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah it is",
+                "label": "aa"
+            },
+            {
+                "text": "Well its really bad that you have to be you know - we we were over at neighbors tonight and Bri- my little boy is on- is just little over two and their little boy is like five you know so theres big difference",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and they were playing in the back yard and we were getting ready to leave and I went out in the back yard to get Brian and the boys were gone and the back fence was open",
+                "label": "sd"
+            },
+            {
+                "text": "Oh gosh oh gosh",
+                "label": "ba"
+            },
+            {
+                "text": "you know",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And she didnt act like it bothered her at all oh this happens all the time And we walked through the fence out the alleys ar- come to the back of the house you know",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh yeah",
+                "label": "b"
+            },
+            {
+                "text": "And wal- and I looked down both directions of the alley and I saw neither one of them and uh",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "And she was like oh God he does this all the time you know where are you",
+                "label": "+"
+            },
+            {
+                "text": "Oh boy",
+                "label": "ba"
+            },
+            {
+                "text": "you know screaming And you know",
+                "label": "+"
+            },
+            {
+                "text": "And hes five",
+                "label": "qy"
+            },
+            {
+                "text": "my heart was in my throat",
+                "label": "+"
+            },
+            {
+                "text": "Shoo I guess so",
+                "label": "ba"
+            },
+            {
+                "text": "you know and uh he Brian was two houses down",
+                "label": "+"
+            },
+            {
+                "text": "Gee",
+                "label": "ba"
+            },
+            {
+                "text": "You know and he you know - I dont know",
+                "label": "+"
+            },
+            {
+                "text": "I know",
+                "label": "aa"
+            },
+            {
+                "text": "Parents around here just let their kids run everywhere and I just cant do that",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah there was little girl picked up in Rowlett from uh from her front yard and her dad was working in the back yard and had just left her few minutes in the front yard and somebody apparently drove up and took her and they never saw her again",
+                "label": "b"
+            },
+            {
+                "text": "Oh man this is too scary",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "that is just too scary You know I let Brian play here in the back yard and weve got theres two gates that go into the back yard and weve got one of those big eight foot privacy fences",
+                "label": "+"
+            },
+            {
+                "text": "Right uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And one of the gates has padlock on it and then the other gate just has one of those slide bar things but its on the inside",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "its - you know youd have to cli- like come over theyd have to come over the fence they could not open gate you know",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I still feel little uneasy about him playing back there",
+                "label": "sd"
+            },
+            {
+                "text": "Right yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know I mean if I dont hear him playing I mean I I get up and come out and look out the window real often you know so -",
+                "label": "sd"
+            },
+            {
+                "text": "And watch yeah yeah I dont blame you",
+                "label": "b"
+            },
+            {
+                "text": "Its really scary that you have to be that scared about your kids but",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I mean you do better safe than sorry",
+                "label": "+"
+            },
+            {
+                "text": "And if they find whos doing that to those little girls as far as Im concerned he could",
+                "label": "sd"
+            },
+            {
+                "text": "He could fry",
+                "label": "^2"
+            },
+            {
+                "text": "fry",
+                "label": "+"
+            },
+            {
+                "text": "Yes to put it very bluntly he could fry",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "yes yes Because sometimes there are crimes worse than murder",
+                "label": "aa"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "You know",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I and I believe that and this is one of them",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Because these little girls will never be the same",
+                "label": "sv"
+            },
+            {
+                "text": "Huh-uh thats terrible",
+                "label": "aa"
+            },
+            {
+                "text": "Never be the same so I dont know its its really scary and I dont know what to I dont know what needs to be done you know it seems like theres no room in jails to put them in jail and when they do put them in there you know - we- Im taking business law class at night and the guy that teaches it is practicing criminal attorney and",
+                "label": "sv"
+            },
+            {
+                "text": "Oh gosh",
+                "label": "ba"
+            },
+            {
+                "text": "so he comes in and tell us all these bizarre cases you know and he said you can pretty much you know if you ever get on jury you know youre not told this but if you ever get on jury you can pretty much guess whatever you sentence them to theyre going to serve about quarter",
+                "label": "+"
+            },
+            {
+                "text": "Its going to be reduced right uh-huh",
+                "label": "aa"
+            },
+            {
+                "text": "Theyll serve theyll serve quarter of it",
+                "label": "^q"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "so if you want them to stay in prison for fifteen years dont sentence them to fifteen years sentence them to hundred",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know because then theyll serve fifteen or twenty so",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Which is really - I dont know",
+                "label": "+"
+            },
+            {
+                "text": "Its just not it just doesnt seem right",
+                "label": "sv"
+            },
+            {
+                "text": "No it doesnt it doesnt They just get out you know there was thing on -",
+                "label": "aa"
+            },
+            {
+                "text": "Well what are we going to do about it How I mean how can it be changed",
+                "label": "qh"
+            },
+            {
+                "text": "I dont know",
+                "label": "no"
+            },
+            {
+                "text": "Unless the legislature will do something and they dont seem to -",
+                "label": "+"
+            },
+            {
+                "text": "Thats the thing ag- were just going to have to adopt completely different attitude",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and were going to have to say if you commit this crime and if were sure you commit this crime you are going to be sentenced to death period",
+                "label": "sv(^q)"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "period and do it you know",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And if you commit this crime you will be in prison for the rest of your life",
+                "label": "^q"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Were not going to say were going to put you there for the rest of your life and let you out in fifteen years were really going to do it you know Its just the system has just - an- and I understand theyre doing it because the prisons are full but somewhere weve got to come up with some money to build to build more",
+                "label": "sv(^q)"
+            },
+            {
+                "text": "Right I think so",
+                "label": "aa"
+            },
+            {
+                "text": "you know and keep these people in them you know",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I think it would be worth it everybody wo- -",
+                "label": "aa"
+            },
+            {
+                "text": "Well I was watching show about this the other night and you know they were like in I think it was on FORTY-EIGHT HOURS",
+                "label": "sd"
+            }
+        ]
+    }
+]

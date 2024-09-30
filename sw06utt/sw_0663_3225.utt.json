@@ -1,0 +1,423 @@
+[
+    {
+        "conversation_id": "conv_3225",
+        "turns": [
+            {
+                "text": "Okay so youre into microwave cooking",
+                "label": "o"
+            },
+            {
+                "text": "Yeah its just its so easy nowadays you know and its uh especially when people are working just to come home and pop something into the microwave and it be ready in just few minutes",
+                "label": "ny"
+            },
+            {
+                "text": "yes and thats what we all are looking for isnt it something that we can just cook in hurry after we get off work",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Ive gotten in the habit of cooking something big on the weekends so that I have leftovers all week",
+                "label": "sd"
+            },
+            {
+                "text": "All week Well weve done that too Theres just my husband and I and he he sometimes makes huge spot - uh pot of spaghetti --",
+                "label": "b^m"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and you know were eating it for week and half and I kind of get sick of it after he -",
+                "label": "sd"
+            },
+            {
+                "text": "I know I try not to make too much Its just my husband and I too --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and I try not to make so much that it lasts more than that week --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- but uh I usually I usually like to make spaghetti or soup or chili or you know something like that --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- or sometimes roast but -",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Whats your favorite thing to cook if youre having dinner party",
+                "label": "qw"
+            },
+            {
+                "text": "Um I have great recipe for sour cream chicken enchiladas --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh oh",
+                "label": "b"
+            },
+            {
+                "text": "-- its its really good I got it from friend of mine that I used to work with --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh every time Ive served it everybody just loves it",
+                "label": "sd"
+            },
+            {
+                "text": "Ooh that sounds delicious",
+                "label": "ba"
+            },
+            {
+                "text": "So thats thats one of my favorite things to make",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "What about you",
+                "label": "qo"
+            },
+            {
+                "text": "We- I end up with an old stand-by that we call Russian chicken because its so easy --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh it go- - you have to cook very little to go with it just some rice and some salad and thats about it you know",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh Well what do you put in it",
+                "label": "b"
+            },
+            {
+                "text": "Uh you make you just take your boneless chicken breasts and then you take and make dressing out of uh Russian dressing one bottle of that --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and package of Lipton Onion Soup mix --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and three ounces of apricot preserves --",
+                "label": "+"
+            },
+            {
+                "text": "Ooh that sounds good",
+                "label": "ba"
+            },
+            {
+                "text": "-- and you mix it up and you just put it on the top of the chicken and then I cover the pan with foil and put it in the oven for about an hour --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and then I take the foil off and let it brown --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- takes about another twenty minutes --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and its delicious --",
+                "label": "sv"
+            },
+            {
+                "text": "Ooh that sounds good",
+                "label": "ba"
+            },
+            {
+                "text": "-- and its so simple because I can pop it in when I come in the door you know and then uh go about my business and by the time Ive got everything else ready the chickens re- chickens done",
+                "label": "sd"
+            },
+            {
+                "text": "Is done right",
+                "label": "b^m"
+            },
+            {
+                "text": "So thats real easy thing for me",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah that sounds good too",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Ive got um great recipe for cheese cake",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "I dont know if you get SOUTHERN LIVING but -- -",
+                "label": "qy^d"
+            },
+            {
+                "text": "No I dont my mom gets that but -",
+                "label": "nn"
+            },
+            {
+                "text": "-- they have one - if you like to cook they have - every recipe Ive tried out of that has been really good one --",
+                "label": "sd"
+            },
+            {
+                "text": "Really",
+                "label": "b"
+            },
+            {
+                "text": "-- and um you know every month theyve got all different kinds of recipes but I got one in there about year or so ago on cheese cake and its just regular cheese cake and then you can put raspberry uh topping on it --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but inside the cheese cake uh recipe you put um lemon peel and orange peel --",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "-- and its just enough to taste it you know when when when youre eating the cheese cake and it is wonderful but it takes long time because you have to cook it for forty-five minutes and then you turn the oven off and you leave it in the oven for another forty-five minutes --",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "-- and then you open up the oven door and leave it in for another forty-five minutes --",
+                "label": "+"
+            },
+            {
+                "text": "Oh my goodness",
+                "label": "ba"
+            },
+            {
+                "text": "-- and then youre supposed to um I think chill it to room temperature --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- so sometimes Ill do that overnight and then put the topping on the next day but its its very good",
+                "label": "sd"
+            },
+            {
+                "text": "Well I love cheese cake I have never been I dont know the ones - I have made I have not done that well with",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I like baked cheese cake you know I dont - I have had recipe that someone has given me that its kind of like you just mix cream cheese and stuff --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- and refrigerate it you know --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- but thats not the same as New York style --",
+                "label": "sv"
+            },
+            {
+                "text": "No its not",
+                "label": "aa"
+            },
+            {
+                "text": "-- cheese cake And uh the recipes that Ive used - everybody will say Oh this is real simple and then I make it and its its really not very good --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- but yours sounds good I bet that lemon and orange peel gives it little bit of tartness",
+                "label": "sd"
+            },
+            {
+                "text": "It does and it it it is really good",
+                "label": "aa"
+            },
+            {
+                "text": "Um Well that sounds interesting so theres your good dessert for your dinner party",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Are you into serving wines with your dinner party",
+                "label": "qy"
+            },
+            {
+                "text": "Oh sometimes but I mean Im not wine connoisseur by any means",
+                "label": "na"
+            },
+            {
+                "text": "Me either I wish I knew more about it",
+                "label": "sd"
+            },
+            {
+                "text": "Ive been to you know some wine tastings up in Napa Valley --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but um you know and I learned little bit about them then but --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know what would be fun they have some of those classes you can take --",
+                "label": "+"
+            },
+            {
+                "text": "They would be if you just had time to do it",
+                "label": "sv"
+            },
+            {
+                "text": "-- yeah and then theres places um - do you live in Dallas --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "-- okay theres places here that um offer - I think its like once month you can go and to particular restaurant or whatever and you can kind of take cooking class --",
+                "label": "bk"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and then you get to eat everything afterwards and then they also go into the wines you know --",
+                "label": "sd"
+            },
+            {
+                "text": "Well how neat",
+                "label": "ba"
+            },
+            {
+                "text": "-- to serve with you know different types of --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- of meals and that kind of thing and it sounds like its lot of fun We have some friends whove done that and theyve really enjoyed it",
+                "label": "+"
+            },
+            {
+                "text": "Um well I didnt even know they were offering that I guess I -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah this place is called like Medinas or --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- Messinas Kitchen or something like that",
+                "label": "+"
+            },
+            {
+                "text": "Oh well I bet that would be fun thing to do",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah it it sounds like like it -",
+                "label": "b"
+            }
+        ]
+    }
+]

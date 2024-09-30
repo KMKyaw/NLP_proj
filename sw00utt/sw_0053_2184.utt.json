@@ -1,0 +1,651 @@
+[
+    {
+        "conversation_id": "conv_2184",
+        "turns": [
+            {
+                "text": "Uh being former drug user",
+                "label": "sv"
+            },
+            {
+                "text": "Whoa",
+                "label": "fe"
+            },
+            {
+                "text": "I uh I I guess I have to say at this point that I do approve of it",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh because I know that uh in using drugs I was not good employee",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "And so I can see from the companys standpoint that there uh - whenever you are an employee of the company you are using its assets and uh - you are also under their liability under the Workmens Comp",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "Uh on my job we had lot of Workmens Comp cases and",
+                "label": "sd"
+            },
+            {
+                "text": "Where do you work",
+                "label": "qw"
+            },
+            {
+                "text": "I work for tire company --",
+                "label": "+@"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "-- Modern Tire And uh its also retreading plant and thats where most of our uh injuries occur",
+                "label": "+@"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And what we do is well have drug test if an if break or man uh has an accident Then hes automatically uh given drug test",
+                "label": "sd"
+            },
+            {
+                "text": "Right Do they do it like you know within hours of the accident or is it -",
+                "label": "b"
+            },
+            {
+                "text": "Yes when he goes to the doctor the first time",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And so that kind of uh - I dont know if its been deterrent or not because we have uh just started using it --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- oh for the past year or so",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Now weve let some people go uh that wa- we was found that drugs were used in their system Now I dont know how would handle it They havent pursued it you know",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh if theres some uh problem I know - there was one guy that we tested for preemployment for drugs who absolutely swore up and down that it showed that he was using amphetamines and he went to separate drug --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- testing firm and they showed it negative",
+                "label": "+"
+            },
+            {
+                "text": "Huh",
+                "label": "%"
+            },
+            {
+                "text": "So I think the tests themselves are not really that --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- cut and dried you know",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I think thats probably true too Thats thats thats sort of scary",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh really And then I also had friend who was just around some people that were smoking cocaine",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And he tested positive on cocaine Now then you always wonder well is he just saying that",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah really really",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Yeah thats thats bad situation I think that probably I think most companies now as far as entry",
+                "label": "b^m"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "you know exams require that",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I think they should",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Im I employee and --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "-- and and uh Im Im really gung ho for it In fact I you know - some of the places now um like I dont allow them smoking you know --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "-- in in the plant",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "We we have designated smoking areas",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But um I work in sort of building thats thats not really well - its on the campus of the I facility but its little bit you know separated We lease the building And its its factory environment",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh they they have designated smoking but its just wide open its not ventilated properly --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and I think thats bad But as far as the drugs you know being in the factory kind of environment that way --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- I think its its definite I think its essential",
+                "label": "+"
+            },
+            {
+                "text": "Yeah because youre endangering everybodys lives if you --",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- if its something like that",
+                "label": "+"
+            },
+            {
+                "text": "In fact weve had the policy on just the random testing now --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- for couple years and uh I I was giving my boss hard time because I kept waiting for my name to came come up you know they never they never called me they never you know - and finally the day we declared war was my time",
+                "label": "+"
+            },
+            {
+                "text": "Youre kidding",
+                "label": "ba"
+            },
+            {
+                "text": "No And so and and my boss has has gone for about like three times I think And I told him hes obviously in high risk group",
+                "label": "b"
+            },
+            {
+                "text": "The executives right",
+                "label": "qy^g"
+            },
+            {
+                "text": "Right right and of course you know they did specifically single them out when we started you know that they were going to do all them first",
+                "label": "na"
+            },
+            {
+                "text": "The executives",
+                "label": "qy^d"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah Wouldnt that be awful if you were --",
+                "label": "b"
+            },
+            {
+                "text": "Which I thought was interesting",
+                "label": "sv"
+            },
+            {
+                "text": "-- if you were using and and --",
+                "label": "+"
+            },
+            {
+                "text": "Oh man yeah",
+                "label": "ba"
+            },
+            {
+                "text": "-- oh lose your job and everything",
+                "label": "+"
+            },
+            {
+                "text": "Ooh yeah",
+                "label": "aa"
+            },
+            {
+                "text": "I cant believe I was so brazen before I like I say Im former drug user",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "but uh I I well I I accepted Christ as my Lord and Savior and so I dont use drugs any more",
+                "label": "sd"
+            },
+            {
+                "text": "Oh what kind of drugs did you use if you dont mind",
+                "label": "qw"
+            },
+            {
+                "text": "Uh marijuana cocaine and amphetamines",
+                "label": "sd"
+            },
+            {
+                "text": "Wow",
+                "label": "ba"
+            },
+            {
+                "text": "Um yes uh-huh And all on the job too",
+                "label": "b"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "You know it had gotten that bad",
+                "label": "sd"
+            },
+            {
+                "text": "Well its really lucky that you got away from that",
+                "label": "sv"
+            },
+            {
+                "text": "Really",
+                "label": "b"
+            },
+            {
+                "text": "Cause thats really",
+                "label": "sv"
+            },
+            {
+                "text": "its its - life is so much more enjoyable",
+                "label": "%"
+            },
+            {
+                "text": "downward spiral",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh And I was losing jobs just from doing poor job you know",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Yeah thats thats it",
+                "label": "b"
+            },
+            {
+                "text": "I mean you know theres all kinds of drawbacks much less the drug testing",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah Just life in general",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh thats right",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah well well Im definitely for it",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Plus you know you you want to think that that youre working with people who are not only putting out their fair share",
+                "label": "sv"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "but that are not endangering your life in some cases -- -",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- like uh my husband uh several years back worked for Motorola",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "And they had you know - I mean it was chemical handling type",
+                "label": "sd"
+            },
+            {
+                "text": "Oh goodness",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah I mean and they have they have some serious chemicals out there --",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- you know like they have emergency shower where you just run in there and strip off and dump water you know that kind of thing",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^r"
+            },
+            {
+                "text": "And they had people out there using all sorts of drugs handling those chemicals",
+                "label": "sd"
+            },
+            {
+                "text": "Oh my gosh",
+                "label": "ba"
+            },
+            {
+                "text": "And thats really thats really frightening",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So I think some place you know places like that it should be like mandatory --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- like you know on on on greater frequency than maybe",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "just you know paper pushers like like I am",
+                "label": "+"
+            },
+            {
+                "text": "I would think there would be",
+                "label": "sv"
+            },
+            {
+                "text": "Well well youd think so but uh -",
+                "label": "sv"
+            },
+            {
+                "text": "But they werent",
+                "label": "qy^d"
+            },
+            {
+                "text": "I dont know if they do it till yet",
+                "label": "no"
+            },
+            {
+                "text": "Isnt that awful",
+                "label": "sv"
+            },
+            {
+                "text": "Because when he was at - course now its been years now because it was before it was even before they had the the designated smoking --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- type stuff you know at I I forgot what - I guess it was like eighty-four eighty-five --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- something like that And they at that time they had no testing whatsoever",
+                "label": "+"
+            },
+            {
+                "text": "Huh",
+                "label": "%"
+            },
+            {
+                "text": "So thats scary",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah That reminds me of uh - I have friend who was telling me about her brother who gets high all the time and I have just casually asked her what he did for living And she said Oh hes the supervisor of this chemical land fill you know --",
+                "label": "b"
+            },
+            {
+                "text": "Oh Lord",
+                "label": "ba"
+            },
+            {
+                "text": "-- where they go and dump all this toxic stuff",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "And I just you know went Oh where",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Yeah should we move",
+                "label": "b"
+            },
+            {
+                "text": "Let me move as far away as possible",
+                "label": "sd"
+            },
+            {
+                "text": "Ooh",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Thats awful",
+                "label": "ba"
+            },
+            {
+                "text": "But Im proud though that that um you know I grew up in the sixties and back then it was popular --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "but people have really wizened you know become wise about drugs --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and they really have good campaign for the young people you know",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "They know its not smart so",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So I guess it was just generational thing",
+                "label": "+"
+            },
+            {
+                "text": "Yeah peer group is the other way now instead of -",
+                "label": "aa^r"
+            },
+            {
+                "text": "Thats right and thats good",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh thats -",
+                "label": "b"
+            },
+            {
+                "text": "Thats the best way to stop it",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah that it really is",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah well I think we did it",
+                "label": "b"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "So its good talking to you",
+                "label": "fc"
+            },
+            {
+                "text": "Well I enjoyed talking to you Cathy",
+                "label": "fc"
+            },
+            {
+                "text": "Yeah bye-bye",
+                "label": "b"
+            }
+        ]
+    }
+]

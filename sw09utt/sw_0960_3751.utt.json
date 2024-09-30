@@ -1,0 +1,475 @@
+[
+    {
+        "conversation_id": "conv_3751",
+        "turns": [
+            {
+                "text": "Where are you Bob",
+                "label": "qw"
+            },
+            {
+                "text": "I am in Plano Where are you",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay I am in Waco",
+                "label": "bk"
+            },
+            {
+                "text": "Is that right",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Oh okay",
+                "label": "bk"
+            },
+            {
+                "text": "Right down the street Oh credit cards My favorite subject",
+                "label": "sd"
+            },
+            {
+                "text": "You mean you use credit cards",
+                "label": "qy"
+            },
+            {
+                "text": "Oh do I",
+                "label": "na"
+            },
+            {
+                "text": "I bet you used them all up over Christmas",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah mostly over Christmas Uh I get in rut with credit cards cause they get me kind of in vicious cycle Where you use them lot one month and then you have to use whatever money you have to pay those off --",
+                "label": "ny"
+            },
+            {
+                "text": "And then your are in debt",
+                "label": "sv"
+            },
+            {
+                "text": "-- and so then you have no money so you use credit card",
+                "label": "sv"
+            },
+            {
+                "text": "I understand that",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah Uh I probably have one of every credit card there is Do you use them lot",
+                "label": "b"
+            },
+            {
+                "text": "Well uh it kind of comes and goes uh I use uh Citibank the uh Advantage one --",
+                "label": "nd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- pretty much cause you get vantage points for every dollar you spend Once year I get free airplane ride that way",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "So as long as you pay it off every month it doesnt cost you anything",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Yeah Well that is good idea Is that --",
+                "label": "b"
+            },
+            {
+                "text": "That is what I -",
+                "label": "%"
+            },
+            {
+                "text": "-- that through VISA",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny^r"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "But uh I got all sorts of credit cards for my business that I use but uh",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "If I can get away with paying them off every month it is alright If I dont then it gets expensive",
+                "label": "+"
+            },
+            {
+                "text": "Yeah That is my problem I dont try and pay them off I pay like the minimum",
+                "label": "aa"
+            },
+            {
+                "text": "Well you shouldnt do that",
+                "label": "ad"
+            },
+            {
+                "text": "I know So I have got myself -",
+                "label": "aa"
+            },
+            {
+                "text": "You never you never get out of the hole that way",
+                "label": "sv"
+            },
+            {
+                "text": "Exactly I have got that is why I have got myself with all this trouble now But I pay most of them on time and everything It is just the - I always have them So it is kind of strange",
+                "label": "aa"
+            },
+            {
+                "text": "Kind of like the federal government right",
+                "label": "qy^g"
+            },
+            {
+                "text": "Oh yeah Exactly like the government In",
+                "label": "ny"
+            },
+            {
+                "text": "Cant never get out of debt",
+                "label": "sv"
+            },
+            {
+                "text": "In debt",
+                "label": "+"
+            },
+            {
+                "text": "And every time you try to get out of debt the economy goes to pot because people are spending money right",
+                "label": "qy^g"
+            },
+            {
+                "text": "Yeah Have they put the cap on the interest rates",
+                "label": "ny"
+            },
+            {
+                "text": "No",
+                "label": "nn"
+            },
+            {
+                "text": "I didnt know if they actually did that or not I know they were considering it",
+                "label": "sd"
+            },
+            {
+                "text": "Just the people who dont need credit get the four and half percent The rest of the uh and me we have got to pay fourteen and eighteen percent",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Yeah Funny how that works isnt it",
+                "label": "b"
+            },
+            {
+                "text": "The thou who doesnt need credit gets cheap credit",
+                "label": "sv"
+            },
+            {
+                "text": "I would be interested to find out how many people or how much uh people use credit this year Say in nineteen ninety-two as opposed to nineteen ninety-one even nineteen ninety I think I think it would be amazing how much how many more people use it",
+                "label": "sd"
+            },
+            {
+                "text": "Well I think so because the -",
+                "label": "aa"
+            },
+            {
+                "text": "Because of the economy",
+                "label": "sv"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You have got to use everything you have got just to stay where you are at",
+                "label": "sv"
+            },
+            {
+                "text": "Exactly I would be very I would like to see some numbers on that I think that would be interesting",
+                "label": "aa"
+            },
+            {
+                "text": "Do you do you have any uh credit union where you work or anything like that",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah I have credit union",
+                "label": "ny"
+            },
+            {
+                "text": "Do they have Mastercard or VISA card",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah they do uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "You have got that one",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yes I do Yes I do matter of fact",
+                "label": "ny"
+            },
+            {
+                "text": "Who who do you work for",
+                "label": "qw"
+            },
+            {
+                "text": "Uh I work for Channel six",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "Its its an affiliate down here",
+                "label": "sd"
+            },
+            {
+                "text": "I do lot of work down in Waco --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really",
+                "label": "b"
+            },
+            {
+                "text": "-- lot of I call on lot of my business is down there",
+                "label": "+"
+            },
+            {
+                "text": "Oh okay Where do you work What is your -",
+                "label": "b"
+            },
+            {
+                "text": "I sell metal fabricating equipment and tooling",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay",
+                "label": "bk"
+            },
+            {
+                "text": "Tyme and Mercury and Tempco and all those people --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay",
+                "label": "bk"
+            },
+            {
+                "text": "-- down there Uh Gene He- -",
+                "label": "+"
+            },
+            {
+                "text": "So you probably work with uh uh - what is the boy from here You ever work with Davis",
+                "label": "qy^d"
+            },
+            {
+                "text": "Davis Iron",
+                "label": "qy^h"
+            },
+            {
+                "text": "Davis Iron Work yeah",
+                "label": "na"
+            },
+            {
+                "text": "Yeah matter of fact I just saw them last week",
+                "label": "ny^m"
+            },
+            {
+                "text": "Oh okay And uh what else",
+                "label": "bk"
+            },
+            {
+                "text": "Are you in that part are you in the south part of town now",
+                "label": "qy"
+            },
+            {
+                "text": "Well I live actually in Hewett",
+                "label": "nd"
+            },
+            {
+                "text": "Oh yeah Okay",
+                "label": "bk"
+            },
+            {
+                "text": "Yeah right outside",
+                "label": "b"
+            },
+            {
+                "text": "You know --",
+                "label": "qy"
+            },
+            {
+                "text": "So that is where Davis Iron Works is",
+                "label": "bf"
+            },
+            {
+                "text": "-- Do you know Parker Machine Tool down there",
+                "label": "+"
+            },
+            {
+                "text": "Uh",
+                "label": "^h"
+            },
+            {
+                "text": "Bobby Parker and uh -",
+                "label": "qy^d"
+            },
+            {
+                "text": "I dont think I have seen that one I am sure I pass by it or something but I am not sure",
+                "label": "ng"
+            },
+            {
+                "text": "There is place in Hewett called - it is new company called Prime Air That is in Hewett Just around the corner from Davis Iron Works",
+                "label": "sd"
+            },
+            {
+                "text": "Huh Prime Air",
+                "label": "b"
+            },
+            {
+                "text": "They make uh humidifiers and --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay",
+                "label": "b"
+            },
+            {
+                "text": "-- uh filters for air filtration stuff for --",
+                "label": "+"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "-- hospitals homes something like that",
+                "label": "+"
+            },
+            {
+                "text": "Have you ever been to Marlin",
+                "label": "qy"
+            },
+            {
+                "text": "Uh yeah",
+                "label": "ny"
+            },
+            {
+                "text": "I think it is Marlin or Mart They have uh uh place I guess that would be similar to Prime Air It is called --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really",
+                "label": "b"
+            },
+            {
+                "text": "-- or something like or -",
+                "label": "+"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "I cant think of it I cant think of the name",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "But -",
+                "label": "%"
+            },
+            {
+                "text": "I will have to stop in there I went I have gone through there uh my oldest son goes to and",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "He is working on his Masters The Navy sent him there for his Masters Mostly in engineering So once and while we go up six there rather than take forty-five",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "That is about the last time I have been through Marlin and Mart",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Oh I dont like that drive I make that drive sometimes we have stories out there but uh -",
+                "label": "b"
+            },
+            {
+                "text": "There is always state trooper down there",
+                "label": "sv"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "You have got to drive careful",
+                "label": "ad"
+            },
+            {
+                "text": "Oh really I know",
+                "label": "b"
+            },
+            {
+                "text": "Between Mart and Marlin they will nail you if you go over sixty miles an hour",
+                "label": "sv"
+            },
+            {
+                "text": "Oh goodness They they are bad at Hewett too On eighty-four",
+                "label": "ba"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "They are real bad That is where I got my last ticket So of course I couldnt pay that on credit card",
+                "label": "sv"
+            }
+        ]
+    }
+]

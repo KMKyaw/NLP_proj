@@ -1,0 +1,695 @@
+[
+    {
+        "conversation_id": "conv_2868",
+        "turns": [
+            {
+                "text": "Okay uh have you did you have you grown up in Dallas Stephanie",
+                "label": "o"
+            },
+            {
+                "text": "Uh no Ive only been here for the last ten years uh",
+                "label": "nn"
+            },
+            {
+                "text": "Oh where are you from",
+                "label": "qw"
+            },
+            {
+                "text": "I grew up most of my childhood in Germany",
+                "label": "sd"
+            },
+            {
+                "text": "In Germany",
+                "label": "b^m"
+            },
+            {
+                "text": "Uh and -",
+                "label": "%"
+            },
+            {
+                "text": "Well -",
+                "label": "%"
+            },
+            {
+                "text": "we we took lot of vacations while we were there because everything was within driving distance",
+                "label": "sd"
+            },
+            {
+                "text": "Now theres place Id like to visit",
+                "label": "sd"
+            },
+            {
+                "text": "So we we travelled all over Europe",
+                "label": "sd"
+            },
+            {
+                "text": "Oh thats neat",
+                "label": "ba"
+            },
+            {
+                "text": "When I was when I was very young Unfortunately little bit too young to really appreciate",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh I was grade school age Uh",
+                "label": "sd"
+            },
+            {
+                "text": "My hus- my husband had bicycle tour of Europe or took bicycle tour about five months right after the second world war and so weve seen lots of pictures of the of the beautiful",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "spots and",
+                "label": "+"
+            },
+            {
+                "text": "That",
+                "label": "sd"
+            },
+            {
+                "text": "areas -",
+                "label": "+"
+            },
+            {
+                "text": "that would be to me really nice vacation --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "+@"
+            },
+            {
+                "text": "-- because Im Im not in physical shape for something like that but uh I I sure would work on it if I had an opportunity like that",
+                "label": "+"
+            },
+            {
+                "text": "Yeah thats neat neat What kind of vacations do you like",
+                "label": "b"
+            },
+            {
+                "text": "Uh well my husband and I are scuba divers",
+                "label": "sd"
+            },
+            {
+                "text": "Oh - -",
+                "label": "bk"
+            },
+            {
+                "text": "So we both like to go to dive resorts Uh we went to Hawaii on our honeymoon",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and we dove there Uh but we we did about six dives while we were there And uh we were originally planning on going to Cayman",
+                "label": "sd"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "uh last year --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh but we werent able to get enough people together for the trip We had to have like eleven people for",
+                "label": "sd"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "this package uh deal",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Uh and we couldnt get enough people together uh to go so it ended up falling - falling through",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "We were going to get really good price",
+                "label": "sd"
+            },
+            {
+                "text": "When when our children were younger we enjoyed we lived up in uh New York",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "or New Jersey and and used to like uh traveling into upstate New York and camping --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and we had little collapsible sailboat and liked to sail and that sort of thing but weve never really uh did any diving or anything Little bit of - of uh uh oh",
+                "label": "sd"
+            },
+            {
+                "text": "Snorkeling",
+                "label": "^2"
+            },
+            {
+                "text": "- water skiing",
+                "label": "+"
+            },
+            {
+                "text": "Oh really",
+                "label": "bk"
+            },
+            {
+                "text": "But not much of uh",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "of anything else Uh",
+                "label": "+"
+            },
+            {
+                "text": "Well my husband and I both like water",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "so any any vacation that we go on is usually",
+                "label": "sd"
+            },
+            {
+                "text": "Its got to be the water",
+                "label": "^2"
+            },
+            {
+                "text": "involves close to the ocean",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "or or something like that",
+                "label": "+"
+            },
+            {
+                "text": "When when we were in Jersey we used to go down to the Jersey beach lot and really enjoyed that lot Its really they had",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah we",
+                "label": "b"
+            },
+            {
+                "text": "really nice beach areas there",
+                "label": "+"
+            },
+            {
+                "text": "After we moved away from Germany we moved to New Hampshire",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I lived there for seven years",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I see",
+                "label": "b"
+            },
+            {
+                "text": "Uh",
+                "label": "sd"
+            },
+            {
+                "text": "Thats really pretty area too",
+                "label": "ba"
+            },
+            {
+                "text": "and I really enjoyed that because you know the mountains were real close",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "we like the we like the white mountains and",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Uh unfortunately I didnt really get to go skiing much while I was there I went skiing once",
+                "label": "+"
+            },
+            {
+                "text": "Yeah we loved the we loved the the New Jersey area too because the the lakes were really pretty close you know you could",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "you could drive within twenty minutes to an hour and just be at real nice vacation spot where you could sail and and just really - and then we werent too for from the Appalachian Trail we did quite bit of hiking which is kind of fun Are you you hiker or not",
+                "label": "+"
+            },
+            {
+                "text": "Uh",
+                "label": "^h"
+            },
+            {
+                "text": "Not so much huh",
+                "label": "qy^g"
+            },
+            {
+                "text": "Not not really so much If if if there was some place that that we went to where there was hiking involved I I would be you know happy to go hiking",
+                "label": "ng"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "but we we never have really planned vacation around uh places to go hiking",
+                "label": "sd"
+            },
+            {
+                "text": "So your your next your plans are try to find someplace to - scuba dive",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah Our next vacation will will be scuba diving Im sure",
+                "label": "ny"
+            },
+            {
+                "text": "You have any children",
+                "label": "qy"
+            },
+            {
+                "text": "No not yet",
+                "label": "nn"
+            },
+            {
+                "text": "Okay then thats probably one of the reasons our - we had little children all the time",
+                "label": "bk"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "so some of the things are not as quite as uh adaptable",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah its its little more difficult planning vacation",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah it is",
+                "label": "aa"
+            },
+            {
+                "text": "when you have have children",
+                "label": "+"
+            },
+            {
+                "text": "You have to try to figure out kinds of things that you can do that they will enjoy too and -",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "so I think wha- -",
+                "label": "%"
+            },
+            {
+                "text": "Yeah and diving is something that - especially for small children uh - I think the the minimum age for diving is",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "is probably legal anyway would be probably about sixteen",
+                "label": "+"
+            },
+            {
+                "text": "Eleven or twelve I would think probably but maybe fifteen even",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I know that uh uh one of one thing that happens to us to vacation trips now is that usually that try to involve some of the members of the family You know we go wherever somebody is",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "that we havent seen for while So that thats kind of - uh we just came back from uh uh Grand Rapids where we saw one of our sons graduate",
+                "label": "+"
+            },
+            {
+                "text": "Um",
+                "label": "b@"
+            },
+            {
+                "text": "from uh with his Masters Degree in social work and so that was fun and and the summer we have we have reunion in in Salt Lake area up by Park Cities",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "+@"
+            },
+            {
+                "text": "Where were going to camp for week with as many members of of rather large reunion group that uh as we can get together so -",
+                "label": "+"
+            },
+            {
+                "text": "That that sounds like lot of fun",
+                "label": "ba"
+            },
+            {
+                "text": "Ye- -",
+                "label": "%"
+            },
+            {
+                "text": "Our family had reunion last year that was kind of like that too",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "that there were several hundred uh people and they all kind of met at central place I I didnt go",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "uh but it would have been nice It would have been nice vacation",
+                "label": "sd"
+            },
+            {
+                "text": "We weve tra- weve moved around enough so that we now have people in different parts of the country I guess my favorite vacation idea would be to somehow figure out something kind of mobile where you could stop and sleep maybe you know like",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "small camper Weve weve travelled in big one I hate them because theyre hard to jockey around you know but maybe pickup with the back on -",
+                "label": "+"
+            },
+            {
+                "text": "Some- or something like uh whats the like the Volkswagen Vanagon",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Ive heard is really nice",
+                "label": "+"
+            },
+            {
+                "text": "So you could kind of sleep in it sometimes but you wouldnt want to do it all the time",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Uh we have enough friends here and there I would just love to just drive through the United States and stop and see people I know",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and visit for day and then go on and you know -",
+                "label": "+"
+            },
+            {
+                "text": "My dad has been talking for years about uh getting fifth wheel --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and just picking up hes retired --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh hes in his sixties and he uh would like to just get fifth wheel and just travel across the country and spend month here or couple of weeks there",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and just you know not",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "be settled anywhere",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I think",
+                "label": "b"
+            },
+            {
+                "text": "just see see the rest of the country",
+                "label": "sd"
+            },
+            {
+                "text": "I think that would real - and I would like to maybe not take great long trips but but have your home base where your home is --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and then just travel out for like maybe oh month maybe go -",
+                "label": "+"
+            },
+            {
+                "text": "He he does that quite bit",
+                "label": "sd"
+            },
+            {
+                "text": "And -",
+                "label": "%"
+            },
+            {
+                "text": "He he hasnt lately though uh because hes been ill",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "uh but hes been known to be gone for month or two at time and you know hell say this is my itinerary Im going here here and here and Ill be back in about two months",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah There are lot of neat neat places to visit in America thats for sure Weve I havent been much to the south I havent been in in Georgia or Florida or Mississippi or Alabama I guess thats those are the only states I have not visited But uh up the coast uh at uh uh in Maryland and around there where the where the early history is theres some - Johnstown and uh in - in that area is just really neat interesting things to - so you know -",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "so -",
+                "label": "%"
+            },
+            {
+                "text": "Have you been to lot of the different historical sites",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah we took trip uh around to the uh Civil War battle grounds and things back in nineteen sixty when it was the centennial or something",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I believe it was Uh had about three kids then I think but that was really fun interesting trip I we we read Bruce book before we went you know and so we were ready to look up the places we read about",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah I --",
+                "label": "b"
+            },
+            {
+                "text": "It was really interesting",
+                "label": "sd@"
+            },
+            {
+                "text": "-- I think right right now while my husband and I dont have any kids well probably take as many vacations as we can doing things like scuba diving and",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "+@"
+            },
+            {
+                "text": "and adventurous types of things",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and then when we- eventually when we have kids -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Now his his folks did lot of traveling across country You know they went to the Grand Canyon and did things like that",
+                "label": "sd"
+            },
+            {
+                "text": "Well now camping is fun with kids If youre",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "you know - once they get little bigger not teeny tiny ones - but even even some little ones do pretty good but",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "but when they get little bigger so they can help that thats fun way to to uh cut costs and its enjoyable too Very restful I mean I find -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I I do enjoy camping",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah I find the outdoors very relaxing and you know kind of change",
+                "label": "b"
+            },
+            {
+                "text": "As long as I have shower nearby Im fine",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And electricity",
+                "label": "+"
+            },
+            {
+                "text": "Well Im with you I need my creature comforts too",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Well it was great to talk to you",
+                "label": "fc"
+            },
+            {
+                "text": "It was nice talking to you too Beth",
+                "label": "fc"
+            },
+            {
+                "text": "Okay see you later Bye-bye",
+                "label": "fc"
+            },
+            {
+                "text": "Okay Bye-bye",
+                "label": "fc^m"
+            }
+        ]
+    }
+]

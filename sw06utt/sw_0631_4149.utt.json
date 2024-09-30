@@ -1,0 +1,347 @@
+[
+    {
+        "conversation_id": "conv_4149",
+        "turns": [
+            {
+                "text": "Wendy I guess we get to talk about budgets tonight or lack of budgets if uh if that may be the case --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- and any kind of long term financial planning or anything like that uh let me ask you the question do you have uh budget or monthly budget or long term budget that you stick to",
+                "label": "+"
+            },
+            {
+                "text": "Right now Im in college and Im on work study --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and so my budget comes from my dads help",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "He helps me out lot and I get paid monthly so thats kind of hard to have budget My mother uh doesnt get paid much money so her budget is uh just uh planning for I As",
+                "label": "sd"
+            },
+            {
+                "text": "I see I see Well good Im kind of in different situation but I I I went through that too when I was in school but uh I was I was working to get through college and and uh trying to make it through that but uh Im married and have uh couple of children and --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- we have to uh pretty much stick to budget Im on salary so I dont get any overtime or anything like that but",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "We have fixed income and we have to make sure that uh every dollar we have will is spent accordingly and uh what we try and do to to stick to our monthly budget is --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- we pretty much have you know the house payment we have the insurance premiums uh utilities and so forth and we do sit down at the beginning of every month or the end of every month and write down how much we know were going to spend and set that money aside and we also try and set aside money for savings set aside money for the coll- the kids education --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "-- college education the future and uh set aside money for bonds and and we also set aside an emergency fund because --",
+                "label": "+"
+            },
+            {
+                "text": "That sounds good",
+                "label": "ba"
+            },
+            {
+                "text": "-- weve uh weve been married for about ten years and we find out that you know no matter what kind of budget you stick on theres always going to be an unexpected car repair or something --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- happen with the house that you have to have money for and uh not enough to go and to take loan out but uh you have to have money for",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b^r"
+            },
+            {
+                "text": "And uh then we have you know - whatevers left over is disposable in- disposable dis- yeah discretionary income that we use for the rest of the month so and its worked out very well Its uh its helped us so that we havent been you know too long on the month and too short on the money and --",
+                "label": "sd"
+            },
+            {
+                "text": "Well thats good",
+                "label": "ba"
+            },
+            {
+                "text": "-- uh try and stick with that and nice thing about it I my wife is is excellent in that we both work together we both have budget and we stick to it --",
+                "label": "+"
+            },
+            {
+                "text": "Well good",
+                "label": "ba"
+            },
+            {
+                "text": "-- and theres no surprises in that",
+                "label": "sd"
+            },
+            {
+                "text": "With two kids that could be hard",
+                "label": "sv"
+            },
+            {
+                "text": "Well actually I have four kids",
+                "label": "sd"
+            },
+            {
+                "text": "Four",
+                "label": "ba"
+            },
+            {
+                "text": "So - yeah I said couple of kids I I guess I should have specified I have four --",
+                "label": "%"
+            },
+            {
+                "text": "Oh my goodness",
+                "label": "ba"
+            },
+            {
+                "text": "-- four little boys yeah",
+                "label": "+"
+            },
+            {
+                "text": "Four boys",
+                "label": "b^m"
+            },
+            {
+                "text": "You bet",
+                "label": "ba"
+            },
+            {
+                "text": "Oh my goodne-",
+                "label": "ba"
+            },
+            {
+                "text": "You bet",
+                "label": "ba"
+            },
+            {
+                "text": "Its just me and my sister",
+                "label": "sd"
+            },
+            {
+                "text": "All right",
+                "label": "b"
+            },
+            {
+                "text": "And my parents divorced three years ago --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and my sister had gotten through college but I was still in high school and my mother paid for lot of my sisters college while my parents were together --",
+                "label": "sd"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "-- and then uh before the divorce she had saved for my college",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But uh when we had the divorce she just didnt get much money out of it and had to spend it all on getting another house",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "So now my dads paying for all of my college of",
+                "label": "sd"
+            },
+            {
+                "text": "Well good good",
+                "label": "ba"
+            },
+            {
+                "text": "And financial aid --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and scholarships Im music major so I have auditions coming up",
+                "label": "+"
+            },
+            {
+                "text": "Yes well what year are you in in college",
+                "label": "b"
+            },
+            {
+                "text": "Im sophomore",
+                "label": "sd"
+            },
+            {
+                "text": "Youre sophomore so you have few more years",
+                "label": "bk^m"
+            },
+            {
+                "text": "Right right Ill Ill probably have about two two and half years left",
+                "label": "na"
+            },
+            {
+                "text": "uh-huh well good for you Good for you Yeah I imagine it uh is little difficult to stick with budget during that during school and so it forth",
+                "label": "b"
+            },
+            {
+                "text": "Oh it sure is I I know how much my dad is going to give me every two weeks --",
+                "label": "na"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "-- and I and I dont spend over that",
+                "label": "sd"
+            },
+            {
+                "text": "Well great great And sometimes thats little hard with books and music and and sheet music and stuff youve got to work on too",
+                "label": "ba"
+            },
+            {
+                "text": "Oh sure theres theres always music --",
+                "label": "aa"
+            },
+            {
+                "text": "Lab fees and all",
+                "label": "bf"
+            },
+            {
+                "text": "-- books to buy",
+                "label": "+"
+            },
+            {
+                "text": "Oh yes oh yes Well youre not starving artist yet are you",
+                "label": "aa"
+            },
+            {
+                "text": "Oh no no no",
+                "label": "nn"
+            },
+            {
+                "text": "Good",
+                "label": "ba"
+            },
+            {
+                "text": "I dont plan on being starving artist",
+                "label": "sd"
+            },
+            {
+                "text": "Well good",
+                "label": "ba"
+            },
+            {
+                "text": "Thats why Im in college",
+                "label": "sd"
+            },
+            {
+                "text": "The- theres enough of those in the world huh",
+                "label": "qy^g"
+            },
+            {
+                "text": "Right",
+                "label": "na"
+            },
+            {
+                "text": "Good good Im glad to hear that Wendy - -",
+                "label": "aa"
+            },
+            {
+                "text": "Thats usually because theyre not real educated They cant afford to have really good job",
+                "label": "sv"
+            },
+            {
+                "text": "Whos whos not very well educated",
+                "label": "br"
+            },
+            {
+                "text": "The starving ones",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yes yes",
+                "label": "aa"
+            },
+            {
+                "text": "Theres enough out there that if you have if youre educated enough then you can make money",
+                "label": "sv"
+            },
+            {
+                "text": "Thats true thats true I found that out So thats why Im planning and and preparing for the uh education of my children also --",
+                "label": "aa"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- try and set that money aside",
+                "label": "+"
+            },
+            {
+                "text": "What did you major in",
+                "label": "qw"
+            },
+            {
+                "text": "I majored in business administration",
+                "label": "sd"
+            },
+            {
+                "text": "Well good you know plenty about planning - budget",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah but uh once again -",
+                "label": "aa"
+            }
+        ]
+    }
+]

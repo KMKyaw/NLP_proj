@@ -1,0 +1,419 @@
+[
+    {
+        "conversation_id": "conv_3760",
+        "turns": [
+            {
+                "text": "Okay uh I guess we are just supposed to talk about things we do in our spare time",
+                "label": "sd^t"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh I basically read books",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "It is - I do - Sometimes when everybodys gone to bed my kids are in bed and my husband in bed so I will just stay up and finish book that I am - I have about three books that I am going on And I will work on one for little bit you know and then the next one But thats just kind of -",
+                "label": "%"
+            },
+            {
+                "text": "Well that is pretty impressive to have three books going",
+                "label": "sv"
+            },
+            {
+                "text": "Not always just sometimes",
+                "label": "bd"
+            },
+            {
+                "text": "Oh yeah And what what kind of books do you read",
+                "label": "b"
+            },
+            {
+                "text": "Uh just really different ones Uh I have one that I was reading on uh raising your children and then another one on an autobiography and another one on uh uh uh like crime story",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "true crime story",
+                "label": "sd"
+            },
+            {
+                "text": "Oh do you like those detective stories",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah But this - it was true one It was just little different though Reading that one last night",
+                "label": "ny"
+            },
+            {
+                "text": "Oh well that is interesting Actually I like to read also but uh usually fall into one or two categories either true science fiction or fantasy on the one hand or highly technical",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah like my husband",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Yeah kind of one or the other Uh",
+                "label": "b"
+            },
+            {
+                "text": "You must uh work for I",
+                "label": "qy^d"
+            },
+            {
+                "text": "I do Yes",
+                "label": "+@"
+            },
+            {
+                "text": "Yeah my husband does too",
+                "label": "b"
+            },
+            {
+                "text": "Yeah and I am computer scientist",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But I have lot of other hobbies",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh really",
+                "label": "b"
+            },
+            {
+                "text": "Well yeah I am kind of uh I guess what you would call it project person",
+                "label": "b"
+            },
+            {
+                "text": "Oh really",
+                "label": "b"
+            },
+            {
+                "text": "Yeah and I love - like I have shop and when things break around the house I always try to fix them myself and so hobby - its its funny uh from the one stand point it is work But it is hobby too that I enjoy --",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- to do To find broken -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah What kinds of things do you fix",
+                "label": "b"
+            },
+            {
+                "text": "Well essentially anything you find in house Uh stove or oven or broken piece of porcelain or uh chipped tile on the floor I mean just anything",
+                "label": "sd"
+            },
+            {
+                "text": "Oh And you have shop",
+                "label": "b"
+            },
+            {
+                "text": "Well it it is not anything elaborate It is just work bench and gazillion tools",
+                "label": "na"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But enough that again for anything in the house I could probably -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah you can fix just about everything and anything",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "aa"
+            },
+            {
+                "text": "Well that is great",
+                "label": "ba"
+            },
+            {
+                "text": "And in the car - I guess the car too",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And so uh I think I probably would consider that hobby Although sometimes it gets to be excessive",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah That is pretty much like my husband He is he is pretty uh mobile in that area too He he works on the cars He rarely takes them in --",
+                "label": "b"
+            },
+            {
+                "text": "Yeah I -",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh he works on irons and all - and stuff too We rarely have to take those things in too",
+                "label": "sd"
+            },
+            {
+                "text": "Right Yeah I think it it - not only can it be fun but it can certainly help your finances",
+                "label": "b"
+            },
+            {
+                "text": "Oh yeah Yeah definitely",
+                "label": "aa"
+            },
+            {
+                "text": "So do you have any art uh how do I say it creative or artistic hobbies",
+                "label": "qr"
+            },
+            {
+                "text": "Uh Not really I mean during Christmas I work on you know like uh holiday sweat shirts and those kinds of things",
+                "label": "ng"
+            },
+            {
+                "text": "Oh yeah well thats good",
+                "label": "b"
+            },
+            {
+                "text": "But but uh not really",
+                "label": "bd"
+            },
+            {
+                "text": "Yeah Well I dont necessarily either I can plink out song or two on piano --",
+                "label": "b"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- and I can uh - I dont necessarily draw or do any of that kind of art I guess --",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- uh graphic arts --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- is that what they call it I cant do any of that but sweat shirts is certainly impressive",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh Uh I belong to this organization for uh if if you have preschool children --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh every once and while they will have craft uh section for the moms --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and those are really neat and we learn to do the uh transfer pictures on the sweatshirts --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- transfer photos --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh those are really neat So we learn different crafts like that --",
+                "label": "sd"
+            },
+            {
+                "text": "I see",
+                "label": "ba"
+            },
+            {
+                "text": "-- uh",
+                "label": "+"
+            },
+            {
+                "text": "Well that is neat",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I guess you could consider that hobby Do you do you cook for hobby or do you -",
+                "label": "sv"
+            },
+            {
+                "text": "No I cook dinner",
+                "label": "nn"
+            },
+            {
+                "text": "Thats not something you -",
+                "label": "sv"
+            },
+            {
+                "text": "I dont consider it hobby",
+                "label": "sv"
+            },
+            {
+                "text": "I understand that",
+                "label": "ba"
+            },
+            {
+                "text": "But uh you know I - no I am not real elaborate cook or anything like that unfortunately",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I like to bake off and on And usually once week I will bake something but its not anything elaborate you know",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "At least I dont think it is",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "But I think that still borders on hobby",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Probably the other thing I do which I am sure will sound horrible to you but is I program for fun Uh on the computer",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So I have little projects little computer projects going on that I consider hobbies",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But drive my wife crazy",
+                "label": "sd"
+            },
+            {
+                "text": "Oh Well good You have computer at home",
+                "label": "b"
+            },
+            {
+                "text": "I do yes",
+                "label": "na"
+            },
+            {
+                "text": "Oh good Yeah",
+                "label": "ba"
+            },
+            {
+                "text": "In fact there is actually several of them here right now",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really",
+                "label": "b"
+            },
+            {
+                "text": "Not all of them being mine",
+                "label": "sd"
+            },
+            {
+                "text": "Wow Then you are busy",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh that is very good",
+                "label": "b"
+            },
+            {
+                "text": "Uh I wonder if you can construe raising children as being hobby",
+                "label": "qy"
+            },
+            {
+                "text": "Well you know one of the books that I did that I was reading - and I stopped because it was so - its - the book is so detailed --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and you have to - sometimes I have to go back and read the page over again cause I didnt quite get it all And uh it is so detailed",
+                "label": "sd"
+            }
+        ]
+    }
+]

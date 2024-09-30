@@ -1,0 +1,539 @@
+[
+    {
+        "conversation_id": "conv_2020",
+        "turns": [
+            {
+                "text": "Hi",
+                "label": "fp"
+            },
+            {
+                "text": "Hi um okay what now uh what particularly particularly what kind of music do you like",
+                "label": "fp^m"
+            },
+            {
+                "text": "Well I mostly listen to popular music I uh listen to it all the time in in my car so I I tend to be one of those people who switches stations lot because I dont like commercials But",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "uh I find myself listening to popular music and uh quite honestly I I have some little children and I unfortunately found myself listening to lot of nursery rhyme music here lately but thats not by my choice",
+                "label": "+"
+            },
+            {
+                "text": "Oh really",
+                "label": "b"
+            },
+            {
+                "text": "How about you",
+                "label": "qo"
+            },
+            {
+                "text": "Well um I dont have that I dont have that experience to share",
+                "label": "sd"
+            },
+            {
+                "text": "Lucky you",
+                "label": "ba"
+            },
+            {
+                "text": "I I do I do listen to lot of - you know I do I switch the stations lot because I dont have cassette player in my car",
+                "label": "sd"
+            },
+            {
+                "text": "Um um uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh uh however I I do I do like lot of different forms of music so I switch quite often Um I think I like - I Im really particular about the type of music that I listen to",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But the uh - theres such wide selection I think I like lot I like little bit of lot of different types of music You know I I I like music that is that I feel - if it is performed correctly or if its done right or if the version is done right I like it",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "but if if its not then I wont I I really dont -",
+                "label": "sd"
+            },
+            {
+                "text": "How do you feel about rap music",
+                "label": "qo"
+            },
+            {
+                "text": "Rap",
+                "label": "b^m"
+            },
+            {
+                "text": "It seems to be so popular these days",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah Well I I dont really have anything against rap music I - the one thing I do object to about rap music is is when it becomes militant",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "or if its uh violence oriented",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "I I have strong objections to that Um actually I listen to - one time I remember this was back when even uh - I would say about ten or fifteen years ago I -",
+                "label": "sd"
+            },
+            {
+                "text": "When it was really just starting",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah right when it was just starting",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I heard what was called talking blues",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "which actually is rap",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh it was about - the the piece of music the piece of music was about I think about forty or fifty years old And it was incredible I mean the parallel you know between it and rap",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And um you you listen lot - if you if you hear lot of old gospel uh uh especially well the black gospel You know you will you know you can really pick it up I mean",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah you really - It seemed to be influenced by lot of different music lot of times youll hear songs that you know theyre not original",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "but have been put to rap kind of rhythm And uh sounds it sounds so much different and yet I I have much younger sister who listens to lot of rap music and uh she thinks its pretty funny how often I know all of the words to songs that shes listening to and yet",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "she thought they were brand new",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "original pieces",
+                "label": "+"
+            },
+            {
+                "text": "they they do they do copy versions they do cover versions of of you know like standards I guess you could call it",
+                "label": "sd"
+            },
+            {
+                "text": "Thats right",
+                "label": "ba"
+            },
+            {
+                "text": "I think its kind of absurd you know the fact that you know they dont really they dont really give you know the original artist or the original composer",
+                "label": "sv"
+            },
+            {
+                "text": "No",
+                "label": "aa"
+            },
+            {
+                "text": "the credit that is really due to them",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I guess there was even bit of ruckus caused by the Hammer whos really you know",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "seems to be the hot one of of today He used um WILD THING Do you remember that that song",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "he used um - I cant remember who the artist was on that",
+                "label": "sd"
+            },
+            {
+                "text": "Jimi Hendrix was the original",
+                "label": "sd"
+            },
+            {
+                "text": "Who",
+                "label": "br"
+            },
+            {
+                "text": "Jimi Hendrix was the original He wrote -",
+                "label": "sd^r"
+            },
+            {
+                "text": "Was it - well ma- maybe it wasnt that one Because it was living it was living person that Im Im thinking of that",
+                "label": "qy"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "um that said You know hey that those are my words And uh I guess that they because they hadnt originally gotten um permission",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "from him to use it And he he since then has has amended that and paid them his royalties every time the the song goes on but -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I dont know it may have it may have been somebody else because I think I think that even Jimi Hendrix did it I think that was cov- - you know come to think of it I think that was cover version of like John Lee Hooker song or something",
+                "label": "b"
+            },
+            {
+                "text": "Maybe so I",
+                "label": "ba"
+            },
+            {
+                "text": "I mean it was just like - it was really old",
+                "label": "sd"
+            },
+            {
+                "text": "I cant think",
+                "label": "+"
+            },
+            {
+                "text": "I mean I I - there are lot there are so many different songs I mean like the whole thing about cover versions lot of times I mean Ive heard some songs that that I just thought were horrendous cover versions of - Im like you know I I dont want to listen to this",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Because you know you think of the original is like - you know oh that was really great That was you know really good piece of work and then when you hear the cover its like you know God what are they doing",
+                "label": "+"
+            },
+            {
+                "text": "Right They destroyed it",
+                "label": "b"
+            },
+            {
+                "text": "I I think good one was um - there was Peter Frampton song",
+                "label": "sv"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "ba"
+            },
+            {
+                "text": "and then the cover version I think I mean I thought was absolutely it was pitiful",
+                "label": "sv"
+            },
+            {
+                "text": "I I remember seeing the video of it on and I thought it was hideous",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I did too",
+                "label": "aa"
+            },
+            {
+                "text": "It was - ugh I didnt like that either",
+                "label": "%"
+            },
+            {
+                "text": "Yeah but you know whatever became of Peter Frampton I mean there was nothing - he was phenomenon I me- there was no reason for him to really come into you know great stardom or anything",
+                "label": "b"
+            },
+            {
+                "text": "I remember I saw him in concert when I was -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Yeah I think I think it -",
+                "label": "b"
+            },
+            {
+                "text": "I think it was in high school",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I think that probably what did it for him was the fact that he was good stage performer",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh He was very good I remember I saw him in huge stadium in uh Philadelphia It was in Stadium if I can remember",
+                "label": "b"
+            },
+            {
+                "text": "Oh man",
+                "label": "ba"
+            },
+            {
+                "text": "Hundreds of thousands of people is what it seemed like",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Ive I graduated back in seventy-nine so -",
+                "label": "b"
+            },
+            {
+                "text": "Um um uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "but but Ive really - I I loved - I mean I was I was really into the album oriented music even then",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "so I was really familiar with lot with lot of of the type music Um the album oriented like the uh James Taylor",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "and the uh the Beatles and you know I mean lot of people they go theyre better than the Beatles and Im like you know you dont know what youre talking about",
+                "label": "+"
+            },
+            {
+                "text": "No",
+                "label": "aa"
+            },
+            {
+                "text": "I mean the comparison made between New Kids On The Block with the Beatles It was just -",
+                "label": "sv"
+            },
+            {
+                "text": "You can only laugh",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah you just sort of - you know well I guess I can just humor them you know At this point",
+                "label": "b"
+            },
+            {
+                "text": "Right well they - I guess our age is showing when we we think that",
+                "label": "b"
+            },
+            {
+                "text": "Yeah but well you know I I Ive liked lot of the new music I think um",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "um when - I saw some promise you know with with lot of the new wave when it when it came out uh",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "back in the mid and early eighties And then um I dont know music is kind of in weird its in very weird position right now I think that - I mean I like you know things like to hear you know what they call world music Which is you know using all these natural forms of music and -",
+                "label": "+"
+            },
+            {
+                "text": "Like Paul Simon Like -",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah yeah Paul Simon",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Well you know really thats not world music But what what Paul Simons doing I think is is is great because hes you know I think I think that using I guess what they call it is eclectic you know",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "drawing from lot of different sources and making you know synthesis of new type of music Um",
+                "label": "+"
+            },
+            {
+                "text": "What do you mean by world music",
+                "label": "qw"
+            },
+            {
+                "text": "Well world music is um - lot of the lot of where they where they make music that they adapt to to another kind of to another type of listener",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh for example lets say youre taking like an original Brazilian form of music and with certain style and then you try to make it little bit more listenable for lets say another audience lets say North American",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And then when they hear it it its really its another form of music and",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "you know sort of um trying to draw out the best sources The the best of every type of music",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Because I mean there are some I mean - I I li- - there are some you know types of heavy metal that I really like but but I wouldnt I wouldnt say that I I completely like heavy metal",
+                "label": "%"
+            },
+            {
+                "text": "No",
+                "label": "aa"
+            },
+            {
+                "text": "I I think - you know and its the same way with - you know world music takes the forms that have really been um - I guess I - you know the best example or you know the cream of the crop I guess you could say - and then and then taking those those qualities and then applying in the styles that are really um that are extremely enjoyable and then taking -",
+                "label": "%"
+            },
+            {
+                "text": "So then it becomes kind of music of of its own so to speak or uh -",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah yeah it becomes kind of music of its own I mean when you listen to it its um uh - I think that they dont use elec- - some of it - its - they use electronic and acoustic interchangeably",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "so you know well lot of the stuff you hear coming from South Africa now and from West Africa thats considered world music because its not particularly using certain types of folk styles",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "But theyre theyre trying to make it somewhat more modern I I I - good another good example was I heard Miles Davis and Miles Davis worked with Robbie Shoncar",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "if you can believe it I mean",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know hes jazz performer and then hes playing with Robbie Shoncar whos very good hes very good arranger Uh arrangement to uh - were going to have to get off",
+                "label": "sd"
+            },
+            {
+                "text": "The - are they trying to -",
+                "label": "%"
+            },
+            {
+                "text": "I dont know But uh -",
+                "label": "no"
+            },
+            {
+                "text": "Weve talked our five minutes though",
+                "label": "sd^t"
+            },
+            {
+                "text": "Yeah okay but I mean when I heard his album I heard it and it was just incredible",
+                "label": "b"
+            },
+            {
+                "text": "Ive been listening to that lot lately",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I I listened - and I heard - you know you hear this guitar and then you hear the muted trumpet I - me - and you never would think that they that they can actually play together but -",
+                "label": "b"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            }
+        ]
+    }
+]

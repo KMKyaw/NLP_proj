@@ -1,0 +1,355 @@
+[
+    {
+        "conversation_id": "conv_3002",
+        "turns": [
+            {
+                "text": "Well I usually keep up with news by watching news on television and reading the papers here the local DALLAS MORNING NEWS and then I also take the WALL STREET JOURNAL",
+                "label": "sd"
+            },
+            {
+                "text": "Do you get chance to do it at home or do you mostly like catch up while youre at work Do you have chance to look through the WALL STREET JOURNAL Im not sure what you do",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah well I well I - - at the office I generally catch the WALL STREET JOURNAL at lunchtime",
+                "label": "ny"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "I use part of my lunch period to uh read the WALL STREET JOURNAL",
+                "label": "sd"
+            },
+            {
+                "text": "Well the- -",
+                "label": "%"
+            },
+            {
+                "text": "Then uh I read the the newspaper at home generally in the evening Id rather sleep the extra thirty minutes in the morning",
+                "label": "sd"
+            },
+            {
+                "text": "I understand that Well and you have little bit better newspaper The DALLAS MORNING NEWS is good paper Lubbock is kind of small and the - uh kind of dominant Theres no competition so what you get is what you get We used to take the paper every day and I finally quit taking it because it stacked up I never got around to reading it and so I try to take you know weekend papers",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and then during the week I catch up you know on the radio on the way to work or if Im traveling around at lunch or on the way home and hopefully Im sitting down by the ten oclock news to where I can kind of get recap on uh",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah thats uh what we do to - it were never in home in time to really watch the six oclock news on television",
+                "label": "b"
+            },
+            {
+                "text": "No",
+                "label": "aa"
+            },
+            {
+                "text": "so we catch the ten oclock news",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But I catch the news on the radio coming to and from work but radio news is is rather short Uh",
+                "label": "sd"
+            },
+            {
+                "text": "It is",
+                "label": "aa"
+            },
+            {
+                "text": "most of the news stations most of the stations here that are not all news stations you get about five minutes on the hour",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And if you catch the news stations uh you dont catch that much in the car",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I see",
+                "label": "bk"
+            },
+            {
+                "text": "Yeah but uh -",
+                "label": "b"
+            },
+            {
+                "text": "We- uh its frustrating to me because I really wish that I did have more I dont know uh what do I want to say I wish that I was around more news Its frustrating when I dont know whats going on I feel like its hit and miss and I havent found anything yet that keeps me there on constant basis Somebody will say oh did you hear about this that happened last week and it might be local and it might be national and Im like no I missed that one",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I have the same situation I tried the news magazines like TIME NEWSWEEK NEWS and WORLD REPORT",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and theyd just stack up I wouldnt find time to read them You have to have time to sit down and concentrate on on the stories or -",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "all of sudden you look and theres three uh three weeks worth laying on the coffee table and you wind up throwing them out without reading them",
+                "label": "+"
+            },
+            {
+                "text": "Yeah thats true",
+                "label": "aa"
+            },
+            {
+                "text": "Because its too much trouble to try and catch up so --",
+                "label": "sv"
+            },
+            {
+                "text": "Thats true",
+                "label": "aa"
+            },
+            {
+                "text": "-- have to depend - I guess were becoming more of television oriented nation in that I dont think that uh my children even read newspapers other than the guide section",
+                "label": "+"
+            },
+            {
+                "text": "Uh oh no",
+                "label": "ba"
+            },
+            {
+                "text": "Theres is all uh strictly television news",
+                "label": "sd"
+            },
+            {
+                "text": "little bit that worries me because I feel like the news is so biased",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "aa"
+            },
+            {
+                "text": "And yes they report facts and yes you can get an idea of whats going on but you know its an - and I wish they would just report the incident and then leave the commentaries out But so many times you get well uh this is my opinion of what he meant by that",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and Im like who are you to judge You know",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Right its the same",
+                "label": "aa"
+            },
+            {
+                "text": "just report the facts",
+                "label": "^q"
+            },
+            {
+                "text": "thing with the news magazines like TIME and and the other magazines",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Its hard to celebr- uh to celebrate to separate the news from the comment because",
+                "label": "sv"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "in the way its presented their opinions is print or presented as being the news",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And so then you have to try and sort out what really is the news",
+                "label": "sv"
+            },
+            {
+                "text": "And I feel like they sensationalize things that shouldnt be sensationalized I feel like they focus too much on things that I dont know you know - so much during the Gulf War they would ask questions that uh you wouldnt want broadcast Its like if you tell us the answer to that youre telling our enemy what your strategy is",
+                "label": "sv"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "But they keep asking these questions and I thought it was really well I dont know asinine actually",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Stupid",
+                "label": "sv"
+            },
+            {
+                "text": "Well so many of them also come through and they have discovered that this is the most popular issue of the time Whether it be the homeless or uh cancer or whatever and then they devote uh an inordinate amount of time on the news cast to their personal ax to grind",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh yes",
+                "label": "aa"
+            },
+            {
+                "text": "And uh uh",
+                "label": "sv"
+            },
+            {
+                "text": "I agree",
+                "label": "aa"
+            },
+            {
+                "text": "particularly the local television Uh I know the the Wednesdays Child bit and theyll take up ten minutes of newscast and leave out something Im not saying thats not important",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "but they leave out real news issue to devote to one of their local pet projects",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah thats true thats true and its frustrating",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah - -",
+                "label": "b"
+            },
+            {
+                "text": "So I guess I guess when I get to listen to the news its its probably television or radio I see very little paper but I I dont get to see that as much as I want and when I do Im wondering why I wanted to see it so bad",
+                "label": "sd"
+            },
+            {
+                "text": "Thats yeah that makes sense We uh again - like I say by the time I read the newspaper its the the its that mornings news from the day before and Im reading it in the evening so -",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Im Im about day behind most of the time anyway",
+                "label": "sd"
+            },
+            {
+                "text": "Exactly exactly",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Well Im glad tha- - it makes me feel like Im not alone though in the world I I used to think that I was probably the only one that just I dont know was running around so much I look at other uh women workers or men at work",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "that have kids and families and Im like how do they seem so together all the time I always feel like Im running rat race",
+                "label": "+"
+            },
+            {
+                "text": "Yeah we we -",
+                "label": "b"
+            },
+            {
+                "text": "So I guess news is just part of that rat race for me",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah my wife and I feel that we never have moment that we can call our own",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Its always theres something going on all the time uh you dont really have time to sit down and and thoroughly read newspaper",
+                "label": "sd"
+            },
+            {
+                "text": "Exactly",
+                "label": "aa"
+            },
+            {
+                "text": "As matter of fact I read the Sunday paper this evening",
+                "label": "sd"
+            },
+            {
+                "text": "Well -",
+                "label": "%"
+            },
+            {
+                "text": "We had such busy day yesterday Didnt find time to even read it",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah thats incredible too",
+                "label": "b"
+            },
+            {
+                "text": "Yeah well thats about all then",
+                "label": "b"
+            },
+            {
+                "text": "Well I appreciate talking to you",
+                "label": "fc"
+            },
+            {
+                "text": "Nice talking with you",
+                "label": "fc"
+            },
+            {
+                "text": "Have good evening",
+                "label": "fc"
+            },
+            {
+                "text": "Same to you",
+                "label": "fc"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc"
+            },
+            {
+                "text": "Bye",
+                "label": "fc"
+            }
+        ]
+    }
+]

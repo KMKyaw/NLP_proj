@@ -1,0 +1,467 @@
+[
+    {
+        "conversation_id": "conv_3497",
+        "turns": [
+            {
+                "text": "So how is the weather out there",
+                "label": "qw"
+            },
+            {
+                "text": "Uh its really cold and its supposedly for this time of the year its unseasonably cold and theyve gotten more snow than theyve ever had",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "You have breaking records for coldness and all that kind of stuff How about you guys",
+                "label": "sd"
+            },
+            {
+                "text": "Um Uh its just its its about same The usual I think",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "So nice for skiing and all that kind of stuff Its good",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah well the weather lets see well the snow here is different from Utahs because I have lived in Utah for like ten years",
+                "label": "b"
+            },
+            {
+                "text": "Oh really What part",
+                "label": "bh"
+            },
+            {
+                "text": "And uh - Provo I was going to",
+                "label": "%"
+            },
+            {
+                "text": "Oh really Okay",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah And uh the snow is like really cold I mean its like really humid so it seems wetter or something like that Its -",
+                "label": "aa"
+            },
+            {
+                "text": "Its more humid in Utah than there",
+                "label": "qy"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Or there",
+                "label": "qrr"
+            },
+            {
+                "text": "Its more humid in Iowa --",
+                "label": "sd"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "-- than Utah",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "And it seems like when the winds blow its really it goes right through you Its really different from Utahs weather I thought Utah was cold but I think Iowa is lot colder",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah see thats how it is in Texas too because when its cold its really cold So -",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah I dont think there is any mountains to stop the wind",
+                "label": "b"
+            },
+            {
+                "text": "Whats that",
+                "label": "br"
+            },
+            {
+                "text": "I dont think there is any mountains to stop the wind",
+                "label": "sd^r"
+            },
+            {
+                "text": "Right Yeah So the humidity is I think what does it",
+                "label": "b"
+            },
+            {
+                "text": "Yeah I think thats true",
+                "label": "aa"
+            },
+            {
+                "text": "Because I I noticed when I got here too because like Id - when it would snow in Texas --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh I would just I mean wed be - really cold and wed have to get really warm and here you can almost not even wear coat outside when its snowing and you dont --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah thats true",
+                "label": "aa"
+            },
+            {
+                "text": "-- you dont feel super cold It was weird",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But so how long ago did you graduate Or did you or -",
+                "label": "qw"
+            },
+            {
+                "text": "Uh I graduated in nineteen eighty-seven",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah my husband got his doctorate at so thats - and so he just graduated this past year",
+                "label": "ny"
+            },
+            {
+                "text": "Oh So you just barely moved away",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh Yeah we really miss slash error",
+                "label": "ny"
+            },
+            {
+                "text": "Do you like it out there",
+                "label": "qy"
+            },
+            {
+                "text": "Well we really miss Utah We miss --",
+                "label": "+"
+            },
+            {
+                "text": "You do",
+                "label": "qy"
+            },
+            {
+                "text": "-- the mountains",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Because its like really flat here Well not flat but hilly But no big mountains or anything",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh So you just moved away year ago",
+                "label": "b"
+            },
+            {
+                "text": "Uh in August",
+                "label": "na"
+            },
+            {
+                "text": "Wow really recent",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah But uh see see what else can I say about the weather Uh well today was warmer It was like forty-five",
+                "label": "aa"
+            },
+            {
+                "text": "Oh warm",
+                "label": "ba"
+            },
+            {
+                "text": "So whats the temperature up today over there",
+                "label": "qw"
+            },
+            {
+                "text": "Oh man its got to be like its probably fifty fifty-five maybe",
+                "label": "fe"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "Maybe not that warm Probably about uh - yeah Its not its not that cold really",
+                "label": "no"
+            },
+            {
+                "text": "And whenever I remembered the weather reports in Utah I never really remember them talking too much about wind chill",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But they talk about wind chill here all the time",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah thats big deal in Texas too",
+                "label": "aa"
+            },
+            {
+                "text": "They said it could be like six degrees out and like negative forty-one wind chill",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "So thats what were not used to",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah thats true That makes big difference Huh",
+                "label": "aa"
+            },
+            {
+                "text": "So oh I -",
+                "label": "%"
+            },
+            {
+                "text": "So did you used to ski when you were out here",
+                "label": "qy"
+            },
+            {
+                "text": "Whats that",
+                "label": "br"
+            },
+            {
+                "text": "Did you used to ski when you were in Utah",
+                "label": "qy"
+            },
+            {
+                "text": "Oh Ive only Ive only skied in Utah once",
+                "label": "no"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "I only skied once my whole life But do you do lot of skiing there",
+                "label": "sd"
+            },
+            {
+                "text": "Uh not tons but I like to when I get chance",
+                "label": "ng"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Ive only been once so far but had the opportunity couple times since then Just saving my money for Christmas things --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and that",
+                "label": "+"
+            },
+            {
+                "text": "So is this your first year in Utah",
+                "label": "qy"
+            },
+            {
+                "text": "Uh no this is actually my third year",
+                "label": "nn"
+            },
+            {
+                "text": "And youre going to school there",
+                "label": "qy"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Yep",
+                "label": "ny"
+            },
+            {
+                "text": "At of or -",
+                "label": "qy"
+            },
+            {
+                "text": "No at",
+                "label": "nn"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "So but Ill be here long time at this rate",
+                "label": "sd"
+            },
+            {
+                "text": "Whats your major",
+                "label": "qw"
+            },
+            {
+                "text": "Uh it was nursing but Im in the process of changing it right now",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh oh",
+                "label": "b"
+            },
+            {
+                "text": "Because its really really competitive at",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You have to have like three seven to get in so",
+                "label": "sd"
+            },
+            {
+                "text": "Thats true",
+                "label": "aa"
+            },
+            {
+                "text": "Its really - Im going to look into some other fields Id like - all the science classes and that Im just not really enjoying too much so --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- I think I better get into something that I can enjoy the process of going to school so -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah thats thats good idea",
+                "label": "b"
+            },
+            {
+                "text": "Did you graduate in certain field or -",
+                "label": "qy"
+            },
+            {
+                "text": "Uh education I got double major",
+                "label": "sd"
+            },
+            {
+                "text": "In -",
+                "label": "qw"
+            },
+            {
+                "text": "Uh elementary and special ed",
+                "label": "sd"
+            },
+            {
+                "text": "Really",
+                "label": "qy"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "That what my sister did",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah you might know her Here name is Lori Bird Maybe not I think she graduated around then too though eighty-seven probably but she got her doc- -",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah well I cant - there are so many girls in all my classes I cant remember --",
+                "label": "b"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- how many people",
+                "label": "+"
+            },
+            {
+                "text": "Because they since uh stopped that program I mean where you can --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh have they",
+                "label": "bh"
+            },
+            {
+                "text": "-- where you can get it double pretty easily",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "I mean its its really -",
+                "label": "sd"
+            }
+        ]
+    }
+]

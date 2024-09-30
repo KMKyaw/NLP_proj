@@ -1,0 +1,243 @@
+[
+    {
+        "conversation_id": "conv_3626",
+        "turns": [
+            {
+                "text": "Uh lets see Personal computers",
+                "label": "^h"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "So do you use them",
+                "label": "qy"
+            },
+            {
+                "text": "Uh yes um we own one",
+                "label": "ny"
+            },
+            {
+                "text": "Terrific What kind",
+                "label": "ba"
+            },
+            {
+                "text": "Uh its an Emerson eighty eighty-six um two low density floppy drives and no hard drive yet But uh you know its it comes in mighty handy",
+                "label": "sd"
+            },
+            {
+                "text": "Mostly for word processing type things",
+                "label": "qy"
+            },
+            {
+                "text": "Uh yeah big chunk of its word processing Were also taking programming classes and uh so theres fair amount of programming getting done on it But uh uh the uh - right now we got project going where were trying to put uh all my wifes stray recipes on the disk",
+                "label": "ny"
+            },
+            {
+                "text": "Nice Did you buy program to handle menus",
+                "label": "ba"
+            },
+            {
+                "text": "Uh it came with menus program but uh that doesnt - it it basi- - both excuse me - mostly kind of pain in the neck without hard drive --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yes",
+                "label": "ba"
+            },
+            {
+                "text": "-- and hopefully sometime this spring well be able to get one and get it configured",
+                "label": "sd"
+            },
+            {
+                "text": "Eighty eighty-eight is what you said",
+                "label": "br^m"
+            },
+            {
+                "text": "Eighty eighty-six",
+                "label": "sd"
+            },
+            {
+                "text": "Eighty oh gosh its worth your time to just upgrade theyre so darned cheap now",
+                "label": "b^m"
+            },
+            {
+                "text": "Which -",
+                "label": "qw"
+            },
+            {
+                "text": "Computers",
+                "label": "sd"
+            },
+            {
+                "text": "Uh impoverished college student -",
+                "label": "sd"
+            },
+            {
+                "text": "Oh no",
+                "label": "ba"
+            },
+            {
+                "text": "This one went on credit card and we got way out while to pay it off yet So its Bs next turn is not continuation of this",
+                "label": "sd"
+            },
+            {
+                "text": "Uh Ive Ive got one at home too Its three eighty-six thirty-three megahertz forty four meg ram and hundred and thirty meg drive and --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh thats sounds nice slash error",
+                "label": "+@"
+            },
+            {
+                "text": "-- super and yeah its fun I do programming too My job is uh auditor and so Im into computers all the time Electronic Data Processing",
+                "label": "+"
+            },
+            {
+                "text": "Okay that sounds like fun job",
+                "label": "bk"
+            },
+            {
+                "text": "Yeah I really enjoy it and it treats me well",
+                "label": "b"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "Uh what are you studying in college --",
+                "label": "qy"
+            },
+            {
+                "text": "Uh",
+                "label": "sd"
+            },
+            {
+                "text": "-- computers",
+                "label": "+"
+            },
+            {
+                "text": "Computer engineering",
+                "label": "+"
+            },
+            {
+                "text": "How nice",
+                "label": "ba"
+            },
+            {
+                "text": "Well computer engineering technology uh which uh all I can understand is its slightly more hands on version of computer engineering But Ive got ways to go yet So far most of what Ive done is getting gotten core classes out of the way taken some electronics classes and one class in um with computer logic",
+                "label": "sd"
+            },
+            {
+                "text": "How they work is fascinating to me",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yes I enjoy it myself The uh lab for that uh computer logic class was lot of fun",
+                "label": "aa"
+            },
+            {
+                "text": "Was it Did di- -",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah we got to hook up few uh counters and uh deco- encoders",
+                "label": "ny"
+            },
+            {
+                "text": "Hardware stuff huh",
+                "label": "bf"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "What do you think of that fuzzy logic",
+                "label": "qo"
+            },
+            {
+                "text": "Ive not had chance to work with it although um my uh data structures teacher was telling us something about how fuz- fuzzy logic works as far as the concept behind it",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Now how youd implement that software wise or mechanically I dont know but uh it sounds like very impressive piece of piece of work",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah theyre pretty amazing Uh Ive written couple of programs for commercially uh -- -",
+                "label": "b"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "-- and its fun field",
+                "label": "sd"
+            },
+            {
+                "text": "In the fuzzy logic direction",
+                "label": "qy"
+            },
+            {
+                "text": "What no in uh - no just regular uh but you have to take into account you know with any computer program all the type of things people can do to you to make your program crash or things you --",
+                "label": "br"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- normally dont consider",
+                "label": "+"
+            },
+            {
+                "text": "Entering bad information of one sort or another and -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah pushing keys certain times and",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Uh messing up your files and things like that",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And youre going to be an engineer computer engineer type",
+                "label": "qy^d"
+            },
+            {
+                "text": "Uh yeah well what the computer what the program seems to be so far is just broad based specialized from - you get programming fair amount of programming you get hardware you get uh more or less uh you get basic electronics courses that uh deal with you know not only the digital circuitry but uh you know power supplies and and uh just the whole gambit but mostly towards uh computer electronics So the idea is that um you can go in variety of direction from major but I sa- I have more with the hardware than I do with the software so yeah I --",
+                "label": "ny"
+            },
+            {
+                "text": "I dont -",
+                "label": "%"
+            },
+            {
+                "text": "-- pretty much plan on I mean so far Im planning to go in the engineering direction",
+                "label": "+"
+            },
+            {
+                "text": "Thats good uh",
+                "label": "ba"
+            }
+        ]
+    }
+]

@@ -1,0 +1,343 @@
+[
+    {
+        "conversation_id": "conv_2010",
+        "turns": [
+            {
+                "text": "This is Archie",
+                "label": "fp"
+            },
+            {
+                "text": "Hi Archie Im Sharon",
+                "label": "fp"
+            },
+            {
+                "text": "Have you seen DANCING WITH WOLVES",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah Ive seen that thats uh that was really good movie Probably one of the best things about it was the scenery and uh I thought the story was pretty good too I I think Kevin Costner did really good job with it",
+                "label": "ny"
+            },
+            {
+                "text": "Have you ever lived in that part of the country",
+                "label": "qy"
+            },
+            {
+                "text": "No I havent",
+                "label": "nn"
+            },
+            {
+                "text": "Have you ever visited it",
+                "label": "qy"
+            },
+            {
+                "text": "Um Ive visited the Wyoming area Im not sure exactly where DANCES WITH WOLVES was filmed",
+                "label": "no"
+            },
+            {
+                "text": "I think it was the black hills of South Dakota",
+                "label": "sv"
+            },
+            {
+                "text": "Could be I - I havent been to South Dakota Have have you been up to that",
+                "label": "am"
+            },
+            {
+                "text": "Well I lived in Omaha for five",
+                "label": "no"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "winters",
+                "label": "+"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "and that rolling kind of uh -",
+                "label": "sd"
+            },
+            {
+                "text": "Terrain",
+                "label": "^2"
+            },
+            {
+                "text": "Yeah Is is fairly famili- - The thing that I thought was interesting was that the critics - apparently its going to win everything",
+                "label": "aa"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "Uh and I had been told you know you wouldnt notice that it was three hours long and all this",
+                "label": "sd"
+            },
+            {
+                "text": "Thats true",
+                "label": "aa"
+            },
+            {
+                "text": "kind of -",
+                "label": "+"
+            },
+            {
+                "text": "I agree with that Um I I noticed yesterday in the paper something said that it - I think its been nominated for twelve awards and and all the critics initially said that you know it wouldnt go anywhere that it was just going to be dud So it it has surprised everybody",
+                "label": "aa"
+            },
+            {
+                "text": "Well the interesting thing was is I had heard that and I I I tend to I think overreact occasionally when somebody tells me its that great And and --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- it was the thing is it was it was good story",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "aa"
+            },
+            {
+                "text": "And and and I guess thats what I really like Although I must admit I did look at my watch after about an hour",
+                "label": "sd"
+            },
+            {
+                "text": "Did you",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Have you seen SLEEPING WITH THE ENEMY",
+                "label": "qy"
+            },
+            {
+                "text": "No Ive heard Ive heard thats really great though",
+                "label": "nn"
+            },
+            {
+                "text": "- you have to go see that one And how about SILENCE OF THE LAMB",
+                "label": "sv"
+            },
+            {
+                "text": "No",
+                "label": "nn"
+            },
+            {
+                "text": "Go",
+                "label": "ad"
+            },
+            {
+                "text": "You must really keep up",
+                "label": "sv"
+            },
+            {
+                "text": "I do I go every weekend I I uh - those are two definite must see movies I think",
+                "label": "aa"
+            },
+            {
+                "text": "Well isnt isnt SLEEPING WITH THE ENEMY isnt that - i- is it is it terror movie or is it just suspenseful",
+                "label": "%"
+            },
+            {
+                "text": "Its suspenseful I dont think its very - - I mean theres not really any uh blood and guts in it or anything like that Its its more suspense Um the other one SILENCE OF THE LAMBS is kind of gory movie if if somebodys not into that kind of stuff Its its pretty graphic at points But uh I think theyre both excellent movies",
+                "label": "sd"
+            },
+            {
+                "text": "Do you do you listen to Gary Cogill",
+                "label": "qy"
+            },
+            {
+                "text": "No Huh-uh two utts",
+                "label": "nn"
+            },
+            {
+                "text": "Is uh - do you know who he is",
+                "label": "%"
+            },
+            {
+                "text": "Yeah Somebody in South Carolina told me about him",
+                "label": "ny"
+            },
+            {
+                "text": "Hes the movie critic Um oh youve oh - okay Hes movie critic on channel eight in Dallas",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And he does uh he has talk show on the I Anyway its on from seven to nine or something And and and people call in and its if you keep up with movies its kind of interesting Theres certain mount of dribble that they do Theyve got uh theyve got couple of kids ten or twelve years old and they call in and they review movies But its uh -- -",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- he anyway he - its interesting You listen to him and then you you go watch the movie In fact they had people had just seen - I was listening Sunday night little bit when",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I was going to pick up my daughter But anyway it was uh the - it its interesting though the the difficulty with with DANCING WITH WOLVES is that when you make movie like that and you produce it and then you star in it uh the question is did he did he really know it was going to be good two utts or did he just do it",
+                "label": "+"
+            },
+            {
+                "text": "I think that I think he really - his heart was in it but I I dont think he really knew it was going to be as big as it was I think it was something that he really wanted to do He wanted to direct it he wanted to to star in it You know he he enjoyed the story line and I think he just really - he really wanted it And whether it whether it won all kinds of awards or whether it just was okay at the box office I think he would have been happy Because I think that I think he did good job and and the self-satisfaction he got out of it is much greater than any awards that they can give him",
+                "label": "%"
+            },
+            {
+                "text": "Do you know who the guy was that was playing the uh the the wagon driver",
+                "label": "qy"
+            },
+            {
+                "text": "Um",
+                "label": "^h"
+            },
+            {
+                "text": "little piece of trivia You know the guy when he first headed out from the army post",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Who - no I dont know who that guy is",
+                "label": "ny"
+            },
+            {
+                "text": "He he plays on MURPHY BROWN",
+                "label": "sd"
+            },
+            {
+                "text": "Oh he does",
+                "label": "qy"
+            },
+            {
+                "text": "Yes Hes --",
+                "label": "ny"
+            },
+            {
+                "text": "As recurring character every week",
+                "label": "qy"
+            },
+            {
+                "text": "-- hes Eldon her housepainter",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "Can you",
+                "label": "qy"
+            },
+            {
+                "text": "No",
+                "label": "nn"
+            },
+            {
+                "text": "believe that",
+                "label": "+"
+            },
+            {
+                "text": "now see Id Id never put those two together",
+                "label": "sd"
+            },
+            {
+                "text": "Thats thats one of those interesting pieces of trivia that somebody said did you notice that",
+                "label": "qy"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "nn"
+            },
+            {
+                "text": "I thought no its really funny But I thought it it - you think back and yeah it was him but with --",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- you know with the beard and all that stuff I mean its uh -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah real scruffy looking",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Real scruffy looking and it wa- it was really funny its uh that that he winds up playing in the movie But I thought its good that you know - it was lot of fun",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I dont know how long this conversation is supposed to go but were at about five minutes I should think weve done enough",
+                "label": "sd^t"
+            },
+            {
+                "text": "You think so I mean I havent been watching my watch Um I guess yeah Does it usually cut off Is that what",
+                "label": "bh"
+            },
+            {
+                "text": "Well I dont know",
+                "label": "no^t"
+            },
+            {
+                "text": "it does",
+                "label": "+"
+            },
+            {
+                "text": "Why do we end this thing",
+                "label": "qw^t"
+            },
+            {
+                "text": "It used to",
+                "label": "sd^t"
+            },
+            {
+                "text": "I think it just says hang up",
+                "label": "sd^t"
+            },
+            {
+                "text": "it used to just automatically cut off but it says when the conversation is over just say your good-byes and hang up So",
+                "label": "+"
+            },
+            {
+                "text": "Why dont we do that",
+                "label": "qw^t"
+            },
+            {
+                "text": "I I guess so Okay",
+                "label": "+"
+            },
+            {
+                "text": "Good-bye Sharon",
+                "label": "fc"
+            },
+            {
+                "text": "Good talking to you Archie",
+                "label": "fc"
+            }
+        ]
+    }
+]

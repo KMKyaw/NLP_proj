@@ -1,0 +1,579 @@
+[
+    {
+        "conversation_id": "conv_3072",
+        "turns": [
+            {
+                "text": "Okay",
+                "label": "o"
+            },
+            {
+                "text": "Okay where have you all been on vacation recently",
+                "label": "b^m"
+            },
+            {
+                "text": "Recently my most recent trip was last year and that was Detroit",
+                "label": "sd^m"
+            },
+            {
+                "text": "Detroit",
+                "label": "br"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Is that nice vacation spot",
+                "label": "qy"
+            },
+            {
+                "text": "Well it wasnt really It was um uh to see an old relative",
+                "label": "ng"
+            },
+            {
+                "text": "Right okay",
+                "label": "bk"
+            },
+            {
+                "text": "And it was uh just to uh have some fellowship with her",
+                "label": "sd"
+            },
+            {
+                "text": "Right So you probably wouldnt recommend that as big tourist spot",
+                "label": "b"
+            },
+            {
+                "text": "No The only thing that I I visited that you know is quite tourist spot is Cancun Mexico",
+                "label": "nn"
+            },
+            {
+                "text": "Ooh that would be nice",
+                "label": "ba"
+            },
+            {
+                "text": "And that was real nice Uh",
+                "label": "sv"
+            },
+            {
+                "text": "Did you scuba dive there",
+                "label": "qy"
+            },
+            {
+                "text": "No we just kind of walked the beaches and looked at all the beautiful scenery there",
+                "label": "nn"
+            },
+            {
+                "text": "Ooh that would be nice",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah and just kind of relaxed and unwound little bit",
+                "label": "b"
+            },
+            {
+                "text": "Oh that would be enjoyable",
+                "label": "ba"
+            },
+            {
+                "text": "from our daily routine",
+                "label": "+"
+            },
+            {
+                "text": "Right yeah thats",
+                "label": "b"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "nice break I havent been on vacation in while either Um usually when we go we go to Colorado to Estes Park area",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Which is up kind of near Denver",
+                "label": "+"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "And uh stay in the mountains up there do little hiking and resting get away from the Texas heat that kind of thing",
+                "label": "+"
+            },
+            {
+                "text": "Oh thats always refreshing to get away from",
+                "label": "ba"
+            },
+            {
+                "text": "So its lot of fun I worked up there last summer so I guess it was kind of like vacation the",
+                "label": "sd"
+            },
+            {
+                "text": "Oh well thats nice",
+                "label": "ba"
+            },
+            {
+                "text": "whole summer long",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Worked at camp there and so I got to spend lot of time up in the mountains So thats probably my favorite place when I have to go somewhere on vacation",
+                "label": "sd"
+            },
+            {
+                "text": "Well my uh my middle daughter and her husband have just taken up new activity and thats canoeing",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "And uh theyve been to the Guadalupe River and they also uh uh have been to uh I guess Colorado and theyve really enjoyed it",
+                "label": "sd"
+            },
+            {
+                "text": "Thats nice We um",
+                "label": "ba"
+            },
+            {
+                "text": "Its whole new -",
+                "label": "sd"
+            },
+            {
+                "text": "we canoed up in Arkansas at the Buffalo River",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And thats the best place that Ive ever canoed",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "%"
+            },
+            {
+                "text": "Its really really pretty I was little kid then and we to have uh - we stayed at some park and they had little uh mountain man who came down the river every night and he would give little talk about mountain things You know I think he wasnt real mountain man but we were pretty convinced he was full",
+                "label": "sv"
+            },
+            {
+                "text": "Sure",
+                "label": "b"
+            },
+            {
+                "text": "hermit who lived up in",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "the woods that hed come in his little log boat down the river and we would have to wed - and hed make sassafras tea out of sassafras roots that hed found and",
+                "label": "+"
+            },
+            {
+                "text": "Oh thats neat",
+                "label": "ba"
+            },
+            {
+                "text": "Thats good family place to go",
+                "label": "+"
+            },
+            {
+                "text": "Sure",
+                "label": "b"
+            },
+            {
+                "text": "and then the river was really nice because it wasnt too frightening but it wasnt",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "you know too easy either It was like -",
+                "label": "+"
+            },
+            {
+                "text": "Well you learn lot of um skills too and I think youre more receptive when youre younger than when youre older to learn new skills",
+                "label": "sv"
+            },
+            {
+                "text": "Thats true",
+                "label": "aa"
+            },
+            {
+                "text": "and I think they really it really pen- penetrates in your memory you know what to do because you really have great interest in it",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Because its something you werent forced to do",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "so you have kind of relaxed mode of learning",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And youre more receptive",
+                "label": "sv"
+            },
+            {
+                "text": "Well thats good Well we um lets see - the only other place Ive ever vacationed wed you know go on camping trips up to Texoma and things like that",
+                "label": "ba"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And then I went to England --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh thats exciting",
+                "label": "ba"
+            },
+            {
+                "text": "-- few years ago I was",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "student there and spent um semester studying abroad in London",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "And that was great time because its so thats such neat place and its theres not language barrier so you dont - I mean there theres little bit because theres some of those English words that you just dont exactly know what they mean and lot of people have trouble wrestling with their accents but its it was really fun I I I really enjoyed that Im probably going back there to work",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "for year",
+                "label": "+"
+            },
+            {
+                "text": "Well I had friend that uh visited England not well I think its been probably two years now but thats her next goal and she can do it is go back to England because she really has great desire to do that because the love that she um has for it now after visiting it -",
+                "label": "sd"
+            },
+            {
+                "text": "It its really nice I would I would spend all my time in London",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "or most of my time and thats it was really different being in big city because I dont get much into urban you know really urban areas lot --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and it was its really its sort of weird little anonymous feeling where no one knows who you are and you can spend whole day without talking to anyone which I thought I would just hate but it ended up being kind of nice because youre not accountable to anyone",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You could just kind of",
+                "label": "sd"
+            },
+            {
+                "text": "Do your own thing",
+                "label": "^2"
+            },
+            {
+                "text": "kind of walk around and observe",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I did lot of just going out by myself and riding on the subway and watching people",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I had great time doing that It was really interesting",
+                "label": "sd"
+            },
+            {
+                "text": "Thats wonderful Theres lot out there to see",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah I know",
+                "label": "b"
+            },
+            {
+                "text": "Ill say",
+                "label": "ba"
+            },
+            {
+                "text": "I keep wanting to get up to - I havent I havent been anywhere else outside the United States I havent been to Mexico or Canada or -",
+                "label": "sd"
+            },
+            {
+                "text": "Well I lived across the street almost from Canada",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "So that was that thats nice place Canada is very nice",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah that would be nice I had friend from there",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Then I Id love to go somewhere in Asia but Id have to have tour guide with me to --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yes absolutely",
+                "label": "aa"
+            },
+            {
+                "text": "-- help with all the language and all that",
+                "label": "+"
+            },
+            {
+                "text": "Sure somebody that knows their way around",
+                "label": "b"
+            },
+            {
+                "text": "So yeah thats why thats why England was nice Even we traveled in Europe for about week and that was even nice because there wasnt uh the - most the places we went we went to Germany and Switzerland and -",
+                "label": "aa"
+            },
+            {
+                "text": "Well youve been quite few places there",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah we have We",
+                "label": "ny"
+            },
+            {
+                "text": "Once you think about it huh",
+                "label": "ba"
+            },
+            {
+                "text": "We did we whirlwinded through",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Europe It was just insane twelve days where wed just stop like city day and you slept on the train at night",
+                "label": "+"
+            },
+            {
+                "text": "Oh thats great",
+                "label": "ba"
+            },
+            {
+                "text": "But there wasnt - it was strange it was kind of sad there wasnt ever language problem there because everyone in Germany knew English and everyone in Switzerland",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "knew English",
+                "label": "+"
+            },
+            {
+                "text": "Thats great",
+                "label": "ba"
+            },
+            {
+                "text": "So we were kind of pitiful We found one restaurant we were in and got seated and then no one knew English in there and we were just",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "finally had to break out the phrase book and start looking up things But it was -",
+                "label": "+"
+            },
+            {
+                "text": "What did you wind up with",
+                "label": "qw"
+            },
+            {
+                "text": "Oh I had fondue That was easy to say",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay",
+                "label": "bk"
+            },
+            {
+                "text": "Tried to get fondue and white wine and that was -",
+                "label": "sd"
+            },
+            {
+                "text": "Uh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "we were able to have that pretty pretty effortlessly There were some people at the next table who spoke English so we",
+                "label": "sd"
+            },
+            {
+                "text": "They kind of guided you",
+                "label": "bf"
+            },
+            {
+                "text": "elicited their aid for while and",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "they were very helpful so",
+                "label": "+"
+            },
+            {
+                "text": "Well good",
+                "label": "ba"
+            },
+            {
+                "text": "It was it was pleasant time Id Id love to go back there Theres just not time Theres not enough time to go see everything and then to afford to see everything",
+                "label": "+"
+            },
+            {
+                "text": "I guess thats why we need to plan for retirement so when we do have the free time well have the the means to uh pursue our dreams",
+                "label": "sv"
+            },
+            {
+                "text": "Right Thats -",
+                "label": "b"
+            },
+            {
+                "text": "Yeah I guess thats what retirement is all about",
+                "label": "b"
+            },
+            {
+                "text": "That and sleeping late",
+                "label": "sv"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "I keep hoping for",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Well --",
+                "label": "fc"
+            },
+            {
+                "text": "I understand that",
+                "label": "sd"
+            },
+            {
+                "text": "-- it was nice talking with you",
+                "label": "+"
+            },
+            {
+                "text": "Well it was nice talking with you too Craig",
+                "label": "fc"
+            },
+            {
+                "text": "And have good afternoon",
+                "label": "fc"
+            },
+            {
+                "text": "You do the same",
+                "label": "fc"
+            },
+            {
+                "text": "Okay",
+                "label": "fc"
+            },
+            {
+                "text": "Thank you",
+                "label": "ft"
+            },
+            {
+                "text": "Good-bye",
+                "label": "fc"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc"
+            }
+        ]
+    }
+]

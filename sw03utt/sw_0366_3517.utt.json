@@ -1,0 +1,343 @@
+[
+    {
+        "conversation_id": "conv_3517",
+        "turns": [
+            {
+                "text": "Okay",
+                "label": "o"
+            },
+            {
+                "text": "Okay I guess were ready to start Well I guess what part of - what part of the country do you live in",
+                "label": "b^m"
+            },
+            {
+                "text": "Im in Dallas Texas",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay",
+                "label": "bk"
+            },
+            {
+                "text": "What about yourself",
+                "label": "qo"
+            },
+            {
+                "text": "Well Im also in Dallas",
+                "label": "sd"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "The reason that I ask is the two conversations Ive had have been out of state",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But uh have you always lived here in Dallas and -",
+                "label": "qy"
+            },
+            {
+                "text": "No Ive lived here for almost five years now",
+                "label": "nn"
+            },
+            {
+                "text": "I see",
+                "label": "bk"
+            },
+            {
+                "text": "And Im uh - before that I was at school in Rochester New York and Im originally from Boston",
+                "label": "%"
+            },
+            {
+                "text": "Oh well you are seeing quite different climate and quite different neighborhood",
+                "label": "qy^d"
+            },
+            {
+                "text": "Thats right but I like it",
+                "label": "na"
+            },
+            {
+                "text": "You probably have enjoyed getting away from the snow",
+                "label": "qy^d"
+            },
+            {
+                "text": "Well I missed it at first but now I go back there and Im real wimp about the cold So --",
+                "label": "nd"
+            },
+            {
+                "text": "Yeah",
+                "label": "bk"
+            },
+            {
+                "text": "-- I like it here Its nice",
+                "label": "+"
+            },
+            {
+                "text": "Well thats good I I have lived in Texas essentially all my life",
+                "label": "ba"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Around in Texas and uh I have traveled up in the northeast and around and have enjoyed it",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But uh I dont know Im not sure I would want to take on those winters Im --",
+                "label": "h"
+            },
+            {
+                "text": "I know",
+                "label": "aa"
+            },
+            {
+                "text": "-- getting older and uh not sure thats something I want to do I live uh over in the Lake Highlands area if youre familiar with that",
+                "label": "+"
+            },
+            {
+                "text": "Uh tell me where that is uh",
+                "label": "ad"
+            },
+            {
+                "text": "Okay",
+                "label": "aa"
+            },
+            {
+                "text": "I",
+                "label": "sd"
+            },
+            {
+                "text": "Uh you -",
+                "label": "%"
+            },
+            {
+                "text": "I probably do know but I dont know it by that name",
+                "label": "+"
+            },
+            {
+                "text": "This is pretty well where and Audelia Skillman --",
+                "label": "sd"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "-- cross",
+                "label": "+"
+            },
+            {
+                "text": "Sure",
+                "label": "b"
+            },
+            {
+                "text": "Were just north of uh White Rock Lake",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay yeah I know that area Thats nice area",
+                "label": "b"
+            },
+            {
+                "text": "Well we have some very nice hou- homes here in this area Uh my particular - I guess they want us to describe the area so uh --",
+                "label": "sd"
+            },
+            {
+                "text": "Uh",
+                "label": "b@"
+            },
+            {
+                "text": "-- my particular area the homes run anywhere from about sixty-five eighty thousand dollars on up to probably half million",
+                "label": "+"
+            },
+            {
+                "text": "Oh thats quite range",
+                "label": "+"
+            },
+            {
+                "text": "Yes uh the homes that were here earlier were smaller Now theyve gotten larger and larger as as they have developed the land And of course its pretty static right now and all the values over here have dropped off because of the economy",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh yeah",
+                "label": "b"
+            },
+            {
+                "text": "How about you",
+                "label": "qo"
+            },
+            {
+                "text": "Well I am uh Im gosh Im barely in Dallas Im just north of Addison Airport --",
+                "label": "sd"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "-- up on the tollway",
+                "label": "+"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "And I guess we have similar situation I mean weve got houses two streets away that are probably around seventy eighty thousand --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and then weve got Bent Tree right across the street so I dont --",
+                "label": "sd"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "-- I dont even know how high those go but some of those are pretty big",
+                "label": "+"
+            },
+            {
+                "text": "Yes those are over million",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah So its thats the strange thing about I guess Dallas because back where Im from you wouldnt have that sort of variation at all Theyd all be pretty similar to one another within couple miles So -",
+                "label": "aa"
+            },
+            {
+                "text": "Well we have suffered from real lack of land use planning in Dallas",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Not as bad as Houston but exactly what youre describing is what happens all over",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh yeah Ive noticed that",
+                "label": "aa"
+            },
+            {
+                "text": "Well now do you live in home or --",
+                "label": "qr"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "-- zero lot home or -",
+                "label": "+"
+            },
+            {
+                "text": "Uh weve got house lets see we moved in about four years ago and it was it had previously been unoccupied but it had existed for three years",
+                "label": "sd"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "This is whole block of homes that uh builder built all of them and I guess he he did some crazy thing to get some extra money from the bank and then ran away type of deal So the whole block was all foreclosed",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "And so some were vacant for quite while before they you know they finally sold them because there were so many",
+                "label": "sd"
+            },
+            {
+                "text": "Well your was your house in good shape was it damaged",
+                "label": "qy"
+            },
+            {
+                "text": "Yes no the only thing that we were worried about was the air conditioner because theyd have it just running constantly with the doors and windows open",
+                "label": "ny"
+            },
+            {
+                "text": "Oh it was",
+                "label": "bh"
+            },
+            {
+                "text": "But - yeah",
+                "label": "%"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "So we just you know we bargained to get an extra warrantee on that",
+                "label": "sd"
+            },
+            {
+                "text": "I see",
+                "label": "b"
+            },
+            {
+                "text": "And uh were really we havent had any problems and you know we had originally thought wed have to get fix up special or something because being from the northeast we figured we couldnt afford anything But the prices are much lower here and this was definitely not fix up special but Ill tell you it takes all my time Between we put in our own sprinkler system and I just finished repainting the exterior and you know making drapes and buying furniture its just money pit Really is",
+                "label": "sd"
+            },
+            {
+                "text": "Yes I am --",
+                "label": "aa"
+            },
+            {
+                "text": "So",
+                "label": "b@"
+            },
+            {
+                "text": "-- familiar with that I where I live is house thats seventeen years old when I bought it",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "+@"
+            },
+            {
+                "text": "And we bought it from someone who was in it but before they had it I found out after I had been in the house it it had sat empty for the better part of year",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And Im not sure what happened but I do know the folks that we bought it from had done virtually no maintenance for for about four years",
+                "label": "sd"
+            },
+            {
+                "text": "Oh no",
+                "label": "ba"
+            },
+            {
+                "text": "I I I found lot of things but -",
+                "label": "sd"
+            }
+        ]
+    }
+]

@@ -1,0 +1,587 @@
+[
+    {
+        "conversation_id": "conv_2929",
+        "turns": [
+            {
+                "text": "You want to go first",
+                "label": "ad^t"
+            },
+            {
+                "text": "Well I believe that the um the voice that uh initialized this call asked about uh if we thought that it should be something that should be put into action",
+                "label": "sv^t"
+            },
+            {
+                "text": "Yeah like the governme- if should the government make it universal or something like that Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Yes I I I I would be committed to that becau- -",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh You you would be in favor of it",
+                "label": "b"
+            },
+            {
+                "text": "Oh definitely Yes",
+                "label": "na"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I know that there are many countries that uh are very successful with the operation of the government uh providing that plan",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Do they have options on who they uh you know like choices of doctors and that type of thing Do you -",
+                "label": "b"
+            },
+            {
+                "text": "Um Im not sure wha- how their program is run but I know it has been successful",
+                "label": "no"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I would really have to uh read the history of probably I uh the country that has fared very well with it and Id like to see the uh the data on that",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Thats the way with me I dont know whole lot about it I woul- - thats the only concern I would have because I think personalities plus the type of doctor it is has lot to do with the care and if you didnt have any choice --",
+                "label": "b"
+            },
+            {
+                "text": "Well I -",
+                "label": "%"
+            },
+            {
+                "text": "-- on you know in who you go to -",
+                "label": "+"
+            },
+            {
+                "text": "Yes I think thats primary is if you have good relationship --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- with your doctor that you can feel free to discuss anything with him",
+                "label": "+@"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh",
+                "label": "+@"
+            },
+            {
+                "text": "Or to change even like if you didnt approve or didnt think you were getting good service",
+                "label": "sv"
+            },
+            {
+                "text": "Oh absolutely that the choice would be yours --",
+                "label": "+@"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- yes if you felt that you werent being um given the proper guidelines --",
+                "label": "+@"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- for your health that you should be able to make um choice there",
+                "label": "+@"
+            },
+            {
+                "text": "uh-huh There thats one of my main concerns I I have friend that has their boy has been sick for several months and they just have found out whats the trouble And they have gone through uh one two three four five doctors and then team of doctors and they finally determined what the problem was It took that long",
+                "label": "aa"
+            },
+            {
+                "text": "Yes and the expense of that yes",
+                "label": "b"
+            },
+            {
+                "text": "And that that something like that you know I thought if you couldnt change or look elsewhere you know for help if you wer- - I dont know how that program works you know if you can do that",
+                "label": "sv"
+            },
+            {
+                "text": "Well I would I would think that they would have that as part part of the benefit --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- to the health care program that you would indeed have choice that you could select that individual --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- yourself And Im sure that they would have history of each doctor and hopefully that they would have their um accreditations there too",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh uh-huh I guess thats thats primarily was one of my thoughts you know because you know how government is",
+                "label": "b"
+            },
+            {
+                "text": "Yes um but those guidelines have to be set up and I think they should be voted on by the public",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh -",
+                "label": "%"
+            },
+            {
+                "text": "For them to have choice on --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- if theyre in favor of it or not",
+                "label": "+"
+            },
+            {
+                "text": "Right yes",
+                "label": "aa"
+            },
+            {
+                "text": "It it would",
+                "label": "sv"
+            },
+            {
+                "text": "And of course they would give full plan of what their intentions would be and um I think thats primary uh --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- for the health if they were going to have universal health care plan",
+                "label": "+@"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "That uh they would have all the facts and the figures and uh what it would mean to each individual family --",
+                "label": "+@"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- or an id- individual perhaps being single",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Um Im not sure what else that uh we could address uh on health care uh other than the fact I think uh the eyes and the ears and the uh whole self should be uh uh included in all of that",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh dental eye care and uh our body --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- as whole should be included in that --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- because there are so many avenues that needs to be um undertaken in program like that Um I wouldnt want to have to go for private doctor for anything and not be covered by the program",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh I know where my son works they have uh an option right now where they can have their own physician or they can choose one that their company has elected --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and that costs them less if they take the doctor that uh that the company has selected",
+                "label": "sd"
+            },
+            {
+                "text": "And does he have an option --",
+                "label": "qy"
+            },
+            {
+                "text": "He ge- -",
+                "label": "%"
+            },
+            {
+                "text": "-- uh if he doesnt care for the personality",
+                "label": "+"
+            },
+            {
+                "text": "Well only to the point that he could go to somebody at his own expense",
+                "label": "ng"
+            },
+            {
+                "text": "Oh I see",
+                "label": "bk"
+            },
+            {
+                "text": "Otherwise he wo- you know he has to take the physician that uh and the hospital that the company has chosen as their you know the one they have taken And there again I mean hes gotten good service He took the less expensive one of course",
+                "label": "sd"
+            },
+            {
+                "text": "Well if hes pleased with it I guess thats uh the bottom line",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh uh-huh Uh",
+                "label": "b"
+            },
+            {
+                "text": "So but I I would be afraid of what would happen if you had personality conflict or something",
+                "label": "sv"
+            },
+            {
+                "text": "Right right Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Yeah cause theres always that opposite story there",
+                "label": "b"
+            },
+            {
+                "text": "Uh cause thats the first Ive really known anybody that you know works for somebody that they had that option you know to make the choice --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- of what kind of insurance policy they what kind of hospitalization they wanted to take",
+                "label": "+"
+            },
+            {
+                "text": "Its quite different from when I was uh under doctors care thats for sure",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Im Im very thankful that Im not under any doctors care",
+                "label": "sd"
+            },
+            {
+                "text": "Oh If you have your health youre wealthy",
+                "label": "sv"
+            },
+            {
+                "text": "Thats right",
+                "label": "ba"
+            },
+            {
+                "text": "You really are yeah yeah",
+                "label": "sv"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "Uh we live in rural area up here",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh what part of uh Pennsylvania do you live in",
+                "label": "b"
+            },
+            {
+                "text": "Uh are you familiar with any of the area that all",
+                "label": "qy"
+            },
+            {
+                "text": "Well I have brother that lives there",
+                "label": "na"
+            },
+            {
+                "text": "Where",
+                "label": "qw"
+            },
+            {
+                "text": "Uh near uh Philadelphia",
+                "label": "sd"
+            },
+            {
+                "text": "Oh well thats thats ways away But we live in Clarion County",
+                "label": "sd"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "Uh we have cousin that lives in Philadelphia and uh -",
+                "label": "sd"
+            },
+            {
+                "text": "Are you native Pennsylvanian",
+                "label": "qy"
+            },
+            {
+                "text": "Yes uh-huh uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Okay so Im former Michiganian so -",
+                "label": "bk"
+            },
+            {
+                "text": "Oh uh-huh Thats nice state thats real nice state uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Yes it is its very lovely its very lovely state",
+                "label": "aa"
+            },
+            {
+                "text": "So I suppose really our situation here is even different that it is in you know like more populated areas --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh uh-huh --",
+                "label": "b"
+            },
+            {
+                "text": "-- as far as uh --",
+                "label": "+"
+            },
+            {
+                "text": "-- Im sure it is uh-huh",
+                "label": "ba"
+            },
+            {
+                "text": "-- the doctors that are available Of course we have good physicians here too weve been pretty fortunate Weve had some of the most outstanding doctors in our area for some of the different fields",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So uh weve been pretty fortunate uh-huh",
+                "label": "sd"
+            },
+            {
+                "text": "That has broadened so much also",
+                "label": "sv"
+            },
+            {
+                "text": "Oh yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "That is the fields that you know are opening up are um just phenomenal",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "They - I mean look at the AIDS uh case --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know I mean they thats whole new field --",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- in itself Its just its an auto immune deficiency --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but it sure is dilly one",
+                "label": "sv"
+            },
+            {
+                "text": "It sure is I still wish they could do more with the cancer situation though",
+                "label": "ba"
+            },
+            {
+                "text": "Yes I do too",
+                "label": "aa"
+            },
+            {
+                "text": "They uh they just dont seem to be - I know theyre making progress but not like that I would like to see yeah",
+                "label": "sv"
+            },
+            {
+                "text": "To eradicate it entirely yeah",
+                "label": "bf@"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Well theres guidelines that people have to follow and if theyre determined to uh have their cigarettes and the other --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh carcinogenic causing items --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- then how do you teach them I guess you -",
+                "label": "+"
+            },
+            {
+                "text": "But maj- lot of them dont do these things even and it doesnt seem to matter",
+                "label": "sv"
+            },
+            {
+                "text": "Thats true too",
+                "label": "ba"
+            },
+            {
+                "text": "So uh it rea- -",
+                "label": "%"
+            },
+            {
+                "text": "Its - I I I really believe our environment have lot to do with it",
+                "label": "%"
+            },
+            {
+                "text": "Well they say second hand smoke and that is worse than smoking",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So so what do you do you know",
+                "label": "qh"
+            },
+            {
+                "text": "Well you just have to ban the smoking to their --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- to their little room that they want to -",
+                "label": "+"
+            },
+            {
+                "text": "Take their rights away from them they say I never had the desire so I havent ever had that problem as far as that goes",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So I cant take any credit for not smoking even So -",
+                "label": "sd"
+            },
+            {
+                "text": "Well its bad habit thats tha- -",
+                "label": "sv"
+            },
+            {
+                "text": "Its hard to break its hard one to quit Yeah yeah",
+                "label": "^2"
+            },
+            {
+                "text": "Yes Its - they say that it is Well it was nice talking with you",
+                "label": "aa"
+            },
+            {
+                "text": "Yes very nice talking to you too and you have good day",
+                "label": "fc"
+            },
+            {
+                "text": "And well you do the same And uh well be - I guess talking around the country",
+                "label": "fc"
+            },
+            {
+                "text": "Right",
+                "label": "fc"
+            },
+            {
+                "text": "Okay you - bye-bye",
+                "label": "fc"
+            },
+            {
+                "text": "Okay bye-bye",
+                "label": "fc^m"
+            }
+        ]
+    }
+]

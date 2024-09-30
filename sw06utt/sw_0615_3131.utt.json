@@ -1,0 +1,443 @@
+[
+    {
+        "conversation_id": "conv_3131",
+        "turns": [
+            {
+                "text": "Were to discuss little bit about the process of putting someone in nursing home and making the decision on family basis and probably the first question would be whether youve ever had to go through that process",
+                "label": "sd"
+            },
+            {
+                "text": "Well not so much personally but my um husband has an aunt who has been like second mother I mean always lived in the same town and took care of him and such They live down in College Station where his parents do too And they put her in home last year",
+                "label": "ng"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "She appeared to have couple of light strokes and started to uh not be able to be in her apartment on her own",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "So they found place nearby that they put her in last year",
+                "label": "sd"
+            },
+            {
+                "text": "So it was pretty much physical decision",
+                "label": "qy^d"
+            },
+            {
+                "text": "Uh yeah although she is uh in pretty good health and shes doesnt take any medication - its just she had had her own apartment and drove car and everything up until that point",
+                "label": "ny"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "Then she was starting to get uh you know lose memory sometimes and which is kind of frightening when shes in the car",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Uh",
+                "label": "%"
+            },
+            {
+                "text": "My husbands family are reaching that point but its its so difficult Was she in favor of it or or was she kind of opposed to it",
+                "label": "sd"
+            },
+            {
+                "text": "Well yeah when it finally came down to it um she just got to the point after the - I mean it wasnt very um strong stroke It was just kind of all of sudden she wasnt herself anymore",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And she got kind of fearful of being on her own She never really ate very well It was one thing She hardly --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- ever took care of herself and she didnt eat She ate very poor so I think she was you know bad uh nutrition on top of it And uh she got to the point she didnt want to alone anymore So -",
+                "label": "+"
+            },
+            {
+                "text": "So often I think though elderly people dont realize that their diet is that bad I work with lot of elderly people Im trust officer --",
+                "label": "sv"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "-- and so often they think theyre adequately caring for themselves when theyre really not eating very much or very balanced meals",
+                "label": "sd"
+            },
+            {
+                "text": "Well she was almost ridiculous Like shed eat ice cream and cookies Shed -",
+                "label": "sd"
+            },
+            {
+                "text": "Yes Well you know thats part of the aging process",
+                "label": "aa"
+            },
+            {
+                "text": "Didnt one -",
+                "label": "%"
+            },
+            {
+                "text": "That your taste buds goes back to the sweet taste It really is",
+                "label": "+"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Well she didnt want to cook for herself anymore",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Oh thats too much trouble Thats too much trouble Didnt want to cook",
+                "label": "^q"
+            },
+            {
+                "text": "And the portions people dont want to try to figure out little bitty individual meals I do that right now --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and Im not near nursing home age",
+                "label": "sd"
+            },
+            {
+                "text": "Although theyve got uh Meals On Wheels",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Which I understand is really good you know way to handle that so that at least they eat",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh So as family you all just visited nursing homes or probably in College Station there wasnt whole lot of choice",
+                "label": "b"
+            },
+            {
+                "text": "No I dont think there was Um I know little bit more from co-worker Her mother-in-law had been in for quite some time and had different degrees of place that she was in",
+                "label": "nn"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Um she was ambulatory and so there was lesser care Uh then she got uh uh hip broken and then uh she wasnt as ambulatory so they --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- were almost you know to the point of saying she cant be here anymore But I remember from her checking around she ended up staying at the Arkansas House I think out in Arlington something like that",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh you know the type of facilities whether its shared room or two separate rooms that share uh uh bathroom All of them all seem to say that people there are going to steal their items",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah Thats given",
+                "label": "aa"
+            },
+            {
+                "text": "Theyre always saying that somebodys going to and some of them I think unconsciously do it you know",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "as just you know half seni- -",
+                "label": "+"
+            },
+            {
+                "text": "And sometimes the the help there does it I think",
+                "label": "sv"
+            },
+            {
+                "text": "Uh So they they uh dont have too many facilities it seems for their personal items",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Very limited space waste but um at least they all seem to have uh you know people that monitor their uh medication intake and dining facilities you know go to the dining room --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and and eat some good meals I know when my friends mother-in-law first went in I mean very antisocial Maybe it takes while for them to say okay well Ill be with other people but -",
+                "label": "+"
+            },
+            {
+                "text": "Adapt",
+                "label": "bf"
+            },
+            {
+                "text": "Yeah I dont understand --",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- that they they dont want to be with anybody else",
+                "label": "+"
+            },
+            {
+                "text": "I as I think I mentioned I was in the trust business and Ive seen so many elderly people Usually there has to be some wealth involved which is great if if youre financially if if you dont make the decisions so late that youre worried about money but --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- the the places like Presbyterian Village and some of the the retirement places where where they have different levels of care seems to be so much better as far as elderly people adapting Theyre able to move in while theyre still independent --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and still social and and they do group things And then if health or or mental capacity deteriorates theyre able to take the next steps without so much change and oh I wish everybody could go that direction rather than just all of sudden moving out of the home theyve always been in Its really kind of difficult",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I have um - my aunts mother is uh gotten ill recently and uh she lives in Pennsylvania they live in Alabama And theyre saying hey we need you to be closer and --",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- you have women like that I dont to men - it seems like the women out just out live their husbands but very reluctantly that --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- whole I mean - they dont get out of the house they dont socialize but its my home and I dont want to leave it",
+                "label": "+"
+            },
+            {
+                "text": "Well and its the first step in in actually accepting that you are failing and and aging",
+                "label": "sv"
+            },
+            {
+                "text": "Uh",
+                "label": "%"
+            },
+            {
+                "text": "You know once you make that step you know that its just going to be downhill from then on and and Ive seen people really fight it that desperately needed --",
+                "label": "sv"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "-- to make the change They they became - in fact thats probably whats going to happen with my husbands mother Shes going to endanger herself before shell willingly and probably will never willingly make the decision And that scares me the the thought of forcing somebody to do something",
+                "label": "+"
+            },
+            {
+                "text": "But its its so lonely you know they cant get out and see anyone and --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- I mean its hard for for someone like me to understand that because I th- I think what do you have there Its house",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "its walls and its furniture but --",
+                "label": "sd"
+            },
+            {
+                "text": "Not as independence",
+                "label": "bf"
+            },
+            {
+                "text": "-- theres nobody there Dont you want to be close to me I mean you know --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- be with other people I just dont understand why they so much want to just stay in --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- that building",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "And theres no family there they dont get to see their grandkids they dont get to see their children they just there in that house",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah And the quality of life really isnt there",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Oh its tough it really is",
+                "label": "ba"
+            },
+            {
+                "text": "Thats from the childs standpoint The child is going why dont you want to be close to me and your other family",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "What does that house got attraction",
+                "label": "^q"
+            },
+            {
+                "text": "Well they fear being dependent --",
+                "label": "sv"
+            },
+            {
+                "text": "I know theyre really proud of independence",
+                "label": "sd"
+            },
+            {
+                "text": "-- on somebody They they fear being burden --",
+                "label": "+"
+            },
+            {
+                "text": "Uh",
+                "label": "%"
+            },
+            {
+                "text": "-- to to family members My husbands mother will have major surgery and well find out about it in casual conversation Shell let something slip and well say wait minute And and thats it she just well - I didnt want to bother you She cant accept that we want to be the care givers",
+                "label": "+"
+            },
+            {
+                "text": "Well when she got home who took care of her",
+                "label": "qw"
+            },
+            {
+                "text": "Yeah Well she stayed she stayed in temporary nursing home",
+                "label": "b"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "Until she was okay You know its just - but its frightening to us because we live pretty far from her Shes down in Temple --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and we cant see her often enough to really know whats going on",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "So its difficult it really is and were all heading that way and -",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah my husband and I we have been thinking about his folks are in College Station and weve pretty much planned that well be here in the Dallas area and --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- theres nothing to hold them there in College Station since theyre retired So we thought maybe we could get them to move little closer here",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            }
+        ]
+    }
+]

@@ -1,0 +1,603 @@
+[
+    {
+        "conversation_id": "conv_3102",
+        "turns": [
+            {
+                "text": "So uh lets see wh- what was the topic I forgot we are supposed to talk -",
+                "label": "^h^t"
+            },
+            {
+                "text": "Advice for people taking for parents uh help their kids through college",
+                "label": "sd^t"
+            },
+            {
+                "text": "Yeah do you have any children",
+                "label": "b"
+            },
+            {
+                "text": "No I just graduated from college",
+                "label": "nn"
+            },
+            {
+                "text": "Oh did you",
+                "label": "bh"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "Where did you go",
+                "label": "qw"
+            },
+            {
+                "text": "I went to Clarion",
+                "label": "sd"
+            },
+            {
+                "text": "Clarion",
+                "label": "bf^m"
+            },
+            {
+                "text": "uh-huh",
+                "label": "aa"
+            },
+            {
+                "text": "Huh uh would you I mean if you had children would you want them to go to certain place or -",
+                "label": "qy"
+            },
+            {
+                "text": "Um I would want them to make that decision and I would you know -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "uh I pretty much made my decision on my own and my - older brother likewise",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh you know we we were both pretty much happy with what we did",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So I think I would not push them towards any one place",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Yeah I know I kind of feel the same way I I just finished college couple years ago and I uh you know - it was while I had my family and everything and it was lot harder but uh you know I went to college that was fairly local and I feel like my education you know - you get out of it what you put into it I think",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But you know I know - its - some people are real adamant about you know going to certain school or whatever",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I do not know I guess it lot of it would depend on maybe what your major was or something I do not know But -",
+                "label": "h"
+            },
+            {
+                "text": "Yeah exactly",
+                "label": "aa"
+            },
+            {
+                "text": "But -",
+                "label": "%"
+            },
+            {
+                "text": "I think one of the first things kids ought to look for is first of all they have to decide what they want to major in",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And then you know find school thats good for that",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Is that why you picked the school you did or -",
+                "label": "b"
+            },
+            {
+                "text": "Well I picked it for couple of reasons it was only about an hour and ten minutes away from home",
+                "label": "ng"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "so it was far enough away that I was away",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "but yet close enough if I ever wanted to go home I could",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Uh",
+                "label": "%@"
+            },
+            {
+                "text": "So you lived there at school then",
+                "label": "qy"
+            },
+            {
+                "text": "Pardon me",
+                "label": "+@"
+            },
+            {
+                "text": "You lived there at school",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah I lived up at school",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Uh another reason was uh I paid for my entire education",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So I had to look for something that I could afford economically",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "You know and uh Clarion was oh it was roughly around six thousand year",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh And that was for tuition and -",
+                "label": "b"
+            },
+            {
+                "text": "Yeah that was for everything And now I did not go out lot and I did not order out lot",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and I you know I did not spend money on myself",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But uh then again I was there for school so -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Uh and then another reason was I was not sure you know - I always wanted to go to school for nursing and then at the last minute I changed my mind",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I knew that Clarion was known you know for two things actually for their - they are known as teachers school --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and also for their business So thats what I ended up going for is for business",
+                "label": "+"
+            },
+            {
+                "text": "For business -",
+                "label": "bf"
+            },
+            {
+                "text": "uh-huh",
+                "label": "aa"
+            },
+            {
+                "text": "So uh are you working somewhere then or -",
+                "label": "qy"
+            },
+            {
+                "text": "No no not yet I am moving shortly so I am not looking around here",
+                "label": "nn"
+            },
+            {
+                "text": "Oh I see where are you going to move to",
+                "label": "bk"
+            },
+            {
+                "text": "Uh Maryland",
+                "label": "sd"
+            },
+            {
+                "text": "Oh are you",
+                "label": "bh"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Do you have friends there or -",
+                "label": "qy"
+            },
+            {
+                "text": "My fiancee is down there",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I see So does he work for company down there",
+                "label": "bk"
+            },
+            {
+                "text": "Yeah he works for the government",
+                "label": "ny"
+            },
+            {
+                "text": "Oh I see Oh the big company",
+                "label": "bk"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "So yeah I I have been working for I for about twelve years I guess So -",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But I am not originally I am originally from Illinois but you know I have gone to college I guess few different places but I think you know mo- for the most part you know the teachers have been pretty good and I have got out of it what I have what I have put into it",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So but you know I think I think thats most of it personally but thats why I you know with my kids I think that you know I am just going to encourage them to go And I am going to try to help them financially but uh I think you know financially I am - theres only so much I can do for them",
+                "label": "sd"
+            },
+            {
+                "text": "Exactly",
+                "label": "aa"
+            },
+            {
+                "text": "and I will say heres what you have got you can either you know go couple of years locally and you know then if you want to move off to more expensive school then we might be able to handle it But",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "otherwise you can just go for four years you know somewhere and I will try to try to help you But uh I do not know you know the financial end of it like you said I put my wife through school too Of course I paid for lot of the tuition and books and stuff but uh it still was challenge to do And uh so I think you know financially thats thats one of the big aspects",
+                "label": "+"
+            },
+            {
+                "text": "Exactly yeah",
+                "label": "aa"
+            },
+            {
+                "text": "You know you -",
+                "label": "%"
+            },
+            {
+                "text": "It does have lot of bearing on it whether you are paying for yourself",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "or whether your parents are you know",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Well did you uh since you were paid for school yourself do you think you had different outlook on it like your grades and things like that",
+                "label": "b"
+            },
+            {
+                "text": "Uh yeah because I was paying for it myself I kind of slacked off because I felt it was mine and I could do with it what I wanted",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I think if my parents would have paid for it they would have been on me you know",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "uh they pretty much got to the point well well you know you are at that age and you are going to have to decide what you want to do If you goof",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "up its your fault its not ours you know",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And then lets me go - and I mean I did not do poorly I finished with two five thats not that wonderful either",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh yeah",
+                "label": "b"
+            },
+            {
+                "text": "But uh you know I I mean I worked I did not you know",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "goof around I worked",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "It was just harder you know I do not know I was used to being you know on top and when I started there it was like you are mediocre so -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Well see I think you know - I have known lot of people that would go to school and their parents paid for it and and I guess it depends on the way you are raised too but if you if you grow to expect that you know",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "you kind of go there as sort of vacation you know",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I - thats the way lot of my friends did it and you know they were not they did not take it very serious I know I took it real serious cause I did not start to college until you know I was about eight or ten years and uh you know out of what I should have been in school",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But uh you know so I think that helped me be real serious about it And I I ended up graduating with like three point six",
+                "label": "sd"
+            },
+            {
+                "text": "Oh wow thats really good",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah so I you know - and that was hard cause I had two kids",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and you know family and everything else so I had lot of different hats to wear all at the same time But -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah See well I screwed myself up also there was point in time that I decided that I did not want to in school and my parents never pushed me until my dad just said what are you going to do and I said well I am going to go because I have not whipping butter the rest of my life you know",
+                "label": "b"
+            },
+            {
+                "text": "Yeah you are right exactly",
+                "label": "aa"
+            },
+            {
+                "text": "So I went and I just took business",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "well being as I was paying for it myself you know I just kept - you do not get into your major until like your second or third year",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And I am going into my third year and I decided well I do not want to do accounting anymore right -- -",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and I thought oh my God I am paying for this myself I am not switching completely because",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "I will put myself year behind",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So I switched to finance and I liked it better and I pulled myself from two oh to two five you know",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "in my last year my senior year",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But I would have really liked to go on uh secondary ed with math education",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "but it was just the fact I was paying for it myself I was not going",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "to put myself behind another year",
+                "label": "+"
+            },
+            {
+                "text": "Right Well - my wife was sort of in the same situation she was she went to school to be teacher just because she did not really know what else to go",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "for and she did not realize until she got to be senior and was doing her student teaching that she did not like it",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But you know by then she had practically got her degree so -",
+                "label": "sd"
+            },
+            {
+                "text": "Exactly",
+                "label": "aa"
+            },
+            {
+                "text": "so you know -",
+                "label": "%"
+            },
+            {
+                "text": "I think if uh I would have went with the math I think I would have done lot better because I was more interested",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And thats what I I knew thats what I wanted But uh I think lot of kids that hold off year or two",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "oh my gosh I would like to see the results on study done I think they would do lot better Because they are more focused",
+                "label": "fe"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "They know exactly what they want to do",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah I think I think you are right when you pull yourself away and then you get out and you say man I really need this -",
+                "label": "b"
+            }
+        ]
+    }
+]

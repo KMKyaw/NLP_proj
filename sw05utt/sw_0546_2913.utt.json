@@ -1,0 +1,711 @@
+[
+    {
+        "conversation_id": "conv_2913",
+        "turns": [
+            {
+                "text": "Okay well what movies do you like",
+                "label": "o"
+            },
+            {
+                "text": "Gosh I like just about anything We I think the last one we saw was uh TEENAGE MUTANT NINJA TURTLES PART TWO",
+                "label": "^h"
+            },
+            {
+                "text": "Oh now I lo- I like the turtles My little boys four and he loves them",
+                "label": "sd"
+            },
+            {
+                "text": "Well we dont have any kids but we like them anyway",
+                "label": "sd"
+            },
+            {
+                "text": "Oh thats okay How old are you all",
+                "label": "ba"
+            },
+            {
+                "text": "Um were late twenties",
+                "label": "sd"
+            },
+            {
+                "text": "Oh and you just dont have any yet okay",
+                "label": "bf"
+            },
+            {
+                "text": "No",
+                "label": "aa"
+            },
+            {
+                "text": "Well Ive got two",
+                "label": "sd"
+            },
+            {
+                "text": "Oh gosh",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah my little girl is three months old and my little boy just turned four I had his birthday party yesterday",
+                "label": "aa"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "But hes turtle fanatic He even had turtle cake yesterday But Ive been wanting to see TURTLE TWO Is it as good as they say it is",
+                "label": "sd"
+            },
+            {
+                "text": "It was it was actually better than the first one I thought",
+                "label": "sd"
+            },
+            {
+                "text": "Good",
+                "label": "ba"
+            },
+            {
+                "text": "Whats the last movie you saw",
+                "label": "qw"
+            },
+            {
+                "text": "GHOST",
+                "label": "sd"
+            },
+            {
+                "text": "Oh we were just when when the topic came up we I was asking my husband right quick whats the last movies we saw He said well GHOST and TURTLES I really liked it",
+                "label": "b"
+            },
+            {
+                "text": "Now GHOST yeah I love tearjerker movies But that wasnt too bad on tearjerker but",
+                "label": "%"
+            },
+            {
+                "text": "Not too awful bad",
+                "label": "ba"
+            },
+            {
+                "text": "It was oh it was good movie though I can see why it won so many Oscars slash error--though should go with prev utt",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Because that was just so good And I like Demi Moore",
+                "label": "sv"
+            },
+            {
+                "text": "Did you see PRETTY WOMAN",
+                "label": "qy"
+            },
+            {
+                "text": "No but Ive been hearing lot about it I don- we dont get to the video store very often and we dont have cable",
+                "label": "nn"
+            },
+            {
+                "text": "Oh gosh",
+                "label": "ba"
+            },
+            {
+                "text": "Well we dont really want cable its just you know glued to the all the time anyway",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So we get two channels down here Im from Kentucky originally",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and we used to get five channels without cable",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know forty - well I dont think you all have the same channels but here in Texas we only get two channels and thats um - do you watch soap operas",
+                "label": "sd"
+            },
+            {
+                "text": "Uh once in while when Im home",
+                "label": "na"
+            },
+            {
+                "text": "Okay you work then",
+                "label": "bk"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Okay well we get the channel with YOUNG AND THE RESTLESS on it",
+                "label": "bk"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "And then uh I think GENERAL HOSPITAL and that comes on different channel",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah it does",
+                "label": "aa"
+            },
+            {
+                "text": "But thats all we get and thats no cartoons for my little boy But weve got and lot of tapes",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And uh my husband is movie fanatic",
+                "label": "sd"
+            },
+            {
+                "text": "I think you would really like PRETTY WOMAN it was it was really - it made you feel really good It was just happy movie",
+                "label": "sv"
+            },
+            {
+                "text": "Oh what about TOTAL RECALL have you seen that",
+                "label": "qw"
+            },
+            {
+                "text": "Yeah I saw that one",
+                "label": "ny"
+            },
+            {
+                "text": "Thats good",
+                "label": "sv"
+            },
+            {
+                "text": "I I was disappointed in it just because of how violent it was",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah it was violent I try to get away from that My little boy oh he loves ROBO COP And that movie I have to Ill fast forward it every time they come to the part where there is - have you seen it",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "The part where theyre shooting mercy",
+                "label": "sd"
+            },
+            {
+                "text": "I dont like that",
+                "label": "sd"
+            },
+            {
+                "text": "That oh thats horrible that is horrible and their their the language on thats filthy",
+                "label": "sv"
+            },
+            {
+                "text": "I dont see why they have to do that I mean",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I mean - everybody knows that it that the the language is there so they could just ignore it and you know",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "use different words instead I think",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah I know",
+                "label": "aa"
+            },
+            {
+                "text": "But I I think lately PRETTY WOMANS been my favorite I went and bought the video Ive probably seen it about fifteen or twenty times",
+                "label": "sd"
+            },
+            {
+                "text": "Um my husband bought me like um uh I think PRETTY IN PINK for my birthday With - wait second I will in minute Kyle Sorry",
+                "label": "sd"
+            },
+            {
+                "text": "Thats okay",
+                "label": "bd"
+            },
+            {
+                "text": "Uh he bought me PRETTY IN PINK Just second Sorry now youre glad you aint got four year old",
+                "label": "sd"
+            },
+            {
+                "text": "Thats okay Now",
+                "label": "bd"
+            },
+            {
+                "text": "It this is the first time hes interrupted my phone calls",
+                "label": "sd"
+            },
+            {
+                "text": "Now I havent seen PRETTY IN PINK that had um does that have slash error",
+                "label": "+"
+            },
+            {
+                "text": "Molly Ringwald",
+                "label": "^2"
+            },
+            {
+                "text": "Molly Ringwald br",
+                "label": "+"
+            },
+            {
+                "text": "Yeah It was cute but it wasnt - I like the um SIXTEEN CANDLES or sixteenth birthday or -",
+                "label": "aa"
+            },
+            {
+                "text": "I think I think SIXTEEN CANDLES was the name of it",
+                "label": "sv^2"
+            },
+            {
+                "text": "Yeah oh that was so good Of course I was teenager when I seen that and I loved it",
+                "label": "aa"
+            },
+            {
+                "text": "I havent seen it either",
+                "label": "sd"
+            },
+            {
+                "text": "Oh well if you like love stories its sweet",
+                "label": "sd"
+            },
+            {
+                "text": "I do",
+                "label": "sd"
+            },
+            {
+                "text": "Oh its sweet it really is And thats tearjerker it gets you I mean it makes you feel really sorry for her",
+                "label": "sd"
+            },
+            {
+                "text": "Oh gosh",
+                "label": "ba"
+            },
+            {
+                "text": "But its hilarious too especially with that uh little guy in it Oh he looks like little I dont know he looks like little boy next door",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "but hes sixteen Oh its cute movie I cant remember his name He kind of looks like DOOGIE HOWSER",
+                "label": "sd"
+            },
+            {
+                "text": "Huh I dont know",
+                "label": "sd"
+            },
+            {
+                "text": "Dont know either",
+                "label": "sd"
+            },
+            {
+                "text": "Bu- -",
+                "label": "%"
+            },
+            {
+                "text": "Hes got curly blonde hair he just little freckly little boy",
+                "label": "sd"
+            },
+            {
+                "text": "Probably know him if I saw him",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah if I could remember the name I know youd know his name because hes played in few movies But uh -",
+                "label": "b"
+            },
+            {
+                "text": "I was just thinking another good one I saw not too long ago was um SLEEPING WITH THE ENEMY",
+                "label": "sd"
+            },
+            {
+                "text": "Okay Ive heard about that but I cant remember it",
+                "label": "b"
+            },
+            {
+                "text": "That thats thats Julia Roberts new movie",
+                "label": "sd"
+            },
+            {
+                "text": "Okay yeah Julia Roberts is good",
+                "label": "b"
+            },
+            {
+                "text": "Yeah shes - this one - you know PRETTY WOMAN was kind of light comedy and romance",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and and this one was lot more dramatic",
+                "label": "sd"
+            },
+            {
+                "text": "Wasnt it murder mystery",
+                "label": "qy"
+            },
+            {
+                "text": "- well -",
+                "label": "nd"
+            },
+            {
+                "text": "Like sort of",
+                "label": "%"
+            },
+            {
+                "text": "it was like uh it was it was mystery She disappeared from her hu- uh husband who was abusing her",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay the yeah thats the one I wanted to see where he was on she was on carnival at carnival on Ferris wheel or something",
+                "label": "bk"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "Well did that come on or did it come out in the -",
+                "label": "qr"
+            },
+            {
+                "text": "No it came out in the theater",
+                "label": "nn"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "And I think you know around here its all ready quit playing But I dont I dont know if its still playing any where else",
+                "label": "sd"
+            },
+            {
+                "text": "Well I I think -",
+                "label": "%"
+            },
+            {
+                "text": "But it was it was",
+                "label": "sd"
+            },
+            {
+                "text": "Real good",
+                "label": "^2"
+            },
+            {
+                "text": "it was one of those that kept you on the edge of your seat",
+                "label": "+"
+            },
+            {
+                "text": "I want to see that Yeah I seen the uh previews for it on down here but its just been down here couple weeks I think",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "because we saw it probably",
+                "label": "sd"
+            },
+            {
+                "text": "month - -",
+                "label": "sd"
+            },
+            {
+                "text": "four or five months ago",
+                "label": "+"
+            },
+            {
+                "text": "Well I know it hasnt been that long since Ive seen the previews for it but yeah I wanted to see it Her husband was dark haired guy with beard and moustache or - - no he shaved the beard off",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah hes uh he was real psycho in the movie",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "It was it was scary",
+                "label": "sv"
+            },
+            {
+                "text": "Oh Id like to see that What about oh - there was - we got one back here while - I want to see WAR OF THE ROSES too have you seen that",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah boy I I didnt like it",
+                "label": "ny"
+            },
+            {
+                "text": "You didnt",
+                "label": "qy"
+            },
+            {
+                "text": "No it was - I didnt like the way it ended",
+                "label": "nn"
+            },
+            {
+                "text": "I know well the only reason I know why it ended is on ARSENIO HALL one night Christopher Reeves told",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "that you know I cant believe they killed them Or or who was it Christopher Reeve or Mike Douglas",
+                "label": "+"
+            },
+            {
+                "text": "Might have been Michael Douglas Oh that starred in it listen",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Yeah it was Michael Douglas",
+                "label": "aa"
+            },
+            {
+                "text": "Christopher Reeve wasnt in it at all",
+                "label": "qy"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "nn"
+            },
+            {
+                "text": "Okay Well Arsenio Hall is the one that jumped up and said that I cant believe they killed them and Christopher Reeve or Mike Douglas went after his throat you dummy So I know that they die but I havent told my husband Weve both been wanting to see it",
+                "label": "bk"
+            },
+            {
+                "text": "It was I I it was it was weird It was different movie from anything Ive ever seen",
+                "label": "sd"
+            },
+            {
+                "text": "well we was uh teasing about you know splitting our house down the middle",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "They did that didnt they and they marked off routes that they could go or something",
+                "label": "qy^g"
+            },
+            {
+                "text": "Yeah that would be kind of hard for us weve only got one bathroom I dont know - -",
+                "label": "ny"
+            },
+            {
+                "text": "Weve got two bathrooms but well i- mi- - actually if he takes - my house kind of looks like two trailers put together And one bathroom is at the end of one side and ones in the middle of the other so we could do it",
+                "label": "sd"
+            },
+            {
+                "text": "That wouldnt be too bad",
+                "label": "ba"
+            },
+            {
+                "text": "No and he could climb out the window Wh- - and we our whole house has you know - every room leads to three rooms so we can you know -- -",
+                "label": "aa"
+            },
+            {
+                "text": "Get around",
+                "label": "^2"
+            },
+            {
+                "text": "-- yeah you can get around You just cant go out the front door honey sorry",
+                "label": "aa"
+            },
+            {
+                "text": "Well did you see FATAL ATTRACTION",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah thats coming back on too",
+                "label": "ny"
+            },
+            {
+                "text": "I know its going to be on on the on Tuesday night an and thats kind of what in way you know how it kind of bothered you the way it ended and stuff",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Thats kind of how WAR OF THE ROSES was",
+                "label": "sd"
+            },
+            {
+                "text": "Huh I -",
+                "label": "%"
+            },
+            {
+                "text": "Parts of parts of WAR OF THE ROSES was funny but then other times it was like it was just deadly serious and it just left you with this kind of uneasy feeling you know",
+                "label": "sd"
+            },
+            {
+                "text": "Eerie feeling or I want to see it though Id like to see that and uh THE NEVER ENDING STORY came out on Disney this month I think",
+                "label": "bf"
+            },
+            {
+                "text": "I --",
+                "label": "sd"
+            },
+            {
+                "text": "I wanted to see that",
+                "label": "sd"
+            },
+            {
+                "text": "-- Ive heard about that but I dont know what its about",
+                "label": "+"
+            },
+            {
+                "text": "THE NEVER ENDING STORY",
+                "label": "br"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Its childs movie but oh its good I enjoyed it",
+                "label": "sd"
+            },
+            {
+                "text": "I love Disney movies",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I do too and slash error",
+                "label": "aa"
+            },
+            {
+                "text": "I mean theyre some of the best of that are made",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah yeah And uh well its about this little boy who uh - I think hes up in attic or some part of school He got locked in the school and he got scared but he starts dreaming and then uh hes saving the land of uh oh - its been so long since Ive seen it All I know alls I can really remember is him flying this great big dog this great big huge sheep dog sort of looking thing",
+                "label": "+"
+            },
+            {
+                "text": "Oh go- -",
+                "label": "ba"
+            },
+            {
+                "text": "it flies through the air And hes trying to save the land from some ooze But its really good I mean it sounds ki- - it it had uh Fred Savage in it No no no no no Did you see that movie with Fred Savage in it though",
+                "label": "sd"
+            },
+            {
+                "text": "I dont think so",
+                "label": "no"
+            },
+            {
+                "text": "with uh oh - he had uh uh - oh it was THE PRINCESS BRIDE",
+                "label": "%"
+            },
+            {
+                "text": "Nope I didnt see that",
+                "label": "nn"
+            },
+            {
+                "text": "You didnt see that that was cute that was real that was good one I I like I like slapstick comedy",
+                "label": "b^m"
+            },
+            {
+                "text": "So do I and lot of times well go to rent movie or something and and youre not sure whether it will be any good or not so sometimes we stick with the stuff weve heard more about than -",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah well I heard - friend of mine told me she got NAKED GUN last night and she said that was hilarious",
+                "label": "b"
+            },
+            {
+                "text": "Yeah now we saw that and i- and theyre coming out with sequel to it",
+                "label": "aa"
+            },
+            {
+                "text": "Two and half is this title",
+                "label": "sd"
+            },
+            {
+                "text": "It was funny",
+                "label": "sd"
+            },
+            {
+                "text": "It wa- yeah I want to see that She said she rented it last night and said it was real good an -",
+                "label": "%"
+            },
+            {
+                "text": "And and WORKING GIRL is really good",
+                "label": "sd"
+            },
+            {
+                "text": "Now I seen that",
+                "label": "sd"
+            },
+            {
+                "text": "That was good",
+                "label": "sv"
+            },
+            {
+                "text": "was that with that blonde she pretended to be the boss or something",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah I rented that one night by myself I was home alone Did you see HOME ALONE",
+                "label": "b"
+            },
+            {
+                "text": "Yes I did that that just reminded me of that Did you like it",
+                "label": "ny"
+            }
+        ]
+    }
+]

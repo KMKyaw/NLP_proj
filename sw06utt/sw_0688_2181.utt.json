@@ -1,0 +1,643 @@
+[
+    {
+        "conversation_id": "conv_2181",
+        "turns": [
+            {
+                "text": "Yes I saw HOME ALONE with some friends just couple days ago I wanted to see it uh because there was uh much recommended for months and months and months and it was genre that I wasnt in the least bit interested in and I usually when I hear about movie thats supposed to be very good --",
+                "label": "o"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- even if its in genre I dont like - I figure well I should go see it because if this is you know the best of the genre and I should know about it or something like that --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah right uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and I usually come away thinking no I really dont like this show",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Yeah I I I I feel that way when movies are like blown up out of proportion you know --",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- usually people tell you how good they are and you always you know end up with expectations too high or whatever",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Well the the problem I had with the movie was the problem Ive had with lot of uh I guess Hollywood movies --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- which is they are its formula movie and theyre making the movie according to certain formula thats good formula --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but they seem to fall short of of being really creative with lot of things I mean --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- heres the situation of this kid at home you know its classic slapstick situation with these bungling burglars trying to get in --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "aa"
+            },
+            {
+                "text": "-- and you know he did some clever things but given the size of the house and how clever the kid was it seems to me they could have done lot more I mean you know basically stepping on things and yelling in pain --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and it seems to me they could have been lot more creative stuff used",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah I was very surprised that did do slapstick movie because thats uh not really the way comedies are right now --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know all the comedies are more like jokes and you know gags and stuff like that --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- theres not as much slapstick anymore",
+                "label": "sv"
+            },
+            {
+                "text": "Well I guess it was uh very successful movie financially so --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- we may see more slapstick",
+                "label": "+"
+            },
+            {
+                "text": "Yeah tha- well thats true its very cheap to make slapstick movie",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah it is it is and I guess you dont have to but you know if you look at oh - have you ever seen any of the movies",
+                "label": "aa"
+            },
+            {
+                "text": "Excuse me",
+                "label": "br"
+            },
+            {
+                "text": "The French movies that -",
+                "label": "sd"
+            },
+            {
+                "text": "No not really the last movie I saw I guess uh was uh uh the one about the French the Frenchman that leaves and comes back and hes someone different Um hes uh - well its about man uh that uh leaves his home and comes back to his wife and his wifes all excited but the guy that comes back is not her original husband but um",
+                "label": "nn"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "OGear um Im sure youve heard of it it was very famous uh popular movie Norman Gray Norman Gear",
+                "label": "+"
+            },
+            {
+                "text": "No Im not with you so far",
+                "label": "ar"
+            },
+            {
+                "text": "Oh shoot Im going to hit myself after I hang up Ill remember the name But uh anyway that was French movie --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- it was um that was the last one I saw downtown but I live in --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- well actually Falls Church Virginia outside the city --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh so lot of times they have the the the international films downtown --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- but uh so this uh French I guess are into the slapsti- I guess they would like Jerry Lewis too",
+                "label": "sv"
+            },
+            {
+                "text": "They have they have - Yes they like your Lewis much to the chagrin of sophisticated Am- of sophisticated American everywhere",
+                "label": "%"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "But they have this one guy who does slapstick comedy and theres something about it thats so innovative you know hell have trouble picking up his hat or catching his umbrella blowing in the wind or something but theres something about it that just it isnt just slapstick theres something about the human character in it --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and thats what I find lacking in lot of you know like HOME ALONE There was lot of the human character when he was home alone and he was trying --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- - and there was lot of human character there but when it was the real slapstick moments him versus the criminals kind of thing it just sort of lost the human element --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and became purely caricature --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- does that make since to you",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah uh-huh yeah I see what youre saying theres less character development rather just the the the funniness of the gag",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "aa"
+            },
+            {
+                "text": "rather than -- -",
+                "label": "+"
+            },
+            {
+                "text": "Did you go with kids though",
+                "label": "qy"
+            },
+            {
+                "text": "-- and how it fits with the character right",
+                "label": "bf"
+            },
+            {
+                "text": "Did you go with kids",
+                "label": "qy^m"
+            },
+            {
+                "text": "Excuse me",
+                "label": "br"
+            },
+            {
+                "text": "Did you take kids along",
+                "label": "qy"
+            },
+            {
+                "text": "No we went uh without the kids its was night out away from the children",
+                "label": "nn"
+            },
+            {
+                "text": "Oh I would have liked to have kid with me I think preferably someone seven or eight --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- just just to get sense for you know how how it affected them especially to come home and you know I would have gotten in trouble the next day Im sure",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh yeah that thats true I I was thinking about that too I saw that um thats why I watched another silly movie um um with my cousin was uh uh the one about the um the turtles",
+                "label": "b"
+            },
+            {
+                "text": "Oh TEENAGE MUTANT NINJA TURTLES",
+                "label": "^2"
+            },
+            {
+                "text": "Right --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- yeah I saw that with my cousin just to see what you know what the kids are into --",
+                "label": "b"
+            },
+            {
+                "text": "And your cousins kid",
+                "label": "qy^d"
+            },
+            {
+                "text": "-- and that is yeah hes little -- -",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- yeah hes anyway and that was just excessively violent I was worried --",
+                "label": "b"
+            },
+            {
+                "text": "Yeah isnt it amazing",
+                "label": "b"
+            },
+            {
+                "text": "-- its like golly if kids start imitating that --",
+                "label": "sv(^q)"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- theyll knock each others blocks off",
+                "label": "+"
+            },
+            {
+                "text": "Yeah it was all bloodless --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and the good guys can get hit all day long --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and they have to shake it off --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- they dont they dont you know get uh epileptics that sort of thing from getting hit on their head --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- you know its little disturbing the violence in these films partly its supposed to be little bit more okay because its comic book --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- on the other hand it makes it seem like - I read an article one time talking about even the quote unquote realistic movies dont have very realistic upsets of the violence The violence can seem very realistic but the aftermath is usually not there",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "So you see people who are severely injured very very badly lose control of body functions --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- they thrash around they scream you know uh its just very very bad thing and they never present that even the movies that want to show violence as real they dont really show you what happens with that real violence --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and Im not really sure how I feel about that",
+                "label": "h"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh on the one hand Id like it to be warning on the other hand I wouldnt want people who currently get sort of enjoy their violence fixes from these movies to start thinking gee now we want to see the aftermath all the time either",
+                "label": "sd"
+            },
+            {
+                "text": "Youre right uh-huh yeah its true",
+                "label": "sv"
+            },
+            {
+                "text": "But - yeah TEENAGE MUTANT NINJA TURTLES was sort of the same way they I guess they figured I mean they know what theyre doing and they make the movies good enough I guess Im bit of snob they make the movies good enough to be successful --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and then they dont and they but they could make them better you know --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- they could try to make - I mean as far as I was concerned TEENAGE MUTANT NINJA TURTLES could have been classic of world theater --",
+                "label": "sv"
+            },
+            {
+                "text": "Really",
+                "label": "b"
+            },
+            {
+                "text": "-- it could have been you know - it was it was innovative uh completely new approach to making movie in lot of ways and yet it ended up not being anything particularly memorable because the the story was stupid and and then things like that and they built up I remember feeling annoyed again I didnt have kid with me and I remember feeling annoyed that they had this whole thing about the Master and the passing of wisdom the from older to younger generation it was it was classic Greek you know you know sort of European mess going back three thousand years that theyre playing with --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- um and he had to - and he told them remember remember you were united you can succeed individually you will fail --",
+                "label": "%"
+            },
+            {
+                "text": "Yeah right right",
+                "label": "b"
+            },
+            {
+                "text": "-- and then there was big climactic fight scene and they didnt remember that they didnt fight together they fought individually and they failed individually and then that was it then they had to have the Master beat him --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- and the Master should according to the classic myth the sort of Joseph Campbell type myth he the Master should have died at the end --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- because the the lesson was passed to the young generation and the older generation is not needed and is reborn to the younger generation and on and on and on and all this wonderful mess --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and it still would have been every bit as accessible movie for the kids if they had included all this stuff that I anyway as an intellectual adult would appreciate it wouldnt have hurt the movie to do that and it would have make it uh broadened the audience that it could have been targeted for I thought --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but I uh Im truly enough you know Im truly an intellectual snob to be going to these kinds of movies I realize that I mean to go to these movies and expect them to be you know other than just just good entertainment --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- kind of thing",
+                "label": "+"
+            },
+            {
+                "text": "Thats true Yeah theres not too many that are uh that are good just on their you know that that you wouldnt want to change something and theres always something that uh -",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I I I Im very Im very critical I I Im actually originally from Hollywood and then then then -- -",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really",
+                "label": "ba@"
+            },
+            {
+                "text": "-- and my father works in films and such - and I tend to tend to be hypercritical --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "+@"
+            },
+            {
+                "text": "-- of these things and then perhaps perhaps its unfair because I I I must admit I enjoy these movies --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah right",
+                "label": "b"
+            },
+            {
+                "text": "-- and thats what theyre for but I dont dont remember them and I think its I think I can think of movies I have less fun during and then after the movies over I remember it so terribly well --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- because it it had some some meaning to me or something",
+                "label": "+"
+            },
+            {
+                "text": "Right exactly yeah there there there are several movies that hit home like that Of course the ones I always remember are the the older ones --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- I always like the musicals and uh",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah they leave -",
+                "label": "b"
+            },
+            {
+                "text": "those ones that just stick in your head",
+                "label": "+"
+            },
+            {
+                "text": "yeah they leave they leave some songs with you I dont know what it is --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but it just - I mean I dont know if this is old fart talking here --",
+                "label": "%"
+            },
+            {
+                "text": "No it could be",
+                "label": "ar"
+            },
+            {
+                "text": "-- or something because Im not that old you know those old movies seemed to have had something --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- that uh that was memorable somehow I dont know what it was",
+                "label": "+"
+            },
+            {
+                "text": "Um Okay well I guess I got to get going",
+                "label": "b"
+            },
+            {
+                "text": "Okay well um thanks for hearing me rap I guess",
+                "label": "fc"
+            },
+            {
+                "text": "Got to go take care of the children",
+                "label": "fc"
+            },
+            {
+                "text": "All right nice talking with you",
+                "label": "fc"
+            },
+            {
+                "text": "Yeah nice talking with you Are you calling from Texas by the way",
+                "label": "fc"
+            },
+            {
+                "text": "No Im in California",
+                "label": "nn"
+            },
+            {
+                "text": "Oh okay the first person Ive talked to outside of Texas",
+                "label": "bk"
+            },
+            {
+                "text": "Yeah there must be Texas people as near as I can tell Well -",
+                "label": "b"
+            },
+            {
+                "text": "Yeah okay well thank you very much",
+                "label": "b"
+            },
+            {
+                "text": "Okay well Im from the -",
+                "label": "bd"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc"
+            },
+            {
+                "text": "All right bye-bye",
+                "label": "fc"
+            }
+        ]
+    }
+]

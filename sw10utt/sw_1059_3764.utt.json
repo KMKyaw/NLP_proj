@@ -1,0 +1,319 @@
+[
+    {
+        "conversation_id": "conv_3764",
+        "turns": [
+            {
+                "text": "I guess you heard our conv- our topic for today was clothing",
+                "label": "qy^d^t"
+            },
+            {
+                "text": "Yes I certainly did",
+                "label": "ny"
+            },
+            {
+                "text": "How you dress for work and season to season and everything",
+                "label": "sd^t"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "How do you dress for work",
+                "label": "qw"
+            },
+            {
+                "text": "Well uh uh about the same I dress for school I uh I am graduate student so I dont have to worry too much about uh what I wear too much of the time",
+                "label": "sd"
+            },
+            {
+                "text": "Sure",
+                "label": "b"
+            },
+            {
+                "text": "Which is nice Uh --",
+                "label": "+"
+            },
+            {
+                "text": "You bet",
+                "label": "ba"
+            },
+            {
+                "text": "-- Uh uh although I do uh lot of - I am speech pathology major and so I do lot of clinical work and when I do clinic work then I have to uh uh look my best",
+                "label": "+"
+            },
+            {
+                "text": "Look professional",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah Unfortunately",
+                "label": "b"
+            },
+            {
+                "text": "Yeah I understand I am - I own my company I am in the I am uh manufactures rep sales organization and my office is small office and I am very casual and wear slacks and sports shirt and things like that --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but then when I travel it is little different situation",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah sure",
+                "label": "b"
+            },
+            {
+                "text": "Uh suits and sports coat tie and the whole bit",
+                "label": "sd@"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Cause you go to meetings and you are required to look your best and look professional of course",
+                "label": "+@"
+            },
+            {
+                "text": "Yeah Yeah Uh uh do you find that uh on the average do people give uh more credibility or less credibility to professional uh to professionally dressed individual",
+                "label": "b"
+            },
+            {
+                "text": "Yeah I think in todays society uh there is more credibility to be quite honest --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- I will always remember - I will tell this real quick story when I graduated from college my first job years ago uh thirty years ago twenty-nine years ago in fact was selling agricultural fertilizer",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I worked for the uh Smith Douglas Division of Borden Chemical and I sold uh you know manure",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh I would go out and call on farmers and I would always try to look my best wearing sport coats and things like that but I was calling on guys that wore bib overalls",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And so one day I got up and thought well I will just go casual and you know that I called on guy wearing exactly that bib overalls and he sort of told me that he expected me to be professional --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and he sort of expected me to dress as professional --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "-- so uh it was sort of -",
+                "label": "sd"
+            },
+            {
+                "text": "Even the farmers",
+                "label": "qy^d"
+            },
+            {
+                "text": "You bet --",
+                "label": "na"
+            },
+            {
+                "text": "Oh wow",
+                "label": "bk"
+            },
+            {
+                "text": "-- even back then so I sort uh been aware of my dress ever since then and --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- try to look my best but here again I dress casual quite bit so -",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh Yeah certainly",
+                "label": "b"
+            },
+            {
+                "text": "It gives you confidence In my business if I call on the the Penney company here in Dallas or say someone say Sears and Roebuck in Chicago then I wear coat and tie If I call on just uh normal little dealer of mine I might be casual",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I call on Oshmans sporting goods again it may be casual or it may be coat and tie So it depends",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah it depends Sure Uh so you dont uh - if you had the choice would you wear tie or not",
+                "label": "b"
+            },
+            {
+                "text": "Uh probably no",
+                "label": "nn"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Probably no",
+                "label": "nn^r@"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Because uh today I believe you can get away with - but then it depends on who you are calling on Who youre - you like your minister standing up in front of you with no tie you just uh he would be missing something",
+                "label": "+@"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Although he shouldnt be evaluated on that",
+                "label": "sv"
+            },
+            {
+                "text": "Right right",
+                "label": "b"
+            },
+            {
+                "text": "So its its just different",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Yeah that uh - if if you wanted to uh uh really get into hot issue uh - well at least in some in some beliefs uh how people dress when they go to church is uh is uh sometimes pretty pretty hot topic",
+                "label": "b"
+            },
+            {
+                "text": "Yes it is",
+                "label": "aa"
+            },
+            {
+                "text": "Uh un- un- un- unfortunately",
+                "label": "sv@"
+            },
+            {
+                "text": "I am uh like Catholic and the people that go to my Church you know - Catholics dress very casual --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "+@"
+            },
+            {
+                "text": "-- lot of the times People in jeans and in whatever but yet the way I was raised - I am converted Catholic the way I was raised - I was raised Baptist and like as youngster I use to always dress up all the time I guess that has changed also",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh Uh yeah Im I am uh I go to the Church of Christ I have been raised in the Church of Christ and uh but uh I uh too many times you hear you hear lot about what what youre uh supposed youre supposed to look your Sunday best --",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- uh uh and dress and proper attire and uh and sometimes that really disappoints me uh in uh when I see in other economic areas like in Kentucky",
+                "label": "+"
+            },
+            {
+                "text": "Sure",
+                "label": "b"
+            },
+            {
+                "text": "You know people just dont have that and they are afraid to go to church or afraid to go simply because --",
+                "label": "sd"
+            },
+            {
+                "text": "But -",
+                "label": "%"
+            },
+            {
+                "text": "-- they dont have the clothes to wear",
+                "label": "+"
+            },
+            {
+                "text": "That is very good point I am from West Virginia so I understand what you are saying there --",
+                "label": "ba"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and its its very good point",
+                "label": "ba^r"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But you shouldnt whats the old saying you shouldnt judge book by its cover",
+                "label": "sv(^q)"
+            },
+            {
+                "text": "Certainly",
+                "label": "ba"
+            },
+            {
+                "text": "And uh evaluation of an individual Course all of it depends on the type of job responsibility you have I think you have to dress sort of accordingly",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But uh you certainly should not judge book by its cover and uh or evaluate person by that",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "What about season to season Does - I guess your dress changes",
+                "label": "qo"
+            },
+            {
+                "text": "Uh yeah little bit Uh uh of course in the summer if I can get away with it I wear uh uh pair of shorts and thats it Run around barefoot no shirt or anything But uh -",
+                "label": "ny"
+            }
+        ]
+    }
+]

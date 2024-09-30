@@ -1,0 +1,355 @@
+[
+    {
+        "conversation_id": "conv_3850",
+        "turns": [
+            {
+                "text": "Okay",
+                "label": "o"
+            },
+            {
+                "text": "So what are your favorite shows",
+                "label": "qw"
+            },
+            {
+                "text": "Um I like watching COLOMBO and um MATLOCK and --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "-- QUANTUM LEAP yeah",
+                "label": "+"
+            },
+            {
+                "text": "QUANTUM LEAP",
+                "label": "qy^d"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Did you see it the other night",
+                "label": "qy"
+            },
+            {
+                "text": "Um uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "That was that was pretty good",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah that one was - What about -",
+                "label": "aa"
+            },
+            {
+                "text": "What do you - with the psychic and everything",
+                "label": "qw"
+            },
+            {
+                "text": "uh-huh yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Okay Yeah I like uh I like NORTHERN EXPOSURE and uh HOME IMPROVEMENT",
+                "label": "bk"
+            },
+            {
+                "text": "Oh I well I havent seen either of those",
+                "label": "sd"
+            },
+            {
+                "text": "Youve never seen NORTHERN EXPOSURE",
+                "label": "qy^d"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "nn"
+            },
+            {
+                "text": "Oh its great show",
+                "label": "sv"
+            },
+            {
+                "text": "Um I also like to watch STAR TREK but its on so late here that I dont always get to see it",
+                "label": "sd"
+            },
+            {
+                "text": "Really Yeah we like it too Have you seen the movie",
+                "label": "bh"
+            },
+            {
+                "text": "Uh I havent seen any of the movies because I just barely just like in the last year or so got interested in it and theyre you know already out with number six by now but So I havent seen any of the movies yet but I -",
+                "label": "ng"
+            },
+            {
+                "text": "Oh you havent seen any of them",
+                "label": "qy^d"
+            },
+            {
+                "text": "No",
+                "label": "nn"
+            },
+            {
+                "text": "Oh well theyre good theyre real good Theyre uh theyre getting rid of the old cast for the movies though",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Which ones are you watching the new ones",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah Ive seen quite few of the older ones I havent seen really the new generation that much",
+                "label": "ny"
+            },
+            {
+                "text": "Oh okay Yeah",
+                "label": "bk"
+            },
+            {
+                "text": "Is there one you prefer better the older one or the youn- the newer one",
+                "label": "qr"
+            },
+            {
+                "text": "Well theyre theyre lot different But I like I like the older ones because at that time you know they were really futuristic you know",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "And the newer ones are I guess the newer ones are real futuristic too but I like I like both of them",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I do too I have brother-in-law who really likes the old ones lot I mean he almost hates the new ones",
+                "label": "b"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah because he he thinks the newer ones is like soap opera and the other one isnt or something but I dont",
+                "label": "ny"
+            },
+            {
+                "text": "No Not really Its not really like --",
+                "label": "aa"
+            },
+            {
+                "text": "Oh I think -",
+                "label": "%"
+            },
+            {
+                "text": "-- soap --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- opera but but its - but thats true I mean you you learn more about the characters and stuff but thats the way all shows are now",
+                "label": "+"
+            },
+            {
+                "text": "Yeah sure Well lets see Um I like to watch COLOMBO because its like mystery thing",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Thats sort of how Matlock is but COLOMBO is way tricky --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- I mean he doesnt even try to let the person know hes getting onto them",
+                "label": "sd"
+            },
+            {
+                "text": "Well it seems like they always --",
+                "label": "sd"
+            },
+            {
+                "text": "Well did you see the one -",
+                "label": "qy"
+            },
+            {
+                "text": "-- show COLOMBO the same ones over and over though --",
+                "label": "+"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "-- you know what Im saying like that one where he goes to college - or is this is there series on",
+                "label": "+"
+            },
+            {
+                "text": "Um yeah theres like one on well we see it Thursdays at seven and --",
+                "label": "ny"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "-- it was - this last time it was about this um movie director did you hap- -- -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I saw that one",
+                "label": "ny"
+            },
+            {
+                "text": "-- did you see that",
+                "label": "qy"
+            },
+            {
+                "text": "See that was rerun",
+                "label": "sd"
+            },
+            {
+                "text": "Really Oh I guess I nev- -",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah I wondered if thats -- -",
+                "label": "b"
+            },
+            {
+                "text": "Huh",
+                "label": "%"
+            },
+            {
+                "text": "-- see I dont know if thats the movie of the week or or what but it seems like theres only about four or five different ones and then then they keep showing them over and over",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I guess Ive I havent seen it before",
+                "label": "sd"
+            },
+            {
+                "text": "He was movie director and he had that gal killed",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah --",
+                "label": "b"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "-- yeah on the set or something",
+                "label": "b"
+            },
+            {
+                "text": "That was pretty good though",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah it was But yeah I like COLOMBO probably the best of any of those mystery things",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But um theres no never anything good on Saturdays though",
+                "label": "sv"
+            },
+            {
+                "text": "No kidding",
+                "label": "ba"
+            },
+            {
+                "text": "I dont think so Well STAR TREKS on at five but Im never home so -",
+                "label": "sv"
+            },
+            {
+                "text": "What is it that - theres something I watch something I watch on Saturdays and I cant remember what it is Now I used to watch TWIN PEAKS",
+                "label": "%"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "You never saw that",
+                "label": "qy^d"
+            },
+            {
+                "text": "Ive heard of it lot Ive heard of - lot of people somehow or something - Theyll say so and so from TWIN PEAKS or something you know",
+                "label": "ng"
+            },
+            {
+                "text": "Yeah yeah that was different soap opera",
+                "label": "b"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "But it was it was different type of show",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I didnt like the way it ended though",
+                "label": "sd"
+            },
+            {
+                "text": "Oh did they end the whole series",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "Yeah they didnt they only did it for I think two years",
+                "label": "b"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "But its all over now",
+                "label": "sd"
+            },
+            {
+                "text": "Oh another show I like to watch is MASH",
+                "label": "sd"
+            }
+        ]
+    }
+]

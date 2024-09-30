@@ -1,0 +1,455 @@
+[
+    {
+        "conversation_id": "conv_2085",
+        "turns": [
+            {
+                "text": "Hi How are you doing",
+                "label": "fp"
+            },
+            {
+                "text": "What I couldnt hear you",
+                "label": "br"
+            },
+            {
+                "text": "I said how are you doing",
+                "label": "fp^r"
+            },
+            {
+                "text": "Im doing fine Im uh just editing spreadsheet right now Im trying to figure out how I can retire without having to work until Im ninety-five",
+                "label": "fp"
+            },
+            {
+                "text": "Yeah Weve been doing that too Were trying to retire in our fifties",
+                "label": "b"
+            },
+            {
+                "text": "Yeah This is very appropriate topic for our uh conversation today because what Im figuring out is that Im going to have to put in lot more money than what Im making",
+                "label": "b"
+            },
+            {
+                "text": "Good luck on that one then",
+                "label": "o"
+            },
+            {
+                "text": "What is that",
+                "label": "br"
+            },
+            {
+                "text": "I said good luck on that one then",
+                "label": "sd"
+            },
+            {
+                "text": "Well weve got pretty good situation my wife and I since our property is already paid for You know the main things that I like about the uh the job benefits --",
+                "label": "sv"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "-- would be the uh the availability of the health insurance and the availability of uh you know being able to transfer around inside the organization without having you know when they cut off system and they dont just can everybody that is working on it like some companies I know of You know they give you an opportunity to either transfer into an on going on going project -",
+                "label": "+"
+            },
+            {
+                "text": "So you work for it I then You cant say",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^m"
+            },
+            {
+                "text": "What",
+                "label": "br"
+            },
+            {
+                "text": "Yes you do Well I work for I and I dont know what your talking about when you say health insurance but Dallas doesnt pay It pays most of mine you know now after you work I think five years they begin to pay most of it But then for the the family you know I put my kids on my policy Its like two hundred dollars --",
+                "label": "ny"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "-- and its gone up quite bit and they predict you know of course its going to keep going up I wish they could go on and pay for all of our coverage at some point And benefits you know - Id like to see child care paid for or on-site child care sometime I think that would be -",
+                "label": "sd"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "and it would make women go to work sometime if they knew their kids were being taken care of They could go visit them during the day What",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah thats uh something I hadnt really thought about because we dont have children But I can see how it would be real benefit Yes I do",
+                "label": "b"
+            },
+            {
+                "text": "Well we keep shelter also monies that were going to pay in for child care too You know go on and pay lump sum and as long as you pay that amount youre okay But if you paid in more than you actually used and the same thing for insurance what you predict your going to be paying for insurance as long as you pay actually pay out that amount of money youre okay But if you pay out less then you lose that money",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "I dont like that part but you dont have to do that option if you dont want to",
+                "label": "sd"
+            },
+            {
+                "text": "Well that could be I could see where that would be important",
+                "label": "sd"
+            },
+            {
+                "text": "And then we got that cafeteria plan do you have that",
+                "label": "sd"
+            },
+            {
+                "text": "No",
+                "label": "nn"
+            },
+            {
+                "text": "No",
+                "label": "b^m"
+            },
+            {
+                "text": "I dont know what its about",
+                "label": "sd"
+            },
+            {
+                "text": "You can uh - well you - lets see it it shelters youre money that you pay for for insurance It takes it out of your salary before taxes",
+                "label": "%"
+            },
+            {
+                "text": "Oh okay Yeah yeah we got that",
+                "label": "b"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "Pretax insurance",
+                "label": "bf"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^m"
+            },
+            {
+                "text": "But we call it the cafeteria plan I wonder why",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "br"
+            },
+            {
+                "text": "I said I wonder why",
+                "label": "sd"
+            },
+            {
+                "text": "Oh its probably what the first guy who did it called it",
+                "label": "sv"
+            },
+            {
+                "text": "Cafeteria",
+                "label": "o"
+            },
+            {
+                "text": "Yeah He was probably in the cafeteria when he thought of it",
+                "label": "b"
+            },
+            {
+                "text": "Maybe so Lets see what else can we do Changes -",
+                "label": "am"
+            },
+            {
+                "text": "Ill tell you what we could do",
+                "label": "sd"
+            },
+            {
+                "text": "What",
+                "label": "qw"
+            },
+            {
+                "text": "We could prohibit people from being hired that are historically going to cost the company money You know do little bit better research on who gets hired --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- Because you know -",
+                "label": "%"
+            },
+            {
+                "text": "You mean like for health insurance",
+                "label": "bf"
+            },
+            {
+                "text": "Well not only just health insurance I mean for the whole benefit of the company See I look at it this way If the company folds I got to go find job",
+                "label": "aap"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Okay Now if we got somebody in position to affect the way the company performs just about anybody in the company and theyre not doing their job or theyre not capable of doing their job then we should find place to put them or you know boot them out",
+                "label": "b"
+            },
+            {
+                "text": "Well thats easier done in company than it is in uh school teaching",
+                "label": "sv"
+            },
+            {
+                "text": "Well frankly I think school teachers ought to get about ten times what theyre getting paid",
+                "label": "sv"
+            },
+            {
+                "text": "Thank you",
+                "label": "ba"
+            },
+            {
+                "text": "What",
+                "label": "br"
+            },
+            {
+                "text": "I said thank you",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Were both school teachers",
+                "label": "sd"
+            },
+            {
+                "text": "Oh Im Im -",
+                "label": "%"
+            },
+            {
+                "text": "But its hard to get rid of teacher if theyre not good",
+                "label": "sd"
+            },
+            {
+                "text": "I know",
+                "label": "sd"
+            },
+            {
+                "text": "Its almost impossible",
+                "label": "sd"
+            },
+            {
+                "text": "Well theres two schools of thought on that You know I Im looking at trying to get into university job position as professor --",
+                "label": "sd"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "-- I got about eight years of education ahead of me before I can do that --",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "-- but once you get that job with the university youve got ten years of probation",
+                "label": "sd"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "Then you have tenure And they cant fire you",
+                "label": "sd"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "Well you know in situation like that I dont know if thats good or bad I do know that Ive had tenured professors that were just sorry",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And Ive also had tenured professors that were the best things on two legs",
+                "label": "sd"
+            },
+            {
+                "text": "Well they did away with tenure in teaching along time ago you know in the public schools",
+                "label": "sd"
+            },
+            {
+                "text": "But in addition -",
+                "label": "%"
+            },
+            {
+                "text": "It makes you more at ease You know you knew you werent going to lose your job unless you really did something horrendous",
+                "label": "sd"
+            },
+            {
+                "text": "Well they they really cant fire you without cause you know the governments taken care of that but um what Im looking at is you know there are lot of teachers that arent getting paid what they need to be getting paid and there are some teachers out there that arent worth having around as janitors",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "You know and I could see point protecting someones position but on the other hand I dont think it you know that someone that teaches uh say shop for instance should have to have degree at all",
+                "label": "sd"
+            },
+            {
+                "text": "Well they dont",
+                "label": "sd"
+            },
+            {
+                "text": "Well -",
+                "label": "%"
+            },
+            {
+                "text": "In some places they dont",
+                "label": "sd"
+            },
+            {
+                "text": "In some places that dont",
+                "label": "sd^m"
+            },
+            {
+                "text": "Do they",
+                "label": "qy"
+            },
+            {
+                "text": "But you know you you get specialized education now for instance take computer science Weve got kids twenty years old right now that could beat any computer professor at micro computer applications I know we could And these people cant even get jobs doing anything besides digging ditches because theres no comprehensive test that they can take that would allow them to to step into that position without having to go through the rigamarole of college",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know I went to college late on in life and I realize that hey its nothing but four years of endurance and you might be teachable you know what I mean",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "I mean my agree is absolutely worthless listen agree is probably degree Its my experience and and my knowledge that that is beneficial but then you know like I said I came in backwards",
+                "label": "sv*"
+            },
+            {
+                "text": "What did you get your degree at",
+                "label": "qw"
+            },
+            {
+                "text": "Industrial Marketing",
+                "label": "sd"
+            },
+            {
+                "text": "And whats your job now",
+                "label": "qw"
+            },
+            {
+                "text": "Well actually Im selling computer software But the two are mutually exclusive Because the the experience that got me the job that I got now was my experience in the construction field prior to going to college --",
+                "label": "sd"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "-- not my degree which is I think kind of bizarre",
+                "label": "+"
+            },
+            {
+                "text": "Maybe All right what else could we change Oh Id like to see flexible hours And teaching",
+                "label": "am"
+            },
+            {
+                "text": "Well uh",
+                "label": "sd"
+            },
+            {
+                "text": "shared job sharing",
+                "label": "+"
+            },
+            {
+                "text": "Weve",
+                "label": "+"
+            },
+            {
+                "text": "more of that",
+                "label": "+"
+            },
+            {
+                "text": "weve weve already got that",
+                "label": "+"
+            },
+            {
+                "text": "Well see weve got little bit of it but not much It would be nice if you had full insurance coverage if you were doing job sharing What else Id like to be able to to evaluate your boss and it really carry some weight and you get to choose your boss",
+                "label": "sd"
+            },
+            {
+                "text": "Well - yeah Supervisor evaluations have always been tough one Especially in my line because you know my supervisor has nothing to with my job except to make sure I get my check",
+                "label": "%"
+            },
+            {
+                "text": "Huh-uh Well so you get to evaluate him though",
+                "label": "b"
+            },
+            {
+                "text": "Well not really You know I mean theres whats to evaluate about him you know I mean my my supervisor level is like practically zero I run the whole show And when I need something I tell my boss and he gets it for me because he knows that I know what Im doing",
+                "label": "ng"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know and uh that that is something that I think needs to be expanded on specially in the large market place You know the major corporation because so often you know you get guy whos got eight or nine or ten people working for him in separate areas --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- so to speak You know its its hard for me to you know especially since Im in marketing sales you know I make more than my boss Because hes salary and Im not I make as much as I earn You know if I dont make sale I dont make anything",
+                "label": "+"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Well its tough but uh you know there are requirements and quotas what not for me to make but um the bottom line on on that kind of thing is you know we have lot of people especially in major corporations who arent doing damn thing Theyre just there You know the work they do could be totally eliminated and not that they arent worth or not that they arent trying or anything But its just that their jobs are useless Take for instance um large construction company I used to work for Ed Swampers Swampers is guy whos in the union Hes laborer And hes assigned to -",
+                "label": "b"
+            }
+        ]
+    }
+]

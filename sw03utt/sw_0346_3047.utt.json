@@ -1,0 +1,643 @@
+[
+    {
+        "conversation_id": "conv_3047",
+        "turns": [
+            {
+                "text": "Do you have children",
+                "label": "qy"
+            },
+            {
+                "text": "Uh yes yes I have daughter",
+                "label": "ny"
+            },
+            {
+                "text": "Do you",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "How old is she",
+                "label": "qw"
+            },
+            {
+                "text": "Shes only about uh uh little less than two years old",
+                "label": "sd"
+            },
+            {
+                "text": "Uh I guess you have not reached the stage where you need to uh promote college or anything huh",
+                "label": "qy^d"
+            },
+            {
+                "text": "No",
+                "label": "nn"
+            },
+            {
+                "text": "Ive got one thats seven and one thats three so we uh we started saving but thats all",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So do you is there are you planning to like encourage your children to go to particular school",
+                "label": "qy"
+            },
+            {
+                "text": "Uh no uh um no particular school Uh I think thats really decision th- that -",
+                "label": "nn"
+            },
+            {
+                "text": "That you are going to let them make",
+                "label": "qy^d"
+            },
+            {
+                "text": "They - well help them make in terms of you know what they are they are --",
+                "label": "%"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- wanting to do",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know that thats big influence I think and",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "aa"
+            },
+            {
+                "text": "You know what not only what you can afford but what whats going to be best for them --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- in terms of what their career goals are",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So uh you know you need to go to school that handles whatever it is you want to do",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah Where did you go to school",
+                "label": "aa"
+            },
+            {
+                "text": "Uh University of Mississippi",
+                "label": "sd"
+            },
+            {
+                "text": "Oh Was that local or uh -",
+                "label": "bk"
+            },
+            {
+                "text": "Uh well it was well it was within the state",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But it it was not necessarily local it was -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah But I I mean so whats -",
+                "label": "b"
+            },
+            {
+                "text": "Whats the criterion for choosing to go there",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Uh well at the time I was uh thinking of going pre med --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and in the state uh they had the best pre med uh curriculum for the uh state institutions",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "It was choice between there and uh private college --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- that uh was bit more expensive",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "At the time we really could not afford it so --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- I ended up going there although it was quite drive away for me It - uh I enjoyed it",
+                "label": "+"
+            },
+            {
+                "text": "So you did you commute everyday then or -",
+                "label": "qy"
+            },
+            {
+                "text": "No",
+                "label": "nn"
+            },
+            {
+                "text": "Oh okay",
+                "label": "bk"
+            },
+            {
+                "text": "No no it was six hour drive",
+                "label": "nn"
+            },
+            {
+                "text": "Oh okay when you said it was quite quite way away I did not know it that meant you had to drive like an hour or -",
+                "label": "bk"
+            },
+            {
+                "text": "I was uh it was like another world",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Basically it was no it was - did not get home that often you know and at that age --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- its uh its kind of kind of difficult sometimes",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Especially if you have not been away lot --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- that extended",
+                "label": "+"
+            },
+            {
+                "text": "So did you go there like straight out of high school",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah Uh see I did not get my degree until later on so I just finished mine couple of years ago",
+                "label": "b^m"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh you know I guess you know when you have to do it that way it makes makes your choices lot easier but -",
+                "label": "sv"
+            },
+            {
+                "text": "Uh thats true Yeah that thats like you know when I went on to get my my masters --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- I uh basically was you know it was where I was at the time",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "You know I was not going to try to pick and go somewhere else --",
+                "label": "sd"
+            },
+            {
+                "text": "Right right",
+                "label": "b"
+            },
+            {
+                "text": "-- because I was pretty much settled and I was trying to work But uh so when you are first going to school that you kind of have the luxury of being able to --",
+                "label": "+"
+            },
+            {
+                "text": "Exactly",
+                "label": "aa"
+            },
+            {
+                "text": "-- have some latitude in choosing the place to go",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Wh- which group do you work in in I",
+                "label": "b"
+            },
+            {
+                "text": "Um uh the computer science center",
+                "label": "sd"
+            },
+            {
+                "text": "Oh uh where is that at",
+                "label": "qw"
+            },
+            {
+                "text": "Uh north building",
+                "label": "sd"
+            },
+            {
+                "text": "I see How long do you work for I",
+                "label": "bk"
+            },
+            {
+                "text": "Uh about three years",
+                "label": "sd"
+            },
+            {
+                "text": "Did you work somewhere else like sounds like you got your masters before here or -",
+                "label": "qy"
+            },
+            {
+                "text": "Uh yeah I have uh uh no actually I mean I came straight from school to here",
+                "label": "ny"
+            },
+            {
+                "text": "I see",
+                "label": "bk"
+            },
+            {
+                "text": "So cause this was the first first real job after getting my degree",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh After your masters or after your -",
+                "label": "b"
+            },
+            {
+                "text": "After my masters",
+                "label": "sd"
+            },
+            {
+                "text": "I see",
+                "label": "bk"
+            },
+            {
+                "text": "My undergraduate degree was not in not in what my masters was",
+                "label": "sd"
+            },
+            {
+                "text": "I see",
+                "label": "b"
+            },
+            {
+                "text": "So I made career change --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- basically",
+                "label": "+"
+            },
+            {
+                "text": "I see Well lets see I have not you know - theres lot of pluses and minuses for different schools you know just like you said Uh depending on what they want to specialize in and what you can afford different things like that so I I have not --",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- really made up my mind you know whether to encourage them to go different places or -",
+                "label": "+"
+            },
+            {
+                "text": "One day I would like to uh you know the uh - I I like the school where I went",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I mean and I would not hesitate at all to to encourage her to go there --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- there if she wanted to",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Or the school where I got my masters at which which was different school",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And uh I liked it almost as well",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh but uh you know that Im not going to hold them to that --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- just because I went there I you know think thats -- -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- If they want to thats fine but --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- otherwise not Although I ca- uh would get quite break on on tuition",
+                "label": "+"
+            },
+            {
+                "text": "Um because you went there",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah because they uh allow for uh uh tuition uh break for out of state students --",
+                "label": "ny"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "-- who children of alumnae",
+                "label": "+"
+            },
+            {
+                "text": "I didnt know that",
+                "label": "sd"
+            },
+            {
+                "text": "Well certain schools do it",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "This school does So uh",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "Its it - I I was involved in some uh oh alumnae recruiting uh here in town uh recently uh well last year",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh and it was kind of fun because you are trying to to trying to get people interested in your school you know",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And they were - this was college night at at high school in Richardson And it was -",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And there were bunch of kids you know and bunch of schools There were hundred schools probably there --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- all competing for the same kids",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Its kind of interesting to to to talk up you know your",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah your own school",
+                "label": "aa"
+            },
+            {
+                "text": "school And I was surprised by the number of kids that came came by and had heard of you know our school",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And and were interested in it",
+                "label": "+"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "Uh you know we uh - situations like that you dont realize you know until you start thinking about it the kinds of advantages you school may have over others",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And so I I was real real pleased with that That worked out so well",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah So did you drum up any interest then or",
+                "label": "b"
+            },
+            {
+                "text": "I think so",
+                "label": "am"
+            },
+            {
+                "text": "Well thats good",
+                "label": "+@"
+            },
+            {
+                "text": "I dont know offhand but uh it seemed like there were quite few --",
+                "label": "no"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- kids that were definitely interested in going there So there",
+                "label": "+"
+            },
+            {
+                "text": "And that -",
+                "label": "%"
+            },
+            {
+                "text": "There was one mother who uh came by right even before we started who who obviously was uh very interested in getting her her daughter in or or having gotten her daughter in or something and she was wanting some more information But she was her her daughter was uh ma- ma- dru- majorette or something",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know baton twirler or something --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and she was she was letting us know she how how good her daughter was",
+                "label": "sd"
+            },
+            {
+                "text": "-",
+                "label": "x"
+            },
+            {
+                "text": "She had cards printed up actually --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really",
+                "label": "b"
+            },
+            {
+                "text": "-- describing you know business cards describing her daughters uh you know she had won several different twirling awards and all this",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and she was had these business cards she was passing out and it was quite production I think some parents go little bit overboard",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah it sounds like it",
+                "label": "aa"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "Well you know I think Richardson is probably you know one of the places that would definitely -",
+                "label": "sv"
+            }
+        ]
+    }
+]

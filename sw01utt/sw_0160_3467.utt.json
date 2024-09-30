@@ -1,0 +1,523 @@
+[
+    {
+        "conversation_id": "conv_3467",
+        "turns": [
+            {
+                "text": "I said Arlington Texas because the other day I was talking with somebody and he was in Arlington Virginia",
+                "label": "sd^t"
+            },
+            {
+                "text": "Oh no",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah thats the only one Ive got now for this area",
+                "label": "b"
+            },
+            {
+                "text": "Oh gosh oh gosh",
+                "label": "ba"
+            },
+            {
+                "text": "Well anyway weve got easy subject",
+                "label": "sv^t"
+            },
+            {
+                "text": "Yes we do",
+                "label": "aa"
+            },
+            {
+                "text": "You go ahead first if youd like",
+                "label": "ad"
+            },
+            {
+                "text": "Okay let me think here Favorite - I havent been watching much lately",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah you know --",
+                "label": "aa"
+            },
+            {
+                "text": "I used to",
+                "label": "sd"
+            },
+            {
+                "text": "-- you get so busy",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I have uh I have one favorite soap opera I still watch and I tape because Im not home",
+                "label": "aa"
+            },
+            {
+                "text": "Oh",
+                "label": "%"
+            },
+            {
+                "text": "And uh lets see thats GENERAL HOSPITAL and then uh at night uh I dont uh when I sit down I dont usually sit down till almost nine oclock --",
+                "label": "^h"
+            },
+            {
+                "text": "I know",
+                "label": "aa"
+            },
+            {
+                "text": "-- when my kids get in bed and and uh then I watch - uh what do I watch at nine oclock Lets see oh well Tuesday nights I guess we try to catch couple of the shows that the kids like",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And uh -",
+                "label": "%"
+            },
+            {
+                "text": "Are they little",
+                "label": "qy"
+            },
+            {
+                "text": "I have seven year old and ten year old",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah theyre pretty young",
+                "label": "b"
+            },
+            {
+                "text": "And uh so we usually catch uh FULL HOUSE and uh whats the one comes on after that Its new one uh",
+                "label": "sd"
+            },
+            {
+                "text": "I dont know my kids are older --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- so I dont I dont know some of those shows now like I used to",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah Uh other than that uh oh gosh I watch KNOTS LANDING on Thursday nights for pure entertainment nothing else",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Well I I like the comedies Theyre just light too I have to watch MURPHY BROWN I really like -",
+                "label": "sd"
+            },
+            {
+                "text": "Oh now that is good one",
+                "label": "sv"
+            },
+            {
+                "text": "I make point of --",
+                "label": "sd"
+            },
+            {
+                "text": "That is",
+                "label": "sv"
+            },
+            {
+                "text": "-- that",
+                "label": "+"
+            },
+            {
+                "text": "Yeah if Im home on Mondays then I I definitely watch her",
+                "label": "b"
+            },
+            {
+                "text": "I love that and I really like COACH I think its when its good its just scream",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah well hes good actor He really is good",
+                "label": "aa"
+            },
+            {
+                "text": "Well hes probably playing himself Half the time you see these people on an interview show theyre they act just like they do in their parts",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "He - I saw him on JOHNNY CARSON once and he acted about the same",
+                "label": "%"
+            },
+            {
+                "text": "Oh God Well he could very well be",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah and uh -",
+                "label": "b"
+            },
+            {
+                "text": "So do you watch much or -",
+                "label": "qy"
+            },
+            {
+                "text": "Well I watch more now because well I I had been going to school for years and have really been too busy --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but this semester Im only taking one course and so I see MURPHY BROWN and COACH and THE WONDER YEARS I just make point of seeing those",
+                "label": "sd"
+            },
+            {
+                "text": "Now I never see that Well Ive got friend that says that is just wonderful show",
+                "label": "sd"
+            },
+            {
+                "text": "Oh its fabulous Really you should never miss that It they are just gems of shows",
+                "label": "sv"
+            },
+            {
+                "text": "Oh nice",
+                "label": "ba"
+            },
+            {
+                "text": "I mean they really fabulous in every way",
+                "label": "+"
+            },
+            {
+                "text": "What now what night is that on now",
+                "label": "qw"
+            },
+            {
+                "text": "Oh thats Wednesday at uh seven thirty",
+                "label": "sd"
+            },
+            {
+                "text": "Wednesday at seven thirty oh okay Yeah Wednesdays I I go to church choir so",
+                "label": "b^m"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "Thats my one night out and about so -",
+                "label": "+"
+            },
+            {
+                "text": "Sure yeah well maybe maybe your husband could tape it for you sometime",
+                "label": "b"
+            },
+            {
+                "text": "Yeah I should get him to do that",
+                "label": "aa"
+            },
+            {
+                "text": "Just so you get the idea It wouldnt take",
+                "label": "sd"
+            },
+            {
+                "text": "Because I know -",
+                "label": "+"
+            },
+            {
+                "text": "Wouldnt take much to get hooked on those",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So so I watch those",
+                "label": "sd"
+            },
+            {
+                "text": "Are there any new ones this year that came out that you like or -",
+                "label": "qy"
+            },
+            {
+                "text": "Well you know I havent oh - yeah we started watching NORTHERN EXPOSURE Well its not really new but its still kind of new",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh Hows that I havent seen that",
+                "label": "b"
+            },
+            {
+                "text": "I like it lot Its real different In fact they never thought it would be hit",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "%"
+            },
+            {
+                "text": "I mean theyll have some things in there that almost almost you know like supernatural or something you know I mean somebody will see figure from the past that nobody else does or I mean it sounds weird but its very uh unique show and very well done",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "%"
+            },
+            {
+                "text": "Excellent actors",
+                "label": "sv"
+            },
+            {
+                "text": "Ill have to watch for that",
+                "label": "sd"
+            },
+            {
+                "text": "I I guess we just - it came on after something we used to watch --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and I guess we just kept sitting there and then now we make point of watching I cant take all these shows on because next semester Im not going to be able to watch hardly any television",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Well then it will be mostly reruns I guess",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "And by the end of February the way they do it nowadays",
+                "label": "sd"
+            },
+            {
+                "text": "Gosh",
+                "label": "sd"
+            },
+            {
+                "text": "But uh -",
+                "label": "%"
+            },
+            {
+                "text": "Well we used to watch lot of DESIGNING WOMEN but uh --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- I havent seen that much lately",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Ive seen that",
+                "label": "b"
+            },
+            {
+                "text": "Since they got rid of uh Delta Burke and uh --",
+                "label": "+"
+            },
+            {
+                "text": "Was she the was she the best one",
+                "label": "qy"
+            },
+            {
+                "text": "-- brought on the new ones",
+                "label": "+"
+            },
+            {
+                "text": "Was she the best one on that old show",
+                "label": "+"
+            },
+            {
+                "text": "Oh she was just funny",
+                "label": "sd"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "She was really funny And her character was good I dont know that it was her in particular --",
+                "label": "sd"
+            },
+            {
+                "text": "Right right",
+                "label": "b"
+            },
+            {
+                "text": "-- but just the character So uh -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah they had big fight on that show didnt they",
+                "label": "b"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "ny"
+            },
+            {
+                "text": "They were all accusing each other of everything in the world",
+                "label": "sv"
+            },
+            {
+                "text": "Oh that was awful and who knows still what ha- really happened you know",
+                "label": "sv"
+            },
+            {
+                "text": "Well I know gosh you never will probably",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah yeah so -",
+                "label": "b"
+            },
+            {
+                "text": "Well I think the latest soap opera for people is the Kennedy trial for those who have cable",
+                "label": "sv"
+            },
+            {
+                "text": "Oh I know",
+                "label": "aa"
+            },
+            {
+                "text": "I dont have cable",
+                "label": "sd"
+            },
+            {
+                "text": "Now I told - no we dont have that station either so uh I havent been able to catch any of that but just what little we caught on the news",
+                "label": "%"
+            },
+            {
+                "text": "Its just as wild as any soap opera from what I hear on the news",
+                "label": "sv"
+            },
+            {
+                "text": "Oh I know it",
+                "label": "aa"
+            },
+            {
+                "text": "And I think hes guilty as the devil",
+                "label": "sv"
+            },
+            {
+                "text": "Well I dont see how he couldnt be you know",
+                "label": "sd"
+            },
+            {
+                "text": "I know whats in it for her Theres never anything for you to go to trial as witness in case like that",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah thats right",
+                "label": "aa"
+            },
+            {
+                "text": "Because you know they tear you to shreds especially those rich --",
+                "label": "+"
+            },
+            {
+                "text": "Oh and they said --",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "-- high powered lawyers",
+                "label": "+"
+            },
+            {
+                "text": "-- this lawyer is unbelievable",
+                "label": "+"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "But they said she held up so well yesterday",
+                "label": "sd"
+            },
+            {
+                "text": "I know everybody was saying that and then in the paper said it so",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "It should be interesting",
+                "label": "+"
+            },
+            {
+                "text": "Oh God",
+                "label": "ba"
+            },
+            {
+                "text": "Well the NATIONAL ENQUIRER says - I was reading that in the supermarket line I never have the nerve to buy the thing Uh",
+                "label": "sd"
+            },
+            {
+                "text": "Oh shoot well do you watch any uh --",
+                "label": "fe"
+            },
+            {
+                "text": "Says he -",
+                "label": "sd"
+            },
+            {
+                "text": "-- any sports or anything like that or -",
+                "label": "+"
+            },
+            {
+                "text": "No I dont care anything about that",
+                "label": "nn"
+            },
+            {
+                "text": "Because I dont either I cant I cant watch it on so -",
+                "label": "sd"
+            },
+            {
+                "text": "I like the ice skating you know occasionally some ice skating will come on on Sunday or during the Olympics --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- I always watch that I think its so beautiful",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I like to catch the gymnastics sometimes too",
+                "label": "aa"
+            },
+            {
+                "text": "Oh yeah thats good",
+                "label": "aa"
+            }
+        ]
+    }
+]

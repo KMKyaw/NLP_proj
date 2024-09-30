@@ -1,0 +1,359 @@
+[
+    {
+        "conversation_id": "conv_3221",
+        "turns": [
+            {
+                "text": "So the ques- the question had something to do with usage of personal computers um",
+                "label": "sd^t"
+            },
+            {
+                "text": "Yes we are we are talking about computers this morning",
+                "label": "aa"
+            },
+            {
+                "text": "Um Im firm believer in in having lots of them Im sitting at my desk now with four machines in front of me",
+                "label": "sd"
+            },
+            {
+                "text": "You have you have four machines around you boy well youve uh youve got me beat I have Zenith here --",
+                "label": "bf"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and at home I have Commodore --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and Zenith and my wife has an and Twelve Hundred I believe it is",
+                "label": "+"
+            },
+            {
+                "text": "Good grief What do you do with all those",
+                "label": "ba"
+            },
+            {
+                "text": "Well actually on my Commodore I mainly study lottery numbers would you believe I have written some uh programs in Basic --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- whereby I can select any number of uh drawings --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and from that extract the numbers that have appeared the most --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- I have another program in which I can look at the cyclical uh appearance of these numbers --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- to see if theres anything thats consistent on that I have another number that allows me another program that allows me to add all the numbers I want and then it generates complete set of numbers so that all combinations are covered --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- so this is what I do most of the time uh",
+                "label": "sd"
+            },
+            {
+                "text": "Thats what you do on your at least one of your machines --",
+                "label": "qy^d"
+            },
+            {
+                "text": "On my Commodore --",
+                "label": "na"
+            },
+            {
+                "text": "-- on your Commodore",
+                "label": "b"
+            },
+            {
+                "text": "-- on my Commodore uh-huh And of course I have uh word processors and I write all my letters --",
+                "label": "na^r"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- its wonderful uh my uh thoughts in my head --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- come in bursts of about paragraph at time and I get --",
+                "label": "+"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "-- them all down and naturally on computer if you make mistake who cares you can go back and uh correct it very easily --",
+                "label": "+"
+            },
+            {
+                "text": "Yes yes",
+                "label": "aa"
+            },
+            {
+                "text": "-- so that makes it very very nice I get all my thoughts down and go back and clean it up very very readily So how about you Charles",
+                "label": "sv"
+            },
+            {
+                "text": "Well I um I do an awful lot of preparation of documents um uh and I use word processors and and fancier programs I mean --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know graphics programs and simply make all of our slides some of them I do on Sun some I do on an --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- now maybe we dont call these personal computers um I started out with you know an I back in the you know about year after they came out --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and you know -",
+                "label": "%"
+            },
+            {
+                "text": "So whe- where may I ask where you work sir",
+                "label": "qw"
+            },
+            {
+                "text": "I work for the government in Washington",
+                "label": "sd"
+            },
+            {
+                "text": "I know you work for the government I just wondering are you an or what what what section of it",
+                "label": "sd"
+            },
+            {
+                "text": "Of in in in an obscure part of the defense department",
+                "label": "sd"
+            },
+            {
+                "text": "Oh uh-huh because see thats my type of work too I work at the Applied Research Lab --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- here here on campus and my my field is underwater acoustics --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and theres lot of things we can do with computers into uh studying how uh things vary in the water you know --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh taking advantage of them and so forth so its very nice very nice field and I I am retiring at the end of this month End of December excuse me",
+                "label": "+"
+            },
+            {
+                "text": "Are are are you are you also professor or or do you --",
+                "label": "qy"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "-- just research",
+                "label": "+"
+            },
+            {
+                "text": "Im Im an associate professor but my I Im full time researcher --",
+                "label": "sd^e"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "-- and its uh been very very interesting career believe me",
+                "label": "sd"
+            },
+            {
+                "text": "I can believe What are you going to what are you going to do when you stop I mean take all your machines with you or -",
+                "label": "ba"
+            },
+            {
+                "text": "Well uh the ones here in the laboratory obviously Im theyre going to stay but I have similar machines at home",
+                "label": "ng"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I would consider doing some more consulting when I get home --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but I have very very busy extra life anyway Im also musician and I play in several symphony orchestras --",
+                "label": "sd"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh I run concert band and --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- so I have lot of external uh interests --",
+                "label": "+"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "-- but I do want to get very deeply much more deeply into computer work because obviously the world is going to be controlled --",
+                "label": "sv"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "-- run and operated --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- by computers in the future Theres no doubt about it because it is really taking over and the amount of work that were doing and the depth of things that we are studying can basically only be handled by computers because uh its so much involved --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and it sounds as though youre probably more aware of that than I am because uh I dont get to use it in my daily work as much as I would like to Here again --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- lets say Im starting to getting ready in preparation for retirement --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh so basically what Im doing is slowly getting rid of my things For many many years I had full size acoustics uh study laboratory --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- whe- where I could take recordings and and uh perform experiments --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- with them and so forth and so thats gone now and so Im sort of out of business",
+                "label": "+"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "Uh as I say I worked with fellow named Steve Blazey --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- was the fellow I worked with for many many years --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and he is now retired So its been an interesting life and computers have come in towards the latter end of that I wish we had had computers in the very beginning It would have been -",
+                "label": "sd"
+            }
+        ]
+    }
+]

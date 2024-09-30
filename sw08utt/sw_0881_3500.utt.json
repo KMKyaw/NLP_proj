@@ -1,0 +1,411 @@
+[
+    {
+        "conversation_id": "conv_3500",
+        "turns": [
+            {
+                "text": "In in the light of what has been happening lately with the doctors that I know and lawyers and whatnot I think national health insurance is way to throw lot of money at very small problem",
+                "label": "sv"
+            },
+            {
+                "text": "Do you Why",
+                "label": "^g"
+            },
+            {
+                "text": "Why Well if you took half the money that they would spend in the state of Texas for health insurance and gave it to qualified students to so they could become doctors the problem would go away",
+                "label": "qw^h"
+            },
+            {
+                "text": "You think the problem is not enough doctors",
+                "label": "qy"
+            },
+            {
+                "text": "I think the problem is that the doctor - doctors have conspired to limit the number of doctors and that the lawyers have conspired to make sure that if you are doctor you are going to pay high premiums on your - uh unemp- I mean on your liability",
+                "label": "na"
+            },
+            {
+                "text": "Gosh I really have different point of view on this",
+                "label": "ba"
+            },
+            {
+                "text": "Oh",
+                "label": "bh"
+            },
+            {
+                "text": "Well because Im nurse --",
+                "label": "+@"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- for one thing",
+                "label": "+"
+            },
+            {
+                "text": "And you think there are plenty of doctors",
+                "label": "qy"
+            },
+            {
+                "text": "Oh yeah I dont think there is shortage of doctors and I do know that which is my field --",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- the doctors health in- the doctors malpractice insurance is over two hundred thousand dollars year --",
+                "label": "+"
+            },
+            {
+                "text": "Its astronomical",
+                "label": "ba"
+            },
+            {
+                "text": "-- that deliver babies Now they cant doing anything about that I dont think theyre in conspiracy I think its our fault because we as people just sue them",
+                "label": "+"
+            },
+            {
+                "text": "No people dont sue --",
+                "label": "ar"
+            },
+            {
+                "text": "People are very sue sue conscious",
+                "label": "sv"
+            },
+            {
+                "text": "-- lawyers sue If you put ten thousand dollar cap on the amount of money that lawyer could make from law suit against doctor --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- they wouldnt sue one of them",
+                "label": "+@"
+            },
+            {
+                "text": "Well thats probably true too",
+                "label": "aa"
+            },
+            {
+                "text": "You know",
+                "label": "+@"
+            },
+            {
+                "text": "But people are very conscious of how much money they can get real fast these days",
+                "label": "sv"
+            },
+            {
+                "text": "Well sure",
+                "label": "ba"
+            },
+            {
+                "text": "And so -",
+                "label": "%"
+            },
+            {
+                "text": "But you know when you think about reasonableness now I believe that law suit should have some foundation in the tort theory You know what tort theory is",
+                "label": "sv"
+            },
+            {
+                "text": "No",
+                "label": "nn"
+            },
+            {
+                "text": "Well tort is when you do something wrong",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Well it uh - an doctor cannot control the fetus in the womb hundred percent",
+                "label": "%"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "If the baby is born dead well that happens",
+                "label": "sv"
+            },
+            {
+                "text": "Well -",
+                "label": "%"
+            },
+            {
+                "text": "If if they have complications and -",
+                "label": "sv"
+            },
+            {
+                "text": "It depends",
+                "label": "aap"
+            },
+            {
+                "text": "Well I know I mean there are guys that are real slobs but you know there are also people out there that are really doing their job And the people that are really doing their job are paying for everybody else",
+                "label": "sd"
+            },
+            {
+                "text": "Well thats true they are --",
+                "label": "aa"
+            },
+            {
+                "text": "You know",
+                "label": "+@"
+            },
+            {
+                "text": "-- because doctors are performing many more tests Many of them are unnecessary they are doing so many sections --",
+                "label": "+"
+            },
+            {
+                "text": "Just to prevent --",
+                "label": "sv"
+            },
+            {
+                "text": "-- just to --",
+                "label": "+"
+            },
+            {
+                "text": "-- law suit",
+                "label": "+"
+            },
+            {
+                "text": "-- prevent - Because they have all these monitors now and if anything looks even little bit funny --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- their only safety precaution is to go in and get that baby and --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- so its costing more all around in health insurance --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- for tests for surgery for longer hospital stay",
+                "label": "+"
+            },
+            {
+                "text": "See I believe --",
+                "label": "sd"
+            },
+            {
+                "text": "So its terrible",
+                "label": "sd"
+            },
+            {
+                "text": "-- that there there is system already in place for health care",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know they have indigent health care You show up at Parkland bleeding --",
+                "label": "sv"
+            },
+            {
+                "text": "Youll get it",
+                "label": "^2"
+            },
+            {
+                "text": "-- and theyll fix you",
+                "label": "sd@"
+            },
+            {
+                "text": "Thats true",
+                "label": "aa"
+            },
+            {
+                "text": "You know",
+                "label": "+@"
+            },
+            {
+                "text": "In fact youll get it at Presbyterian if you show up there too",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And we have that happen We have patients that go through Parkland --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- through the clinic and at the last minute they come to us Well --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh we cant turn them away So -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I think that if you just wrote the lawyers out of the equation --",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- the problem would pretty much evaporate",
+                "label": "+"
+            },
+            {
+                "text": "Im for that Ive been through two year divorce where the only one that came out ahead was my lawyer so --",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- Id like to wipe them all out",
+                "label": "+"
+            },
+            {
+                "text": "Well I I happen to know few and I even claim one as friend Hes divorce attorney But -",
+                "label": "sd"
+            },
+            {
+                "text": "He better not be mine",
+                "label": "sd"
+            },
+            {
+                "text": "I think hell go nameless for the for the purposes of this conversation But I also know an uh who has stopped practicing",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah some they do -",
+                "label": "b"
+            },
+            {
+                "text": "Uh he just said -",
+                "label": "sd"
+            },
+            {
+                "text": "They stop their at least",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I mean hes not going to deliver any more babies --",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- ever",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "His malpractice was five hundred thousand dollars year",
+                "label": "sd"
+            },
+            {
+                "text": "Thats incredible",
+                "label": "ba"
+            },
+            {
+                "text": "And you know he said I had to he had to ear- gross two million to take home as much as his malpractice",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Yeah And most of them are very sincere Most of them do the --",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- best they can They are human",
+                "label": "+"
+            },
+            {
+                "text": "This",
+                "label": "sd@"
+            },
+            {
+                "text": "Occasionally --",
+                "label": "sd"
+            },
+            {
+                "text": "This guy is Catholic",
+                "label": "+@"
+            },
+            {
+                "text": "-- something will go wrong",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I mean you know",
+                "label": "+@"
+            },
+            {
+                "text": "Well you can be human and Catholic",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah I know you can be human and Catholic but youre not likely to find somebody who is going to you know have less conscientious effort",
+                "label": "+@"
+            },
+            {
+                "text": "Yeah no --",
+                "label": "b"
+            },
+            {
+                "text": "I mean -",
+                "label": "%"
+            },
+            {
+                "text": "-- most of them do I really believe that From dealing with doctors dealing with lawyers there is no doubt in my mind who is more conscientious",
+                "label": "sv"
+            },
+            {
+                "text": "Well you know who is getting rich Insurance companies",
+                "label": "qw"
+            },
+            {
+                "text": "Yeah they are",
+                "label": "aa"
+            },
+            {
+                "text": "You know if you were able to write malpractice insurance that would negate any financial obligation on the part of the doctor over and above the insurance - say say you have malpractice insurance and kid dies or is malformed or -",
+                "label": "sv"
+            }
+        ]
+    }
+]

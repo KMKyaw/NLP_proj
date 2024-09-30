@@ -1,0 +1,291 @@
+[
+    {
+        "conversation_id": "conv_3304",
+        "turns": [
+            {
+                "text": "I guess were be- recorded",
+                "label": "sv^t"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "What - do you have any hobbies that you like to do",
+                "label": "%"
+            },
+            {
+                "text": "Oh yes Cycling computers uh backpacking just about everything",
+                "label": "ny"
+            },
+            {
+                "text": "Oh",
+                "label": "%"
+            },
+            {
+                "text": "Oh I generically have you know millions of hobbies",
+                "label": "sd"
+            },
+            {
+                "text": "All right thats an interesting assortment My husband is into cycling In fact hes out there right now --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- before it gets dark trying to get in his miles for the the time",
+                "label": "+"
+            },
+            {
+                "text": "Im not quite that bad Im just weekend cyclist",
+                "label": "sd"
+            },
+            {
+                "text": "Uh do you have any do you do any handicraft type things I think was the question",
+                "label": "sd(^q)^t"
+            },
+            {
+                "text": "Handicraft type things",
+                "label": "b^m"
+            },
+            {
+                "text": "Yeah whittling or -",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah just whittle away my life Uh no no I - -",
+                "label": "aa"
+            },
+            {
+                "text": "Nothing like that",
+                "label": "bf"
+            },
+            {
+                "text": "Uh uh",
+                "label": "%"
+            },
+            {
+                "text": "I I do some things Ive gotten into - uh oh I I like to decorate things and I do sweatshirts and -shirts and Ive gotten to where I start have started selling them at craft shows and things",
+                "label": "sd"
+            },
+            {
+                "text": "Oh thats pretty good",
+                "label": "ba"
+            },
+            {
+                "text": "Uh and I have have done fairly well at them Ive had - few of my little hobby projects have totally bombed but most of them have worked out pretty good",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah they - my only craft work is kind of like computers and you know go off to the little computer club meetings and its kind of nice because Ive made money at it too Considering I I work for it living but I you know I Ive got couple of articles published",
+                "label": "b"
+            },
+            {
+                "text": "Oh",
+                "label": "ba"
+            },
+            {
+                "text": "Its kind of kind of neat",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah what what does computer club do I didnt know there were such things",
+                "label": "b"
+            },
+            {
+                "text": "Oh yeah just all over the place They just get around and and talk techy or or else uh uh you know - like half the members are really expert and the other half are like really not",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh we kind of help out the people who are really not",
+                "label": "sd"
+            },
+            {
+                "text": "You dont uh youre not in- into hacking or whatever",
+                "label": "qy^d"
+            },
+            {
+                "text": "Oh I I think Im I think Im hacker but Im not not kind not the uh the you know dial around randomly trying to break into computers type --",
+                "label": "nd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- hackers no thats one of those sports I dont go for",
+                "label": "+"
+            },
+            {
+                "text": "Well thats kind of interesting hobby What else did you - you said you did cycling",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "What was the other thing",
+                "label": "qw"
+            },
+            {
+                "text": "Backpacking",
+                "label": "sd"
+            },
+            {
+                "text": "Backpacking We -",
+                "label": "b^m"
+            },
+            {
+                "text": "Yeah I belong to Boy Scout troop It beats paying United Way I just you know --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- donate whole bunch of my time to the Boy Scouts and have fun",
+                "label": "+"
+            },
+            {
+                "text": "Well thats we have done that Uh our two older boys were in Boy Scouts and my daughter was in Girl Scouts until just about year ago --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- so weve uh done fair amount of that in our spare time also But it - I - thats great thing to do you know really Have you been backpacking anyplace exciting",
+                "label": "sd"
+            },
+            {
+                "text": "Uh well just last weekend went to Davy Crockett forest --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "%"
+            },
+            {
+                "text": "-- which is kind of out in east Texas",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And we go to uh places out in - uh uh lets see whats that whats that state north of us that state -- -",
+                "label": "sd"
+            },
+            {
+                "text": "Oh that one",
+                "label": "bf"
+            },
+            {
+                "text": "-- yeah Yeah that one That one",
+                "label": "aa"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "Yeah yeah And -",
+                "label": "b"
+            },
+            {
+                "text": "To the - uh oh by Fort Sill there",
+                "label": "%"
+            },
+            {
+                "text": "Uh no to another - uh old Indian fort thats out there Trying to think of the name of it Durn Well yeah no sorry no memory",
+                "label": "nn"
+            },
+            {
+                "text": "uh-huh Have you gone like to Fillmont with the Boy Scouts",
+                "label": "b"
+            },
+            {
+                "text": "No I missed out this last year I wasnt able to get the time off but maybe next year Its good possibility",
+                "label": "nn"
+            },
+            {
+                "text": "Ive always thought that would be real fun thing to do",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah yeah When I was kid uh wed do the equivalent thing in the High Sierras That was loads of fun",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh Does does your whole family like to do it like you you know for vacation youd go backpacking",
+                "label": "b"
+            },
+            {
+                "text": "Uh no not quite because Im not whole family Im just me",
+                "label": "nn"
+            },
+            {
+                "text": "Oh okay You just oh - and and you volunteer for the Boy Scouts huh",
+                "label": "bk"
+            },
+            {
+                "text": "Oh yeah I rent my kids",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh Well - sometimes uh",
+                "label": "b"
+            },
+            {
+                "text": "Its better than you know owning on them and making payments on them and you know things like that",
+                "label": "sv"
+            },
+            {
+                "text": "Sometimes I think that might not be bad idea Have - uh you said you did it in the High Sierras Uh do you ever you know just vacation someplace where you strictly backpack",
+                "label": "sv"
+            },
+            {
+                "text": "Oh yeah yeah Uh not recently because you know like the Boy Scouts makes it so that I go like once month you know",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Someplace But uh theres uh some some stuff that I want to do with like Sierra Club and go down to Grand Canyon or something like that So you know they have lots of tours where they get bunch of people together and --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- off you go Which seems kind of reasonable because that means you dont have to take twenty thirteen year olds with you which seems just tad more relaxing",
+                "label": "+"
+            },
+            {
+                "text": "Well I - probably - probably - Thats - uh well my my other things that I like to do in my spare time Im I like swimming",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Which is in now Ive done that and I I also - when I like something I usually try to figure out how to make money off of it",
+                "label": "sd"
+            }
+        ]
+    }
+]

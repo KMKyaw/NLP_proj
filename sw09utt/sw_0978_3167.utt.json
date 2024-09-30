@@ -1,0 +1,443 @@
+[
+    {
+        "conversation_id": "conv_3167",
+        "turns": [
+            {
+                "text": "They suggested some sort of recipe uh for uh company for entertaining Did you have anything in mind that uh youd like to share",
+                "label": "sd^t"
+            },
+            {
+                "text": "Well I uh just had Christmas Around The World party --",
+                "label": "sd"
+            },
+            {
+                "text": "Ooh",
+                "label": "bk"
+            },
+            {
+                "text": "-- the other night and had some hors doeuvres",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "And I fixed uh crab meat spread that is real good and real easy",
+                "label": "sd"
+            },
+            {
+                "text": "Ooh that sounds good What -",
+                "label": "ba"
+            },
+            {
+                "text": "Its uh its like uh eight ounces of cream cheese --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- softened and you mix it with one tablespoon onion juice and one tablespoon lemon juice one tablespoon worcester sauce and mix it and spread it out onto plate And -",
+                "label": "+"
+            },
+            {
+                "text": "One tablespoon of worcester",
+                "label": "qy"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "And then you take and uh cover that with drained crab meat mixed with one of the small bottles of chili sauce and spread it over the top and spread it on Triscuits crackers",
+                "label": "ad"
+            },
+            {
+                "text": "Oh that -",
+                "label": "%"
+            },
+            {
+                "text": "And that always goes over real well and its real easy",
+                "label": "sd"
+            },
+            {
+                "text": "How much chili sauce did you say",
+                "label": "qw"
+            },
+            {
+                "text": "Its one of the small bottles",
+                "label": "sd"
+            },
+            {
+                "text": "Like eight -",
+                "label": "%"
+            },
+            {
+                "text": "I dont think uh -",
+                "label": "%"
+            },
+            {
+                "text": "Not eight ounces That would be lot",
+                "label": "qy^d"
+            },
+            {
+                "text": "Well its about eight ounces",
+                "label": "nd"
+            },
+            {
+                "text": "Is it",
+                "label": "bh"
+            },
+            {
+                "text": "It it - uh-huh",
+                "label": "%"
+            },
+            {
+                "text": "Okay this would make lot right",
+                "label": "bk"
+            },
+            {
+                "text": "Yeah it would probably make - well it doesnt make quite as much as you think but yeah spread it out because you keep the cream cheese kind of thin",
+                "label": "ny"
+            },
+            {
+                "text": "And how much crab meat did you use",
+                "label": "qw"
+            },
+            {
+                "text": "One tin",
+                "label": "sd"
+            },
+            {
+                "text": "One",
+                "label": "b"
+            },
+            {
+                "text": "Of the flake uh-huh And drain it real good",
+                "label": "+"
+            },
+            {
+                "text": "One can of flake",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Oh okay Have you ever used the uh imitation yet",
+                "label": "aa"
+            },
+            {
+                "text": "Yes I have I used it uh last Christmastime Uh what did I put it in I think I just served it by itself Theres like little tidbit with the sauce to dip it into and stuff",
+                "label": "ny"
+            },
+            {
+                "text": "Ooh that sounds - Ive tried it and then I have it here on hand for about week and then all of sudden it dawned on me wait is this totally imitation and then I found out I went back to the store and they said it is fish product",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So therefore you really dont have very long life you know --",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- once you buy it",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "I thought so you know they should put some directions on some of these new things theyre making that you really dont know what the shelf life is",
+                "label": "sv"
+            },
+            {
+                "text": "Thats very true",
+                "label": "aa"
+            },
+            {
+                "text": "You know",
+                "label": "b"
+            },
+            {
+                "text": "Very true I had bought cheesecake uh and they very nicely put onto the box that it may be re frozen which I felt was real nice",
+                "label": "aa"
+            },
+            {
+                "text": "Oh thats good idea",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Whose was that",
+                "label": "qw"
+            },
+            {
+                "text": "It uh was uh Lawrys I believe or Lawlers And I got it - do you have Sams Wholesale Warehouse up there Its real -",
+                "label": "sd"
+            },
+            {
+                "text": "Uh Sams right right",
+                "label": "^h"
+            },
+            {
+                "text": "Yeah okay thats where I picked it up It comes out of Chicago and theyre very good --",
+                "label": "bk"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- cheesecakes",
+                "label": "+"
+            },
+            {
+                "text": "Oh that sounds good --",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- because thats great That must be the ones that look like theyre packaged for restaurant",
+                "label": "ba"
+            },
+            {
+                "text": "Yes yes",
+                "label": "ny"
+            },
+            {
+                "text": "Okay I Ive -",
+                "label": "bk"
+            },
+            {
+                "text": "And they have and they have the little papers between them",
+                "label": "sd"
+            },
+            {
+                "text": "Right Oh hey that sounds -",
+                "label": "b"
+            },
+            {
+                "text": "And I think theyre what about nine dollars and something",
+                "label": "sd"
+            },
+            {
+                "text": "Right And its something good to have on hand too Its frozen --",
+                "label": "b"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "-- in the first --",
+                "label": "+"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "-- place right",
+                "label": "+"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "So you can uh - it is frozen isnt it",
+                "label": "%"
+            },
+            {
+                "text": "Yes it is frozen",
+                "label": "ny"
+            },
+            {
+                "text": "And then you can re freeze",
+                "label": "qy^d"
+            },
+            {
+                "text": "And I thaw it and then you can re freeze it And -",
+                "label": "nd"
+            },
+            {
+                "text": "Hey that sounds great",
+                "label": "ba"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "That - -",
+                "label": "%"
+            },
+            {
+                "text": "It was theyre very good very good And thats the one thing that I hate to make is desserts",
+                "label": "sd"
+            },
+            {
+                "text": "Oh do you And thats my favorite",
+                "label": "bh"
+            },
+            {
+                "text": "Is it",
+                "label": "bh"
+            },
+            {
+                "text": "And I really dont care for desserts that well other than one piece of it",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I love to eat it but I dont like to make it It takes time and you have to rack your brain and time I dont have anymore",
+                "label": "sd"
+            },
+            {
+                "text": "Thats the thats the thing I hate most about entertaining is thinking of what Im going to serve",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh It is",
+                "label": "aa"
+            },
+            {
+                "text": "I I said I can make it no time Its trying to think and then we just uh built new home and I have one of these kitchens thats the center of the house --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and so no matter where theyre at your company can see you cooking",
+                "label": "sd"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "Which is funny",
+                "label": "+"
+            },
+            {
+                "text": "And your mess",
+                "label": "sv"
+            },
+            {
+                "text": "This well this is what everyone has said They said its okay for you because you keep real neat kitchen And I said yes I decided it looks better in BETTER HOMES AND GARDENS than it does in practicality",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But uh what I have learned in the uh ten months weve lived here is it that when I entertain I have to have my foods all prepared and in the oven with all the everything through ready --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- to serve",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Because with the open area you dont want someone from your dining room seeing your mess like you said",
+                "label": "+"
+            },
+            {
+                "text": "Thats thats right",
+                "label": "aa"
+            },
+            {
+                "text": "So you have to have the picturesque kitchen you know right out of the magazine",
+                "label": "sv"
+            },
+            {
+                "text": "Well I like to have mine all done anyway because then I want to I want to party too I dont want to sit in the kitchen and be putting an olive on something",
+                "label": "sd"
+            },
+            {
+                "text": "Youre right",
+                "label": "aa"
+            },
+            {
+                "text": "You know",
+                "label": "b"
+            },
+            {
+                "text": "And you know the funny thing is now that I have large kitchen with big island and that I still have people trying to come you know theyll come in the kitchen and I said out we have the chairs on the other side of the counter --",
+                "label": "sd"
+            },
+            {
+                "text": "Correct",
+                "label": "b"
+            },
+            {
+                "text": "-- for guests Youre not allowed to trespass into my kitchen",
+                "label": "+"
+            },
+            {
+                "text": "Sounds -",
+                "label": "%"
+            },
+            {
+                "text": "And it it has worked out But at our point of life we know many of the people were entertaining --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- uh well enough that they know you know its very much at home type situation",
+                "label": "+"
+            },
+            {
+                "text": "Well lot of our entertaining anymore with the couples again that weve known long time like you they uh we all bring things and it sure makes it whole lot easier",
+                "label": "sd"
+            },
+            {
+                "text": "Well we even --",
+                "label": "sv"
+            },
+            {
+                "text": "Anymore",
+                "label": "+"
+            },
+            {
+                "text": "-- have better one Now we decided that we all meet we have it worked -",
+                "label": "+"
+            }
+        ]
+    }
+]

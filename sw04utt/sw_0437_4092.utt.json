@@ -1,0 +1,471 @@
+[
+    {
+        "conversation_id": "conv_4092",
+        "turns": [
+            {
+                "text": "music do you like -",
+                "label": "qw"
+            },
+            {
+                "text": "Uh lots of different kinds I guess Uh I like country music of course --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- Texas - and I listen to Christian music lot because theres Christian music station here in in our city So I listen to it quite bit",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "I am more into rock and roll myself",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh And I listen cause on Friday nights they have the uh they have what they call Saturday Night Alive or they have on Saturday night Friday night and Saturday night --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and they have Christian rock and roll So -- -",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b@"
+            },
+            {
+                "text": "-- you know they have that type of music but they just have different words --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "+@"
+            },
+            {
+                "text": "-- so I listen to that too",
+                "label": "sd"
+            },
+            {
+                "text": "Do you like any bluegrass",
+                "label": "qy"
+            },
+            {
+                "text": "Uh no Not really huh-uh",
+                "label": "nn"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "And I like --",
+                "label": "sd"
+            },
+            {
+                "text": "Well at least your -",
+                "label": "%"
+            },
+            {
+                "text": "-- I like rap music Do you like rap music",
+                "label": "+"
+            },
+            {
+                "text": "Not really",
+                "label": "ng"
+            },
+            {
+                "text": "Not really Well I can tell were were together here",
+                "label": "b^m"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Okay Uh",
+                "label": "b"
+            },
+            {
+                "text": "Um Uh well have to uh -- -",
+                "label": "b"
+            },
+            {
+                "text": "What kind of -- -",
+                "label": "%"
+            },
+            {
+                "text": "-- I have lot of friends that like country music",
+                "label": "sd"
+            },
+            {
+                "text": "-- What kind of rock music do you listen to Do you listen to like that really heavy metal stuff or -",
+                "label": "qw"
+            },
+            {
+                "text": "No Im more into uh older rock like the psychedelic era like uh -- -",
+                "label": "nn"
+            },
+            {
+                "text": "Seventies and like that stuff",
+                "label": "qy^d"
+            },
+            {
+                "text": "-- Se- late sixties seventies uh --",
+                "label": "nd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- Greatful Dead Crosby Stills and Nash",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I have friends that like that",
+                "label": "b"
+            },
+            {
+                "text": "What",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah So you have never heard of like the Christian music that I listen to probably",
+                "label": "b"
+            },
+            {
+                "text": "Oh Ive heard little bit of it Ive just -",
+                "label": "nd"
+            },
+            {
+                "text": "Like have you heard of uh of Carmen Have you ever heard of Kim",
+                "label": "qy"
+            },
+            {
+                "text": "Uh now Ive heard of Striper So the only one I can -- -",
+                "label": "sd"
+            },
+            {
+                "text": "Striper theyre the really heavy yeah --",
+                "label": "b"
+            },
+            {
+                "text": "-- uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- like the heavy metal stuff --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- I guess",
+                "label": "+"
+            },
+            {
+                "text": "Uh the first of Amy Grant before -- -",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- was you know became more mainstream top forty -",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah Cause she she plays both secular and Christian so -",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Yeah I like her too",
+                "label": "b"
+            },
+            {
+                "text": "Uh",
+                "label": "b"
+            },
+            {
+                "text": "I have been to concert couple of times of hers",
+                "label": "sd"
+            },
+            {
+                "text": "Ive never actually seen her in concert I imagine that she puts on pretty good show",
+                "label": "sd"
+            },
+            {
+                "text": "She does",
+                "label": "na"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Shes real good Shes real good So I like her",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh Uh I like some country music Its just that I like finding lot of its -",
+                "label": "b"
+            },
+            {
+                "text": "I dont like the country music thats like my wife left me my dog --",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- left me everybodys left me",
+                "label": "+"
+            },
+            {
+                "text": "Mama got run over by the train",
+                "label": "^q"
+            },
+            {
+                "text": "Yeah I dont like that",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know I like Randy Travis --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know I like more of the real new ones you know",
+                "label": "sd"
+            },
+            {
+                "text": "Like Garth Brooks",
+                "label": "qy^d"
+            },
+            {
+                "text": "Garth Brooks oh yes you know hes fine",
+                "label": "^h"
+            },
+            {
+                "text": "Reba MacIntyre",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah I like them I dont care for the older you know like the dog left me stuff",
+                "label": "ny"
+            },
+            {
+                "text": "You dont like Patsy Cline",
+                "label": "qy"
+            },
+            {
+                "text": "Huh",
+                "label": "br"
+            },
+            {
+                "text": "You dont like Patsy Cline",
+                "label": "qy^r"
+            },
+            {
+                "text": "No huh-uh I dont even really know who she is you know You know so But have you ever been to any of them concerts that you like That music that you like to -",
+                "label": "nn"
+            },
+            {
+                "text": "Uh yeah actually I just went to see the Greatful Dead about I guess about week ago",
+                "label": "ny"
+            },
+            {
+                "text": "But arent they done with I thought that they -",
+                "label": "qy"
+            },
+            {
+                "text": "No theyre they are still on tour They have been touring since the late sixties",
+                "label": "nn"
+            },
+            {
+                "text": "And I just thought that they done broke up and --",
+                "label": "sd"
+            },
+            {
+                "text": "No",
+                "label": "ar"
+            },
+            {
+                "text": "-- left",
+                "label": "+"
+            },
+            {
+                "text": "Theyre still together Theyre still --",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "-- making albums",
+                "label": "+"
+            },
+            {
+                "text": "Wow I didnt know that",
+                "label": "ba"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh",
+                "label": "b"
+            },
+            {
+                "text": "Thats interesting",
+                "label": "ba"
+            },
+            {
+                "text": "In fact I mean there are people you know that basically just follow them around from city to city --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- on tour selling tie dye and things like that Uh",
+                "label": "+"
+            },
+            {
+                "text": "Cause they are on up there in age arent they",
+                "label": "qy^g"
+            },
+            {
+                "text": "Yeah theyre theyre like late forties early fifties but you know like whenever one of them dies off they get replacement",
+                "label": "ny"
+            },
+            {
+                "text": "Okay Alright",
+                "label": "bk"
+            },
+            {
+                "text": "You know they seem to have really bad time with keyboard players They keep on dying and they keep on replacing them and the new ones in this thirties you know Uh",
+                "label": "sd"
+            },
+            {
+                "text": "Oh alright",
+                "label": "b"
+            },
+            {
+                "text": "But uh -",
+                "label": "%"
+            },
+            {
+                "text": "Cause they look pretty rough I mean Ive seen like picture of them and they just -",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah Well they dont actually look as rough as the Rolling Stones They just - I dont know if you saw the tour posters of the Rolling Stones when they last toured but it looked like leather day at the geriatric",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah I mean cause they just -",
+                "label": "aa"
+            },
+            {
+                "text": "All their faces were just all shriveled",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh Yuck looking I mean --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh",
+                "label": "b"
+            },
+            {
+                "text": "I mean it just just looked like they got bunch of retirees and put them in leather jackets and blue jeans",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh Well are you into that that rock music you know all that druggy stuff and all that I mean",
+                "label": "aa"
+            },
+            {
+                "text": "Well uh -",
+                "label": "%"
+            },
+            {
+                "text": "You know what I am saying like I mean like they come on the stage and like you know you - they dont even know they are there You know They are just so out of it",
+                "label": "qh"
+            },
+            {
+                "text": "Actually I prefer my my performers to be pretty sober you know just uh just so that you know that if theyre jamming you know that they dont just lose themselves and you know go into lala land",
+                "label": "ng"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So I just dont I just dont like you know -",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "That - So I dont know",
+                "label": "%"
+            },
+            {
+                "text": "So uh have you seen any concerts lately",
+                "label": "qy"
+            },
+            {
+                "text": "Um Uh",
+                "label": "%"
+            }
+        ]
+    }
+]

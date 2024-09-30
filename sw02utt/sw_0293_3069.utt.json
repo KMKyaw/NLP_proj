@@ -1,0 +1,859 @@
+[
+    {
+        "conversation_id": "conv_3069",
+        "turns": [
+            {
+                "text": "Yeah Yes I talked with um I talked with people from Richardson and Plano and uh the first three days - and then yesterday I talked with someone with from Pennsylvania so -",
+                "label": "o"
+            },
+            {
+                "text": "Yeah because -",
+                "label": "b"
+            },
+            {
+                "text": "its the -",
+                "label": "%"
+            },
+            {
+                "text": "Ive only made - this is only my third call",
+                "label": "%"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "I I tried to make calls two different days and I couldnt get through",
+                "label": "sd^t"
+            },
+            {
+                "text": "Oh I know Sometimes I just - Im in - it just takes very long time so -",
+                "label": "aa"
+            },
+            {
+                "text": "Does it Yeah Ive been trying to you know do that and and sometimes I just cant wait that long",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah I know",
+                "label": "aa"
+            },
+            {
+                "text": "so I just hang up",
+                "label": "sd^t"
+            },
+            {
+                "text": "Well",
+                "label": "nd"
+            },
+            {
+                "text": "Because it keeps going through the thing over and over again",
+                "label": "+"
+            },
+            {
+                "text": "This is hilarious",
+                "label": "sv"
+            },
+            {
+                "text": "But I knew as soon as I heard your voice I thought Kathys its Kathy Kester",
+                "label": "sd"
+            },
+            {
+                "text": "Oh Well tell me what books have you read lately",
+                "label": "qw"
+            },
+            {
+                "text": "Well lets see I um gosh I cant even think I havent read any and youre such reader I know that and I -",
+                "label": "^h"
+            },
+            {
+                "text": "Well I dont read all that much for enjoyment I mean I read lot for school but gee I just dont have much time for enjoyment reading",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah The the last book I picked up was book by Judy Bloom",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and it was um it was called um SMART WOMEN I think",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "Um or something like that",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And it was it was kind of - I really didnt like it at all",
+                "label": "%"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "It was it was written back in the early eighties",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "And it was all this this um divorced woman syndrome --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- of the um - it was almost like pre-AIDS scare kind of thing",
+                "label": "+"
+            },
+            {
+                "text": "Interesting",
+                "label": "ba"
+            },
+            {
+                "text": "It was really an interesting - because I I right away looked at when it was copyrighted",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Because I could tell by the theme of almost when it was written",
+                "label": "+"
+            },
+            {
+                "text": "Yes yes yeah",
+                "label": "aa"
+            },
+            {
+                "text": "And it was all about women searching for themselves two utts",
+                "label": "sd@"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And um you know lot of hanky-panky",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "going on",
+                "label": "+"
+            },
+            {
+                "text": "Yeah That kind of was um kind of pop psychology time for wh- when lot of books like that were coming out I think",
+                "label": "b"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "And so that makes real sense that thats um when it was written",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "Um I havent wasnt really aware that she had written anything for um adults I was always",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "just more aware of her jer- you know - for her young people her books - one utt",
+                "label": "+"
+            },
+            {
+                "text": "Yeah and shes more famous for that",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "but she has been writing for adults also",
+                "label": "sd"
+            },
+            {
+                "text": "Ill be darned",
+                "label": "ba"
+            },
+            {
+                "text": "and so I thought hey Ill just try this you know",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and see what it was like It was very um - the style was very conversational",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You would have lots of conversations between people --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- rather than any description",
+                "label": "+"
+            },
+            {
+                "text": "Right yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know how that is and um -",
+                "label": "qh"
+            },
+            {
+                "text": "Yeah I wonder if shes written anything really recently if shes got anything printed in print",
+                "label": "b"
+            },
+            {
+                "text": "Yeah she has because I I remember seeing new book by her --",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- that was out and I think it was it was an adult book",
+                "label": "+"
+            },
+            {
+                "text": "Ill be darned",
+                "label": "ba"
+            },
+            {
+                "text": "So anyway -",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "but thats the last thing I Ive read",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and um -",
+                "label": "%"
+            },
+            {
+                "text": "Well its - Im trying to think the last actual book I read that wasnt - lets see I think I read oh - when I was on vacation um between semester break and summer you know on semester break between spring and summer -- -",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and I went to my mothers I read book that I have should have read when I was probably in high school I read um JANE EYRE",
+                "label": "^h"
+            },
+            {
+                "text": "I -",
+                "label": "%"
+            },
+            {
+                "text": "No wait minute wait minute wait minute JANE EYRE No no no no it wasnt JANE EYRE",
+                "label": "ar"
+            },
+            {
+                "text": "WUTHERING HEIGHTS",
+                "label": "qy"
+            },
+            {
+                "text": "No it was um uh PRIDE AND PREJUDICE",
+                "label": "nn"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "by Jane Austen",
+                "label": "+"
+            },
+            {
+                "text": "by Jane Austen yes",
+                "label": "b^m"
+            },
+            {
+                "text": "Thats what it was yes",
+                "label": "sd"
+            },
+            {
+                "text": "Yes",
+                "label": "aa"
+            },
+            {
+                "text": "And um you know I I didnt know what to expect except I had heard that that Jane Austen was such wonderful novelist and she really was good I mean I was was very much impressed with the way her plot was put together so",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "%"
+            },
+            {
+                "text": "intricately and um and you know I just - but I as I say I was pretty much ashamed that I hadnt read something before then",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "slash error",
+                "label": "x@"
+            },
+            {
+                "text": "Because I I think I was I think I read it in college",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh slash error should be",
+                "label": "+@"
+            },
+            {
+                "text": "or had to write it read it in high school or college but I dont remember it",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "And then when Jennie had to read it at Gettysburg --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and I got her the I got her someone - I think it was um oh some actress reading it",
+                "label": "+"
+            },
+            {
+                "text": "Oh how interesting",
+                "label": "ba"
+            },
+            {
+                "text": "You know they had an abridged version of it on tape",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And so I got that for her and she loved doing that",
+                "label": "sd"
+            },
+            {
+                "text": "Oh Ill bet yeah",
+                "label": "ba"
+            },
+            {
+                "text": "But I remember that was the book",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And now I I mean I think its around here somewhere",
+                "label": "sd"
+            },
+            {
+                "text": "Right I wouldnt be",
+                "label": "b"
+            },
+            {
+                "text": "Im just going to have to put it",
+                "label": "sd"
+            },
+            {
+                "text": "surprised yeah",
+                "label": "+"
+            },
+            {
+                "text": "in the car sometimes and listen to it",
+                "label": "+"
+            },
+            {
+                "text": "Sure Oh yeah",
+                "label": "ba"
+            },
+            {
+                "text": "But um -",
+                "label": "%"
+            },
+            {
+                "text": "Well I read that and then Im trying to think um - usually I try to to find something long that",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Im going to - when - if if I have long periods of time like Christmas vacation or you know when I know Im not going to be doing anything for while um",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Oh thats what I do too",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah and thats about it because otherwise Im reading so much for school Im um I have just started reading book Actually its for school but its for um - theres literary jour- - well not literary journal - its its kind of journal of of the history of ideas thats thats starting to be published um from The first issue doesnt come out until next year but um -",
+                "label": "b"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "Im doing some reviews of books just to what to sort of recommend to wh- whether or not full-scale review should be done for the journal",
+                "label": "sd"
+            },
+            {
+                "text": "Oh how neat",
+                "label": "ba"
+            },
+            {
+                "text": "and Ive - yeah its really neat because these are brand new books and I",
+                "label": "%"
+            },
+            {
+                "text": "Oh great",
+                "label": "ba"
+            },
+            {
+                "text": "just got I got th- this one um most of the stuff is on uh literary criticism and philosophy",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and religion and all that",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "This one is on Johann Sebastian Bach and its biography",
+                "label": "sd"
+            },
+            {
+                "text": "Oh great",
+                "label": "ba"
+            },
+            {
+                "text": "that is really interesting",
+                "label": "+"
+            },
+            {
+                "text": "Oh thats fascinating",
+                "label": "ba"
+            },
+            {
+                "text": "I mean it its fascinating it really is",
+                "label": "aa"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Um but its so long I I dont really have the time to read the whole thing but I think",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "eventually Ill go back to it But its",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "it was written - I mean the the copyright is nineteen ninety-one so its brand new book",
+                "label": "+"
+            },
+            {
+                "text": "Oh its brand new book",
+                "label": "bf"
+            },
+            {
+                "text": "Yeah uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Oh that that would be wonderful --",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- to read something like that",
+                "label": "+"
+            },
+            {
+                "text": "and he really this man really shed some light on um some",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "aspects of of Bachs genius and and and you know the and more sociological things you know like the the idea that um that music to be musician was as much um of family occupation as anything I mean you know that was --",
+                "label": "+"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "-- it was families had just loads of musicians",
+                "label": "+"
+            },
+            {
+                "text": "Yeah and they just went from generation",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "probably to generation",
+                "label": "+"
+            },
+            {
+                "text": "thats right",
+                "label": "aa"
+            },
+            {
+                "text": "just with these with these all passing it from one to the other",
+                "label": "+"
+            },
+            {
+                "text": "Yes uh-huh and um -",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah thats the way it was Im sure back then",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah So uh -",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Oh thats interesting",
+                "label": "b"
+            },
+            {
+                "text": "it was just really interesting if thats you know thats kind of what - but I have to - not only am am I re- reading it to decide whether or not it should be reviewed but also um because the board of advisers for this um journal doesnt have right now doesnt have really respected name um whos uh scholar on on music",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "um and Im supposed to decide whether I think this man might be worthy person to be you know in that position on the board so -",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "I dont know if I want to take that responsibility or not but",
+                "label": "sd"
+            },
+            {
+                "text": "Wow thats rough",
+                "label": "ba"
+            },
+            {
+                "text": "But at least I",
+                "label": "+"
+            },
+            {
+                "text": "Thats real rough",
+                "label": "ba"
+            },
+            {
+                "text": "can tell them what I think so um",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "its real interesting",
+                "label": "+"
+            },
+            {
+                "text": "Well thats neat thing to be involved in slash error",
+                "label": "ba@"
+            },
+            {
+                "text": "Yeah it is",
+                "label": "aa"
+            },
+            {
+                "text": "Because I think our I think my alma mater um Gettysburg I think they were just starting magazine -- sd",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- that was similar to that",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "I think thats probably sort of thing to do --",
+                "label": "sv"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "-- in small colleges",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "but um -",
+                "label": "%"
+            },
+            {
+                "text": "that it - you know you see you see lot of small colleges doing things",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "like that right uh-huh",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "because it attracts really lot peoples interest Thats one way - its really good public relations for small schools",
+                "label": "sv"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "I think so",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But uh another one of my projects this summer is actually its part of my research assistantship is um its helping professor uh compile bunch of translations of of various poems for book that hes writing and --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- so Im learning the names if not the actual contents of lot of different poems and lot of French people",
+                "label": "+"
+            },
+            {
+                "text": "Now translations what do you mean translations of of -",
+                "label": "qw"
+            },
+            {
+                "text": "Um well where where for instance um Baudelaire poem that was written",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "in the French and then has been translated into English by",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "various people",
+                "label": "+"
+            },
+            {
+                "text": "Oh I see",
+                "label": "bk"
+            },
+            {
+                "text": "And the translations are all so different from one another",
+                "label": "sd"
+            },
+            {
+                "text": "All different",
+                "label": "b^m"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Oh thats interesting",
+                "label": "ba"
+            },
+            {
+                "text": "So its multiple translations of single works and and thats right now right now pretty much what Im doing as far as um - my work is just kind of compiling",
+                "label": "sd"
+            },
+            {
+                "text": "Gosh",
+                "label": "ba"
+            },
+            {
+                "text": "all that for him So -",
+                "label": "+"
+            },
+            {
+                "text": "Thats great",
+                "label": "ba"
+            },
+            {
+                "text": "Its real interesting",
+                "label": "aa"
+            },
+            {
+                "text": "Boy you really lift me up to different -",
+                "label": "ba"
+            },
+            {
+                "text": "slash error",
+                "label": "o@"
+            },
+            {
+                "text": "I mean here I Im dealing with uh",
+                "label": "sd"
+            },
+            {
+                "text": "slash error should be",
+                "label": "+@"
+            },
+            {
+                "text": "cleaning the stove and -",
+                "label": "+"
+            },
+            {
+                "text": "Oh well let me tell you slash error",
+                "label": "+@"
+            },
+            {
+                "text": "You know Im",
+                "label": "sd"
+            },
+            {
+                "text": "There are days when I would be prefer",
+                "label": "+"
+            },
+            {
+                "text": "I wish I were dealing with Baudelaire",
+                "label": "+"
+            },
+            {
+                "text": "really doing that",
+                "label": "+"
+            },
+            {
+                "text": "That would be nice",
+                "label": "ba"
+            },
+            {
+                "text": "I dont know if Ive told you but um this is not on the subject -",
+                "label": "h"
+            }
+        ]
+    }
+]

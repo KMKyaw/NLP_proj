@@ -1,0 +1,319 @@
+[
+    {
+        "conversation_id": "conv_3921",
+        "turns": [
+            {
+                "text": "Okay",
+                "label": "o"
+            },
+            {
+                "text": "Well are you fisher person are you",
+                "label": "qy^g"
+            },
+            {
+                "text": "Yes I love to fish",
+                "label": "ny"
+            },
+            {
+                "text": "Great What kind of fishing do you do",
+                "label": "ba"
+            },
+            {
+                "text": "Well its mostly from the rivers and lakes",
+                "label": "sd"
+            },
+            {
+                "text": "In California",
+                "label": "qy"
+            },
+            {
+                "text": "And yes and from the banks I dont like to go out on boats",
+                "label": "ny"
+            },
+            {
+                "text": "Oh Well what kind of fish do they have in your neck of the woods",
+                "label": "b"
+            },
+            {
+                "text": "Well it uh - down here we usually catch catfish and bass stripped bass you know where I fish",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And trout up at uh Lake Shasta when I go up there",
+                "label": "+@"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "But I like it all except uh really I dont I dont really care that much for the trout I think I had rather have catfish than I would trout",
+                "label": "sd"
+            },
+            {
+                "text": "Well I I dont blame you I grew up in Nebraska and uh grew up fish cat fishing in the Little Blue River and then uh we moved to uh South Dakota --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh did lot of Walleye fishing on the Missouri River and uh now that we are down here I think lot of people do some uh bass fishing and strip bass fishing but uh I still uh I am sort of catfish man at heart",
+                "label": "+"
+            },
+            {
+                "text": "See Well uh like in uh Iowa and Nebraska those little bullheads they look just like catfish huh",
+                "label": "qy"
+            },
+            {
+                "text": "Yep Yeah they do",
+                "label": "ny"
+            },
+            {
+                "text": "You know thats what I mean cause I am from Iowa",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "And uh you know we use to catch those little bullheads and thats - they look just like baby catfish",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know uh did you get to go fishing very often",
+                "label": "qy"
+            },
+            {
+                "text": "Oh yeah I like to fish The only problem is I just moved to Texas so its been little over year now but uh --",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- I I am not quite sure what residency is for fishing license here and I so really I havent gone fishing for about two years now --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and its driving me crazy but uh one of these days I will go over to uh Lake Lewisville or uh what is it uh Ray Hubbard Lake Ray Hubbard and get some fishing in and get it out of my system for while",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Well uh you like to eat them after you catch them",
+                "label": "b"
+            },
+            {
+                "text": "Well yeah sure",
+                "label": "ny"
+            },
+            {
+                "text": "Because theres are lot of people that like to go fishing but they dont like to eat them",
+                "label": "sv"
+            },
+            {
+                "text": "Well mo- -",
+                "label": "%"
+            },
+            {
+                "text": "You know",
+                "label": "+@"
+            },
+            {
+                "text": "Yeah Most of the time uh if we catch something well take it home and eat it Uh and youre right I mean I like to fish for trout and they are really uh uh good fighters but uh if I went to restaurant that probably wouldnt be the first thing I would order if I had choice of fish on the menu",
+                "label": "b"
+            },
+            {
+                "text": "Yeah I know If I go to restaurant and order fish its usually either salmon or uh red snapper",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know",
+                "label": "+@"
+            },
+            {
+                "text": "Well uh so do you just uh uh skin your catfish or do you fillet them out how do you how do you -",
+                "label": "qy"
+            },
+            {
+                "text": "We uh skin them",
+                "label": "sd"
+            },
+            {
+                "text": "Do you",
+                "label": "^g"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "Yeah yeah Just cut their heads off and skin them and then I just uh flour them salt and pepper them and cook them",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I dont put that corn meal on them",
+                "label": "sd"
+            },
+            {
+                "text": "No",
+                "label": "nn"
+            },
+            {
+                "text": "You know uh thats the way my mother taught me to fry them so -",
+                "label": "sd"
+            },
+            {
+                "text": "Well thats how we do it too Uh although we uh use to set some uh trout lines out and weve caught you know fourteen fifteen pound catfish and sometimes those are good to uh do on barbecue grill --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and just leave the skin on and uh do it with uh butter on uh on on tin foil --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and then the skin just basically scrapes right off and uh wer- - and it really tastes pretty good",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Well you know I dont think Ive ever tried cooking those uh catfish quite that big",
+                "label": "b"
+            },
+            {
+                "text": "There uh -",
+                "label": "%"
+            },
+            {
+                "text": "Uh most of them are just the small you know pan frying ones",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So uh -",
+                "label": "%"
+            },
+            {
+                "text": "Well I am hoping one of these days Ill have the opportunity to catch big catfish like that on uh rod and reel but uh --",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "-- so far its just been on uh on the trout lines so -",
+                "label": "+"
+            },
+            {
+                "text": "Wouldnt that be something",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Its thrill when you get big fish though isnt it",
+                "label": "qy^g@"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "You know",
+                "label": "+@"
+            },
+            {
+                "text": "And uh well up in uh South Dakota on the in the Missouri River there weve uh tied into few northern pike and uh they really uh - in in - when the water is cold they are very slow moving fish but in the summer time theyll uh give you run for your money",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh So when you were - when you did go fishing where did you go You moved there from where Nebraska",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "So it was just like the rivers and uh the --",
+                "label": "qy^d"
+            },
+            {
+                "text": "In",
+                "label": "qy"
+            },
+            {
+                "text": "-- lakes I suppose huh",
+                "label": "+"
+            },
+            {
+                "text": "In Nebraska",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Uh yeah Most of the time uh we just fished uh in the river although there were lot of sand pits and things like that that we could fish in",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And lot of them ended up being close to the river so if the river every uh flooded you know then obviously they would dump some catfish and bass and stuff into the into the ponds and the sand pits --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and so we would do lot of fishing there too but uh South Dakota didnt really have much for -",
+                "label": "sd"
+            }
+        ]
+    }
+]

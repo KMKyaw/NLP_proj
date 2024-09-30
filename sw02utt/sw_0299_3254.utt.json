@@ -1,0 +1,391 @@
+[
+    {
+        "conversation_id": "conv_3254",
+        "turns": [
+            {
+                "text": "Okay Where do you enjoy dining out",
+                "label": "o"
+            },
+            {
+                "text": "Oh I generally go to the quickie places just because theyre cheap",
+                "label": "sd"
+            },
+            {
+                "text": "Yes do you have children",
+                "label": "b"
+            },
+            {
+                "text": "Uh we have four but most of them are gone now --",
+                "label": "na"
+            },
+            {
+                "text": "Uh",
+                "label": "b"
+            },
+            {
+                "text": "-- so there there might be - but we were taking you know uh four five and six people out",
+                "label": "%"
+            },
+            {
+                "text": "Yeah that makes difference doesnt it",
+                "label": "b"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "What area of the country do you live in",
+                "label": "qw"
+            },
+            {
+                "text": "Im in Texas",
+                "label": "sd"
+            },
+            {
+                "text": "Yes I am too But -",
+                "label": "b"
+            },
+            {
+                "text": "And we live- we lived in Ohio prior to this",
+                "label": "sd"
+            },
+            {
+                "text": "I did too",
+                "label": "sd"
+            },
+            {
+                "text": "slash error",
+                "label": "x@"
+            },
+            {
+                "text": "Im from the Dayton area",
+                "label": "sd"
+            },
+            {
+                "text": "Uh we were up near Cleveland slash error should be sd",
+                "label": "+@"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Yeah uh but I look for service even at the quickie places --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- type things Uh I dont like to go to the drive-thrus because sometimes they get your order wrong --",
+                "label": "+"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "-- and then youre stuck and its pain to have to stand there and see what it is before you leave --",
+                "label": "sv"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "-- so I really dont like the drive-thrus that much I I like to go and eat there But I would say service uh atmosphere and whether the food is good and on going out I like steaks So we try to hit those places when we can",
+                "label": "sd"
+            },
+            {
+                "text": "When we travel we look for Wendys because we have kids and my husband and I like getting the salads or the lighter meals --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and then that way they can get their burgers and fries and we can have salad bar --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- so sometimes we drive for couple hundred miles until we find Wendys",
+                "label": "sd"
+            },
+            {
+                "text": "slash error",
+                "label": "x@"
+            },
+            {
+                "text": "because its all either McDonalds or Dairy Queens",
+                "label": "+"
+            },
+            {
+                "text": "Uh yeah slash error should be and in in in the countries unless its large city I guess Dairy Queen and Wal-Mart are their main",
+                "label": "+@"
+            },
+            {
+                "text": "Right thats right",
+                "label": "aa"
+            },
+            {
+                "text": "Thats what you find right",
+                "label": "sv"
+            },
+            {
+                "text": "I know",
+                "label": "aa"
+            },
+            {
+                "text": "My husband likes uh Dairy Queens He likes their milk shakes and their chili cheese --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- dogs I guess so hes fan of of Dairy Queen and and well go even in town here at times just as change although --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- Im not that excited about it But weve eat we eat out so much its gotten so I dont like to really eat any place but yet I hate to cook food at home --",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- so that might be why I look for inexpensive places --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- just because were eating out probably five nights week --",
+                "label": "+"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "-- maybe Or we eat junk food at home --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- uh now my husba- -",
+                "label": "%"
+            },
+            {
+                "text": "Well what are some of your your favorite inexpensive places",
+                "label": "qw"
+            },
+            {
+                "text": "Oh well go to them all We sort of take turns And we uh - I sort of favor the ones - if I have coupon we can go there and if not we cant because its cheaper --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- so mine is monetarily I guess strongly monetarily based Uh well go get pizza and uh at Little Caesars although the kids prefer Dominos",
+                "label": "sd"
+            },
+            {
+                "text": "Oh we are Little Caesar fans here --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- thats where we always go",
+                "label": "sd"
+            },
+            {
+                "text": "But its just lot cheaper than than Dominos so thats - We go to Grandys quite bit I would say",
+                "label": "sv"
+            },
+            {
+                "text": "Yes we like Grandys too",
+                "label": "aa"
+            },
+            {
+                "text": "McDonalds uh weve sort of been off of that for while and no particular reason and I - maybe we avoided Wendys the last few years because our daughter worked there and she never wanted us to show up there --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- so I dont we dont go there that much",
+                "label": "sd"
+            },
+            {
+                "text": "Where do you go if you like to have nice meal out or big meal",
+                "label": "qw"
+            },
+            {
+                "text": "nice meal oh -",
+                "label": "^h"
+            },
+            {
+                "text": "Where do you go for steaks",
+                "label": "qw"
+            },
+            {
+                "text": "Its usually when were out of town --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- and Ill order steak or steak and lobster combined --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- so its really not in town",
+                "label": "sd"
+            },
+            {
+                "text": "Oh You ever been to Houstons on Belt Line",
+                "label": "b"
+            },
+            {
+                "text": "No",
+                "label": "nn"
+            },
+            {
+                "text": "Thats where we go to get steaks --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- they have teriyaki steak there and when we have something to celebrate we head to Houstons They dont take reservations and you wind up waiting about an hour --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but the food is good and theyve got nice patio area that you can wait and get something to drink unless you get there at five oclock then you can go right through",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "But they have real good signature salads there and nice steaks so thats our nice place to go We dont usually take the kids when we go there",
+                "label": "sd"
+            },
+            {
+                "text": "But well we dont go out that much I gue- well I guess we do go out without kids Were usually picking things up quickly though --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- we just dont dwell on food too much and uh with my husband traveling he can get all he needs --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- of that during the week going to those places --",
+                "label": "+"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "-- so it doesnt really matter to him Hed probably just like to stay home",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah thats the way with my husband Hes gone during the week and likes to eat at home on the weekends and Ive been eating at home all week long with the kids and would like to go out somewhere so we have conflict of interests on the weekend",
+                "label": "aa"
+            },
+            {
+                "text": "Well I think I I never have liked to cook food but I think it all began eating out when we had uh the boys in in different uh baseball --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- on baseball tea- - it was mainly baseball teams --",
+                "label": "+"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "-- and my husband would coach so we were never home at the same time",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Im not one thats going to fix you know the meal at two oclock in the afternoon so they can eat it all day whenever --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- theyre there If theyre not there in between five and six well then I guess we dont eat today sptheyre or you go you know --",
+                "label": "+"
+            },
+            {
+                "text": "Yep",
+                "label": "aa"
+            },
+            {
+                "text": "-- you fend for yourself You go somewhere else So that you know that really snowballed when we got down here when I started to sub make money I went Oh well Ill just sub to - slash error two utts",
+                "label": "+"
+            }
+        ]
+    }
+]

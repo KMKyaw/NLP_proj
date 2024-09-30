@@ -1,0 +1,647 @@
+[
+    {
+        "conversation_id": "conv_2262",
+        "turns": [
+            {
+                "text": "Well I um I havent really lived in lot of big cities I mean Im living in Dallas now Plano is outside of Dallas but um so I dont really have lot of experience with air pollution",
+                "label": "sd"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "But I know when I lived down in Houston on the outskirts of Houston there were some towns like Pasadena that had oil refineries",
+                "label": "sd"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "And um if you would drive by there like on your way to the beach or something",
+                "label": "sd"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "there would just be dumping this huge amounts of smoke",
+                "label": "+"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "into the air and it always smelled really bad We know that that was really really really bad for the atmosphere What have you got up there",
+                "label": "+"
+            },
+            {
+                "text": "Well I I live out in the country",
+                "label": "sd"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "so that part is good Uh were maybe one hundred miles from Pittsburgh which has lot of pollution from their plants",
+                "label": "sv"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "and right now in our area were fighting against toxic waste incinerator sp were",
+                "label": "sd"
+            },
+            {
+                "text": "Oh no",
+                "label": "ba"
+            },
+            {
+                "text": "And uh it wont be too for from where we live sp far And everybody really has been you know fighting against it because we we do not want it Well we dont want one any place",
+                "label": "sd"
+            },
+            {
+                "text": "Sure",
+                "label": "ba"
+            },
+            {
+                "text": "we would like the uh industry to do more to take care of the waste products before they turn to incineration because we feel that uh the small percentage that theyre going to be putting into the air is too much You know slash error",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Its just I mean its just so bad that there is just so much going into the air and",
+                "label": "aa"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "+"
+            },
+            {
+                "text": "and the little bit you say that there putting in here and there and everywhere it all adds up there - theyre",
+                "label": "+*"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "Plus all the problems in the Middle East With all that smoke and -",
+                "label": "sv"
+            },
+            {
+                "text": "Oh that has to be terrible over there",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah So its just um why are we doing this to ourselves",
+                "label": "aa"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "I just dont know but um I you know what really amazes me about like that Pasadena area and the oil refineries",
+                "label": "sd"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "is that there would be houses and people living just really close to it",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I mean between the freeway and the oil refinery you would see neighborhood",
+                "label": "sd"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "and you just thought well its obvious that theres lot going up in the air there and what comes up must come down",
+                "label": "sv(^q)"
+            },
+            {
+                "text": "Yeah Yeah Breathing it were breathing it all the time",
+                "label": "b"
+            },
+            {
+                "text": "Yes And and how if they have all of those um - toxicity I mean it theres signs around saying how dangerous it is and here you are living",
+                "label": "b"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "That just doesnt make too much sense",
+                "label": "sv"
+            },
+            {
+                "text": "No And I figure were paying to take care of this toxic waste no matter who does it So slash error",
+                "label": "aa"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "and they have shown some of the industries have been real good at uh uh doing their part in uh reducing the amount that they have sd",
+                "label": "+"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "Uh theyve reused some of it uh it can be recycled lot of their things",
+                "label": "sd"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "and that theyve shown that it uh to begin with apparently it does cost more",
+                "label": "sd"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "but once they get started its really it saves them money in the end and it cuts down on the end product that has to be dealt with some other way",
+                "label": "sd"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "And if they would all - thats what thats what we want done Is we want industry to take you know more responsibility in taking care of it",
+                "label": "%"
+            },
+            {
+                "text": "Well um individual companies and things are so selfish",
+                "label": "sv"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "And their desires to save few dollars and and that they dont care about the environmental impact",
+                "label": "sv"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "that they make",
+                "label": "+"
+            },
+            {
+                "text": "theyre greedy Its money is what is Its its the money",
+                "label": "sv"
+            },
+            {
+                "text": "Yes",
+                "label": "aa"
+            },
+            {
+                "text": "Theyre making fantastic amounts on these things and uh even the incinerator the money and the income that theyre going to make off this is you know just astronomical",
+                "label": "sv"
+            },
+            {
+                "text": "Huh-uh Well have you ever visited um like Los Angeles or any place thats ever its kind of known that it has uh pollution in its air",
+                "label": "b"
+            },
+            {
+                "text": "Weve never been we went as far as as uh like Las Vegas",
+                "label": "ng"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "and Yellow Stone Park",
+                "label": "+"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "We did go we should have gone the whole way over but we didnt But I understand that we have an aunt that lives out there and",
+                "label": "sd"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "When she was visiting here she would look up at the stars and she said how wonderful it was to be able to look into the sky and see some of the things that she saw",
+                "label": "+"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "She said they couldnt see those things out there",
+                "label": "sd"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "because of the smog and everything",
+                "label": "+"
+            },
+            {
+                "text": "Thats so awful Well what about in New York I guess youve gone that way maybe",
+                "label": "ba"
+            },
+            {
+                "text": "No Never been in New York I dont want to go there",
+                "label": "nn"
+            },
+            {
+                "text": "Pretty funny",
+                "label": "ba"
+            },
+            {
+                "text": "Have you been there",
+                "label": "qy"
+            },
+            {
+                "text": "Well Ive been to New York I have relatives that direction",
+                "label": "na"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "We have - its um - where you are slash error one utt with 4 is it close to Phoenixville Pennsylvania",
+                "label": "%"
+            },
+            {
+                "text": "Um no I never heard of that one",
+                "label": "nn"
+            },
+            {
+                "text": "Because I have family there and -",
+                "label": "sd"
+            },
+            {
+                "text": "Were near Pittsburgh Clarion University",
+                "label": "sd"
+            },
+            {
+                "text": "Oh huh-uh Its pretty neat",
+                "label": "b"
+            },
+            {
+                "text": "Its its kind of northwest part of Pennsylvania",
+                "label": "sd"
+            },
+            {
+                "text": "Thats beautiful country up that way I know its um very lush and pretty",
+                "label": "ba"
+            },
+            {
+                "text": "Huh-uh slash error",
+                "label": "o@"
+            },
+            {
+                "text": "Up in the back in the east Its really -",
+                "label": "+"
+            },
+            {
+                "text": "You sound very young slash error should be sv Are you young person",
+                "label": "+@"
+            },
+            {
+                "text": "Well Im thirty-one",
+                "label": "no"
+            },
+            {
+                "text": "Thirty-one Youre youre young",
+                "label": "b^m"
+            },
+            {
+                "text": "Seems kind of old to me",
+                "label": "sv"
+            },
+            {
+                "text": "No youre young You have lot of life yet and and these - we have some people who say well this isnt going to affect me this air pollution",
+                "label": "nn"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "uh older people or they think theyre far enough away from something",
+                "label": "sd"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "that its - and they dont realize these things are going to affect everybody And if youre older its not going to affect you that way You have grandchildren you have children uh",
+                "label": "+"
+            },
+            {
+                "text": "Yes",
+                "label": "aa"
+            },
+            {
+                "text": "Nieces nephews whatever friends Uh everybody is going to be affected by it",
+                "label": "sv"
+            },
+            {
+                "text": "Thats really true And we all you know need to be willing to help pay little bit Like Ive heard some people uh grumble about their uh cars passing their emission tests",
+                "label": "aa"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "and things and how theyve had to how its more expensive and things",
+                "label": "+"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "And I thought well its so much better",
+                "label": "sv"
+            },
+            {
+                "text": "They say it has really made difference though",
+                "label": "sd"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "Now see we dont have that here yet",
+                "label": "sd"
+            },
+            {
+                "text": "Oh you dont",
+                "label": "qy^d"
+            },
+            {
+                "text": "No we dont have that testing in that down here yet",
+                "label": "nn"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "But they - I have read that that that it has really helped where the problem is greater where the population is greater",
+                "label": "%"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "and that it has made difference",
+                "label": "sd"
+            },
+            {
+                "text": "Well I really think it must I think every - I mean well think about how many automobiles there are",
+                "label": "sv"
+            },
+            {
+                "text": "Huh-uh Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "And each is putting out - like we have car an older one of our cars is an older car",
+                "label": "sv"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "and every time you start it from the tail pipe it makes black spot",
+                "label": "sd"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "on the cement",
+                "label": "+"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "And you know that that is sign",
+                "label": "sd"
+            },
+            {
+                "text": "Something is coming out yeah",
+                "label": "^2"
+            },
+            {
+                "text": "Yeah And thats all cars are doing that",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And its really polluting the air",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah If you have to put price on it Which is more valuable life or paying little more",
+                "label": "b"
+            },
+            {
+                "text": "Huh-uh And its also its causing of lot of the real terrible suffering like cancer",
+                "label": "b"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "and things",
+                "label": "+"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "We sure wouldnt want",
+                "label": "sv"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "so much more people suffering from that",
+                "label": "+"
+            },
+            {
+                "text": "Yeah And like I said I think you have to pay for it no matter what you do you with it because its industry Were paying industry to make the products and",
+                "label": "b"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "were helping pay for there making these end products that are",
+                "label": "+"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "toxic waste Then we have to pay for them to pay somebody to carry it away someplace then they put it in the dump some place and they find out well this dump doesnt work so we have to clean this up and move it someplace else We end up paying for it again Now were going to end up paying for it again by having it burned in these large incinerators",
+                "label": "+"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "And were paying to have our air polluted and our water streams polluted",
+                "label": "sv"
+            },
+            {
+                "text": "Pretty sad",
+                "label": "ba"
+            },
+            {
+                "text": "Or the - where they want to put the one area they want to put the incinerator is right in the middle of the Clarion the two water sheds that feed Clarion river",
+                "label": "%"
+            },
+            {
+                "text": "Oh no",
+                "label": "ba"
+            },
+            {
+                "text": "And you know it just boggles our mind that they can consider even putting it there because",
+                "label": "sv"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "if that water gets contaminated it will go on down to Pittsburgh It will you know it affects so many people",
+                "label": "+"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "And its just hard to think that they could allow them to do things like this",
+                "label": "sv"
+            },
+            {
+                "text": "No No Its scary",
+                "label": "aa"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "Its scary",
+                "label": "sv"
+            },
+            {
+                "text": "It really is",
+                "label": "aa"
+            },
+            {
+                "text": "Huh-uh Its really awful Well Ive really enjoyed the conversation Its helped me to think more about some issues that I need to be thinking more about",
+                "label": "b"
+            },
+            {
+                "text": "It is really concern",
+                "label": "fc"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "fc"
+            },
+            {
+                "text": "So slash error",
+                "label": "fc@"
+            },
+            {
+                "text": "And its instead of waiting until it directly affects me like you say",
+                "label": "fc"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "+"
+            },
+            {
+                "text": "its important to be involved ahead of time Well you have good day",
+                "label": "+"
+            },
+            {
+                "text": "Well you too",
+                "label": "fc"
+            },
+            {
+                "text": "Thank you",
+                "label": "fc"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "fc"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc"
+            },
+            {
+                "text": "Bye",
+                "label": "fc"
+            }
+        ]
+    }
+]

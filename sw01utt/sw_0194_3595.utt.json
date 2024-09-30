@@ -1,0 +1,439 @@
+[
+    {
+        "conversation_id": "conv_3595",
+        "turns": [
+            {
+                "text": "Arlington Texas - now since I got somebody from Arlington Virginia one day -",
+                "label": "o"
+            },
+            {
+                "text": "Is that right",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Well I never thought about that but there is an Arlington like I had call the other day from Birmingham Michigan --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh --",
+                "label": "b"
+            },
+            {
+                "text": "-- you know and I was thinking --",
+                "label": "+"
+            },
+            {
+                "text": "-- Birmingham",
+                "label": "b^m"
+            },
+            {
+                "text": "-- yeah and I was thinking - the only Birmingham I could think of was Alabama",
+                "label": "+"
+            },
+            {
+                "text": "Right Its funny how many names have been used uh all over the country",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah well tell me what kind of books have you read",
+                "label": "aa"
+            },
+            {
+                "text": "Well to tell you the truth Ive been going to college for the last four years so mainly text books -",
+                "label": "sd"
+            },
+            {
+                "text": "I was going to say not fun kind right",
+                "label": "qy^g"
+            },
+            {
+                "text": "No um but I I really tend to like biographies lot not necessarily always heavy ones --",
+                "label": "nn"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but you know sometimes biogr- - I just read one about Grace Kelley I love to read about real people To me half the time its more fascinating than some of these made up stories",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah it is because you know thats its really and truly --",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah it happened",
+                "label": "aa"
+            },
+            {
+                "text": "-- true thing You know I read one about Bob Hope that I liked",
+                "label": "+"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah that was real good Im like you if its not heavy biography you know --",
+                "label": "ny"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- I enjoy it",
+                "label": "+"
+            },
+            {
+                "text": "I used to like to read about royalty lot I when I was younger I read about every king and queen that lived I think in Europe That was my thing for while",
+                "label": "sd"
+            },
+            {
+                "text": "I was trying to think uh - I read uh novel that used the names of like Princess Di and Prince Phillip coming over here to be entertained and all and there was murder",
+                "label": "^h"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah it was some time ago Seems like it was THE SPY WENT DANCING or something like that",
+                "label": "ny"
+            },
+            {
+                "text": "Oh it sounds like fun",
+                "label": "ba"
+            },
+            {
+                "text": "It was lot of fun because they used these real names you know",
+                "label": "sd"
+            },
+            {
+                "text": "Wonder if it was by one of those famous writers you know Margaret Truman Daniels writes lot those",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah in fact I believe it was because -",
+                "label": "aa"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "uh-huh I believe",
+                "label": "ny"
+            },
+            {
+                "text": "Sounds like something she would write",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah I think it was by her now that you mention it because someone had given it to me and I thought well this will be great and it was",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah Ive heard that shes done real- you know her books are really interesting and they always sell well",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh -",
+                "label": "%"
+            },
+            {
+                "text": "Well when you use real people like that I think --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah brings it to life",
+                "label": "aa"
+            },
+            {
+                "text": "-- royalty especially you know -",
+                "label": "+"
+            },
+            {
+                "text": "I know uh the Bri- some of the British people laugh at us because were so enthralled with their royalty",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah but you know thats like them being enthralled with our football and so forth you know",
+                "label": "aa"
+            },
+            {
+                "text": "I know our movie stars",
+                "label": "aa"
+            },
+            {
+                "text": "Our movie stars because its totally different concept to us",
+                "label": "b^m"
+            },
+            {
+                "text": "Oh right",
+                "label": "aa"
+            },
+            {
+                "text": "I havent I havent had chance to read lot lately either I have read uh mostly novels I went to visit my daughter in Florida --",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "-- and I took novel with me uh and read it at Thanksgiving time and uh it was uh one of those generation novels you know --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yes",
+                "label": "aa"
+            },
+            {
+                "text": "-- starts out when theyre small and continues through generations --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I always like those",
+                "label": "sd"
+            },
+            {
+                "text": "-- and I like that",
+                "label": "sd"
+            },
+            {
+                "text": "Have you ever read anything by Susan Howatch",
+                "label": "qy"
+            },
+            {
+                "text": "Yes I have",
+                "label": "ny"
+            },
+            {
+                "text": "Isnt she fabulous",
+                "label": "qy"
+            },
+            {
+                "text": "Oh she is wonderful",
+                "label": "na"
+            },
+            {
+                "text": "Oh once you st- - I dont like to get one of her books because I I just live to read Ill Ill skip everything just to get back to the book",
+                "label": "sd"
+            },
+            {
+                "text": "I stayed up one night I think until two --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "ba"
+            },
+            {
+                "text": "-- in the morning finishing one of hers because I star- I could not put it down",
+                "label": "+"
+            },
+            {
+                "text": "Shes just - I dont know does she how often does she come out with them I probably have missed the last few since Ive been back in school",
+                "label": "sv"
+            },
+            {
+                "text": "Well no it seems like she doesnt write as often as oh well like Danielle Steele and those silly things She writes the same thing",
+                "label": "ar"
+            },
+            {
+                "text": "Well she can she can turn them out overnight I swear",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah and and theyre the same silly things I mean if youve read one I mean its",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah Ive never read whole one of hers I dont think",
+                "label": "aa"
+            },
+            {
+                "text": "It its practically the same thing over and over you know",
+                "label": "+"
+            },
+            {
+                "text": "And think how rich she is",
+                "label": "ad"
+            },
+            {
+                "text": "Yeah wouldnt I you know - Im criticizing her and wouldnt I like to have her money --",
+                "label": "aa"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "aa"
+            },
+            {
+                "text": "-- because they go from hardback to paperback and she has millions of them",
+                "label": "sd"
+            },
+            {
+                "text": "And then make movies out of some of them",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh You know mini series and so forth and it seems to me like Susan Howatch does not write as often I have not seen as many of hers",
+                "label": "b"
+            },
+            {
+                "text": "Well hers are so involved and theyre so --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- such higher intellectual level because she quotes lot you know",
+                "label": "+"
+            },
+            {
+                "text": "I think she does lot of research too",
+                "label": "sv"
+            },
+            {
+                "text": "I do too so she couldnt possibly turn them out like some of these popular --",
+                "label": "aa"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "aa"
+            },
+            {
+                "text": "-- writers but oh her books are just incredible I dont think theyve ever made movie do you",
+                "label": "+"
+            },
+            {
+                "text": "No I dont think so and Ive often wondered why havent you",
+                "label": "nn"
+            },
+            {
+                "text": "Yes --",
+                "label": "ny"
+            },
+            {
+                "text": "You know I -",
+                "label": "%"
+            },
+            {
+                "text": "-- well no uh I really just thought about it now but theres just -",
+                "label": "ar"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Maybe its because they take so much in I dont know",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Maybe theyre just too involved for the average person to go and sit through them you know",
+                "label": "b"
+            },
+            {
+                "text": "Theyre so big --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- theyre such you know - it would be like another GONE WITH THE WIND I guess --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- another three hour movie",
+                "label": "+"
+            },
+            {
+                "text": "And maybe that turns people off but look at GONE WITH THE WIND you know",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I know Its about one of my favorite movies",
+                "label": "aa"
+            },
+            {
+                "text": "Uh have you uh gotten into SCARLETT yet",
+                "label": "qy"
+            },
+            {
+                "text": "No it had such bad press I wasnt too",
+                "label": "nn"
+            },
+            {
+                "text": "Yeah thats exactly what I was going to say I was amazed because I - in the beginning when it was on you know on route coming out --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- I heard mixed publicity --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- kind of good and bad and then when it came out all I heard was just oh how bad it was that I didnt even want to get it",
+                "label": "+"
+            },
+            {
+                "text": "Me either Do you know anyone thats read it",
+                "label": "aa"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "nn"
+            },
+            {
+                "text": "No I havent heard of anybody thats read it either",
+                "label": "aa"
+            },
+            {
+                "text": "No",
+                "label": "b"
+            },
+            {
+                "text": "I think it was on the best-seller list though --",
+                "label": "sd"
+            },
+            {
+                "text": "Well --",
+                "label": "sd"
+            },
+            {
+                "text": "-- for while",
+                "label": "+"
+            },
+            {
+                "text": "-- it wouldnt surprise me",
+                "label": "+"
+            }
+        ]
+    }
+]

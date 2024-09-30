@@ -1,0 +1,471 @@
+[
+    {
+        "conversation_id": "conv_4785",
+        "turns": [
+            {
+                "text": "kids too",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Oh you laugh How many what ages",
+                "label": "sd"
+            },
+            {
+                "text": "Well twenty-seven up",
+                "label": "sd"
+            },
+            {
+                "text": "Uh",
+                "label": "b"
+            },
+            {
+                "text": "And we had five",
+                "label": "sd"
+            },
+            {
+                "text": "Youve been through the fun part",
+                "label": "qy^d"
+            },
+            {
+                "text": "Oh yeah And how about yourself",
+                "label": "ny"
+            },
+            {
+                "text": "I have four and half and three",
+                "label": "sd"
+            },
+            {
+                "text": "Oh well -",
+                "label": "bk"
+            },
+            {
+                "text": "So Its - I Im sure theres lot of differences in the way in the way its done now and then",
+                "label": "%"
+            },
+            {
+                "text": "Yeah Well when mine were growing up I did some traveling and but not that extensively but I always just made it point you know to spend about ten minutes with each one of them",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So it was an hour you know",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But whether it was going back and laying in bed with them and just shooting the breeze or whatever telling them stories or reading to them",
+                "label": "sd"
+            },
+            {
+                "text": "What was the age difference between the youngest and the oldest",
+                "label": "qw"
+            },
+            {
+                "text": "Six years",
+                "label": "sd"
+            },
+            {
+                "text": "So they were all real close",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Thats tough Thats lot of time",
+                "label": "ba"
+            },
+            {
+                "text": "Oh yeah We look back and wonder how we did it",
+                "label": "aa"
+            },
+            {
+                "text": "Did you both work Your wife too",
+                "label": "qy"
+            },
+            {
+                "text": "No she never did",
+                "label": "nn"
+            },
+            {
+                "text": "Uh well qualify that",
+                "label": "ba"
+            },
+            {
+                "text": "-",
+                "label": "x"
+            },
+            {
+                "text": "She worked at home Im sure",
+                "label": "qy^d"
+            },
+            {
+                "text": "Well yeah yeah",
+                "label": "ny"
+            },
+            {
+                "text": "But thats uh - well both my husband and I work and sometimes I feel like you know by the time I pick them up and get them home and get them fed I have very little time each evening",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Maybe thirty minutes max",
+                "label": "sd"
+            },
+            {
+                "text": "Well thats plenty though",
+                "label": "sv"
+            },
+            {
+                "text": "And well he spends lot of time with them while Im cooking and then I spend time with them while you know hes doing other stuff And and of course we try to spend lot of time on the weekend You know theres lot of times my house may not be as clean as I particularly like it but its neat its straight and I can live with it because --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- I do stuff with my kids you know",
+                "label": "+"
+            },
+            {
+                "text": "Right Well you know with kids youre not going to have neat house",
+                "label": "b"
+            },
+            {
+                "text": "Well Ive accepted that too",
+                "label": "aa"
+            },
+            {
+                "text": "And you know --",
+                "label": "sv"
+            },
+            {
+                "text": "Thats true",
+                "label": "aa"
+            },
+            {
+                "text": "-- it its tough to find time",
+                "label": "+"
+            },
+            {
+                "text": "It is",
+                "label": "aa"
+            },
+            {
+                "text": "- espec- especially with both of them working",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Thats true",
+                "label": "aa"
+            },
+            {
+                "text": "And you just have to set the time and say okay this is going to be it",
+                "label": "ad(^q)"
+            },
+            {
+                "text": "Well thats true and and we do lot of that on the weekends you know We try to spend Saturdays together",
+                "label": "aa"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "If my husband golfs you know hell do it during nap time things like that where theyre not really missing the presence you know",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And and we do lot of family things together Were were kind of going the other direction this weekend Were planning trip just he and I This is the first time weve gone anywhere without the kids --",
+                "label": "sd"
+            },
+            {
+                "text": "Well thats good too",
+                "label": "ba"
+            },
+            {
+                "text": "-- since she was born four and half years ago",
+                "label": "+"
+            },
+            {
+                "text": "Yeah thats good that way too",
+                "label": "b"
+            },
+            {
+                "text": "Well I decided that you know you need that once in awhile That you you need to plan the quality time and and I do think that if you plan it and spend that and make it quality time you dont have to be there twenty-four hours day",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah Well that they say it it all it takes is about five ten minutes day",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And you know and as the kids got older I made them you know help me cut the grass and --",
+                "label": "sd"
+            },
+            {
+                "text": "Sure",
+                "label": "b"
+            },
+            {
+                "text": "-- kind of made that project too",
+                "label": "+"
+            },
+            {
+                "text": "Sure",
+                "label": "b"
+            },
+            {
+                "text": "Or whatever and -",
+                "label": "+"
+            },
+            {
+                "text": "And they think thats family activity you know",
+                "label": "sv"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah Thats great fun",
+                "label": "b^m"
+            },
+            {
+                "text": "And uh well yeah if -",
+                "label": "b"
+            },
+            {
+                "text": "My daughters like Mommy can I help you with the laundry Of course you can",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Yeah Just keep them talking that way",
+                "label": "b"
+            },
+            {
+                "text": "Absolutely Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "But uh another thing we used to do is have ham- family councils",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Every Sunday night",
+                "label": "+"
+            },
+            {
+                "text": "And what would you do what",
+                "label": "qw"
+            },
+            {
+                "text": "Discuss everything that didnt agree with them And wed take turns being president",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "And everyone would get one vote And I always thought wed get outvoted five to two --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- but it never worked that way",
+                "label": "sd"
+            },
+            {
+                "text": "So they would just pick whatever issue kind of was at --",
+                "label": "bf"
+            },
+            {
+                "text": "Yeah Well and we could bring up --",
+                "label": "aa"
+            },
+            {
+                "text": "-- head that week and then -",
+                "label": "+"
+            },
+            {
+                "text": "-- and we could bring up stuff too",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "And that was always good time Boy we really got to know the kids well",
+                "label": "sd"
+            },
+            {
+                "text": "I imagine And I imagine you still have very close relationship with them",
+                "label": "ba"
+            },
+            {
+                "text": "Oh yeah In --",
+                "label": "ny"
+            },
+            {
+                "text": "I -",
+                "label": "%"
+            },
+            {
+                "text": "-- fact they were all in uh over the weekend for Easter",
+                "label": "+"
+            },
+            {
+                "text": "Oh thats wonderful See I was raised in that type of family where you know you dont disobey me you mind me but if you have problem with what we did or how we did it you can always come back and talk to me about it",
+                "label": "ba"
+            },
+            {
+                "text": "Well we did too",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And I remember the one daughter saying we had friend of hers that used to drive us up tree --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and she said hey I dont make fun fun of your friends so why make fun of mine",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Uh well -",
+                "label": "%"
+            },
+            {
+                "text": "Kind of - kind of hit us between the eyes",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah You dont think of it that way do you",
+                "label": "b"
+            },
+            {
+                "text": "No But that that was always good quality time for us",
+                "label": "nn"
+            },
+            {
+                "text": "Now thats good I like --",
+                "label": "ba"
+            },
+            {
+                "text": "And then --",
+                "label": "%"
+            },
+            {
+                "text": "-- that idea",
+                "label": "+"
+            },
+            {
+                "text": "-- never attend - but if if they missed it they had to abide by the rules",
+                "label": "+"
+            },
+            {
+                "text": "Whatever was voted on huh",
+                "label": "qy^g"
+            },
+            {
+                "text": "Yeah and boy they theyd show up",
+                "label": "ny"
+            },
+            {
+                "text": "Well I think thats great",
+                "label": "ba"
+            },
+            {
+                "text": "And wed usually take notes --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and you know the younger kids uh or maybe all of them needed help at one time or another",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And uh but they were usually tougher on themselves than they were on us And they loved it",
+                "label": "sd"
+            },
+            {
+                "text": "I I think thats true I can remember times my parents would say well what do you think would be fair punishment",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And we would always come up with something that was harder than what they would have done --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- you know So I do think its right that theyre harder on themselves you know",
+                "label": "+"
+            },
+            {
+                "text": "Yeah But uh boy I I feel for you and your husband",
+                "label": "aa"
+            },
+            {
+                "text": "Oh why is that",
+                "label": "qw"
+            },
+            {
+                "text": "Well my my uh two of my uh -",
+                "label": "%"
+            }
+        ]
+    }
+]

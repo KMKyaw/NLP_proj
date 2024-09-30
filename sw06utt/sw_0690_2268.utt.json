@@ -1,0 +1,671 @@
+[
+    {
+        "conversation_id": "conv_2268",
+        "turns": [
+            {
+                "text": "what kind of fishing do you enjoy",
+                "label": "qw"
+            },
+            {
+                "text": "Well uh normally I like to to go out fishing in boat and uh rather than like bank fishing and just like to try and catch anything thats swimming because Ive had such problems with trying to catch any type of fish that uh I just really enjoy doing the boat type fishing",
+                "label": "sd"
+            },
+            {
+                "text": "So you like fresh water",
+                "label": "qy^d"
+            },
+            {
+                "text": "uh-huh uh-huh Ive never tried like with deep uh sea water fishing --",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- because you get I get sea sick",
+                "label": "+"
+            },
+            {
+                "text": "Oh I see",
+                "label": "b"
+            },
+            {
+                "text": "Well one of these days Im hoping theyll have some kind of medicine so I can go out and go uh deep sea fishing Now that would be nice",
+                "label": "sd"
+            },
+            {
+                "text": "Well I was raised on the Texas gulf coast",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "in the summers and during the Christmas holidays wed go down to our house on the coast --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and so I thought fish came out of the ocean --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh my goodness",
+                "label": "ba"
+            },
+            {
+                "text": "-- and anything that was fresh water was muddy --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- so I didnt learn to fish in lake until I was well into my twenties --",
+                "label": "sd"
+            },
+            {
+                "text": "Wow",
+                "label": "ba@"
+            },
+            {
+                "text": "-- so I had I had always been sea fisher type --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "+@"
+            },
+            {
+                "text": "-- which is lot of fun",
+                "label": "+"
+            },
+            {
+                "text": "Oh I bet it is",
+                "label": "ba"
+            },
+            {
+                "text": "Theres so many different ways to catch fish",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know at night you can go walking in the shallows and gig flounder and things like that Which isnt technically fishing but its lot of fun",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So I I grew up fishing",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "What area of lakes do you like",
+                "label": "qw"
+            },
+            {
+                "text": "Well uh now I havent done much fishing here in Texas uh because I moved from Ohio",
+                "label": "^h"
+            },
+            {
+                "text": "Oh I see",
+                "label": "b"
+            },
+            {
+                "text": "uh but uh we did lot of fishing when we were up there But down here I have brother that likes to go over on the east in East Texas and do fishing I cant remember what the name of the lake is and he was just here this past weekend I could have - I I think he mentioned it again but I couldnt remember what it was Uh I want to call it Salt Fork or Lake Fork I I cant remember but he said its one of the best bass fishing places",
+                "label": "sd"
+            },
+            {
+                "text": "Oh oh oh uh I think I know where uh Lake Caddo or something like that",
+                "label": "sv"
+            },
+            {
+                "text": "I you know - that may be it That may be it",
+                "label": "%"
+            },
+            {
+                "text": "If its supposed to be one of the best bass fishing places They hold tournaments there and everything",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Yeah yeah and he said that he has never gone anywhere before and hes fished all over the United States in which they can catch the biggest bass that youve ever seen So I would love to go over there They were talking about going over there and and some time in the spring and I was thinking it would be great to go over there to go fishing and uh and catch some bass",
+                "label": "b"
+            },
+            {
+                "text": "I would love to do that but they have snakes over there and Im not too welcome around I dont I really dont want to share boat with snake",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I just I I I dont see it",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I just I dont I think that I perhaps would let them have the boat or something Id make some quick arrangements --",
+                "label": "sd"
+            },
+            {
+                "text": "Thats true",
+                "label": "aa"
+            },
+            {
+                "text": "-- and Ive told so many stories about the snakes --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know when they pull in theres snake instead of fish",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and things like that Im just -",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "I dont know",
+                "label": "h"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Whats the largest fish you ever caught",
+                "label": "qw"
+            },
+            {
+                "text": "Uh gosh I think it was only like three and half pounds and for me thats big Thats why Im saying I love to go fishing because Ive never caught anything really really big Uh so because its always been you know in the on lake and uh - I know they have bigger fish than that but you know three and half pounds and that was",
+                "label": "fe"
+            },
+            {
+                "text": "Oh on lake yeah",
+                "label": "bf"
+            },
+            {
+                "text": "huge for me",
+                "label": "+"
+            },
+            {
+                "text": "On like thats not bad size fish listen transcript should probably read lake not like",
+                "label": "sv*"
+            },
+            {
+                "text": "yeah thats good size fish",
+                "label": "aa"
+            },
+            {
+                "text": "I would be impressed",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah So uh but - yeah Id love to go ca- catch like the Marlins or whatever in the deep sea fishing",
+                "label": "b"
+            },
+            {
+                "text": "Ive never done that",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Ive Ive seen it uh and and I have no problem going out in boat uh its just so dreadfully expensive and theres just so many other ways live down there",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Its not treat --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- its what you do every day",
+                "label": "sd"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "You know",
+                "label": "%"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa^r"
+            },
+            {
+                "text": "Uh one of my favorite things was we were forever catching crab and steaming them --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- you know out on the on the beach --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and you know just uh pitching them out on uh on uh what am I trying to say newspaper --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "-- and and breaking them up and sitting out there and eating them",
+                "label": "+"
+            },
+            {
+                "text": "Wow",
+                "label": "ba"
+            },
+            {
+                "text": "and then digging hole and pitching the whole thing in it you know --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and and thats it",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And uh but the other little creatures would take care of what was left",
+                "label": "sd"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "So",
+                "label": "sd"
+            },
+            {
+                "text": "thats right",
+                "label": "aa^r"
+            },
+            {
+                "text": "going out on boat never did appeal to me simply because it you know there was so much else to do",
+                "label": "+"
+            },
+            {
+                "text": "Right Right Well do you live like along uh Houston",
+                "label": "b"
+            },
+            {
+                "text": "No",
+                "label": "nn"
+            },
+            {
+                "text": "down there",
+                "label": "+"
+            },
+            {
+                "text": "no I live in Dallas",
+                "label": "nn^r"
+            },
+            {
+                "text": "Well I meant when when you were when you were growing up I mean like Galveston",
+                "label": "+@"
+            },
+            {
+                "text": "I lived in Dallas",
+                "label": "sd"
+            },
+            {
+                "text": "oh okay But you uh -",
+                "label": "bk"
+            },
+            {
+                "text": "We had house in Port Aransas",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay",
+                "label": "b"
+            },
+            {
+                "text": "Its little fishing village that is",
+                "label": "sd"
+            },
+            {
+                "text": "Thats close to uh",
+                "label": "^2"
+            },
+            {
+                "text": "Corpus",
+                "label": "+"
+            },
+            {
+                "text": "South Padre",
+                "label": "+"
+            },
+            {
+                "text": "Well",
+                "label": "ar"
+            },
+            {
+                "text": "Oh Corpus Okay",
+                "label": "b^m"
+            },
+            {
+                "text": "uh South Padre is on down the bend --",
+                "label": "+"
+            },
+            {
+                "text": "Okay Okay",
+                "label": "bk^r"
+            },
+            {
+                "text": "-- its like if you drew line from Austin straight down it would be in that region",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Small island",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Uh -",
+                "label": "%"
+            },
+            {
+                "text": "Yeah I Ive been to Port Aransas but it was when I was child",
+                "label": "b^r"
+            },
+            {
+                "text": "Oh okay",
+                "label": "b"
+            },
+            {
+                "text": "Yes because I have relatives who live in Houston so when would go and we would go to Port Aransas or then on down to Corpus or further yeah like what your talking about Because I was just wondering we went to Galveston this this summer even with all the oil spills and everything I mean I was",
+                "label": "b"
+            },
+            {
+                "text": "Was it bad",
+                "label": "qy"
+            },
+            {
+                "text": "oh it was horrible I well never ever go back I dont think Uh",
+                "label": "+"
+            },
+            {
+                "text": "Oh I hate to hear that",
+                "label": "ba"
+            },
+            {
+                "text": "and - yeah and that thats true uh uh you know the the water was murky and I would hate to think about catching fish or anything there --",
+                "label": "%"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "-- huh-uh no I wouldnt want to eat them",
+                "label": "b^m"
+            },
+            {
+                "text": "No",
+                "label": "aa"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "no no",
+                "label": "aa^r"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You went to Galveston Uh I have favorite hotel that extends out over the water --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- the uh what is it the Flagship",
+                "label": "qy"
+            },
+            {
+                "text": "Yes uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Is it still there",
+                "label": "qy"
+            },
+            {
+                "text": "It sure is",
+                "label": "na"
+            },
+            {
+                "text": "I like that place",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Yeah It most certainly is so uh so that it it was it was certain things that were enjoyable about it but uh I dont I think its lost lot of its appeal since then because of all the oil spills that they have had and uh it always smelled the entire time we were there It was -",
+                "label": "b"
+            },
+            {
+                "text": "I didnt realize that had happened",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "for some reason",
+                "label": "+"
+            },
+            {
+                "text": "We went swimming one time in the whole week that we were there and the rest of the time we stayed in the pool because the water was so awful and -",
+                "label": "sd"
+            },
+            {
+                "text": "Well of course being raised on the water Id never swim in it",
+                "label": "sd"
+            },
+            {
+                "text": "yeah",
+                "label": "b"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^r"
+            },
+            {
+                "text": "Swimming is for swimming",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^r"
+            },
+            {
+                "text": "pool Thats why they call them swimming pools",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Thats where you swim You do not swim in the ocean",
+                "label": "sv"
+            },
+            {
+                "text": "No No",
+                "label": "aa"
+            },
+            {
+                "text": "No",
+                "label": "aa^m"
+            },
+            {
+                "text": "Not anymore",
+                "label": "sd"
+            },
+            {
+                "text": "Ive seen what comes out of the ocean and I have no desire to share any space with anything like that But really but huge sharks --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- are down there I mean incredibly large sharks",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "Uh some of the young dread naughty boys in my family would fish for them all night --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- it was incredible the size of them",
+                "label": "sd"
+            },
+            {
+                "text": "Wow",
+                "label": "ba"
+            },
+            {
+                "text": "the next morning they would have them strung up across the getties --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and it you know - so just strung up their tails would still hang on the bottom of the getties yeah just -",
+                "label": "%"
+            },
+            {
+                "text": "Wow Wow Yeah Now I never knew they were that that big huh",
+                "label": "ba"
+            },
+            {
+                "text": "I wont have anything to do with",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Yeah Right Well it was nice talking to you",
+                "label": "b"
+            },
+            {
+                "text": "Well it certainly was uh Maybe you can get - how many - have you had very many of these calls",
+                "label": "fc"
+            },
+            {
+                "text": "Uh yeah almost ever day",
+                "label": "ny"
+            },
+            {
+                "text": "How wonderful",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah Almost almost ever single day from when they started it Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Maybe Ill just be so lucky Okay I enjoyed talking to you",
+                "label": "sd"
+            },
+            {
+                "text": "Okay",
+                "label": "fc"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc"
+            }
+        ]
+    }
+]

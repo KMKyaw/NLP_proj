@@ -1,0 +1,487 @@
+[
+    {
+        "conversation_id": "conv_2290",
+        "turns": [
+            {
+                "text": "Okay",
+                "label": "o"
+            },
+            {
+                "text": "So are you freshwater or -",
+                "label": "qr"
+            },
+            {
+                "text": "Mostly freshwater I -- -",
+                "label": "sd"
+            },
+            {
+                "text": "Freshwater",
+                "label": "sd^r"
+            },
+            {
+                "text": "-- yeah I I used to fish uh when I was real young down in Galveston with my parents and I never really got into that too much because you have to get in the boat really to do anything and I didnt know anybody who had boat now so I dont fish too much in saltwater",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh Most of my fishing has been in the saltwater",
+                "label": "b"
+            },
+            {
+                "text": "Oh really",
+                "label": "b"
+            },
+            {
+                "text": "Uh mostly deep sea fishing for grouper and bottom fish --",
+                "label": "+"
+            },
+            {
+                "text": "Oh neat",
+                "label": "ba"
+            },
+            {
+                "text": "-- and uh I have caught one or two small sharks --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "-- and uh yes",
+                "label": "ny"
+            },
+            {
+                "text": "Whatd you do with them",
+                "label": "qw"
+            },
+            {
+                "text": "Put them back",
+                "label": "sd"
+            },
+            {
+                "text": "You didnt get big kick out of killing them like some people do",
+                "label": "qy^d"
+            },
+            {
+                "text": "No no no I love shark steak but uh the ones I caught were never large enough to really do anything",
+                "label": "nn"
+            },
+            {
+                "text": "Do they have limit on sharks I mean is that like sport fish can you actually catch those and theres no limit",
+                "label": "qy"
+            },
+            {
+                "text": "Is there limit I have no idea I know I - my home is in uh Pensacola Florida --",
+                "label": "qh^m"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- so its they do lot of shark fishing in that you know in the gulf --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- and um theres certain period of time during the year they have all along the gulf coast from I guess from Galveston to Mayport they have uh shark tournaments and you know theres part - either as part of or separate from the uh bill fishing tournaments they usually have --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- so I have not done uh much freshwater fishing --",
+                "label": "+"
+            },
+            {
+                "text": "Oh really",
+                "label": "b"
+            },
+            {
+                "text": "-- oh for you know lake lake fishing for bass and so forth --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- but uh maybe some what they call brim --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and those sorts of things but nothing - I think Ive been trout fishing once Ive never fly fished Have you fly fished",
+                "label": "+"
+            },
+            {
+                "text": "Uh no I havent I dont know that I could do that That looks awful tiring",
+                "label": "nn"
+            },
+            {
+                "text": "Ive tried it --",
+                "label": "sd"
+            },
+            {
+                "text": "Did you",
+                "label": "qy"
+            },
+            {
+                "text": "-- once yes uh friend of mine -- -",
+                "label": "+"
+            },
+            {
+                "text": "Didnt like it",
+                "label": "qy^d"
+            },
+            {
+                "text": "-- no I could never get the hang of it",
+                "label": "nn"
+            },
+            {
+                "text": "It looks complicated to me Its rhythm or something",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh I usually ended snagging my uh fishing partners or the trees along the bank",
+                "label": "b"
+            },
+            {
+                "text": "Catching tree bass right",
+                "label": "bf"
+            },
+            {
+                "text": "Yes Almost got an owl once",
+                "label": "ny"
+            },
+            {
+                "text": "Did you That would have been something",
+                "label": "bh"
+            },
+            {
+                "text": "But uh -",
+                "label": "%"
+            },
+            {
+                "text": "So do you do you fish mainly for trophies or do you do you eat what you fish",
+                "label": "qy"
+            },
+            {
+                "text": "Oh no no no no I used uh when I was uh working in Florida I used to do lot of surf fishing --",
+                "label": "nn"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- mostly for relaxation --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- you know there are people who fish and then there are people who catch",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Well Im fisher",
+                "label": "sd"
+            },
+            {
+                "text": "You just like to sit down and watch it right",
+                "label": "qy^g"
+            },
+            {
+                "text": "Thats right Ive never caught that much but uh -",
+                "label": "na"
+            },
+            {
+                "text": "Really",
+                "label": "b"
+            },
+            {
+                "text": "Oh and occasionally wed go out on you know full day trip you know three or four other people --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- and do either again bottom fishing or --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- or for grouper or I used to catch you know Ive caught few worthwhile snappers red snappers and gray snappers and so forth",
+                "label": "+"
+            },
+            {
+                "text": "Thats nice",
+                "label": "ba"
+            },
+            {
+                "text": "What about you you -",
+                "label": "qo"
+            },
+            {
+                "text": "Well most of my fishing is done at um area lakes around here freshwater lakes --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and um most of it - I havent been really in long time Last time I went I actually was in Galveston trying to saltwater fish and it just wasnt working with my freshwater tackle That was real fun Um but um I went fishing at I dont know if youve ever heard of uh Lake Worth Its fairly new lake in Texas",
+                "label": "%"
+            },
+            {
+                "text": "Oh yes",
+                "label": "aa"
+            },
+            {
+                "text": "And uh we went fishing there last memorial day Memorial Day and I caught my first bass that was actually big enough to keep I was so excited And uh thats really about it Mostly just the lakes around here and I fish to take home and cook I dont I dont get too much joy out of just sitting and watching I get little bit of relaxation from it but mainly I um I want to say I brought something home I want to say I did this I was out there for reason",
+                "label": "sd"
+            },
+            {
+                "text": "The last time I went uh bass fishing I was with my daughter friend of hers and well friend of mine and his daughter We I was the only one who did not catch single fish --",
+                "label": "sd"
+            },
+            {
+                "text": "Really",
+                "label": "b"
+            },
+            {
+                "text": "-- my daughter caught fish his daughter caught fish he caught fish",
+                "label": "sd"
+            },
+            {
+                "text": "Everybody but you",
+                "label": "bf"
+            },
+            {
+                "text": "I did not even I did not even - I have been I was out on party boat few years ago and we we were grouper fishing or you know actually we were uh snapper fishing Everyone on the boat was catching snapper snappers except guess who",
+                "label": "sd"
+            },
+            {
+                "text": "It had to be you",
+                "label": "bf"
+            },
+            {
+                "text": "I ca- I -",
+                "label": "%"
+            },
+            {
+                "text": "Couldnt catch one to save your life Huh",
+                "label": "bf"
+            },
+            {
+                "text": "Thats right I would go from one side of the boat to the other and uh the uh the party boat captain could not understand you know he even even he started baiting my hook and holding holding the uh the fishing rod",
+                "label": "aa"
+            },
+            {
+                "text": "How funny just hoping maybe he could pull -",
+                "label": "ba"
+            },
+            {
+                "text": "Right and it was it was really really really bad Uh I as I said I am fisher Im not catcher",
+                "label": "aa"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "But uh I enjoy it though I dont really get out as much as I uh as I would like too",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And they do of course you know - here in - were only just few not few minutes were you know forty five minutes to an hour away from the eastern shore here in Maryland --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- and they do lot of fishing there Of course what I used to like to do though is go snorkeling for scallops --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "ba"
+            },
+            {
+                "text": "-- in some of the bays or uh or oy- for oysters",
+                "label": "+"
+            },
+            {
+                "text": "That would be fun",
+                "label": "sv"
+            },
+            {
+                "text": "And uh that I was able to do when I could go in and go down and actually pick them off the bottom",
+                "label": "sd"
+            },
+            {
+                "text": "Right Hand picked",
+                "label": "b"
+            },
+            {
+                "text": "That right",
+                "label": "aa"
+            },
+            {
+                "text": "The weirdest fishing experience I ever had People to this day are still trying to figure out if I really caught what I think I caught We were in uh Rockport which is close to Corpus --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and we had been fishing in canal they had all these canals up through this one little retirement area and uh wed been fishing in the canals and all we were catching were catfish and we were pretty bored with that So we thought well maybe there are some crab in here well try to catch some crab So I got my chicken and all my little net and everything and something - I had rock to weight it down something grabs and just runs with it And of course theres no hook so it cant be fish",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Im sure its not fish right And crab they dont bite like that they dont just run with your food So I netted it and it was the ugliest fish Ive ever seen in my life It had real teeth like human teeth and it looked archaic I I had no idea what it was I called my father long distance just to describe the thing and it had the rock in its mouth not the chicken but the rock itself --",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "-- is what it had grabbed They say its dog fish from everything Ive described it was brown with these little white dots --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and it made loud almost croaking noise like croaker does --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- it it was the strangest thing Oh Ill never get over that To this day I dont want to get in the water anywhere around salt water because Im sure one of those fish are there",
+                "label": "sd"
+            },
+            {
+                "text": "Well we used to - I guess the weirdest thing Ive ever caught is uh in some of the inlets and the rivers around Delaware",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "They have fish thats called an oyster cracker I dont know if youve ever heard of it --",
+                "label": "sd"
+            },
+            {
+                "text": "Ive never heard of that one",
+                "label": "ng"
+            },
+            {
+                "text": "-- and it has huge strong mouth and they actually uh use their teeth to open oysters",
+                "label": "sd"
+            },
+            {
+                "text": "Thats where it gets its name obviously huh",
+                "label": "bf"
+            },
+            {
+                "text": "uh-huh and this is the ugliest fish I have ever seen and I mean and they come in all si- you know - Ive Ive caught them from you know three or four inches long --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- up to uh - I guess the largest one I ever caught was probably eight or ten inches long but just huge ugly things --",
+                "label": "+"
+            },
+            {
+                "text": "Huh",
+                "label": "%"
+            },
+            {
+                "text": "-- just terrible",
+                "label": "+"
+            },
+            {
+                "text": "Can you eat them",
+                "label": "qy"
+            },
+            {
+                "text": "No no",
+                "label": "nn"
+            },
+            {
+                "text": "Ooh I I dont think Id want to even if you could if theyre that ugly but -",
+                "label": "ba"
+            },
+            {
+                "text": "They just they just look as though you do not want to do anything with them",
+                "label": "sd"
+            },
+            {
+                "text": "Thats like this dog fish it was it scared me to death",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "It was - it really it didnt look like it looked like it was something out of the dark ages that just never died",
+                "label": "sd"
+            },
+            {
+                "text": "Well the first time I went surf fishing was in - and I threw my line out and the first thing I caught was sand shark which was probably foot and half or uh two feet long and scared me to death",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "I had never seen anything - and then I was fi- fished for another half hour or forty-five minutes caught few white fish and so forth and then I felt something relatively heavy and I thought oh really here Im really going to get one And I -",
+                "label": "sd"
+            }
+        ]
+    }
+]

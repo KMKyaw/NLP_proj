@@ -1,0 +1,383 @@
+[
+    {
+        "conversation_id": "conv_2455",
+        "turns": [
+            {
+                "text": "Well I wondered if I was going to get to talk to male or female on this type",
+                "label": "sd"
+            },
+            {
+                "text": "Have you been talking to males Yeah yeah this is this is probably more interesting if it had been male and female",
+                "label": "qy"
+            },
+            {
+                "text": "I was afraid we might get into an argument",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "aa"
+            },
+            {
+                "text": "Well uh I guess uh there have been certainly lot of changes in the last couple of generations",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "for uh the roles of women and uh I guess the most significant probably is that so many are working now",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And trying to juggle job and home and family and all sorts of other possibilities you know they may be going to school or may have elderly parents or you know all sorts of other things",
+                "label": "+"
+            },
+            {
+                "text": "Yeah it it seems too me like though that womens roles are changing faster than the men and therefore the women are spreading themselves thinner",
+                "label": "b"
+            },
+            {
+                "text": "Oh I think so",
+                "label": "aa"
+            },
+            {
+                "text": "than before",
+                "label": "+"
+            },
+            {
+                "text": "Absolutely I I I think its extremely difficult to keep up with all that we have to these days",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Sometimes I think I am going crazy trying to do it but -",
+                "label": "sd"
+            },
+            {
+                "text": "Do you work outside the home",
+                "label": "qy"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "Do you have children",
+                "label": "qy"
+            },
+            {
+                "text": "Uh yes They are getting older now",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "so they are not quite as much of responsibility but they are still there you know",
+                "label": "sd"
+            },
+            {
+                "text": "Oh sure",
+                "label": "ba"
+            },
+            {
+                "text": "they still take time and and I you know I still provide most of the things that go on around the house",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "So uh yeah and for while I was going to school too and tha- it was tough",
+                "label": "%"
+            },
+            {
+                "text": "Yeah I uh I think that while its good change for I think women to be able to fulfill their potential in whatever they feel you know",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "their expertise may be",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh I think sometimes other things suffer and tha- - I think its hard to find balance there",
+                "label": "sd"
+            },
+            {
+                "text": "But in some ways I think we are expected to do it all Youre almost looked down upon if you dont try to do all of these things and --",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- thats where the problem is really",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah I have little children four and one and I decided that it was very important to me to stay home",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh and when I I I happen to you know be - Im very active with uh people other people with children my age and most of us do tend to stay home but when I run into people that you know just have recently had babies or have very young children and are working full time I theres almost uh friction between us",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh not people that are you know necessarily good friends",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Even though that has happened too uh its almost as though it puts you on different sides of fence You know - - if you decide to go back to work then you feel like you are always having to defend yourself",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And if you dont then sometimes you feel like youre looked down upon by people that go back to work and so youre just wasting your time",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "at home",
+                "label": "+"
+            },
+            {
+                "text": "Yeah its tough one I mean Ive done some of both",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I when my kids were real little I was at home for couple of different periods of time",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Oh I think the longest was less than year but still at least I was able to to spend you know those first months with them",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "But uh I mostly went back to work because I was tired of doing without things",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know the money was the issue But uh even now I would I would like to not have to work in some ways",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "It its kind of pull and tug",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "on the other hand I cant imagine just being at home uh although I have lot of interests and lot of things I would like to pursue",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh still uh theres theres sort of feeling of accomplishment with having you know job and all that goes with that",
+                "label": "sv"
+            },
+            {
+                "text": "No that thats definitely true In fact I I work out of my home Um Im an accountant",
+                "label": "aa"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "and I do taxes and bookkeeping and I uh - it was - its way for me to stay home",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I mean I still unfortunately have to be very disciplined in doing my work at five in the morning and ten oclock at night",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "but uh but it its worked out for for my family",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "to have my cake and eat it too kind of thing",
+                "label": "+"
+            },
+            {
+                "text": "Yeah thats good deal Where do you think this is going in the future I mean do you think things are going to change or are we going to keep having to try to juggle all of this",
+                "label": "b"
+            },
+            {
+                "text": "Well I I hope that they will change uh but but Im - I just - I know its going to be slow change Uh I I feel as though lot of people are going back to just having one wage earner I mean Im just thinking of my circle of people that I know I know quite few people who have decided to not have both both both uh couples you know both uh of the parents work",
+                "label": "no"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And yet uh I I we- - I hope to see employer based you know helping out",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know child uh care centers at the place of employment and and things like that that will help out What do you think do you think we are",
+                "label": "+"
+            },
+            {
+                "text": "I dont -",
+                "label": "sd"
+            },
+            {
+                "text": "setting trend",
+                "label": "+"
+            },
+            {
+                "text": "yeah I well I see I think some people wanting to stay home more and take care of the children",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh and even those who may not do it seem to be spending more time with their kids and really trying harder at making all of the the family things work",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Uh but I dont know if theyre going to ever give up their careers you know Its sort of like they went to school and they worked so hard to get where they are I dont know if they want to completely give that up",
+                "label": "sv"
+            },
+            {
+                "text": "Right its very personal thing",
+                "label": "aa"
+            },
+            {
+                "text": "But it would be nice if there could be an in-between middle ground somewhere",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah I think its hard though when you talk about about families and and raising children because ch- I think children have hard time understanding middle ground I think they uh they need security and yet they - I dont know I - from speaking from my children the- they arent real flexible when it comes to things like that",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "They uh they want to know things are going to be certain way",
+                "label": "sv"
+            },
+            {
+                "text": "Well yeah I think they they like routine of sorts",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh right Well we will see I Im hoping to see more female leadership in our society",
+                "label": "b"
+            },
+            {
+                "text": "Well yes I I like the fact that you know gradually youre beginning to see women in public office and executive positions but its still long way from being what it ought to be",
+                "label": "aa"
+            },
+            {
+                "text": "Oh yes the the numbers are still very skewed to say the least",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah Okay well I enjoyed talking to you",
+                "label": "b"
+            },
+            {
+                "text": "Okay you too Ellen",
+                "label": "fc"
+            },
+            {
+                "text": "All right good-bye",
+                "label": "fc"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc"
+            }
+        ]
+    }
+]

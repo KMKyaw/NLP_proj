@@ -1,0 +1,735 @@
+[
+    {
+        "conversation_id": "conv_3014",
+        "turns": [
+            {
+                "text": "Are you ready to start",
+                "label": "qy^t"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "Have you recently bought new car Catherine",
+                "label": "qy"
+            },
+            {
+                "text": "Well I just found out that my car was thirty months old and it doesnt seem like its that old",
+                "label": "nd"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "Seems like I just bought it",
+                "label": "sd"
+            },
+            {
+                "text": "Oh wow",
+                "label": "ba"
+            },
+            {
+                "text": "Its an eighty-nine and I bought it uh in uh eighty-eight so yeah",
+                "label": "sd"
+            },
+            {
+                "text": "Well I really I- the last car we got was was used car I really dont prefer buying new car I like to let somebody else pay for that",
+                "label": "sd"
+            },
+            {
+                "text": "I know I really will do that the next time",
+                "label": "aa"
+            },
+            {
+                "text": "But uh --",
+                "label": "sd"
+            },
+            {
+                "text": "I buy it too",
+                "label": "+"
+            },
+            {
+                "text": "-- mine was year old",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and we bought it for very functional purposes",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and that was we bought station wagon We wanted an economical car --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- to operate but we wanted one that could carry lot of equipment So we chose Nissan Stanza wagon",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And Ive never been sorry",
+                "label": "sd"
+            },
+            {
+                "text": "Oh thats wonderful",
+                "label": "ba"
+            },
+            {
+                "text": "however the need for that --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- kind of car has changed now",
+                "label": "+"
+            },
+            {
+                "text": "Oh okay",
+                "label": "b"
+            },
+            {
+                "text": "and uh while it is still good",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and its quite serviceable",
+                "label": "+"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "and Ill drive it until it no longer is reliable And probably then some Ill spend lot of time praying over it before I give it up",
+                "label": "+"
+            },
+            {
+                "text": "Sure",
+                "label": "b"
+            },
+            {
+                "text": "I think that I would like to - if I- you know we all say if I could have the car I always wanted --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- I would either buy Nissan Maxima uh - Im sold on Nissans",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I or or foreign cars actually Uh",
+                "label": "sd"
+            },
+            {
+                "text": "But do you feel though uh craftsmanship is much superior to the American abilities",
+                "label": "qy"
+            },
+            {
+                "text": "Uh",
+                "label": "^h"
+            },
+            {
+                "text": "Is that how you - I have never -",
+                "label": "qy"
+            },
+            {
+                "text": "its reliability",
+                "label": "qy^h"
+            },
+            {
+                "text": "Its re- -",
+                "label": "%"
+            },
+            {
+                "text": "Its reliability And uh I you know Ive read all the CONSUMER REPORTS and things and they just run head and shoulders above the American made cars If Ford was head and the shoulders above it Id buy Ford",
+                "label": "sd^r"
+            },
+            {
+                "text": "Isnt that shame",
+                "label": "bh"
+            },
+            {
+                "text": "But I had uh had Ford Escort that absolutely needed taps the day we got it",
+                "label": "sd"
+            },
+            {
+                "text": "My word isnt that sorry Thats sorry",
+                "label": "bh"
+            },
+            {
+                "text": "Uh you know I mean it was ready for the graveyard",
+                "label": "sd"
+            },
+            {
+                "text": "My word",
+                "label": "ba"
+            },
+            {
+                "text": "And I spent as much on that car in twelve months as I spent for the car",
+                "label": "sd"
+            },
+            {
+                "text": "Oh mercy",
+                "label": "ba"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "You -",
+                "label": "%"
+            },
+            {
+                "text": "and that was just trying to hold us getting out of that was used car",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "And it was an older car",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "but you know Escort is supposed to have great track record --",
+                "label": "sv"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "-- as far as sales",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But its just it just was not deliv- - and you get stung time or two",
+                "label": "sd"
+            },
+            {
+                "text": "Sure",
+                "label": "aa"
+            },
+            {
+                "text": "and you say no thanks",
+                "label": "sv(^q)"
+            },
+            {
+                "text": "No thanks Thats right",
+                "label": "b^m"
+            },
+            {
+                "text": "So I just trusted the CONSUMER REPORTS and the auto",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "uh reports inst- - had my son who knows lot about that study them thoroughly and he gave me four choices of cars to buy",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "An Escort definitely was not among them In fact there wasnt an American car in there",
+                "label": "sd"
+            },
+            {
+                "text": "Wow",
+                "label": "ba"
+            },
+            {
+                "text": "Uh the Nissan came and and we bought the Nissan for functional purposes not what the CONSUMER REPORTS said we should get",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But it served our needs Uh later on his reports the reports that he studied showed that uh Nissan was head and shoulders above the rest in the area- in the class that we were looking for And that and Id rather have Maxima than Cadillac I really would Its not necessarily prestige",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "but its comfort Uh theres lot of features on there that are desirable if youre going to pay that kind of money for car Uh",
+                "label": "sv"
+            },
+            {
+                "text": "Who makes that car",
+                "label": "qw"
+            },
+            {
+                "text": "Nissan - -",
+                "label": "sd"
+            },
+            {
+                "text": "I mean but where are they where are they what what is their location is it uh Asian or is it European or who -",
+                "label": "qw"
+            },
+            {
+                "text": "No No no Nissan is Japanese",
+                "label": "nn"
+            },
+            {
+                "text": "Oh it is Japanese",
+                "label": "bh"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I didnt know",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah And uh if I couldnt have my luxury Maxima --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- then Id buy me fancy little red sports car",
+                "label": "+"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "I mean you know every othe- every one of us have two sides",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah I guess so thats true Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah Now what about you if you could have the car that you wanted --",
+                "label": "b^m"
+            },
+            {
+                "text": "If if",
+                "label": "^h"
+            },
+            {
+                "text": "-- what would you get and why",
+                "label": "+"
+            },
+            {
+                "text": "if I had the car I wanted Gee",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Probably um uh lets see I like the looks of the Lincoln Town car",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh Yeah See there -",
+                "label": "b"
+            },
+            {
+                "text": "But I I dont know the performance of it Thats",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Ford product",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and you know",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I would get hung up by my boot straps if I ra-",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "if I ever mentioned the Ford product in my family",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh I tell you thats sad too because there one time Ford was the best",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "that was made",
+                "label": "+"
+            },
+            {
+                "text": "yeah",
+                "label": "b"
+            },
+            {
+                "text": "Really was",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh I I really have not seen - now lot of the American cars actually are are parts are produced in foreign countries and assembled here or vice versa",
+                "label": "sd"
+            },
+            {
+                "text": "Can I put you on hold for one minute",
+                "label": "ad"
+            },
+            {
+                "text": "Of course",
+                "label": "aa"
+            },
+            {
+                "text": "Thank you Well that was one minute They hung up",
+                "label": "ft"
+            },
+            {
+                "text": "Okay Uh at any rate do you have color preferences or what would be the features that you would be looking for",
+                "label": "b"
+            },
+            {
+                "text": "Um well the comfort of large car that the security of large car",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Um and the luxuries of large car",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh now color preferences I think I would opt to go with bronze",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Which is probably closest to gold that you can get",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Oh wow We like the stuff that glitters",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Good Theres nothing wrong with that Actually I think probably if I were going to get - if I were going to be practical which doesnt mean I would be",
+                "label": "ba"
+            },
+            {
+                "text": "Right well practical yes thats -",
+                "label": "b"
+            },
+            {
+                "text": "I would prefer white",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Because simply because its more visible at night",
+                "label": "+"
+            },
+            {
+                "text": "Right and its cooler I believe",
+                "label": "aa"
+            },
+            {
+                "text": "And -",
+                "label": "%"
+            },
+            {
+                "text": "too",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "when youre driving in -",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh Now the interior okay I dont care about the interior just as long as its not black or red",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But if I had the little red I guess the interior would have to be black leather and Id have to live with that And if I got the it would have to have real good sound system in it because Id want that too",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Id just go back to my teenage years and just throw all my experience to the wind",
+                "label": "sd"
+            },
+            {
+                "text": "Um can you uh hang on again hon-",
+                "label": "ad"
+            },
+            {
+                "text": "uh-huh",
+                "label": "aa"
+            },
+            {
+                "text": "Thanks Ive got the phones for lunch hour",
+                "label": "ft"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So - Just dont mind me if I bounce back and forth",
+                "label": "%"
+            },
+            {
+                "text": "Thats okay",
+                "label": "bd"
+            },
+            {
+                "text": "Um so you like to listen to uh lot of music or do is it talk shows",
+                "label": "qy^d"
+            },
+            {
+                "text": "No no no I generally would - uh prefer to listen to uh well I listen to I lot but I will listen to the news and the and the traffic and those things at work",
+                "label": "nn"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But if Im going to be traveling in that car for any period of time",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I want some real good classical music",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I love classical music and you just cant enjoy it unless youve got good sound system to produce all the",
+                "label": "sd"
+            },
+            {
+                "text": "All the - yeah",
+                "label": "%"
+            },
+            {
+                "text": "all the characteristics of the instruments",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh Thats true",
+                "label": "aa"
+            },
+            {
+                "text": "So I do love classical music or it li- or or uh",
+                "label": "sd"
+            },
+            {
+                "text": "Do you listen -",
+                "label": "qy"
+            },
+            {
+                "text": "contemporary classical",
+                "label": "+"
+            },
+            {
+                "text": "Do you lik- listen to",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "Sure do",
+                "label": "sd^e"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and the Oasis are the two that I listen to",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "more than anything else",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I do like them And Id like to have compact disc player in the car That would be",
+                "label": "sd"
+            },
+            {
+                "text": "Those are nice arent they",
+                "label": "qy^g"
+            },
+            {
+                "text": "something that I would really like",
+                "label": "+"
+            },
+            {
+                "text": "Yes those are nice",
+                "label": "ny"
+            },
+            {
+                "text": "Those compact discs",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "really are good for cars because they dont melt they dont warp",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know theres nothing in there that can wrap around the the uh rollers or anything It seems like really good answer to portable music",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "that you can choose",
+                "label": "+"
+            }
+        ]
+    }
+]

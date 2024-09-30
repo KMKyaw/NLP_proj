@@ -1,0 +1,615 @@
+[
+    {
+        "conversation_id": "conv_2772",
+        "turns": [
+            {
+                "text": "All right",
+                "label": "o"
+            },
+            {
+                "text": "Okay Well I can go ahead and start and tell you mine and -",
+                "label": "b"
+            },
+            {
+                "text": "Okay",
+                "label": "aa"
+            },
+            {
+                "text": "Were from San Antonio and thats where I grew up",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "%"
+            },
+            {
+                "text": "So I was used to the heat out here right now",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Gosh it gets to about seventies high seventies and it gets very cold at night",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And Monterey its um right on the coast And I dont know if your familiar with California coastline your - youre but were were about two hours about two hour drive south of San Francisco",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay",
+                "label": "bk"
+            },
+            {
+                "text": "And its uh really nice Its big area for people to come from the different uh countries mostly like Japan Germany and England And they usually go to Carmel and vacation on the beaches so its its pretty nice uh year round But uh cool always cool in the evenings And warm warm in the Summer but its stays pretty cold even uh during the Winter for as nice as it is",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And um we usually get fog Uh right about I guess about four oclock and it kind of rolls in over the coast And uh then it usually breaks back off again the next morning And if you go just little bit ways in Id say about fifteen minute drive in towards Salinas",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "uh the weather completely changes and it gets very hot and dry and the fog never makes it that far",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But along here its uh very very different from the Texas type weather Whats it like down there",
+                "label": "sd"
+            },
+            {
+                "text": "Well right now were were having the little bit of Spring that we have",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really well at least youve got some",
+                "label": "b"
+            },
+            {
+                "text": "We dont have many seasons here It goes from Winter to Summer usually",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Spring usually consists of lot of rain Especially thunderstorms Weve got we had one of those blow through tonight",
+                "label": "sd"
+            },
+            {
+                "text": "Oh well thats good",
+                "label": "ba"
+            },
+            {
+                "text": "And I think we got the same thing in the forecast for the next two or three days",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "Have yall been having any heat waves or like the ninety degree -",
+                "label": "qy"
+            },
+            {
+                "text": "Its gotten up to uh ninety couple of times",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But basically its been in the low seventies and eighties",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Women thats good For this time of year",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Its not really been too bad",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Usually it sneaks on into the nineties little earlier",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh So do yall have many bluebonnets and stuff this year",
+                "label": "b"
+            },
+            {
+                "text": "Yeah quite bit",
+                "label": "ny"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Well the season is just about over for that uh in fact we drove down to Corpus last week --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh there were still some paint brushes and bluebonnets down along the way",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I miss that",
+                "label": "sd"
+            },
+            {
+                "text": "drove through San Antonio and I spoke to somebody else this morning from San Antonio and were - they had - and we came back What day was that Sunday evening and they had big rainstorm come through there part of the same thing were getting now I guess",
+                "label": "sd"
+            },
+            {
+                "text": "Oh Oh well thats real nice because I can remember two years ago that in about February the hundred degree weather started in San Antonio and just continued At least yall are getting some rain up in Dallas Im glad to hear that",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Thats the second or third year in row that weve had real rainy Spring",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "We had pretty rainy Fall last year as well",
+                "label": "sd"
+            },
+            {
+                "text": "Yall werent getting any of the strings of the tornadoes and stuff were you",
+                "label": "qy^g"
+            },
+            {
+                "text": "Um weve had few down here but not anything like Kansas",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But this is the season for that",
+                "label": "sd"
+            },
+            {
+                "text": "Oh gosh",
+                "label": "ba"
+            },
+            {
+                "text": "They do they do pop up occasionally",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "around here",
+                "label": "+"
+            },
+            {
+                "text": "Oh Yeah I really dont miss all the heat there",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Im getting acclimated to have the cool evenings so we get bit of relief",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Im from here originally so when its July and August Im pretty well used to the",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "hundred degree temperatures",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh Yeah",
+                "label": "b"
+            },
+            {
+                "text": "The biggest problem with with the weather and the rain in this area is the soil Its that black clay soil",
+                "label": "sd"
+            },
+            {
+                "text": "Oh Is that what Dallas is okay Yeah",
+                "label": "qy"
+            },
+            {
+                "text": "You know its not sandy like most of the state is so it doesnt absorb the water real well",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know once it rains little bit its its filled up and everything else just runs off",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "you know -",
+                "label": "o"
+            },
+            {
+                "text": "Yeah San Antonio has that same problem when the rains come Its its complete mess everything floods all the under passes",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I didnt realize that Dallas had that same problem",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah We have it especially as rainy as its been in the last couple of years And theres section in South Dallas thats had whole lot of flooding problems because of the rain",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh Well we could use some rain up here Were like in the bottom of the fourth year of drought",
+                "label": "b"
+            },
+            {
+                "text": "Really",
+                "label": "b"
+            },
+            {
+                "text": "up here and they had pretty good early Spring and we got quite bit of rain but it wasnt enough to offset what they lost over the last four years",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh so theyre still talking water rationing this Summer so it would seem strange because in San Antonio - we had lived out um west of San Antonio in Castroville",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And the water in Medina Lake and that area was really going down that they were considering that they might have to do water rationing and I thought oh gee Im so glad to get out of there and get up here to the California Pacific coast where it rains and everything has flowers and theres no problem with water And then I came here and found out they were in the you know four year draught",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So I said well gee this is pretty much like Texas And it pretty much is in the middle of Summer They have rolling hills around here but",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "um they turn to golden dead grass",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "for the majority of the Summer just because there is no water to keep them green",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But um its really nice area Its just its just such change from uh Texas because I had grown up with uh the heat",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and used to essentially - like you said you have the cold Winter and then you have the hot Summer Spring",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh to come here its kind of the temperate weather all year round Its kind of like uh Spring I guess if you year round except and then in the Winter - and then it seems sort of like San Antonio early Winter or Fall",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "year-round So it seems like we only have two Springs which is or two seasons and that would be Spring and Fall",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "We never really get any of the other ones",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But its really nice uh change of pace",
+                "label": "sd"
+            },
+            {
+                "text": "I guess Id prefer that",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah To the heat I really dont miss the heat",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Um we do lot of you know - when you do lot of outside like running and stuff its just so much easier",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "up here and you dont have to worry about the high humidity",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Does Dallas get high humidity Or is it pretty dry",
+                "label": "qy"
+            },
+            {
+                "text": "Its pretty dry We get some when its this rainy but its nothing like I guess San Antonio Summers its nothing like Houston",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "or East Texas is little more humid",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah It seems like San Antonio is increasing in humidity over the years because I had lived in San Antonio for about twenty years",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and it just seemed like every year it just got more and more humid more and more humid",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And here its uh well its right by the ocean but um its not the same as Corpus Corpus you get that humid salty feeling in the air",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But here um well the water is extremely cold up here you can lay on the beach all you want but if you want to go wind suffering or diving or swimming you have to wear wet suit",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And thick wet suit at that because its just extremely cold and I - for some reason because of the cold uh ocean uh water the air is always cool Its never humid or sticky or salty feeling so I really like that about this area And uh we just hadnt expected it we were used to what uh gulf coast weather was like",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "when we came here to Pacific coast weather Its just completely different and its much nicer",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Probably the Pacific breezes make lot of difference",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh It does and the air doesnt feel anything like it does along the gulf coast region But you um - but we like it so its nice change So well be here couple of years and we thought well well take advantage of it and see what all the Pacific coast is like",
+                "label": "aa"
+            },
+            {
+                "text": "Thats nice",
+                "label": "ba"
+            },
+            {
+                "text": "So its been good",
+                "label": "sd"
+            },
+            {
+                "text": "Well my wifes originally from Virginia and we lived there for about nine months and that was real change for me",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I imagine Virginia I imagine gets real humid doesnt it",
+                "label": "ba"
+            },
+            {
+                "text": "Um parts do We were over in the western edge in the mountains",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "And they have of course some pretty severe storms Winter storms snow and that type of thing",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But theyre so good about clearing the roads that you know it doesnt usually bother you very much",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Yeah Not like Texas where everything comes to stand still",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Their Springs and Summers are pretty mild too It never gets real real hot",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh Ill have to try that out because I had heard that North Carolina was sort of like that",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh Ive just never really been in that region of the country and I guess Im going to have to try that area sometime and see what its like Because lot of people that are from that North Carolina region really like it And uh they get the snow but they said it doesnt really get messy and it doesnt really hang around that long",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So they the people I know that are from there uh they always miss it and they want to go back Nothing seems quite as good But anyway Well -",
+                "label": "sd"
+            },
+            {
+                "text": "Well as we were talking the weather came on and theres flash flood watch and",
+                "label": "sd"
+            },
+            {
+                "text": "Oh gee-whiz",
+                "label": "ba"
+            },
+            {
+                "text": "more rain for the next three or four days",
+                "label": "+"
+            },
+            {
+                "text": "Oh gosh Well I hope it moves up this way but Im sure it wont",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah Maybe we can send you some",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Because we could sure use it Well you think that takes care of the time and -",
+                "label": "b"
+            },
+            {
+                "text": "I think that will do it",
+                "label": "na^t"
+            },
+            {
+                "text": "Okay Well I sure appreciate hearing how things are going in Texas and uh -",
+                "label": "aa"
+            },
+            {
+                "text": "Well I enjoyed talking with you Lisa",
+                "label": "fc"
+            },
+            {
+                "text": "Yeah Good luck to you",
+                "label": "fc"
+            },
+            {
+                "text": "uh-huh You too",
+                "label": "fc"
+            },
+            {
+                "text": "Okay Well see you",
+                "label": "fc"
+            },
+            {
+                "text": "Bye",
+                "label": "fc"
+            },
+            {
+                "text": "Bye",
+                "label": "fc"
+            }
+        ]
+    }
+]

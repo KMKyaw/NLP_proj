@@ -1,0 +1,415 @@
+[
+    {
+        "conversation_id": "conv_3699",
+        "turns": [
+            {
+                "text": "Okay Uh do you live in home",
+                "label": "o"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "We we its house we bought uh about two and half years ago now",
+                "label": "sd"
+            },
+            {
+                "text": "Oh did you",
+                "label": "bh"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^m"
+            },
+            {
+                "text": "First house",
+                "label": "sd"
+            },
+            {
+                "text": "Weve lived in ours for about six years We had it built actually",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh uh its our first home too",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So what do you think of of owning home as opposed to to renting somebody elses",
+                "label": "qo"
+            },
+            {
+                "text": "Um well before we built our home we were managing some apartments that --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- we were living in and um that was quite an experience I I much prefer having my own home and and uh just the space and and more privacy",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Do you have is it fairly large house",
+                "label": "qy"
+            },
+            {
+                "text": "Um its uh uh its like twenty-four fifty square feet",
+                "label": "sd"
+            },
+            {
+                "text": "Oh thats pretty good size Yeah",
+                "label": "ba"
+            },
+            {
+                "text": "Its two story",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Yeah How about yours",
+                "label": "b"
+            },
+            {
+                "text": "Its tiny",
+                "label": "sd"
+            },
+            {
+                "text": "Is it small",
+                "label": "qy"
+            },
+            {
+                "text": "Its not much bigger Actually we had an apartment two bedroom apartment that was about as big as this house is So -",
+                "label": "na"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah its uh its only like eleven hundred square feet",
+                "label": "ny"
+            },
+            {
+                "text": "Oh uh-huh Do you do you have children",
+                "label": "b"
+            },
+            {
+                "text": "Just one",
+                "label": "sd"
+            },
+            {
+                "text": "Just one",
+                "label": "b^m"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "But it it uh all the rooms are small I mean but it ends up giving us three bedrooms which we wanted And uh Use an extra one for an office --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- which is handy",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Id rather have have more rooms and less space in each one I guess Rather have lots of rooms and lot- lots of space but uh that ends up costing me",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah yeah Well like um how does it compare to the ones in your neighborhood",
+                "label": "b"
+            },
+            {
+                "text": "Well theyre its pretty typical I mean its very very middle class neighborhood Uh lots of lots of young couples with you know usu- oh - Im sure that virtually everybody in the neighborhood thats their first homes --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh lots of kids and stuff - and so it it fits well in the neighborhood Its its certainly not real upscale neighborhood but on the other hand its clean and kind of suburban --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- little bit more than I want",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Is is yours also --",
+                "label": "qy"
+            },
+            {
+                "text": "Uh",
+                "label": "b"
+            },
+            {
+                "text": "-- pretty much in conformance with the neighborhood --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah it it --",
+                "label": "ny"
+            },
+            {
+                "text": "-- or is it",
+                "label": "qrr"
+            },
+            {
+                "text": "-- it it does it it seems about oh probably average Um",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But our neighborhood has just wide variety of of um people and you know theres older people here and and um people that are our our age were in our thirties",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And um theres lot of kids lot of kids People across the street have eight",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh wow eight kids",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Oh my gosh",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah their home just burned down --",
+                "label": "b"
+            },
+            {
+                "text": "Ooh",
+                "label": "b"
+            },
+            {
+                "text": "-- matter of fact and um last summer and theyre just rebuilding and um their house is going to be really big Its -",
+                "label": "+"
+            },
+            {
+                "text": "Im sure with eight gosh",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah theyre building lot bigger Hes uh um uh oh not an obstetrician an an orthopedic surgeon",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And um so since the house did burn theyre theyre going - its quite different than it was before and its --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- its lot bigger",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And um but ours is about - its you know its nice home its definitely not one of the the smaller ones and um its not the biggest either But -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah new ones I mean they they tend to to be real tiny but that uh especially in newer neighborhoods my my brother just built new house He lives in Wichita Kansas and the um the neighborhood actually fought him on it because he he was um the house was going to cost less to build than any other house in the neighborhood",
+                "label": "b"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Now thats because he was hes doing lot of it himself --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and you know for example landscaping and and lots of the other stuff and his house actually ended up being nicer than lots in the neighborhood but --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah You -",
+                "label": "b"
+            },
+            {
+                "text": "-- but they were they were pretty touchy on it He was little surprised",
+                "label": "+"
+            },
+            {
+                "text": "You know thats interesting you say that because we do have we have those architectural codes here --",
+                "label": "ba"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and when we um put out house in um they wanted us to have - there was one - we have part siding --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- on on the two story part and then --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- on the back and they there was one side where our chimney was and just the chimney was going to be brick and they wanted us to have more brick so we ended up having to go halfway up --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- which it does look nicer and you know we would have like to have had all brick but of course at that point we couldnt afford it and but its funny that youd say that because there were homes in here that didnt have any brick at all",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "So its kind of like they were",
+                "label": "sv"
+            },
+            {
+                "text": "Kind of depends on when they get in you know",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah yeah and I and so it was kind of like its they - ours is the last street that they built on So the houses actually on our street are little bit theyre kind of gone little bit nicer",
+                "label": "aa"
+            },
+            {
+                "text": "Oh they have - its gotten - yeah",
+                "label": "%"
+            },
+            {
+                "text": "Yeah I mean just --",
+                "label": "b^m"
+            },
+            {
+                "text": "Yeah oh",
+                "label": "b"
+            },
+            {
+                "text": "-- they you know - its like the second phase --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and and so theyve kind of changed the the codes little bit and so thats kind of why I guess they stuck us with more brick when there were --",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "-- other homes that didnt have any",
+                "label": "+"
+            },
+            {
+                "text": "Well see my sister kind of got in the opposite end of that because they they moved into neighborhood and bought real nice stone house down in South Austin",
+                "label": "sd"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh and the what the builder apparently plans to do is they they do phase one and they kind of give it very upscale and very tightly controlled uh codes and and and stuff and then they come back in and and then they sell",
+                "label": "sd"
+            }
+        ]
+    }
+]

@@ -1,0 +1,735 @@
+[
+    {
+        "conversation_id": "conv_3050",
+        "turns": [
+            {
+                "text": "Okay there we go",
+                "label": "o"
+            },
+            {
+                "text": "Okay great",
+                "label": "b"
+            },
+            {
+                "text": "So do you play golf at all",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah I do Im player Im kind of embarrassed Im talking to man cause Im sure that you are you play lot more than I do",
+                "label": "ny"
+            },
+            {
+                "text": "Actually I dont",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "No uh I uh when I was younger I played little bit and I was horrible so I just stopped playing",
+                "label": "nn"
+            },
+            {
+                "text": "Oh well my husband is is very good golfer He has got like six handicap",
+                "label": "sd"
+            },
+            {
+                "text": "Wow that is real good",
+                "label": "ba"
+            },
+            {
+                "text": "So uh - and he has been playing since we have been married for twenty two years So I had to start playing because he was you know such an avid golfer So I have been playing now - well I have had clubs for twenty years you know",
+                "label": "%"
+            },
+            {
+                "text": "Wow so you have been playing",
+                "label": "ba"
+            },
+            {
+                "text": "But but I really enjoy it So I had to check that and and uh talk about it Well have you played recently",
+                "label": "sd"
+            },
+            {
+                "text": "No actually I dont even know if I checked that or not to be perfectly honest Um",
+                "label": "nn"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "That seems to have been mistake I dont know Um",
+                "label": "sd"
+            },
+            {
+                "text": "Oh thats okay",
+                "label": "bd"
+            },
+            {
+                "text": "Yeah I have not played in long time Um when I was - about five or six years ago my dad who plays every now and then took me out with him and and I basically um I had horrible slice or hook I forget which one it was",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "It wound up tossing the ball into the trees",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "virtually every time",
+                "label": "+"
+            },
+            {
+                "text": "Yeah the slice goes to the right and the hook goes to the left I think",
+                "label": "b"
+            },
+            {
+                "text": "Yes I was slicing actually",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "as it turns out uh I went and took some lessons for awhile because I just I would lose so many balls and uh make it horrible time for everybody",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I went and took some lessons and I got little bit better but I st- but then I sort of you know went went back to school and did not have time and this and that and and the only thing I do now is I occasionally go out to driving range and hit couple of balls and see what I can do And I",
+                "label": "sd^r"
+            },
+            {
+                "text": "Yeah I think thats really good thing to do So where",
+                "label": "b"
+            },
+            {
+                "text": "And I still have this slice",
+                "label": "+"
+            },
+            {
+                "text": "are you in your life I mean are you in school",
+                "label": "+"
+            },
+            {
+                "text": "Im graduate student yeah",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay at the University of Rochester",
+                "label": "bk"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "Oh great",
+                "label": "ba"
+            },
+            {
+                "text": "As matter of fact um so I dont have time to do much else except for graduate work",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Right so I hang around this way and I -",
+                "label": "b"
+            },
+            {
+                "text": "Sure",
+                "label": "b"
+            },
+            {
+                "text": "Occasionally uh uh - bunch of us were pretty avid golfers",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Golfers so we will go out and we will we will we will play you know Um slash error",
+                "label": "+"
+            },
+            {
+                "text": "And you dont",
+                "label": "qy^d"
+            },
+            {
+                "text": "slash error but may want to LISTEN to this",
+                "label": "+@"
+            },
+            {
+                "text": "you dont have the length of the playing time that we do",
+                "label": "+"
+            },
+            {
+                "text": "No slash error I have I have very litt- at the moment I have very little playing time When I when I go on vacation my father and I uh --",
+                "label": "+@"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "-- play little bit But I dont you know - we play par par three nine hole course Because",
+                "label": "+"
+            },
+            {
+                "text": "Oh thats my favorite kind to play",
+                "label": "sd"
+            },
+            {
+                "text": "-",
+                "label": "+"
+            },
+            {
+                "text": "Because for woman its really nice to play par three course because",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "thats my I cant hit driver very far and in fact I dont even like to use driver I use three iron off the tee --",
+                "label": "+"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "-- because I have more control over it",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I can I can just have better contact with the ball that way So Im still using three iron and my husband is trying to get me into using you know like high number wood --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- instead",
+                "label": "+"
+            },
+            {
+                "text": "But those are uh still not you favorite huh",
+                "label": "qy^g"
+            },
+            {
+                "text": "No its not my favorite but I I uh I enjoy I I really do I think Im going to like golf the older I get and the more time I have to play I we have three teenage daughters",
+                "label": "nn"
+            },
+            {
+                "text": "Uh wow",
+                "label": "ba"
+            },
+            {
+                "text": "One is -",
+                "label": "sd"
+            },
+            {
+                "text": "You must be very busy",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah Im very busy I have part time job and and during the year I dont play much golf but but when Im we are on vacation I love to play Just like you said",
+                "label": "aa"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "And we got to play in Monterrey in California right you know along the Pacific Ocean this past spring And that was I told my husband that was the way to play you know that was - if I could play there every time I want it was it was great neat experience -",
+                "label": "sd"
+            },
+            {
+                "text": "Miniature golf theres my game Uh",
+                "label": "sd"
+            },
+            {
+                "text": "Miniature golf is great yes",
+                "label": "sv"
+            },
+            {
+                "text": "Miniature golf there you go putt putt",
+                "label": "sd"
+            },
+            {
+                "text": "Well thats the thing my kids like to do that with you know on dates and stuff",
+                "label": "sd"
+            },
+            {
+                "text": "Uh",
+                "label": "%"
+            },
+            {
+                "text": "But golf is um - we we probably are talking about golf because I did check it You know",
+                "label": "sd"
+            },
+            {
+                "text": "I dont I dont I dont - I may have actually I may have just checked random things I dont I dont recall anymore",
+                "label": "%"
+            },
+            {
+                "text": "Well yeah if you ever played - I mean I feel like anybody thats ever played golf can talk about it and maybe if you can even talk about it if you if you have uh watched it on",
+                "label": "b"
+            },
+            {
+                "text": "Right Yeah actually we have very very um - we had the uh -",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah tell me about your clubs up there What -",
+                "label": "b"
+            },
+            {
+                "text": "Well we had - I havent played around here too much We have very good one called Locust Hill though There uh the - -",
+                "label": "sd"
+            },
+            {
+                "text": "Locust Hill",
+                "label": "br^m"
+            },
+            {
+                "text": "Yeah the comes here every year --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh right",
+                "label": "b"
+            },
+            {
+                "text": "-- the Rochester International And then we had actually very big uh tour stop here last year",
+                "label": "+"
+            },
+            {
+                "text": "Oh great",
+                "label": "ba"
+            },
+            {
+                "text": "And actually um they say the the - I have not played the course but they say the course is very is is is pretty tough pretty challenging",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And its um not only that but its exceedingly well kept apparently",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "ba"
+            },
+            {
+                "text": "Because th- those are the comments I kept hearing from the pros you know they kept saying we hear you know on on television I - but they keep saying its just wonderful uh the course is so well maintained and you know it it it rained through half the um tournament so people had to - but they still - the grounds keepers were absolutely wonderful about",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "ba"
+            },
+            {
+                "text": "getting things back up again And this - actually when when the um when the came here --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- I guess that was about week and half ago it was just it it takes over the whole town",
+                "label": "+"
+            },
+            {
+                "text": "Oh sure",
+                "label": "aa"
+            },
+            {
+                "text": "You know Its all over the news and --",
+                "label": "sd"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "-- lots and lots of people take off work",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "to go --",
+                "label": "+"
+            },
+            {
+                "text": "To watch them yeah",
+                "label": "^2"
+            },
+            {
+                "text": "-- to go an watch the the uh ladies",
+                "label": "+"
+            },
+            {
+                "text": "The ladies -",
+                "label": "^2"
+            },
+            {
+                "text": "play So I mean I think its actually its absolutely wonderful to see",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Im sure the people love golf up there like they do down here",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah uh -",
+                "label": "b"
+            },
+            {
+                "text": "People are just cra- - golf is just - its just the coming thing I mean lot of people are just crazy about it",
+                "label": "sv"
+            },
+            {
+                "text": "It seems to be It seems lot of people are really you know - either um either you have not played it or or you you have played it and you sort of stink like me",
+                "label": "aa"
+            },
+            {
+                "text": "Well",
+                "label": "sv"
+            },
+            {
+                "text": "and you sort of play every now and then",
+                "label": "sv"
+            },
+            {
+                "text": "its its just such difficult thing I mean its I just I watch my husband and hes he was professional athlete he hes very good athlete and hes got the coordination that God given coordination and he just struggles",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "you know all the time to um to master this game",
+                "label": "+"
+            },
+            {
+                "text": "Yeah well same here I mean Im brown belt in Karate at this point in time And uh",
+                "label": "b"
+            },
+            {
+                "text": "Oh my really",
+                "label": "ba"
+            },
+            {
+                "text": "And and I can not and I can not hit golf ball",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know I -",
+                "label": "%"
+            },
+            {
+                "text": "Because it - well I watch my husband swing and his swing you know like compared to the pros is so its ridged Its like hes trying so hard its not that flowing movement",
+                "label": "%"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "You know",
+                "label": "+"
+            },
+            {
+                "text": "Thats because hes probably doing what I do worrying about",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "is my head straight is my arm right",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "is this correct am I holding correctly stuff like that slash error",
+                "label": "+@"
+            },
+            {
+                "text": "Or how far hes going to hit it I think you know",
+                "label": "bf"
+            },
+            {
+                "text": "Yeah slash error oh yeah",
+                "label": "+@"
+            },
+            {
+                "text": "And I worry about that",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "aa"
+            },
+            {
+                "text": "I have just got to get this drive you know really far I have got to hit it",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I have this nasty habit of of turning my head at the last second or",
+                "label": "sd"
+            },
+            {
+                "text": "Yep or -",
+                "label": "b"
+            },
+            {
+                "text": "or just keeping my arm wrong",
+                "label": "+"
+            },
+            {
+                "text": "Yeah turning your head is probably the most common thing for women",
+                "label": "aa"
+            },
+            {
+                "text": "Is it",
+                "label": "qy"
+            },
+            {
+                "text": "they say And you are always so anxious to see where it goes",
+                "label": "+"
+            },
+            {
+                "text": "Right exactly",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Exactly Its just like I I dont watch the ball die I have - It took me long time to learn to wait until the ball was in the air before I looked up",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah yeah I have to that especially even more so with short iron than long ir- you know",
+                "label": "aa"
+            },
+            {
+                "text": "Oh driver",
+                "label": "^2"
+            },
+            {
+                "text": "than with driver or something Because those short irons its just you want to look up --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- cause you are getting close to the green and you want to see it hit the green And you know thats why -",
+                "label": "+"
+            },
+            {
+                "text": "Watch where its going",
+                "label": "bf"
+            },
+            {
+                "text": "Yeah so",
+                "label": "b"
+            },
+            {
+                "text": "That that is certainly true thank you",
+                "label": "aa"
+            },
+            {
+                "text": "I ca- I dont know what Im supposed to ask questions about am I supposed to ask questions about this whole procedure I know that",
+                "label": "+"
+            },
+            {
+                "text": "Thats okay go ahead its no big deal",
+                "label": "aa"
+            },
+            {
+                "text": "Well uh when I - do you get get um reimbursed for the calls you make or the calls you talk on too",
+                "label": "sd"
+            },
+            {
+                "text": "Both",
+                "label": "sd^t"
+            },
+            {
+                "text": "Both Okay",
+                "label": "b^m^t"
+            },
+            {
+                "text": "I believe so",
+                "label": "sd^t"
+            },
+            {
+                "text": "Okay well I really did not know so I -",
+                "label": "b"
+            },
+            {
+                "text": "I I I actually dont know I get random reimbursement every now and then and dont really --",
+                "label": "sd^t"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- dont really figure it out",
+                "label": "+"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "until afterward",
+                "label": "+"
+            },
+            {
+                "text": "Cause this is only my second day doing it and I just did not I did not know and that was",
+                "label": "sd^t"
+            },
+            {
+                "text": "Oh really",
+                "label": "b"
+            },
+            {
+                "text": "the details we I just started yesterday",
+                "label": "+"
+            },
+            {
+                "text": "I have been doing this for awhile actually",
+                "label": "sd^t"
+            },
+            {
+                "text": "Have you",
+                "label": "bh"
+            },
+            {
+                "text": "It seems like its been while",
+                "label": "na"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And they just I just",
+                "label": "sd^t"
+            },
+            {
+                "text": "I had -",
+                "label": "sd"
+            },
+            {
+                "text": "get these random checks in the mail every now and then and -",
+                "label": "+"
+            },
+            {
+                "text": "I see",
+                "label": "bk"
+            },
+            {
+                "text": "My wife and I both do it as matter of fact",
+                "label": "sd^t"
+            },
+            {
+                "text": "I see",
+                "label": "bk"
+            },
+            {
+                "text": "And we both just sort of get these random checks in the mail and",
+                "label": "sd^t"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "To be honest I I really have not been accounting I just sort of figured well its going to work",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know if it works it works So -",
+                "label": "sd^t"
+            },
+            {
+                "text": "Well my uh -",
+                "label": "%"
+            }
+        ]
+    }
+]

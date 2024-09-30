@@ -1,0 +1,459 @@
+[
+    {
+        "conversation_id": "conv_3333",
+        "turns": [
+            {
+                "text": "All right Ive never done it before so I guess thats all I have to do right",
+                "label": "o"
+            },
+            {
+                "text": "I guess so",
+                "label": "no^t"
+            },
+            {
+                "text": "Ive been called several times and I push in pushed in my number they kept saying you have the invalid code --",
+                "label": "sd^t"
+            },
+            {
+                "text": "Oh really",
+                "label": "b"
+            },
+            {
+                "text": "-- and then I found out that my new phone wasnt working right",
+                "label": "sd^t"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Oh so this is the first time Ive even done it",
+                "label": "sd^t"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I wonder how long its going to be on for",
+                "label": "qw^t"
+            },
+            {
+                "text": "I think five minutes is the max",
+                "label": "sd^t"
+            },
+            {
+                "text": "Oh no I mean this whole thing like for two months or something do you know",
+                "label": "ba"
+            },
+            {
+                "text": "Oh I dont know",
+                "label": "no^t"
+            },
+            {
+                "text": "Yeah okay well back to crime I guess were supposed to talk about that They say what aspect are you worried about well I think at this point I for one am worried about every aspect",
+                "label": "b"
+            },
+            {
+                "text": "Right especially uh you since youre in the same metroplex you know theres so much going on here",
+                "label": "aa"
+            },
+            {
+                "text": "I think the drive by shootings are getting to be so common thats really something you got to protect yourself from",
+                "label": "sd"
+            },
+            {
+                "text": "Well that and in the schools too --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh golly I know",
+                "label": "b"
+            },
+            {
+                "text": "-- starting to put metal detectors in and -",
+                "label": "+"
+            },
+            {
+                "text": "Have they done that in Garland",
+                "label": "qy"
+            },
+            {
+                "text": "No I - not that Im aware of",
+                "label": "nn"
+            },
+            {
+                "text": "Now um -",
+                "label": "%"
+            },
+            {
+                "text": "I just heard you know last week at that one school they started putting them in because there was that one shooting --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- so um -",
+                "label": "%"
+            },
+            {
+                "text": "Well we had vice principal shot at here --",
+                "label": "sd"
+            },
+            {
+                "text": "Is that right",
+                "label": "bh"
+            },
+            {
+                "text": "-- last year on the you know on the school grounds after school And the one boy killed himself few years ago in the in grade school so --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know these kids dont have any trouble getting hold of guns in any --",
+                "label": "+"
+            },
+            {
+                "text": "Not at all slash error",
+                "label": "aa@"
+            },
+            {
+                "text": "-- in any neighborhood doesnt seem like",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "+"
+            },
+            {
+                "text": "So Yeah its kind of scary to think you send your child to school and you wonder if hes going to get shot I mean we didnt have to worry about that before",
+                "label": "b"
+            },
+            {
+                "text": "I know",
+                "label": "aa"
+            },
+            {
+                "text": "What next",
+                "label": "qh"
+            },
+            {
+                "text": "I know its its its getting - its been out of hand I think for while and it just continues to get worse",
+                "label": "aa"
+            },
+            {
+                "text": "Right and you know we cant really depend on the police to solve all this they just cant do it",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I think it goes all the way back to the break up of the family --",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- to certain extent and uh and how we going to bring that back together",
+                "label": "+"
+            },
+            {
+                "text": "Yeah thats - I thi- - I agree I think thats where it stems from is that and um you know youve got lot of lot more women that are working nowadays --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- that arent home with the children --",
+                "label": "+"
+            },
+            {
+                "text": "Right and -",
+                "label": "b"
+            },
+            {
+                "text": "-- and that may impact it as well",
+                "label": "sv"
+            },
+            {
+                "text": "I think so and and then theres drop in uh the training of morals really you know",
+                "label": "aa"
+            },
+            {
+                "text": "Right right",
+                "label": "aa"
+            },
+            {
+                "text": "These some of these young kids you read about just doesnt bother them to kill someone at all --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah --",
+                "label": "aa"
+            },
+            {
+                "text": "-- I think --",
+                "label": "sv"
+            },
+            {
+                "text": "-- they dont think twice about it",
+                "label": "sv"
+            },
+            {
+                "text": "-- I think years past maybe our criminals had little more morals you know --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- wouldnt kill somebody in cold blood",
+                "label": "+"
+            },
+            {
+                "text": "Either that or I dont know if it happened and it wasnt as highly publicized as it is now or what the what the -",
+                "label": "h"
+            },
+            {
+                "text": "I think it was just rare I really do",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "My mother well shes like seventy-four now She when she was young girl she had beautiful beautiful cousin that lived in California and she was dating this millionaires son and he wanted to marry her and she wouldnt marry him and so he drove out in the country one day and shot them both and uh -",
+                "label": "sd"
+            },
+            {
+                "text": "Youre kidding",
+                "label": "ba"
+            },
+            {
+                "text": "No Im the one -",
+                "label": "aa"
+            },
+            {
+                "text": "Himself and her",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah that must have been at least fifty years ago or more but --",
+                "label": "by"
+            },
+            {
+                "text": "Oh wow",
+                "label": "ba"
+            },
+            {
+                "text": "-- the point of the story is that that was so unbelievable thing in those days that it was in all the papers all over the country for weeks --",
+                "label": "+"
+            },
+            {
+                "text": "I bet",
+                "label": "ba"
+            },
+            {
+                "text": "-- but now you know you wouldnt probably read about it here in Texas --",
+                "label": "sv"
+            },
+            {
+                "text": "Oh I know",
+                "label": "aa"
+            },
+            {
+                "text": "-- its just you know another killing",
+                "label": "sv"
+            },
+            {
+                "text": "Well they were - I was watching some show the other day and they were talking about uh mass murderers --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and they brought up what happened in Killeen here recently and --",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "-- they were saying you know that these guys want attention and that when it happens theyre glorified because all the newspaper its on --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- all the newspapers --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and - and everything",
+                "label": "+"
+            },
+            {
+                "text": "Right lots of their picture and life story and everything",
+                "label": "aa"
+            },
+            {
+                "text": "Right and then you get to their life story Oh they came from broken family --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- oh this person had mental problems --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- oh duh duh duh --",
+                "label": "^q"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- you know",
+                "label": "+"
+            },
+            {
+                "text": "I know how we and straighten up all these twisted people before they do something terrible",
+                "label": "qh"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So uh that story I just told you about my mothers beautiful cousin well the same thing happened here in Arlington when was it I think it was oh it was almost year ago in December to girl that my daughter had graduated from high school with",
+                "label": "sd"
+            },
+            {
+                "text": "Is that right",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah I think it was on Hard Copy she was real attractive blond girl in in her freshman year of college --",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and some boy she tried to get rid of he was like in his twenties -",
+                "label": "sd"
+            },
+            {
+                "text": "Uh I remember seeing that",
+                "label": "sd"
+            },
+            {
+                "text": "Remember that",
+                "label": "qy"
+            },
+            {
+                "text": "I saw that on Hard Copy",
+                "label": "na"
+            },
+            {
+                "text": "Right right thats uh -",
+                "label": "aa"
+            },
+            {
+                "text": "Yes",
+                "label": "aa"
+            },
+            {
+                "text": "My daughter graduated with her from Arlington High School",
+                "label": "sd"
+            },
+            {
+                "text": "Is that right",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah can you believe it thats just uh -",
+                "label": "ny"
+            },
+            {
+                "text": "Im trying to remember he um had her in the car in front of Taco or something --",
+                "label": "^h"
+            },
+            {
+                "text": "Taco Bueno right uh-huh",
+                "label": "sd"
+            },
+            {
+                "text": "-- and he just shot them --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- himself and her",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "aa"
+            },
+            {
+                "text": "I remember seeing that",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah uh uh isnt that weird",
+                "label": "b"
+            },
+            {
+                "text": "Yeah theres just too many crazy people out there these days",
+                "label": "ny"
+            },
+            {
+                "text": "I know and uh the police are not going to do anything until they theyve committed some sort of crime You know he was just begging her on the phone thats not doing anything",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And there are times I think gee I should give my kids gu- -",
+                "label": "sd"
+            }
+        ]
+    }
+]

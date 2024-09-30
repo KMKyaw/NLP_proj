@@ -1,0 +1,419 @@
+[
+    {
+        "conversation_id": "conv_3280",
+        "turns": [
+            {
+                "text": "Okay Um I very seldom read newspaper I get most of my news information from Mainly um if Im really wanting an in-depth thing Ill watch",
+                "label": "o"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I find it one of the best",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh otherwise its just one of the regular uh channels eight or five",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh where do you get yours",
+                "label": "qw"
+            },
+            {
+                "text": "Uh mostly from too I - usually start watching the news at five and watch it at five thirty and six --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- sometimes and and then again at ten maybe just the headlines Um we do take the DALLAS MORNING NEWS and uh once in while Ill sit down and read read it you know but not very often do I read the whole thing Quite often just scan through the headlines - and -",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh Well I take the DALLAS MORNING NEWS and and my husband uh he reads it cover to cover",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh if he thinks theres something that I need to know about hell say you know here you need to read this and uh --",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- I dont know it - I kind of quit reading it oh I dont know several years ago when the kids were teenagers It just seems like I was so busy all the time and if I wanted to read I wanted to read something light and relaxing and --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh things like that and so I coul- - and it got so depressing",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Seems like it wasnt anything but bad news",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah If theres something you know that I want to know more about or som- - might be the Killeen murders - Ive been kind of intrigued I guess its kind of the sadist in everyone You just -",
+                "label": "b"
+            },
+            {
+                "text": "Yes yes I I will pick up if theres something really gruesome in there Ill go through and read it Uh but I find that I do better with oh remembering it and everything if I watch uh the --",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- you know and and they kind of capsize it --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and everything and watch - and I think sometimes its you know --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- maybe little biased you know --",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "aa"
+            },
+            {
+                "text": "-- i- - something - and sometimes",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You dont you get the sensationalism as opposed to just pure facts",
+                "label": "+"
+            },
+            {
+                "text": "Thats true",
+                "label": "ba"
+            },
+            {
+                "text": "You know -",
+                "label": "%"
+            },
+            {
+                "text": "I wanted little more detail like you know they would tell more about the people that were killed where they were from and how old they were And I guess you just you know you --",
+                "label": "sd"
+            },
+            {
+                "text": "Yes Yes should be two slash units",
+                "label": "o@"
+            },
+            {
+                "text": "-- you just want to know and with interest you know I found some people that were members of our church which was different - And that made you even feel little more kin to to what was going on",
+                "label": "+"
+            },
+            {
+                "text": "You found some members of your church that had been murdered",
+                "label": "+@"
+            },
+            {
+                "text": "Well you know of the same same type of church that we belong to -",
+                "label": "na"
+            },
+            {
+                "text": "Oh the same type of church",
+                "label": "b^m"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Yeah so that made it little more and that they were from Utah also so -",
+                "label": "b"
+            },
+            {
+                "text": "Oh uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So that was interesting but I enjoy the news I I think our seven year old even - once in while will sit down and watch it --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- with us so -",
+                "label": "+"
+            },
+            {
+                "text": "I used to uh or I didnt used to but uh -- -",
+                "label": "sd"
+            },
+            {
+                "text": "No",
+                "label": "b"
+            },
+            {
+                "text": "-- when my grandchildren had uh have stayed over before and even maybe when our kids were younger one of the channels used to give brief inserts of news at childs level",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I thought that was very interesting and I thought that was very important for kids Like they brought down something that had happened like if there was something going on uh in the war they would bring it down to childs level in words --",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know that they could understand --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- what was going on And uh I noticed that my grandchildren seemed to kind of enjoy that The oldest one hes --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- nine and uh he would particularly enjoy this been couple of years ago -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And uh I thought I think thats really interesting Actually I even understood it better",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah thats nice sometimes when they --",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- they pull it down little bit like that",
+                "label": "+"
+            },
+            {
+                "text": "Yeah you know And uh but as I said uh I ten- you know - I I have kind of blas3e attitude about uh news and news reporting which is is not good yo- you know typo in word 8",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Nobody should get that way about the news",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And whats going on in the world",
+                "label": "+"
+            },
+            {
+                "text": "Oh do you have certain station you like to watch when you watch it or -",
+                "label": "qy"
+            },
+            {
+                "text": "Yes We like channel eight",
+                "label": "ny"
+            },
+            {
+                "text": "Do you",
+                "label": "bh"
+            },
+            {
+                "text": "We like it Its the best",
+                "label": "na"
+            },
+            {
+                "text": "Um channel five for some reason has always been --",
+                "label": "sd"
+            },
+            {
+                "text": "Is that been --",
+                "label": "qy"
+            },
+            {
+                "text": "-- the one I watch",
+                "label": "+"
+            },
+            {
+                "text": "-- your favorite uh-huh",
+                "label": "+"
+            },
+            {
+                "text": "I I dont know its probably the anchors They just kind of catch you I dont I dont know",
+                "label": "no"
+            },
+            {
+                "text": "Yeah I very sel- - and I thought it was very interesting uh channel nine watching it when the murders were in Killeen -- -",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and and going on They were having news coverage and -",
+                "label": "%"
+            },
+            {
+                "text": "The is that what that is",
+                "label": "qy"
+            },
+            {
+                "text": "No it was channel nine",
+                "label": "nn"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "And you know they have that hour that nine to ten --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- of an evening - And so we had the on and we were trying to catch all of it and they were showing some and I was watching my husband and I were watching it and then we switched over to channel eight and the difference in coverage was unbelievable",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I can understand why channel eleven is uh you know why theyre kind of behind",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Did I say channel nine to begin with",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah Thats --",
+                "label": "ny"
+            },
+            {
+                "text": "No",
+                "label": "ar"
+            },
+            {
+                "text": "-- why I wondered",
+                "label": "+"
+            },
+            {
+                "text": "Okay No chan- --",
+                "label": "bk"
+            },
+            {
+                "text": "I dont get that channel",
+                "label": "sd"
+            },
+            {
+                "text": "-- channel eleven I meant",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I was thinking nine to ten",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "But channel eleven",
+                "label": "sd"
+            },
+            {
+                "text": "That is if you if you want to go to bed early its nice to to to watch that early news --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- sometimes so -",
+                "label": "+"
+            },
+            {
+                "text": "It uh - but the coverage wasnt near as good as when we you know switched over to channel eight and they didnt - -",
+                "label": "%"
+            }
+        ]
+    }
+]

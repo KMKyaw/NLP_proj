@@ -1,0 +1,495 @@
+[
+    {
+        "conversation_id": "conv_3754",
+        "turns": [
+            {
+                "text": "Okay And Ive pressed the button",
+                "label": "o"
+            },
+            {
+                "text": "Okay Let me tell you I havent been too many places",
+                "label": "b"
+            },
+            {
+                "text": "You havent been to too many places",
+                "label": "b^m"
+            },
+            {
+                "text": "No no I havent",
+                "label": "nn"
+            },
+            {
+                "text": "Well okay I have been to Hawaii",
+                "label": "b"
+            },
+            {
+                "text": "See now that is where I want to go That is where I have always wanted to go I have never been there",
+                "label": "sd"
+            },
+            {
+                "text": "It is beautiful",
+                "label": "sd"
+            },
+            {
+                "text": "I know Is it is it uh - I had an aunt that lived there and she couldnt stand it any more She moved out because she said the whole island was uh you know being taken over by the Japanese",
+                "label": "ba"
+            },
+            {
+                "text": "Well there is there is lot of Japanese over there And they are -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah and she uh also told me that - well not her uh necessarily other people that have been there have said that it is too commercialized",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Is it",
+                "label": "qy"
+            },
+            {
+                "text": "Uh well yeah There is - it is commercialized But there is still lot of beautiful places to go and see",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know",
+                "label": "+@"
+            },
+            {
+                "text": "Sure",
+                "label": "b"
+            },
+            {
+                "text": "On all of the islands You know I dont think I have enough - Oahu naturally has got more people on it than the other islands",
+                "label": "+@"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But it is still beautiful You have got to see at least once",
+                "label": "sd"
+            },
+            {
+                "text": "Oh well I will You know eventually",
+                "label": "aa"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "Well what is the most uh you know the nicest island",
+                "label": "qw"
+            },
+            {
+                "text": "Uh I like Maui",
+                "label": "sd"
+            },
+            {
+                "text": "Maui I think that is what usually people uh --",
+                "label": "b^m"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- say they do they like the best",
+                "label": "+"
+            },
+            {
+                "text": "Well I like it because the beach is nice and white and you know it is like Oahu you can go over there and lay on the beach and it is really nice",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Where the island of Hawaii you cant really lay on the beach over there",
+                "label": "+@"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But uh Kauai I mean the beaches are nice but I dont know just not nice as Maui",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And then uh where where have you been",
+                "label": "qw"
+            },
+            {
+                "text": "Well I have been to California Ive been to San Francisco",
+                "label": "sd"
+            },
+            {
+                "text": "Oh you have",
+                "label": "bh"
+            },
+            {
+                "text": "I loved it I absolutely loved it",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Yeah and uh -",
+                "label": "b"
+            },
+            {
+                "text": "How long ago",
+                "label": "qw"
+            },
+            {
+                "text": "Oh uh eighty-six",
+                "label": "sd"
+            },
+            {
+                "text": "Huh Okay",
+                "label": "b"
+            },
+            {
+                "text": "My sister lives out there My sister lives in Piedmont",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah I know where that is at",
+                "label": "b"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "Because I use to live in Oakland",
+                "label": "+@"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "Oh well that is right near Piedmont",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah right Right",
+                "label": "b"
+            },
+            {
+                "text": "Yeah that is like suburb or something whatever",
+                "label": "b"
+            },
+            {
+                "text": "Yes uh-huh uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Oh yeah Okay Well she was in Berkley also and she -- -",
+                "label": "ba"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- lets see I went when she was uh was living - well when I went out there she was in uh now I cant oh Lafayette She was living in Lafayette",
+                "label": "^h"
+            },
+            {
+                "text": "Oh yeah right",
+                "label": "b"
+            },
+            {
+                "text": "And then they moved to Piedmont",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So I uh I havent seen uh you know her house in Piedmont but but I loved San Francisco I would like to go back",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Did you go on the cable cars and everything",
+                "label": "b"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Isnt that fun",
+                "label": "b"
+            },
+            {
+                "text": "Went to Alcatraz You know we did the whole bit And then we went to the wine country",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah Up by Napa",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Oh beautiful",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And we went to Carmel",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And we took the eighteen mile drive",
+                "label": "sd"
+            },
+            {
+                "text": "Isnt that pretty I love it down there",
+                "label": "qy^d"
+            },
+            {
+                "text": "Oh it is beautiful That is really beautiful",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "My girlfriend was down there few months ago First time she has been down there and they wanted to take that drive and they had closed the whole road because of uh uh fog",
+                "label": "sd"
+            },
+            {
+                "text": "Oh the weather",
+                "label": "^2"
+            },
+            {
+                "text": "Yeah So they never got to do that",
+                "label": "b"
+            },
+            {
+                "text": "Huh Well I have also been to the Carribean",
+                "label": "b"
+            },
+            {
+                "text": "Oh I havent been there either You name it I havent been there",
+                "label": "sd"
+            },
+            {
+                "text": "Well I uh have been there couple of times",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I went on cruise",
+                "label": "sd"
+            },
+            {
+                "text": "Oh that is nice",
+                "label": "ba"
+            },
+            {
+                "text": "The last time I went I went with my two sisters",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And it was over Christmas time",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And we really had good time",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Well they they had this cruise director dress up like Santa Claus and we went to the beach and they had put Christmas tree on the beach --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- decorated it up It was it was lot of fun",
+                "label": "+"
+            },
+            {
+                "text": "Well thats nice",
+                "label": "ba"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "Is uh cruise nicer than uh if you just go on regular uh you know to hotel",
+                "label": "qy"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "ny"
+            },
+            {
+                "text": "It is I have heard it is Yeah",
+                "label": "bf"
+            },
+            {
+                "text": "Yeah because you dont have to worry about unpacking or anything like that you know You put your clothes in your room",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Oh you will have to go on one",
+                "label": "ad"
+            },
+            {
+                "text": "You dont get seasick That is what I am afraid of",
+                "label": "qy"
+            },
+            {
+                "text": "No",
+                "label": "nn"
+            },
+            {
+                "text": "No huh",
+                "label": "b^m"
+            },
+            {
+                "text": "I mean there was - some people did uh on that last cruise that we took because they was having storm come in --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but that is unusual",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Uh one of my sisters got sick but the other one didnt and I didnt",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know but uh it is really nice and they they just do so many things for you you know to make you enjoy the trip and everything",
+                "label": "+@"
+            },
+            {
+                "text": "Right yeah",
+                "label": "b"
+            },
+            {
+                "text": "So you will have to do that once I want to go on another one but I want to go to Alaska",
+                "label": "ad"
+            },
+            {
+                "text": "Oh yes Now someone I know was on cruise to Alaska",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Was it to Alaska Yeah I am pretty sure That is right my hairdresser",
+                "label": "t1"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "She went last year She said she went on cruise And I was thinking you know cruise I am thinking So on - and she is laying on the beach And I said well you are not very tan for someone who has been on cruise She said we went to Alaska",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Right",
+                "label": "b"
+            },
+            {
+                "text": "And uh that that I would like to go well Hawaii is my uh is number one I would also like to go to Australia and get -",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I think I would like to too",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I keep hoping to win the lottery where I can do all these things You know",
+                "label": "sd"
+            },
+            {
+                "text": "Oh well see I am am just in the Publishers Clearing House and the READERS DIGEST because we dont uh - right now the lottery here -",
+                "label": "sd"
+            }
+        ]
+    }
+]

@@ -1,0 +1,479 @@
+[
+    {
+        "conversation_id": "conv_3769",
+        "turns": [
+            {
+                "text": "Okay its pressed Are you still there",
+                "label": "o"
+            },
+            {
+                "text": "Im ready",
+                "label": "na"
+            },
+            {
+                "text": "Okay So whats uh things that you look for when you go out to dinner",
+                "label": "bk"
+            },
+            {
+                "text": "Oh I just like nice quiet nice atmosphere --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and of course good food Thats always thats always concern but just nice quiet easy place --",
+                "label": "+"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "-- maybe candlelight something --",
+                "label": "+"
+            },
+            {
+                "text": "Um that sounds pretty",
+                "label": "ba@"
+            },
+            {
+                "text": "-- just to relax you know --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "+@"
+            },
+            {
+                "text": "-- because I dont really go out to dinner that much so -",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh Well we dont go out to dinner that much either We try to get out maybe like once every month and half or --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- something like that but I definitely want to go to place thats nice and clean you know",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Um Ive been to some thats been terrible You know you see cockroaches crawling around and --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- everything you know But I try to get one thats nice and clean and then I like to you know good food and good service",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "Yeah where you dont feel rushed you know --",
+                "label": "b"
+            },
+            {
+                "text": "Yeah right",
+                "label": "b"
+            },
+            {
+                "text": "-- and you can just relax and --",
+                "label": "sv"
+            },
+            {
+                "text": "Right right",
+                "label": "b"
+            },
+            {
+                "text": "-- stay as long as you want",
+                "label": "+"
+            },
+            {
+                "text": "So is there some nice places to go to eat in Plano",
+                "label": "qy"
+            },
+            {
+                "text": "Well nearby Were almost in Dallas Were just north of Dallas",
+                "label": "na"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So we have quite bit between us and there Its about ten miles --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and there is all kinds of restaurants and I had one that was favorite for long time and then it changed hands and doubled the prices and then it finally went out of business",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "So but it was really nice It had fireplace",
+                "label": "sd"
+            },
+            {
+                "text": "Um that sounds beautiful",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah it was really nice They had entertainment sometimes and --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you could just really relax there and enjoy it",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh uh-huh Well",
+                "label": "b"
+            },
+            {
+                "text": "But its gone",
+                "label": "sd"
+            },
+            {
+                "text": "This is only little small city Uh we have uh - excuse me I didnt think my coughing would come back Anyhow we have only like one uh restaurant thats kind of nice You know they have prime rib on uh weekends --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and then they have about six miles from here is called little city called Wesley and they have Wesley Hotel there that they serve food and the atmosphere there is really really nice",
+                "label": "sd"
+            },
+            {
+                "text": "Oh thats nice",
+                "label": "ba"
+            },
+            {
+                "text": "So and then if we really want to you know something different we go to Modesto --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- which is like twenty minutes away",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "But uh we dont have any fast foods here in this small city",
+                "label": "sd"
+            },
+            {
+                "text": "That is probably very fortunate for you Do you have kids",
+                "label": "sv"
+            },
+            {
+                "text": "Do I have kids",
+                "label": "br^m"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Well I have son but hes grown up",
+                "label": "na"
+            },
+            {
+                "text": "Oh because I have twelve year old that would eat happy meal every night you know and --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- nows shes graduated to two cheeseburgers so somethings happened here but but um you know McDonalds is definitely at the top of her list and I hate these places",
+                "label": "+"
+            },
+            {
+                "text": "Yeah All the kids seem to love McDonalds dont they you know",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh they do and I dont think theres an ounce of nutritional value in anything they have",
+                "label": "ny"
+            },
+            {
+                "text": "No no Im sure there isnt",
+                "label": "aa"
+            },
+            {
+                "text": "Well we have all kinds of fast foods everywhere around --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and its really its tempting when you come home from work and youre tired and you know you just are tempted to give in to that and it costs lot of money to do it too",
+                "label": "sv"
+            },
+            {
+                "text": "I know",
+                "label": "ba"
+            },
+            {
+                "text": "You know it adds up and its not healthy and I really got into that habit for while but I got out of it again because --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- I just felt like --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- it was just too unhealthy",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "Well lets see what else can we talk about",
+                "label": "qw^t"
+            },
+            {
+                "text": "Well hows California today",
+                "label": "qo"
+            },
+            {
+                "text": "Oh its foggy and cold here",
+                "label": "sd"
+            },
+            {
+                "text": "Is it Thats what Ive heard yeah",
+                "label": "bh"
+            },
+            {
+                "text": "uh-huh uh-huh Yeah and its -",
+                "label": "b"
+            },
+            {
+                "text": "Have you always lived there",
+                "label": "qy"
+            },
+            {
+                "text": "I came from Iowa when I was sixteen --",
+                "label": "na"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "-- so Ive lived out in California for long long time",
+                "label": "sd"
+            },
+            {
+                "text": "And you like it",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah I like it real well",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah weve been",
+                "label": "b"
+            },
+            {
+                "text": "We used to live in Oakland so we used to have lot more restaurants to go to there --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- you know but uh then I quit work and everything and I bought house I had condo in Oakland so right in Chinatown so we went to lots of restaurants --",
+                "label": "+"
+            },
+            {
+                "text": "Oh that would be fun",
+                "label": "ba"
+            },
+            {
+                "text": "-- Chinese restaurants and they were really good I really miss them You know",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Do you miss living there",
+                "label": "b"
+            },
+            {
+                "text": "Uh no I really dont miss --",
+                "label": "nn"
+            },
+            {
+                "text": "No",
+                "label": "b^m"
+            },
+            {
+                "text": "-- living there I just like to go in there and have nice Chinese --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- dinner once in while you know",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But uh as far as missing living there no",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "Its close enough if I wanted to go there to San Francisco for dinner or something why you know an hour and fifteen minutes we could be there and --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- you know have dinner and then come on back But uh have you ever been to California",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah I go all the time",
+                "label": "ny"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah well I have twenty-one year old daughter in college there --",
+                "label": "ny"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "-- and she um is world champion twirler --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and her coach is in California So she went there for six years",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "So I went out lot with her",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh yeah I know California pretty well",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I love it and -- -- we tug back and forth whos going to move but I think hes going to move because Im the person with more to lose here",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I have my twelve year old in school --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and shes happy She always lived here in the south and I have my house so --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- I have too much to lose",
+                "label": "+"
+            }
+        ]
+    }
+]

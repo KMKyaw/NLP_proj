@@ -1,0 +1,347 @@
+[
+    {
+        "conversation_id": "conv_4108",
+        "turns": [
+            {
+                "text": "Okay",
+                "label": "o"
+            },
+            {
+                "text": "Uh so what do you think uh about putting the elderly in nursing home",
+                "label": "qo"
+            },
+            {
+                "text": "Well I think that it it varies on on the individual basis",
+                "label": "sv"
+            },
+            {
+                "text": "Huh",
+                "label": "%"
+            },
+            {
+                "text": "Uh sometimes it is there is no alternative",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh you do not have uh uh family available or family thats uh - you may not even have family that is uh uh in you know who are around",
+                "label": "sd"
+            },
+            {
+                "text": "Thats true Yeah",
+                "label": "sv"
+            },
+            {
+                "text": "So sometimes its not an alternative",
+                "label": "sv"
+            },
+            {
+                "text": "Huh",
+                "label": "%"
+            },
+            {
+                "text": "And I think uh but I think also sometimes it can be uh benefit if its for short time Sometimes in nursing home -- -",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh especially if if its after an acute illness To get over - or to rehab after uh an illness",
+                "label": "sv"
+            },
+            {
+                "text": "Thats true I never thought of that Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Sometimes you know sometimes the nursing homes are good for uh just short periods of time",
+                "label": "sv"
+            },
+            {
+                "text": "Thats true until they get over that hump --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "aa"
+            },
+            {
+                "text": "-- of whatever it is theyre dealing with",
+                "label": "+"
+            },
+            {
+                "text": "Because too often the acute hospitals will are sending them out much faster than what theyre --",
+                "label": "sv"
+            },
+            {
+                "text": "Yes",
+                "label": "aa"
+            },
+            {
+                "text": "-- really able to",
+                "label": "+"
+            },
+            {
+                "text": "They really are They dont like to keep them --",
+                "label": "sv"
+            },
+            {
+                "text": "So --",
+                "label": "sv"
+            },
+            {
+                "text": "-- longer than week",
+                "label": "+"
+            },
+            {
+                "text": "-- so there is some good to it",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Uh sometimes too its used as dumb job You know the fam- --",
+                "label": "sv"
+            },
+            {
+                "text": "What do you mean",
+                "label": "br"
+            },
+            {
+                "text": "-- well the families do not necessarily uh know what to do with them and they dont want to take the responsibility so they will put them in nursing home",
+                "label": "+"
+            },
+            {
+                "text": "Yeah thats true",
+                "label": "aa"
+            },
+            {
+                "text": "So you see uh - theres both sides to it too What do you think",
+                "label": "o"
+            },
+            {
+                "text": "Yeah and it depends on how how sick the person is too What youre capable of like if you have family to take care of you know of your own",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Yeah uh I would personally like it if my parents were to get ill I would like to take care of them at home and if I had the money with some help Thats not always possible",
+                "label": "b^m"
+            },
+            {
+                "text": "Thats true",
+                "label": "aa"
+            },
+            {
+                "text": "But uh to the best of my ability Id like to do it until it gets impossible",
+                "label": "sd"
+            },
+            {
+                "text": "I think thats also where youre going to have lot of people who are going to - its theres not choice its --",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- because its not economically feasible even to --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- put them in nursing home",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So that that option sometimes is not available if they do not have the uh either Medicare or insurance to cover it",
+                "label": "sd"
+            },
+            {
+                "text": "Thats true Yeah",
+                "label": "sv"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "But I think nursing homes can be good It just depends on what kind they are You know you need to check them out ahead of time",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah and then theres also some that are set up for specialties --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh I know some Unfortunately some elderly have to go to or have I guess its Alzheimers or where --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- they wonder or or uh confused or have some mental problem",
+                "label": "+"
+            },
+            {
+                "text": "Yeah that theyre -",
+                "label": "b"
+            },
+            {
+                "text": "And you need special nursing home for that You need one that has unit thats locked where they are not able to get out and roam around --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and you need people who are trained for that type --",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "aa"
+            },
+            {
+                "text": "-- of problem",
+                "label": "+"
+            },
+            {
+                "text": "Who know what theyre doing with that",
+                "label": "bf"
+            },
+            {
+                "text": "Yeah so so theres different types of nursing homes I think",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah well my uh grandmothers not really in nursing home but retirement home that also has nursing home sort of attached to it And she really liked the idea of of moving there Shes not ill yet --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but uh she worked there as volunteer for about ten years and then she decided that uh shes eighty five years old that eventually you know she she doesnt want her family taking care of her and being burden Shes very independent So shes in this nursing home Its out in the country and uh she really enjoys it right now because she doesnt have to wash dishes or cook",
+                "label": "sd"
+            },
+            {
+                "text": "Gives her little bit of her own independence --",
+                "label": "bf"
+            },
+            {
+                "text": "uh-huh",
+                "label": "aa"
+            },
+            {
+                "text": "-- but she still has uh security there",
+                "label": "bf"
+            },
+            {
+                "text": "Right Some support And then theres also uh sort of wing for those people that do get sick and what I like about it and I think she likes about it is that she knows everybody there now and then so if she ever does become ill uh it will be like family around her",
+                "label": "aa"
+            },
+            {
+                "text": "Thats right and I --",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- Ive seen some of them like that too and also they have lot of uh activities going on for the ones --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- who are more active",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Sh- -",
+                "label": "b"
+            },
+            {
+                "text": "So its not sort of like uh uh --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- sick place",
+                "label": "+"
+            },
+            {
+                "text": "No she loves it She has great social life and she travels and uh its in in the very in the mountains and its beautiful and uh I I hope that I have something like that when I get older",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah I I think I think the uh --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- I think that the decision that needs to be made though on nursing home has to be joint one between the uh elderly --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh person whos going in and the family thats going to be uh effec- effected by it --",
+                "label": "+"
+            },
+            {
+                "text": "Oh definitely its -",
+                "label": "aa"
+            },
+            {
+                "text": "-- and uh you know sometimes it can those choi- those choices can be made in advance and sometimes --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- the choices because of the nature of the illness when theyre -",
+                "label": "+"
+            }
+        ]
+    }
+]

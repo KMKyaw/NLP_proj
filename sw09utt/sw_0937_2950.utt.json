@@ -1,0 +1,703 @@
+[
+    {
+        "conversation_id": "conv_2950",
+        "turns": [
+            {
+                "text": "Okay You want to get start",
+                "label": "o"
+            },
+            {
+                "text": "Certainly Uh the weather here is warm",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And it has been sort of raining on and off",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh I am an avid gardener so I - - measure the rain in our rain gauge on on regular basis So --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh great great",
+                "label": "ba"
+            },
+            {
+                "text": "-- I can can avoid wasting money on watering",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh but it has been threatening to rain for the last couple of days and it has not really Which is bit of disappointment But --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- it is very warm here which is typical for this part of the time of the year",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "How about Pennsyl- -",
+                "label": "qo"
+            },
+            {
+                "text": "I think you are I think you are earlier than we are as rule arent you Your your your - growing Summer starts lot earlier than ours",
+                "label": "qy^g"
+            },
+            {
+                "text": "It starts in uh March as rule",
+                "label": "na"
+            },
+            {
+                "text": "uh-huh See that is quite bit - we are just beginning People are have got their gardens in lot of them now We could still have frost",
+                "label": "b"
+            },
+            {
+                "text": "Really this late",
+                "label": "bh"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Could you have snow",
+                "label": "qy"
+            },
+            {
+                "text": "Uh probably not But we have had we have had frost as late as as in June",
+                "label": "nn"
+            },
+            {
+                "text": "Oh well",
+                "label": "sd"
+            },
+            {
+                "text": "Early June",
+                "label": "sd"
+            },
+            {
+                "text": "we do not have that problem",
+                "label": "+"
+            },
+            {
+                "text": "So but - we have also had nice weather An unusually uh nice Spring It is almost like an early Summer for us",
+                "label": "sd"
+            },
+            {
+                "text": "Oh that is nice",
+                "label": "ba"
+            },
+            {
+                "text": "uh-huh We could use little more rain",
+                "label": "aa"
+            },
+            {
+                "text": "Uh well",
+                "label": "sd"
+            },
+            {
+                "text": "I believe",
+                "label": "+"
+            },
+            {
+                "text": "we will be glad I will be glad to give you some of ours",
+                "label": "+"
+            },
+            {
+                "text": "Uh",
+                "label": "b"
+            },
+            {
+                "text": "Usually we get it in in great quantities in --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- April and May",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And then it stops for three months",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah If it could just be spread out little bit",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh uh-huh Yeah It has really been nice here uh we are supposed to have some rain this weekend but I dont know if well get it or not lot of times in our area the weather forecast has missed us The the weather they forecast for our area seems to go right past us and misses us Just by well not too many miles",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh Are you in an agricultural area",
+                "label": "b"
+            },
+            {
+                "text": "Yes uh-huh We have -",
+                "label": "ny"
+            },
+            {
+                "text": "Well I know the wea- I know the weather is very important for people who make their living off of",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "aa"
+            },
+            {
+                "text": "off of the land",
+                "label": "+"
+            },
+            {
+                "text": "Yeah We have quite few farmers We we live out in the country We are on farm but we are not farming --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- person Uh we have garden",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But uh but we are not farmers",
+                "label": "sd"
+            },
+            {
+                "text": "Huh Well you know there are some disadvantages to being down south",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And that is it gets so hot that you know lot of things die during the Summer from the heat",
+                "label": "sv"
+            },
+            {
+                "text": "Oh yeah They get burnt off",
+                "label": "aa"
+            },
+            {
+                "text": "They they really do",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and you have to be very careful to make sure you keep everything watered",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh Yeah Well and that makes it bad too because uh when more with water being at premium I know our aunt in California - they they have really been rationed on their water And it makes it real hard to have yard or uh or anything like that gar- their garden their farms Their farmers I guess are hurting because of that also",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah Well my parents are now in San Diego and and theyve got pebbles in their yard because they cant",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "almost nobody there has has lawns",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Well they are not allowed to water so what do you do",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^m"
+            },
+            {
+                "text": "Uh it is very it is very rough on them so -",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Actually I think I think it is pretty moderate here in Dallas Because the the Summers are extremely hot",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh But your humidity is different though than ours I think and it makes bit of difference too",
+                "label": "b"
+            },
+            {
+                "text": "Um what is your humidity like",
+                "label": "qw"
+            },
+            {
+                "text": "Oh I dont know I think our humidity is higher normally than what it is in Texas I could be wrong",
+                "label": "no"
+            },
+            {
+                "text": "Uh I do not know what what it is percentage wise but I -",
+                "label": "sd"
+            },
+            {
+                "text": "I do not know for sure either But it always seems well it just felt different like when we were in Texas It had different feel to it",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah It is it is drier in Dallas than it is in Houston or San Antonio --",
+                "label": "b"
+            },
+            {
+                "text": "Uh",
+                "label": "b"
+            },
+            {
+                "text": "-- or even Austin",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "which is further south",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But it is not dry And and I have lived here for many years and I think it has gotten more humid over the years Where the water is coming from I dont know",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Well it could be I know my brothers home has been flooded couple of times uh",
+                "label": "b"
+            },
+            {
+                "text": "Oh does he live near the lake",
+                "label": "qy"
+            },
+            {
+                "text": "Well there is lake not far but it is more run off --",
+                "label": "nd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- from surrounding you know areas and that",
+                "label": "+"
+            },
+            {
+                "text": "Uh",
+                "label": "b"
+            },
+            {
+                "text": "And uh he is just in an area where it is just low enough that its you know it it collects there",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh he has had couple of inches in his house several times",
+                "label": "sd"
+            },
+            {
+                "text": "That is that is problem uh they tell you when you are looking for house or or or buying land to build on",
+                "label": "ba"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "to be very careful and check the drainage --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "aa"
+            },
+            {
+                "text": "-- because uh",
+                "label": "+"
+            },
+            {
+                "text": "Because of that",
+                "label": "^2"
+            },
+            {
+                "text": "it is it is deceptive",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh I know exactly what you mean",
+                "label": "sd"
+            },
+            {
+                "text": "We are fortunate or uh we are on where we are we get flooded it floods below us",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "behind us But we are uh we are high enough that our house itself we never you know have had any problem like that",
+                "label": "+"
+            },
+            {
+                "text": "Oh well that is fortunate",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah It is an old farm house and uh we really like it here",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh Well I I like it I like it here Uh I I grew up here I have lived other places and and",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "but I I did grow up here and this is very much home for me",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And -",
+                "label": "%"
+            },
+            {
+                "text": "It is nice down there I I I liked it when we visited there",
+                "label": "sv"
+            },
+            {
+                "text": "I hope you visited during the winter",
+                "label": "qy^d"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "One of my one of my theories is that you always go to warm places during the winter and --",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- you go to cold cool places that well I go to cool places during the Summer if I can anyway",
+                "label": "+"
+            },
+            {
+                "text": "Right That is the best time to go Yeah An- and usually it has been when we have gone it has been nice It has been hot but it is it is hot to me in the wintertime down there",
+                "label": "aa"
+            },
+            {
+                "text": "Oh sure I mean -",
+                "label": "b"
+            },
+            {
+                "text": "You know But it is nice it is it is really nice area",
+                "label": "qh"
+            },
+            {
+                "text": "I I had friend from England visit once at Christmas and we could not get her out of the what she called the back garden",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "Because she wanted to go back with sunburn",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "And she went back to the north of England with sunburn",
+                "label": "sd"
+            },
+            {
+                "text": "Oh good heavens Not me I avoid the sun",
+                "label": "ba"
+            },
+            {
+                "text": "Well yeah basically I do too",
+                "label": "b"
+            },
+            {
+                "text": "Yeah it takes me about four and half hours to do to mow our grass And I try to cover up when I do the lawn",
+                "label": "b"
+            },
+            {
+                "text": "Well I that that is really healthier frankly",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah well I have had little couple of problems and uh I decided it is not worth it",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh That -",
+                "label": "b"
+            },
+            {
+                "text": "I I like to get tan in the Summer time because I think you look healthier And uh we are just crazy",
+                "label": "sv"
+            },
+            {
+                "text": "But you you know it is interesting because you get out in that sun an awful lot Now my sister is sun fiend",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh she is five years younger than me she is more wrinkled",
+                "label": "sd"
+            },
+            {
+                "text": "Is that right",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "It",
+                "label": "sv"
+            },
+            {
+                "text": "and I think that is why",
+                "label": "sv"
+            },
+            {
+                "text": "it just makes your skin more leathery It uh",
+                "label": "+"
+            },
+            {
+                "text": "Exactly",
+                "label": "aa"
+            },
+            {
+                "text": "it - yeah So -",
+                "label": "+"
+            },
+            {
+                "text": "I think it burns off the - I dont know the the the theory the scientific principle But it burns something off the natural oils --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- or something like that",
+                "label": "+"
+            },
+            {
+                "text": "Well the elasticity of your skin the collagen or whatever they call it They say it destroys lot of that",
+                "label": "sd"
+            },
+            {
+                "text": "Yes",
+                "label": "aa"
+            },
+            {
+                "text": "And you lose lot of that So uh -",
+                "label": "sd"
+            },
+            {
+                "text": "Yes uh that sounds like good that sounds like the right theory",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah but uh but we have really had nice - the weather - I cant complain We have really had really good weather of late",
+                "label": "b"
+            },
+            {
+                "text": "Good",
+                "label": "ba"
+            },
+            {
+                "text": "And when it has rained it ha- its been good soaking rain and uh it has just been really nice Spring",
+                "label": "sd"
+            },
+            {
+                "text": "Well that is great It has been it has been very nice here too And I hope it continues because my parents are coming to visit this evening and I want them to have --",
+                "label": "ba"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- nice weather for their visit --",
+                "label": "+"
+            },
+            {
+                "text": "Oh that is great",
+                "label": "ba"
+            },
+            {
+                "text": "-- instead of driving around in the rain",
+                "label": "+"
+            },
+            {
+                "text": "How long will they be there",
+                "label": "qw"
+            },
+            {
+                "text": "Uh probably four or five days",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Well that is great Well I hope the weather stays real good for them And",
+                "label": "b"
+            },
+            {
+                "text": "Well thank you",
+                "label": "ft"
+            },
+            {
+                "text": "and uh that you have good visit and everything",
+                "label": "+"
+            },
+            {
+                "text": "Thanks",
+                "label": "ft"
+            },
+            {
+                "text": "And I hope your garden does good",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah And the same to you",
+                "label": "b"
+            },
+            {
+                "text": "And so Okay Well it was really nice talking to you",
+                "label": "b"
+            },
+            {
+                "text": "pleasure",
+                "label": "fc"
+            },
+            {
+                "text": "And uh good luck in your this venture It is uh like I said it has been real interesting So I hope you enjoy it as much as I have been enjoying it",
+                "label": "fc"
+            },
+            {
+                "text": "I am sure I will In in fact if I had not been preparing for this the out of town visitors I probably would have been making some phone calls in the last couple --",
+                "label": "fc"
+            },
+            {
+                "text": "Yeah",
+                "label": "fc"
+            },
+            {
+                "text": "-- of days",
+                "label": "+"
+            },
+            {
+                "text": "I forget to The day goes by and I forget to make call usually",
+                "label": "fc"
+            },
+            {
+                "text": "Well I am glad you have broken the ice with me because now I will I will start doing it",
+                "label": "fc"
+            },
+            {
+                "text": "Great great",
+                "label": "fc"
+            },
+            {
+                "text": "Okay",
+                "label": "fc"
+            },
+            {
+                "text": "Okay",
+                "label": "fc^m"
+            },
+            {
+                "text": "Well thanks Jean",
+                "label": "fc"
+            },
+            {
+                "text": "Uh Bye-bye",
+                "label": "fc"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc^m"
+            }
+        ]
+    }
+]

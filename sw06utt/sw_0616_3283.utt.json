@@ -1,0 +1,287 @@
+[
+    {
+        "conversation_id": "conv_3283",
+        "turns": [
+            {
+                "text": "Okay Were talking about capital punishment",
+                "label": "o"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "How do you feel about that Lenore",
+                "label": "qo"
+            },
+            {
+                "text": "I am very much for capital punishment",
+                "label": "sd"
+            },
+            {
+                "text": "Well wonderful I am too one hundred percent",
+                "label": "ba"
+            },
+            {
+                "text": "My Dad retired from the federal prison of bureaus",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And Ive been raised around prison --",
+                "label": "sd"
+            },
+            {
+                "text": "All your life",
+                "label": "^2"
+            },
+            {
+                "text": "-- prisons all my life",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I believe if you dont have punishment befitting the crime theres --",
+                "label": "sv"
+            },
+            {
+                "text": "Theres no deterrent",
+                "label": "^2"
+            },
+            {
+                "text": "-- not any deterrent",
+                "label": "+"
+            },
+            {
+                "text": "Thats right Theres just no deterrent",
+                "label": "aa"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "And so many of those kind of people they got they have better life in prison than they have on the street anyway so you know unless they really make it rough on them thats not going to prison for little while is not much of deterrent I dont think",
+                "label": "sv"
+            },
+            {
+                "text": "Especially not federal prison",
+                "label": "bf"
+            },
+            {
+                "text": "Right Well I dont know what Oklahomas laws are but Texass I dont know are - I dont know its its no ones - I mean its not the judges fault I dont think Its just the way the law is down here Man our cr- our uh prisons are so crowded that uh they can commit some pretty serious crimes and be set free within year to two",
+                "label": "aa"
+            },
+            {
+                "text": "Well see we were under uh the states prisons were under mandate to uh - it was over crowded and the federal came in and said hey you know you have either got to build more prisons or let people go",
+                "label": "sd"
+            },
+            {
+                "text": "Well thats what ours did same thing",
+                "label": "sd"
+            },
+            {
+                "text": "And finally our governor at the time which who is not in office now came in and said okay where we draw the line is no sex offenders will be let loose",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Under early bail you know --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "-- or early uh --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "-- get out",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "But uh we have - the death penalty is not given often",
+                "label": "%"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "aa"
+            },
+            {
+                "text": "But there have been - -",
+                "label": "%"
+            },
+            {
+                "text": "Its not here either really",
+                "label": "sd"
+            },
+            {
+                "text": "And you know I - maybe it should be uh well it should be given you know I I wont say sparingly but I do believe it should be befitting the crime",
+                "label": "%"
+            },
+            {
+                "text": "I do too and and you know but the way the courts are set up theyve theyve got so many chances for appeal but I think th- I think it needs to be expedited You know if theyve been convicted and given an appeal and theyre still convicted of of crime thats deserving of of lethal injection lets do it and not waste so many years to do it",
+                "label": "aa"
+            },
+            {
+                "text": "Right Of course you know theyre theyre entitled to speedy trial",
+                "label": "b"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "But then theyre theyre also entitled to drag it through the courts --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- for years and years --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "-- and years on appeals So --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- somehow you know it doesnt really balance out too much",
+                "label": "+"
+            },
+            {
+                "text": "Thats right Somehow it just doesnt it works and then again it takes too long for it to work",
+                "label": "aa"
+            },
+            {
+                "text": "And it seems even though you know that they got - the prisoner himself can come to the point that hey Im tired I just want out",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know Im tired of fighting it",
+                "label": "^q"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "Then the system just keeps on",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh yeah Yeah it equ- -",
+                "label": "aa^r"
+            },
+            {
+                "text": "And at that point you know I I really think there needs to be maybe shorter appeal process",
+                "label": "sv"
+            },
+            {
+                "text": "I do too I think that needs to - and I dont see why it couldnt be shortened considerably But you know -",
+                "label": "aa"
+            },
+            {
+                "text": "Well part of that is the overcrowding of the court system",
+                "label": "sd"
+            },
+            {
+                "text": "Yea- thats true It is overcrowded because theres so much drug uh problem with the people on drugs because that ha- - they with the drugs theyre theyre robbing and killing and uh thats why its filled the prisons up so much I think",
+                "label": "%"
+            },
+            {
+                "text": "Uh it doesnt it doesnt help them any at all --",
+                "label": "sv"
+            },
+            {
+                "text": "No it doesnt",
+                "label": "aa"
+            },
+            {
+                "text": "-- and of course your court system when you get into the appeals - I dont believe criminal is in court by itself And the whole judicial system is backed up with lot of junk that shouldnt be in there",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah thats true With all these lawsuits and people suing people over ridiculous things - but -",
+                "label": "aa"
+            },
+            {
+                "text": "Weve gotten into very litigious uh type of life",
+                "label": "sv"
+            },
+            {
+                "text": "Boy havent that we though We really have But anyway Im glad to hear that you agree with me on the capital punishment",
+                "label": "aa"
+            },
+            {
+                "text": "Well I just -",
+                "label": "%"
+            },
+            {
+                "text": "Im Im very muchly for it Always have been always will be",
+                "label": "sd"
+            },
+            {
+                "text": "I just feel like their crime and punishment and if if you dont have the punishment you double your crime And the you know that is just personal feeling Its not going on facts I think --",
+                "label": "sv"
+            },
+            {
+                "text": "It could be supportive It its --",
+                "label": "^2"
+            },
+            {
+                "text": "-- the facts would probably back it up but -",
+                "label": "+"
+            },
+            {
+                "text": "-- its supported with facts though",
+                "label": "+"
+            },
+            {
+                "text": "What",
+                "label": "br"
+            },
+            {
+                "text": "It could very easily be supported with facts",
+                "label": "sv^r"
+            },
+            {
+                "text": "Well yes I -",
+                "label": "aa"
+            }
+        ]
+    }
+]

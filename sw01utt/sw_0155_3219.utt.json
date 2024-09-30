@@ -1,0 +1,303 @@
+[
+    {
+        "conversation_id": "conv_3219",
+        "turns": [
+            {
+                "text": "Okay why dont you start so you probably have job you need to get to pretty soon",
+                "label": "o"
+            },
+            {
+                "text": "Im already on my job --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh you are",
+                "label": "bf"
+            },
+            {
+                "text": "-- so you you reached me at my job",
+                "label": "sd^t"
+            },
+            {
+                "text": "Oh wonderful well how do you dress for work",
+                "label": "ba"
+            },
+            {
+                "text": "My my dress for work uh most of the time is uh rather comfortable and casual --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh usually uh slacks and soft colored shirt The um thing that that distinguishes me lot of the time when I have to dress real professionally for meeting or something is I wear clerical collar --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and suit and uh all of that sort of thing but when I dont need to dress up for meeting or --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- service of some sort I dont",
+                "label": "+"
+            },
+            {
+                "text": "So youre in church there",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh Well Im working this is my first morning to work down at our little church preschool and theyve told me to wear just something terribly comfortable because these are two year olds and they have lot of uh they have BIBLE lessons and they have all the things during the morning but they still have snack time and play time so Im going to be dressing just in casual slacks and -shirts probably not blue jeans but little bit short of that just just tennis shoes and play clothes",
+                "label": "b"
+            },
+            {
+                "text": "Well around there you can probably wear uh -shirts and other things but around here at this time of the year --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- we are into sweaters --",
+                "label": "+"
+            },
+            {
+                "text": "Im envious",
+                "label": "sd"
+            },
+            {
+                "text": "-- and uh coats",
+                "label": "+"
+            },
+            {
+                "text": "Well its beautiful day here and its in the sixties but we still have lot of hot afternoons its supposed to be eighty-five today so youll still see people it its kind of an in between change that theyre in their play clothes I mean theyre in their summer clothes during the afternoons because you just cant stand the sweaters but in the mornings people are dressing for work in their sweaters because they just want it to be fall so badly",
+                "label": "sd"
+            },
+            {
+                "text": "Today today we we wear coats and --",
+                "label": "sd"
+            },
+            {
+                "text": "Did you",
+                "label": "bh"
+            },
+            {
+                "text": "-- as the day uh warms up we may go to light jackets but I dont think theres an escape from light jackets",
+                "label": "+"
+            },
+            {
+                "text": "I understand",
+                "label": "ba"
+            },
+            {
+                "text": "The wind will take away lot of body heat",
+                "label": "sd"
+            },
+            {
+                "text": "Well so are the people around you um dressing similar to you",
+                "label": "qy"
+            },
+            {
+                "text": "Very similar",
+                "label": "na"
+            },
+            {
+                "text": "uh-huh so you dont have to you dont have to buy the lot of the wardrobe that some of the people in banking and that kind of thing do",
+                "label": "b"
+            },
+            {
+                "text": "No Im not stuck with that --",
+                "label": "aa"
+            },
+            {
+                "text": "Well thats good",
+                "label": "ba"
+            },
+            {
+                "text": "-- kind of uh situation",
+                "label": "+"
+            },
+            {
+                "text": "Thats good",
+                "label": "ba^r"
+            },
+            {
+                "text": "As I say unless it happens to be - now yesterday I had to dress up and --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh be more formal because I had formal meeting at noon time but then I can go home later in the day and and be little more casual --",
+                "label": "+"
+            },
+            {
+                "text": "Well thats wonderful",
+                "label": "ba"
+            },
+            {
+                "text": "-- and then if I have meeting of people that I know I can be very casual in the evening",
+                "label": "sd"
+            },
+            {
+                "text": "Well my husband has to take the bus into Dallas and doesnt return all day so he has to dress and he just really hates it they have the long sleeve shirts and the whole tie and the whole suit and even when his job is not going to be with people all day long he said its just part of the uniform and the expected image that they have to dress",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah thats around here in lot of places thats the way it is --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- I mean there there are ex- expected uh dress codes --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and the people need to follow that I think uh years ago I used to be far more uh committed to the idea of of dress code --",
+                "label": "x"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but Ive relaxed lot more as Ive gotten older and become more comfortable with myself",
+                "label": "sd"
+            },
+            {
+                "text": "Well I think thats I think thats great I think thats good",
+                "label": "ba"
+            },
+            {
+                "text": "Its taken long time to break away from from that --",
+                "label": "sd"
+            },
+            {
+                "text": "I understand",
+                "label": "ba"
+            },
+            {
+                "text": "-- but now that Ive broken away from it Im Im glad I have",
+                "label": "sd"
+            },
+            {
+                "text": "Well another interesting thing on the our our end here is how even in my forties how much younger I dress than my mother would have in her forties and I will run around to the store in things in slacks and tennis shoes and she -",
+                "label": "sd"
+            },
+            {
+                "text": "You mean you dont need to wear little old house dresses any more",
+                "label": "bf"
+            },
+            {
+                "text": "Right and pearls - and she would not have even probably owned pair of tennis shoes after she got out of high school so uh she tells me I dress young but thats okay",
+                "label": "aa"
+            },
+            {
+                "text": "Thats good idea thats good idea",
+                "label": "ba"
+            },
+            {
+                "text": "Well theres not lot more I can think of to discuss on clothing",
+                "label": "sd^t"
+            },
+            {
+                "text": "No there you know -",
+                "label": "aa"
+            },
+            {
+                "text": "I guess this is what you call natural end",
+                "label": "sv^t"
+            },
+            {
+                "text": "Yeah what kind what kind of shoes do they wear down there",
+                "label": "aa"
+            },
+            {
+                "text": "Well we wear - of course like I said if my husbands going downtown hes got the whole uh you know the dress mens dress shoes --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but for as out here just anything that the moms - we all kind of have our own little dress code of just either tennis shoes or little loafers and and uh tights and things that feel comfortable to us around our kids",
+                "label": "sd"
+            },
+            {
+                "text": "We we can wear pretty much that although um tennis shoes are kind of out --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Im sure they are there",
+                "label": "aa"
+            },
+            {
+                "text": "-- in in almost every every situation --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Im sure they are",
+                "label": "aa^r"
+            },
+            {
+                "text": "-- unless you want to look like gook",
+                "label": "+"
+            },
+            {
+                "text": "Thats right Im sure that true Its lot different than working in kids preschool",
+                "label": "aa"
+            },
+            {
+                "text": "lot different",
+                "label": "b^m"
+            },
+            {
+                "text": "Thats right Well you all have nice day there",
+                "label": "aa"
+            },
+            {
+                "text": "You too and thank you for calling",
+                "label": "fc"
+            },
+            {
+                "text": "Thank you very much",
+                "label": "ft"
+            },
+            {
+                "text": "uh-huh",
+                "label": "fc"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc"
+            },
+            {
+                "text": "Bye",
+                "label": "fc"
+            }
+        ]
+    }
+]

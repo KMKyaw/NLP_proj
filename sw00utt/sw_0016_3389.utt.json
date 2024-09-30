@@ -1,0 +1,435 @@
+[
+    {
+        "conversation_id": "conv_3389",
+        "turns": [
+            {
+                "text": "So whos your favorite team",
+                "label": "qw"
+            },
+            {
+                "text": "My favorite team is the Pittsburgh Steelers",
+                "label": "sd"
+            },
+            {
+                "text": "Pittsburgh",
+                "label": "br^m"
+            },
+            {
+                "text": "You bet",
+                "label": "na"
+            },
+            {
+                "text": "I used to be big Pittsburgh fan when I was little",
+                "label": "sd"
+            },
+            {
+                "text": "Well I uh - when John Stallworth played he was from my hometown in Alabama",
+                "label": "%"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "so I kind of grabbed on to that team",
+                "label": "sd"
+            },
+            {
+                "text": "Huh Thats pretty nice",
+                "label": "%"
+            },
+            {
+                "text": "way back when",
+                "label": "+"
+            },
+            {
+                "text": "Yeah thats good I I used to watch them lot when they were playing the big iron curtain",
+                "label": "b"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "or steel curtain",
+                "label": "+"
+            },
+            {
+                "text": "How about your favorite team",
+                "label": "qw"
+            },
+            {
+                "text": "Huh Well last year it was Buffalo and I I still try to keep up with Buffalo because they just they just impressed me as being so efficient and they never score They never blow out their opponents They just score just enough points",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and that really impressed me But then down here I li- - is pretty close to New Orleans and Ive been keeping up with the Saints lot",
+                "label": "sd"
+            },
+            {
+                "text": "Well they are exciting arent they",
+                "label": "qy^g"
+            },
+            {
+                "text": "Yeah the Saints are starting to impress me this year you know lot",
+                "label": "ny"
+            },
+            {
+                "text": "Boy they are they are just fun team to watch",
+                "label": "ba"
+            },
+            {
+                "text": "This it they are really Did you see the game Sunday night or",
+                "label": "aa"
+            },
+            {
+                "text": "Uh",
+                "label": "nn"
+            },
+            {
+                "text": "Sunday afternoon",
+                "label": "+"
+            },
+            {
+                "text": "no I didnt",
+                "label": "+"
+            },
+            {
+                "text": "It was funny There were they ha- uh fireworks display at halftime",
+                "label": "sv"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah and some paper or something in the Super Dome up in the roof caught on fire",
+                "label": "ny^m"
+            },
+            {
+                "text": "Oh youre kidding",
+                "label": "ba"
+            },
+            {
+                "text": "So they had to stop the game in lieu of the third quarter --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh my gos- -",
+                "label": "ba"
+            },
+            {
+                "text": "-- and put out this fire Those big piece of something came flaming falling out of the roof and landed on the field so theres this big fire on the field and they were dumping the Gatorade bucket and everything",
+                "label": "+"
+            },
+            {
+                "text": "Oh I cant believe that",
+                "label": "ba"
+            },
+            {
+                "text": "It was funn- I mean you just really cant tell whats going to happen",
+                "label": "sv"
+            },
+            {
+                "text": "Thats hilarious",
+                "label": "ba"
+            },
+            {
+                "text": "I know Its like about two weeks ago I was watching the Saints",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And Morton Anderson kicked sixty yard field goal",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "And it it was beautiful right down the middle",
+                "label": "sd"
+            },
+            {
+                "text": "Oh boy He is tough he has --",
+                "label": "ba"
+            },
+            {
+                "text": "He is",
+                "label": "aa"
+            },
+            {
+                "text": "-- an incredible leg",
+                "label": "+"
+            },
+            {
+                "text": "Yes",
+                "label": "aa"
+            },
+            {
+                "text": "Well do you think theyre theyre going to be able to make it this year",
+                "label": "qy"
+            },
+            {
+                "text": "Uh I -",
+                "label": "sd"
+            },
+            {
+                "text": "past the first playoff game",
+                "label": "+"
+            },
+            {
+                "text": "I sure hope so Im not sure Im not sure who they play Right now Ive got it narrowed down to the top four teams",
+                "label": "+"
+            },
+            {
+                "text": "Whos that",
+                "label": "qw"
+            },
+            {
+                "text": "Its pretty much going between Washington They are undefeated",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And uh Buffalo New Orleans and Chicago because Chicago has only lost twice and one of those was to Buffalo And they beat the Saints Their only time they lost",
+                "label": "+"
+            },
+            {
+                "text": "What do you think about uh Houston",
+                "label": "qo"
+            },
+            {
+                "text": "Houston I saw Houston play this summer in Memphis",
+                "label": "b^m"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah Uh from what I saw they were playing - when I was at the game we sat right on the front row",
+                "label": "ny"
+            },
+            {
+                "text": "Huh",
+                "label": "%"
+            },
+            {
+                "text": "right behind the Houston Oilers and from what I saw the game Houston Houston impressed me lot",
+                "label": "+"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "But my brother watched it on and said that Warren Moon was just having an off night and if that was an off night Id hate to see when hes on good night",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah hes --",
+                "label": "b"
+            },
+            {
+                "text": "Hes -",
+                "label": "%"
+            },
+            {
+                "text": "-- he definitely uh is one of the best I think",
+                "label": "+"
+            },
+            {
+                "text": "Yeah the their their backfield is really impressive Haywood Jeffreys and Drew Hill --",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- and Allen they really impress me",
+                "label": "+"
+            },
+            {
+                "text": "Well they squeaked out game on Sunday",
+                "label": "sd"
+            },
+            {
+                "text": "Thats right Who who did they play",
+                "label": "aa"
+            },
+            {
+                "text": "They played Dallas",
+                "label": "sd"
+            },
+            {
+                "text": "Dallas thats right",
+                "label": "b^m"
+            },
+            {
+                "text": "They won",
+                "label": "sd"
+            },
+            {
+                "text": "all because -",
+                "label": "%"
+            },
+            {
+                "text": "in overtime",
+                "label": "+"
+            },
+            {
+                "text": "Thats right I remember that now",
+                "label": "aa"
+            },
+            {
+                "text": "So that was - I I watched that game and uh that was uh -",
+                "label": "%"
+            },
+            {
+                "text": "Do you have favorite between those two",
+                "label": "qy"
+            },
+            {
+                "text": "Well because Im right here in Dallas I I kind of pull for Dallas",
+                "label": "na"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah Well also Houston is uh in Pittsburghs division so",
+                "label": "ny"
+            },
+            {
+                "text": "Well thats true",
+                "label": "aa"
+            },
+            {
+                "text": "Ill almost always root against them",
+                "label": "+"
+            },
+            {
+                "text": "I hate to say it but I hate Dallas",
+                "label": "h"
+            },
+            {
+                "text": "Thats okay Well I you know I I was never really big Dallas fan --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- until we moved here and they just kind of grew on me",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I imagine Thats the way Ive never been big Saints fan until the last year or two and they theyve actually started doing something",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So Ive actually pl- paid attention to them",
+                "label": "sd"
+            },
+            {
+                "text": "Well -",
+                "label": "%"
+            },
+            {
+                "text": "Well do you know anything about the expansion teams theyre thinking about bringing in",
+                "label": "qy"
+            },
+            {
+                "text": "To tell you the truth I havent paid too much attention to that",
+                "label": "^h"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "Um what cities are they looking at",
+                "label": "qw"
+            },
+            {
+                "text": "Uh right now I think this Memphis theyre theyre trying to get the teams",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And thats thats where I was when I saw uh",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Houston play Saint Louis is trying to get team Uh Baltimore is trying to get team and theres some other city Im wanting to say Raleigh Durham but Im not sure",
+                "label": "+"
+            },
+            {
+                "text": "You know I think you are right I think it is Raleigh",
+                "label": "aa"
+            },
+            {
+                "text": "Think so",
+                "label": "bh"
+            },
+            {
+                "text": "I think I remember hearing that",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh Because I know theyve got football team but I think it might be them",
+                "label": "b"
+            },
+            {
+                "text": "That would be fun Id like to see some more teams get in",
+                "label": "sv"
+            },
+            {
+                "text": "I would definitely I think they are supposed to put two in by either next year or the year after And right now I think Memphis and its Memphis and I think Baltimore have really good shot at it",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Because I know Saint Louis is much bigger than Memphis and when I went up there they were saying that Memphis sold more tickets than Saint Louis did",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah Its like the Liberty Bowl or Liberty Stadium in Memphis holds about sixty-two -",
+                "label": "ny"
+            }
+        ]
+    }
+]

@@ -1,0 +1,239 @@
+[
+    {
+        "conversation_id": "conv_3129",
+        "turns": [
+            {
+                "text": "Well Tom just tonight I was working on my car out of necessity and I had uh uh had long age-old problem of my bright lights not working uh this is the type of uh switch where you flip the the lever the turn signal on the column --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and when I would uh put it in the bright light position the lights would go out completely which is even worse than them just not getting bright",
+                "label": "sd"
+            },
+            {
+                "text": "Exactly",
+                "label": "aa"
+            },
+            {
+                "text": "And I had presumed that it was the switch and uh this is uh an older car its seventy-two so I had to mail order the part uh which I had done and tonight I went out and uh at least hooked in the new part only to discover that that apparently is not the problem its not in the switch because it does the same thing with the new switch",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "So Ill be faced with having to return that product and uh hoping that uh you know that they will accept it although its been removed from the box its obviously not been really used",
+                "label": "sd"
+            },
+            {
+                "text": "Did you do the diagnosis or was it just an assumption that thats probably the part that failed",
+                "label": "qr"
+            },
+            {
+                "text": "Uh I had done what diagnosis I could primarily by looking at wiring diagram that I did have of the car --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh pretty much decided that that had to be the problem I talked to one mechanic about it and he suspected the switch also Uh but Ive not you know - I really dont know what the problem might be It it the other switch could be the main switch itself uh that turns the lights on or off which is on the dashboard --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh it might be tied into the equation somehow but -",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah I know uh when working with the uh flashers there is uh usually special fuse that operates the flashers Do you have separate fuse for your high beam --",
+                "label": "b"
+            },
+            {
+                "text": "I --",
+                "label": "no"
+            },
+            {
+                "text": "-- as opposed to your low beam",
+                "label": "+"
+            },
+            {
+                "text": "-- I dont know I should look at that I dont remember seeing one in the uh in the diagram --",
+                "label": "+"
+            },
+            {
+                "text": "Diagram",
+                "label": "^2"
+            },
+            {
+                "text": "-- so Ill have to go back and look at that",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I dont even know if my current cars have separate fuse I know sometimes when you think there are things running while theyre at the same unit like the headlamp --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you tend to think well theres one fuse operating the whole thing but sometimes the extra amperage that high beam drives as opposed to low beam requires uh the use of of maybe higher fuse",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Yeah thats good idea",
+                "label": "b"
+            },
+            {
+                "text": "So thats possibility",
+                "label": "sv"
+            },
+            {
+                "text": "What Ive typically found when that uh - companies are pretty good about accepting returns on products like that when theyre not needed after all and I hope that thats the case this time",
+                "label": "sd"
+            },
+            {
+                "text": "Is this mail order parts house that specializes in in parts for parts for uh old imports",
+                "label": "qy"
+            },
+            {
+                "text": "Right exactly --",
+                "label": "na"
+            },
+            {
+                "text": "Who -",
+                "label": "%"
+            },
+            {
+                "text": "-- its out of Kansas --",
+                "label": "sd"
+            },
+            {
+                "text": "Um --",
+                "label": "b"
+            },
+            {
+                "text": "-- somewhere",
+                "label": "+"
+            },
+            {
+                "text": "-- so its not Whitney or somebody like that",
+                "label": "qy^d"
+            },
+            {
+                "text": "No its not I also got piece of chrome for the the hood that they had indicated was the right part for this car but it is not either its obviously doesnt quite fit so it must be for different year so Ill have to try to return that as well",
+                "label": "nn"
+            },
+            {
+                "text": "Yeah have you found any uh uh reliable import service people in the metroplex",
+                "label": "b"
+            },
+            {
+                "text": "Well I had one person that I used for years and years on this car because Ive owned this car since it was new and uh - but its over like in the Brook Hollow industrial district down on Stemmons and --",
+                "label": "na"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- Inwood area --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and I hadnt used him for some years and the last time I called him back it turned out that he had further specialized instead of uh all import cars he has narrowed it down to where he only works on uh German cars and pause German cars",
+                "label": "sd"
+            },
+            {
+                "text": "Ill be darned",
+                "label": "ba"
+            },
+            {
+                "text": "Im not sure that he works on much else at all but he doesnt work on British cars any more and gave me the name of somebody else to take look at it So uh uh I may have to check with that person as it turns out that one that shop is near where I now work So Ill uh I should be able to take it in and check that part out Ive not had to exchange any other parts recently because they were defective Now Ive had had pretty good luck I just however did uh have to get uh one of these jam box portable dual cassette players uh repaired",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I purchased it at Sams and I had assumed that it had ninety day warranty and I should have checked more carefully and done better job of saving the receipt because I didnt take it in right away and let whole year go by Uh some of the buttons didnt work right where you had to actually physically hold them down to get it to record or to play and as it turned out it had full years warranty and I could have gotten it repaired for free but --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh my goodness",
+                "label": "ba"
+            },
+            {
+                "text": "-- I had to take it in while it was in the shop I ended up finding the receipt that I thought had long since been lost uh but it didnt do me any good because I had I had missed the window by about week or two",
+                "label": "+"
+            },
+            {
+                "text": "Oh no",
+                "label": "ba"
+            },
+            {
+                "text": "So I didnt even I didnt really uh even bring it up when I went in to pick it up But uh thats really my only experience in the past year where Ive had to take product back because of defect",
+                "label": "sd"
+            },
+            {
+                "text": "Well ours wasnt within the last year I guess its been within the last two years uh Judy has an Oldsmobile that we bought new and its one with the uh electronic ignition and the computer controlled mixer and uh - I dont know what else it all controls but the fuel mixture and cruise control and things of that sort and we found that the uh uh we were having two problems It was idling fast when you first started the engine to the point that we park on hill under our car port and it when you first dropped it into geared it would immediately want to back up into the alley and knowing that you always had to keep your foot on the brake hard otherwise it would just wrench control away from you",
+                "label": "sd"
+            },
+            {
+                "text": "Good grief",
+                "label": "ba"
+            },
+            {
+                "text": "And the other problem Judy would have is occasionally she would uh be driving along uh decelerating like coming to stop sign but not yet stopped at the stop sign --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and the engine would just quit So we took it back to the uh Oldsmobile place and asked them to check it out and at first they thought it was just matter of timing so they adjusted timing and the problem didnt go away so we ended up taking it back again and I dont know why they dont look at these things the first time around but the second time around they looked at their uh recall service and their service reports from region or headquarters whatever and and they had description of the exact problem we were experiencing that apparently was programming error --",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "-- in the uh computer control unit which fortunately they replaced under warranty because it was about three hundred or three hundred and fifty dollar part --",
+                "label": "+"
+            },
+            {
+                "text": "My goodness",
+                "label": "ba"
+            },
+            {
+                "text": "-- and uh so once they replaced it then the the car seemed to work fine --",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "-- for considerable period of time and now it seems to be - we don- were not experiencing the stalling but were still experiencing very uneven -",
+                "label": "+"
+            }
+        ]
+    }
+]

@@ -1,0 +1,547 @@
+[
+    {
+        "conversation_id": "conv_3231",
+        "turns": [
+            {
+                "text": "Do you or your husband work for I or -",
+                "label": "qy"
+            },
+            {
+                "text": "Im contract person at I --",
+                "label": "na"
+            },
+            {
+                "text": "Oh are you -",
+                "label": "bk"
+            },
+            {
+                "text": "-- in fact involved with uh Data Switchboard --",
+                "label": "+"
+            },
+            {
+                "text": "Oh I see Well thats neat",
+                "label": "bk"
+            },
+            {
+                "text": "-- and uh do you work for I",
+                "label": "qy"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "bk"
+            },
+            {
+                "text": "So Ive worked for them for several years like twelve now I guess",
+                "label": "sd"
+            },
+            {
+                "text": "Oh you sound very young --",
+                "label": "sd"
+            },
+            {
+                "text": "Right I try to",
+                "label": "b"
+            },
+            {
+                "text": "-- like just out of college",
+                "label": "+"
+            },
+            {
+                "text": "I try to think of myself as young but uh well have you seen any movies recently",
+                "label": "sd"
+            },
+            {
+                "text": "Uh Im trying to think we saw uh DANCES WITH WOLVES --",
+                "label": "^h"
+            },
+            {
+                "text": "Oh did you",
+                "label": "bh"
+            },
+            {
+                "text": "-- and uh have you seen that one",
+                "label": "qy"
+            },
+            {
+                "text": "No I havent I --",
+                "label": "nn"
+            },
+            {
+                "text": "That was excellent",
+                "label": "sv"
+            },
+            {
+                "text": "-- have have hard time with movies that are real long I dont know",
+                "label": "+"
+            },
+            {
+                "text": "Well so oddly enough I do too I get tired of sitting there and --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- so does my husband but we both just thoroughly you know --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- enjoyed it just really liked it --",
+                "label": "+"
+            },
+            {
+                "text": "Well Ive heard lot of good things about it",
+                "label": "sd"
+            },
+            {
+                "text": "-- and uh Im trying to think we went to see uh real funny one I cant think now what the name of it was --",
+                "label": "^h"
+            },
+            {
+                "text": "Was it",
+                "label": "o@"
+            },
+            {
+                "text": "-- Ive gone blank",
+                "label": "sd"
+            },
+            {
+                "text": "Uh we my wife and I went and saw couple of funny ones We saw THE NAKED GUN TWO AND HALF --",
+                "label": "+@"
+            },
+            {
+                "text": "Oh we have not seen that we want to see that one",
+                "label": "sd"
+            },
+            {
+                "text": "-- and that was that was pretty funny and then we saw - what was the spoof on TOP GUN its -- -",
+                "label": "sv"
+            },
+            {
+                "text": "Oh I havent seen that one",
+                "label": "sd"
+            },
+            {
+                "text": "-- oh I cant think of what that was called We saw that too tha- - I was pretty disappointed in that one",
+                "label": "sd"
+            },
+            {
+                "text": "Were you",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah but uh so you know through the summer - we have small children so we dont get to see too many but weve seen I guess two or three movies this past summer",
+                "label": "aa"
+            },
+            {
+                "text": "My husband doesnt enjoy the shows as much going to them he likes to rent them --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and so we watch lot of them you know at home --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- as they come out and uh -",
+                "label": "+"
+            },
+            {
+                "text": "Have you seen GHOSTS yet",
+                "label": "qy"
+            },
+            {
+                "text": "Yes yes",
+                "label": "ny"
+            },
+            {
+                "text": "I really I enjoyed that movie",
+                "label": "sd"
+            },
+            {
+                "text": "Did you Now I I was real disappointed --",
+                "label": "bh"
+            },
+            {
+                "text": "Really",
+                "label": "b"
+            },
+            {
+                "text": "-- Im real big Patrick Swayze fan --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh I was really disappointed in it it was- - one - I dont think it was as funny as what I was an- anticipating and I guess I was expecting it to be kind of funny --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah well -",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh and it wasnt --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- you know at all it was it was more of love story --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh so I was really disappointed in that because I like him --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- real well We just got through watching one with uh uh is it Claude Van Damme --",
+                "label": "+"
+            },
+            {
+                "text": "Uh Van Damme yeah I think",
+                "label": "^2"
+            },
+            {
+                "text": "-- yeah and uh enjoyed it I cant think what the name of - it was uh of course one of the typical --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- you know kicking fighting --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- lots of blood and guts and all that --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- type movie and and we enjoyed that and uh the uh uh the one with Jody Foster did you see it",
+                "label": "+"
+            },
+            {
+                "text": "Oh SILENCE OF THE LAMBS",
+                "label": "qy"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "Yes I did",
+                "label": "ny"
+            },
+            {
+                "text": "Wasnt that excellent",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah I really enjoyed that lot",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah that was one that that stayed with me --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know for month I just - I kept thinking about it you know",
+                "label": "+"
+            },
+            {
+                "text": "Yeah well its amazing but really I mean when you stop and think about it Anthony Perkins didnt have that big role in the movie --",
+                "label": "b"
+            },
+            {
+                "text": "No",
+                "label": "aa"
+            },
+            {
+                "text": "-- and yet it was his character that was so intriguing",
+                "label": "sv"
+            },
+            {
+                "text": "Oh it was excellent and and of course hes such uh very good actor anyway --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and I think he made the movie",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah I do too I really did --",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- you know Jody Foster was good too but I think I think Anthony Perkins was the one that that really made the movie I agree with you",
+                "label": "sv"
+            },
+            {
+                "text": "Is it Anthony Perkins or Anthony Hopkins",
+                "label": "qr"
+            },
+            {
+                "text": "Oh Hopkins Im sorry --",
+                "label": "sd"
+            },
+            {
+                "text": "Hopkins uh-huh",
+                "label": "b^m"
+            },
+            {
+                "text": "-- Hopkins yeah I always get those --",
+                "label": "b^r"
+            },
+            {
+                "text": "I know --",
+                "label": "b"
+            },
+            {
+                "text": "-- mixed up",
+                "label": "+"
+            },
+            {
+                "text": "-- I know It uh well - Im not real big Jody Foster fan but I thought she was good in that",
+                "label": "b"
+            },
+            {
+                "text": "Well I agr- well I havent been - Im I saw her in THE KEYS and I thought that was pretty good movie but I thought she -",
+                "label": "%"
+            },
+            {
+                "text": "Now I didnt see that one",
+                "label": "%"
+            },
+            {
+                "text": "That was that was pretty interesting movie and uh but you know I I did I really liked the SILENCE OF THE LAMBS that was really intriguing and it it didnt scare me all that much you know and I I dont like to go to movies to be scared thats not why I go --",
+                "label": "sv"
+            },
+            {
+                "text": "No no --",
+                "label": "aa"
+            },
+            {
+                "text": "-- so -",
+                "label": "%"
+            },
+            {
+                "text": "-- I like good suspenseful --",
+                "label": "sd"
+            },
+            {
+                "text": "Right and that one was",
+                "label": "b"
+            },
+            {
+                "text": "-- story and that one very definitely kept you on the edge of the seats in fact I want to uh rent it when it comes out for my husband to see because he didnt -- -",
+                "label": "+"
+            },
+            {
+                "text": "Oh he didnt see it",
+                "label": "qy"
+            },
+            {
+                "text": "-- he wont go see that no --",
+                "label": "ng"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "-- I went with uh our daughter --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh so you know saw it with her and uh enjoyed it My all time favorite is WEEKEND AT BERNIES",
+                "label": "+"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "Did you see it",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah Ive seen it",
+                "label": "ny"
+            },
+            {
+                "text": "Oh Ive seen it you know we saw it at the movies and then weve rented it several times --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and we just love it in fact we have ten year old grandson that he and my husband and I we just sit there and cackle --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Yeah Ive seen that",
+                "label": "b"
+            },
+            {
+                "text": "-- you know just get hysterical",
+                "label": "+"
+            },
+            {
+                "text": "Its pretty its pretty cute I guess you know as far as comedies go probably my favorite is YOUNG FRANKENSTEIN",
+                "label": "sv"
+            },
+            {
+                "text": "Uh yes yes",
+                "label": "b"
+            },
+            {
+                "text": "I love that movie",
+                "label": "sd"
+            },
+            {
+                "text": "My husband liked that --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah so -",
+                "label": "b"
+            },
+            {
+                "text": "-- uh hes big Gene Wilder fan",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah well Gene Wilder doesnt do that much for me but Im big uh Mel Brooks fan --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- all his movies I really really -",
+                "label": "%"
+            },
+            {
+                "text": "He has new one out",
+                "label": "sd"
+            },
+            {
+                "text": "He does",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah uh-huh Uh I have seen it advertised I dont know what the name of it is",
+                "label": "ny"
+            },
+            {
+                "text": "Oh is that the one with thats hes starring in",
+                "label": "qy"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Oh yeah that came out like early in the summer or something like that",
+                "label": "b"
+            },
+            {
+                "text": "Yes yes",
+                "label": "b"
+            },
+            {
+                "text": "Yeah I havent seen that one either",
+                "label": "b"
+            },
+            {
+                "text": "Yeah my husband wants to see that one and uh did you see that one that he made years and years ago about the uh the sheriff --",
+                "label": "b"
+            },
+            {
+                "text": "Oh BLAZING SADDLES",
+                "label": "qy^d"
+            },
+            {
+                "text": "-- BLAZING SADDLES",
+                "label": "na"
+            },
+            {
+                "text": "Yeah uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Oh thats my husbands all time favorite I think",
+                "label": "sd"
+            },
+            {
+                "text": "Oh uh-huh I like I like that one too but I thought YOUNG FRANKENSTEIN was better",
+                "label": "bk"
+            },
+            {
+                "text": "Did you",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah that that was just you know had all kinds of things throughout the whole movie I just really enjoyed it and uh um Im trying to think because we saw another one that we thought was really good early this summer that was suspenseful movie Im trying to remember what it was because it you know its -",
+                "label": "ny"
+            }
+        ]
+    }
+]

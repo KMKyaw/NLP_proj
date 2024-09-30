@@ -1,0 +1,631 @@
+[
+    {
+        "conversation_id": "conv_3099",
+        "turns": [
+            {
+                "text": "Okay so what were you saying",
+                "label": "o"
+            },
+            {
+                "text": "Do you work with do you work around children when you work",
+                "label": "qy"
+            },
+            {
+                "text": "No no not at all I work with computers",
+                "label": "nn"
+            },
+            {
+                "text": "With computers",
+                "label": "b^m"
+            },
+            {
+                "text": "Yep they what -",
+                "label": "ny"
+            },
+            {
+                "text": "Okay do you ha- -",
+                "label": "bk"
+            },
+            {
+                "text": "one thing I -",
+                "label": "%"
+            },
+            {
+                "text": "but you have friends that have children",
+                "label": "qy^d"
+            },
+            {
+                "text": "I have some friends that have children uh not that many actually",
+                "label": "na"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh",
+                "label": "b"
+            },
+            {
+                "text": "What is child care like in New York What is -",
+                "label": "qw"
+            },
+            {
+                "text": "I do not really know excuse me too much about child care in New York -",
+                "label": "no"
+            },
+            {
+                "text": "Does the company you work for have child care on premises for",
+                "label": "qy"
+            },
+            {
+                "text": "Excuse me one second",
+                "label": "ad"
+            },
+            {
+                "text": "employees",
+                "label": "+"
+            },
+            {
+                "text": "Huh-uh No not at all in fact my situation is little bit strange I was uh student for many years and then graduated and went and worked in France for awhile And I",
+                "label": "nn"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "have just come back and was doing consulting work",
+                "label": "+"
+            },
+            {
+                "text": "Oh my",
+                "label": "ba"
+            },
+            {
+                "text": "So I am just taking little bit of time off right now",
+                "label": "sd"
+            },
+            {
+                "text": "sabbatical",
+                "label": "qy^d"
+            },
+            {
+                "text": "Uh and and I might -",
+                "label": "%"
+            },
+            {
+                "text": "Well I hope you can stay as long as possible with it",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah well hopefully I can do some consulting work at home And if I can do that it will - Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Oh yeah that would be wonderful",
+                "label": "b^m"
+            },
+            {
+                "text": "Ill be able to spend the time with my daughter and",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "+@"
+            },
+            {
+                "text": "not have to worry too much about child care But",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "uh I might start to go crazy with it too It is little - I miss the intellectual stimulation",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "But at the same time I really it would break my heart to give her to stranger right now And -",
+                "label": "sd"
+            },
+            {
+                "text": "I think it does when when they are real little and they are changing every day",
+                "label": "sv"
+            },
+            {
+                "text": "Oh yes",
+                "label": "aa"
+            },
+            {
+                "text": "theres - and you just miss the little things",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and and uh -",
+                "label": "%"
+            },
+            {
+                "text": "Well I think for me the important concerns I do not think I would put her in day care for joint",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "situation right now unless it was like one other child with with person",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I would not want her to be into in large day care situation so young",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Because I think little infant just does not get the stimulation they need",
+                "label": "+"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "Maybe if I needed to work part time like four hours day I might do that cause like you should get enough stimulation from you the rest of the time But uh I just think that you know when theres two year olds running around the whoever is taking care of the care givers are going to pay attention to the two year olds",
+                "label": "sd"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "And only when the infant screams",
+                "label": "sv"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "are they going to go there and if not the infant is going to lay in the crib all day and maybe have mobile above it to play with",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And you know I play with her most of the time she is awake and I think that is so important",
+                "label": "sd"
+            },
+            {
+                "text": "Right Well that it is important for the bonding that they do it",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "with the mother",
+                "label": "+"
+            },
+            {
+                "text": "Well such as things for learning gives the child stimulation I think is important",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And uh -",
+                "label": "%"
+            },
+            {
+                "text": "Our oldest grandson when he was eighteen months old went into Montessori",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "day care system And they took infants starting at six weeks and they have program uh in that was devised by this montessori person and uh and certain type of stimulations - and theres times of day that even when the child is awake that they that they lay quietly and look at certain things they keep deliberately keep the room not real bright",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And and uh they have different things they will they will put them down on the floor and of course they never have more than like five and and they will put them down on the floor and they will have on- I think one of them was little mirror and some were just different objects that have had definite purpose --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- for kids you know and theres something about their eyes",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Uh",
+                "label": "b"
+            },
+            {
+                "text": "well shes shes just been doing all kinds of stuff where shes you know -",
+                "label": "sd"
+            },
+            {
+                "text": "How old is she",
+                "label": "qw"
+            },
+            {
+                "text": "Shes two months now nine weeks",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "And shes just drastically moving her eyes from one side to another and things like that",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And shes just started that like yesterday or the day before",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and so every days are different",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I think that you know I think child care for infants is much harder than when they are older and I will probably be going back to work around January",
+                "label": "sv"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "whereas she will be about",
+                "label": "+"
+            },
+            {
+                "text": "little older -",
+                "label": "^2"
+            },
+            {
+                "text": "eight or nine months old And so I think you know she will be at - I have heard its rough age to put them into -",
+                "label": "+"
+            },
+            {
+                "text": "It is because thats when they are clinging to mama",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "so you might have real problem with that I think it",
+                "label": "sv"
+            },
+            {
+                "text": "But but I think it -",
+                "label": "%"
+            },
+            {
+                "text": "it hurts the parents to leave when the child is crying so it you know it would be ideal if you could get somebody in so you are not really leaving the child in strange place",
+                "label": "+"
+            },
+            {
+                "text": "Yeah We are just going to have",
+                "label": "aa"
+            },
+            {
+                "text": "But thats unusual",
+                "label": "ba"
+            },
+            {
+                "text": "to see how things work out Uh but I am trying to you know leave her fair amount even at this young age with her grandparents just to",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "go to movie and things like that So that she is used to other people taking care of her",
+                "label": "+"
+            },
+            {
+                "text": "Is it your parents or your husbands parents",
+                "label": "qr"
+            },
+            {
+                "text": "My parents my husbands parents are in France So its little bit harder but during you know - sh- sh- shes met them already",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "Not that she will remember them but shes met them",
+                "label": "sd"
+            },
+            {
+                "text": "Right right Thats nice when uh - I my I have three grandchildren another one coming in September and I - it would if they were where I could not get my hands on them I am afraid I would probably go crazy",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know I I like that",
+                "label": "sd"
+            },
+            {
+                "text": "Are they all nearby",
+                "label": "qy"
+            },
+            {
+                "text": "but if it you do not have to put them in child care thats thats an ideal situation for you is to stay with them as - or you can set up your work program and your husbands so that one of you is there all the time",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Thats thats wonderful for the child But -",
+                "label": "sv"
+            },
+            {
+                "text": "Well if I work part time that might be doable",
+                "label": "sd"
+            },
+            {
+                "text": "Right And you need to look at when you if you do decide to go with child care you really need to to look at what your options are and and look at the what they offer drop in at times that are unexpected",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah well -",
+                "label": "aa"
+            },
+            {
+                "text": "The -",
+                "label": "%"
+            },
+            {
+                "text": "right now the situation is so tight at many places",
+                "label": "sv"
+            },
+            {
+                "text": "Uh",
+                "label": "b"
+            },
+            {
+                "text": "that its even hard to have choice",
+                "label": "+"
+            },
+            {
+                "text": "Uh",
+                "label": "b"
+            },
+            {
+                "text": "Incredible but you know since this is - people before they get pregnant are finding child care for the kids",
+                "label": "ba"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "aa"
+            },
+            {
+                "text": "And you know I just find that incredible And my sister-in-law is going to have baby very very soon and she is intending to stay home with the baby",
+                "label": "sv"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "And you know maybe do some free lance type work at home And so if I go back to work on part time basis I am hoping I can leave my daughter with her",
+                "label": "sd"
+            },
+            {
+                "text": "Oh that would be wonderful",
+                "label": "ba"
+            },
+            {
+                "text": "Because her daughter again will be couple of months my daughter will be about six months older than hers And -",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "it will be little rough when she is very very little infant",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "aa"
+            },
+            {
+                "text": "but like when she is month or so my sister-in-law has had lots and lots of experience dealing with baby-sitting for large families",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "And so uh she might be able to do it couple of hours day and we cou- might even be able to do it on trade off basis That I watch",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "their baby when they want to go out to dinner or to movies or whatever",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "or if she wants an afternoon off",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Even if she wants an afternoon just to work",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh and not be bothered we might be able to exchange that way",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And so we will just have to see how things work out But I think the whole you know ideally I think uh business should have the",
+                "label": "sd"
+            },
+            {
+                "text": "I do too",
+                "label": "aa"
+            },
+            {
+                "text": "day care centers there whether its the parents who take turns watching the kids or whether they hire couple of people and uh you know parents come down to supervise or",
+                "label": "+"
+            },
+            {
+                "text": "Really well trained people",
+                "label": "^2"
+            },
+            {
+                "text": "whatever",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and have have some kind of real good program",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "set up so that you when you go you can be assured that if theres an emergency that person in charge knows or first aid or",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "and have some kind of program set up like you say to stimulate the kids or educate them in some manner And have the you know the right toys and the right setting and uh have an organized type of program set up so that the kids have schedule you know thats real important to little kids",
+                "label": "+"
+            },
+            {
+                "text": "Yeah well shes - my daughter does not seem to be on real schedule yet and its probably my fault because I do not have real schedule now",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But -",
+                "label": "%"
+            },
+            {
+                "text": "They they adjust to what the parents -",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah well shes been staying up late at night and you know",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "sleeping late in the mornings and things is just fine by me",
+                "label": "+"
+            },
+            {
+                "text": "We- you know that works until they start school",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And thats problem society is geared to day person and its - I have another friend whose brother and his wife have done this they stay up until all hours of the night",
+                "label": "ba"
+            }
+        ]
+    }
+]

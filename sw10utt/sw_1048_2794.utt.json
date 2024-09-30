@@ -1,0 +1,467 @@
+[
+    {
+        "conversation_id": "conv_2794",
+        "turns": [
+            {
+                "text": "So how do we fix the national budget",
+                "label": "qw"
+            },
+            {
+                "text": "Damned if I know Um I dont know I suspect uh - lets see I suspect we should do what everyone says we should do we should cut spending and maybe even raise taxes but Lord knows you sh- one shouldnt say that",
+                "label": "sd"
+            },
+            {
+                "text": "Well -",
+                "label": "nd"
+            },
+            {
+                "text": "I I I suspect we should probably have an independent auditing agency go in and look at how the government spends money And work from there",
+                "label": "sv@"
+            },
+            {
+                "text": "That would probably be good but",
+                "label": "ba"
+            },
+            {
+                "text": "Because I because I dont think theyre very good at it",
+                "label": "+@"
+            },
+            {
+                "text": "something that the government hasnt been looking at is the source of the problem",
+                "label": "+"
+            },
+            {
+                "text": "Huh",
+                "label": "%"
+            },
+            {
+                "text": "The true source of the problem is that we do spend too much",
+                "label": "sv"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "but also that we dont take in enough",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah well wh- wh- wh- why do you say that actually",
+                "label": "b"
+            },
+            {
+                "text": "Uh too few Americans are working",
+                "label": "sv"
+            },
+            {
+                "text": "Huh",
+                "label": "%"
+            },
+            {
+                "text": "If more Americans were working and meaningful good paying labor",
+                "label": "sv"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "and paying taxes",
+                "label": "+"
+            },
+            {
+                "text": "Rather than using taxes",
+                "label": "^2"
+            },
+            {
+                "text": "and the tax structure was fair between the lowest and the highest income Americans then we would have more money there to play with",
+                "label": "+"
+            },
+            {
+                "text": "Oh thats interesting Yeah thats probably true I mean well we also wed be spending less because all the money that that normally goes to support those people arent working its back in the system",
+                "label": "ba"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "So youre right Thats real neat idea Well what - but I mean what can you know - at at some point what can you do to sort of raise rev- I mean to raise jobs I wonder",
+                "label": "ba"
+            },
+            {
+                "text": "Well I hesitate to say we ought to spend ourselves to affluence but in fact in some cases thats what we ought to do",
+                "label": "h"
+            },
+            {
+                "text": "Oh okay So start -",
+                "label": "bk"
+            },
+            {
+                "text": "Not Reaganomics thank you",
+                "label": "sv"
+            },
+            {
+                "text": "But thats not going to work uh",
+                "label": "sv"
+            },
+            {
+                "text": "Uh what I was thinking more along the lines of is start going to space",
+                "label": "sd"
+            },
+            {
+                "text": "Huh And that way just create more jobs or whatever",
+                "label": "%"
+            },
+            {
+                "text": "Well at some point there there will be enough jobs for most of the ab- able-bodied Americans",
+                "label": "na"
+            },
+            {
+                "text": "Huh well thats neat idea",
+                "label": "bk"
+            },
+            {
+                "text": "We also need to uh assure that theres some work in the private sector",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah thats what thats what - yo- you think space would do that much for that or -",
+                "label": "b"
+            },
+            {
+                "text": "I think it would do something for it I think we would fill up new technologies But I think we should also do something rather radical",
+                "label": "na"
+            },
+            {
+                "text": "Like what",
+                "label": "qw^d"
+            },
+            {
+                "text": "Legalize marijuana",
+                "label": "sd"
+            },
+            {
+                "text": "Oh you think you think that would uh have major effect Well that would put lot of criminals out of business for while anyway",
+                "label": "qy"
+            },
+            {
+                "text": "What",
+                "label": "br"
+            },
+            {
+                "text": "Th- that might have uh good effect on on on crime anyway",
+                "label": "sv"
+            },
+            {
+                "text": "Yes uh okay I think it would take some of that money out of the hands of criminals I think it would put reduce the amount of carry on drug use where people advance from one drug to another",
+                "label": "aa"
+            },
+            {
+                "text": "Thats probably true",
+                "label": "ba"
+            },
+            {
+                "text": "I think that I think most importantly it would give the federal government something new that they could tax",
+                "label": "sv"
+            },
+            {
+                "text": "And probably lot of -",
+                "label": "sv"
+            },
+            {
+                "text": "And probably lot of - and really receive some revenues from -",
+                "label": "sv^m"
+            },
+            {
+                "text": "Yeah but thats potentially -",
+                "label": "b"
+            },
+            {
+                "text": "Uh if you look at prohibition historically its repeal helped the federal government lot in tax revenues",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh huh No I had never thought about that",
+                "label": "b"
+            },
+            {
+                "text": "Then I think once we put money back into the cof- in the coffers of the federal government",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and get the federal government to where theres money there again we should reduce the amount of money and this would have to come rather quickly and would have to come originally also where were not paying in some cases we do pay more for welfare recipients to live then they can earn in the true minimum wage environment",
+                "label": "+"
+            },
+            {
+                "text": "Thats true we do often times they are paid more yeah",
+                "label": "ba"
+            },
+            {
+                "text": "And you cant deny people the right to supply their families better through whatever means",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Thats just sensible on their part",
+                "label": "sv"
+            },
+            {
+                "text": "Thats just what on their part Im sorry I missed that",
+                "label": "br"
+            },
+            {
+                "text": "Its just sensible on their parts",
+                "label": "sv^r"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "to go after the the the greater amount of income",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So if you lower the amount they make and raise the amount of true minimum wage jobs not those that are affected by the federal minimum wage then more people will get off welfare",
+                "label": "sv"
+            },
+            {
+                "text": "That that maybe true Thats very true",
+                "label": "b"
+            },
+            {
+                "text": "You know give them true incentive to want to work",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And then dont start letting more outsiders in for few years until we figure out exactly where were at with unemployment",
+                "label": "sv"
+            },
+            {
+                "text": "Right thats -",
+                "label": "b"
+            },
+            {
+                "text": "Reduce immigration",
+                "label": "sv"
+            },
+            {
+                "text": "Huh",
+                "label": "%"
+            },
+            {
+                "text": "or eliminate it entirely for few years until we get our own house in order",
+                "label": "+"
+            },
+            {
+                "text": "Yeah and maybe even reduce al- along the same lines maybe reduce imports as well I think",
+                "label": "b"
+            },
+            {
+                "text": "Oh absolutely absolutely",
+                "label": "aa"
+            },
+            {
+                "text": "I mean We dont need to buy other peoples stuff right now new slash unit after the first period",
+                "label": "sv@"
+            },
+            {
+                "text": "Thats right when were in world of hurt well I dont Im not going to say that we ought to re- reduce them through legal means I think we ought to just tax them severely",
+                "label": "ba"
+            },
+            {
+                "text": "Right well that thats what happened in other country though And other places they tax us quite ha- - I mean they tax American imports quite heavily So we could do the same thing I mean just - and you know they may get -",
+                "label": "b"
+            },
+            {
+                "text": "It seems only fair",
+                "label": "sv"
+            },
+            {
+                "text": "Right it does seem only fair I mean why not",
+                "label": "b"
+            },
+            {
+                "text": "And I think really if we got all those that are able-bodied into the work force reduced the amount going out for those purposes created new jobs for that work force there would be plenty of money",
+                "label": "sv"
+            },
+            {
+                "text": "I think so",
+                "label": "aa"
+            },
+            {
+                "text": "And then at that point",
+                "label": "sv"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "quit spending on space",
+                "label": "+"
+            },
+            {
+                "text": "Oh real -",
+                "label": "%"
+            },
+            {
+                "text": "Force it all into the into the private sector",
+                "label": "sv"
+            },
+            {
+                "text": "Oh really I love the switch Well at that point you might we i- i- it wouldnt be problem anymore possibly you know we would be",
+                "label": "sd"
+            },
+            {
+                "text": "Thats right",
+                "label": "ba"
+            },
+            {
+                "text": "we would be able to keep it wherever we wanted to in space or the ocean research whatever we wanted to do but I think the -",
+                "label": "+"
+            },
+            {
+                "text": "Uh space was just convenient place for me to go because that would put lot of",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "lot of - Millspec and NASA work operates to the same demanding specifications",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "that would put bunch of defense workers back to work",
+                "label": "sv"
+            },
+            {
+                "text": "Right compared to defense Well thats good idea Well it - well the other thing and the other thing I I I think we seriously need to do is um like I say have someone go in and look and you know and find out where it is were paying ten thousand dollars per toilet seat or something",
+                "label": "b"
+            },
+            {
+                "text": "You know what causes that",
+                "label": "qy"
+            },
+            {
+                "text": "Um greed I suspect",
+                "label": "no"
+            },
+            {
+                "text": "Uh no Your your buying large uh - the government specifications",
+                "label": "nd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "sheets of paper for building pair of underwear for the federal government",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "is twenty-two foot tall",
+                "label": "+"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "If it was all on nine by elevens stacked one on top of another",
+                "label": "sd"
+            },
+            {
+                "text": "For making you mean government issue underwear",
+                "label": "qy"
+            },
+            {
+                "text": "For making government issue underwear",
+                "label": "na"
+            },
+            {
+                "text": "Jesus",
+                "label": "ba"
+            },
+            {
+                "text": "To just understand those legal requirements and operate within the government guidelines",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "costs the company huge amount of money",
+                "label": "+"
+            },
+            {
+                "text": "Well thats potentially fault of the government then I mean that could things like that should -",
+                "label": "sv"
+            },
+            {
+                "text": "Yes huge amount of it is not the fault of the contractor",
+                "label": "aa"
+            },
+            {
+                "text": "Right well thats - I had never heard that before",
+                "label": "b"
+            },
+            {
+                "text": "Uh huge amount of what you hear on about the seventy-five dollar hammers",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "and the nine hundred dollar toilet seats doesnt come from people in the industry it comes from senators that dont know anything about it",
+                "label": "+"
+            },
+            {
+                "text": "Huh",
+                "label": "%"
+            },
+            {
+                "text": "Uh my job is government tooling specialist",
+                "label": "sv"
+            },
+            {
+                "text": "Oh okay so you know about some of these things",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            }
+        ]
+    }
+]

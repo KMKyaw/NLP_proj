@@ -1,0 +1,515 @@
+[
+    {
+        "conversation_id": "conv_2548",
+        "turns": [
+            {
+                "text": "What kind of car do you drive now",
+                "label": "qw"
+            },
+            {
+                "text": "I drive Honda Prelude",
+                "label": "sd"
+            },
+            {
+                "text": "Do you I drive Honda Accord",
+                "label": "bh"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I bought mine year ago so Im not buying car any time soon",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah me either I just bought mine uh it will be year in August",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I love it though I love Hondas",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah It -",
+                "label": "b"
+            },
+            {
+                "text": "I think I found my car",
+                "label": "sd"
+            },
+            {
+                "text": "Well I I like where all the controls are --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- theyre theyre in good spots and I I have an automatic I cant drive standard Why werent the 2 indep clauses split up into separate slash units",
+                "label": "+"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "I have standard",
+                "label": "sd"
+            },
+            {
+                "text": "But um - I - its an its supposedly real reliable the only thing Ive ever heard about Hondas is that the breaks go out first",
+                "label": "%"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "I hadnt heard that",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "What did you have before you bought that",
+                "label": "qw"
+            },
+            {
+                "text": "I had Buick Regal",
+                "label": "sd"
+            },
+            {
+                "text": "Did you",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "I had uh Mazda Seven before that and that was the worse car Ive ever driven in my life",
+                "label": "sd"
+            },
+            {
+                "text": "The Buick was was great It was nine years old and it",
+                "label": "sd"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "was still going strong The only problems I had with it in the nine years that I owned it I had to replace the compressor when it was about seven years old",
+                "label": "+"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "And that was the only major problem that I had I mean I had like little piddly things like --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- I had to replace the muffler and I had replaced the tires and uh seems like it had radiator leak once But I never had any major anything",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "other than the compressor",
+                "label": "+"
+            },
+            {
+                "text": "I really never had anything major with my Mazda but it was standard also and the clutch went out on it toward the end I had it five years and the last year last two years it seemed to go out really easily I think it went out twice in two years and thats thats lot it shouldnt go out that much",
+                "label": "sd"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "aa"
+            },
+            {
+                "text": "And so I went ahead and bought another standard when I bought the Honda but I dont think Im going to do that again I think Im going back to automatic now",
+                "label": "sd"
+            },
+            {
+                "text": "Well I never well - I kind of know how to drive standard but Ive never owned one so I hadnt I dont drive one lot",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "So I dont feel comfortable in traffic with it",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And for everything Ive heard its lot easier to sell an automatic",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah it is",
+                "label": "aa"
+            },
+            {
+                "text": "And",
+                "label": "sd"
+            },
+            {
+                "text": "Thats true",
+                "label": "aa"
+            },
+            {
+                "text": "and resale value is really important to me",
+                "label": "+"
+            },
+            {
+                "text": "Yeah it is me too thats why I got the Honda",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Hondas have great resale value",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "The Mazda definitely did not Not at all Theyre worse than American cars I think or just as bad as far as resale goes",
+                "label": "sd"
+            },
+            {
+                "text": "I did pretty well with my uh Regal because it was in really good shape but",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "it still looked real nice the the interior was still really nice there wasnt cracks all over the dash board and stuff",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And it had some some nice features So I ended up okay with the Buick",
+                "label": "sd"
+            },
+            {
+                "text": "Good",
+                "label": "ba"
+            },
+            {
+                "text": "and I anticipate the same thing with the Honda whenever I decide to sell it of course I may never sell it",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "I may drive it until its dead but -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Thats what I did with the Mazda drive it until the until the clutch went out and the wheels fell off",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "so probably what Ill do again -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But I really like the Hondas I like foreign cars --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- lot",
+                "label": "+"
+            },
+            {
+                "text": "Well -",
+                "label": "%"
+            },
+            {
+                "text": "I looked at the Mitsubishi Galant I was looking for four door car having driven the Seven so long",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and it was so small and its really impractical So I wanted something with real trunk and four doors something easy to get in and out of and I looked at the Galant and those were really nice and I can get them for great price",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But I found it hard to deal with the the dealership I was going through",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "So thats how I ended up with Honda",
+                "label": "sd"
+            },
+            {
+                "text": "I wasnt even looking for car when I bought this car I uh I was thinking about buying Prelude from friend who was moving to New York or something so and she was going to sell her car because she didnt need it anymore and it was only like year old and I had never driven uh Prelude So I went to dealership because they had like uh the same year and same model",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "of Prelude on their used car lot and I went and I test drove it and you know I just fell in love",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "with this brand new white Prelude uh you know",
+                "label": "+"
+            },
+            {
+                "text": "Theyre nice I think",
+                "label": "sv"
+            },
+            {
+                "text": "two liter I with the sun roof and the moon roof and I",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "bought it loaded",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah I have to have them loaded",
+                "label": "aa"
+            },
+            {
+                "text": "Oh",
+                "label": "%"
+            },
+            {
+                "text": "um I love all those little things that you dont need but theyre so wonderful",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I went there looking at used car and two days later I bought this car I felt like I felt like that was the worst impulse that was that was largest impulse that I that I had ever made The oth- the two",
+                "label": "aa"
+            },
+            {
+                "text": "I understand",
+                "label": "ba"
+            },
+            {
+                "text": "other things that I bought on impulse are and washer and dryer I go for the big stuff",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I noticed Mine was definitely not impulse I really needed new car Mine was just it was getting worn out I guess from being sports car I drove it kind of hard",
+                "label": "b"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "and I got it right after high school So by the time I traded it in it was ready",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I got",
+                "label": "aa"
+            },
+            {
+                "text": "Ready to go I really think this should be continuation of B101 utt 2",
+                "label": "sd@"
+            },
+            {
+                "text": "I got my Buick as high school graduation gift",
+                "label": "+"
+            },
+            {
+                "text": "Did you",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah But I I guess this wasnt really an impulse I mean buying it right then and you know right quickly was kind of impulsive but Id been thinking about buying new car for about three years and I was just scared to",
+                "label": "ny"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "I was scared to start taking on payments because the Buick was long since paid for",
+                "label": "sd"
+            },
+            {
+                "text": "Right Thats the same with me Would you ever buy used car for new car for yourself",
+                "label": "aa"
+            },
+            {
+                "text": "Buy wha- ar- you",
+                "label": "br^r"
+            },
+            {
+                "text": "Like -",
+                "label": "%"
+            },
+            {
+                "text": "buy used car",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "aa"
+            },
+            {
+                "text": "Sure",
+                "label": "na"
+            },
+            {
+                "text": "I I was going to buy one once but I just I worry about whos driven them and what theyve been through and the warranties and things like that",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Just I cant seem to get over that That just bothers me I dont know why",
+                "label": "sd"
+            },
+            {
+                "text": "Well um like on Hondas they - supposedly the maintenance records was supposed to be registered with Honda or whatever and you can request whatever maintenance records exist on cars and you can have them checked out by mechanics and stuff",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah thats true",
+                "label": "aa"
+            },
+            {
+                "text": "I mean they cant stop you from doing it",
+                "label": "sd"
+            },
+            {
+                "text": "Hoping that they do go to Honda dealership to get them serviced",
+                "label": "bf"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Well and even if they didnt you can still get good idea from if you can get good mechanic to",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "check it over real carefully and check the block and everything",
+                "label": "+"
+            },
+            {
+                "text": "Thats true",
+                "label": "aa"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "Well I guess thats all",
+                "label": "sd^t"
+            },
+            {
+                "text": "Okay Well I enjoyed talking to you",
+                "label": "aa"
+            },
+            {
+                "text": "I enjoyed talking to you",
+                "label": "fc"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc"
+            }
+        ]
+    }
+]

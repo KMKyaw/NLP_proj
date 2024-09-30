@@ -1,0 +1,303 @@
+[
+    {
+        "conversation_id": "conv_3697",
+        "turns": [
+            {
+                "text": "Okay now then you heard the question what --",
+                "label": "o"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- what do you like to do for yourself in car automobile repairs",
+                "label": "+"
+            },
+            {
+                "text": "Well Ill tell you I used to do lot more repairs when cars were easy to work on than I do now",
+                "label": "sd"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "I do uh I do the easy stuff now I change oil uh and then what some people would consider little more difficult I Ill change spark plugs and --",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "-- Ill change you know points and you you know do air filters that kind of stuff",
+                "label": "+"
+            },
+            {
+                "text": "Well -",
+                "label": "%"
+            },
+            {
+                "text": "But uh I cant do as much as I used to um I used to do whole lot more but not any more theyre just too weird to work on now",
+                "label": "sd"
+            },
+            {
+                "text": "Is that the reason youre not doing it or are you so busy you dont have time to do it",
+                "label": "qy"
+            },
+            {
+                "text": "Well thats part of it --",
+                "label": "sd"
+            },
+            {
+                "text": "Uh",
+                "label": "%"
+            },
+            {
+                "text": "-- yeah part of it is like you said I dont have time",
+                "label": "aa"
+            },
+            {
+                "text": "Okay Well being female and being alone you I dont do anything but put gasoline in my car and let someone else check the oil even",
+                "label": "bk"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But uh have you had any major repairs recently",
+                "label": "qy"
+            },
+            {
+                "text": "Well um on this car Ive got now no but I had van before and it was only two years old and it had transmission go out on it",
+                "label": "ng"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "But fortunately that was covered under the warranty",
+                "label": "sd"
+            },
+            {
+                "text": "Okay Well you should be feel very fortunate I had to have transmission replaced in an eighty-six automobile --",
+                "label": "b"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "-- and Ill declare thats an expensive -",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Yes uh-huh Maybe I should have just traded the car in",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah sometimes it makes you wonder",
+                "label": "b"
+            },
+            {
+                "text": "Oh it just - well I have very comfortable car --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and I have health problem that I need large comfortable car",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So um anyway I have new transmission and Im sure that any of them would have cost al- or charged me almost the same amount But -- -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- it hurts it hurts real bad",
+                "label": "sd"
+            },
+            {
+                "text": "Did you take it to dealership",
+                "label": "qy"
+            },
+            {
+                "text": "No I took it to an independent --",
+                "label": "nn"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- out in Garland",
+                "label": "+"
+            },
+            {
+                "text": "Oh I see",
+                "label": "bk"
+            },
+            {
+                "text": "I had um - these people were recommended by neighbor --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and you know thats the only thing I am not native of Dallas",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I see",
+                "label": "b"
+            },
+            {
+                "text": "So that means I have to depend on on trustworthy friends --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- and thats - Anyway its fixed its running and I pray that I get my thirteen hundred dollars out of it",
+                "label": "%"
+            },
+            {
+                "text": "Oh gosh",
+                "label": "ba"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Its going to run for li- for while yet",
+                "label": "sv"
+            },
+            {
+                "text": "Oh I know it It certainly is frightening What work are you in",
+                "label": "ba"
+            },
+            {
+                "text": "Uh I I work for I",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "I I work in the networking area",
+                "label": "sd"
+            },
+            {
+                "text": "Okay okay",
+                "label": "b"
+            },
+            {
+                "text": "Do you work for I",
+                "label": "qy"
+            },
+            {
+                "text": "No",
+                "label": "nn"
+            },
+            {
+                "text": "No okay",
+                "label": "b^m"
+            },
+            {
+                "text": "No I have just retired from um the Southwest Medical Center",
+                "label": "nn"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Yeah where there are lot of people down there that could help me with my car but theyre all too busy So -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I have to do it the other way and thats find someone and pay them to do it",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "So I certainly hope you have nice New Year",
+                "label": "fo"
+            },
+            {
+                "text": "Oh yeah Im Im planning on it Oh it cant be any worse than last year thats for sure",
+                "label": "fo"
+            },
+            {
+                "text": "Oh it could be - but I dont much think so",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah Thats true thats true",
+                "label": "b"
+            },
+            {
+                "text": "Im well were starting out new one so lets make it good one",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Im going to try and plan on it",
+                "label": "aa"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "All right well I enjoyed the conversation",
+                "label": "fc"
+            },
+            {
+                "text": "Thank you",
+                "label": "fc"
+            },
+            {
+                "text": "All right thank you",
+                "label": "fc"
+            },
+            {
+                "text": "Bye Bye-bye",
+                "label": "fc"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc^m"
+            }
+        ]
+    }
+]

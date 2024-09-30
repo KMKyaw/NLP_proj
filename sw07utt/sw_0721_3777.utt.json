@@ -1,0 +1,483 @@
+[
+    {
+        "conversation_id": "conv_3777",
+        "turns": [
+            {
+                "text": "What are your favorite shows",
+                "label": "qw"
+            },
+            {
+                "text": "Uh I guess one of my favorite ones is CHEERS",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I always liked that one Theyre always so funny And --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- I also like the COSBY SHOW",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Those are probably my two favorites",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I I I rather enjoy the COSBY SHOW My wife and I both like COMMISH",
+                "label": "b"
+            },
+            {
+                "text": "You know Ive watched that one time and it was really good but now thats on what Saturday night",
+                "label": "sd"
+            },
+            {
+                "text": "Uh",
+                "label": "%"
+            },
+            {
+                "text": "Is it Saturday night",
+                "label": "qy^r"
+            },
+            {
+                "text": "Its either Friday night - its either tonight or tomorrow night Uh around here at least -",
+                "label": "ng"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I guess --",
+                "label": "sd"
+            },
+            {
+                "text": "I cant -",
+                "label": "%"
+            },
+            {
+                "text": "-- it depends on what channel youre getting",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know what system youre getting it through",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I - yeah I saw it one time and I really liked it but I just havent uh seen it you know watched it since",
+                "label": "aa"
+            },
+            {
+                "text": "Uh we we always enjoyed it It it seems to be kind of halfway between uh something like ALL IN THE FAMILY and uh HILL STREET BLUES",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I- i- i- - its good show",
+                "label": "%"
+            },
+            {
+                "text": "Yeah the episode that I watched uh I liked him because even though hes law enforcement officer you know sometimes --",
+                "label": "aa"
+            },
+            {
+                "text": "You - -",
+                "label": "%"
+            },
+            {
+                "text": "-- the laws are kind of ridiculous --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and you need to sometimes break them to get your point across and for good reason Shouldnt this be separately labelled slash unit not continuation of B26",
+                "label": "+@"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And he seems to do that sometimes",
+                "label": "sv"
+            },
+            {
+                "text": "- - hes tender hearted fellow",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah I think thats what first drew us to him the uh the the relationship between he and his wife kind of looks lot like ours",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But uh -",
+                "label": "%"
+            },
+            {
+                "text": "Yeah I thought it was pretty good show",
+                "label": "b"
+            },
+            {
+                "text": "Yeah uh",
+                "label": "b"
+            },
+            {
+                "text": "I always like - I I like to watch like SIXTY MINUTES and TWENTY TWENTY",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah uh I know we uh we watch COMMISH any chance we get",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh used to be big fan of STAR TREK but thats kind of th- th- - its gotten more and more to where they are so totally against uh anything spiritual",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But uh anyway -",
+                "label": "%"
+            },
+            {
+                "text": "Ive never gotten into the STAR TREK era",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I I used to be used to be real big fan of STAR TREK",
+                "label": "b"
+            },
+            {
+                "text": "Used to be Trekie huh",
+                "label": "qy^g"
+            },
+            {
+                "text": "Uh pretty much yeah",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I always enjoyed the show anyway",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And STAR TREKs in - or the uh STAR WARS set -- -",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh one of the first STAR WARS movie -",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "I think I watched it some- like nineteen times",
+                "label": "sd"
+            },
+            {
+                "text": "Oh my goodness You must have some of their lines memorized",
+                "label": "ba"
+            },
+            {
+                "text": "Uh I did at one time Anyway",
+                "label": "sd"
+            },
+            {
+                "text": "Wow",
+                "label": "ba"
+            },
+            {
+                "text": "Oh I - I was pretty big fan of that sort of thing",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Used to used to read read lot of science fiction work too",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But uh no it uh - we dont do whole lot of watching but that uh I dont know if you heard them or not I got twelve year old twelve week old baby",
+                "label": "ar"
+            },
+            {
+                "text": "Twelve week oh I was --",
+                "label": "b^m,sd,o@"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- going to say I hear baby in the background B66 and 68--2 slash units",
+                "label": "+"
+            },
+            {
+                "text": "Yeah that - between --",
+                "label": "aa"
+            },
+            {
+                "text": "I imagine --",
+                "label": "sv"
+            },
+            {
+                "text": "-- that and school its not -",
+                "label": "+"
+            },
+            {
+                "text": "-- that keeps you busy",
+                "label": "+"
+            },
+            {
+                "text": "Between him and school theres not much time left for --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- watching much",
+                "label": "+"
+            },
+            {
+                "text": "Well were were expecting our first in about three months so I know we wont be watching as much as we do now",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah this one here is our first And were both full time students so -",
+                "label": "b"
+            },
+            {
+                "text": "Oh wow",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "That must be tough",
+                "label": "sv"
+            },
+            {
+                "text": "What are you hoping for boy or girl",
+                "label": "qr"
+            },
+            {
+                "text": "It doesnt matter just healthy baby",
+                "label": "sd"
+            },
+            {
+                "text": "That thats thats the best way you havent found out yet or anything have you Looks like this should be 2 slash units with their respective labels shown here",
+                "label": "sv,qy^g@"
+            },
+            {
+                "text": "Well we had sonogram but we told him not to tell us so --",
+                "label": "na"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- its going to be surprise",
+                "label": "+"
+            },
+            {
+                "text": "Thats the best way",
+                "label": "sv^r"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I mean its like finding out somewhere in July what youre going to get for Christmas I mean you know",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah Its its not --",
+                "label": "aa"
+            },
+            {
+                "text": "Its not as much --",
+                "label": "+"
+            },
+            {
+                "text": "-- quite the same",
+                "label": "+"
+            },
+            {
+                "text": "-- fun Oh",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Anyway -",
+                "label": "%"
+            },
+            {
+                "text": "I agree Im sure well be watching more uh children oriented television shows",
+                "label": "aa"
+            },
+            {
+                "text": "Oh Im about half kid at heart anyway",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I am too",
+                "label": "sd"
+            },
+            {
+                "text": "I I -",
+                "label": "%"
+            },
+            {
+                "text": "I still watch cartoons sometimes every once in while when my sister comes to visit so -",
+                "label": "sd"
+            },
+            {
+                "text": "The new cartoons dont seem to be worth much but the uh - well couple of the uh ones Disneys doing arent too bad but -",
+                "label": "sv"
+            },
+            {
+                "text": "Well you know it seems like lot of them are lot more violent than they used to be",
+                "label": "sv"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "aa"
+            },
+            {
+                "text": "You know I remember like the FLINTSTONES and the JETSONS and --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- those were just kind of good old cartoons",
+                "label": "+"
+            },
+            {
+                "text": "The the the worst of the violence in the FLINTSTONES was when somebody gave Fred poke in the snoot",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But oh shoot I mean blowing up galaxies and --",
+                "label": "sv"
+            },
+            {
+                "text": "Yep",
+                "label": "b"
+            },
+            {
+                "text": "-- and putting curse on the whole planet or or or you know or on all the you know everything of this species you know just all kinds of crud",
+                "label": "+"
+            },
+            {
+                "text": "Yeah and they wonder why kids turn out the way they do nowadays",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah everythings mutations and and --",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and killing and",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Gone are the days of those things they use- - what was it I uh Turner Broadcasting Network used to used to uh do the Saturday morning and Sunday morning cartoons the old cartoons They used to put between the first and second fea- feature at the theatre",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Those old little ten minute jobs where uh the real ballooned looking art work you know --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- - and -",
+                "label": "%"
+            }
+        ]
+    }
+]

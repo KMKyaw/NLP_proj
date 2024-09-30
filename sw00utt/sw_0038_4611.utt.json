@@ -1,0 +1,251 @@
+[
+    {
+        "conversation_id": "conv_4611",
+        "turns": [
+            {
+                "text": "Hi",
+                "label": "fp"
+            },
+            {
+                "text": "Hi",
+                "label": "fp"
+            },
+            {
+                "text": "Uh uh I I should say something",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "That Im the uh least informed - this is totally accidental that I have to talk about this topic But its Im the least informed person in the whole United States This has not been determined yet but I I Ive never read newspaper in my entire life and Ive I I never watch news nor listen to the news on the radio unless Im just happening to be listening to music and they slip it on in the car radio before I can turn it off But -",
+                "label": "sv"
+            },
+            {
+                "text": "Any particular reason",
+                "label": "qy"
+            },
+            {
+                "text": "Well no I Ive Ive explored that with lots of people Uh theyve tried to lock me up and uh things like that But uh uh Im basically not interested and I also find the uh everything is so slick and superficial and misguided and mis- and off the uh uh - what am I trying to say Uh - I do learn about things",
+                "label": "nn"
+            },
+            {
+                "text": "uh-huh Huh",
+                "label": "b"
+            },
+            {
+                "text": "Largely from friends and I occasionally will read something like the NEW YORK REVIEW OF BOOKS You know someone will write book about something and then Ill learn all about this thing that was in the news two years earlier",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But it - and somehow - and anything I participated in or know about when I read about it in the paper is always so uh covered from such funny and superficial perspective that I dont have much confidence in it But I mean I dont think its just that Im lazy",
+                "label": "%"
+            },
+            {
+                "text": "I really dont I I I like to refer to this as sort of CONSUMER REPORT phenomenon",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Which is everybody that I know reads CONSUMER REPORTS so the people who do feel that CONSUMER REPORTS does wholly inadequate job in their area of particular interest",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "But assume that they do reasonable job in other areas",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "Uh without thinking that there were people in who think each other areas area of of specialty - and uh I guess you could explain it two ways And and the cynical view is well these things arent doing very good job at all And the view that I would rather take --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "-- is that theres different amount of information you need when youre particularly interested in topic or uh particularly interested in buying something as you know --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- as hobbyist versus when you want to go out and buy blender because you need to mix things",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And I think the same thing is true with news If you want to just have an idea as to whats going on most papers - and especially the better papers the the TIMES the WALL STREET JOURNAL the --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- WASHINGTON POST give you reasonable idea",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "If you were deeply involved in it then you immediately realize that what they print is stuff that you probably knew already and the stuff that you want theyre not printing because the average person doesnt need or want to know --",
+                "label": "sv"
+            },
+            {
+                "text": "Right Doesnt want -",
+                "label": "b"
+            },
+            {
+                "text": "-- that much",
+                "label": "+"
+            },
+            {
+                "text": "Let me ask by the way just for the record I Im I totally concede that intelligent people read these things and intelligent people write them So I mean Im not being elitist in that sense I hope Uh",
+                "label": "co"
+            },
+            {
+                "text": "Well I mean theres theres reasonable question as to whether its worth the amount of time it takes to keep up on things",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah What -",
+                "label": "b"
+            },
+            {
+                "text": "And most people think it is and I can I can you know accept that some people think its not and can find better ways to use it",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah By the way when you say most people think it is I think its like ninety-nine point ninety-nine think it is percent",
+                "label": "b"
+            },
+            {
+                "text": "I dont think its that high",
+                "label": "ar"
+            },
+            {
+                "text": "Oh you dont",
+                "label": "qy^d"
+            },
+            {
+                "text": "I know lot of people who may watch the news in the evening but dont spend the time to actually read newspaper",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And I think theyre saying well if somethings really important Ill at least find out that it happened",
+                "label": "sv(^q)"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And and thats thats is reasonable start and for awhile I didnt read newspaper when I came out here because I didnt find one that I liked Uh and if something important happened it was covered on and I could then go and and pick up newspapers if if it were important enough to read about",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I imagine you get the same level of something that you cared about happened youd find out from friends or other channels",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah Uh I did on the uh the Supreme Court hearings ar- the for uh uh the whole business of uh - see I actually have -",
+                "label": "b"
+            },
+            {
+                "text": "Clarence Thomas or -",
+                "label": "bf"
+            },
+            {
+                "text": "Yeah the Thomas and Anita Hill business",
+                "label": "aa"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "I I mean thats thats the closest thing I deeply cared about that",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh and I sort of had planned to have dinner with friend of mine and when I arrived at her house she was engrossed in that We ended up watching it for couple of hours Zooming out and grabbing something to eat and then zooming back and ea- watching it some more And I thought that was terrific because she actually helped me understand what was going on But even then I didnt end up doing it on my own Uh uh",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I stayed as far away from those as I could",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I decided I didnt want to waste the time I had I guess five years ago now wasted that kind of time with Oliver North hearings",
+                "label": "sd"
+            },
+            {
+                "text": "Right right Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And afterwards decided that what I had gotten out of it just wasnt worth the time I put in",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And that these things are just very slow in seeing information --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- come out",
+                "label": "+"
+            },
+            {
+                "text": "Do you ever read -",
+                "label": "qy"
+            }
+        ]
+    }
+]

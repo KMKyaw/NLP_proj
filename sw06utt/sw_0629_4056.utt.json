@@ -1,0 +1,319 @@
+[
+    {
+        "conversation_id": "conv_4056",
+        "turns": [
+            {
+                "text": "Okay should begin listen could probably code if we could tell if it said we or you",
+                "label": "o"
+            },
+            {
+                "text": "Okay All right",
+                "label": "aa"
+            },
+            {
+                "text": "Uh I can begin this um basically I work for Honeywell in Minneapolis --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and the the benefit program we have here is really quite good Im Im pretty pleased with it They cover uh just about everything vision dental medical --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "-- uh you name it and for me this is the first job Ive had where theyve covered that much so Im pretty satisfied myself",
+                "label": "ad"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "Um whats your situation",
+                "label": "qw"
+            },
+            {
+                "text": "I work for the University of New Hampshire and --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh our benefits package isnt uh isnt quite as good in some ways Uh you know overall Im satisfied with it We dont have the vision care we do have the health care and the uh and the medi- or the dental",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh",
+                "label": "%"
+            },
+            {
+                "text": "Are you professor there",
+                "label": "qy"
+            },
+            {
+                "text": "No I work in Im on the professional administrative and technical staff and I effectively I run the telephone switch at uh at the University of New Hampshire",
+                "label": "nn"
+            },
+            {
+                "text": "Oh I see okay",
+                "label": "bk"
+            },
+            {
+                "text": "Uh so the uh the benefits uh probably the main thing I like about the benefits is the uh the uh very generous vacation time and sick time",
+                "label": "sd"
+            },
+            {
+                "text": "Oh no doubt",
+                "label": "aa"
+            },
+            {
+                "text": "We get fifteen days year sick time and uh we get twenty-four days year right from the day one when you start work you get twenty-four days year uh time off",
+                "label": "sd"
+            },
+            {
+                "text": "Right Well thats good",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Yeah thats one of the things I guess I would change about Honeywell is uh - I used to work with the Army Research Institute and being uh government organization you got quite few holidays off",
+                "label": "b^m"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "But here you dont get that You maybe get two or three year",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So its really - unless you unless you have some vacation time or some some sick leave or whatever um you kind of have to finagle your way around to get that time",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So thats thats kind of drawback I think But uh I dont know What do you consider most important you think in terms of of the different benefits",
+                "label": "sv"
+            },
+            {
+                "text": "Well I think uh the the health care of course is an important and has to be the single most important benefit --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh the rates that we keep paying seem to keep increasing uh --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- you know Im Im little disturbed about that but I think thats national trend and I dont know that uh I dont know what the solution is to it Its bigger than just the benefits part",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I dont know if you saw on TWENTY TWENTY the other night they uh they basically reviewed Oregons plan --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- or The Oregon Plan --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- toward uh nationalizing health care and that kind of thing Its kind of an interesting plan Its kind of cold though Theyve essentially made up list of uh oh all the different uh medical maladies that you can have --",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and then basically made cutoff about six hundred and eighty-seven and below will not be covered by by uh subsidized health care and the ones above would",
+                "label": "+"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "So its kind of like drawing this line and and if you have it great if you dont youre kind of out of luck --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but um it was kind of an interesting show",
+                "label": "sv"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "I think youre right I think health care is probably the the most pressing --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- uh the pressing one but Ill tell you I I dont mind having dental you know sometimes dental costs can be um just about as expensive if not more and I know historically lot of companies I think carried dental as rider along with the medical --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but Im not sure thats thats widely followed any more Im not sure how how does uh University of New Hampshire handle it",
+                "label": "sv"
+            },
+            {
+                "text": "Well we have two different plans that we can subscribe to under dental uh depending and and the cost between them is very is very little I think it costs me something like five dollars month for the dental plan",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "But it pays uh substantial amount I mean the examinations and and uh checkups every year or every six months are free --",
+                "label": "sd"
+            },
+            {
+                "text": "Great",
+                "label": "ba"
+            },
+            {
+                "text": "-- and uh it it covers the bulk of the dental expenses",
+                "label": "sd"
+            },
+            {
+                "text": "Is that uh let me interrupt is that the same for both uh professors and and also staff and administration is that generally across the board do you think or -",
+                "label": "qy"
+            },
+            {
+                "text": "Uh yes it is The benefits plan is different for operating for what we call operating staff which are considered to be uh clerical personnel accountants things like that --",
+                "label": "ny"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- as opposed to what they call the staff which I belong to --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but the main - I think the the health and all that and the dental is the same for everybody and the retirement plan But --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "-- the main difference is in the uh the way sick time is accrued and vacation time is accrued",
+                "label": "+"
+            },
+            {
+                "text": "Oh okay",
+                "label": "bk"
+            },
+            {
+                "text": "Uh for the operating staff its on seniority its you know based on how long theyve worked there",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "That determines how much uh vacation time they get",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Im kind of interested because Im actually thats the route Id like to take when I finally get my degree --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- is to uh is to teach in university",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "Im doctoral student in Florida right now --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- but uh - yeah thats thats interesting Thats one of the things Id like to think about is in what kind of benefits they would uh they would cover and things like that",
+                "label": "%"
+            },
+            {
+                "text": "College programs belong to this I uh retirement fund",
+                "label": "sd"
+            },
+            {
+                "text": "Oh is that right",
+                "label": "bh"
+            },
+            {
+                "text": "Right and in the case of the University of New Hampshire uh -",
+                "label": "na"
+            }
+        ]
+    }
+]

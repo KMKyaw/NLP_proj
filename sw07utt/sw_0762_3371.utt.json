@@ -1,0 +1,383 @@
+[
+    {
+        "conversation_id": "conv_3371",
+        "turns": [
+            {
+                "text": "So what kind of house do you live in",
+                "label": "qw"
+            },
+            {
+                "text": "Im in uh in ranch uh - it was about uh sixteen hundred square feet when I bought it and uh its about two thousand square feet now but its one of those typical uh ranches that you find around here Oh its uh built in the probably built in the late fifties so its not um what you would find uh where you live But uh for the older uh ranch homes its pretty typical I guess",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Well our home is uh probably for our area its probably one of the lower income homes out here Uh most of the the homes that theyre building - well I shouldnt say all of them but most of them now are up in the millions of dollars",
+                "label": "b"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "Oh yeah theres -",
+                "label": "ny"
+            },
+            {
+                "text": "How many square feet do you have",
+                "label": "qw"
+            },
+            {
+                "text": "We have got about uh twenty Id say about twenty-four hundred",
+                "label": "sd"
+            },
+            {
+                "text": "Four bedrooms",
+                "label": "qy"
+            },
+            {
+                "text": "Uh weve got five bedrooms",
+                "label": "sd"
+            },
+            {
+                "text": "Five bedrooms",
+                "label": "b^m"
+            },
+            {
+                "text": "because we built onto our garage",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "bedroom for my mother and uh -",
+                "label": "sd"
+            },
+            {
+                "text": "I made I made fourth bedroom out of uh made fourth bedroom out of one of our out of our living room and then added uh what we call sunroom --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- to get the you know - when when we added four hundred square feet to our house -- -",
+                "label": "+"
+            },
+            {
+                "text": "Oh thats great",
+                "label": "ba"
+            },
+            {
+                "text": "-- so that -",
+                "label": "%"
+            },
+            {
+                "text": "Well this this house is very comfortable Weve got two living areas and that thats the thing I probably like the most about it",
+                "label": "sd"
+            },
+            {
+                "text": "How many stories Just one",
+                "label": "qw"
+            },
+            {
+                "text": "Its just one story Yeah Its Fox and Jacobs home",
+                "label": "sd"
+            },
+            {
+                "text": "How are they built",
+                "label": "qw"
+            },
+            {
+                "text": "Um weve been real happy with it",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Ive heard that Ive heard the construction is pretty good on Fox and Jacobs",
+                "label": "b"
+            },
+            {
+                "text": "Of course Im not carpenter or anything like that They could probably come in and say gee this is not straight and this is under something but -",
+                "label": "h"
+            },
+            {
+                "text": "But I mean it doesnt give you trouble",
+                "label": "qy^d"
+            },
+            {
+                "text": "No",
+                "label": "nn"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "No we havent had lot of problems with it at all",
+                "label": "nn"
+            },
+            {
+                "text": "No cracked slab or anything like that",
+                "label": "qy^d"
+            },
+            {
+                "text": "No",
+                "label": "nn"
+            },
+            {
+                "text": "All right",
+                "label": "bk"
+            },
+            {
+                "text": "Weve been real lucky So -",
+                "label": "sd"
+            },
+            {
+                "text": "And is it um natural gas and -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know what I miss though Basements",
+                "label": "qh"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "ba"
+            },
+            {
+                "text": "I sur- I sure wish they could build basements in homes in Texas",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I Ive heard lot of people say that Thats for sure Uh we have an attic that weve just put you know plywood ove- over the beams and things up in the attic and so that",
+                "label": "b"
+            },
+            {
+                "text": "So you -",
+                "label": "%"
+            },
+            {
+                "text": "has replaced it to some extent but certainly not -",
+                "label": "+"
+            },
+            {
+                "text": "Can you stand up in it",
+                "label": "qy"
+            },
+            {
+                "text": "Uh in parts I mean you couldnt you really couldnt use it for room",
+                "label": "na"
+            },
+            {
+                "text": "So you have probably more pitched roof than is typical around here",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "Th- - ours is pitched so shallow that you uh dont get much room in the attic",
+                "label": "%"
+            },
+            {
+                "text": "Yeah Yeah we uh weve got you know - Ill store all our Christmas stuff and whatever else junk up there",
+                "label": "b"
+            },
+            {
+                "text": "So five bedrooms and two living two family - -",
+                "label": "bf"
+            },
+            {
+                "text": "Two living areas We have living room and dining room at the front of the house",
+                "label": "b^m"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and then we have the uh family room kitchen and playroom --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- at the rear of the house which has been really nice In fact I really enjoy the playroom that - you would think that would not be real bonus you know to house but of all the rooms in the house Id say that was that was the one thats been really nice to have",
+                "label": "+"
+            },
+            {
+                "text": "Isnt it funny how families end up living in one room in the house most of the time",
+                "label": "qh"
+            },
+            {
+                "text": "I think thats true",
+                "label": "aa"
+            },
+            {
+                "text": "You - -",
+                "label": "%"
+            },
+            {
+                "text": "Yeah Probably our family room is the the biggest Uh",
+                "label": "b"
+            },
+            {
+                "text": "Right Some people I mean - families seem to migrate towards one one room and carry on most of their activities there and uh uh some rooms we have one room that we never use",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I mean might as well not even heat and cool it",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Strange",
+                "label": "sv"
+            },
+            {
+                "text": "Well thats kind of the way our living room and dining room is",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "but it is nice to have it because theres uh with our size of family its nice to know that theres one thats always straight and clean if you have someone come --",
+                "label": "sd"
+            },
+            {
+                "text": "Right right",
+                "label": "b"
+            },
+            {
+                "text": "-- just on the spur of the moment",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "So youve been fairly happy with it How long have you been in it",
+                "label": "bf"
+            },
+            {
+                "text": "Seventeen years",
+                "label": "sd"
+            },
+            {
+                "text": "Wow Boy it doesnt seem that long but it is because we uh came to this area about the same time",
+                "label": "ba"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Weve been fifteen fifteen years in the in the house that were living in",
+                "label": "sd"
+            },
+            {
+                "text": "Oh wow",
+                "label": "ba"
+            },
+            {
+                "text": "And we the the principal feature I like about ours is that its pier and beam",
+                "label": "sd"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Yours is slab I assume",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yes it is",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah ours is pier and beam which has allowed me to go under it and do whole lot of different things that I could not have done if it was slab",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Ive done lot of electrical and plumbing and other work that by myself and saved lot of money that I couldnt have done if the house was on slab",
+                "label": "sd"
+            },
+            {
+                "text": "Well thats interesting",
+                "label": "ba"
+            },
+            {
+                "text": "But thats because its so old",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Its thirty-five thirty-six years old when they used to build like that and uh -",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Well my husband wouldnt do that anyway Thats his thats his -",
+                "label": "b"
+            },
+            {
+                "text": "I know hes not handy right",
+                "label": "aa"
+            },
+            {
+                "text": "worst thing in life is to have to repair something",
+                "label": "sd"
+            },
+            {
+                "text": "I on the other hand se-",
+                "label": "sd"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "uh do lot too much of it and uh Ive gotten good at it which in in way is bad because then you uh you start to take pleasure in it",
+                "label": "+"
+            },
+            {
+                "text": "Well uh thats great We just kind of save everything for when Al uh for for when his Dad comes to visit and then he does all the repairing you know he does -",
+                "label": "ba"
+            },
+            {
+                "text": "Right My Dad is actually uh -",
+                "label": "b"
+            }
+        ]
+    }
+]

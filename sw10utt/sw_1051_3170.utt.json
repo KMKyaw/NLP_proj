@@ -1,0 +1,347 @@
+[
+    {
+        "conversation_id": "conv_3170",
+        "turns": [
+            {
+                "text": "Basically uh my husband and myself use the credit cards in regards to major purchases We really dont get into small little purchases If were going to purchase something quite large we might put it on credit card but other than that its not something that we use lot of Uh we may have only two or three versus uh I know lot of people have up to half dozen or uh up to dozen credit cards but uh ours are just major credit cards that we have and uh use uh use only when when we feel its necessary to make big purchase",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah is that like Visa and --",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "-- and Mastercard",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Do you have department store credit cards too or -",
+                "label": "qy"
+            },
+            {
+                "text": "Uh yeah one Sears",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Sears is pretty major with us simply because we do uh",
+                "label": "sd"
+            },
+            {
+                "text": "Appliances",
+                "label": "^2"
+            },
+            {
+                "text": "Appliances and things like that and theyre real good with their appliance and stuff like that so -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But uh we try to avoid them with passion because of the percent of interest rate If youve got the cash to pay for something its better to do it that way than versus credit cards unless its small enough sum that you can do it within two three month period but --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- if its uh any large purchases uh youve got to kind of think about uh how much youre going to put down as far as uh payments on it so that youre not getting eighteen percent or --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- twenty percent interest taken off so -",
+                "label": "+"
+            },
+            {
+                "text": "My my husband and I do basically the same thing but we we end up sneaking few in there that surprise us",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "We still pay it off every month --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- if it kills us",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "But we do it mainly for you know the cash flow what is that oh float - Thats the word float",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Sure sure",
+                "label": "b"
+            },
+            {
+                "text": "And I often will keep tra- track of what Ive charged and sometimes deduct it from my checkbook --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- already",
+                "label": "+"
+            },
+            {
+                "text": "Sure so you know",
+                "label": "b"
+            },
+            {
+                "text": "And sometimes just - and keep list and make sure I --",
+                "label": "%"
+            },
+            {
+                "text": "Sure",
+                "label": "b"
+            },
+            {
+                "text": "-- I dont go over certain limit",
+                "label": "+@"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Especially around birthdays you know",
+                "label": "+@"
+            },
+            {
+                "text": "Exactly",
+                "label": "aa"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Exactly",
+                "label": "aa^r"
+            },
+            {
+                "text": "If we go out to restaurant oh just to float it or I dont know",
+                "label": "sd"
+            },
+            {
+                "text": "Or if its business transaction --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- lot of times thats important too --",
+                "label": "+"
+            },
+            {
+                "text": "Yes my husband has -",
+                "label": "b"
+            },
+            {
+                "text": "-- to keep better receipt of it So yeah",
+                "label": "+"
+            },
+            {
+                "text": "Or anytime like plane ticket or you know -",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Even if we have the - Im sure wed have the cash before we got it but --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- the float --",
+                "label": "+"
+            },
+            {
+                "text": "Sure",
+                "label": "b"
+            },
+            {
+                "text": "-- for more than hundred dollars seems real nice for that",
+                "label": "+"
+            },
+            {
+                "text": "Oh sure For the month or whatever",
+                "label": "b"
+            },
+            {
+                "text": "That thirty days --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- or whatever",
+                "label": "+"
+            },
+            {
+                "text": "Exactly So -",
+                "label": "aa"
+            },
+            {
+                "text": "We have new one from AND and we have you know havent used that one too much",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh yeah",
+                "label": "b"
+            },
+            {
+                "text": "Be interesting thats nice because you can use it for calling card also",
+                "label": "sv"
+            },
+            {
+                "text": "Exactly sure",
+                "label": "aa"
+            },
+            {
+                "text": "Its Mastercard too so -",
+                "label": "sd"
+            },
+            {
+                "text": "Sure yeah",
+                "label": "b"
+            },
+            {
+                "text": "Its kind of fun uh but you get lot of junk mail about them",
+                "label": "sv"
+            },
+            {
+                "text": "Oh yeah and you always get these preapproved uh credit card things coming through uh your credit is great so lets send you another credit card or --",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah youre such --",
+                "label": "b"
+            },
+            {
+                "text": "-- its preapproved for -",
+                "label": "+"
+            },
+            {
+                "text": "-- wonderful person",
+                "label": "+"
+            },
+            {
+                "text": "Thats thats to entice you to get more credit cards",
+                "label": "sv"
+            },
+            {
+                "text": "Well give you five thousand dollars --",
+                "label": "^q"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- up front",
+                "label": "+"
+            },
+            {
+                "text": "And so you know we always laugh about that because its quite bit - I mean you know you always constantly getting those preapproved stuff so -",
+                "label": "sd"
+            },
+            {
+                "text": "Right Do you have uh an annual fee on yours or do you get yours through bank or -",
+                "label": "b"
+            },
+            {
+                "text": "Uh ours is through bank yeah should they yeah be seperate slash unit",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "We had it long time ago through bank and it just - but -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I I cant see paying an annual fee for it I mean I almost -",
+                "label": "b"
+            },
+            {
+                "text": "Oh youre already paying them uh if youre if you dont pay it off within that month interest anyway so yeah thats exactly it so -",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Okay",
+                "label": "fc"
+            },
+            {
+                "text": "Well it sounds like Im being paged otherwise",
+                "label": "fc"
+            },
+            {
+                "text": "Okay",
+                "label": "fc"
+            },
+            {
+                "text": "So -",
+                "label": "fc"
+            },
+            {
+                "text": "All right thanks lot",
+                "label": "fc"
+            },
+            {
+                "text": "Good talking to you",
+                "label": "fc"
+            },
+            {
+                "text": "Bye now",
+                "label": "fc"
+            }
+        ]
+    }
+]

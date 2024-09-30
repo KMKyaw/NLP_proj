@@ -1,0 +1,351 @@
+[
+    {
+        "conversation_id": "conv_3330",
+        "turns": [
+            {
+                "text": "Jay um my kids are are both in college um and Id I played fairly active part in helping them decide where to go On the other hand they really decided themselves",
+                "label": "o"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Um what what kind of experience did you have",
+                "label": "qo"
+            },
+            {
+                "text": "Well I uh - one girl went in in state and has graduated and then uh that was uh you know that was her choice pretty much where she wanted to go --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and I have uh one out of two out of state both in Missouri and um I teach uh in college and so I they had heard me talk about it and for years that I didnt think it really made too much difference where they went for their undergraduate Uh so that was --",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "-- pretty much uh -",
+                "label": "+"
+            },
+            {
+                "text": "I see well I may maybe Im wrong but I think it makes big difference in terms of finding school that is sort of right for the child in terms of his or her happiness and",
+                "label": "b"
+            },
+            {
+                "text": "Oh oh if they if theyre content there",
+                "label": "^2"
+            },
+            {
+                "text": "and and the appropriate support environment and things like that",
+                "label": "+"
+            },
+            {
+                "text": "I mean as far as the education as far as looking at the degree at the end that uh its very little difference is paid --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- to it where you get that bachelors Uh if its halfway decent school --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- they should be happy naturally and if they can get uh um two out of - lets see my son got full total scholarships --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and so theres uh theres plenty of scholarships out there and so people should be advised to look for those and um -",
+                "label": "sv"
+            },
+            {
+                "text": "Did did you play strong role in helping them pick schools or --",
+                "label": "qy"
+            },
+            {
+                "text": "Uh",
+                "label": "%"
+            },
+            {
+                "text": "-- did you just sort of say listen to your guidance counselors and -",
+                "label": "+"
+            },
+            {
+                "text": "Well they uh - I went we went around my son was graduated from Jesuit high school --",
+                "label": "^h"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and so he he was pretty much looking for Jesuit university and so there --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know - that was limited to five or six different places and um so hes in Saint Louis and I guess I played role in that I I just sort of uh let them um you know - theyd all been uh --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- pretty efficient as far as studies and uh so I didnt have that much to do they just uh --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- they just knew they wanted to go to college and I you know helped them get there as far as --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- traveling with them to look at different --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- places We did do that and I would suggest person always goes and looks at the school before they sign up",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I think thats great idea I mean that -",
+                "label": "b"
+            },
+            {
+                "text": "Some people dont do it and then they get there and hate it or whatever so --",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- if its possible",
+                "label": "+"
+            },
+            {
+                "text": "Its it seemed expensive at the time youre doing it but but the --",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- compared to the the total decision its nothing",
+                "label": "+"
+            },
+            {
+                "text": "I think in the short run it is expensive In the long run its very uh reasonable --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- if the person - my daughter has been in in Missouri for second year now shes coming home at the end of the semester --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- so uh you know shes already twenty-one She started late So thats you know strictly up to her and uh shell finish down here uh uh finish this year down here and then decide what shes going to do next year",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Itll save me lot of money because Im not going to have to pay out of state tuition --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- but again thats her decision --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- so uh but I have so many students in my classes that have dropped out and come back and theyre much better students at twenty-five twenty-six may twenty-eight So you know I dont I never have pushed them I just say that education is important you should do it uh but uh they have to do the work --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- so uh -",
+                "label": "%"
+            },
+            {
+                "text": "Yeah well back back to this visiting thing I mean I found that my kids had no conception what college was really like --",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- and and that the process of going around to few schools with them really helped them understand --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and being able to go with them to so- at least some of them --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I think so",
+                "label": "aa"
+            },
+            {
+                "text": "-- gave me chance to explain things to them and to uh in reference to what we had seen",
+                "label": "+"
+            },
+            {
+                "text": "And also Im opposed to the to the size Theyve just gotten so huge and so my daughter first looked at place that was forty thousand see thats just too many",
+                "label": "sv"
+            },
+            {
+                "text": "Good grief",
+                "label": "ba"
+            },
+            {
+                "text": "Ended up going to where I used to go and that was twenty-five hundred when I went there its twenty-one thousand now its too big",
+                "label": "sd"
+            },
+            {
+                "text": "Good grief",
+                "label": "ba"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "What is twenty-one thousand",
+                "label": "qw"
+            },
+            {
+                "text": "Pardon",
+                "label": "br"
+            },
+            {
+                "text": "What school is that",
+                "label": "qw"
+            },
+            {
+                "text": "Its Southwest Missouri State University --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh it was twenty-five hundred when I went there forty years ago and uh my sons in school about seven thousand and thats thats not bad --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- I teach in school about eight thousand and thats thats even little large --",
+                "label": "sd"
+            },
+            {
+                "text": "Yes",
+                "label": "aa"
+            },
+            {
+                "text": "-- but its much better than twenty-one thousand But they do have to visit and if if the parent can point out all the different places to look for --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- for scholarships and then oh those rating uh - the magazines and all those things are doing the ratings now and everything I dont think it hurts to look at them --",
+                "label": "+"
+            },
+            {
+                "text": "Yes",
+                "label": "aa"
+            },
+            {
+                "text": "-- I dont put that much stock in them but -- -",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- probably fine just to compare",
+                "label": "sv"
+            },
+            {
+                "text": "Helps to at least set up --",
+                "label": "bf"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- range of things to look at",
+                "label": "+"
+            },
+            {
+                "text": "If they you know uh they need to -",
+                "label": "sv"
+            }
+        ]
+    }
+]

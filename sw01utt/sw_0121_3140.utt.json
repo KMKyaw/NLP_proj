@@ -1,0 +1,399 @@
+[
+    {
+        "conversation_id": "conv_3140",
+        "turns": [
+            {
+                "text": "Hello",
+                "label": "fp"
+            },
+            {
+                "text": "Hello My name is Nola Im in Plano Texas",
+                "label": "fp"
+            },
+            {
+                "text": "Hi Nola Im Steve Im in Dallas Texas",
+                "label": "fp"
+            },
+            {
+                "text": "Not too far away",
+                "label": "sv"
+            },
+            {
+                "text": "No thats unusual Seems like usually -",
+                "label": "aa"
+            },
+            {
+                "text": "Ive had some from Plano too",
+                "label": "sd^t"
+            },
+            {
+                "text": "Oh yeah I think all mine have been East Coast people so far",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh Okay --",
+                "label": "b"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "-- um lets see",
+                "label": "^h"
+            },
+            {
+                "text": "- social changes",
+                "label": "sd^t"
+            },
+            {
+                "text": "Social changes",
+                "label": "b^m^t"
+            },
+            {
+                "text": "whats that mean",
+                "label": "qw"
+            },
+            {
+                "text": "That sounds like not as recent social changes too like back to the sixties or fifties I guess",
+                "label": "sd^t"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Think we can handle that",
+                "label": "qy^t"
+            },
+            {
+                "text": "Yeah Yeah I definitely - I mean theres plenty of things to talk about there Thats -",
+                "label": "b"
+            },
+            {
+                "text": "Okay uh shall I go ahead and push one",
+                "label": "b"
+            },
+            {
+                "text": "Yeah sure",
+                "label": "ny"
+            },
+            {
+                "text": "Okay You want to go ahead and start",
+                "label": "aa"
+            },
+            {
+                "text": "Uh I was hoping that you would but oh -",
+                "label": "sd^t"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "In social changes is that - uh it seems to me that uh -",
+                "label": "sd"
+            },
+            {
+                "text": "That involves --",
+                "label": "sv"
+            },
+            {
+                "text": "Does that -",
+                "label": "%"
+            },
+            {
+                "text": "-- lot of different --",
+                "label": "+"
+            },
+            {
+                "text": "-",
+                "label": "aa"
+            },
+            {
+                "text": "-- areas I think",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Like lot it seems like the rich are getting richer and the poor are getting poorer is even more true today You know",
+                "label": "+"
+            },
+            {
+                "text": "Yeah there is --",
+                "label": "aa"
+            },
+            {
+                "text": "- -",
+                "label": "%"
+            },
+            {
+                "text": "-- big difference in the uh economic um status of uh people although I think that has been true uh always Um perhaps theres less of the middle range then there was",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Its like people are starting to give up hope and they start out very poor Lets see thats bad tangent to get on What else has changed between the sixties and the eighties --",
+                "label": "aa"
+            },
+            {
+                "text": "Uh",
+                "label": "%"
+            },
+            {
+                "text": "-- and the nineties No",
+                "label": "+"
+            },
+            {
+                "text": "I think uh - in my situation - I have three children and were uh home schooling So education you know things that relate - to education um are things that I think about lot Um I think that and I think that involves social changes lot Uh for instance I think the schools are having more and more problems because of uh things that are happening socially in the world around them and in in - because of their parents and things that are being taught in the home are not taught in the home rather More not than are And children being put in day-care centers from very early - and and I think that lot of these things that have been happening such as the day-care centers and things are having big effect on the social changes Because of the way children are being raised theyre not learning the values they need to learn",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And theyre not um th- they dont have the self-esteem that they need to have and they dont have the um solid family life that they need to have to confidently and deal with the things in the world And uh I think were seeing lot of rebellion and things because of that and the things like the gang gang things that are happening and and um -",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah It seems so that - yeah that is pretty big change It seems even not just single parent families but with no guidance - but it seems like some of these even ladies that thatll work and have",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "baby and then you know after two or three months go back to work",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Oh its -",
+                "label": "b"
+            },
+            {
+                "text": "You know well that that I mean thats very young for baby",
+                "label": "+"
+            },
+            {
+                "text": "Thats really sad I think that lot of people - and they think they have to but -",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I I think that if they really tried they wouldnt have to And",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I I think that if they didnt that and it became more of the standard not to that uh I dont know maybe companies would start paying men more so that their wives could stay home You --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- know And have more solid uh foundation for the kids",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I mean theyre going to - like you said I mean theres they might be saving money I mean even if they had to pay more now I mean in the long run its going to cost society more to --",
+                "label": "b"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "-- force two people to work Even though --",
+                "label": "+"
+            },
+            {
+                "text": "Its already",
+                "label": "sv"
+            },
+            {
+                "text": "-- its higher productivity is short-term",
+                "label": "+"
+            },
+            {
+                "text": "It already costs society much more because of it You know it - trying to do all these programs like Headstart and things like those You wouldnt have to do that if mothers would stay home with their children and do things with them you know",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Um theres - and I think uh lot of it is selfishness People have become very selfish They dont want to stay home with the kids --",
+                "label": "%"
+            },
+            {
+                "text": "- yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- or something like that There are lot of two parent um situations where the woman goes back to work because thats what she wants to do you know",
+                "label": "+"
+            },
+            {
+                "text": "Oh rather than she needs the money --",
+                "label": "^2"
+            },
+            {
+                "text": "Rather than that",
+                "label": "sv"
+            },
+            {
+                "text": "-- just she wants the --",
+                "label": "+"
+            },
+            {
+                "text": "she has to have the money particularly",
+                "label": "+"
+            },
+            {
+                "text": "-- stimulating environment",
+                "label": "+"
+            },
+            {
+                "text": "Or maybe theres small need for money so she does it partly because of the money but partly for herself too",
+                "label": "sv"
+            },
+            {
+                "text": "Huh It -",
+                "label": "%"
+            },
+            {
+                "text": "You know",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Its interesting how - uh - home study Is that what you said",
+                "label": "b"
+            },
+            {
+                "text": "Home school",
+                "label": "sd"
+            },
+            {
+                "text": "Home school",
+                "label": "b^m"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Is that uh is is it like uh preschool level then or through --",
+                "label": "qr"
+            },
+            {
+                "text": "No",
+                "label": "nn"
+            },
+            {
+                "text": "-- grade school or -",
+                "label": "+"
+            },
+            {
+                "text": "I I have uh one going into fourth grade and one starting kindergarten and then preschooler",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I - -",
+                "label": "%"
+            },
+            {
+                "text": "And one on the way",
+                "label": "+"
+            },
+            {
+                "text": "Oh well you sound busy So youre teaching them",
+                "label": "sv"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "completely",
+                "label": "+"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "And I think uh its becoming uh more popular then it has been for while I think Home schoolings always been around but uh I can see more and more families going to it because of the problems in the schools Um and lot of it is discipline problems",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "lot of it is and you can tell which kids have been in day-care centers It its really obvious to look at them and watch the way they act and things",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "That um theyve been raised in day-care center",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Thats pretty sad because I mean I dont know somethings got to change with the schools Thats what it all boils down to in the end usually anyway",
+                "label": "aa"
+            },
+            {
+                "text": "Well I think its going to",
+                "label": "sv"
+            },
+            {
+                "text": "When theyre young -",
+                "label": "bf"
+            },
+            {
+                "text": "change in the homes before anything --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- changes anywhere else The home is the base its the basic unit And thats the where it all starts and if we dont start making changes in the homes - and maybe part of that is educating parents better",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And educating uh you know -",
+                "label": "%"
+            },
+            {
+                "text": "Changing peoples expectations",
+                "label": "bf"
+            },
+            {
+                "text": "I know they do do some they do have some classes in um high schools and things for kids to uh give them an idea of what family life is like and the uh you know and uh that kind of thing but uh -",
+                "label": "sd"
+            }
+        ]
+    }
+]

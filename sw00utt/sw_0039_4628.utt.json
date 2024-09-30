@@ -1,0 +1,255 @@
+[
+    {
+        "conversation_id": "conv_4628",
+        "turns": [
+            {
+                "text": "Wha- what sort of company do you work for Do you work for big or little place",
+                "label": "qw"
+            },
+            {
+                "text": "Uh I work for Georgia Tech Yes sir I work for the research facility Uh and its its kind of small in sense but it it does have about uh I guess two thousand civil employees",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And on scale I guess its still considered small It just have lot of different laboratories",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "The area I work in it it primarily have maybe hundred people or so",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "So thats make up most of the laboratory so from from that standpoint its pretty small --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "-- its pretty small What about yourself",
+                "label": "+"
+            },
+            {
+                "text": "Huh Well I I work for uh actually probably similar kind of place I work for uh Lincoln Laboratory",
+                "label": "b"
+            },
+            {
+                "text": "Oh okay",
+                "label": "bk"
+            },
+            {
+                "text": "Uh yeah We actually do some work with some people down at Georgia Tech",
+                "label": "b"
+            },
+            {
+                "text": "Oh okay I see",
+                "label": "bk^r"
+            },
+            {
+                "text": "Uh and uh - so were were part were actually part of I So its very much the same kind of place and uh --",
+                "label": "%"
+            },
+            {
+                "text": "Oh okay",
+                "label": "b"
+            },
+            {
+                "text": "-- the technical institution",
+                "label": "+"
+            },
+            {
+                "text": "Right Uh",
+                "label": "b"
+            },
+            {
+                "text": "Uh while I was sitting here waiting while they tried to find somebody for me to talk to trying to think of what uh uh what things were important uh besides salary and and job I guess uh list I had scribbled down was the people you worked with and maybe the uh the challenge of the work and uh --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- the working conditions things like that",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "I dont know What are your uh what sorts of things would you consider important",
+                "label": "h"
+            },
+            {
+                "text": "Well those and probably the security aspect of it",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Because lot of time nowadays even though youre working uh youre treated - and it may not be true in every place In lot of cases I think youre treated more like number instead of person",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "Because when it come down to layoff they dont really consider people and and you know their well being as far as you know how they going their next dollar going to come in How they going to pay their bills They just lay them off",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And I was reading this book one time about this guy that had uh - I think the company still exists What they use to do is they used to cut the number of hours for everybody as opposed to just laying people off --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know That way that you know one person wouldnt get one big blunt blow at one time",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "And uh you know I think if they had programs that set up to subsidize people that do get laid off little bit better you know other than - you know something like - unemployment is good but I mean the company as whole - because you as an employee even the company is making money they paying you salary but you are responsible for that company growth Youre responsible also for helping that company get to the par- point that its at at making profits So there should be something in there or some kind of clause that will subsidize people if they did lose their job other than you know uh neglect or something like that",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "You know Because its not persons fault that you know people not buying or businesses are are not on the up and up all the time you know I dont see how one or two people maybe more one or two but you know number of people can can be the downfall of com- company situation",
+                "label": "sv"
+            },
+            {
+                "text": "Now how do you mean that I know it -",
+                "label": "qo"
+            },
+            {
+                "text": "Well in sense that say how do you make conclusion that youre going to lay off these ten people",
+                "label": "qw^d"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh for the bad times of the company What about the the work effort those ten people did when the company was doing well",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know In that standpoint",
+                "label": "%"
+            },
+            {
+                "text": "Well you you think its better than to to try to spread the the effort equally among all the employees of the company or -",
+                "label": "qy"
+            },
+            {
+                "text": "Ye- yes I do",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I really do I think itd be better that way and even at that it would at least give the person time to look for another job because --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "-- they know that that there are problems and you know there are reason to look for another job --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- instead of just dumping it on them all at one time",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know Thats just thats my views you know",
+                "label": "h"
+            },
+            {
+                "text": "Yeah Ive heard of couple of companies that have done that I think uh back about few years ago when things were tough Hewlett-Packard did that for awhile They went to uh four and half day work week rather --",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- than cut yeah just cut everybody back ten percent",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b^r"
+            },
+            {
+                "text": "And uh have to give everybody half day week off",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b^r"
+            },
+            {
+                "text": "And I think you can do that for little while but Im -",
+                "label": "sv"
+            },
+            {
+                "text": "Well at least that would give person chance to look --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- you know Because the way it is person really dont have chance",
+                "label": "+"
+            }
+        ]
+    }
+]

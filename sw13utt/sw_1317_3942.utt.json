@@ -1,0 +1,419 @@
+[
+    {
+        "conversation_id": "conv_3942",
+        "turns": [
+            {
+                "text": "Well the topics about government Uh Im not altogether sure that thats my best topic Uh",
+                "label": "sd"
+            },
+            {
+                "text": "I thought it was kind of strange topic about corruption in the government and --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- uh how many people are self serving",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I mean you --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "-- I I think people tend to think that the government is not corrupt",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "And that people arent self serving",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "I mean thats what I would like to think",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah I I I think that the last uh part of that question was particularly interesting uh about uh uh uh can all unethical behavior or how much unethical behavior can be made illegal --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh because i- it seems to me that when uh government or public service of any kind degenerates so much that you have to have so many explicit ethical codes --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "-- uh parallel to the legal codes that uh were focusing on the wrong thing",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh yeah",
+                "label": "b^r"
+            },
+            {
+                "text": "Maybe maybe thats what is happening Maybe so many things have become public with the media over the past you know ten to twenty years --",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- that uh it becomes more evident Perhaps things that we didnt think of before and just concentrated on the lawmaking or the results that would be seen in public works or bills that are passed or you know et cetera like that --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and we were just not exposed to the personal lives of these persons",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "And I couldnt help thinking when that last quest- it was funny question --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "-- when that last part of the question came about - how many things can we uh actually put legal code on --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "-- that uh how much uh should it be our uh prerogative to see into the private lives of these people",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know",
+                "label": "+"
+            },
+            {
+                "text": "Yeah that makes sense",
+                "label": "aa"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "Because you start prying in peoples private lives you ruin their lives as well as -",
+                "label": "sv"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "And sometimes you know I dont even know how much of difference it really makes you know",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I mean I guess in some cases sure we care about what they did in the past --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but uh sometimes I dont know --",
+                "label": "h"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "-- I think it gets in the way of the better judgment I mean just because you did something in the past doesnt mean hes not good enough person to be politician",
+                "label": "sv"
+            },
+            {
+                "text": "I I I agree with that and uh and also that if the results that theyre putting out and what they actually seem to be accomplishing by --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- legitimate means is whats you know going to the public --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "-- then uh then theyll pay for their private life in their own private conscience",
+                "label": "+"
+            },
+            {
+                "text": "Thats it",
+                "label": "ba"
+            },
+            {
+                "text": "And uh --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you kn- when it becomes public though it becomes scandalous",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "The thats thats the thing that - uh things that you dont know --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh - do do not worm their way around and influence other people or perhaps lead other people astray",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "People could say oh they do it so I guess you know - but as soon as things do get public --",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh there there --",
+                "label": "+"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "-- is that terrible concern So sometimes I ask myself what are uh people doing that are in the media --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- when somebody you know comes up to office it seems that one of the first thing thats done is to dig up any kind of thing they can on them --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "-- and get it all over the headlines",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah I guess its what sells newspapers you know",
+                "label": "aa"
+            },
+            {
+                "text": "Its very low way of living",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh so - - and and and as far as uh you know myself having any particular personal uh knowledge or insight into politics or politicians it Im not terribly involved in it",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Just in very cursory way",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "I vote and I you know try to do whatever I can on the little local area but I I i- it just is not one of the things that I have uh placed uh uh lot of my particular time and effort --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- into so I I always feel very outside --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- this kind of uh this kind of an issue",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But uh -",
+                "label": "%"
+            },
+            {
+                "text": "I am kind of the same way I just kind of read the paper --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- follow up on peop- --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- I mean you know just keep an eye on whats going on --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah right",
+                "label": "b"
+            },
+            {
+                "text": "-- but I dont really play an active role --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah uh",
+                "label": "b"
+            },
+            {
+                "text": "-- in any kind of --",
+                "label": "+"
+            },
+            {
+                "text": "Uh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- politics",
+                "label": "+"
+            },
+            {
+                "text": "Im not Im not in there Im not one of those uh you know volunteers thats down at headquarters and whatever uh although I admire the people that do that and they certainly do get inside information --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh of course the better you know person that might be affiliated with that kind --",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- of thing the more you can trust their their judgment --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b^r"
+            },
+            {
+                "text": "-- and their insight",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But the media insight as you said - I just kind of read and kind of be aware --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and then uh I dont like to make whole lot of uh judgment - myself --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^r"
+            },
+            {
+                "text": "-- unless things are so absolutely out of whack that uh -",
+                "label": "+"
+            }
+        ]
+    }
+]

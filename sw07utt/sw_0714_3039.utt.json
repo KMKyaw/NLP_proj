@@ -1,0 +1,699 @@
+[
+    {
+        "conversation_id": "conv_3039",
+        "turns": [
+            {
+                "text": "Okay we can start",
+                "label": "o"
+            },
+            {
+                "text": "Okay Hi",
+                "label": "aa"
+            },
+            {
+                "text": "Hi",
+                "label": "fp"
+            },
+            {
+                "text": "How many children do you have",
+                "label": "qw"
+            },
+            {
+                "text": "I have four",
+                "label": "sd"
+            },
+            {
+                "text": "Oh four okay okay",
+                "label": "b^m"
+            },
+            {
+                "text": "How many do you have",
+                "label": "qw"
+            },
+            {
+                "text": "Well I have two children and uh two stepdaughters",
+                "label": "sd"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "So we have four altogether too",
+                "label": "sd"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "Yeah Are you are you running ragged these days",
+                "label": "b"
+            },
+            {
+                "text": "Well no because mine are all grown",
+                "label": "nn"
+            },
+            {
+                "text": "Oh they are Oh",
+                "label": "b"
+            },
+            {
+                "text": "So the topic for me - I I can only rera- relate now to my grandchildren",
+                "label": "sd^t"
+            },
+            {
+                "text": "Oh well --",
+                "label": "ba"
+            },
+            {
+                "text": "I do keep my -",
+                "label": "sd"
+            },
+            {
+                "text": "-- good Impart me some wisdom Catherine",
+                "label": "+"
+            },
+            {
+                "text": "Uh I do take care of my youngest granddaughter uh most every Saturday Uh my daughter and her husband work Saturdays My daughter is uh uh doing schedule of uh twenty-four hours on the weekend but she gets paid for forty",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And Dave is uh in supervisory work and he has to work almost every Saturday so -",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh",
+                "label": "%"
+            },
+            {
+                "text": "How old is your granddaughter",
+                "label": "qw"
+            },
+            {
+                "text": "Shes three",
+                "label": "sd"
+            },
+            {
+                "text": "Oh so shes little one",
+                "label": "bf"
+            },
+            {
+                "text": "Yes",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Shes shes little",
+                "label": "sd^m"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "Shes says how are you doing grandma today",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Whoa",
+                "label": "fe"
+            },
+            {
+                "text": "Are you surviving Is she ol- your oldest grandd- child",
+                "label": "qy"
+            },
+            {
+                "text": "Oh no no no No shes my baby",
+                "label": "nn"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Shes my baby yeah",
+                "label": "sd^r"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "She was miracle baby",
+                "label": "sd"
+            },
+            {
+                "text": "Was she",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah she really was",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Oh thats nice Now do your other grandchildren live in Dal- the Dallas area",
+                "label": "ba"
+            },
+            {
+                "text": "Yes they do uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Do you get to see them",
+                "label": "qy"
+            },
+            {
+                "text": "They really do uh-huh",
+                "label": "sd^r"
+            },
+            {
+                "text": "How nice What treat You know being from Plano you know I know so very few people who have extended family in town Im real jealous when I hear that somebody has grandma around --",
+                "label": "ba"
+            },
+            {
+                "text": "Oh --",
+                "label": "b"
+            },
+            {
+                "text": "-- because --",
+                "label": "+"
+            },
+            {
+                "text": "-- yeah thats --",
+                "label": "b"
+            },
+            {
+                "text": "-- we dont and -",
+                "label": "+"
+            },
+            {
+                "text": "-- really - thats really wonderful",
+                "label": "+"
+            },
+            {
+                "text": "It is it is",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And you know just so that they get to know their grandparents but also for help",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "We dont we dont have that luxury But we have lots of friends and and everybody tends to be in the same boat So we we trade off whole lot with friends and you know run here and run there Were right smack dab in the middle of baseball season right now And we have three playing baseball",
+                "label": "sd"
+            },
+            {
+                "text": "Oh thats marvelous",
+                "label": "ba"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "Well they keep you hopping Im sure",
+                "label": "sv"
+            },
+            {
+                "text": "They definitely do",
+                "label": "aa"
+            },
+            {
+                "text": "Well I know uh that uh one of the ladies I know they are very involved with their little girl and and I think its excellent because shes getting qualified quality time --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- for uh her musical uh talents --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- her sports abilities --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh I think because she is uh the only child that they concentrate uh they would like to have more but that hasnt been uh possible",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh shes tried many uh avenues --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and and so now its just you know that shes kind of resolved herself that yes this is going to be the only one",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Yeah and she devotes yeah",
+                "label": "aa"
+            },
+            {
+                "text": "And theyre focusing on all of her uh welfare",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh Yeah well our kids you know - uh my daughter - uh sings with Younger Generation I dont know if youve ever heard of them There theyre singing group here in Plano",
+                "label": "b"
+            },
+            {
+                "text": "Oh okay",
+                "label": "bk"
+            },
+            {
+                "text": "And theyre part of the ch- uh Plano Childrens Civics Civic Chorus",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And theyre going to Washington next December Uh to sing for President Bush at the White House at Christmas time",
+                "label": "sd"
+            },
+            {
+                "text": "Oh how wonderful",
+                "label": "ba"
+            },
+            {
+                "text": "Isnt that neat Yeah so",
+                "label": "qy"
+            },
+            {
+                "text": "Thats wonderful",
+                "label": "ba"
+            },
+            {
+                "text": "So we have been really up to our eye balls in fund raising and trying to get uh -",
+                "label": "+"
+            },
+            {
+                "text": "Well thats wonderful",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah it is It is So you know and then she plays softball and my son plays baseball and my stepdaughter plays softball so we we tend to do lot of running Things are very different nowadays than when I grew up --",
+                "label": "aa"
+            },
+            {
+                "text": "Oh they are",
+                "label": "aa"
+            },
+            {
+                "text": "-- and Im sure when your children grew up you didnt you know - I dont remember doing all these things",
+                "label": "sv"
+            },
+            {
+                "text": "No",
+                "label": "aa"
+            },
+            {
+                "text": "I certainly dont remember my parents running me here and there and supporting me in all these things but we had more I guess family time alone --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah youre -",
+                "label": "aa"
+            },
+            {
+                "text": "-- where we did nothing",
+                "label": "+"
+            },
+            {
+                "text": "Now I think --",
+                "label": "sv"
+            },
+            {
+                "text": "Which was good",
+                "label": "+"
+            },
+            {
+                "text": "-- every- everything is doing doing doing out of the house",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Which can be very hectic",
+                "label": "+"
+            },
+            {
+                "text": "It can be and and sometimes I you know I kind of long for the good old days when --",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah it wasnt so he- -",
+                "label": "aa"
+            },
+            {
+                "text": "-- we didnt do all these running But on the other hand we just love watching the kids play and getting to know the other parents and --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- weve had lot of fun with that too",
+                "label": "+"
+            },
+            {
+                "text": "You have to look on that on the uh positive side of that",
+                "label": "sv"
+            },
+            {
+                "text": "Its just different",
+                "label": "sv"
+            },
+            {
+                "text": "Yes it is",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Its just different lifestyle",
+                "label": "bf"
+            },
+            {
+                "text": "Its just very different",
+                "label": "b^m"
+            },
+            {
+                "text": "Yes",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Uh",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "My uh second grandson is in Cappella and I know what youre talking about when hes involved you know the children are involved --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- in that and hes been - he has traveled and they have won awards so I - know slash unit or part of previous slash unit",
+                "label": "+"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "Yes slash problem should be ny",
+                "label": "+@"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh And I know where youre coming from --",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and its its very nice",
+                "label": "sv"
+            },
+            {
+                "text": "It is very nice",
+                "label": "aa^m"
+            },
+            {
+                "text": "I think uh uh those type of children uh that are involved in things like that their uh goals are going to be set higher than the average child that are not participating in things",
+                "label": "sv"
+            },
+            {
+                "text": "Well I think so and and I think theyve learned whole lot about being part of team whether the team is your singing group your band your --",
+                "label": "aa"
+            },
+            {
+                "text": "Right",
+                "label": "aa"
+            },
+            {
+                "text": "-- your sports team --",
+                "label": "+"
+            },
+            {
+                "text": "Going to -",
+                "label": "%"
+            },
+            {
+                "text": "-- you know you all have to pull together",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And uh -",
+                "label": "%"
+            },
+            {
+                "text": "team effort yes",
+                "label": "bf"
+            },
+            {
+                "text": "Yeah and so Ive been real pleased with that too I think theyve learned some real good life skills Uh you know being --",
+                "label": "aa"
+            },
+            {
+                "text": "That",
+                "label": "ba"
+            },
+            {
+                "text": "-- involved in all those things And uh -",
+                "label": "+"
+            },
+            {
+                "text": "Thats wonderful Thats really is --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- nice to have in your background that you know then you can youre you can be very flexible",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh theres less uh friction involved in relationships when you add that skill --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- of teamwork",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh I mean lot of people that are adults are having to go back and learn those basics when our children are already learning that",
+                "label": "sv"
+            },
+            {
+                "text": "Yes yes",
+                "label": "aa"
+            },
+            {
+                "text": "And I think its step giant step of progress I really do",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "aa"
+            },
+            {
+                "text": "So uh I -",
+                "label": "%"
+            },
+            {
+                "text": "Give me some wonderful advice Catherine What is the best advice of mothering that you know",
+                "label": "ad"
+            },
+            {
+                "text": "The best of",
+                "label": "sv"
+            },
+            {
+                "text": "Besides dont sweat the small stuff",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Well uh Cathy I think if you look to the Word of God --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh Oh thats good thats real good advice",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh think on the things that are pure and lovely and uh keep your mind off of negative things",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And keep your mind on positive things and and stress that to your children",
+                "label": "ad"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh even if theyre even if theyre discouraged tell them that thats just passing moment --",
+                "label": "ad"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and to dwell on those things that are uh not negative and that are positive things in their life --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and I think youll see lot of growth in uh in their ability to uh control their thought pattern and and when you employ the Word of God theres nothing as powerful as the Word of God",
+                "label": "sv"
+            },
+            {
+                "text": "Absolutely Well I would agree with that Were also real active in our church and my kids do an awful lot with that Allyson sings in the choir I told her thats gift from God and you need to return that back",
+                "label": "aa"
+            },
+            {
+                "text": "Oh absolutely Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "And you owe you owe that --",
+                "label": "^q"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- back to God because hes given you that ability and that talent and --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "aa"
+            },
+            {
+                "text": "-- and thats real nice Im real proud of her Im equally proud of her when I see her in church as I am when I see her performing You know thats thats real neat",
+                "label": "+"
+            },
+            {
+                "text": "Well if she looks if she looks at it as you suggest that that thats that she can give her - her talent back to the Lord for His glory --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and she can look at it that way and and uh thats -",
+                "label": "+"
+            }
+        ]
+    }
+]

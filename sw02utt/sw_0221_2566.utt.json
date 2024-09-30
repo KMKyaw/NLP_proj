@@ -1,0 +1,923 @@
+[
+    {
+        "conversation_id": "conv_2566",
+        "turns": [
+            {
+                "text": "Okay Do you have any children",
+                "label": "o"
+            },
+            {
+                "text": "No I dont",
+                "label": "nn"
+            },
+            {
+                "text": "You dont",
+                "label": "bf"
+            },
+            {
+                "text": "Do you",
+                "label": "qy"
+            },
+            {
+                "text": "Yes I have uh one five year old daughter",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh Did you ever have her in child care",
+                "label": "b"
+            },
+            {
+                "text": "Yes I do She was um at private well - I stayed off work with her for little over of year --",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- when she was born And then I had her at private sitter for I guess two two and half years after that",
+                "label": "+"
+            },
+            {
+                "text": "And how did you choose that sitter",
+                "label": "qh"
+            },
+            {
+                "text": "Um she was referred to me by couple of people and she turned out to be wonderful I couldnt have asked for anything better I dont think",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I didnt want to - send her straight to day care",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And even though she was that old I still didnt want her to go to day care",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And this lady you would think it was her own",
+                "label": "sd"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah Shes real good",
+                "label": "ny"
+            },
+            {
+                "text": "Its hard to find people like that",
+                "label": "sv"
+            },
+            {
+                "text": "Yes It is And um now I have got her in Montessori school",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And shes really really doing good and learning lot And actually Ive started working up there in the afternoons too So -",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah Well thats neat",
+                "label": "b"
+            },
+            {
+                "text": "- well yeah I guess Im going to quit as soon as school the school seasons over But uh I really enjoyed being with her up there I hate it for her she has to stay that much longer",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "but -",
+                "label": "%"
+            },
+            {
+                "text": "Do they have classes for them during the summer too",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah They they go - uh year-round uh --",
+                "label": "ny"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "-- teach them Now in the summer they have like lot of field trips",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Theres field trip just about every day if they want to go on one and stuff like that Its lot more lax But but they still go through all their uh curriculum as usual",
+                "label": "sd"
+            },
+            {
+                "text": "What kind of questions did you ask about the private sitter before you took her over there",
+                "label": "qw"
+            },
+            {
+                "text": "Um gosh I ca- - my husband and I both went We kind of give her the third degree",
+                "label": "^h"
+            },
+            {
+                "text": "Uh good Im glad to hear that",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah Well we went over to her house so we told her you know pro- - well we didnt tell her we just told here wed be over that day We didnt tell her when So that way I didnt think -",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "you know the house would be - you know cleaned or anything for me specifically",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And um she had daughter and I want to say her daughter was like six or seven right around first second grade And um at the time she kept anoth- one other child um about four year old I believe But it was only like part-time basis So we went over there and we questioned her about what she fed them and um what she did with them during the day and um you know just how she treated them how how her daughter was with the children when her daughter got home from school and",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "stuff like that And uh we really seem to be pleased with her And um -",
+                "label": "+"
+            },
+            {
+                "text": "Did you did you introduce your daughter to her before you made",
+                "label": "qy"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "your decision",
+                "label": "+"
+            },
+            {
+                "text": "Oh yes And she still loves her to death I mean when they see each other you know they just love each other to death And she literally spent almost the entire amount that I paid her on my daughter",
+                "label": "ny"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "Either making her clothes or",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "buying her things So were real real lucky But aft- uh - so she stayed with her about roughly two years and she um she had to go back to work they had some other expenses that came up so she had to go I guess get real job",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Get real job full time",
+                "label": "b"
+            },
+            {
+                "text": "Yeah So uh -",
+                "label": "aa"
+            },
+            {
+                "text": "So what made you decide to put her in Montessori school",
+                "label": "qw"
+            },
+            {
+                "text": "Well I checked lot of places out you know the Kinder Cares and the",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b@"
+            },
+            {
+                "text": "stuff like that And uh I live in Garland",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "+@"
+            },
+            {
+                "text": "And theres this Montessori school thats nearby and um it had been recommended by some friends of ours but uh it its an older place And so I uh checked out all the new places that were near us and then I checked that place out and uh even though it was older it was it was real comfortable and",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I guess kind of homey",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And they didnt just play all day long You know like I noticed lot of these other schools that I went and interviewed on or interviewed at um they did lot of play work and stuff And then they - almost all of them had Montessori section",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "And I thought well gosh that must be pretty good you know if everybodys trying to incorporate little bit of it into",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "into",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "their school And they made sure they pointed it out you know But after I looked at this place and I took Randi with me uh I think just about to every place One place I think I didnt take her",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I just kind of let her go see see what she felt like doing",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And that place boy - if somebody came and she liked them and she went outside with them and its hard to drag her away So I felt more comfortable at",
+                "label": "sd"
+            },
+            {
+                "text": "Thats",
+                "label": "ba"
+            },
+            {
+                "text": "that place",
+                "label": "+"
+            },
+            {
+                "text": "the true test",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And she was real comfortable And she has really really done good I I - its hard to tell how much has been that or how much is just her",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But she seems to me to be you know pretty quick and smart and shes already reading and writing and stuff",
+                "label": "sd"
+            },
+            {
+                "text": "Thats good",
+                "label": "ba"
+            },
+            {
+                "text": "like that And she just turned five last month",
+                "label": "+"
+            },
+            {
+                "text": "Huh that",
+                "label": "ba"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "is good then",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I think so I mean I didnt want to rush school at her the whole time but",
+                "label": "aa"
+            },
+            {
+                "text": "No especially were going to spend the next eighteen years in school",
+                "label": "aa"
+            },
+            {
+                "text": "Exactly Exact- I wanted to quit my job so I could stay home with her the next five months because I know shes going to have to face that",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah really",
+                "label": "b"
+            },
+            {
+                "text": "And oh my God Here we go",
+                "label": "fe"
+            },
+            {
+                "text": "Thats right",
+                "label": "ba"
+            },
+            {
+                "text": "you know I just hate that but anyway So you dont have any children Do you have any - nieces or nephews then",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Yeah I have nephew Hes little brat He goes to really crummy day school My sisters not real bright so but he hes always sick I mean he has always got some kind of",
+                "label": "ny"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh@"
+            },
+            {
+                "text": "cold or something And I dont know I dont think this place is very good place for him",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "+@"
+            },
+            {
+                "text": "Its just kind of convenient and shes the kind that goes for convenience over anything else",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really Just easy to get them",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "there and stu- -",
+                "label": "+"
+            },
+            {
+                "text": "Exactly",
+                "label": "aa"
+            },
+            {
+                "text": "Well thats shame",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah I dont think she checks things out very well",
+                "label": "b"
+            },
+            {
+                "text": "Oh really Thats",
+                "label": "bh"
+            },
+            {
+                "text": "Which",
+                "label": "+"
+            },
+            {
+                "text": "scary",
+                "label": "+"
+            },
+            {
+                "text": "really surprises me It is scary Yeah",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I - I was petrified",
+                "label": "b"
+            },
+            {
+                "text": "I know I would be too",
+                "label": "ba"
+            },
+            {
+                "text": "I mean thats uh - I dont know thats just it And thats why I dont mind paying more",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Um I dont know I just feel - -",
+                "label": "h"
+            },
+            {
+                "text": "Too many horror stories out there that",
+                "label": "sd"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "you know -",
+                "label": "+"
+            },
+            {
+                "text": "And thats one reason I like working up there little bit is",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "ba"
+            },
+            {
+                "text": "because I know whats really going on",
+                "label": "+"
+            },
+            {
+                "text": "Thats right I think thats an ideal situation",
+                "label": "ba"
+            },
+            {
+                "text": "Because you dont know uh - because like at her school um as soon as you drive up its got like circular type drive They sit and they have car callers and and some kid goes out and gets the kid and",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "its time to go",
+                "label": "+"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "Well at first that always kind of bothered me I mean not bothered me - but I thought well you know Id like to see what shes doing you",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "know But now that Im there I mean its its lot more convenient because theres so many kids that doddle",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know when their parents come and its hard to get them out and lot of parents have places to go and --",
+                "label": "+"
+            },
+            {
+                "text": "Thats right",
+                "label": "ba"
+            },
+            {
+                "text": "-- and things like that And its late at night so you know now it doesnt bother me at all but -",
+                "label": "+"
+            },
+            {
+                "text": "Is that where the - over there off of like - Im not sure what the street is is it off of near Country Club",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "and all -",
+                "label": "%"
+            },
+            {
+                "text": "Sixty-six That one thats",
+                "label": "sd"
+            },
+            {
+                "text": "yeah",
+                "label": "ny"
+            },
+            {
+                "text": "set back in the woods",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I I",
+                "label": "sd"
+            },
+            {
+                "text": "Thats it",
+                "label": "sd^e"
+            },
+            {
+                "text": "Ive seen the signs but Ive never actually seen the place itself you",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "know Its pretty set far back",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "off the road",
+                "label": "+"
+            },
+            {
+                "text": "Right It - - and thats something I like too",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "because --",
+                "label": "sd"
+            },
+            {
+                "text": "Definitely",
+                "label": "ba"
+            },
+            {
+                "text": "-- lot of those places are like you know the one over here on seventy-eight Skaggs",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "That little Kinder Care whatever it is",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "You know its right there on - which this is on highway too But its set back",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "enough to -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Theres difference",
+                "label": "b"
+            },
+            {
+                "text": "Im scared I would be scared to death my child might accidentally get out or --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- or if that seems like real accessible place to where you could",
+                "label": "+"
+            },
+            {
+                "text": "Ye-",
+                "label": "%"
+            },
+            {
+                "text": "you know go",
+                "label": "+"
+            },
+            {
+                "text": "Yep",
+                "label": "b"
+            },
+            {
+                "text": "in and get one",
+                "label": "+"
+            },
+            {
+                "text": "Thats right Or you know or car accident",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah And",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "that was one of the places I had checked out And it was it it was brand new when I checked it out and of course it was beautiful and",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "clean and smelled wonderful in there but you know I that - I didnt base everything on that",
+                "label": "+"
+            },
+            {
+                "text": "No because that all wears off",
+                "label": "aa"
+            },
+            {
+                "text": "Thats right Thats exactly right You get some kids in there and its over quick",
+                "label": "ba"
+            },
+            {
+                "text": "Yep",
+                "label": "b"
+            },
+            {
+                "text": "But um Ive been real pleased knock on wood Im scared to death her going to public school",
+                "label": "sd"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "I dont know I - - I do know why because --",
+                "label": "h"
+            },
+            {
+                "text": "I would be too",
+                "label": "ba"
+            },
+            {
+                "text": "-- you know",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "- drugs and",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "everything else and",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "they talk about how soon they start that and that scares me",
+                "label": "+"
+            },
+            {
+                "text": "I know It is scary",
+                "label": "ba"
+            },
+            {
+                "text": "I mean youre just with them -",
+                "label": "sv"
+            },
+            {
+                "text": "Do they teach them in school right now where shes at about drugs",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah Theyve um theyve had police officers come in --",
+                "label": "ny"
+            },
+            {
+                "text": "Good",
+                "label": "ba"
+            },
+            {
+                "text": "-- and talk to them about it But of course they still have no concept of",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "what in the world drugs are you",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "know but -",
+                "label": "+"
+            },
+            {
+                "text": "And what to do when theyre faced with it",
+                "label": "^2"
+            },
+            {
+                "text": "Right But I just think of her you know next year shes going to be five six years old in kindergarten in same school with you know uh I guess ten year olds Isnt that",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "six sixth sixth grade you know and thats big gap",
+                "label": "+"
+            },
+            {
+                "text": "It is",
+                "label": "ba"
+            },
+            {
+                "text": "And thats uh that I can honestly see the peer pressure there",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And that",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I can",
+                "label": "aa"
+            },
+            {
+                "text": "just",
+                "label": "+"
+            },
+            {
+                "text": "see it too",
+                "label": "+"
+            },
+            {
+                "text": "terrifies me to death And stuff those kids getting snatched and --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- Im Im probably little too over protective but",
+                "label": "+"
+            },
+            {
+                "text": "Nothing wrong with that",
+                "label": "sv"
+            },
+            {
+                "text": "Well nowadays you have to be",
+                "label": "+"
+            },
+            {
+                "text": "Yes You do",
+                "label": "aa"
+            },
+            {
+                "text": "If -",
+                "label": "%"
+            },
+            {
+                "text": "I dont I dont think theres anything wrong with that",
+                "label": "sv"
+            },
+            {
+                "text": "So I at first thought you know when I didnt have kids - I was going God how can you be so protective You",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "know but its easy now",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh Now you understand",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Definitely",
+                "label": "aa"
+            },
+            {
+                "text": "Thats what Im thinking what your mom and dad always used to say when you have kids of your own youll understand",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Thats exactly right and I do",
+                "label": "ba"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But anyway Well are you ever are you - are you are you married",
+                "label": "%"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "Are yall planning on having kids Or -",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah Wed like to should be two slash units",
+                "label": "na@"
+            },
+            {
+                "text": "Well thats good",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Because theyre really neat Its just -",
+                "label": "sv"
+            }
+        ]
+    }
+]

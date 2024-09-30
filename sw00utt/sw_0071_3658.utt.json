@@ -1,0 +1,287 @@
+[
+    {
+        "conversation_id": "conv_3658",
+        "turns": [
+            {
+                "text": "Okay",
+                "label": "o"
+            },
+            {
+                "text": "Okay",
+                "label": "b^m"
+            },
+            {
+                "text": "Universal health insurance right",
+                "label": "sd"
+            },
+            {
+                "text": "Thats right",
+                "label": "na"
+            },
+            {
+                "text": "Uh all 3 utts should be separate slash units",
+                "label": "o@"
+            },
+            {
+                "text": "What would we like to say I think -",
+                "label": "qw"
+            },
+            {
+                "text": "Well I think universal health insurance like national health like what Canada has",
+                "label": "+@"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Is that what youre youre thinking the subject is about",
+                "label": "+@"
+            },
+            {
+                "text": "I think thats what the subject is about",
+                "label": "sv"
+            },
+            {
+                "text": "Did you read uh the article in the paper today about this particular subject",
+                "label": "qy"
+            },
+            {
+                "text": "In the Dallas the MORNING TIMES",
+                "label": "qy^d^h"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "I guess I did not",
+                "label": "sd"
+            },
+            {
+                "text": "Uh the state of Washington and the state of Minnesota is uh going to begin testing program state funded program for citizens of those two states and theres fourteen other uh states that are considering it Least according to the article in the paper this morning I think its trend thats thats thats uh probably may go nationwide eventually because I think national health is something that we all need Its getting to point that you have to have it you have to have some form of health insurance",
+                "label": "sd"
+            },
+            {
+                "text": "Well its been interesting that we -",
+                "label": "sv"
+            },
+            {
+                "text": "Extremely expensive though",
+                "label": "sv"
+            },
+            {
+                "text": "Yes So we live in society though where everyone if you ask them on polls will uh say that they think that everyone has right to health care",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And yet I dont think weve ever quite decided whos really supposed to pay for it",
+                "label": "sv"
+            },
+            {
+                "text": "Well thats the thing you know uh unfortunately the ones that currently pay and pay the premiums for health insurance are are paying for the people that dont have health insurance",
+                "label": "o"
+            },
+            {
+                "text": "Which is why people are talking about - we ought to just admit it perhaps --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and then try and somehow subsidize it in way thats more fair",
+                "label": "+"
+            },
+            {
+                "text": "I dont think you uh -",
+                "label": "sv"
+            },
+            {
+                "text": "You have health insurance",
+                "label": "qy"
+            },
+            {
+                "text": "Yes I do",
+                "label": "ny"
+            },
+            {
+                "text": "Through your company",
+                "label": "qy^d"
+            },
+            {
+                "text": "Uh through my company yes But I have been in situation uh recently where I was laid off from position as sales manager of company and was off work for about year and my wife developed cancer We didnt have any --",
+                "label": "sd^m"
+            },
+            {
+                "text": "Oh my goodness",
+                "label": "ba"
+            },
+            {
+                "text": "-- insurance And it was --",
+                "label": "+"
+            },
+            {
+                "text": "Thats must have been hard",
+                "label": "by"
+            },
+            {
+                "text": "-- go to Parkland type situation",
+                "label": "+"
+            },
+            {
+                "text": "How was your care at Parkland",
+                "label": "qo"
+            },
+            {
+                "text": "Uh because it was life threatening situation it was very good Uh as it as it turned out one of the top uh people or one of the top doctors in the state that is involved in cancer treatment was at Parkland",
+                "label": "sv"
+            },
+            {
+                "text": "But yet Parkland is not free either",
+                "label": "sd"
+            },
+            {
+                "text": "No its not free but uh",
+                "label": "aa"
+            },
+            {
+                "text": "Is it affordable",
+                "label": "qy"
+            },
+            {
+                "text": "Its its situation that because I didnt have any insurance and I was on unemployment it was paid by the county",
+                "label": "+"
+            },
+            {
+                "text": "So you did have good experience",
+                "label": "sv"
+            },
+            {
+                "text": "I had bad experience as it turned out Uh I was fortunate that there was Parkland",
+                "label": "ar"
+            },
+            {
+                "text": "Is your wife better I hope",
+                "label": "qy"
+            },
+            {
+                "text": "Uh no she passed away",
+                "label": "nn^e"
+            },
+            {
+                "text": "Im real sorry",
+                "label": "by"
+            },
+            {
+                "text": "Thats all right",
+                "label": "bd"
+            },
+            {
+                "text": "Sure listen is this question",
+                "label": "b*"
+            },
+            {
+                "text": "That happens",
+                "label": "bd"
+            },
+            {
+                "text": "It does happen but its very sad",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah but in any event uh Im in favor of national health",
+                "label": "b"
+            },
+            {
+                "text": "Well --",
+                "label": "sd"
+            },
+            {
+                "text": "If I had --",
+                "label": "+"
+            },
+            {
+                "text": "-- so am I",
+                "label": "+"
+            },
+            {
+                "text": "-- to vote for it",
+                "label": "+"
+            },
+            {
+                "text": "Actually uh Im pediatrician --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh is that right",
+                "label": "bh"
+            },
+            {
+                "text": "-- and I feel very strongly about uh children and uh developed very strong feelings about this during our measles epidemic --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- last year",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "Where we certainly proved that were not doing very good job with preventive health care among children and particularly the children who need it most So uh Im really quite active in trying to uh be proactive at least for childrens issues Its very complex very complicated but uh I strongly believe that all children have right to immunization glasses hearing aids basic health benefits",
+                "label": "+"
+            },
+            {
+                "text": "Well I when I grew up and - I grew up in south central Kansas uh we had - and my mom worked for the health department the county health department and we had -rays every year we had dentist come to our school and uh check our teeth once year at least Uh we had all our flu shots taken care of our measles mumps rubella and all that other stuff",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "And uh when my children were growing up we didnt have that We had to pay for it which I wasnt opposed to paying for it I had the money to pay for it but Im sure that there were people that dont",
+                "label": "sd"
+            },
+            {
+                "text": "Well and the costs have so much has gone up so much The cost of immunizations for example uh and just the legal the legal benefits uh that has really forced people into doing lot of things unnecessarily et cetera",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So well I dont know its it is interesting in case you didnt know Texas leads the nation in uninsured children Thirty-one percent of all Texas children --",
+                "label": "h"
+            },
+            {
+                "text": "Did not know that",
+                "label": "sd"
+            },
+            {
+                "text": "-- do not have insurance and are not on Medicaid So uh one out of every three children has nothing to reimburse them for their health care And I work in the childrens Parkland system and its pretty overwhelming to me",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But uh its pretty hard to be indigent and to be dependent upon indigent health care systems in Dallas county",
+                "label": "sd"
+            }
+        ]
+    }
+]

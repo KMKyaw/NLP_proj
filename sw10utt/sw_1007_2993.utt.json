@@ -1,0 +1,415 @@
+[
+    {
+        "conversation_id": "conv_2993",
+        "turns": [
+            {
+                "text": "Are you in the market for car recently",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah I just bought car",
+                "label": "ny"
+            },
+            {
+                "text": "Oh what did you get",
+                "label": "qw"
+            },
+            {
+                "text": "I got nineteen ninety-three Cavalier station wagon",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh what what convinced you to get that one",
+                "label": "b"
+            },
+            {
+                "text": "Well friend of my fathers and hed driven it all over the country --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and it runs great",
+                "label": "+"
+            },
+            {
+                "text": "Oh incredible how many miles on it",
+                "label": "ba"
+            },
+            {
+                "text": "Its like it has hundred and fifty-three thousand",
+                "label": "sd"
+            },
+            {
+                "text": "And its still running real well",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Oh great yeah We have uh right now we have two cars uh I have my husband and myself and we have two sons who are drivers --",
+                "label": "ba"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and one of which is um an eighty-eight Plymouth Voyager Van and then we have um - about year ago we picked up second hand uh uh Audi --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh that was ca- you know sedan and uh we got that The major things - the reason why we got that is we had had Nova and - well - my son was driving and someone came into his lane and hit him and fortunately he was able to - his - I mean he was checked out of the hospital was out of the hospital by that night but the car was completely totalled --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and Mike and they had been my two sons had been passenger in car about year and half before that which was hit by another car",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "So I mean I got I was getting really nervous so I finally said we I want really solid car So we found the Audi second hand I guess right now my criteria for cars is uh of being solid able to take an impact --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh so uh I were not going to be in the market for in the near future for any new car",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But the things that I would want would be solid car Another thing Id definitely want would be anti-lock brakes",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Uh our our van which is delight to drive does not have - I think the brakes on the Plymouth van is just are terrible",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "If the road is at all wet and Im - and I dont go all that fast but the uh it it just doesnt hold It doesnt hold well at all So I I definitely want to get anti lock brakes So I dont know do you have any particular things that that are priorities on your list",
+                "label": "sd"
+            },
+            {
+                "text": "Well its - I didnt really need power windows but it has power you know windows --",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and steering and air conditioning and and uh -",
+                "label": "+"
+            },
+            {
+                "text": "I guess down here air conditionings must isnt it",
+                "label": "qy^g"
+            },
+            {
+                "text": "uh-huh oh yeah It has stereo and cassette player --",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and um hes told me it gets forty-two miles to the gallon",
+                "label": "sd"
+            },
+            {
+                "text": "Thats incredible",
+                "label": "ba"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "That is incredible",
+                "label": "ba^r"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "Uh we we get about our the van gets on highways can get about twenty-eight The Audi does not have good mileage Thats the one drawback Its powerful car",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Um but it does not uh - I mean I if Im on highway and I can get twenty twenty-one miles per gallon I consider that luck- Im lucky Maybe maybe sometimes Ive gotten twenty-two It comes out around the eighteen or nineteen local driving --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and thats to me is real drawback I wish I would you know I could settle for twenty-eight but uh the uh the frills on that car are nice but theyre not necessary for me --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- except air conditioning In this area uh in Washington area it gets hot and humid",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh its really humid",
+                "label": "b"
+            },
+            {
+                "text": "Yeah uh so air conditioning is def- uh definitely necessity for us through two or three months in the summer Um but I uh I I dont need uh you know - power windows are nice but I dont need them",
+                "label": "aa"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Although I must say when youre driving in the east and there are all these toll roads come into toll road you just push that button down its real nice for that window to zip down and zip up instead of having to crank it",
+                "label": "+"
+            },
+            {
+                "text": "Crank - yeah",
+                "label": "%"
+            },
+            {
+                "text": "Yeah but or you know if you want to have open windows to be able to op- - if youre alone in the car --",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- just to press buttons and -",
+                "label": "+"
+            },
+            {
+                "text": "You dont have to stretch",
+                "label": "^2"
+            },
+            {
+                "text": "But you know Ive lived all these years without them I probably could have lived little longer",
+                "label": "sd"
+            },
+            {
+                "text": "Thats true",
+                "label": "ba"
+            },
+            {
+                "text": "Uh one of the things that we have uh weve liked when we gotten new car and this this used car has it is sun roof --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and those are really nice in good weather",
+                "label": "sv"
+            },
+            {
+                "text": "Thats right",
+                "label": "ba"
+            },
+            {
+                "text": "So so I guess if we get new car it definitely would have to have an- anti lock brakes Id love to get an air bag --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and sun roof and uh just so itd be good solid car I guess that those are - my major criteria Everything else is you know luxury and they make the car more expensive but they often add more things to repair when things go wrong",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "So uh if you were to buy new car now brand new car what would you look for",
+                "label": "qw"
+            },
+            {
+                "text": "Um like you said anti-lock brakes and air bag and uh Id Id really like to have car thats dependable --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- that that you drive you know like American made car thats as dependable as Mercedes or somebody you know thats -",
+                "label": "+"
+            },
+            {
+                "text": "Isnt that true Its its funny um uh that you use - the Audis German and I have to say it has been pretty dependable",
+                "label": "bh"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Yeah sometimes one advantage of an American made car is if you get stuck anywhere most local garages can fix you up",
+                "label": "b"
+            },
+            {
+                "text": "Yeah they have parts uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But once you get if you once you get something fancy you get stuck somewhere off of the main area --",
+                "label": "sv"
+            },
+            {
+                "text": "Right -",
+                "label": "b"
+            },
+            {
+                "text": "-- you can be really - and the parts I know the Audi parts are terribly expensive",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I mean it jus- - I shudder I would not get the Audi again just for that reason But I would love I wish an American an American that you know engineering would make something as solid as German car You know we --",
+                "label": "%"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- certainly have the technology but its amazing when we bought this Audi - I mean everything is more solid in it",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Uh if - you dont feel youve got any of the flabby plastic --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and I know and I I and Im willing to give up little bit in the mileage for solid car I dont think I have to give up as much as Im giving up",
+                "label": "%"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "But do you need air conditioning down there",
+                "label": "qy"
+            },
+            {
+                "text": "Yes we really do --",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- because even today its supposed to get up into the nineties So -",
+                "label": "sd"
+            },
+            {
+                "text": "Oh weve had eleven days in row over ninety",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Theyve in fact had to excuse school down here because of that",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "%@"
+            },
+            {
+                "text": "Well listen I enjoyed talking with you",
+                "label": "ad"
+            },
+            {
+                "text": "It was nice talking to you",
+                "label": "+@"
+            },
+            {
+                "text": "Okay and enjoy enjoy your car",
+                "label": "fc"
+            },
+            {
+                "text": "Yeah have nice summer",
+                "label": "fc"
+            },
+            {
+                "text": "Thank you you too its going to be hot one",
+                "label": "fc"
+            },
+            {
+                "text": "Yeah",
+                "label": "fc"
+            },
+            {
+                "text": "Okay bye-bye",
+                "label": "fc"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc"
+            }
+        ]
+    }
+]

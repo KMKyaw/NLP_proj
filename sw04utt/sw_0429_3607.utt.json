@@ -1,0 +1,279 @@
+[
+    {
+        "conversation_id": "conv_3607",
+        "turns": [
+            {
+                "text": "So uh what kind of home repair work have you done",
+                "label": "qw"
+            },
+            {
+                "text": "Well um done little uh repair on the uh shingles on the roof recently Weve had lot of wind around here",
+                "label": "sd"
+            },
+            {
+                "text": "Been pulling them up huh or just loosening them until the rain came in",
+                "label": "qrr"
+            },
+            {
+                "text": "Yes It looks like Im going to have to get up there again because we may have leak",
+                "label": "ny"
+            },
+            {
+                "text": "Are you in the section of Texas thats been getting so much rain",
+                "label": "qy"
+            },
+            {
+                "text": "Weve been getting quite bit maybe not quite as bad as some of the folks down around San Antonio but uh well Im right - Planos just north of Dallas --",
+                "label": "nd"
+            },
+            {
+                "text": "Oh okay",
+                "label": "bk"
+            },
+            {
+                "text": "-- and there are parts of downtown or near downtown Dallas that are under water right now I guess I saw on the news",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah But youre probably what about halfway across the state from San Antonio though arent you",
+                "label": "b"
+            },
+            {
+                "text": "Well were up uh were north --",
+                "label": "nd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh oh about uh I dont know uh eighty to hundred miles south of the Oklahoma line I guess",
+                "label": "+"
+            },
+            {
+                "text": "Yeah okay But youre still getting good bit of the rain though",
+                "label": "bk"
+            },
+            {
+                "text": "Uh we did have little bit of rain yesterday So far we havent had any today And uh I suppose that means I should be uh getting up there to look at that uh shingle but uh --",
+                "label": "ng"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- I had something else planned today so I guess Ill let it go awhile",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Is it asphalt shingles or or -",
+                "label": "b"
+            },
+            {
+                "text": "Theyre uh - no theyre uh wood shake",
+                "label": "%"
+            },
+            {
+                "text": "Ooh that should be lot of fun",
+                "label": "bk"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Did you put them up originally or just going up and stopping leaks in them",
+                "label": "qr"
+            },
+            {
+                "text": "No I - uh as matter of fact weve never had leak actually yet Now this - we just bought the house last year and uh uh just before we took possession of it we had fellow go up there and do whatever needed to be done on the shingles So Ive just recently had to start looking at it myself",
+                "label": "nn"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So its small problem so far but I guess you just have to keep on top of it What kind of roof do you have",
+                "label": "sd"
+            },
+            {
+                "text": "Uh were in uh campus apartment buildings with flat top uh",
+                "label": "sd"
+            },
+            {
+                "text": "Oh then you dont have to do too much with it",
+                "label": "qy^d"
+            },
+            {
+                "text": "Not too much Theyre just tar and gravel --",
+                "label": "ng"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- treated flat top roofs Have you got pretty well pitch on that roof or is it pretty steep",
+                "label": "+"
+            },
+            {
+                "text": "Oh its pretty steep Uh parts of it are steeper than others",
+                "label": "sd"
+            },
+            {
+                "text": "What do you use to keep from sliding off that rascal",
+                "label": "qw"
+            },
+            {
+                "text": "Well uh you wear uh shoes with good traction and and and try to remember where you are at all times",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I imagine I imagine",
+                "label": "aa"
+            },
+            {
+                "text": "And remember to yell Geronimo if all else fails",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah that would be just too much of fall for me Um have you been uh - was was the house reasonably new or you been doing some remodeling work on it",
+                "label": "b"
+            },
+            {
+                "text": "Its actually just twelve years old now",
+                "label": "sd"
+            },
+            {
+                "text": "Thats pretty new house yet",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah it uh - this part of the country - actually they say that when the house is uh fifteen its already old but just take good care of it",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Thing is - weve uh the main thing that weve had with this house recently has been some uh squirming I call it of the foundation Were just on concrete slab you know --",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- but uh the soil right under this is clay and it uh -",
+                "label": "sd"
+            },
+            {
+                "text": "Its settling unevenly",
+                "label": "qy"
+            },
+            {
+                "text": "Well it uh depending on its moisture content it either swells up or shrinks and uh --",
+                "label": "nd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- of course the soil right under the slab retains its moisture lot longer --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and so during the dry season you have to water the foundation to keep your foundation from uh from uh drooping --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh but anytime theres change in the weather like the temperature drastic changes in temperature or in uh moisture uh you get little spider web cracks all around uh windows and doors",
+                "label": "sd"
+            },
+            {
+                "text": "Well that sounds like lot of fun",
+                "label": "sv"
+            },
+            {
+                "text": "Well usually what you do is just wait until you think its stopped and then you patch them up",
+                "label": "sd"
+            },
+            {
+                "text": "Um What is it like uh stucco walls or -",
+                "label": "qy"
+            },
+            {
+                "text": "Uh well this is all uh its all drywall --",
+                "label": "nd"
+            },
+            {
+                "text": "Oh drywall",
+                "label": "bk^m"
+            },
+            {
+                "text": "-- uh I think with uh -- -",
+                "label": "sd"
+            },
+            {
+                "text": "Wood framing",
+                "label": "qy^2"
+            },
+            {
+                "text": "-- yeah right",
+                "label": "ny"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "But uh somehow or other that does manage to uh show these little cracks I dont know quite how that works Maybe it isnt drywall I dont really know",
+                "label": "sd"
+            },
+            {
+                "text": "they plastered over drywall",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah I think it is",
+                "label": "ny"
+            },
+            {
+                "text": "I remember my parents home is drywalled and then they uh almost like small grade stucco type plastering over the drywall --",
+                "label": "sd"
+            },
+            {
+                "text": "I expect thats what it is yeah",
+                "label": "sd"
+            },
+            {
+                "text": "-- to give it textured sort of look and made for kind of hard shell on the on the drywall",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I think thats the way this is done Fortunately we havent had any real big holes in it yet so I -",
+                "label": "b"
+            },
+            {
+                "text": "Yeah thats good Yeah Yeah that would that would be in terribly terribly exasperating to have the the slab floor like that swelling and giving like that",
+                "label": "b"
+            },
+            {
+                "text": "Yes well the previous owner had major problem with it because uh oh probably variety of things His neighbor used -",
+                "label": "aa"
+            }
+        ]
+    }
+]

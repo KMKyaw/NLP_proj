@@ -1,0 +1,343 @@
+[
+    {
+        "conversation_id": "conv_3012",
+        "turns": [
+            {
+                "text": "Hello",
+                "label": "fp"
+            },
+            {
+                "text": "Hello",
+                "label": "fp"
+            },
+            {
+                "text": "Hi um this is Betty and Im in Richardson Texas",
+                "label": "fp"
+            },
+            {
+                "text": "Im Nola and Im in Plano",
+                "label": "fp"
+            },
+            {
+                "text": "Oh okay well here we go I guess were going to have lot of parades this weekend in honor of these guys that are that did some stuff over in the Gulf Um",
+                "label": "b"
+            },
+            {
+                "text": "Yeah now did you push one",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah uh",
+                "label": "ny"
+            },
+            {
+                "text": "Oh okay",
+                "label": "bk"
+            },
+            {
+                "text": "no I havent pushed one yet I just -",
+                "label": "nn"
+            },
+            {
+                "text": "Okay but I think its - I just started doing this so I dont know too much about it",
+                "label": "b"
+            },
+            {
+                "text": "Okay were just sort of getting acquainted here",
+                "label": "b"
+            },
+            {
+                "text": "Oh okay",
+                "label": "b"
+            },
+            {
+                "text": "Um you know I I just wanted to see if you know you had an opinion about this or you know -",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Um so if thats okay with you then Ill just press one",
+                "label": "co"
+            },
+            {
+                "text": "That will be fine",
+                "label": "aa"
+            },
+            {
+                "text": "Okay Well hi",
+                "label": "b"
+            },
+            {
+                "text": "Hi",
+                "label": "fp"
+            },
+            {
+                "text": "Good morning Um I think I mean if if I start this I just wanted to say that um one of the things that I dont think we really understood about the the middle eastern situation is that theyre totally different type of people than we are and I mean they think differently and their idea of what is justice is totally different from ours And and right now I I think that thats been proven in the fact that um they have just - well anyway I just think that you know the United States policy over there - I think we should just leave them alone I really do In in major way because they just um that whole region over there I think needs to settle its own differences within itself",
+                "label": "fp"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And thats the way the course that they should go I mean you know we can maybe help them little bit prompt them but I dont think this intervention at such high levels should be going on The the thing with Israel and Palestine I believe that should be settled between them And also um you know the other thing is their idea or our ide- idea of democracy has nothing to do with them I mean tha- I mean Im talking about the whole middle ea- and and maybe this is too general but I just believe that um they do not look at democracy the same way we do They dont understand it as we dont understand the way they live",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^r"
+            },
+            {
+                "text": "And so you know trying to put like square peg in round hole is just you know - i- I dont think that thats the way to go in this and um you know it it Oh well thats thats couple thoughts on it",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^r"
+            },
+            {
+                "text": "I I guess you know Id like you to maybe express something here",
+                "label": "ad"
+            },
+            {
+                "text": "Well I I I think overall thats right I think its kind of sad though that for generations theyve been taught to hate each other",
+                "label": "aap"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And thats i- you know - if - somewhere in there someones going to have to learn different way",
+                "label": "%"
+            },
+            {
+                "text": "Thats - yeah",
+                "label": "%"
+            },
+            {
+                "text": "You know an an I I think that um - true we do have completely different ways of looking at things at lot of things but uh at the same time I think there are lot of there is lot of good that the United States and other countries can do as far as example and and uh I think some different things could come from whats happened than what we expect",
+                "label": "sv"
+            },
+            {
+                "text": "Well ye- well yeah um I I guess we could be catalyst for their change I um - the war has certainly sort of set things on end over there and I dont think wed be talking about this you know the Israeli situation Palestinian situation um sort of came to head um unless there had been war I mean that was one thing",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "that came out of it good or bad I I dont judge any war as good or bad its just war",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And I dont see any winners or losers I just see dead bodies Im sorry You know but um i- I I just think you know youre right and I think maybe its at whole different level of them trying to cooperate and get along Its not going to be that were going to uh you know sort of tell them to go to their room and thats going to solve the whole problem",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Its going to be them",
+                "label": "sv"
+            },
+            {
+                "text": "But thats the type of thing they understand",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "They dont understand any other way",
+                "label": "sv"
+            },
+            {
+                "text": "And you know -",
+                "label": "%"
+            },
+            {
+                "text": "And so at that at that you have to work at their level",
+                "label": "sv"
+            },
+            {
+                "text": "Its -",
+                "label": "%"
+            },
+            {
+                "text": "to an extent too",
+                "label": "+"
+            },
+            {
+                "text": "Yeah that thats true too I um -",
+                "label": "aa"
+            },
+            {
+                "text": "They wouldnt have understood anything else than what we did in the war",
+                "label": "sv"
+            },
+            {
+                "text": "Oh well yeah they they understand violence",
+                "label": "b"
+            },
+            {
+                "text": "There was nothing else Yeah",
+                "label": "sv"
+            },
+            {
+                "text": "They love violent leaders to you know I mean look at you know the leader they had They they just adored him",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^r"
+            },
+            {
+                "text": "because he was so strict and cruel and you know for while there he had them be- -",
+                "label": "+"
+            },
+            {
+                "text": "I cant figure out why they adored him",
+                "label": "sd"
+            },
+            {
+                "text": "Well it has lot to do with their religion I got to say",
+                "label": "sv"
+            },
+            {
+                "text": "Yes yeah",
+                "label": "b"
+            },
+            {
+                "text": "that over there um - and I know this only because from personal experience that Im speaking of this because I Ive you know traveled around town with different cab drivers in situation where Ive done that and one one of the kindest people Ive ever met in my whole life um is from that area of the country and I mean he is just overly he he is abounding in kindness lets say",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And his wife is so godly I mean every thought they have totally different life than we have",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "%"
+            },
+            {
+                "text": "You know and when you add the um commercialization of the western world it sort of screws everything up for them",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And they have very basic life um well its just very basic life and they just really believe in Allah or God or whatever",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And its you know everything is to the glory of Allah and and you know and it its almost like -",
+                "label": "sv"
+            },
+            {
+                "text": "Whats sad is that the leaders that have control --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah well thats",
+                "label": "b"
+            },
+            {
+                "text": "-- are power",
+                "label": "+"
+            },
+            {
+                "text": "see using that yeah",
+                "label": "+"
+            },
+            {
+                "text": "yes and they abuse that",
+                "label": "b"
+            },
+            {
+                "text": "And its always been military and its always been and thats thats always been the way of the world Dont you think",
+                "label": "sd"
+            },
+            {
+                "text": "Which I think that thats not the the way the majority of the people over there really are",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah So its really hard when you see the leaders compared to the people",
+                "label": "b"
+            },
+            {
+                "text": "But I think in in way the war uh I think in way all the involvement over there too though has shown lot of people that there are lot of people that dont follow what those few are doing And there are lot of people who are good people",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know theres - and I I think we may not have ever have seen that without some of these uh newspeople being in there in the broadcasts and the the uh soldiers leaving um you know surrendering and",
+                "label": "%"
+            },
+            {
+                "text": "Right and surrendering that was -",
+                "label": "aa"
+            },
+            {
+                "text": "trying to get out of that situation",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And and the you know -",
+                "label": "%"
+            },
+            {
+                "text": "it just really comes down to people are people you know you have to have some compassion some humanness",
+                "label": "sv"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "Doesnt matter where the boundaries are Um you know there are political boundaries and those are man made boundaries but you know for heaven sakes thats something thats been going on for ages",
+                "label": "sv"
+            },
+            {
+                "text": "and I I think so much of it is what youre taught",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah thats true",
+                "label": "aa"
+            },
+            {
+                "text": "You know they teach their children uh in such way that -",
+                "label": "sv"
+            }
+        ]
+    }
+]

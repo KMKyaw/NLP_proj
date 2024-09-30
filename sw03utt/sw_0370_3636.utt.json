@@ -1,0 +1,427 @@
+[
+    {
+        "conversation_id": "conv_3636",
+        "turns": [
+            {
+                "text": "Uh what sort of camping do you like to do the most",
+                "label": "qo"
+            },
+            {
+                "text": "Uh well I I do uh real rough type camping I have motor home",
+                "label": "sd"
+            },
+            {
+                "text": "Huh rough type huh",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "Uh",
+                "label": "b"
+            },
+            {
+                "text": "Oh yeah motor homes can be lot of fun",
+                "label": "b"
+            },
+            {
+                "text": "Yeah they really are",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "They really are Ive Ive enjoyed it Ive never actually done any uh like tent camping but uh one of these days Im going to try that too",
+                "label": "aa^r"
+            },
+            {
+                "text": "Uh that can be lot of fun too",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah like to go visit uh the national parks and state parks and and uh just get out and see nature",
+                "label": "+@"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "How about you",
+                "label": "qo"
+            },
+            {
+                "text": "Well so far my wife and I have pretty much had to stick with tent camping",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "This summer we went to uh the Smokey Mountain National Park",
+                "label": "sd"
+            },
+            {
+                "text": "Oh how great",
+                "label": "ba"
+            },
+            {
+                "text": "And uh stayed about three or four days in there It was wonderful",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "Nights were cool enough to where theyre comfortable",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "And the days were nice and warm and it was beautiful beautiful few days",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Thats great",
+                "label": "b"
+            },
+            {
+                "text": "It worked out particularly well especially considering she was what six months pregnant",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So I dont know it worked pretty well It was one of those uh those dome type pop up tents",
+                "label": "h"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Nice and quick and easy to put up",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Packs away nice and small and about had to be something like that getting around in Pinto",
+                "label": "sv"
+            },
+            {
+                "text": "Well thats true thats true",
+                "label": "aa"
+            },
+            {
+                "text": "It was lot of fun",
+                "label": "sd"
+            },
+            {
+                "text": "I guess the last real uh camping trip I took was has been couple years ago",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "bh"
+            },
+            {
+                "text": "Uh I went to California up to the Sequoias",
+                "label": "sd"
+            },
+            {
+                "text": "Wow thats got to be beautiful territory",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah its gorgeous I love the big trees Just just the drive up through uh up the coast line --",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and then cut over in into the into the parks its gorgeous though",
+                "label": "+"
+            },
+            {
+                "text": "What like Sequoia National Park",
+                "label": "qy"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Uh",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh yeah I had been there before when I lived in California but thats my first trip back in oh goodness um um thirty years maybe",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But that is Gods country it has to be",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^m"
+            },
+            {
+                "text": "Do they still have the uh the scenic uh roadways that cut through the center of some of those trees",
+                "label": "qy"
+            },
+            {
+                "text": "Uh no they dont they - the last one well - the first time I was there the the tree was still standing but it has since come down",
+                "label": "nn"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "Yeah But they are huge If youve never seen them its its very awe inspiring",
+                "label": "b"
+            },
+            {
+                "text": "No so far New Orleans is far west as Ive gotten",
+                "label": "nn"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Well New Orleans and uh Minneapolis",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh well there is lots of pretty country further west",
+                "label": "b"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^m"
+            },
+            {
+                "text": "Were hoping one of these days soon after were out of school to head that way",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Yeah and you just need to take the little one",
+                "label": "b"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Show them all the all the pretties before they go away",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^m"
+            },
+            {
+                "text": "They seem to be trailing out quickly",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah because there is lots to see There is course the the Grand Canyon and uh the Painted Desert is is real pretty in different sort of way",
+                "label": "aa"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "And course the the Sequoias and the Redwoods and and you get up into Bryce Canyon and Yellowstone and uh the Grand Tetons are gorgeous too",
+                "label": "sd"
+            },
+            {
+                "text": "I imagine",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I would imagine they are",
+                "label": "ba"
+            },
+            {
+                "text": "Course I I guess Im partial to big tree country",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I dont know why I got stuck down here in Texas now I think its called job I dont know",
+                "label": "sd"
+            },
+            {
+                "text": "Uh not whole lot of forestry down there is there",
+                "label": "qy^g"
+            },
+            {
+                "text": "No not around here",
+                "label": "nn"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "Not around here",
+                "label": "sd^e^r"
+            },
+            {
+                "text": "Place is forested with - with those concrete trees",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh lot lot of concrete and glass you know",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah Well I guess thats Gods place too Anyway",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Uh what do you figure has been the longest trip youve taken camping",
+                "label": "+"
+            },
+            {
+                "text": "Uh probably the the last one that I went to California I took uh three weeks",
+                "label": "sd"
+            },
+            {
+                "text": "Three weeks",
+                "label": "b^m"
+            },
+            {
+                "text": "And I was actually on the road little more than three weeks",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah the whole family then was --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "-- in on this",
+                "label": "+"
+            },
+            {
+                "text": "Everybody",
+                "label": "na"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Yep",
+                "label": "b"
+            },
+            {
+                "text": "That would have to be blast",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah it really was it was great",
+                "label": "ny"
+            },
+            {
+                "text": "What - well you went out from Texas up in into that area",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh yeah We went uh we took the southern route and went went through uh uh the Grand Canyon again and we stopped at uh uh Las Vegas for couple of nights and then uh went into Malibu in California over on the coast",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And then we went up the the Big Sur Highway all the way up to San Francisco",
+                "label": "sd"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "And uh and then cut across through the wine country",
+                "label": "+"
+            },
+            {
+                "text": "Oh wow",
+                "label": "ba"
+            },
+            {
+                "text": "And then went down to to uh Sequoia National Park",
+                "label": "+"
+            },
+            {
+                "text": "Okay Big Sur Highway thats uh where youre pretty much in view of the ocean almost all the time --",
+                "label": "bk"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "ny"
+            },
+            {
+                "text": "-- arent you",
+                "label": "+"
+            }
+        ]
+    }
+]

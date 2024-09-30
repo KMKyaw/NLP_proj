@@ -1,0 +1,483 @@
+[
+    {
+        "conversation_id": "conv_3455",
+        "turns": [
+            {
+                "text": "Okay uh I guess our topic is about movies --",
+                "label": "o"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh what is coincidence we got baby-sitter and we went to the movies that past weekend",
+                "label": "sd"
+            },
+            {
+                "text": "Oh so did I",
+                "label": "sd"
+            },
+            {
+                "text": "And we saw CAPE FEAR",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I heard that was excellent",
+                "label": "sd"
+            },
+            {
+                "text": "It is",
+                "label": "aa"
+            },
+            {
+                "text": "Is it",
+                "label": "bh"
+            },
+            {
+                "text": "Its really good",
+                "label": "na"
+            },
+            {
+                "text": "Uh I wanted to see that I was deciding between that and uh MY GIRL and uh my boyfriend and I went to see MY GIRL",
+                "label": "sd"
+            },
+            {
+                "text": "Oh how was that",
+                "label": "qw"
+            },
+            {
+                "text": "Oh it was excellent It was really really good movie Id recommend it",
+                "label": "sd"
+            },
+            {
+                "text": "I heard thats movie that uh you really cant take children Is that true",
+                "label": "sd"
+            },
+            {
+                "text": "Uh I heard the opposite that uh you should take children to see it",
+                "label": "nd"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "Uh there were quite few uh kids in there with their parents",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "Yeah Uh I dont know though I Ive heard that and then what you just told me so -",
+                "label": "b"
+            },
+            {
+                "text": "Yeah yeah because uh the little boy dies",
+                "label": "b"
+            },
+            {
+                "text": "Right yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^m"
+            },
+            {
+                "text": "It was sad It was really sad",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "But uh his it kind of shows how his uh best friend this little girl deals with his death --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- and how I think maybe how children should deal with death",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Maybe",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But it was really good It was sad very sad",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I want to see that one Well CAPE FEAR was was more suspenseful",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "It was really suspenseful So that thats thats real good movie to see",
+                "label": "sd"
+            },
+            {
+                "text": "I heard it was uh sort of like uh not uh too violent but it was kind of like uh gross kind of like uh SILENCE OF THE LAMBS like",
+                "label": "sd"
+            },
+            {
+                "text": "Uh no and it uh it was kind of - I dont know its kind of both I guess but its not its not as bad as SILENCE OF THE LAMBS",
+                "label": "ar"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "But uh its just as suspenseful I think",
+                "label": "sv"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "And it it was real good movie And then we saw BEAUTY AND THE BEAST",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "Because we have two kids",
+                "label": "+"
+            },
+            {
+                "text": "Uh",
+                "label": "b"
+            },
+            {
+                "text": "And FIEVEL GOES WEST",
+                "label": "+"
+            },
+            {
+                "text": "Oh Ive seen uh previews for them on but I -",
+                "label": "sd"
+            },
+            {
+                "text": "But uh those were those were okay so",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And then oh boy its been its been so long since weve been to the movies but I weve rented some videos",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah I like to rent movies too",
+                "label": "b"
+            },
+            {
+                "text": "And I think the last one I rented was uh MORTAL THOUGHTS --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- with Demi Moore",
+                "label": "+"
+            },
+            {
+                "text": "Oh I I didnt see that",
+                "label": "sd"
+            },
+            {
+                "text": "And uh that that thats okay Thats pretty good",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Oh and uh WHAT ABOUT BOB",
+                "label": "sd"
+            },
+            {
+                "text": "I have seen that --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- at the theatres yeah",
+                "label": "+"
+            },
+            {
+                "text": "Yeah we rented that one",
+                "label": "b^m"
+            },
+            {
+                "text": "That that was cute",
+                "label": "sv"
+            },
+            {
+                "text": "And uh uh I guess thats about it Have you rented any movies lately",
+                "label": "sd"
+            },
+            {
+                "text": "Uh the last movie I rented was THE HARD WAY with Michael Fox and uh -",
+                "label": "na"
+            },
+            {
+                "text": "Oh yeah that was good We rented that one too",
+                "label": "b"
+            },
+            {
+                "text": "Yeah I liked that I like Michael Fox lot",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Hes one of my favorites",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I like his movies",
+                "label": "sd"
+            },
+            {
+                "text": "So do you go to the movies often or -",
+                "label": "qy"
+            },
+            {
+                "text": "No not too often I I hadnt been to the movies for really long time --",
+                "label": "nn"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- since last weekend But uh theres been movies out that Ive been wanting to see I just you know dont get chance to get out and see them",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah well we have two little kids so its hard for us to get out and go to the movies We have to dig up baby-sitter and",
+                "label": "b"
+            },
+            {
+                "text": "Oh I see",
+                "label": "b"
+            },
+            {
+                "text": "And thats only the only time we can go out so our time is scarce",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Oh",
+                "label": "b"
+            },
+            {
+                "text": "But uh we we we - we you know were were big movie people and --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- we try and do - and I dont I dont know about the last movie Ive seen on that was real good Uh",
+                "label": "+"
+            },
+            {
+                "text": "Oh I watched that movie with uh Barbara uh uh - what was her name Oh Bar- - that uh her sister got killed and uh she had baby The husband was dentist and he had murdered her",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah uh",
+                "label": "b"
+            },
+            {
+                "text": "That was that was pretty good",
+                "label": "sv"
+            },
+            {
+                "text": "Bertinelli or whats her name",
+                "label": "+"
+            },
+            {
+                "text": "Yeah uh-huh oh Valerie Bertinelli",
+                "label": "aa"
+            },
+            {
+                "text": "I cant -",
+                "label": "%"
+            },
+            {
+                "text": "Thats it yeah",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah yeah yeah yeah Yeah that was real good I saw that one uh two part series and I heard it was true story",
+                "label": "b^m"
+            },
+            {
+                "text": "Yeah uh-huh",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah I think that was probably the last movie Ive seen too",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And and then I saw that other movie about uh MOTHER DAUGHT- MOTHER WIFE MURDERER Did you see that one",
+                "label": "sd"
+            },
+            {
+                "text": "Oh uh with uh Judith Light",
+                "label": "qy^h"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Uh",
+                "label": "b"
+            },
+            {
+                "text": "Did you see that one that was was really good That was supposed to be true story too",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah I did see that Yeah I did That was on while ago wasnt it",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah I saw that",
+                "label": "ny^r"
+            },
+            {
+                "text": "Guess couple weeks ago or something like that",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah that was pretty good",
+                "label": "aa"
+            },
+            {
+                "text": "Boy --",
+                "label": "sv"
+            },
+            {
+                "text": "I -",
+                "label": "%"
+            },
+            {
+                "text": "-- we have we we see all the same movies",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I like uh the true stories",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Theyre more interesting",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And its hard to believe that you know this really happened",
+                "label": "sv"
+            },
+            {
+                "text": "I know",
+                "label": "aa"
+            },
+            {
+                "text": "Some of them are pretty bad",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "aa"
+            },
+            {
+                "text": "But -",
+                "label": "%"
+            },
+            {
+                "text": "Huh Well We sure do have lot in common",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "If youre ever in town well go see movie",
+                "label": "ad"
+            },
+            {
+                "text": "Okay",
+                "label": "aa"
+            },
+            {
+                "text": "But and we dont really - - do you all have do you all still have drive-ins up there or -",
+                "label": "%"
+            },
+            {
+                "text": "Yeah uh-huh Yeah do you have them there",
+                "label": "ny"
+            },
+            {
+                "text": "Um well we may have just couple over here",
+                "label": "na"
+            }
+        ]
+    }
+]

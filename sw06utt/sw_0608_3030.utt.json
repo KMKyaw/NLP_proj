@@ -1,0 +1,555 @@
+[
+    {
+        "conversation_id": "conv_3030",
+        "turns": [
+            {
+                "text": "Well hi I guess uh Ill just start by saying that we entertain with uh gourmet club here Um which means that we have like eight eight people four couples",
+                "label": "fp"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And most of the husbands - this is really peculiar most of the husbands cook",
+                "label": "sd"
+            },
+            {
+                "text": "Great",
+                "label": "ba"
+            },
+            {
+                "text": "I mean the wives during the day you know get I guess so burned out on cooking whatever they have to cook every day Um you know they dont really care about gourmet stuff but it was the guys that got together and did all this",
+                "label": "sv"
+            },
+            {
+                "text": "Oh thats nice",
+                "label": "ba"
+            },
+            {
+                "text": "And um like my husband just he really really likes to cook in terms of um oh barbecue and I mean all guys I think like to barbecue I think its caveman",
+                "label": "sd"
+            },
+            {
+                "text": "Right right",
+                "label": "b"
+            },
+            {
+                "text": "Im telling you but um he really does cook and its good thing because you know you cant you cant knock that",
+                "label": "o"
+            },
+            {
+                "text": "No",
+                "label": "aa"
+            },
+            {
+                "text": "But all these other guys do too and so weve gotten together and we just do these really elaborate gourmet meals And its really really kind of neat thing to do You -",
+                "label": "sd"
+            },
+            {
+                "text": "How often do you meet",
+                "label": "qw"
+            },
+            {
+                "text": "Well we try I mean because you know everybody is so active with their kids and all that Its like you know if we can do it once every six months were doing well",
+                "label": "%"
+            },
+            {
+                "text": "Oh yes yes",
+                "label": "b"
+            },
+            {
+                "text": "Yeah So I mean we originally started out you know when we were younger --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and didnt have so much stuff going on with the kids Um then we would we tried to do it every other month",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "but lately its just been once every six months",
+                "label": "sd"
+            },
+            {
+                "text": "Oh Well thats much more reasonable I was involved in club like that for um that you know where we tried to really do gourmet uh meals",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And uh we we were little bit too frequent I think",
+                "label": "sv"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "I dont remember if we were once month or anyway it was it was difficult By the time we went around it was uh four couples so uh by the time we got around uh to each of us and it was time again we were almost tired you know",
+                "label": "sd"
+            },
+            {
+                "text": "Really really",
+                "label": "b"
+            },
+            {
+                "text": "Um partly because um wh- gourmet cooking is not particularly conducive for regular dining Its too rich",
+                "label": "+"
+            },
+            {
+                "text": "Oh it is absolutely",
+                "label": "aa"
+            },
+            {
+                "text": "And so i- we found that while we enjoyed the evening we regretted it the next day",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Um so uh we we kind of - and then one of the couples uh moved and so we sort of didnt didnt continue it but um and I must admit that as you say when your children start taking up your time then you you dont have as much time for uh regular entertaining but um uh uh when when we entertain I usually try to find something that will be um kind of - good for everybody and thats",
+                "label": "%"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "that sometimes means you cant do gourmet",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "because depending on who your guests are",
+                "label": "+"
+            },
+            {
+                "text": "Well yeah thats true And we have gourmet friend that cant stand fish so I mean he can get within -",
+                "label": "aa"
+            },
+            {
+                "text": "Oh yeah well one of my friends doesnt eat any cheese at all",
+                "label": "b"
+            },
+            {
+                "text": "Oh my",
+                "label": "ba"
+            },
+            {
+                "text": "Uh so thats real problem because so many dishes require cheese",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "Uh well I take that back Uh she cant eat some cream cheese But that that really limits",
+                "label": "sd"
+            },
+            {
+                "text": "It sure - -",
+                "label": "aa"
+            },
+            {
+                "text": "um",
+                "label": "%"
+            },
+            {
+                "text": "it makes you uh keep looking for recipes every time you have an eye out",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "for something like -",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Right So we we try to keep all that in mind but otherwise um I guess you know entertaining um - I I guess I have recipes I um - but thats thats basically what we do is the gourmet",
+                "label": "b^m"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "so you know they would be pretty elaborate",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Um but its fun I mean it took us four days to cook stock and three days to make this stuff",
+                "label": "sv"
+            },
+            {
+                "text": "Oh wow",
+                "label": "ba"
+            },
+            {
+                "text": "and",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "you know you get all prepared but youre right Its very very rich and Im glad we dont have it every - because it is its quite treat it really is",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "Sounds wonderful",
+                "label": "ba"
+            },
+            {
+                "text": "Right but so you like food and I just love the the community of food I just",
+                "label": "b"
+            },
+            {
+                "text": "Oh sure I do too",
+                "label": "aa"
+            },
+            {
+                "text": "think its neat",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I just love sharing meals and",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "and whatever you can do you know to do that I dont think you have to be you know more than hamburgers and hot dogs out",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "in the backyard and the",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "and the coleslaw and potato salad But but -",
+                "label": "+"
+            },
+            {
+                "text": "Sure Well my um daughter is graduating uh Sunday and so were having",
+                "label": "b"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "uh few people in Sunday afternoon And I did cop out on to it Im buying cold cuts Well I have to",
+                "label": "+"
+            },
+            {
+                "text": "What are you providing",
+                "label": "qw"
+            },
+            {
+                "text": "make cake and I have to make hors doeuvres and I have to make dessert so",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "I figured for the main thing its going to be sandwiches",
+                "label": "+"
+            },
+            {
+                "text": "Right There you go",
+                "label": "b"
+            },
+            {
+                "text": "Uh so oh Im buying the little tiny rolls and so on But I cant do it you know working full-time and its just too much",
+                "label": "sd"
+            },
+            {
+                "text": "I know Were all not built like uh what what oh",
+                "label": "ba"
+            },
+            {
+                "text": "Those people that try to do everything",
+                "label": "^2"
+            },
+            {
+                "text": "Martha Stewart you know",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "We all arent Martha Stewart and have our coordinated glasses and tablecloths and",
+                "label": "sd"
+            },
+            {
+                "text": "Ugh",
+                "label": "ba"
+            },
+            {
+                "text": "and time to you know sh- - -",
+                "label": "+"
+            },
+            {
+                "text": "Wouldnt that be nice",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah Shot video of the whole thing I dont know",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah right",
+                "label": "aa"
+            },
+            {
+                "text": "But its its really kind of neat thing I get kick out of it I I really do Everything all parts of the food I mean --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- I love to make things from scratch you know",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Making breads and and you know people really pretty much appreciate it",
+                "label": "+"
+            },
+            {
+                "text": "Oh they do I- its very difficult to purchase um items that are as good as what you can make yourself",
+                "label": "ba"
+            },
+            {
+                "text": "Oh I think so",
+                "label": "aa"
+            },
+            {
+                "text": "Um in spite of uh - or if you if you do buy it its extremely expensive In fact uh I just got back from shopping trip to purch- purchase the cold cuts and I I bought turkey and pastrami and and barbecued ham at an Amish market near here",
+                "label": "%"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "And Ive never been there before",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b^r"
+            },
+            {
+                "text": "And found that theres uh individual vendors and the foods are wonderful And one of the uh the um vendors had cakes All sorts of wonderful cakes Uh they fresh str- strawberry cheesecake now and and so on",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b^r"
+            },
+            {
+                "text": "And its like thirteen fifty for whole strawberry cheesecake Um which is really not such bad price I decided I I just couldnt quite make myself um buy it because I do make cheesecake and somehow --",
+                "label": "sd"
+            },
+            {
+                "text": "There you go",
+                "label": "ba"
+            },
+            {
+                "text": "-- I didnt want to do that because it - but I was very tempted because it looked wonderful and the- they had black forest cherry cake and all those things",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "That ar- but those are homemade They are not um commercial bakery made And in that they are made in their homes um so it its kind of interesting uh its out there if you want to pay the price but -",
+                "label": "sd"
+            },
+            {
+                "text": "Oh it is I mean we have bakeries around here that you know you you just gain weight going by the door",
+                "label": "aa"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "you know just like that",
+                "label": "+"
+            },
+            {
+                "text": "just smelling the air Yeah",
+                "label": "bf"
+            },
+            {
+                "text": "Right but I dont know I guess some of the best things Ive ever had um I some of them were just hors doeuvres you know",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Doing little hors doeuvre things that I have kick making that I mean you know",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I get off on strange little details of food I guess But --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- um gee we have so much going on here because you know this is Dallas this is the southwest this is",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "you know chips and Picante sauce and anything hot You know you can always make it hotter",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "and and lots of stuff like that you know so Thats um really good party time",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "eating all that hot food and and they just love it you know down here It just --",
+                "label": "+"
+            },
+            {
+                "text": "We like hot food too so -",
+                "label": "sd"
+            },
+            {
+                "text": "-- just you know - all the stuff that goes with that so -",
+                "label": "+"
+            },
+            {
+                "text": "Right You dont sound like youre from Texas originally though",
+                "label": "b"
+            },
+            {
+                "text": "Oh Im not Thank you for noticing Im from Chicago",
+                "label": "ng"
+            },
+            {
+                "text": "I thought",
+                "label": "sd"
+            },
+            {
+                "text": "And how I got -",
+                "label": "%"
+            },
+            {
+                "text": "I thought that there was slight difference in accent",
+                "label": "+"
+            },
+            {
+                "text": "Really and how",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "I got to Texas by way of Virginia Im and everything is long story But -",
+                "label": "+"
+            },
+            {
+                "text": "Ill bet",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Did um do you have favorite hors doeuvre recipe thats easy or is it always complicat-",
+                "label": "qy"
+            },
+            {
+                "text": "Well absolutely I - in fact it just came to mind um and this -",
+                "label": "na"
+            }
+        ]
+    }
+]

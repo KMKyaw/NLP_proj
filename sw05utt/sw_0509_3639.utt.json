@@ -1,0 +1,415 @@
+[
+    {
+        "conversation_id": "conv_3639",
+        "turns": [
+            {
+                "text": "Uh are you presently looking uh for used car",
+                "label": "qy"
+            },
+            {
+                "text": "Well as matter of fact I just bought one",
+                "label": "ng"
+            },
+            {
+                "text": "Just bought one",
+                "label": "b^m"
+            },
+            {
+                "text": "Just just within the last three weeks",
+                "label": "sd"
+            },
+            {
+                "text": "- - what did you get",
+                "label": "%"
+            },
+            {
+                "text": "I got Lexus four hundred",
+                "label": "sd"
+            },
+            {
+                "text": "Lexus Uh -",
+                "label": "b^m"
+            },
+            {
+                "text": "Which is made by Toyota",
+                "label": "+"
+            },
+            {
+                "text": "Okay Lexus is Toyota subbrand",
+                "label": "bk"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "Its kind of their -",
+                "label": "%"
+            },
+            {
+                "text": "I was wondering where that came from because theyre talking like it was an American built car",
+                "label": "qy^d"
+            },
+            {
+                "text": "Right it it sounds like it but it really isnt",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Its uh marketed of course it its own dealerships",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Usually or somebody thats maybe got Cadillac or Lincoln and Lexus dealership uh --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- sometimes they do that but --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- its uh brand car but Ive really liked it It it drives just wonderfully and there is - its so quiet almost cant tell the engine is running",
+                "label": "+"
+            },
+            {
+                "text": "Thats their big selling point uh other than general luxury and but the particular seems to be the uh the quiet ride",
+                "label": "sd"
+            },
+            {
+                "text": "It really is Its got pretty good acceleration too",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Its got player in it so I can I can play those and -",
+                "label": "sd"
+            },
+            {
+                "text": "Uh was - that wasnt standard - feature was it",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "But there is not very many options on that car",
+                "label": "sd^e"
+            },
+            {
+                "text": "Uh",
+                "label": "b"
+            },
+            {
+                "text": "There is only about five or six options Everything else is standard",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah you get the impression that -",
+                "label": "b"
+            },
+            {
+                "text": "Uh some of the tracking control things and skidding control things for up north",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "The and the premium sound system",
+                "label": "+"
+            },
+            {
+                "text": "Skidding control you mean the antilock brake system",
+                "label": "b^m"
+            },
+            {
+                "text": "Yeah its kind of traction control I think they call it",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Its its not just antilock brake I think thats already on most of them but --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh this is uh",
+                "label": "b"
+            },
+            {
+                "text": "-- there is further traction control uh",
+                "label": "+"
+            },
+            {
+                "text": "Uh probably suspension tied into --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "-- the brakes",
+                "label": "+"
+            },
+            {
+                "text": "And and also the suspension can be raised for driving like in the ice and snow It can raise the cars center up little bit",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "For going under --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- lot of piled up stuff if you were up in Michigan or somewhere",
+                "label": "+"
+            },
+            {
+                "text": "Yeah uh shoot --",
+                "label": "b"
+            },
+            {
+                "text": "Mississippi probably doesnt",
+                "label": "sv"
+            },
+            {
+                "text": "-- some of these muddy driveways could use it around here",
+                "label": "sv"
+            },
+            {
+                "text": "Mississippi probably doesnt have to worry too much",
+                "label": "+"
+            },
+            {
+                "text": "No snow doesnt happen very often",
+                "label": "aa"
+            },
+            {
+                "text": "If it does people go whats this stuff",
+                "label": "sv(^q)"
+            },
+            {
+                "text": "Yeah uh originally Im from West Virginia We got --",
+                "label": "b"
+            },
+            {
+                "text": "Oh well you had some there",
+                "label": "bk"
+            },
+            {
+                "text": "-- pretty fair amount of snow",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But uh I got down here in June of eighty-four and the first winter down here was probably the worst winter theyd seen in twenty years and it was amazing how few inches of snow would turn normally sane manly adult men into playful little children",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I know",
+                "label": "aa"
+            },
+            {
+                "text": "We had this group of uh surveyors come into uh shop I was working in uh four or five of them these big old flame worn suburbans and the snow all over the place They had just come in to get gas in their vehicles and get the oil checked But while they were there they set back drank about four or five cups of coffee apiece and made snowmen on the hoods of their vehicles --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh no",
+                "label": "ba"
+            },
+            {
+                "text": "-- threw snowballs all over the place had themselves ball for about an hour",
+                "label": "+"
+            },
+            {
+                "text": "Well the uh the Lexus uh really - and the moon roof I think is also an option",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Although most of them are ordered them with it but there really is only about half dozen uh things and --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- everything else is pretty standard I did not get the traction control which also when you take the - traction control and the and the suspension thing it also puts heaters in the front seats too",
+                "label": "+"
+            },
+            {
+                "text": "Oh so thats kind of -",
+                "label": "ba"
+            },
+            {
+                "text": "You go out and get in that real cold car --",
+                "label": "sv"
+            },
+            {
+                "text": "Its package deal",
+                "label": "bf"
+            },
+            {
+                "text": "-- and you turn that on and it yeah and it kind of uh - but thats only available if with the traction control and the other option",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And those two are sold together so you have to take two thousand dollar option there to --",
+                "label": "sd"
+            },
+            {
+                "text": "Ouch",
+                "label": "ba"
+            },
+            {
+                "text": "-- to uh do it so I I opted not for that but",
+                "label": "+"
+            },
+            {
+                "text": "No it doesnt sound real necessary in Texas",
+                "label": "ba"
+            },
+            {
+                "text": "And uh the dealership I dealt with they order them all with the uh moon roof and uh --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- you know nice floor mats and everything in there",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I worked for Lincoln",
+                "label": "b"
+            },
+            {
+                "text": "So the only thing I had to decide on was whether I wanted or not in the stereo system and that was pretty much it And they had like three or four basic packages that they --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- they offer",
+                "label": "+"
+            },
+            {
+                "text": "Sounds like the Lincoln Mercury dealer I used to work for They didnt order anything but the extra luxury version of whatever they got Little Mercury Tracer --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah Ive been - - Ive been -",
+                "label": "b"
+            },
+            {
+                "text": "-- imagine or not they make they make luxury Mercury Tracer",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Ive seen that in the dealership I was driving Lincoln Mark Seven --",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- for the last four years before I traded it for this and uh Im leasing the Lexus I usually lease them --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- since I own business I just run it through my business but --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but it - the Lincoln ride is certainly good too but the this Lexus is nothing like I have ever been in before one or two utt Its just -",
+                "label": "+"
+            },
+            {
+                "text": "Like sitting in your living room",
+                "label": "b^2"
+            },
+            {
+                "text": "Yeah it really is and its got lumbar support in the seats",
+                "label": "aa"
+            },
+            {
+                "text": "Adjustable",
+                "label": "qy"
+            },
+            {
+                "text": "Adjustable uh --",
+                "label": "na"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- power and just kind of brings that support up in the sma- -",
+                "label": "+"
+            }
+        ]
+    }
+]

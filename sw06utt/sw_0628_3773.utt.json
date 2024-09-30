@@ -1,0 +1,383 @@
+[
+    {
+        "conversation_id": "conv_3773",
+        "turns": [
+            {
+                "text": "Did you hear our topic Its in regards to discussing homes",
+                "label": "qy"
+            },
+            {
+                "text": "Homes yes sir uh-huh What are are you settled in place",
+                "label": "b^m"
+            },
+            {
+                "text": "Yeah Im settled in place Ive been in it for twelve years since nineteen uh actually thirteen years since nineteen seventy-eight and its in Richardson Texas which is north Texas --",
+                "label": "ny"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- or north Dallas",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And weve lived in two houses in Richardson We moved here in seventy-four and uh changed locations in seventy-eight",
+                "label": "sd"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "How about yourself",
+                "label": "qo"
+            },
+            {
+                "text": "Well we uh left here in seventy-six Uh we were here for few years then we uh have come back just this summer Right now were looking for housing uh somewhere down in the Duncanville and Cedar Hill area Are you familiar with that",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah its nice area",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah it is The kids are in school here in Duncanville Were in temporary place right now and uh so theyve enjoyed the school so were kind of trying to stay here but -",
+                "label": "aa"
+            },
+            {
+                "text": "Are you finding it tough trying to find what you want or -",
+                "label": "qy"
+            },
+            {
+                "text": "Well what the problem we got is that weve got five children --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh boy",
+                "label": "ba"
+            },
+            {
+                "text": "-- and so uh we really want four or five bedroom house and uh you know everybody says you know how many houses are on the market and --",
+                "label": "sd"
+            },
+            {
+                "text": "- right",
+                "label": "b"
+            },
+            {
+                "text": "-- all that kind of thing so we uh we look at the paper we look at our talk to our realtor and you can cut you know the listings uh in about third when you go from three to four bedrooms --",
+                "label": "+"
+            },
+            {
+                "text": "Sure",
+                "label": "b"
+            },
+            {
+                "text": "-- you know or five Are you looking or you settled I mean -",
+                "label": "+"
+            },
+            {
+                "text": "No were settled and uh --",
+                "label": "nn"
+            },
+            {
+                "text": "- having -",
+                "label": "%"
+            },
+            {
+                "text": "-- were uh - Im probably older than you Im fifty-two but anyway I my youngest is getting married this year --",
+                "label": "+"
+            },
+            {
+                "text": "Oh great",
+                "label": "ba"
+            },
+            {
+                "text": "-- graduating college so I can board up their rooms and look forward to retirement maybe",
+                "label": "+"
+            },
+            {
+                "text": "That empty nest syndrome is going to set in I guess",
+                "label": "sv"
+            },
+            {
+                "text": "Oh gosh so were looking forward to retiring in about three years and --",
+                "label": "ba"
+            },
+            {
+                "text": "Great",
+                "label": "ba"
+            },
+            {
+                "text": "-- maybe relocating to Florida or somewhere",
+                "label": "+"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "Closer closer to our families",
+                "label": "+"
+            },
+            {
+                "text": "Okay you are you from Florida originally",
+                "label": "b"
+            },
+            {
+                "text": "No from West Virginia but everyones uh my wifes parents are from the New York New Jersey area --",
+                "label": "nn"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- so but everyone seems uh has seem to relocated down that area",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "Seems like nice place to go",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah yeah Weve got five and the oldest is uh ninth grade and the youngest is second grade and I think theyre going to be uh with us forever I dont know if thats true but its sure you know were not anywhere near looking to uh uh cut down in size Were were --",
+                "label": "b"
+            },
+            {
+                "text": "Oh I --",
+                "label": "b"
+            },
+            {
+                "text": "-- trying to --",
+                "label": "+"
+            },
+            {
+                "text": "-- understand",
+                "label": "+"
+            },
+            {
+                "text": "-- find -",
+                "label": "+"
+            },
+            {
+                "text": "You need very minimum four and probably five",
+                "label": "bf"
+            },
+            {
+                "text": "Oh yeah In fact six would be real good",
+                "label": "aa"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "My wife and I can share bedroom",
+                "label": "sd"
+            },
+            {
+                "text": "Its tough --",
+                "label": "qy^g"
+            },
+            {
+                "text": "Either -",
+                "label": "%"
+            },
+            {
+                "text": "-- to find five and six room bedroom house isnt it",
+                "label": "+"
+            },
+            {
+                "text": "Oh I dont think its possible unless you you know multimillionaire something like that",
+                "label": "sv"
+            },
+            {
+                "text": "Oh I know",
+                "label": "aa"
+            },
+            {
+                "text": "Uh",
+                "label": "%"
+            },
+            {
+                "text": "Seems like you get in that category youre in the three hundred thousand dollar homes or whatever and its --",
+                "label": "sv"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "aa"
+            },
+            {
+                "text": "-- thats an awful lot you know",
+                "label": "+"
+            },
+            {
+                "text": "Yeah it is yeah Uh were having - actually if we find something for uh Id say less than hundred and twenty thousand well be doing all right you know",
+                "label": "aa"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Thats uh - but I think the things out there its just matter of uh --",
+                "label": "%"
+            },
+            {
+                "text": "Just",
+                "label": "^2"
+            },
+            {
+                "text": "-- you know looking --",
+                "label": "+"
+            },
+            {
+                "text": "Matter --",
+                "label": "+"
+            },
+            {
+                "text": "-- you know --",
+                "label": "+"
+            },
+            {
+                "text": "-- of looking right",
+                "label": "+"
+            },
+            {
+                "text": "-- finding the right place uh",
+                "label": "+"
+            },
+            {
+                "text": "Lot of people will buy in your situation will buy four bedroom house and convert maybe the garage or something or the or do something I had young lady used to work for me at my office from the high school and she had uh there were seven kids in her family",
+                "label": "sv"
+            },
+            {
+                "text": "Wow",
+                "label": "ba"
+            },
+            {
+                "text": "And they converted the dining room and did this and that but they always seemed to get along fine you know",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah yeah I think once we get into place it will be just fine but --",
+                "label": "b"
+            },
+            {
+                "text": "Oh sure",
+                "label": "ba"
+            },
+            {
+                "text": "-- you know its until then its uh oh little stressful you know just looking all the time and that sort of thing",
+                "label": "+"
+            },
+            {
+                "text": "Oh I know and its theres nothing harder than that I always just sort of assign my wife that chore then I would let her narrow it down to three or four then Id go look because women seem to like to look lot more than men do",
+                "label": "aa"
+            },
+            {
+                "text": "Oh yeah Maybe thats the case At least shes got more opinions you know theres uh seems like theres more constraints --",
+                "label": "aa"
+            },
+            {
+                "text": "Yes",
+                "label": "aa"
+            },
+            {
+                "text": "-- more things that she thinks about You know openness uh the size of the kitchen and all this kind of stuff that I would --",
+                "label": "+"
+            },
+            {
+                "text": "Why certainly",
+                "label": "aa"
+            },
+            {
+                "text": "-- probably gloss over and maybe even ignore you know",
+                "label": "+"
+            },
+            {
+                "text": "I --",
+                "label": "b"
+            },
+            {
+                "text": "So",
+                "label": "qw"
+            },
+            {
+                "text": "-- understand that",
+                "label": "+"
+            },
+            {
+                "text": "What kind of business are you in",
+                "label": "+"
+            },
+            {
+                "text": "Im in the uh sporting goods business Im manufacturers rep I represent fourteen different hunting and shooting type companies",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah great",
+                "label": "b"
+            },
+            {
+                "text": "What who are you with",
+                "label": "qw"
+            },
+            {
+                "text": "Uh were with an organization called uh Wycliff Bible Translators",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Its missions organization and uh doing uh translation linguistics that sort of thing",
+                "label": "sd"
+            },
+            {
+                "text": "Well great",
+                "label": "ba"
+            },
+            {
+                "text": "Uh its got an office down here in uh in near Duncanville and we just moved down to be on staff down here so -",
+                "label": "sd"
+            },
+            {
+                "text": "How how was the uh - - you say you lived in the Denver area before",
+                "label": "qw"
+            },
+            {
+                "text": "Right",
+                "label": "na"
+            },
+            {
+                "text": "How did that compare with this area as far as house- housing prices",
+                "label": "qw"
+            },
+            {
+                "text": "Uh we were uh really surprised to find that theyre higher here Uh",
+                "label": "sd"
+            },
+            {
+                "text": "No kidding",
+                "label": "ba"
+            },
+            {
+                "text": "When we moved from Louisiana to Denver it was astounding you know to find that prices were oh I guess almost two or three times as high as wed expected And then uh to come down here we thought things would be lower and theyre not I guess uh really prices for housing are just -",
+                "label": "sd"
+            }
+        ]
+    }
+]

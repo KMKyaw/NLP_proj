@@ -1,0 +1,467 @@
+[
+    {
+        "conversation_id": "conv_2395",
+        "turns": [
+            {
+                "text": "Where do you get most of your news",
+                "label": "qw"
+            },
+            {
+                "text": "I watch the MACNEIL LEHRER news hour and I subscribe to the paper on the weekends",
+                "label": "sd"
+            },
+            {
+                "text": "Where where are you",
+                "label": "qw"
+            },
+            {
+                "text": "Im in Dallas",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "bk"
+            },
+            {
+                "text": "Are you in Dallas also",
+                "label": "qy"
+            },
+            {
+                "text": "No Im in San Antonio",
+                "label": "nn"
+            },
+            {
+                "text": "Oh really okay",
+                "label": "b"
+            },
+            {
+                "text": "I get my news from combination of sources I take the paper every day --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and I read it on the way in to work on the in carpool",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "uh-huh And uh and I watch the uh actually I watch the morning news before I leave for work And then you know usually over lunch therell be big topic of conversation on something --",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- from the news",
+                "label": "+"
+            },
+            {
+                "text": "I normally find that uh I- Im probably the most um news hungry of my friends so I dont we dont normally talk about the news at lunch I I find that I have to only subscribe to the paper on the weekend simply because I used to get it during the week --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but um I would always end up arriving at work late because I would always end up skimming the headlines spending too much time reading it in the morning",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So I have to cut myself down to the weekend plus after work Um the MACNEIL LEHRER news hour is on public television --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and I enjoy that quite bit",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Um one of the women that I work with her husband is Iranian",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So here lately with all the Middle Eastern news weve had some very interesting conversations over lunch",
+                "label": "sd"
+            },
+            {
+                "text": "I will admit I work with uh someone whos Iranian and he definitely has very different slant on the news",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Hes very very skeptical of the news media and I will admit Im reasonably skeptical also But hes I dont know uh hes mu- much much more so Its sort of interesting though because he does bring much um different perspective with all the Gulf goings on um He was always speaking in terms of you know American imperialism reasserting itself Um I suppose its different attitude that we normally dont hear in the country",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Well I I uh I like the print news --",
+                "label": "b^r"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- much better than the television news because television news tends to sensationalize",
+                "label": "+"
+            },
+            {
+                "text": "True um the -",
+                "label": "aa"
+            },
+            {
+                "text": "I understand that the MacNeil Lehrer probably doesnt",
+                "label": "sv"
+            },
+            {
+                "text": "They um tend to spend quite bit of time on one story",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "They will have maybe two or three main stories and just spend very large amount of time Sort of like the uh what is that Cs NIGHTLINE",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "Well I guess they only normally stick with just the one um story But they they can do much better job since they dont have to chop it into little two minute stories",
+                "label": "sd"
+            },
+            {
+                "text": "They dont report on every murder and shooting that happened in in every little town",
+                "label": "bf"
+            },
+            {
+                "text": "No no Its very much national interest news",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "lot of times they end up um with these panels of experts and they go back and forth where everyones giving some opinions and sometimes that - I dont know the value of that because I saw plenty of jokes and and um oh editorial cartoons about all the retired generals making living during the the Gulf War",
+                "label": "sd"
+            },
+            {
+                "text": "Ive been getting kick out of those lately",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Although um - I- Im only twenty-five so Ive never actually been through period of war --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "-- and I dont know anyone in the military and I dont have lot of background knowledge in uh military strategy and and weaponry and and all that kind of stuff And I thought the generals were very interesting Now when they started to speculate I I saw that for what is was",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "and thought all of these guys dont know whats going on But I thought the- the- they were interesting and and they shed some light on what was going on for me",
+                "label": "+"
+            },
+            {
+                "text": "I will admit its interesting I- I- Im twenty-six So I dont have any more experience in that than you Um it it it was very interesting that it seemed like some of the commentators had their axe to grind you know there were some that were screaming for air power there were some that were saying the air power wasnt going to do it",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And they seemed to mold the events to their view of the world which I suppose just about everyone does but these guys had uh national soap box to stand on and and express this view",
+                "label": "sv"
+            },
+            {
+                "text": "You know one of the best television news shows that I saw during the war was show on Saturday morning on and it was for children --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and it was hosted by Peter Jennings and it was so interesting because they were relating the war to these children in their studio and they also had children calling in live from all over the country and asking questions And they they had all their correspondents in the different areas in Saudi Arabia and Israel and and all They had them all uh on I dont know what youd call it other than on line They had them all on hold --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "-- and if child asked question that the person in Jerusalem could best answer they would cut to that person and that person would answer the question It was just very informative and interesting and uh I was real impressed at how handled uh translating",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "the war for children",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I didnt see anything like that although I did uh - I guess one thing that I found sort of interesting - this is getting little off the topic but there was big push with the local stations to have little hot lines with counselors --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- to to help parents learn how to talk about their war with their children I thought that was really unusual thing",
+                "label": "+"
+            },
+            {
+                "text": "And our local stores here - I dont know if its statewide or whatever but they have videos that uh - I dont know if they still have them but they were free rental",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "videos that had something to do with the war",
+                "label": "+"
+            },
+            {
+                "text": "Ju- -- -",
+                "label": "%"
+            },
+            {
+                "text": "Uh it was -",
+                "label": "%"
+            },
+            {
+                "text": "-- It- with the childrens aspect",
+                "label": "qy^d"
+            },
+            {
+                "text": "Right It was something for children that they they had several advertisements on television pushing parents going and uh getting the video and watching it with their children and discussing it --",
+                "label": "na"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and that kind of thing",
+                "label": "+"
+            },
+            {
+                "text": "I suppose that is valuable service Again not having uh lived through another war I dont know if thats common thing that people thought of or if that was --",
+                "label": "sv"
+            },
+            {
+                "text": "Well --",
+                "label": "sd"
+            },
+            {
+                "text": "-- new concern with people",
+                "label": "+"
+            },
+            {
+                "text": "-- back during the Viet Nam conflict that no one will will have the guts enough to call real war --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh the that type of technology just wasnt at peoples disposal",
+                "label": "sd"
+            },
+            {
+                "text": "Thats true Thats true",
+                "label": "aa"
+            },
+            {
+                "text": "So I dont think theres ever been war thats been so thoroughly covered by the news",
+                "label": "sv"
+            },
+            {
+                "text": "And probably more importantly one that lasted short enough that that peoples interest didnt flag too badly",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah I tell you what the first three days I was glued to the television",
+                "label": "aa"
+            },
+            {
+                "text": "I will admit the same thing And I",
+                "label": "sd"
+            },
+            {
+                "text": "And I -",
+                "label": "%"
+            },
+            {
+                "text": "would come home and flip on MacNeil Lehrer and they would run these extended two three hour versions of the program --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and I I was just I was horrified and fascinated by what I was seeing",
+                "label": "sd"
+            },
+            {
+                "text": "I tell you what The uh the war start- - lets see was it Wednesday or Thursday Must have been Thursday uh and Friday night I was I stayed up until two oclock in the morning sitting right dead center in front of my television just watching practically with my mouth hanging open",
+                "label": "o"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Because I was watching and they would they would switch back to one of their Israel bureaus and the people would be standing there in gas masks and youd be hearing the sirens and it was just - I was amazed",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh I I didnt have that experience I I dont have cable --",
+                "label": "b"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- so I Im pretty much limited to which I thought I thought they did very good job",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Um Ive got one question for you I you say you take the newspaper",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Um I I found the newspaper situation in Dallas very interesting Weve got the one fairly well relatively weaker paper the TIMES HERALD and then the MORNING NEWS which has very strong subscription",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Does San Antonio ha- - you said San Antonio right",
+                "label": "qy"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny^r"
+            },
+            {
+                "text": "Do you have just one paper or do you have several",
+                "label": "qy"
+            },
+            {
+                "text": "No There are two and theyre pretty close Uh the one that I picked is more similar in format to the newspaper I grew up near Houston --",
+                "label": "nn"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and there are two major newspapers there that run pretty much neck and neck and the one I picked here had the same format as the one that my parents took as I was growing up I mean the same type of typeface on the headline and that kind of stuff",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "Its piddly stuff to pick newspaper over and I enjoy - the comics are better in this newspaper This newspaper has the far side and the comics that I enjoy and the other one has some weird ones that Ive never heard of So -",
+                "label": "sv"
+            },
+            {
+                "text": "I I actually take both newspapers on the weekends",
+                "label": "sd"
+            },
+            {
+                "text": "Do you",
+                "label": "bh"
+            },
+            {
+                "text": "I figure Im only taking on the weekend and I can afford that",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I I find the news reporting in the MORNING NEWS to be better but I sort of have liberal political slant and the MORNING NEWS just has an incredibly conservative editorial um outlook",
+                "label": "sd"
+            },
+            {
+                "text": "And my",
+                "label": "sd"
+            },
+            {
+                "text": "I get the TIMES HERALD just to balance that out little bit",
+                "label": "sd"
+            },
+            {
+                "text": "My fiancee takes probably six Sunday papers He takes both San Antonio papers an Austin paper both Houston papers I guess he takes seven the San Marcos paper and the New Braunsfel paper but hes football coach at Southwest Texas State University so hes getting all the sports sections",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And so you know he has these stacks of Sunday newspapers that go unread",
+                "label": "sd"
+            }
+        ]
+    }
+]

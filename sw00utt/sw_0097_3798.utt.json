@@ -1,0 +1,679 @@
+[
+    {
+        "conversation_id": "conv_3798",
+        "turns": [
+            {
+                "text": "Well Michael what do you think about uh funding for AIDS research Do you -",
+                "label": "qo"
+            },
+            {
+                "text": "Well uh uh thats something Ive thought lot about",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh I I work in hospital",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "And Ive worked in the hospital for fifteen years and Ive taken care of few AIDS patients",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "Uh when they asked us did did we want to uh keep it the same or uh spend more spend less I think --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- uh I think right now what theyre spending is adequate",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh my for my personal opinion",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "Uh because I think its something thats going to take them while to come up with uh vaccine for I dont think its going to be that easy to come up with --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- or I think they already would have by now you know",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh so I dont know if if spending lot more money would really make any difference right now I think theyre doing the is as much research as they can possibly do you know",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh what about you",
+                "label": "qo"
+            },
+            {
+                "text": "Well I guess Im not too aware of how much theyre spending right now",
+                "label": "sd"
+            },
+            {
+                "text": "Im not either",
+                "label": "sd"
+            },
+            {
+                "text": "You know",
+                "label": "+"
+            },
+            {
+                "text": "Im definitely not aware of how much",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Uh thats something Ive never really kept up with at all",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh yeah",
+                "label": "b"
+            },
+            {
+                "text": "Uh I dont",
+                "label": "sd"
+            },
+            {
+                "text": "I mean I - go ahead",
+                "label": "%"
+            },
+            {
+                "text": "Im not sure uh - I know uh Ive always thought more about the disease rather than the der- research you know what I mean",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "And uh that sort of thing Uh if if we were talking about the money uh Id just have to say what theyre spending is probably enough simply because I dont know that much about it",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^r"
+            },
+            {
+                "text": "You know",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I mean I I can see that research is needed and you know -",
+                "label": "b^r"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "Definitely",
+                "label": "aa"
+            },
+            {
+                "text": "I think so I think so",
+                "label": "aa"
+            },
+            {
+                "text": "I mean its becoming major problem",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But uh",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^r"
+            },
+            {
+                "text": "I guess the area that I think more about is I would like to see them focus on uh preventing it uh --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^r"
+            },
+            {
+                "text": "-- in more",
+                "label": "+"
+            },
+            {
+                "text": "Well thats true Thats true --",
+                "label": "aa"
+            },
+            {
+                "text": "You know -",
+                "label": "+"
+            },
+            {
+                "text": "-- because uh its such an easily preventable disease",
+                "label": "+"
+            },
+            {
+                "text": "Right and I",
+                "label": "aa"
+            },
+            {
+                "text": "Uh",
+                "label": "%"
+            },
+            {
+                "text": "I feel like just saying uh safe sex is not the answer Its --",
+                "label": "+"
+            },
+            {
+                "text": "No",
+                "label": "aa"
+            },
+            {
+                "text": "-- its uh --",
+                "label": "+"
+            },
+            {
+                "text": "Its definitely not",
+                "label": "aa"
+            },
+            {
+                "text": "-- abstinence in certain cases and -",
+                "label": "+"
+            },
+            {
+                "text": "Thats true thats true",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Uh",
+                "label": "%"
+            },
+            {
+                "text": "And knowing you know -",
+                "label": "%"
+            },
+            {
+                "text": "Myself uh uh Im just recently or about to get divorce --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh course Im not all ready to just run out there and start dating everybody I can or anything",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But its sort of scary to find yourself single again you know",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh because you never know whats going to happen You dont know who youre going to come across you know",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Course its its not that Im wanting to Im not going to want to go and have sex with everybody I see",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But its something you got to think about these days",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "single person",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know and uh I mean it certainly changed my attitude about that --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- in hurry",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^r"
+            },
+            {
+                "text": "And uh -",
+                "label": "%"
+            },
+            {
+                "text": "I think for lot of people it has",
+                "label": "sv"
+            },
+            {
+                "text": "Certainly",
+                "label": "aa"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "But uh uh I know that uh in some of these larger cities theyre passing out free syringes and all of that sort of thing --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- to prevent you know so that uh the drug addicts --",
+                "label": "+"
+            },
+            {
+                "text": "Drug addicts",
+                "label": "sd^m"
+            },
+            {
+                "text": "-- wont be --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- getting dirty needles and everything",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And uh I dont know I dont think thats bad idea",
+                "label": "h"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I know it uh sort of doesnt address the problem of drug addiction",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "It just sort of keeps that going",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^r"
+            },
+            {
+                "text": "But uh I dont know at least drug addiction can be treated whereas AIDS so far cannot be",
+                "label": "h"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know so I dont know that I think thats - Im not too - much against the the passing out of the free syringes myself",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "I dont know what do you think about that",
+                "label": "h"
+            },
+            {
+                "text": "Well yeah boy --",
+                "label": "^h"
+            },
+            {
+                "text": "It this it needs separate slash mark because B108 is an aa with A107 not necesarily the original intended continuation of this utt",
+                "label": "o@"
+            },
+            {
+                "text": "-- thats hard issue",
+                "label": "+"
+            },
+            {
+                "text": "It really is",
+                "label": "+"
+            },
+            {
+                "text": "It really is",
+                "label": "aa^r"
+            },
+            {
+                "text": "It really is They gave us hard topic",
+                "label": "aa^m"
+            },
+            {
+                "text": "Yeah I mean I I definitely think that its the drug problem that needs to be addressed but as you say uh people I mean in the meantime - well --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- someone whos not ready to give up drugs uh",
+                "label": "+"
+            },
+            {
+                "text": "Thats true",
+                "label": "aa"
+            },
+            {
+                "text": "You know",
+                "label": "+"
+            },
+            {
+                "text": "Thats true",
+                "label": "aa^r"
+            },
+            {
+                "text": "If theyre perp- perpetrating the AIDS problem passing that on to each other then --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- you know -",
+                "label": "+"
+            },
+            {
+                "text": "You know I guess if you consider the two problems drug addiction and AIDS --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- AIDS would have to come first I guess as far as --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^r"
+            },
+            {
+                "text": "-- something to to do about it",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So so I dont know Uh course theres so many things in the world where if you solve one problem you may be creating another you know",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And uh so I guess you just have to take the two problems and see which is worse",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^r"
+            },
+            {
+                "text": "Which is the most important to solve at the time and -",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I dont know",
+                "label": "h"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But uh but Ive never looked into how much money theyre spending I have I have no idea",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I know lot of our tax money goes to that",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But uh I really have never looked into it I have no idea",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I havent either Ive heard you know uh --",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- different voices --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^r"
+            },
+            {
+                "text": "-- speaking up and saying were not spending enough and",
+                "label": "+"
+            },
+            {
+                "text": "Right sure",
+                "label": "b"
+            },
+            {
+                "text": "Mostly thats what Ive heard so I dont know",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And yet I know its uh it sounds like big money to me",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah --",
+                "label": "aa"
+            },
+            {
+                "text": "But it --",
+                "label": "sv"
+            },
+            {
+                "text": "-- I think it is",
+                "label": "aa"
+            },
+            {
+                "text": "-- probably takes --",
+                "label": "+"
+            },
+            {
+                "text": "I think it is",
+                "label": "aa^r"
+            },
+            {
+                "text": "-- lot",
+                "label": "+"
+            },
+            {
+                "text": "Yeah it does every -",
+                "label": "b"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "It seems to take more than uh for any little thing they do it seems to take lot more money that you would think it would",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But uh -",
+                "label": "%"
+            },
+            {
+                "text": "Did you have any fear working in the hospital with that",
+                "label": "qy"
+            },
+            {
+                "text": "Thats one thing Ive never really feared",
+                "label": "ng"
+            },
+            {
+                "text": "uh-huh",
+                "label": "bk"
+            },
+            {
+                "text": "Uh uh I - lot of the my family you know they fear me working like that and under some some of those conditions but uh --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "-- uh I dont fear it at all",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "Uh I work in in the operating room lot --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "-- and uh and of course when - -",
+                "label": "%"
+            }
+        ]
+    }
+]

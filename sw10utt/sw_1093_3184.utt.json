@@ -1,0 +1,311 @@
+[
+    {
+        "conversation_id": "conv_3184",
+        "turns": [
+            {
+                "text": "Well basically uh did you want to go first then",
+                "label": "ad"
+            },
+            {
+                "text": "Uh well I can I I dont own my home",
+                "label": "aa"
+            },
+            {
+                "text": "Okay right",
+                "label": "b"
+            },
+            {
+                "text": "Uh I mean I I live in nice area and I rent my home and --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh we arent sure were going to buy house yet because we dont know if were going to be staying here",
+                "label": "+"
+            },
+            {
+                "text": "Sure uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "In uh Texas so -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I think as far as like our home its uh in small residential area Were out of the cities quite ways so its kind of more of country setting and uh its just typical uh three bedroom type of home Its its nothing you know elaborate where it has uh this or this or you know Its its --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- just typical home with uh three bedrooms uh two story type home Uh and I think as far as if its for put it into standards of uh what other homes are around here it would be just about fitting right into the middle part of where the homes are Uh theres river across from us which has more elaborate homes and yet theres - where we can view the river from that distance theres still homes within our area that are you know pretty typical of what our home is so --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- its uh pretty much that uh type of uh home so -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Well our ho- --",
+                "label": "b"
+            },
+            {
+                "text": "Uh",
+                "label": "%@"
+            },
+            {
+                "text": "-- our house we were renting it from an individual who bought it and he lives in Korea",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh oh really",
+                "label": "+@"
+            },
+            {
+                "text": "And uh hes recently moved here and hes owns eight or nine properties --",
+                "label": "sd"
+            },
+            {
+                "text": "Sure",
+                "label": "b"
+            },
+            {
+                "text": "-- uh near here --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh so -",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But the houses around here theres five five houses on my street for sale right now",
+                "label": "sd@"
+            },
+            {
+                "text": "Oh yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "Which is just uh in trouble --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- to me And theyre not very expensive either It just seems like - we have three bedroom house Ours is one level only",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh but we -",
+                "label": "%"
+            },
+            {
+                "text": "So its the rambler style",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah we have two two living areas and dining room and big kitchen and",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "The bedrooms are little bit small except the master bedrooms little bigger",
+                "label": "+@"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "Its kind of like what ours is Uh one of our bedrooms is really small and weve made that into den because we only have one child so that was our best way of going with uh the small bedrooms because they are making bedrooms smaller and smaller It seems like they get incredibly small",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Uh but uh anyway but okay So that sounds great and uh I dont know if we need to talk any more or whatever",
+                "label": "%"
+            },
+            {
+                "text": "Have you - have you done this before",
+                "label": "qy^t"
+            },
+            {
+                "text": "The I",
+                "label": "qy^d^t"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Uh yes uh about three times before",
+                "label": "ny"
+            },
+            {
+                "text": "Oh have you",
+                "label": "bh"
+            },
+            {
+                "text": "Im fairly new to it but it seems to be going okay",
+                "label": "sd^t"
+            },
+            {
+                "text": "Yeah Are you in Texas",
+                "label": "b"
+            },
+            {
+                "text": "No huh-uh",
+                "label": "nn"
+            },
+            {
+                "text": "No yeah",
+                "label": "b^m"
+            },
+            {
+                "text": "No Im out of state Im in Wisconsin so -",
+                "label": "nn"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "So its -",
+                "label": "%"
+            },
+            {
+                "text": "Sounds interesting",
+                "label": "ba"
+            },
+            {
+                "text": "Uh other than that sure yeah Is this your first time",
+                "label": "o"
+            },
+            {
+                "text": "No huh-uh Ive well Ive gotten several calls",
+                "label": "nn"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh but uh",
+                "label": "%"
+            },
+            {
+                "text": "Im always the one that initiates the calls because I kind of like it because its like I can get it done with",
+                "label": "sd^t"
+            },
+            {
+                "text": "Yeah",
+                "label": "+"
+            },
+            {
+                "text": "I dont have to wait until somebody calls me even though I have feeling whats going to happen is Ill probably get tons of calls you know so sooner or later",
+                "label": "sd^t"
+            },
+            {
+                "text": "Yeah yeah well theyve Ive talked to some people from Cleveland and I did talk to someone --",
+                "label": "b"
+            },
+            {
+                "text": "Uh- -",
+                "label": "%"
+            },
+            {
+                "text": "-- else who lives here --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- in the same city I do so --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- that was kind of interesting",
+                "label": "+"
+            },
+            {
+                "text": "Yeah sure",
+                "label": "b"
+            },
+            {
+                "text": "Theyre theyre sure getting their people out so well --",
+                "label": "sv^t"
+            },
+            {
+                "text": "Yeah",
+                "label": "fc"
+            },
+            {
+                "text": "-- it was nice to talk to you anyway and -",
+                "label": "+"
+            },
+            {
+                "text": "Okay well you take it easy Gail",
+                "label": "fc"
+            },
+            {
+                "text": "Okay thanks",
+                "label": "fc"
+            },
+            {
+                "text": "Bye now",
+                "label": "fc"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc"
+            }
+        ]
+    }
+]

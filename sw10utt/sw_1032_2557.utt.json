@@ -1,0 +1,687 @@
+[
+    {
+        "conversation_id": "conv_2557",
+        "turns": [
+            {
+                "text": "and shes expecting the end of this month and shes the only one that lives near by",
+                "label": "sd"
+            },
+            {
+                "text": "Oh well that will be nice though",
+                "label": "ba"
+            },
+            {
+                "text": "So the rest live in - one lives in Connecticut and couple lives in Pittsburg and one lives near So uh -",
+                "label": "sd"
+            },
+            {
+                "text": "But still sort of up in that general --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- area of the country -- -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- so you can probably see them sometimes",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah we see them once in while couple of times year at least",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and the ones in Pittsburg of course we see more often",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So uh -",
+                "label": "%"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "All right Im ready to go",
+                "label": "b"
+            },
+            {
+                "text": "Well uh what kind of recycling do you have in your area",
+                "label": "qw"
+            },
+            {
+                "text": "Well theyve been trying different things One one of the biggest problems seems to be we dont they dont have anyplace to put some of the things that need recycled",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Right now weve recycled glass for ye- be- years because we have glass industry in our community",
+                "label": "sd"
+            },
+            {
+                "text": "Oh what - which one is that",
+                "label": "%"
+            },
+            {
+                "text": "Owens",
+                "label": "sd"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "bk"
+            },
+            {
+                "text": "Owens Um so glass has been recycled for long time Uh we have cycling area set up here at our house the Boy Scouts have and theyve done that for years Uh the stores are recycling their plastic bags now You can take them back in and they have bins to collect those",
+                "label": "sd^r"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh the aluminum cans They try to do the uh newspapers and uh they had to close their area down because they couldnt sell it They were - what they were doing was shredding it and trying to sell it to farmers for bedding for their animals",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and that type of thing And that didnt work but but somebody told me that they were charging as much for it as they did for straw",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Which is why they couldnt sell it",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "you know because the farmers would buy the straw if its you know similar price",
+                "label": "sd"
+            },
+            {
+                "text": "Sure",
+                "label": "b"
+            },
+            {
+                "text": "And lets see is there anything else Okay I think by this Fall its going to be required that the town of Clarion which well live nearby will have mandatory recycling started so -",
+                "label": "^h"
+            },
+            {
+                "text": "On just particular things - or -",
+                "label": "qy^d"
+            },
+            {
+                "text": "Uh mainly the glass the aluminum the plastics -",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh",
+                "label": "%"
+            },
+            {
+                "text": "Well it sounds like theyre doing quite bit",
+                "label": "sv"
+            },
+            {
+                "text": "Well were working hard on it because were fighting also in our area large hazardous waste incinerator --",
+                "label": "sd"
+            },
+            {
+                "text": "Uh",
+                "label": "b"
+            },
+            {
+                "text": "-- which we do not want built and uh we would like industry to do more before they build these big huge incinerators",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And uh we we just feel they should they should offer industry some incentives to do more reducing of their waste products and reusing",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "them - because some of those companies that are doing it have save money eventually At first apparently it costs more to get started",
+                "label": "%"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "But once they get established then its money saving thing",
+                "label": "sv"
+            },
+            {
+                "text": "Well our company does some things all of which I couldnt even tell you about I dont know all of them but -",
+                "label": "sd"
+            },
+            {
+                "text": "And what is I",
+                "label": "qw"
+            },
+            {
+                "text": "Uh Texas Instruments",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay",
+                "label": "bk"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Gee my my son works for - no not for that - okay Excuse me go ahead",
+                "label": "o"
+            },
+            {
+                "text": "Well I I was just curious as how you got hooked up with this this speech type of thing",
+                "label": "sd^t"
+            },
+            {
+                "text": "Well my son works in uh for the federal government Hes he works in computer laboratory",
+                "label": "sd"
+            },
+            {
+                "text": "Oh and he -",
+                "label": "b"
+            },
+            {
+                "text": "And uh it was through him that that uh -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Well here at work um each one of us has two trash baskets in our office and one of those is designed for any kind of paper products that um they want to use you know for recycling They cant deal with every type",
+                "label": "b"
+            },
+            {
+                "text": "Uh maybe you could tell me what is the difference between office paper waste and just like newspapers",
+                "label": "qw"
+            },
+            {
+                "text": "Well I guess I dont know specifically except that uh for the paper that they want to recycle they do not want any newspaper um and things like candy wrappers or uh that type of thing Lets see I have list here Um they dont want lunch sacks or brown envelopes uh phone books So there are you know lot of kinds of things that they dont want but then any kind of computer paper letters uh booklets - theyll even take things that are bound",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "Um and it doesnt all have to be like white Theyll take colored folders",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really",
+                "label": "b"
+            },
+            {
+                "text": "and and uh even some of those can have plastic tabs on them",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "So its its hard to kind of figure out you know which things are the right ones",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "I mean I Ill frequently have to look at the list if its something that I dont throw away all the time",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But um they do that and then we use uh different chemicals and things and I know that about how they take care of that sort",
+                "label": "sd"
+            },
+            {
+                "text": "Right yeah",
+                "label": "b"
+            },
+            {
+                "text": "of thing I I dont know all the details",
+                "label": "+"
+            },
+            {
+                "text": "Right yeah",
+                "label": "b"
+            },
+            {
+                "text": "but theyre really on top of that",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And there probably some other things that I dont about because were real large company",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I just dont have contact with them",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But in our uh city - well I live in suburb of Dallas --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and they have initiated newspaper recycling --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- whereby they pick it up from your alley uh one day week --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and all you have to do is bundle it",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh all around Dallas there are lot of recycling centers where you can take things sometimes for money --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- um but most of those are real far away from like where I live at any rate",
+                "label": "+"
+            },
+            {
+                "text": "Well it would be inconvenient to in other words to -",
+                "label": "sd"
+            },
+            {
+                "text": "Very inconvenient and um its just you know hasnt been very practical to get into lot of those things If they would make it something where they you know would pick it up at the curb or at least make it you know down the street and at the corner",
+                "label": "^2"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "type of thing uh -",
+                "label": "+"
+            },
+            {
+                "text": "more areas where they would pick it up",
+                "label": "^2"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "that wouldnt be so bad",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Um our grocery store like yours will take the uh plastic bags and theyll also take the the paper bags back",
+                "label": "sd"
+            },
+            {
+                "text": "Um uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But um uh you mentioned the uh glass type of stuff The reason I ask you about that is years ago and it it changed names somewhere along the line but um my dad used to work for Knox Glass in",
+                "label": "sd"
+            },
+            {
+                "text": "Oh well Knox is just over the hill here",
+                "label": "sd"
+            },
+            {
+                "text": "Knox Pennsylvania Oh really",
+                "label": "+"
+            },
+            {
+                "text": "Yes uh-huh They",
+                "label": "ny@"
+            },
+            {
+                "text": "Yeah its -",
+                "label": "b"
+            },
+            {
+                "text": "they no longer are you know active",
+                "label": "+"
+            },
+            {
+                "text": "Yeah they were taken over by Glass Containers years ago",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and but he worked for them for like thirty-one years",
+                "label": "sd"
+            },
+            {
+                "text": "Oh for heavens sake",
+                "label": "ba"
+            },
+            {
+                "text": "And he used to travel up there to Knox quite bit",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and and I even did once when I was child",
+                "label": "sd"
+            },
+            {
+                "text": "Oh for heavens sake",
+                "label": "ba"
+            },
+            {
+                "text": "you know so -",
+                "label": "%"
+            },
+            {
+                "text": "Well we only live probably about fifteen twenty miles from Knox",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah we - I was looking through our photo album not long ago and they had had some pictures and things in there of Knox",
+                "label": "b"
+            },
+            {
+                "text": "Ill be darn yeah",
+                "label": "ba"
+            },
+            {
+                "text": "But uh I guess thats about it you know as far as what goes on that I know about",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh I think people are getting more interested and they are more concerned And were just were just real concerned about this incinerator because we really they want to put it right in uh in between two of our main water sheds that feed the Clarion Ri- River",
+                "label": "b"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "And uh we we just we just dont want it anyplace We feel that we that they should give businesses more incentives to do more recycling and more reduction and and more reuse and all those things that could be done",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "We we just dont think we dont think some of the politicians are really interested in our best interests",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah thats -",
+                "label": "b"
+            },
+            {
+                "text": "And uh its its been real struggle and hardship for lot of people in our area that weve have you know have been fighting against this thing in trying to have things changed",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "to make them more more right but uh -",
+                "label": "+"
+            },
+            {
+                "text": "Well I think probably more people you know would participate if they just made it little easier",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and like you say make it um better for companies to do these things",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and get involved in it without huge cost to them",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "because obviously",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "no one wants to spend lot of money",
+                "label": "+"
+            },
+            {
+                "text": "Uh well",
+                "label": "sv"
+            },
+            {
+                "text": "just to deal with trash you know",
+                "label": "+"
+            },
+            {
+                "text": "Were were going to pay for that that whether we pay industry or",
+                "label": "+"
+            },
+            {
+                "text": "Yeah thats true",
+                "label": "aa"
+            },
+            {
+                "text": "pay - we weve already paid industry for like these super fund thats cleaning up We paid industry for it we pay all help to pay to have them haul it away from their place and where they put it now they found its not safe place Its leaked and now they have to clean those up and its our money thats cleaning this",
+                "label": "+"
+            },
+            {
+                "text": "Thats right",
+                "label": "ba"
+            },
+            {
+                "text": "stuff up And now they want to put it in they burn it and that will make another hazardous dump --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and eventually theyll have to do something with that Well pay for it again",
+                "label": "sd"
+            },
+            {
+                "text": "Thats true",
+                "label": "ba"
+            },
+            {
+                "text": "so why not pay industry This is my feeling Why not pay industry little more",
+                "label": "qh"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and reduce it you know and and not have as much of it",
+                "label": "+@"
+            },
+            {
+                "text": "Also probably look at packaging and",
+                "label": "^2"
+            },
+            {
+                "text": "Oh",
+                "label": "+@"
+            },
+            {
+                "text": "that sort of thing",
+                "label": "+"
+            },
+            {
+                "text": "definitely",
+                "label": "aa"
+            },
+            {
+                "text": "We dont we dont need three quarters of",
+                "label": "sv"
+            },
+            {
+                "text": "Huh-uh huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "what we get",
+                "label": "+"
+            },
+            {
+                "text": "No but they think and probably theyre right people buy it easier",
+                "label": "aa"
+            },
+            {
+                "text": "I uh - thats their marketing",
+                "label": "%"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "Well",
+                "label": "%"
+            },
+            {
+                "text": "And I know people would be willing to do more like saving their newspapers and that if they had place to take them We dont have anyplace right now that will take them",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah I Im - guess our city you know in picking them up must take them somewhere else",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and get something for them",
+                "label": "+"
+            },
+            {
+                "text": "Probably yeah",
+                "label": "%"
+            },
+            {
+                "text": "But I dont that its big money -",
+                "label": "sv"
+            }
+        ]
+    }
+]

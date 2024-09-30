@@ -1,0 +1,659 @@
+[
+    {
+        "conversation_id": "conv_2627",
+        "turns": [
+            {
+                "text": "Okay so do you do lot of cooking in your family",
+                "label": "b"
+            },
+            {
+                "text": "Um I do some every now and then I I work and my wifes home during the day so she usually ends up doing most of it",
+                "label": "ng"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "When I was single we used to always cook around the house",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah do do you like to cook",
+                "label": "b"
+            },
+            {
+                "text": "Huh yeah I really like it",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "um theres few dishes - like I I grew up with the um you know having Polish and Ukrainian food",
+                "label": "%"
+            },
+            {
+                "text": "Oh really",
+                "label": "b"
+            },
+            {
+                "text": "And my wife she likes Italian and stuff",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "so we we definitely have different tastes so -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah but thats neat though because you get to have different stuff",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Im not Im pretty bad cook Im pretty bad My husband is really good he put himself through college working in restaurants",
+                "label": "b"
+            },
+            {
+                "text": "Oh wow",
+                "label": "ba"
+            },
+            {
+                "text": "And uh hes much better cook than I am so when I was home I still cooked lot and I was in to lot of vegetarian stuff And now I went back to work about year and half ago so one of the things that he took over was the cooking and the kids are thrilled theyre really happy that I dont cook anymore",
+                "label": "sd"
+            },
+            {
+                "text": "Uh theyre like uh preferring it now right",
+                "label": "qy^g"
+            },
+            {
+                "text": "Yeah they say oh dad let dad cook mom let him do it But um so so do you all do you have kids You obviously have one",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah two uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Okay you have two",
+                "label": "bk"
+            },
+            {
+                "text": "Yeah one is uh nine months and the other is two and half",
+                "label": "aa"
+            },
+            {
+                "text": "Two and half oh",
+                "label": "b^m"
+            },
+            {
+                "text": "Yeah thats the hard part is cooking with uh kids around because uh becau- -",
+                "label": "b"
+            },
+            {
+                "text": "I was just going to say makes difference in what you eat doesnt it Or are you not at that stage yet",
+                "label": "qy^g"
+            },
+            {
+                "text": "Yeah it does",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "We try our hardest to get them to eat what we - eat you know",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And my sister uh shes the master of the fast order grill you know",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "she can make uh she makes six different meals but -",
+                "label": "sd"
+            },
+            {
+                "text": "Oh my gosh",
+                "label": "ba"
+            },
+            {
+                "text": "Like to have one thing you know - one likes chicken nuggets the other one like hot dogs",
+                "label": "sd"
+            },
+            {
+                "text": "Oh my gosh I couldnt",
+                "label": "ba"
+            },
+            {
+                "text": "and then she makes noodles with uh with",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "- soy sauce or whatever so all things -",
+                "label": "+"
+            },
+            {
+                "text": "Boy I couldnt do that I -",
+                "label": "sd"
+            },
+            {
+                "text": "But um yeah our favorite - let me think I was thinking of the one recipe that uh that we made I guess the thing that always turned out the best for us was something we thought looked really fancy but was real easy and that was um",
+                "label": "b"
+            },
+            {
+                "text": "Whats that",
+                "label": "qw"
+            },
+            {
+                "text": "uh scallops uh scallop um -",
+                "label": "+"
+            },
+            {
+                "text": "Oh really",
+                "label": "b"
+            },
+            {
+                "text": "it has French name it basically means that it has Swiss cheese cream sauce with it and you pour it over rice",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah whats what is that Saint Jack or something",
+                "label": "b"
+            },
+            {
+                "text": "Yeah uh",
+                "label": "ny"
+            },
+            {
+                "text": "Scallops Saint something or yeah",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I cant even remember what the recipes name is anymore",
+                "label": "b"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "but uh i- it was basically just ground up Swiss cheese and then uh standard cream sauce base and then uh --",
+                "label": "sd"
+            },
+            {
+                "text": "Really with scallops",
+                "label": "b"
+            },
+            {
+                "text": "-- the scallops An and it sounds sort of funny but it tastes really good",
+                "label": "+"
+            },
+            {
+                "text": "No no Im from New England so we we had um lot of seafood before we moved down here And uh that sounds delicious to me",
+                "label": "ar"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "That sounds great",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah but uh -",
+                "label": "b"
+            },
+            {
+                "text": "I think were just thinking of having uh dinner party We went to this dinner party the other night that was kind of like game they had uh murder mystery",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and you came dressed as one of the characters and you had to solve the mystery during the dinner",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and it was really fun and so we we were thinking we wanted to do you know we were going to try doing it ourselves but were trying to decide what can we serve because at this one the hostess was pretty busy running around trying to get stuff ready for the table and that kind of interrupted the game so",
+                "label": "sd"
+            },
+            {
+                "text": "Right yeah",
+                "label": "b"
+            },
+            {
+                "text": "so I was thinking theres this Beef Bourguignonne recipe that Ive tried before thats pretty good and then you can make that ahead and you can just leave it in the pot on stove until youre ready",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So thats uh -",
+                "label": "%"
+            },
+            {
+                "text": "Yeah thats another thing I have problem with my wife",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "she uh she likes to um she doesnt like the beef dishes She likes the chicken and fish",
+                "label": "sd"
+            },
+            {
+                "text": "Uh yeah",
+                "label": "b"
+            },
+            {
+                "text": "and like I said we always ate beef and uh pork",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "you know lot so -",
+                "label": "+"
+            },
+            {
+                "text": "I know my husband did too His parents are Austrian and they uh always made sure they had lot of meat at the table",
+                "label": "ba"
+            },
+            {
+                "text": "Oh yeah red meat plenty of good red meat",
+                "label": "b"
+            },
+            {
+                "text": "Yeah yeah yeah",
+                "label": "aa"
+            },
+            {
+                "text": "My dad could eat meal with out any vegetables at all",
+                "label": "sd"
+            },
+            {
+                "text": "Oh my gosh",
+                "label": "ba"
+            },
+            {
+                "text": "And uh Susans you know they had you know meatless meals you know",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "My dad wouldnt know what to do",
+                "label": "sd"
+            },
+            {
+                "text": "Oh gosh so do you -",
+                "label": "ba"
+            },
+            {
+                "text": "Course she grew up Catholic so you know they",
+                "label": "sd"
+            },
+            {
+                "text": "Oh they did the -",
+                "label": "%"
+            },
+            {
+                "text": "they sort of come with the - theres certain amount of meatless meals you have to have",
+                "label": "+"
+            },
+            {
+                "text": "That you do right right thats just part of it",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Yeah we didnt my family didnt but when I got into the vegetarian cooking we got kind of used to that but my husband always did it kind of grudgingly he never -",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "There was dishes that he really enjoyed eating",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Ther- there were several things that he liked but it never was really something that he would have chosen Its just that I cooked so he had to put up with it",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "So but there was one thing that he couldnt stand and that was soybeans I tried it like once or twice and he just could not eat it so I never - I had - I was limited I had to make vegetarian meals without using soy beans but -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah its hard to get protein content up then",
+                "label": "b"
+            },
+            {
+                "text": "Yeah yeah Thats true",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah I like I like them every now and then for change ye- its nice",
+                "label": "b"
+            },
+            {
+                "text": "Yeah some of the stuff is good but it just it was tremendous amount of cooking Because you do have to make sure you have the right combinations of different proteins to make sure theyre complete",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and we had little kids at the time you know when I was home with them and it it was just so much cooking I couldnt I dont like to cook And Im not really that great at it so it just turned out to be too much of too much too much cooking So well I guess Ill let you get back to feeding your little one there",
+                "label": "sd"
+            },
+            {
+                "text": "No uh hes all done",
+                "label": "ar"
+            },
+            {
+                "text": "Hes set oh okay",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah yeah I set him down",
+                "label": "ny"
+            },
+            {
+                "text": "Okay Do you like to bake at all or do you do you get into thats that",
+                "label": "bk"
+            },
+            {
+                "text": "Yeah we used to do that um my mom used to go crazy every Sunday until my dad like blew up you know",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Af- after he gained about eighty pounds after coming back from the Navy she stopped doing it But um she used to have you know two dozen sticky buns three bread rolls you know every week",
+                "label": "sd"
+            },
+            {
+                "text": "Really no kidding",
+                "label": "b"
+            },
+            {
+                "text": "And um the sticky buns of course would last you know three or four days and that would be it",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah then be gone I know thats the thing about baking I used to I I dont mind baking at all and I I can do pretty good pie we have this pie crust recipe in our family that my grandmother gave my mother and my mother taught me how to make it",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And um so I can make pretty mean pie but um I dont do it anymore because its just too fattening We had the same kind of problem If you make homemade bread",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I mean forge- its supposed to save you money but you eat like three times the amount of bread that you usually eat It tastes so good",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh we always we had that bread that was uh um - you ever seen the the starter bread I cant remember what its called they call it the um Amish bread here but -",
+                "label": "aa"
+            },
+            {
+                "text": "Oh uh yeah",
+                "label": "ny"
+            },
+            {
+                "text": "uh its made with - you just le- leave it out",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "you know and you let it spoil sort of",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah uh-huh Ive heard of that Ive heard of it but Ive never done it",
+                "label": "ny"
+            },
+            {
+                "text": "You know yeah",
+                "label": "b"
+            },
+            {
+                "text": "That sounds pretty good",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah it tasted pretty good really",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "But uh its the sort of thing where you let portion of it go bad and then you add all these other ingredients to it but -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah and then you sa- you make the bread but you pinch off portion or save portion of it for the next time or something",
+                "label": "b"
+            },
+            {
+                "text": "Yeah right ye- you take some of the batter out and give it to someone else and thats how they continue the thing",
+                "label": "b"
+            },
+            {
+                "text": "Yeah yeah yeah I know it sounds it always sounded - I dont know how safe that was",
+                "label": "b"
+            },
+            {
+                "text": "Yeah I know it sounded strange to me too I figure well youre baking it so you know yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah thats true thats thats got to kill anything I guess but -",
+                "label": "aa"
+            },
+            {
+                "text": "Okay well Ill talk to you later",
+                "label": "b"
+            },
+            {
+                "text": "All right well yeah thanks",
+                "label": "fc"
+            },
+            {
+                "text": "Where are you calling from by the way Texas",
+                "label": "fc"
+            },
+            {
+                "text": "Plano",
+                "label": "fc"
+            },
+            {
+                "text": "Where",
+                "label": "fc"
+            },
+            {
+                "text": "Yeah Plano in Texas",
+                "label": "fc"
+            },
+            {
+                "text": "Plano okay",
+                "label": "fc"
+            },
+            {
+                "text": "Are you in Texas",
+                "label": "fc"
+            },
+            {
+                "text": "No Falls Church Virginia",
+                "label": "fc"
+            },
+            {
+                "text": "No kidding gosh it sounds so close",
+                "label": "fc"
+            },
+            {
+                "text": "Yeah I know weve got good connection must be uh I connection yeah",
+                "label": "fc"
+            },
+            {
+                "text": "Yeah I thought for sure I thought for sure you were in Dallas or something",
+                "label": "fc"
+            },
+            {
+                "text": "Yeah I I talked to so many people from Texas thats where practically everybody I talked to is from",
+                "label": "fc"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "fc"
+            },
+            {
+                "text": "I think thats why they call me because they want to get people outside the state you know",
+                "label": "fc"
+            },
+            {
+                "text": "Yes theyre doi- theyre trying to get all different amount of people Well gee my husband is from Richmond and I went to thats where we went",
+                "label": "fc"
+            },
+            {
+                "text": "Oh oh really",
+                "label": "fc"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "fc"
+            },
+            {
+                "text": "Yeah I went to school at uh well I went to school at West Virginia University",
+                "label": "fc^m"
+            },
+            {
+                "text": "Oh you did yeah",
+                "label": "fc"
+            },
+            {
+                "text": "but I grew up right here in Falls Church right outside",
+                "label": "fc"
+            },
+            {
+                "text": "Yeah boy wed like to get back over to the East Coast Ill tell you Its nice over there",
+                "label": "fc"
+            },
+            {
+                "text": "Yeah its sort of funny I have people that want to go to Dallas",
+                "label": "fc"
+            },
+            {
+                "text": "Oh really",
+                "label": "fc"
+            },
+            {
+                "text": "Yeah one of my one of my friends here he was just talking how hes thinking of leaving the company and going to Dallas saying how -",
+                "label": "fc"
+            },
+            {
+                "text": "Oh yeah no kidding Well things are doing pretty good down here we we were we tried to move over to Raleigh last year and there just was there was so little such little going on in Raleigh you know you couldnt get job to save yourself over there so we decided well try in couple of years but but business is -",
+                "label": "fc"
+            },
+            {
+                "text": "Yeah yeah We were saying we could sell our house here and buy one down there cash you know",
+                "label": "fc"
+            },
+            {
+                "text": "Yeah you probably could you probably could",
+                "label": "fc"
+            },
+            {
+                "text": "Well Northern Virginia Okay",
+                "label": "fc"
+            },
+            {
+                "text": "Okay well its good talking to you",
+                "label": "fc^m"
+            },
+            {
+                "text": "Nice talking to you too",
+                "label": "fc"
+            },
+            {
+                "text": "Take care",
+                "label": "fc"
+            },
+            {
+                "text": "Bye bye",
+                "label": "fc"
+            },
+            {
+                "text": "Bye",
+                "label": "fc"
+            }
+        ]
+    }
+]

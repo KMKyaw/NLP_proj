@@ -1,0 +1,411 @@
+[
+    {
+        "conversation_id": "conv_3513",
+        "turns": [
+            {
+                "text": "Well uh lets see what type of car do I want Well Id like to have Corvette",
+                "label": "^2"
+            },
+            {
+                "text": "Oh wow",
+                "label": "ba"
+            },
+            {
+                "text": "But my uh weekly wages dont apply for me to have that kind of car so -- -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- uh Im engaged to get married so Ill more likely get car for economic reasons",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Yeah and uh so uh to drive back and forth to work is all Ill need car for pretty much And we have truck so probably economic size car or uh -",
+                "label": "b"
+            },
+            {
+                "text": "What kind of car do you have now",
+                "label": "qw"
+            },
+            {
+                "text": "Right now I have eighty-seven Cavalier Its piece of -",
+                "label": "sd"
+            },
+            {
+                "text": "My car is really old too because uh I drive out of town lot of the weekends --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh I would like my next car to have good gas mileage",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And uh same here uh you know nice car American made - and uh you know nice car but not too expensive - because uh I couldnt afford like brand new like Lamborghini I hardly drive",
+                "label": "sd"
+            },
+            {
+                "text": "But while were talking - right",
+                "label": "%"
+            },
+            {
+                "text": "While were talking my next car Id like to be sporty and you know --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- nice but you know its expensive and then insurance is really high for that too so",
+                "label": "+"
+            },
+            {
+                "text": "Oh I know",
+                "label": "ba"
+            },
+            {
+                "text": "Something with thats not too sporty because of insurance then -",
+                "label": "+"
+            },
+            {
+                "text": "Right that insurance does come into play I forgot about that",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "What kind of insurance do you have up there or is it real high up there",
+                "label": "qw^d"
+            },
+            {
+                "text": "Uh no mine just got lowered because I just turned twenty-one and uh Im not sure really how much I pay I just - my moms helping me out you know because Im college Im in college and uh so I just give her the money --",
+                "label": "nn"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- and take her word for it",
+                "label": "+"
+            },
+            {
+                "text": "Right I mean that insurance is high dollars",
+                "label": "b"
+            },
+            {
+                "text": "Yeah yeah it is so -",
+                "label": "b"
+            },
+            {
+                "text": "But -",
+                "label": "%"
+            },
+            {
+                "text": "And the more expensive the car the higher it is so",
+                "label": "sd"
+            },
+            {
+                "text": "Right yeah",
+                "label": "b"
+            },
+            {
+                "text": "Unless I win the lottery I wont be driving anything too expensive",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "I dont plan on buying car for many many years so -",
+                "label": "sd"
+            },
+            {
+                "text": "Right yeah",
+                "label": "b"
+            },
+            {
+                "text": "I have to make this one last as long as I can",
+                "label": "sd"
+            },
+            {
+                "text": "Whats everybody drive up there",
+                "label": "qw"
+            },
+            {
+                "text": "Uh in Kenosha",
+                "label": "qy^d"
+            },
+            {
+                "text": "I mean in Wisconsin they drive them little --",
+                "label": "na"
+            },
+            {
+                "text": "Oh it just is -",
+                "label": "%"
+            },
+            {
+                "text": "-- four wheelers or four wheel drive or do you all need four wheel drives up there because of snow and everything",
+                "label": "+"
+            },
+            {
+                "text": "Yeah we we have Jeep with four wheel drive because uh because of the snow you mean or -",
+                "label": "ny"
+            },
+            {
+                "text": "Right it never snows down here so -",
+                "label": "b"
+            },
+            {
+                "text": "Well we dont have any snow here now",
+                "label": "sd"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "It all melted Yeah there is no snow at all",
+                "label": "sd"
+            },
+            {
+                "text": "We havent had snow yet We usually only get like once year or so",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "Kind of strange to you all huh",
+                "label": "qy^g"
+            },
+            {
+                "text": "Yeah Yeah it is",
+                "label": "ny"
+            },
+            {
+                "text": "Because how - its like seventy degrees here right now",
+                "label": "%"
+            },
+            {
+                "text": "Oh dont tell me that",
+                "label": "ad"
+            },
+            {
+                "text": "Yep how how cold is it there",
+                "label": "b"
+            },
+            {
+                "text": "Well actually its been warm its in the forties",
+                "label": "sd"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah and thats thats really warm",
+                "label": "b"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh and its supposed to rain tomorrow so we - Ive only seen snow once this year And it was really bad and then it all melted like within the week",
+                "label": "sd"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "And now there is no snow so -",
+                "label": "sd"
+            },
+            {
+                "text": "Huh But um so what what is your dream car",
+                "label": "b"
+            },
+            {
+                "text": "Uh I havent really thought about it Im not too big on cars I mean I dont know the names and stuff but if I were to go to car lot and like look at them --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- I would pick out one that you know looked really nice",
+                "label": "+"
+            },
+            {
+                "text": "Whats your favorite color",
+                "label": "qw"
+            },
+            {
+                "text": "Uh for car",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Probably blue",
+                "label": "sd"
+            },
+            {
+                "text": "Blue",
+                "label": "bh"
+            },
+            {
+                "text": "Like if it you know was just an average middle class car But if I were to get sports car maybe white or red",
+                "label": "+"
+            },
+            {
+                "text": "Right right",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So what kind of car do you drive right now",
+                "label": "qw"
+            },
+            {
+                "text": "Uh its Sky Hawk Buick",
+                "label": "sd"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "Eighty-three I think",
+                "label": "sd"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah uh like eighty-two thousand miles",
+                "label": "ny"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Im afraid its not going to last me that long and I hope it does though",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Its two door I like I like smaller cars Theyre - I find them more comfortable to drive",
+                "label": "sd"
+            },
+            {
+                "text": "Right does everybody have their windows tinted up there",
+                "label": "b"
+            },
+            {
+                "text": "Uh no I dont see too many cars tinted",
+                "label": "nn"
+            },
+            {
+                "text": "Everybody has tinted down here",
+                "label": "sd"
+            },
+            {
+                "text": "Oh Im sure yeah I could I could see why",
+                "label": "ba"
+            },
+            {
+                "text": "So you been down here before",
+                "label": "qy"
+            },
+            {
+                "text": "Yep",
+                "label": "ny"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "Uh",
+                "label": "%"
+            },
+            {
+                "text": "Did you like it",
+                "label": "qy"
+            },
+            {
+                "text": "It was busy",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah its different --",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- I bet huh",
+                "label": "+"
+            },
+            {
+                "text": "It was nice I remember uh swimming on Easter day and it was like really cold up here but --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- came back with little tan so that was nice",
+                "label": "+"
+            },
+            {
+                "text": "Its like you know - everybody freaks out when it sn- -",
+                "label": "%"
+            }
+        ]
+    }
+]

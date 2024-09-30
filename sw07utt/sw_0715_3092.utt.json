@@ -1,0 +1,663 @@
+[
+    {
+        "conversation_id": "conv_3092",
+        "turns": [
+            {
+                "text": "Okay uh do you work outside the home",
+                "label": "o"
+            },
+            {
+                "text": "No I do not",
+                "label": "nn"
+            },
+            {
+                "text": "Okay wow",
+                "label": "b"
+            },
+            {
+                "text": "Do you",
+                "label": "qy"
+            },
+            {
+                "text": "Have you",
+                "label": "qy"
+            },
+            {
+                "text": "Have I",
+                "label": "br^m"
+            },
+            {
+                "text": "Yes uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Uh no not actually",
+                "label": "nn"
+            },
+            {
+                "text": "Okay well yes I do",
+                "label": "bk"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "In fact I am at work right now Uh and so let me take the lead uh Angela Uh I think what is really important uh - of course salary is very important because thats why you are working for your for the money but job satisfaction to me is also uh very important in having job And uh one of the things that uh she asked us to discuss was benefits Uh Im assuming that you are married and have husband that supports you",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "na"
+            },
+            {
+                "text": "Okay And so we could we could talk about uh that path you know how important you think his benefits are And and and uh how important you think they are and if what would you like to see increased --",
+                "label": "bk"
+            },
+            {
+                "text": "Okay",
+                "label": "aa"
+            },
+            {
+                "text": "-- in his benefits Like uh perhaps uh he has uh the benefit of having eyeglasses for the family uh uh and how much coverage uh it provides and also your hospital coverage and uh um probably dental How important you think that would be",
+                "label": "+"
+            },
+            {
+                "text": "Right I I think that job wise benefits are import- just as important as salary is",
+                "label": "aa"
+            },
+            {
+                "text": "Because they of course if you did not have them you would be pulling from your salary of course",
+                "label": "bf"
+            },
+            {
+                "text": "Exactly",
+                "label": "aa"
+            },
+            {
+                "text": "Right",
+                "label": "aa"
+            },
+            {
+                "text": "exactly",
+                "label": "aa^r"
+            },
+            {
+                "text": "right",
+                "label": "aa^r"
+            },
+            {
+                "text": "Especially when you have family with children and you are always going to the doctor for -",
+                "label": "sv"
+            },
+            {
+                "text": "And they always have surprises for you",
+                "label": "bf"
+            },
+            {
+                "text": "Exactly",
+                "label": "aa"
+            },
+            {
+                "text": "With children",
+                "label": "b^m"
+            },
+            {
+                "text": "they always do",
+                "label": "sv"
+            },
+            {
+                "text": "You know and so its it is uh - we could not do without the benefit package from from any company that we worked for whether they be conglomerate or just small uh uh business",
+                "label": "%"
+            },
+            {
+                "text": "Yeah I think any any even if your insurance policy is not the greatest -",
+                "label": "aa"
+            },
+            {
+                "text": "You would still have something",
+                "label": "^2"
+            },
+            {
+                "text": "Exactly You you would not be pulling it out of your account all of the time --",
+                "label": "aa"
+            },
+            {
+                "text": "Right",
+                "label": "aa"
+            },
+            {
+                "text": "-- just by yourself Also for working women --",
+                "label": "+"
+            },
+            {
+                "text": "Yes",
+                "label": "aa"
+            },
+            {
+                "text": "-- uh I think lot of the companies should start providing for day-care in the in the",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "in the building",
+                "label": "+"
+            },
+            {
+                "text": "They are getting handle on that in fact uh my oldest daughter is uh is uh nurse and she just received her masters degree and she is now into consulting and thats one of the areas that she is working on To have uh uh day care center for the indiv- the children of the of the nurses that are staffing the facility",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And that is true in many many areas of you know uh job titles --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and professions",
+                "label": "+"
+            },
+            {
+                "text": "Like in may case I have three children -- spelling may should be my",
+                "label": "sd*"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- from ages nine to two",
+                "label": "+"
+            },
+            {
+                "text": "Sure",
+                "label": "b"
+            },
+            {
+                "text": "And its just unfeasible for me to try to get job because all the money that I would",
+                "label": "+"
+            },
+            {
+                "text": "Would - it would",
+                "label": "%"
+            },
+            {
+                "text": "be making would be going to day care",
+                "label": "+"
+            },
+            {
+                "text": "It would be just futile",
+                "label": "+"
+            },
+            {
+                "text": "And it would be just -",
+                "label": "sd"
+            },
+            {
+                "text": "And they would not have the quality",
+                "label": "bf"
+            },
+            {
+                "text": "basically be me working to pay for them to be at day care",
+                "label": "sd"
+            },
+            {
+                "text": "And they",
+                "label": "bf"
+            },
+            {
+                "text": "center",
+                "label": "+"
+            },
+            {
+                "text": "would be deprived of their mother",
+                "label": "+"
+            },
+            {
+                "text": "Exactly",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah No I understand that totally",
+                "label": "b"
+            },
+            {
+                "text": "Besides which it would be easier uh theres lot of single mothers out there now from divorces and lot of",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I hear",
+                "label": "b"
+            },
+            {
+                "text": "women are starting to have babies without partner",
+                "label": "+"
+            },
+            {
+                "text": "Yes thats true",
+                "label": "aa"
+            },
+            {
+                "text": "And to go to work you are worried about your child besides which you have to get up earlier to take the child to day care",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "aa"
+            },
+            {
+                "text": "And if they were in the same building --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- then you are going to the same place and you could go for your lunch hour down and visit with your child",
+                "label": "+"
+            },
+            {
+                "text": "Yes Do you",
+                "label": "aa"
+            },
+            {
+                "text": "or you know and take your breaks with your children or something",
+                "label": "+"
+            },
+            {
+                "text": "Do you think that you should fund that if they have that as benefit if you would fund that somewhat from your salary that you are getting Do you think that would be",
+                "label": "+"
+            },
+            {
+                "text": "I think tha- - I",
+                "label": "sv"
+            },
+            {
+                "text": "acceptable",
+                "label": "+"
+            },
+            {
+                "text": "think it would be fair",
+                "label": "+"
+            },
+            {
+                "text": "I do too",
+                "label": "aa"
+            },
+            {
+                "text": "I think if if the company could not provide it all on their own",
+                "label": "sv"
+            },
+            {
+                "text": "Right that you -",
+                "label": "aa"
+            },
+            {
+                "text": "for the for the people that would be using it you know",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "aa"
+            },
+            {
+                "text": "certain amount of their salary would go to it",
+                "label": "+"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "But it would still probably be cheaper",
+                "label": "sv"
+            },
+            {
+                "text": "With the company than",
+                "label": "^2"
+            },
+            {
+                "text": "with the company helping",
+                "label": "+"
+            },
+            {
+                "text": "than having to go -",
+                "label": "+"
+            },
+            {
+                "text": "our if everybody you know pulled their own weight in it",
+                "label": "+"
+            },
+            {
+                "text": "Thats - thats right Yes I",
+                "label": "%"
+            },
+            {
+                "text": "I think it would be really",
+                "label": "sv"
+            },
+            {
+                "text": "agree with that",
+                "label": "+"
+            },
+            {
+                "text": "really great",
+                "label": "+"
+            },
+            {
+                "text": "That would be fair",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I do",
+                "label": "aa"
+            },
+            {
+                "text": "Uh and how how do you feel about uh lets see eye care",
+                "label": "qo"
+            },
+            {
+                "text": "Eye care is good I do not - I am not sur- - I do not think we have that on our policy",
+                "label": "sv"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "But uh we -",
+                "label": "%"
+            },
+            {
+                "text": "Vision I guess its called",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "vision care",
+                "label": "+"
+            },
+            {
+                "text": "It would be great I mean uh the glasses that - the exams themselves are not expensive its the glasses",
+                "label": "sv"
+            },
+            {
+                "text": "It depends on who ha- examines your eyes",
+                "label": "arp"
+            },
+            {
+                "text": "Yeah thats true",
+                "label": "aa"
+            },
+            {
+                "text": "If you have an an optometrist or an ophthalmologist",
+                "label": "sv"
+            },
+            {
+                "text": "Right now like my -",
+                "label": "aa"
+            },
+            {
+                "text": "theres vast difference in those two uh",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "aa"
+            },
+            {
+                "text": "professionals",
+                "label": "+"
+            },
+            {
+                "text": "Well like my mother she has to go for testing cause she has got -",
+                "label": "sd"
+            },
+            {
+                "text": "Glaucoma",
+                "label": "^2"
+            },
+            {
+                "text": "Well she does not have it but",
+                "label": "ar"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "she is like on the verge of it or",
+                "label": "+"
+            },
+            {
+                "text": "Oh okay so -",
+                "label": "bk"
+            },
+            {
+                "text": "something Her eyes are changing",
+                "label": "+"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "and she has to be tested periodically And",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and those are expensive tests",
+                "label": "+"
+            },
+            {
+                "text": "Yes they are",
+                "label": "aa"
+            },
+            {
+                "text": "Now I think your insurance covers her --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- on that but you know for something like that it- thats just as bad as medical you know thats -",
+                "label": "+"
+            },
+            {
+                "text": "Right thats critical because shes in need of it so often",
+                "label": "aa"
+            },
+            {
+                "text": "Right",
+                "label": "aa"
+            },
+            {
+                "text": "Yes and you know we have uh needs in our life that are unique to us and uh you know people have needs in their life that unique to us to them",
+                "label": "aa"
+            },
+            {
+                "text": "Right",
+                "label": "aa"
+            },
+            {
+                "text": "I mean we are all different so -",
+                "label": "sv"
+            },
+            {
+                "text": "Now I would like to see betl- better dental insurance to me Was that our beep",
+                "label": "sd"
+            },
+            {
+                "text": "Well no thats my other phone",
+                "label": "nn"
+            },
+            {
+                "text": "Oh Huh",
+                "label": "b"
+            },
+            {
+                "text": "So thats it - thats okay - my - that phone is ringing to an empty desk and shes on vacation",
+                "label": "sd"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "so its okay",
+                "label": "sd"
+            },
+            {
+                "text": "But with the three children --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- um orthopedic care um not orthopedic orthodontic care -",
+                "label": "+"
+            },
+            {
+                "text": "Thats very expensive",
+                "label": "sv"
+            },
+            {
+                "text": "because on on lot of the dental insurance they do not cover that well For the the orthodontia stuff -",
+                "label": "sd"
+            },
+            {
+                "text": "Yes thats true Orthodontic work is terribly expensive",
+                "label": "aa"
+            },
+            {
+                "text": "Yes it is",
+                "label": "aa"
+            },
+            {
+                "text": "Especially when you have lot of problems with the children teeth",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and and you have to really get them when they are young in order to have uh not uh decent smile when they are fifteen sixteen years old",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "aa"
+            },
+            {
+                "text": "I know two of my daughters had to have that and they started having extractions at age eight uh because they just had too many teeth for their size mouth",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And we footed the bill because there was not any such thing and when they were young",
+                "label": "sd"
+            },
+            {
+                "text": "Right My middle child needs to have uh orthodontic hes because his his pallet is squared not rounded",
+                "label": "aa"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And it affects his speech little bit not not anything you know -",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh major",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But just enough that his bite is off little bit and its like four hundred dollars and my insurance is only going to cover like fifty of it",
+                "label": "sd"
+            },
+            {
+                "text": "Well I tell you I I just read an article in the paper about what they are doing I think it was an ad in in our publication at Texas Instruments where they are breaking the jaw and",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "and lining the jaw up with the teeth Its its less painful and less expensive",
+                "label": "+"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "That sounds like it would hurt more",
+                "label": "sv"
+            },
+            {
+                "text": "I I know but it its its uh easier on the patient in the long run",
+                "label": "aa"
+            },
+            {
+                "text": "Oh gosh",
+                "label": "ba"
+            },
+            {
+                "text": "which amazed me",
+                "label": "+"
+            },
+            {
+                "text": "I I would much rather that do that to myself than make my five year old go in and do it That would kill me",
+                "label": "sd"
+            }
+        ]
+    }
+]

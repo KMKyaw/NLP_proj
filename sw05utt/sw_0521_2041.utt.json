@@ -1,0 +1,583 @@
+[
+    {
+        "conversation_id": "conv_2041",
+        "turns": [
+            {
+                "text": "Uh well how is it appropriate to be talking about exercise attitudes",
+                "label": "qo^t"
+            },
+            {
+                "text": "We uh - well uh my my husband is right now teaching an aerobics class",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Hes an aerobics instructor And um is going to be uh entering North Texas for uh Kinesiology program there two utts",
+                "label": "sd*"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And um the the - how I met him was through uh the aerobics class that he used to teach",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh Youre student",
+                "label": "b"
+            },
+            {
+                "text": "Yeah so",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Im Im an avid aerobics uh person and just very very athletic Enjoying th- you know uh anything dealing with sports",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So and how do you feel about it",
+                "label": "qo"
+            },
+            {
+                "text": "Uh Im I am person who wishes I had more time to exercise I I dont feel like I - I dont very often do things for the sake of exercise I dont feel well unless I am exercising and I try to do things that involve exercise but I very rarely do things like um - Ive never done aerobics or any sort of structured this is my exercise time --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but I do lots of outdoor sports and things bicycling uh you know mountaineering little mountaineering this and that and I spend lot of time and I probably get more exercise than your average person But its not structured sort of thing and I have to admit I have certain resistance to the idea of exercising for exercisings sake",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and perhaps its because somehow that implies to me its not fun or something like that",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah well I Ive - my - thats the way my mother stands on it She feels like if its something that you have to do you know",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "if you look at it as if you have to do it",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "then it becomes it becomes chore",
+                "label": "+"
+            },
+            {
+                "text": "Yes yes",
+                "label": "aa"
+            },
+            {
+                "text": "and and she doesnt enjoy it when its chore So um and I feel that way too as far as you know just sitting and doing you know to the idea of doing fifty sit-ups or something you know to -",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "youre calcu- you know calculated down and do your calisthenics",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "you know three times week or",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "but but I do try and um I do try and regulate how much exercise I get week",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah Is that why you like aerobics classes because youre not sort of someone else is doing the counting for you so",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "it makes it less of chore",
+                "label": "+"
+            },
+            {
+                "text": "And its got - and Ive always enjoyed dance",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So it involves you know - I I cant get out to dance all the time and -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah would that we could",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah and its and its more regulated I mean youre youre using different parts of the body",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So it it is like dance an- and its structured like that but you have the music and someone like you said someone else is counting",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "so it makes it easier for me",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And someone else is telling me okay you know lets move this way lets move that way",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "instead of me having to think about it so much",
+                "label": "+"
+            },
+            {
+                "text": "Right You can just trust someone else to give you full exercise and all you do is follow along and enjoy yourself",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah yeah But Im like you I also um like to participate in uh things like - well we just went to the uh Myererson Symphony Run this past weekend and and that was lot of fun and you get to meet different people",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and um just get out you know",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "out and about and its it its something you can all - like our - we did it as family so",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "it was it was quite lot of fun",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and biking - and I I I love to swim so I love it when you know its swimming weather",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "and uh -",
+                "label": "%"
+            },
+            {
+                "text": "Well youre talking to someone from California where its often swimming weather",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I didnt realize that",
+                "label": "bk"
+            },
+            {
+                "text": "Uh",
+                "label": "%"
+            },
+            {
+                "text": "Im sorry Well Im in Texas I I just assumed that I had - this is the first call Ive done",
+                "label": "fa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and I didnt realize that they ha- were going to reach out to people from all over the country You wouldnt know that Oh I -",
+                "label": "sd^t"
+            },
+            {
+                "text": "So its the its its the the act- well its actually - its interesting because there are re- real regional differences Um in California theres uh almost an assumption um unless youre sort of clearly of an older generation or something you know in your sixties or something like that Im Im Im not Uh theres an assumption that you do something for your physical fitness and and at least in urban California And maybe not - I dont know about rural California too well But in urban California its just you know - for all I know aerobics started out here I dont know where they actually started but they you know the craze really picked up big here and before that there was the running craze And they - California gets you know tends to be bit faddish but",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "the remarkable thing is how well the fads catch on elsewhere So there must be something to some of them And uh -",
+                "label": "+"
+            },
+            {
+                "text": "Well I think people are are more inc- um um - people from California seem to be more health motivated all around I mean as far as the diet and everything Uh the diet and uh just your health consciousness and I mean it just",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "seems like uh lot of those ideas generate out of California Not just exercise but",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "health health related ideas And I - its curious I dont know why dont know if its - do you - does California have -",
+                "label": "+"
+            },
+            {
+                "text": "Well theres sense of it being package I think There there is sense of you know whole - theres lot of you know - youll get organizations like institutes for the whole health or whatever And uh oh the the the uni- University of California at Berkeley puts out THE WELLNESS LETTER Which is uh turned into fairly well subscribed to uh newsletter",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "monthly or biweekly newsletter or something like that and and it doesnt deal with just exercise or just stress management or just diet or anything It its on fairly so- solid scientific ground Uh its just dispensed with these distinctions It says ever- all sorts of factors go into health and theres no reason to talk about one rather than another so that they they combined them all together And uh so its had that orientation for quite some time Um theres been some progressive medical schools out here",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "that have taken that approach And um -",
+                "label": "+"
+            },
+            {
+                "text": "Now do you think thats because theyve realized that for whole health that the you know you have to have that combination or that people are motivated that way so that theyve incorporated that into their program",
+                "label": "qr"
+            },
+            {
+                "text": "Boy",
+                "label": "^h"
+            },
+            {
+                "text": "Do you think the program came first or the -",
+                "label": "qr"
+            },
+            {
+                "text": "yeah that - theres - I I can say theres correlation but I couldnt say which which caused the other They sort of dev- you know each developed little bit and then would feed off one another and develop little bit more and little bit more",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah the more money they put into it",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah And -",
+                "label": "aa"
+            },
+            {
+                "text": "I can see that And cause I - knowing - from institutes of learning like that I know that theyve got to get their money somewhere and somebodys got to be willing to pay for it and believe in it so -",
+                "label": "bk"
+            },
+            {
+                "text": "Yeah yeah Exactly And part of it is California you know in back in the sixties had lot of alternative movements and some of them fizzled out and some of them were disastrous and others of them um had an impact on the society around here And one of the ones that had an impact was uh people becoming interested in alternate practices Im not sure if it was meditation practice or if it was you know which is similar to stress management practice or alternates to uh approved medicine Uh you have you know major um acupuncture schools and things out here And and you could have them around long enough and more and more people start believing them or wondering how to combine them with other things",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and before long you you get this this whole kind of Gestalt this whole package of of health of health care and options --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh and exercise is is strongly considered one of them The irony is is its people in the cities in my experience that are most oriented towards doing the exercise And I guess because they spend all day in back of their desks The average person out on the farm at least traditionally now they drive fancy tractors as much as anything --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- but at least traditionally the laborers - last thing -",
+                "label": "+"
+            },
+            {
+                "text": "Or theyre older",
+                "label": "sv"
+            },
+            {
+                "text": "Pardon me",
+                "label": "br"
+            },
+            {
+                "text": "Well dont you think they tend to be older in the rural ar- - I I sometimes think that its almost frantic effort on the part of the people in the city",
+                "label": "sv"
+            },
+            {
+                "text": "Oh like everything else",
+                "label": "bf"
+            },
+            {
+                "text": "I live in rural area so needs slash",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah The rat race to exercise",
+                "label": "aa"
+            },
+            {
+                "text": "you know I see that sd Its yeah its its like its frantic to",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "you know to uh achieve something that that person in rural area uh almost doesnt worry about it to such degree but stays you know almost healthier you know slash error one utt with 116",
+                "label": "+@"
+            },
+            {
+                "text": "Yeah well I",
+                "label": "aa"
+            },
+            {
+                "text": "as fit person",
+                "label": "sd"
+            },
+            {
+                "text": "I think so I mean you youve - if you look at cert- if you look at other cultures - like I know little bit about people who were considered very healthy in China and they dont do very much vigorous exercise at all But they do lot of low keyed low impact low stress exercise and they combine it with you know meditation or whatever Some sort of relaxation --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and they seem pretty you know - they dont have the hard body They dont have that perfect look and an awful lot of exercise is sort of image conscious But they you know they live to hundred and ten some you know",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And that thats -",
+                "label": "%"
+            },
+            {
+                "text": "Well dont you think lot of that is diet too",
+                "label": "sv"
+            },
+            {
+                "text": "and lot of that is diet Thats true",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Yeah I mean they eat they eat lot of carbohydrates and not much fat",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Um for economical reasons not for preference Um -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah and as we can see - Well Im Im practicing vegetarian so uh Ive read lot of information knowing that to be true",
+                "label": "b"
+            },
+            {
+                "text": "Yeah am I actually -",
+                "label": "b"
+            },
+            {
+                "text": "Whats that",
+                "label": "br"
+            },
+            {
+                "text": "I as am I",
+                "label": "sd"
+            },
+            {
+                "text": "Oh are you also",
+                "label": "qy"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "Well thats thats good as far as the cal- - is that is that um pretty predominant as far as California do- doe- -",
+                "label": "sv"
+            },
+            {
+                "text": "It is in the urban areas yes",
+                "label": "sd^e"
+            },
+            {
+                "text": "In the urban areas",
+                "label": "qy"
+            },
+            {
+                "text": "Most for example most restaurants in an urban area will have little vegetarian section now",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Oh thats wonderful",
+                "label": "b"
+            },
+            {
+                "text": "Well most most mo- sort of modern looking restaurants will",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "you can -",
+                "label": "%"
+            },
+            {
+                "text": "Thats great I mean we uh - its such chor- its such trouble here I mean you just have to eat at home basically",
+                "label": "ba"
+            },
+            {
+                "text": "I was wondering that because I was actually applying for job in Texas and and and uh",
+                "label": "sd"
+            },
+            {
+                "text": "Well of course in the cities -",
+                "label": "sv"
+            },
+            {
+                "text": "it occurred to me -",
+                "label": "+"
+            },
+            {
+                "text": "yeah well in the cities - we live close to Dallas",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "so uh which you know - you get uh an influx of lot of people from all over the country so",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "youre going to have lot of di- more choices but",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Yeah",
+                "label": "b"
+            },
+            {
+                "text": "but in urban areas its you know steak places an",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and its not you know - its uh its definitely - it its its changing to degree but um its very frustrating slash error",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And even even with health food stores and stores where you can buy natural products or uh organic you know materials",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and foods and things You dont really have that I mean you would think -",
+                "label": "+"
+            }
+        ]
+    }
+]

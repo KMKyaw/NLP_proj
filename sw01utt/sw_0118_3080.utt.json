@@ -1,0 +1,567 @@
+[
+    {
+        "conversation_id": "conv_3080",
+        "turns": [
+            {
+                "text": "All right do you do exercise",
+                "label": "qy"
+            },
+            {
+                "text": "I do yes I uh uh I guess it actually changes I do number of different things --",
+                "label": "na"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- simply walking with my wife --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- and sometimes my daughter will come along on her little bicycle Uh and then moving up I run --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- in the mornings not every morning it probably averages about two days week --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- and then with my wife I actually go to the gym and lift weights which isnt I understand quite exercising but its along the lines",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "How about yourself",
+                "label": "qo"
+            },
+            {
+                "text": "Well um thats hard question to answer because I do physical things but I dont always set out for them to be exercise",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I walk with my parents occasionally nothings real regular about this because I have weird schedule and they have normal schedule and um I play racquetball but I havent since Ive been out of school I dont have anywhere to do that but thats going to start soon again --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and um I play softball once week which is kind of more recreation than exercise",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Because I really dont like to exercise I think thats the basic point of it is Im not I I dont enjoy it --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- if I know that its exercise but if its like social activity or recreational activity I dont mind --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- so I have to disguise it its like feeding little babies food and telling them its something else so that theyll eat it",
+                "label": "sd"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "Thats kind of the same thing for me I have to not know that its exercise so I can do it",
+                "label": "sd"
+            },
+            {
+                "text": "Right So you look at it more as task",
+                "label": "aa"
+            },
+            {
+                "text": "Well yeah if its exercise its task",
+                "label": "aa"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "I dont want to do anything I have to do",
+                "label": "sd"
+            },
+            {
+                "text": "I see",
+                "label": "bk"
+            },
+            {
+                "text": "I mean Ill voluntarily clean the bathroom but I wont do it if I have to do it",
+                "label": "sd"
+            },
+            {
+                "text": "Right right So Im thirty-two years old --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- which is probably different than yourself --",
+                "label": "+"
+            },
+            {
+                "text": "Right Im twenty-two",
+                "label": "aa"
+            },
+            {
+                "text": "-- and so its interesting that as you get older you begin to understand that you need to exercise",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "My job at Texas Instruments I have to sit in front of computer all day and make phone calls so that I dont get any exercise doing that -- -",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- and plus theres build up of stress --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- so I need to go out and take those walks after dinner and I need to go out in the morning and run or Ill just get nuts --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- so thats kind of motivator so even though I can look at it as task the you know I kind of get the I get some kind of global benefit --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- from the whole thing by saying Well Im lowering my chance of heart attack and thus that type stuff",
+                "label": "+"
+            },
+            {
+                "text": "Eating right and no cholesterol and all that",
+                "label": "bf"
+            },
+            {
+                "text": "Sure that all I I do all that",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah we - Im sure I will do Im doing that more and more than I used to --",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- Im getting better about this knowing that I need exercise and doing it but its still at the task stage",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Is it pleasure for you or are you -",
+                "label": "qy"
+            },
+            {
+                "text": "Well its - something as simple as walk with my wife is very enjoyable",
+                "label": "%"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "I do that at the end of the day and it takes you know - that that during that time the stress from the day goes away I get to share whatever I did with my wife and and vice versa",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Going to the gym is is actually something different than than like - oh and the running and I enjoy that too",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Year Ive been running since high school --",
+                "label": "o"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- on track teams and the like so running I Im at that point which you probably get to after about six months of dedicated --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- running where you dont feel your muscles any more --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- and you dont think about the pain of it You you you take the time to relax some how and you think about other things During those first few months you have to think about running and why your elbow hurts and --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- why you cant breathe and this and that and thats no fun And its so hard to get past that for lot of people",
+                "label": "+"
+            },
+            {
+                "text": "Right thats - I never got past that stage",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah the ex- the uh weight lifting on the other hand is actually you know - I think I look better",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "I have just I dont Im not huge person Im just regular looking guy but just going to lift weights on occasion with my wife and my wife thinks the same thing about both me and herself --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- that get that little bit of definition in your muscles is is attractive --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- so that pays also",
+                "label": "sd"
+            },
+            {
+                "text": "Thats good",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah so so I guess that aspect of that takes away the work --",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- the with my wife which is nice I love her you know I enjoy being with her --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- I guess thats one thing but also uh that that long term benefit of little bit of tone in your muscles",
+                "label": "sd"
+            },
+            {
+                "text": "Right thats it I do the occasional push up and sit up I havent really brought myself to go to the --",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- the gym because thats very stressful to me because I feel I felt real competitive there and I need to find some place I could go and not feel like theres all these people who are just huge and hulking that are -",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah I dont I dont let that bother me but yeah thats something that comes with time too",
+                "label": "aa"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "You know Ill tell you the sit ups and push ups are excellent --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know its your own - you youre youre struggling against your own body weight --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- you can - have variety by putting your feet higher or lower by putting your arms further apart or closer together by doing them real quick or real slow --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- and you can actually get good wo- - you can I know in the push up at least you can get chest muscles and the back of your arms quite built up --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- just doing push ups",
+                "label": "+"
+            },
+            {
+                "text": "Thats good idea but I do have my ride we have stationary bicycle and stair step machine here at the house",
+                "label": "sv"
+            },
+            {
+                "text": "Oh is that right",
+                "label": "bh"
+            },
+            {
+                "text": "Ill do those once in while just --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- you know like --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- at eleven thirty when Love Connections on --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- and I cant sleep Ill get up -- -- and stair step for half an hour --",
+                "label": "+"
+            },
+            {
+                "text": "Thats funny",
+                "label": "ba"
+            },
+            {
+                "text": "-- so -",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Its I guess pretty pretty healthy but I dont have regular plan thats -- -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- I need to get started on that",
+                "label": "sd"
+            },
+            {
+                "text": "Well may- you know maybe not Id say Id say at twenty-two you dont necessarily need plan as long as youre getting getting the exercise otherwise",
+                "label": "arp"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "When your life becomes sedentary is when you have to make yourself --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- plan and whats real funny about plans is that theres struggle between uh when you when you add something to your life when you add plan to your life something else has to go away --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and thats the hard decision is okay if Im going to run in the mornings what am I what do I trade it off for Well the answers --",
+                "label": "sv(^q)"
+            },
+            {
+                "text": "Sleep",
+                "label": "^2"
+            },
+            {
+                "text": "-- sleep right If Im going to walk at night what do I trade it off for Well Star Trek --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- or you know it it its always trade offs and you actually --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- have to as you get older you have to really think what can go and what to to to replace this thing Its I mean not just exercise but anything Its --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- very hard And uh I dont I dont think you should worry about not having program yet",
+                "label": "+"
+            },
+            {
+                "text": "Thatll come --",
+                "label": "bf"
+            },
+            {
+                "text": "Yep",
+                "label": "aa"
+            },
+            {
+                "text": "-- some day when I -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I guess if you care or if your wife your future wife uh gives you reason to care --",
+                "label": "aa"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- which helps",
+                "label": "+"
+            },
+            {
+                "text": "Well I hope so",
+                "label": "sd"
+            },
+            {
+                "text": "Well I think we covered it",
+                "label": "sv^t"
+            },
+            {
+                "text": "Yeah sounds good",
+                "label": "aa"
+            },
+            {
+                "text": "Nice talking with you Craig",
+                "label": "fc"
+            },
+            {
+                "text": "Yeah you too Have nice day",
+                "label": "fc"
+            },
+            {
+                "text": "You too Good day",
+                "label": "fc"
+            },
+            {
+                "text": "Bye",
+                "label": "fc"
+            },
+            {
+                "text": "Bye",
+                "label": "fc"
+            }
+        ]
+    }
+]

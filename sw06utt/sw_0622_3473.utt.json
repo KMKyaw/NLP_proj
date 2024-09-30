@@ -1,0 +1,411 @@
+[
+    {
+        "conversation_id": "conv_3473",
+        "turns": [
+            {
+                "text": "Okay go ahead",
+                "label": "o"
+            },
+            {
+                "text": "Well I I uh were going to compare notes Uh",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I uh I --",
+                "label": "sd"
+            },
+            {
+                "text": "Dont do it",
+                "label": "^2"
+            },
+            {
+                "text": "-- often desire to exercise often believe I should and rarely do",
+                "label": "+"
+            },
+            {
+                "text": "Well I tell you I I firmly believe in exercising I think its - I do it every day on regular basis I -",
+                "label": "sd"
+            },
+            {
+                "text": "What what what sort of of regiment do you have",
+                "label": "qw"
+            },
+            {
+                "text": "Well I just got back from biking twelve and half miles but this time of year you cant get much biking in Uh but every morning I use this Presidents uh council of physical fitness and it really is uh uh its worth doing and you can do it anywhere I I travel quite bit in my --",
+                "label": "sd"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "-- in my business and you can do it you know wherever youre at and if you do it - I I do it every morning --",
+                "label": "+"
+            },
+            {
+                "text": "Yes",
+                "label": "b^r"
+            },
+            {
+                "text": "-- after uh usually after breakfast before I take shower and get you know dressed going --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know to go to work And uh now what I do - I mean Ive done this for you know like fifteen years so you dont start at this kind of regiment you know",
+                "label": "+"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "I - so what Im telling you isnt something you go out and do and and youll hurt yourself Uh every every uh - it takes me about fifteen minutes to do this now because I do it all the time but I uh I do twenty-five uh uh where you have your arms above your head and --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and your body twisters touch right you know left and right toe and I do uh ten uh right and left uh trunk twisters",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "And I do uh about sixty uh bicycle type uh leg thrust type things",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "And I do uh twenty uh leg lifters on each side You know --",
+                "label": "sd"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "-- when youre - --",
+                "label": "+"
+            },
+            {
+                "text": "Yes",
+                "label": "b^r"
+            },
+            {
+                "text": "-- laying on the floor",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And then I do fifty push-ups and do hundred sit ups and uh then I do about uh -",
+                "label": "sd"
+            },
+            {
+                "text": "My goodness you do all of this in fifteen minutes",
+                "label": "ba"
+            },
+            {
+                "text": "Oh yeah oh yeah And then uh thirty uh - now if you did football like the old grass drills where youre on your stomach and you -- -",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know prone type things where youre kind of rocking on your stomach type thing and that takes about really about maybe about thirteen minutes uh --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- in the morning",
+                "label": "+"
+            },
+            {
+                "text": "Now what what keeps you doing that I mean I I sometimes start little much less much more modest efforts but I give up I just find them boring Hard to --",
+                "label": "qw"
+            },
+            {
+                "text": "Well uh -",
+                "label": "%"
+            },
+            {
+                "text": "-- find the time for it on given day and -",
+                "label": "+"
+            },
+            {
+                "text": "Years ago I used to uh referee football --",
+                "label": "sd"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh to stay in condition I did that uh just as normal --",
+                "label": "sd"
+            },
+            {
+                "text": "Yes",
+                "label": "b^r"
+            },
+            {
+                "text": "-- basis and uh uh I tell you just by doing it uh - well example this summer I I was about fifteen pounds heavier than I wanted to be so I I increased I do three hundred sit ups day now but not at that in the morning I do hundred then and then I do about hundred before supper and about hundred before I go to bed",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I lost fifteen pounds just by doing that because you tighten your stomach muscles --",
+                "label": "sd"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "-- and you know you can eat anything you want drink anything you want but you dont you know within reason you know you can lose weight or maintain your weight --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and your physical being --",
+                "label": "+"
+            },
+            {
+                "text": "Yep",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh I just you know - youre ready to go at - I I I think its really important",
+                "label": "%"
+            },
+            {
+                "text": "Well I I whenever I do it I feel good",
+                "label": "sd"
+            },
+            {
+                "text": "Good",
+                "label": "ba"
+            },
+            {
+                "text": "I mean good that I have done good because its it seems right and good because it has good effects But but its this maintaining regular habit that I just cant --",
+                "label": "+"
+            },
+            {
+                "text": "Well thats why --",
+                "label": "sv"
+            },
+            {
+                "text": "-- seem to do",
+                "label": "+"
+            },
+            {
+                "text": "-- Chuck I think uh if you did it on daily basis --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and you didnt need elaborate things you know where you can make excuses like - well I I like biking and during the summer Ill do you know at least seventy-five miles week --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and when I really was doing it maybe hundred and fifty but --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "-- you cant you know theres excuses weather --",
+                "label": "+"
+            },
+            {
+                "text": "Yep",
+                "label": "b"
+            },
+            {
+                "text": "-- or you dont have time or something like that But if you do some basic exercises and you say every morning just like brushing your teeth youre going to spend fifteen minutes or half hour",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And you get up half hour earlier -- -",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "-- and once you start getting into that one you just feel good --",
+                "label": "sv"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "-- and you look whole lot better",
+                "label": "sv"
+            },
+            {
+                "text": "Yes Do you do you does your wife participate in any of this or -",
+                "label": "b^r"
+            },
+            {
+                "text": "Unfortunately not and theres no way I can get her to",
+                "label": "ng"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Its like its something you either just really want to do it or you cant talk anyone into it If you dont like to exercise you know it isnt going to happen",
+                "label": "sv"
+            },
+            {
+                "text": "Yes yes",
+                "label": "aa"
+            },
+            {
+                "text": "I I sure wish she would Shes you know unfortunately overweight and but shes wonderful woman and --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know no sense getting in arguments with anybody about it",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah Well I I uh I keep saying if somebody else would do it with me I that would be little bit of peer pressure would help considerably",
+                "label": "b"
+            },
+            {
+                "text": "Well -",
+                "label": "%"
+            },
+            {
+                "text": "But you seemed to have - solved that problem without any any external --",
+                "label": "sv"
+            },
+            {
+                "text": "No problem at all",
+                "label": "aa"
+            },
+            {
+                "text": "-- help",
+                "label": "+"
+            },
+            {
+                "text": "And uh if you get one of these mats",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know go to store they normally have these exercise things these - of physical fitness on them One of my kids got me one of those for Christmas one year and uh -",
+                "label": "+"
+            },
+            {
+                "text": "What what what whats on whats this mat I mean",
+                "label": "qw"
+            },
+            {
+                "text": "It it its just an exercise mat that rolls up so you can put it up you know just in the corner",
+                "label": "sd"
+            },
+            {
+                "text": "Is it like the sort of thing you take on camping trip --",
+                "label": "qy"
+            },
+            {
+                "text": "Well yeah you can do that",
+                "label": "ny"
+            },
+            {
+                "text": "-- and sleep on it I mean its that its that kind of like --",
+                "label": "+"
+            },
+            {
+                "text": "But but it doesnt -",
+                "label": "sd"
+            },
+            {
+                "text": "-- half inch of foam or something",
+                "label": "+"
+            },
+            {
+                "text": "Yeah its foam thing yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^m"
+            },
+            {
+                "text": "Yeah and its its just about six feet long rolls up --",
+                "label": "b^m"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^r"
+            },
+            {
+                "text": "-- and I dont take it on trips with me I you could but uh I dont mind uh you know if I do like sit ups Ill throw towel down or something",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know so you dont have the abrasive -",
+                "label": "+"
+            }
+        ]
+    }
+]

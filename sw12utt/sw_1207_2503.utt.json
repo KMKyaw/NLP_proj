@@ -1,0 +1,375 @@
+[
+    {
+        "conversation_id": "conv_2503",
+        "turns": [
+            {
+                "text": "Hi Wanet How are you",
+                "label": "fp"
+            },
+            {
+                "text": "Im doing fine Where you from",
+                "label": "fp"
+            },
+            {
+                "text": "Im from New England Massachusetts",
+                "label": "sd"
+            },
+            {
+                "text": "Okay Im from Berkeley California",
+                "label": "bk"
+            },
+            {
+                "text": "Wow This is quite quite long distance",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah it certainly is",
+                "label": "aa"
+            },
+            {
+                "text": "Do you have any pets",
+                "label": "qy"
+            },
+            {
+                "text": "No Use too Use to but none none right now",
+                "label": "nn"
+            },
+            {
+                "text": "How come uh you dont have any now You get tired of them",
+                "label": "qw"
+            },
+            {
+                "text": "Well I I live in an apartment building and and uh and and it it its ju- just not feasible --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- you know Id love to have dog you know",
+                "label": "+"
+            },
+            {
+                "text": "Ive got little doggy uh that Ive had quite uh quite long time In fact she just turned sixteen years old New Years Eve",
+                "label": "sd"
+            },
+            {
+                "text": "Ah",
+                "label": "%"
+            },
+            {
+                "text": "And uh -",
+                "label": "%"
+            },
+            {
+                "text": "Is she",
+                "label": "%"
+            },
+            {
+                "text": "I beg your pardon",
+                "label": "br"
+            },
+            {
+                "text": "What is she",
+                "label": "qw"
+            },
+            {
+                "text": "Shes uh uh uh poodle Uh toy poodle toy poodle and shes -",
+                "label": "sd"
+            },
+            {
+                "text": "Ah Ah my I got my mom teacup little mutt not too long ago",
+                "label": "b"
+            },
+            {
+                "text": "This is little bigger than teacup",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And uh its funny how uh how I I uh - acquired this animal Uh when I was uh married my uh ex-wife had said that she had friend who had little puppy That she needed - uh the woman needed someone to baby-sit and uh this is what she had told the kids and she even told me that And after the two week period was up uh she then informed me that the woman no longer wanted the little puppy and wanted to know if we wanted to keep it Well after you had an animal for couple of weeks its uh you become --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh for sure",
+                "label": "aa"
+            },
+            {
+                "text": "-- you become attached to it",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "So Ive had this dog now for for sixteen years and shes been lot of company Uh shes uh however getting little old and things are starting to fail Uh I I live alone now and she stays in the house all day while I go to work and uh shes been holding herself pretty well The uh up until you know recently where shes been having accidents in the house because she either is losing control or she forgets where she is and uh I find little present on the floor sometimes when I come home But shes shes usually pretty good",
+                "label": "sd"
+            },
+            {
+                "text": "Yes well My my mother has one thats uh - its uh its uh teacup and uh its made such difference for her But you know just I - - you know - the way my moms presence countenance is just just for having puppy but you know having this dog - shes had it for I guess three years now",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Oh possibly four But uh it was it its its really made such difference for her I really would like to uh - Im disabled person --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- so Im unable to to really take care of pet and if that werent so I would certainly have one I just I just - it frustrates me sometimes not being able to have dog yeah",
+                "label": "sd"
+            },
+            {
+                "text": "Huh Well you might want to get yourself uh an animal that doesnt require much attention Like cat",
+                "label": "ad"
+            },
+            {
+                "text": "Oh yeah Well yeah uh I I I typically am not cat person I have friend that uh has on occasion uh brought her cat over for me to keep for you know from time to time And this cat is like no other cat I have ever seen And uh it would sleep on my chest you know",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Its just its just great cat but -",
+                "label": "sd"
+            },
+            {
+                "text": "Well my my personal preference is is dog Uh I dont know that uh that I would ever want cat Oh I like cats I just wouldnt want to own one Uh --",
+                "label": "sd"
+            },
+            {
+                "text": "Well you dont own cats",
+                "label": "sv"
+            },
+            {
+                "text": "-- theyre not uh theyre theyre affectionate but they - yeah I dont know I cant seem to communicate with cat like I can with my dog",
+                "label": "+"
+            },
+            {
+                "text": "Yeah You they they own you --",
+                "label": "b"
+            },
+            {
+                "text": "Yeah right",
+                "label": "aa"
+            },
+            {
+                "text": "-- or or you know grant you with you their presence you know",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Right That - yes were supposed to appreciate them Well my my dog when I came home uh when I come home in the evenings my dog greets me at the door I dont know that cat would do that uh",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah I used to have cat that could read me better than any human being in my life",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I could just walk in the door and she knew whether to to to quietly come up to me or to just run and knock me over I mean she really could pick up on my mood --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- uh the way I walked in the door It was uh uncanny",
+                "label": "+"
+            },
+            {
+                "text": "Huh I I think uh in way were able to read each other pretty well because uh she knows when Im upset and I know when shes not feeling good too So -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I know like when she has an accident I know shes not doing it on purpose When --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- when she was younger she used to do that to get even with me Uh and and you know some people might not believe that but but but uh I do",
+                "label": "+"
+            },
+            {
+                "text": "Sure Oh absolutely",
+                "label": "b"
+            },
+            {
+                "text": "Like if I if I put her in room all by herself and close the door and leave her there for few hours uh because I was going out She would uh break something or rip up the carpet or do something just to uh to to let me know that she was unhappy with what I did",
+                "label": "sd"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Thats the way - well I had that cat that I mentioned Alfie One morning you know the first thing you do is you get up and you you you feed this cat some- something and and you make sure that it can get to its litter box Well --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- for some reason during the night the door was not quite wide enough for it to get through and uh the next morning uh when my roommate got up and and uh did not feed it right away it decided that that it was going to protest And so it jumped up on my bed and anointed my blanket for me Looking looking at me eye to eye all the time while it was doing it All right Have I got your attention now",
+                "label": "+"
+            },
+            {
+                "text": "Oh yes Animals have way of talking",
+                "label": "b"
+            },
+            {
+                "text": "Alfie did I tell you if I could have gotten hold of that cat that day",
+                "label": "sd"
+            },
+            {
+                "text": "I I dont know that Id uh that Id trade my dog in for the world Uh it was about two years ago she got sick on me and I took her to the uh to the vets because she wasnt eating and and uh she wasnt able to jump She you know lost all her activity and uh she stayed there for one day and the doctor called me up and said uh she had low white cell count and that uh she wasnt she was dying and uh suggested that I take her to working hos- dog hospital animal hospital So I took his suggestion and I uh took the the dog to hospital The dog hospital there and they said theyd keep her there for three days Well she ended staying there five days at hundred and something dollars day because she was in intensive care It cost me over five hundred dollars",
+                "label": "sd"
+            },
+            {
+                "text": "Ouch",
+                "label": "ba,fe"
+            },
+            {
+                "text": "Plus the the uh the vet sent me bill for what he did and uh then she recouped She was okay for couple of years And then she got sick on me again and I brought her to different vet this time and I told the vet what medication I had given her and everything And uh he gave me the medication the same medication that I gave her the last time and she was okay and shes been okay every since Its been about two years now",
+                "label": "sd"
+            },
+            {
+                "text": "Huh Well thats great it really is I Im glad that she was able to pull out of it that way and so cheaply the second time",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah Well the see the problem is if if the if someone would have came up to me and said its going to cost you five hundred dollars to keep your dog alive What do you want to do I probably would have had second thoughts",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Of course you would",
+                "label": "aa"
+            },
+            {
+                "text": "But what they well what they do is is they say well its going to cost you know twenty dollars for tests and forty dollars for this and and you know and it creeps up on you You dont know that uh you know You really - you dont know what its going to until its all over Uh to give you an example My mom had an elderly cat who uh whoever evidently got hold of it - and uh the cat got sick So she took the cat to the vet and she had the cat there for two days and then the cat died So the doctor had called her up and said uh your cat died and you owe me this bill and oh by the way do you want me to to bury the cat So it cost her three hundred dollars uh and she didnt get the cat back So yeah they had to pay for all the medical uh bills that the cat ran up plus the burial expenses And uh you know she just brought the cat in because he wasnt feeling good So that --",
+                "label": "sd"
+            },
+            {
+                "text": "Really Geez",
+                "label": "b"
+            },
+            {
+                "text": "-- that was kind of surprise At lea-",
+                "label": "+"
+            },
+            {
+                "text": "Yeah You kind of wonder what really happened",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Well even the you know - they they claimed they did the best that they could have have and then the cat uh died So -- -",
+                "label": "ny"
+            },
+            {
+                "text": "My goodness",
+                "label": "ba"
+            },
+            {
+                "text": "-- Im Im looking for another cat for them Uh I Ive Ive got little kitten uh thats still uh just being born right now So another five or six weeks Ill be bringing the little kitten over to uh to my folks",
+                "label": "sd"
+            },
+            {
+                "text": "Well that that that that will make their day",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah I I think it will because theyre both in their in their seventies And uh the cat uh although its little bit of work for them sometimes it turns it turns out to be uh uh pleasant experience for them Uh I think they enjoy that",
+                "label": "aa"
+            },
+            {
+                "text": "Only work initially",
+                "label": "bf"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "For cats anyway you know",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Well listen its been pleasure talking to you",
+                "label": "ad"
+            },
+            {
+                "text": "Well the same here",
+                "label": "fc"
+            },
+            {
+                "text": "And you take care",
+                "label": "fc"
+            },
+            {
+                "text": "Okay Bye now",
+                "label": "fc"
+            },
+            {
+                "text": "Maybe well talk again sometimes",
+                "label": "fc"
+            },
+            {
+                "text": "Okay What is that sound",
+                "label": "fc"
+            },
+            {
+                "text": "Thats my buzzer at the door",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay Ill let you go",
+                "label": "bk"
+            },
+            {
+                "text": "Okay",
+                "label": "fc"
+            },
+            {
+                "text": "Right",
+                "label": "fc"
+            },
+            {
+                "text": "Thank you",
+                "label": "fc"
+            }
+        ]
+    }
+]

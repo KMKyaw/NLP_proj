@@ -1,0 +1,323 @@
+[
+    {
+        "conversation_id": "conv_3454",
+        "turns": [
+            {
+                "text": "Uh what do you think are the major social changes",
+                "label": "qo"
+            },
+            {
+                "text": "Well -",
+                "label": "%"
+            },
+            {
+                "text": "What age uh if you dont mind me asking",
+                "label": "qw"
+            },
+            {
+                "text": "Well Im Im uh thirty-one",
+                "label": "sd"
+            },
+            {
+                "text": "Oh well youre youre young Im in my --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah right",
+                "label": "b"
+            },
+            {
+                "text": "-- early fifties so you should take my word youre young",
+                "label": "+"
+            },
+            {
+                "text": "Oh I you know Ive seen social change yeah Its definitely - for sure and its uh uh and besides that I came from California where social change is like you know -",
+                "label": "sd"
+            },
+            {
+                "text": "Every day",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah I mean every second You know social change in California means it takes another two or three minutes longer to get to work",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah I can believe that",
+                "label": "b"
+            },
+            {
+                "text": "And uh when I started work there in it started you know actually going to work in eighty-two I guess thats when it was Between eighty-two and eighty-five uh it started out taking me an hour and fifteen minutes to get to work and then it became you know an hour and half to you know some days two hours to get to work Thats social change",
+                "label": "sd"
+            },
+            {
+                "text": "Thats thats social change Well what do you think is is the major social change",
+                "label": "b^m"
+            },
+            {
+                "text": "Oh",
+                "label": "^h"
+            },
+            {
+                "text": "Right now",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah thats thats thats tricky one Ill let you go first",
+                "label": "^h"
+            },
+            {
+                "text": "Okay I think probably the big major change is the role of women",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I think one the women uh in the work force",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I think the fact that theyre becoming uh more uh how do I want to say not necessarily politically inclined but theyre more apt to be in political offices --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- now I think you know weve made great strides --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- in that respect I think that it thirty years ago when uh I was newly married family was very very important",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Then I think we veered where the family was not as important unit And I think now its revolving back full circle I think --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- the family unit is becoming much more important than it was",
+                "label": "+"
+            },
+            {
+                "text": "Oh I think its thats probably for two reasons Uh you know the number one is women wanted to get out of the house And the second reason was is everything costs so much more that if you dont have you know equal rights so that your wife gets equal pay you cant make twice as much",
+                "label": "sv"
+            },
+            {
+                "text": "Thats true thats true Well I know that economically uh wife almost has to work anymore",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And yet Im also noticing uh in the areas that Im working and stuff more and more women are wanting now to stay home with the children where fifteen years ago --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- they didnt I mean you know they wanted children but they still wanted to be their own person out in the work force",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But I see I am seeing women now wanting to stay home --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- more at least until the children are up to you know school age",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh I find that very interesting that that --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- its sort of reverting back",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I Ive Ive Ive found that too you know where the wife is married and and - I mean not not married sorry wrong word Where the wife has gone to school you know --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and gotten degree spent five years out in the work force found you know the the their husband either at college or whatever but still you know after five years its like first kid --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "aa"
+            },
+            {
+                "text": "-- and then theyre out of the work force for another ten years",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "aa"
+            },
+            {
+                "text": "But I think most of those people are still out",
+                "label": "sv"
+            },
+            {
+                "text": "Probably",
+                "label": "aa"
+            },
+            {
+                "text": "I think that generation theyre all at home right now and and we wont see them back for another two or three years",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "aa"
+            },
+            {
+                "text": "Uh Im very rarely do I meet anybody whose children are are you know past that age when theyve been away for few years",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But uh its kind of different",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah yeah it is It uh I I note that I had taken care of my grandchildren recently while my daughter and her husband had been out of town",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I do not envy these mothers --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- or these fathers that have these the children that they have to rush home from work and pick them up at day care get them through their homework get them to their soccer practice --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- get them to their piano lessons I mean thats tough",
+                "label": "+"
+            },
+            {
+                "text": "I uh -",
+                "label": "%"
+            },
+            {
+                "text": "I dont envy these young parents",
+                "label": "sd"
+            },
+            {
+                "text": "Im an assistant Scout Master and thats thats its like uh - yeah parents uh even rarely see their kids for weekends which is you know kind of rough too",
+                "label": "sd"
+            },
+            {
+                "text": "Thats true Thats true",
+                "label": "aa"
+            },
+            {
+                "text": "Especially now",
+                "label": "sv"
+            },
+            {
+                "text": "I dont know",
+                "label": "h"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And and Im finding you know running into these uh women that are wanting to have their children at the age of thirty-nine forty Im thinking at the age of fifty-two youre crazy",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Youre going to be doing your worst running around when youre fifty And youre absolutely nuts",
+                "label": "^q"
+            },
+            {
+                "text": "I I know two women that that uh - lets see one of thems forty-nine and the other one well the other one I dont know what her age is but I know she is she is somewhere in that hairy age of half century up there And uh boy Ill tell you these are the the go-gettingest happiest people Ive ever met You know because -",
+                "label": "sd"
+            },
+            {
+                "text": "Well you can be go getting but you can also get gray hairs and have nervous breakdown",
+                "label": "sv"
+            },
+            {
+                "text": "Im thirty Im getting gray hairs already",
+                "label": "sd"
+            },
+            {
+                "text": "I just know it it would absolutely exhaust me Maybe its because its my grandchildren and its not my children",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "Maybe thats -",
+                "label": "%"
+            }
+        ]
+    }
+]

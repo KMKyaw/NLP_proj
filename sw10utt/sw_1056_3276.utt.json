@@ -1,0 +1,307 @@
+[
+    {
+        "conversation_id": "conv_3276",
+        "turns": [
+            {
+                "text": "Okay as far as uh universal health care --",
+                "label": "o"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- um I guess Im all for it I think its time that we start looking at uh getting into that Um health cost has continued to rise and I think uh theres people that to me its the fundamental uh life of person Uh it doesnt matter if you have money or no mone- or all the money in the world um you would -",
+                "label": "+"
+            },
+            {
+                "text": "You should still be -",
+                "label": "^2"
+            },
+            {
+                "text": "Everybody should be able to have surgeries that will save their lives or things that will make their life more comfortable verses than just the rich people that can afford to pay or to work for corporations that have wonderful health benefits Um I think if uh they looked at it as way of business helping out financially for universal health care and uh individuals um helping out in some sort of way whether it be taxes or some how But uh the expenses right now for health care um are just unreal",
+                "label": "sv"
+            },
+            {
+                "text": "Well they really are even for even when youre not talking about surgery If youre just talking about basic care - weve --",
+                "label": "sv"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "-- weve got four children and you know --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- in the past month --",
+                "label": "+"
+            },
+            {
+                "text": "Oh sure",
+                "label": "b"
+            },
+            {
+                "text": "-- they it just they pass things from one to one and it just can devastate --",
+                "label": "+"
+            },
+            {
+                "text": "And your constantly -",
+                "label": "^2"
+            },
+            {
+                "text": "-- your budget you know",
+                "label": "+"
+            },
+            {
+                "text": "Exactly",
+                "label": "ba"
+            },
+            {
+                "text": "Um",
+                "label": "%@"
+            },
+            {
+                "text": "Yeah The only - I I know that um uh I know little bit about the uh European uh universal health care and theres some pros and cons One of the things of course is everybody gets health care but uh sometimes health care uh when you get into universal system lacks in uh what would be considered uh - how can I say it Um over like in Poland uh where my father-in-law lived for years there their health care system is um - because no financial gains are available for doctors Uh they may just go into being doctor just clearly just to be doctor for the full reason but most people that go in to being physician here in the do it for financial gain",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "+@"
+            },
+            {
+                "text": "They say well jeez If I get into this area of dermatology I dont have to do this I can do this and I can you know -",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Can still make big bucks",
+                "label": "^q"
+            },
+            {
+                "text": "Yeah or plastic surgery or uh if I become uh heart specialist Im going to make this kind of money uh and theres you know financial gains toward that And in universal system I dont think there is financial gain for the doctors",
+                "label": "b"
+            },
+            {
+                "text": "Do you think that the quality um --",
+                "label": "qy"
+            },
+            {
+                "text": "The quality --",
+                "label": "sv"
+            },
+            {
+                "text": "-- it would --",
+                "label": "+"
+            },
+            {
+                "text": "-- I think --",
+                "label": "+"
+            },
+            {
+                "text": "-- would be as high",
+                "label": "+"
+            },
+            {
+                "text": "-- goes down uh-huh --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- when you have universal system",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^r"
+            },
+            {
+                "text": "Um the only way they could do that is by having real good quality check um and also offering some kind of - because I think uh all physicians well anybody um likes the ability to kind of uh get themselves financially uh situated Uh I guess thats the whole concept --",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- is to come here and -",
+                "label": "+"
+            },
+            {
+                "text": "More motivation",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah and I dont know if you can have that with universal system Maybe you know theres way of working that out but I know that in Poland in particular the doctors just go to do their job and thats it Thats what they look at it as",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Theres no uh - and thats sad because if thats the case if doctors arent going in to be doctors to help people then maybe they shouldnt be in that area anyway",
+                "label": "%"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "But --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- that might be one way of weeding out those that are greedy for the money and those that really want to help mankind",
+                "label": "+"
+            },
+            {
+                "text": "Thats true Yeah",
+                "label": "ba"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "I uh -",
+                "label": "%"
+            },
+            {
+                "text": "But I I think we have to head toward that way",
+                "label": "sv"
+            },
+            {
+                "text": "Well were going to have to do something because theres just too many people in the country that are uninsured --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and and you know you cannot - I mean its just -",
+                "label": "sv"
+            },
+            {
+                "text": "Im worried when I get older",
+                "label": "sd"
+            },
+            {
+                "text": "Oh sure",
+                "label": "ba"
+            },
+            {
+                "text": "You know and uh lets say for instance you uh get fired or not fired but maybe laid off from your job You no longer have insurance",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "I mean and youre sixty some or --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- fifty some years old you try try to find insurance",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "I mean - youre uninsurable",
+                "label": "sv"
+            },
+            {
+                "text": "Thats right",
+                "label": "ba"
+            },
+            {
+                "text": "Unless you want to pay five hundred six hundred dollars month and I know people that are paying two hundred three hundred dollars month for insurance",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And how they can do it I have no idea Um I know working for small corporations - and health insurance um myself um it would cost for family - and this was back three four years ago to put my entire family up and this was working for like med center uh health plan Um it was like eighty dollars out of my paycheck",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "Well our ours is three hundred for our family and I mean we that is we pay that instead of car payment",
+                "label": "sd"
+            },
+            {
+                "text": "See -",
+                "label": "o"
+            },
+            {
+                "text": "You know",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I mean Im driving piece of junk you know",
+                "label": "sd"
+            },
+            {
+                "text": "Well we do the same I mean its - I think uh people are changing their viewpoints of you know - its getting harder and harder to survive",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And uh --",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- and thats why uh if they dont go to universal system something is going to happen",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Were going to have uh larger amount of people dying",
+                "label": "sv"
+            }
+        ]
+    }
+]

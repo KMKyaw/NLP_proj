@@ -1,0 +1,391 @@
+[
+    {
+        "conversation_id": "conv_4728",
+        "turns": [
+            {
+                "text": "I dont know what you drive now I mean what do you drive now",
+                "label": "sd"
+            },
+            {
+                "text": "Uh I have Ford pickup and uh the family car is uh Dodge Caravan",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay",
+                "label": "bk"
+            },
+            {
+                "text": "And uh because we have three kids and theyre under thirteen so uh -- -",
+                "label": "+"
+            },
+            {
+                "text": "Throw them in the back",
+                "label": "^2"
+            },
+            {
+                "text": "-- they sort of fit our requirement Yeah I have one of those uh pickups with the uh seat --",
+                "label": "sd"
+            },
+            {
+                "text": "Cab",
+                "label": "^2"
+            },
+            {
+                "text": "-- with seat in the back",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "bh"
+            },
+            {
+                "text": "And so they just fit in there When they get to be teenagers with long legs it may not work",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Right now I can right now I can throw them all in the back when we have room and uh --",
+                "label": "sd"
+            },
+            {
+                "text": "There you go",
+                "label": "ba"
+            },
+            {
+                "text": "-- and since I do lot of projects I throw things in the back and I kind of like having pickup truck",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yo- -",
+                "label": "b"
+            },
+            {
+                "text": "Actually I think of it as as car thatll last",
+                "label": "sd"
+            },
+            {
+                "text": "Right yeah I know",
+                "label": "b"
+            },
+            {
+                "text": "I like the way trucks are built and I dont care about comfort So Im pretty happy",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah youre looking at - I got Toyota Four Runner I wanted truck that I I wanted something that I could throw people in the back too so I got Four Runner",
+                "label": "b"
+            },
+            {
+                "text": "So I wouldnt hesitate to get another one I I never buy new so I wouldnt hesitate to get another used truck",
+                "label": "sd"
+            },
+            {
+                "text": "Youre just like me Ive never bought new vehicle in my life",
+                "label": "sv"
+            },
+            {
+                "text": "And uh yeah I dont I dont need to pay for the glitz Ill --",
+                "label": "b"
+            },
+            {
+                "text": "No",
+                "label": "aa"
+            },
+            {
+                "text": "-- let somebody else uh have the showroom shine and Ill pay for the rest of it",
+                "label": "+"
+            },
+            {
+                "text": "Let somebody else break it in right",
+                "label": "sv"
+            },
+            {
+                "text": "Right And uh the van were sor- we might go again on on van We we could probably do with something just little bit larger than compact in sedan next time Im not sure",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "We have to we well have to face it in couple of years but uh I I guess we had small Toyota wagon --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- and we were real happy with that because uh my my second requirement after price is uh low maintenance",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And uh th- it certainly had that We didnt do much to it at all",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "Yeah my my - pretty much the same - I I got like I say I got one of those Toyota Four Runners --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh it pretty much does everything I need it to I mean it itll tow three thousand pounds so I can tow everything and it - I can throw - Ive had eleven people in it before",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Believe it or not And uh its real reliable belie- - I I mean Ive had it for almost four years now and up until oh say two weeks ago it had never had anything wrong with it",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And then of course two weeks ago it decided - I dont know its the strangest weirdest thing in the world but it blew head gasket",
+                "label": "sd"
+            },
+            {
+                "text": "Uh-oh",
+                "label": "ba"
+            },
+            {
+                "text": "Didnt do any damage to it Uh I caught --",
+                "label": "sd"
+            },
+            {
+                "text": "How - at how --",
+                "label": "%"
+            },
+            {
+                "text": "-- it real early",
+                "label": "+"
+            },
+            {
+                "text": "-- at how many miles",
+                "label": "+"
+            },
+            {
+                "text": "Uh oh ninety-seven --",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "-- thousand So its not real early",
+                "label": "+"
+            },
+            {
+                "text": "You didnt overheat it",
+                "label": "qy^d"
+            },
+            {
+                "text": "No Never overheated it I smell I smelled the uh I smelled the coolant",
+                "label": "nn"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Went out and looked Saw it was saw where it was coming from Drove it right to the shop and left it off",
+                "label": "sd"
+            },
+            {
+                "text": "Huh Well that was -",
+                "label": "b"
+            },
+            {
+                "text": "And that was it because I - I have that and then I have Kawasaki motorcycle",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Which is actually the usually my preferred mode of transportation if I can take it and its not raining",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I mean thats thats sort of my hobby though more than vehicle It its - I dont know people who buy motorcycles for transportation I think are kidding themselves",
+                "label": "sd"
+            },
+            {
+                "text": "I have one colleague that uh commutes to work on one when its not raining and uh uh hes - its - hes pretty conservative guy I dont think its much of sport for him I guess uh",
+                "label": "sd"
+            },
+            {
+                "text": "I know but I bet you he really enjoys riding it",
+                "label": "ba"
+            },
+            {
+                "text": "Im sure he does yeah",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah So you know yo- - - - when was the last time you took out took your truck out just to just to go driving Yeah",
+                "label": "b"
+            },
+            {
+                "text": "No",
+                "label": "aa"
+            },
+            {
+                "text": "And I go out twice week on the bike so",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "At least Just for --",
+                "label": "+"
+            },
+            {
+                "text": "Uh",
+                "label": "%"
+            },
+            {
+                "text": "-- the enjoyment",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But yeah I I mean the only thing I think I might get new car or not necessarily new car but another car uh I would consider going to non to normal pickup rather than covered pickup like the one Ive got Just because theres lot of times I wished I had ju- just an open bed to throw stuff in",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Im sure Im sure that thats very - I mean you got one Its thats really convenient to be able to throw that sort of stuff in the back and -",
+                "label": "sv"
+            },
+            {
+                "text": "If I only had some place that I could store the uh camper top I would have it off most of the time",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "I really leave it on there just for just to have it out of the way because you put it on the ground it gets dirty",
+                "label": "sd"
+            },
+            {
+                "text": "To have it out of the way Right",
+                "label": "^2"
+            },
+            {
+                "text": "But uh theyre solid Uh trucks are built uh I mean -",
+                "label": "sd"
+            },
+            {
+                "text": "I think they last lot longer than anything else",
+                "label": "sv"
+            },
+            {
+                "text": "Theyre the only things Americans still know how to build and uh -",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah yeah the trucks do - Uh even though you know the Jap the little Jap trucks are are good there too But so are the - though I think the Chevies - I dont think the Che- - I dont like the Chevies as much as I like the Fords",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I think they I think the Fords tend to last little longer",
+                "label": "sv"
+            },
+            {
+                "text": "Right I --",
+                "label": "b"
+            },
+            {
+                "text": "At least until recently",
+                "label": "+"
+            },
+            {
+                "text": "-- I kind of like mine yeah so mines Ford",
+                "label": "+"
+            },
+            {
+                "text": "friend of mine just bought bought like year ago It its really nice truck I mean I dont like Dodges at all but one of the Dodges they have out now has uh the Cummins turbo diesel on it",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I heard about that yes",
+                "label": "ba"
+            },
+            {
+                "text": "Oh its beautiful",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "That thing that thing will last forever I mean",
+                "label": "sv"
+            },
+            {
+                "text": "That thats serious truck",
+                "label": "sv"
+            },
+            {
+                "text": "Oh yeah that things uh - its got boat engine in it",
+                "label": "b"
+            },
+            {
+                "text": "Right this uh - I I know contractor who just got one of those",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Hes pleased with it",
+                "label": "sd"
+            }
+        ]
+    }
+]

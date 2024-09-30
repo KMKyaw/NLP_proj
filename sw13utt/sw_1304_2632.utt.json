@@ -1,0 +1,611 @@
+[
+    {
+        "conversation_id": "conv_2632",
+        "turns": [
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "Hi",
+                "label": "fp"
+            },
+            {
+                "text": "one thing you know that I always think about when I think of public education - cause I went through the public um school system of Boston",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and uh I always felt that I graduated high school and I still didnt even I I couldnt put together map of the United State",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "You know what I mean",
+                "label": "qy"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "An yet I felt that I got good education and I I did well in school but you tell me to name you know five continents an I",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "couldnt do it I just felt like there were some real basics that are missing from education",
+                "label": "+"
+            },
+            {
+                "text": "Uh",
+                "label": "b"
+            },
+            {
+                "text": "and the people are are leaving school not even knowing some common sense things",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah One - well talking about public education um Im were doing proposal",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "its were doing it at State",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "were trying to improve the computer science curriculum",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So thats kind of in higher level",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "So its interesting that you chose that topic",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah um did you do through public school system or private",
+                "label": "b"
+            },
+            {
+                "text": "Yeah well I went through private an until ninth grade",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh did you notice big difference",
+                "label": "bk"
+            },
+            {
+                "text": "Oh yeah big difference",
+                "label": "ny"
+            },
+            {
+                "text": "Like in what sense",
+                "label": "qo"
+            },
+            {
+                "text": "Well um in uh public schools I guess there wer- there are lot of of you know - people can take lower level courses an get away with learning nothing",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But um private school you couldnt do that",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "you had to learn",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah I work in temporary agency an theyre people that come in you know every day to fill out an application",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and theyll have to bring somebody with them and they will show that they completed um four year of high school yet when it comes to even answering the questions on simple application",
+                "label": "sd"
+            },
+            {
+                "text": "Uh",
+                "label": "b"
+            },
+            {
+                "text": "they cant read enough to be able to fill out the answers by themselves",
+                "label": "+"
+            },
+            {
+                "text": "Thats bad",
+                "label": "sv"
+            },
+            {
+                "text": "its just incredible",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah our State cut whole bunch of I think its ten million dollars out of the school budget",
+                "label": "b"
+            },
+            {
+                "text": "Really",
+                "label": "b"
+            },
+            {
+                "text": "So theyre making all kind of cuts in college people cannot I mean the teachers cant make tests any more and th- the library canceling all of its subscriptions",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Its pretty sorry",
+                "label": "sv"
+            },
+            {
+                "text": "I know um they uh - I forget - I think its um some place in New York because theyre having budget problems",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "theyre closing the libraries I mean theyre not getting rid of any of the sports",
+                "label": "+"
+            },
+            {
+                "text": "Uh",
+                "label": "b"
+            },
+            {
+                "text": "or anything like that theyre not cutting in any other corner theyre closing the libraries That to me shows little uh switch in priorities",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know So do you go to college right now Are yo- -",
+                "label": "%"
+            },
+            {
+                "text": "Yeah its my last year",
+                "label": "ny"
+            },
+            {
+                "text": "Youre so youre senior now",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah Im working on my projects trying to graduate",
+                "label": "ny"
+            },
+            {
+                "text": "Oh good for you",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Thats great um is is University is that uh State -",
+                "label": "ba"
+            },
+            {
+                "text": "State",
+                "label": "sd"
+            },
+            {
+                "text": "What did you say",
+                "label": "br"
+            },
+            {
+                "text": "State",
+                "label": "sd^r"
+            },
+            {
+                "text": "State thats State University then",
+                "label": "b^m"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "I see And youre from there also",
+                "label": "b"
+            },
+            {
+                "text": "Well yeah I was uh I was born in Wylie and then I lived in",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "most of my life",
+                "label": "+"
+            },
+            {
+                "text": "I see",
+                "label": "bk"
+            },
+            {
+                "text": "And now Im back here going to school",
+                "label": "sd"
+            },
+            {
+                "text": "Well pretty soon its going to get to the point where no one is going to be able to afford to send their kids to college or to do go to college",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Its just outrageously expensive",
+                "label": "sv"
+            },
+            {
+                "text": "Luckily state is one of the cheap ones",
+                "label": "sd"
+            },
+            {
+                "text": "Oh is it",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Well still though - I mean you know thousands of dollars -",
+                "label": "%"
+            },
+            {
+                "text": "Yeah states not that bad",
+                "label": "sv"
+            },
+            {
+                "text": "Oh well thats good",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Thats good I went to private university and um I dont know I look back now and I I think that I probably would have done it differently if I um you know could do it over again",
+                "label": "ba^r"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^r"
+            },
+            {
+                "text": "But um I have lot of friends that went to state schools or didnt even go to school some some of them and I still feel like they came out knowing just as much as I did I really do and thats probably pretty sad thing to say but um -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I dont know I",
+                "label": "h"
+            },
+            {
+                "text": "Where did you go",
+                "label": "qw"
+            },
+            {
+                "text": "I - what",
+                "label": "+"
+            },
+            {
+                "text": "Where did you go",
+                "label": "qw^r"
+            },
+            {
+                "text": "I went to Brandice University",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Its in Massachusetts And um I really felt like Ive been working now for about four years",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "and I I feel like what Ive learned working is hundred times more valuable then what learned in school",
+                "label": "sv"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "And I know that Im drawing lot of what I learned in school you know I I probably just subconsciously rely lot on on art But um I dont know my sisters principal at school and one thing shes trying to instill in kids um besides just reading and writing are just some the golden rules",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "she calls them just some basics about um you know you dont take whats not yours uh and if you want to you know you dont touch anybody else unless you have their permission Like no hitting you know",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "no pulling hair or anything like that and uh the school that shes in is um its basically for minorities um theres large minority population And um shes really noticed that even some of the teachers that work there - I think they dont value that type of student as much as you get",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah thats",
+                "label": "b"
+            },
+            {
+                "text": "in some",
+                "label": "+"
+            },
+            {
+                "text": "sorry That they that they like pick on th- the advanced students and pay more attention to them",
+                "label": "+"
+            },
+            {
+                "text": "Yeah its true",
+                "label": "aa"
+            },
+            {
+                "text": "ignore the others",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And I dont know if it makes them feel better - I mean the do teachers get - I mean personally I would get more satisfaction out of taking someone that wasnt as successful",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And seeing what they could do verses somebody that did excel in in areas and just watching them get better you know",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^r"
+            },
+            {
+                "text": "Thats not much of challenge",
+                "label": "sv"
+            },
+            {
+                "text": "Thats true",
+                "label": "aa"
+            },
+            {
+                "text": "But ar- do you have any ideal what youre going into when you graduate",
+                "label": "qy"
+            },
+            {
+                "text": "Um graduate school",
+                "label": "na"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Do you know where youre going",
+                "label": "qy"
+            },
+            {
+                "text": "I think Im going to Chappel Hill",
+                "label": "na"
+            },
+            {
+                "text": "Wheres that",
+                "label": "qw"
+            },
+            {
+                "text": "Thats in Chappel Hill Thats the name",
+                "label": "sd"
+            },
+            {
+                "text": "Oh is that North Carolina",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Oh okay",
+                "label": "bk"
+            },
+            {
+                "text": "Never heard of the uh Tarheels",
+                "label": "qy^d"
+            },
+            {
+                "text": "No I dont know that area",
+                "label": "nn"
+            },
+            {
+                "text": "The Tarheels",
+                "label": "qy^d"
+            },
+            {
+                "text": "I just dont know it",
+                "label": "ng"
+            },
+            {
+                "text": "Oh uh -",
+                "label": "b"
+            },
+            {
+                "text": "I dont get down there very often",
+                "label": "sd"
+            },
+            {
+                "text": "They won the final four",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really",
+                "label": "b"
+            },
+            {
+                "text": "in boys basket ball",
+                "label": "+"
+            },
+            {
+                "text": "well the way I pick the final four was um by the state that had the warmest climate",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So thats how I chose all mine so you can tell that I really didnt have that much to do with any of it But - so obviously youre into education",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "If you can be going - my husband went to is in graduate school actually right now",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh - I dont know I give you lot of credit I couldnt do it I",
+                "label": "%"
+            },
+            {
+                "text": "Yeah I know",
+                "label": "b"
+            },
+            {
+                "text": "I couldnt wait to graduate and have",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "it be all over",
+                "label": "+"
+            },
+            {
+                "text": "I cant wait to graduate either",
+                "label": "sd"
+            },
+            {
+                "text": "I know",
+                "label": "aa"
+            },
+            {
+                "text": "now Ive got all of this stuff due oh wow Overloaded",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I kind of know what you mean Well it was really nice talking to you",
+                "label": "b"
+            },
+            {
+                "text": "All right",
+                "label": "fc"
+            },
+            {
+                "text": "Okay Good luck",
+                "label": "fc"
+            },
+            {
+                "text": "All right thank you",
+                "label": "fc"
+            },
+            {
+                "text": "All righty take care",
+                "label": "fc"
+            },
+            {
+                "text": "All right bye",
+                "label": "fc"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc"
+            }
+        ]
+    }
+]

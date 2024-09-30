@@ -1,0 +1,979 @@
+[
+    {
+        "conversation_id": "conv_2875",
+        "turns": [
+            {
+                "text": "Okay cars you you - maybe this is fantasy we can to talk about any kind of car we want here I want Rolls Royce and Cadillac",
+                "label": "o"
+            },
+            {
+                "text": "Hey that sounds like great deal to me You have great aspirations Well lets see I we just bought uh seventy-three Mercedes that we have restored --",
+                "label": "ba"
+            },
+            {
+                "text": "Oh thats great Im",
+                "label": "ba"
+            },
+            {
+                "text": "-- and it -",
+                "label": "%"
+            },
+            {
+                "text": "Im hobbyist too I like to work on cars too",
+                "label": "+"
+            },
+            {
+                "text": "Yeah it has really been lot of fun Uh we found some guys that actually you know worked for Mercedes dealership and uh they also repair them for other the people on their off time --",
+                "label": "b"
+            },
+            {
+                "text": "Oh thats good",
+                "label": "ba"
+            },
+            {
+                "text": "-- so have we we have redone that thing from stem to stern I mean inside outside you know weve redone the body repainted it detailed it so you know I really havent thought much past that it seems like you know I dont know if Ill ever want another new car again",
+                "label": "+"
+            },
+            {
+                "text": "Was you - why they they didnt -",
+                "label": "%"
+            },
+            {
+                "text": "you know",
+                "label": "+"
+            },
+            {
+                "text": "say buy it - they didnt necessarily say buy it new they just said",
+                "label": "sd"
+            },
+            {
+                "text": "Maybe not",
+                "label": "aap"
+            },
+            {
+                "text": "what would you buy you know",
+                "label": "+"
+            },
+            {
+                "text": "Yeah thats true I I dont know it just seems like uh you know for what weve put into it I feel like thats something that might retain its value little bit more",
+                "label": "aa"
+            },
+            {
+                "text": "Oh sure",
+                "label": "aa"
+            },
+            {
+                "text": "than you know -",
+                "label": "+"
+            },
+            {
+                "text": "restored",
+                "label": "sv"
+            },
+            {
+                "text": "yeah yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "vehicle is is great",
+                "label": "+"
+            },
+            {
+                "text": "yeah",
+                "label": "b"
+            },
+            {
+                "text": "I think",
+                "label": "+"
+            },
+            {
+                "text": "yeah",
+                "label": "b"
+            },
+            {
+                "text": "certainly if its an old Mercedes will be good",
+                "label": "+"
+            },
+            {
+                "text": "right we the one thing that uh we did decide as its its - we wanted it to be as authentic as possible but we did break down and put player in it",
+                "label": "aa"
+            },
+            {
+                "text": "Well thats great",
+                "label": "ba"
+            },
+            {
+                "text": "thats not quite authentic but at any rate that that was one thing that I one of the features that I did want Id passed up on one and put sunroof in it",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah you all",
+                "label": "ba"
+            },
+            {
+                "text": "I had to stop there",
+                "label": "sd"
+            },
+            {
+                "text": "done lot more when I talk about working on cars I sure dont do that",
+                "label": "+"
+            },
+            {
+                "text": "Yeah well of course we do it ourselves but",
+                "label": "b"
+            },
+            {
+                "text": "Oh okay",
+                "label": "bk"
+            },
+            {
+                "text": "like I said we were just lucky to find these guys that do it you know theyre they just werent really expensive",
+                "label": "+"
+            },
+            {
+                "text": "Oh that is good",
+                "label": "ba"
+            },
+            {
+                "text": "and uh yeah you know",
+                "label": "aa"
+            },
+            {
+                "text": "acknowledgeable people",
+                "label": "+"
+            },
+            {
+                "text": "right and they work on it so the things that can be done here they just come here to our home and and work on it or work on it so -",
+                "label": "aa"
+            },
+            {
+                "text": "Thats amazing",
+                "label": "ba"
+            },
+            {
+                "text": "yeah its you know its really its really been nice We uh -",
+                "label": "aa"
+            },
+            {
+                "text": "I I do all my own work uh so I I have Chevies",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "mostly well",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "thats all Ive got right now --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- Ive got three Chevy Eights Im uh Im uh Chevy Im an American car person",
+                "label": "sd"
+            },
+            {
+                "text": "Youre an American car person",
+                "label": "b^m"
+            },
+            {
+                "text": "but I do like Mercedes",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah I I have always had an American American car and uh I had real real bad experience with the Cougar that I had it was an eighty-two Cougar",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and uh I dont know I think it just soured me on it for some reason because I had trouble with it starting the engine blew up in it I had to replace the engine when it was only two years old so",
+                "label": "h"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "you know I I thought what the heck you know well try something different so -",
+                "label": "+"
+            },
+            {
+                "text": "Well Im not Ford person and never have been as kid",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and uh I do like the Eight engines and I think the - I went to the auto show with my daughter recently",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "down in Dallas and",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I to me the American cars are far superior to the Japanese in styling engines",
+                "label": "+"
+            },
+            {
+                "text": "Really",
+                "label": "b"
+            },
+            {
+                "text": "right now I mean",
+                "label": "+"
+            },
+            {
+                "text": "Yeah right",
+                "label": "b"
+            },
+            {
+                "text": "Im not saying that they were",
+                "label": "sd"
+            },
+            {
+                "text": "yeah",
+                "label": "b"
+            },
+            {
+                "text": "couple of years ago",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I would that that theres - I see marked improvement",
+                "label": "aa"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "ba"
+            },
+            {
+                "text": "you know as far as uh what Ive heard about performance and such you know so uh uh hopefully itll stay that way I mean you know Id Id I would hate to see the American car industry suffering more than it already has --",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "ba"
+            },
+            {
+                "text": "-- you know even though right now Im not driving an American car but uh I think -",
+                "label": "+"
+            },
+            {
+                "text": "I - uh you know they said they said what do we want to buy I Im uh seri- not seriously thinking but I I would like to",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "put it in that category uh by Cadillac but I wouldnt",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "buy new one and you know of course if I had the money Id be happy to by new one",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "but uh I do look for one year old vehicle",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "with twenty some odd miles or whatever twenty thousand miles",
+                "label": "+"
+            },
+            {
+                "text": "Yeah twenty thousand yeah",
+                "label": "b"
+            },
+            {
+                "text": "whatever",
+                "label": "+"
+            },
+            {
+                "text": "yeah Well thats what my parents are avid Cadillac freaks They had uh - and I think my my mother drives the SeVille now thats uh I guess its couple of years old and uh she had SeVille before that that had the odd backs that was",
+                "label": "b"
+            },
+            {
+                "text": "Oh yeah I remember those",
+                "label": "ba"
+            },
+            {
+                "text": "that was so uh - yeah yeah and she it final just wore out they had they had purchased it - I dont cant remember how many years they had that car but she loved the styling of it",
+                "label": "+"
+            },
+            {
+                "text": "That she may want to save if she she doesnt have it anymore",
+                "label": "sv"
+            },
+            {
+                "text": "No she sold it and she -",
+                "label": "ar"
+            },
+            {
+                "text": "That - since they dont make them anymore",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "she that could be turned into classic",
+                "label": "+"
+            },
+            {
+                "text": "I know",
+                "label": "aa"
+            },
+            {
+                "text": "in in ten fifteen years uh",
+                "label": "+"
+            },
+            {
+                "text": "Yeah she kept telling herself that and its sort of bone of contention between she and my dad because my dad said well just let me take it down there and find out whats wrong with it I mean he came back with new car",
+                "label": "aa"
+            },
+            {
+                "text": "No he wanted new one - yeah right yeah",
+                "label": "b"
+            },
+            {
+                "text": "Yeah I think he had an ulterior motive he could just see you know dollar signs starting to flip by as far as repairs went but uh they they really are nice cars there there",
+                "label": "aa"
+            },
+            {
+                "text": "Im still full size person",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and I like full size Cadillac I I want one of those I think they are I dont know classic but theyre",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "certainly not they havent changed in about uh twenty years and",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "and theyll eventually phase them out and I sure would like one ever those uh uh within the next five years",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "or so",
+                "label": "+"
+            },
+            {
+                "text": "it seems funny you how within the last couple of years cars have gotten bigger again you know",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "they had theyve scaled everything down so much and uh I have I dont Ive never owned really large car I dont know I think that Cougar was the biggest thing I ever had and -",
+                "label": "sd"
+            },
+            {
+                "text": "Well even the Japanese cars are bigger too but uh -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Ive never had Jap- -",
+                "label": "sd"
+            },
+            {
+                "text": "now the Lexus are very nice looking cars",
+                "label": "sv"
+            },
+            {
+                "text": "Ive never had",
+                "label": "sd^r"
+            },
+            {
+                "text": "you know",
+                "label": "+"
+            },
+            {
+                "text": "Japanese car I Ive had friends who had them",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and I think theyre lot over ra- - and theyre is just no styling to them you cant tell one Japanese car from the other",
+                "label": "sv"
+            },
+            {
+                "text": "Thats true",
+                "label": "aa"
+            },
+            {
+                "text": "because they all like",
+                "label": "+"
+            },
+            {
+                "text": "thats true",
+                "label": "aa"
+            },
+            {
+                "text": "you know I dont mean that as joke I mean",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "they really all look like",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and the - I dont have any idea what which car it is",
+                "label": "%"
+            },
+            {
+                "text": "What is what yeah",
+                "label": "bf"
+            },
+            {
+                "text": "until I look at it to see what it is",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and I think they have not uh lead the field in styling they do have sports cars --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- but the price is way more - you can get Cadillac for",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "the same price as you can get small Japanese",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "car its ridiculous now",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I know that uh Ive Ive sort of always felt like with Buicks it seems like all Buicks to me look alike",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "you know I guess it just uh it seems to me theyre all the same shape I have very good friend that has Buick Regal and she shes had shes got way offer hundred thousand miles on it and thats what shes going to buy again and Im like oh please it looks exactly the same as this old one that youve got and",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "so I guess its in the eyes of the beholder",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "aa"
+            },
+            {
+                "text": "I suppose",
+                "label": "+"
+            },
+            {
+                "text": "Yeah well if if youre interested you ought to go to the next auto show I I look at the Cadillacs and boy there were some Cadillacs that I didnt even realize they made but they were",
+                "label": "aa"
+            },
+            {
+                "text": "Really",
+                "label": "b"
+            },
+            {
+                "text": "just styled so differently",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "they were standard Cadillacs but they really looked beautiful",
+                "label": "sd"
+            },
+            {
+                "text": "Are they still - are what theyre - what they have out for like the next year is everything still pretty square it seems like the Cadillacs is one of the few makers that are still making really I I cant think of car that they make are the than maybe the Alliance -",
+                "label": "qy"
+            },
+            {
+                "text": "Oh no they have they have convertibles now in the Cadillac",
+                "label": "nn"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "field and they have that new uh - its not the big uh Fleetwood the one I want",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "which is been the same in the last twenty years",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "theres another one that has came out in the last two year not the Seville the Seville is totally different",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "now at the auto show they had fantastic looking cars",
+                "label": "sd"
+            },
+            {
+                "text": "Now when when was this was this recently",
+                "label": "qw"
+            },
+            {
+                "text": "Oh yeah it was month or so ago",
+                "label": "ny"
+            },
+            {
+                "text": "Oh okay because I have -",
+                "label": "bk"
+            },
+            {
+                "text": "Well they have it every year",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah usually when I see the new cars its during the fair when I go to the auto building at the State Fair and thats usually when I see anything",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "you know",
+                "label": "+"
+            },
+            {
+                "text": "now this was uh in it was downtown in the uh Convention Center and",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I see",
+                "label": "bk"
+            },
+            {
+                "text": "they had all the cars they had Japanese and German cars",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "they had the full range and they had some they had some new cars that werent even out they had uh new Chevy Suburban",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really",
+                "label": "b"
+            },
+            {
+                "text": "truck you know that big big one that was uh - they didnt have price on it",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "nor did they know had it would cost it had microwave in it and everything",
+                "label": "+"
+            },
+            {
+                "text": "Oh my word",
+                "label": "ba"
+            },
+            {
+                "text": "it was - they had several futuristic cars",
+                "label": "%"
+            },
+            {
+                "text": "Thats wild",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "you know you hear about things like that and you think that cant possibly be done I mean it just",
+                "label": "+"
+            },
+            {
+                "text": "I know",
+                "label": "aa"
+            },
+            {
+                "text": "thats just too weird",
+                "label": "+"
+            },
+            {
+                "text": "And I like engines they had lot of broken down engin-",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "not broken down I mean you know cut uh",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "displayed engines you know",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh so you could tell see the inside of them or whatever",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "but uh that that sold me in buying new car you know I mean certainly interested in buying new car but again the yeah the American cars were for superior in styling and",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "new engines",
+                "label": "+"
+            },
+            {
+                "text": "well maybe",
+                "label": "am"
+            },
+            {
+                "text": "and uh",
+                "label": "sv"
+            },
+            {
+                "text": "somebodys finally woken up you know",
+                "label": "sv"
+            },
+            {
+                "text": "I thing so because theyve been making these four cylinder and six cylinder engines for while spelling - think and",
+                "label": "+*"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I think that I I would definitely buy - again theres the question are we in the market uh",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and I could buy anything you know",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah you know if I could fine spelling - find I I was really crazy about Jags for while and the convertible had is it or something like that and I",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah Yeah",
+                "label": "b"
+            },
+            {
+                "text": "you know thought thats dream car and and you really would have to be dream car because the repair bills are supposedly just constant you know",
+                "label": "+"
+            },
+            {
+                "text": "Well I havent work on them myself so I dont that you know my cars dont go to the shop you know",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "so uh -",
+                "label": "%"
+            },
+            {
+                "text": "yeah",
+                "label": "b"
+            },
+            {
+                "text": "I am the kind of engineer and Ive always done it myself and uh --",
+                "label": "sd"
+            },
+            {
+                "text": "Well thats good that you can",
+                "label": "sv"
+            },
+            {
+                "text": "-- Ive got three of them and uh I cant remember one I think I had one someone welded muffler on for me",
+                "label": "+"
+            },
+            {
+                "text": "Oh really that -",
+                "label": "b"
+            },
+            {
+                "text": "in years time",
+                "label": "+"
+            },
+            {
+                "text": "oh gosh thats great",
+                "label": "ba"
+            },
+            {
+                "text": "I think thats the only thing of the three vehicles that Ive in it just the welding on - like I said I dont do that you know",
+                "label": "sd"
+            },
+            {
+                "text": "I think it takes talent to do that you know my my husband is uh engineer but he cannot I mean - or maybe hes just doesnt want to mess with it thats might be part of it but uh you know we just I just say forget it well just take it in",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and get it taken care it He drives",
+                "label": "+"
+            },
+            {
+                "text": "I I",
+                "label": "sd"
+            },
+            {
+                "text": "drives Honda",
+                "label": "+"
+            },
+            {
+                "text": "noticed that when I was kid uh - I was wasnt mechanical engineer but I worked my way through college as mechanic so -",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I learned early from",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "fifteen on",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and dropped it for long time when",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "when after I got out of college and",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "then picked it up again later on and now again Ive got three vehicles and I dont I never get in them and just go to the shop at you will you know -",
+                "label": "+"
+            },
+            {
+                "text": "Well thats to thats one thing that when you would consider - see when I go out to think about new car or buy another car I dont think about well is this engine that I can work on or that you know",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "my husband can work on or whatever you know so youre youre pretty lucky in that respect that",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Im keeping eight eight Chevy engines",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "because thats what I know",
+                "label": "+"
+            },
+            {
+                "text": "Thats when you know yeah",
+                "label": "bf"
+            },
+            {
+                "text": "and in fact I stock the same part Im like little stock - if you",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "brought your Chevy to me I could Id probably have some parts for it right now you knows",
+                "label": "+"
+            },
+            {
+                "text": "Thats pretty good its really been funny because we have like been you are own contractors kind of with this car - and when I say we have redone everything I mean we have done everything",
+                "label": "ba"
+            },
+            {
+                "text": "Oh thats great",
+                "label": "ba"
+            },
+            {
+                "text": "and its",
+                "label": "sd"
+            },
+            {
+                "text": "Ive always wanted to that too",
+                "label": "sd"
+            },
+            {
+                "text": "its really been so interesting the people you meet because uh my husband Carl has called all over the country you know hes gotten these catalogs try- - its really more difficult to find these vintage parts when you might think this is for seventy-three",
+                "label": "+"
+            },
+            {
+                "text": "Oh I can imagination",
+                "label": "ba"
+            }
+        ]
+    }
+]

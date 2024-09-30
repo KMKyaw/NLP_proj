@@ -1,0 +1,131 @@
+[
+    {
+        "conversation_id": "conv_2450",
+        "turns": [
+            {
+                "text": "So what kind of weather have you had in Dallas",
+                "label": "qw"
+            },
+            {
+                "text": "Well its been very windy and its uh probably unseasonably hot for time right now",
+                "label": "sv"
+            },
+            {
+                "text": "Really Yeah see I didnt I dont - I thought uh I thought - I lived in Euless and I thought it was pretty normal but anyway but I guess youre right though it has been real hot because it um - Ive had to use the air conditioner in March",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah weve already had to use that",
+                "label": "+@"
+            },
+            {
+                "text": "my husband usually -",
+                "label": "%"
+            },
+            {
+                "text": "and weve had like - I mean this is probably typical though uh we - like tornado weather and tornado warnings - and uh -",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "so uh you know I I forget from year to year Im getting too old But the uh it th- the winds blowing very hard",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "but I guess you know were just out of March and uh --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I know",
+                "label": "b"
+            },
+            {
+                "text": "-- will bring the rain in uh April",
+                "label": "+"
+            },
+            {
+                "text": "The trees are real pretty right now and everything And uh I dont know I know the pollen is real high but I think its higher than usual isnt it",
+                "label": "sv"
+            },
+            {
+                "text": "Yes it is Seems very high It hasnt bothered me but I know that people that have allergies it seems to be pretty high",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah I know Its been bothering me lot but - yeah I think nor- I think the weather overall has been um probably like you said probably little bit warm and",
+                "label": "+@"
+            },
+            {
+                "text": "little bit warm --",
+                "label": "sv^2"
+            },
+            {
+                "text": "Uh",
+                "label": "+"
+            },
+            {
+                "text": "-- and little bit blowy I think",
+                "label": "+"
+            },
+            {
+                "text": "Anyway so we basically live in the same area so its real hard to -",
+                "label": "%"
+            },
+            {
+                "text": "Really hard to make too big of different comparisons",
+                "label": "^2^g"
+            },
+            {
+                "text": "I know",
+                "label": "aa"
+            },
+            {
+                "text": "right Yeah",
+                "label": "+"
+            },
+            {
+                "text": "I just think its been warm and its been hot and I liked it and its beautiful and all the trees are pretty and I wish it would stay like this all the time",
+                "label": "sv"
+            },
+            {
+                "text": "Yes I could stand this all summer",
+                "label": "aa"
+            },
+            {
+                "text": "So yeah I could too And uh gah I dont think we can say anything else really",
+                "label": "aa"
+            },
+            {
+                "text": "I dont think we can either lets cut off",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah that sounds like good deal Well you have nice day",
+                "label": "aa"
+            },
+            {
+                "text": "You too",
+                "label": "fc"
+            },
+            {
+                "text": "And well talk to you later",
+                "label": "fc"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc"
+            },
+            {
+                "text": "Bye",
+                "label": "fc"
+            }
+        ]
+    }
+]

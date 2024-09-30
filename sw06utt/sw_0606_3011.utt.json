@@ -1,0 +1,443 @@
+[
+    {
+        "conversation_id": "conv_3011",
+        "turns": [
+            {
+                "text": "All right so uh you live in Dallas",
+                "label": "o"
+            },
+            {
+                "text": "Yes I live in Dallas",
+                "label": "ny"
+            },
+            {
+                "text": "Now I understand that um the the real estate market out there has really gone crazy up and down up and down",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah I think right now its its kind of bad Uh I dont live in house I live in an apartment",
+                "label": "ny"
+            },
+            {
+                "text": "Oh",
+                "label": "%"
+            },
+            {
+                "text": "Are are you in house",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "Yeah we have single family home in northern Virginia just outside of Washington",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh Well I guess the best I can do is is uh compare apartments If it can compare the one that I have now with the one that I had the last time the one that I have now uh has lot more amenities I guess is the right word than the one that I moved out of Uh this one you know gave us free cable and uh ceiling fans and uh it was practically new when I moved in here and the carpet was new and -",
+                "label": "b"
+            },
+            {
+                "text": "Huh Do you live in the high-rise",
+                "label": "%"
+            },
+            {
+                "text": "No its not high-rise Its just two story building",
+                "label": "nn"
+            },
+            {
+                "text": "uh-huh",
+                "label": "bk"
+            },
+            {
+                "text": "Uh but theres you know there there are lot of buildings but its just two stories Uh on the second floor they have they dont have patio but they have sunroom instead of the patio On the first floor um where I am theres patio",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay So so you just you have one floor all to yourself",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Oh okay",
+                "label": "bk"
+            },
+            {
+                "text": "The rooms are nice and large and lets see I have I have two bedrooms And uh -",
+                "label": "sd"
+            },
+            {
+                "text": "Oh thats nice Do you get your own washer dryer",
+                "label": "ba"
+            },
+            {
+                "text": "Well I I I have washer and dryer area and I I did buy the washer and dryer but they didnt provide it",
+                "label": "no"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "The one that I moved from didnt didnt have place to put them and thats one of the reasons that I did move",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah That is nice",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Get tired of dragging clothes to the laundromat",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "So tell me ab- -",
+                "label": "ad"
+            },
+            {
+                "text": "Yeah Ive always uh been pretty lucky The real estate out heres been pretty good It uh the the prices of well the prices came down last year Weve we had sort of like Dallas syndrome",
+                "label": "b^r"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "The past uh uh year and half prices have gone down which is totally new for northern Virginia",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh It just",
+                "label": "b"
+            },
+            {
+                "text": "It just never happened before",
+                "label": "sd"
+            },
+            {
+                "text": "Its real good -",
+                "label": "+"
+            },
+            {
+                "text": "So its really surprising everybody All the developers dont know what to do",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah its good time to buy",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "if youre in the market",
+                "label": "+"
+            },
+            {
+                "text": "unfortunate- - were uh we actually have our house on the market because we have two kids --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and we have three bedroom house And its pretty much filled up right now",
+                "label": "sd"
+            },
+            {
+                "text": "Oh so you want bigger one",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah uh-huh Get an extra bedroom or basement Right now its just single level rambler",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh One thing about the houses in uh in Dallas they dont uh utilize basements the way they did in New York My parents in New York had uh uh three family house",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Actual - two family house where the the um the downstairs and the second floor they had - and then they rented the third floor with the whole apartment you know",
+                "label": "%"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "And uh they had basement and they you know they finished the basement and they were able to rent that out also But uh in Dallas I I just I just havent seen basements in houses",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "And Ive looked at lot of them you know",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah friend of mine was thinking about coming down there and thats what he said was that you know it just wasnt something that people had down there",
+                "label": "b"
+            },
+            {
+                "text": "No its - -",
+                "label": "aa"
+            },
+            {
+                "text": "They put pools and garages on",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "but uh no basements",
+                "label": "+"
+            },
+            {
+                "text": "I havent I havent I have yet to see basement in house",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "%"
+            },
+            {
+                "text": "And uh -",
+                "label": "%"
+            },
+            {
+                "text": "Maybe its all the sand Is there lot of sand in - I always think its like desert I dont know Dallas always -",
+                "label": "sv"
+            },
+            {
+                "text": "Well no No no no you know I dont see that kind of sand here Um there are some areas though where where they have problem with uh the houses kind of sinking little bit --",
+                "label": "ar"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- into the to the uh - or the foundation is sinking or something You know just little just little bit some more than others But you you have to know the right spot to to pick where that doesnt happen",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And uh -",
+                "label": "%"
+            },
+            {
+                "text": "Well out here we um we live in what used to be uh like prairie or whatever natural you know natural grasslands",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh they - its just you go down four inches and you get to sands- well fourteen inches you get to sandstone",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And so any place where they put basement in they had to blast",
+                "label": "sd"
+            },
+            {
+                "text": "I see",
+                "label": "b"
+            },
+            {
+                "text": "Its just solid sandstone",
+                "label": "sd"
+            },
+            {
+                "text": "Huh Where did you say youre at Colorado",
+                "label": "%"
+            },
+            {
+                "text": "No Virginia",
+                "label": "nn"
+            },
+            {
+                "text": "Virginia Virginia Thats right",
+                "label": "b^m"
+            },
+            {
+                "text": "Yeah its sort of unusual really Most of Virginia is clay",
+                "label": "b"
+            },
+            {
+                "text": "Anywhere near uh Virginia Beach",
+                "label": "qy^d"
+            },
+            {
+                "text": "Oh yeah uh-huh Yeah My uh my folks used to live there Back before I was born",
+                "label": "ny"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "they lived there",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh Well different areas in Dallas have different kind - in uh in Texas Ill say because down in east Texas theres lot of red clay",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh in the in the Dallas you know Fort Worth city areas you dont see that",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah well uh Texas is big state so I imagine the the type of houses and uh things like that are truly different from area to area",
+                "label": "b"
+            },
+            {
+                "text": "Yeah well -",
+                "label": "b"
+            },
+            {
+                "text": "But uh thats the same way out here because um well we for example and we live fifteen miles from the beltway that surrounds Washington --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and anything instead that beltway the highway the real estates forty thousand dollars more expensive",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So you know you really cant afford I I I could never afford house inside the beltway Thats why we came out here This is called the the the country you know with only you know maybe twenty miles total from twenty-five --",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "%"
+            },
+            {
+                "text": "-- from the city But um its considered the country since its uh you know that far out",
+                "label": "+"
+            },
+            {
+                "text": "Well -",
+                "label": "%"
+            },
+            {
+                "text": "But um yeah we live out by Dulles Airport",
+                "label": "b"
+            },
+            {
+                "text": "I see",
+                "label": "b"
+            },
+            {
+                "text": "Yeah and uh thats one of the few places still in northern Virginia they have trailer parks that are down around the corner from here and you know its its still pretty rural",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh not too much of northern Virginia is like that anymore Land has gotten so expensive they just cant afford to have low income housing like that",
+                "label": "sv"
+            },
+            {
+                "text": "So is your house in an area by itself I mean -",
+                "label": "qy"
+            },
+            {
+                "text": "No were in development",
+                "label": "nn"
+            },
+            {
+                "text": "its not connected to another one",
+                "label": "qy^d"
+            },
+            {
+                "text": "Theres uh - yeah theres another one half an acre away",
+                "label": "%"
+            },
+            {
+                "text": "Oh",
+                "label": "%"
+            },
+            {
+                "text": "or quarter acre away rather",
+                "label": "+"
+            },
+            {
+                "text": "But its not theyre not connected are they",
+                "label": "qy^g"
+            },
+            {
+                "text": "Oh no Huh-uh You have to uh stay in one single family home I sort of got spoiled with that when I was growing up",
+                "label": "nn"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Uh my folks um had an apartment for while when we were kids but um for the most part i- they they always had you know - and Pennsylvania always had single family home and so",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "you know as soon as we could we we got single family home and thats all I ever knew growing up",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "so I stayed in townhouse for uh two years and then uh saved up enough money to to get -",
+                "label": "sd"
+            }
+        ]
+    }
+]

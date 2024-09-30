@@ -1,0 +1,715 @@
+[
+    {
+        "conversation_id": "conv_3076",
+        "turns": [
+            {
+                "text": "Well well Pat did you vote in the last election",
+                "label": "qy"
+            },
+            {
+                "text": "Most assuredly",
+                "label": "na"
+            },
+            {
+                "text": "Oh you did",
+                "label": "bh"
+            },
+            {
+                "text": "Yes maam Ive voted in every major election since I turned twenty-one",
+                "label": "ny"
+            },
+            {
+                "text": "Oh thats great Well why do you think",
+                "label": "ba"
+            },
+            {
+                "text": "Dont always --",
+                "label": "sd"
+            },
+            {
+                "text": "people dont",
+                "label": "+"
+            },
+            {
+                "text": "-- vote for somebody I sometimes vote against somebody",
+                "label": "+"
+            },
+            {
+                "text": "That makes sense too",
+                "label": "ba"
+            },
+            {
+                "text": "I think that lot of it is uh - I know that my late husband was simply indifferent He didnt feel like he had any say There was too many people too many other votes For example you know hed say Well look you and I see different sides of the fence If I go vote youll cancel my vote I said I sure will",
+                "label": "%"
+            },
+            {
+                "text": "And -",
+                "label": "%"
+            },
+            {
+                "text": "He said So I just wont vote I said Then mine counts",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Then does -",
+                "label": "%"
+            },
+            {
+                "text": "because you could cancel mine too",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I think I think thats lot of people just indifferent I know that --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- Ive moved around lot In the past um three years Ive had three different addresses",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Each time I change jurisdictions or whatever",
+                "label": "sd"
+            },
+            {
+                "text": "Sure",
+                "label": "b"
+            },
+            {
+                "text": "So I just havent - because I mean graduate school or whatever - so I havent kept track of it I did when I lived steadily in one community I always I voted",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But this past time I didnt Well actually I voted it for the presidential election but then I didnt vote --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh I guess in the two year for uh some legislators and things and -",
+                "label": "+"
+            },
+            {
+                "text": "Well characteristically in some in the local elections --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- typically those people who vote are those who feel very strongly about an issue",
+                "label": "+"
+            },
+            {
+                "text": "Right uh-huh",
+                "label": "aa"
+            },
+            {
+                "text": "If I do not feel very strongly about an issue then I see no reason to go vote",
+                "label": "sd"
+            },
+            {
+                "text": "Right yeah and thats probably one reason why I voted in the --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- the last election but not really this one --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- because this one really didnt matter that much",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Yeah its probably true",
+                "label": "aa"
+            },
+            {
+                "text": "Well of course of course listening to government the instructors youll find out that everything matters but then you could go crazy worrying about everything",
+                "label": "sv"
+            },
+            {
+                "text": "Well you know they also say that most people vote their local politics that that local is far much more important than uh national --",
+                "label": "sd"
+            },
+            {
+                "text": "Well --",
+                "label": "sv"
+            },
+            {
+                "text": "-- issues",
+                "label": "+"
+            },
+            {
+                "text": "-- thats the way you get to national --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and thats the way you make changes about --",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- your neighborhood",
+                "label": "+"
+            },
+            {
+                "text": "Oh I definitely think so",
+                "label": "aa"
+            },
+            {
+                "text": "Uh I know that I have been involved in preparing and in in uh carrying out lot of the local petitions that take place",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Even something so simple as getting street light in between --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- lights on the end of the block",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But it makes big difference when its the difference in having child run over --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah thats true",
+                "label": "aa"
+            },
+            {
+                "text": "-- in the dark",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And uh it took close call to wake us up and cause us to take --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- that kind of action and thats completely unnecessary In another particular case they were trying to put in um senior citizens home --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- in in an area very near our neighborhood but if you just cross that major street the character of the neighborhood changes and its less savory",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Okay And that I was just very I felt very strongly about that those people simply did not have access to safety to security and they were at risk",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And it was for elderly people who lived alone and they were going to put cluster of of houses there for them But even clustering together for the elderly does not ensure safety",
+                "label": "sd"
+            },
+            {
+                "text": "No most now - thats true",
+                "label": "aa"
+            },
+            {
+                "text": "And all it all it did was to in my judgment make them",
+                "label": "sd"
+            },
+            {
+                "text": "Prepare them to be",
+                "label": "^2"
+            },
+            {
+                "text": "easier targets --",
+                "label": "+"
+            },
+            {
+                "text": "victims yes",
+                "label": "+"
+            },
+            {
+                "text": "-- uh-huh yeah easier targets and so we we did get petition together and we very strongly resisted it and it was placed in actually it was placed clear closer to my neighborhood --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but it was on the",
+                "label": "sd"
+            },
+            {
+                "text": "Right side",
+                "label": "^2"
+            },
+            {
+                "text": "right side of the street",
+                "label": "+"
+            },
+            {
+                "text": "of the tracks yeah",
+                "label": "+"
+            },
+            {
+                "text": "And uh it it I think that theyre theyre much more comfortable there",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Did they -",
+                "label": "b"
+            },
+            {
+                "text": "Uh I havent seen too much crime in my neighborhood although we have good crime watch program --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but its its very serious --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- just across the street",
+                "label": "+"
+            },
+            {
+                "text": "Did um did you think - I know that Texass last gubernatorial uh election probably brought out lot of voters",
+                "label": "%"
+            },
+            {
+                "text": "Well -",
+                "label": "%"
+            },
+            {
+                "text": "Did that did that seem to because that re- that got national attention national attention I guess having woman governor --",
+                "label": "qy^d"
+            },
+            {
+                "text": "Well -",
+                "label": "%"
+            },
+            {
+                "text": "-- running against man and whatever",
+                "label": "+"
+            },
+            {
+                "text": "No I dont think it had to do to with woman running against man I think it had to do with dirt running against dirtier",
+                "label": "ar"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And thats it --",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- it was dirty election People were calling each other uh names and every bit of the trash it was it was dirty campaign It was dirty mud slinging campaign",
+                "label": "sv"
+            },
+            {
+                "text": "Well you know whats funny up here uh I live I see lot of Virginia news --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and I guess uh Senator Robb and Governor Wilder --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- are active right here and they have some type of wire tapping problem --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- going on and the people in Virginia are complaining see Robb is married to Lynda Bird Johnson --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and the people in Virginia are complaining that he is hes using Texas politics in Virginia --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and theyre really complaining big time because they said that We dont have that type of trashy politics up here like they do in Texas all the time",
+                "label": "sd"
+            },
+            {
+                "text": "Well",
+                "label": "sv"
+            },
+            {
+                "text": "So you you guys were getting --",
+                "label": "sd"
+            },
+            {
+                "text": "of course now thats not all the time Weve had some pretty --",
+                "label": "+"
+            },
+            {
+                "text": "-- yeah you were getting slandered I think",
+                "label": "+"
+            },
+            {
+                "text": "-- We were having some pretty healthy --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh campaigns that were based on issues there for two or three of the gubernatorial races --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but I historically Texas has had mud and muddier campaigns --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- I mean its just I think that eventually you know the better people have sensibilities and they vote on those people who are least likely to do damage Unfortunately thats not always the way it should be",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You dont want to vote for the person who is least likely to do damage You want to do the one who can do the most good",
+                "label": "sv"
+            },
+            {
+                "text": "Do the most good yeah thats true",
+                "label": "b^m"
+            },
+            {
+                "text": "And uh -",
+                "label": "%"
+            },
+            {
+                "text": "I guess thats why - I know that um Im previously from Pennsylvania --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and Dick Thornburg whos now the attorney general --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- is going to run for senator --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- because uh John Heinz senator from Pennsylvania died in an airplane crash --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and I know that theyre expecting gigantic turn out to landslide Dick Thornburg into as into the senate --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- because they dont like the governo- the governors political appointee or whatever --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and theyre almost expecting landslide --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- out uh turn out right now --",
+                "label": "+"
+            },
+            {
+                "text": "Okay so you --",
+                "label": "b"
+            },
+            {
+                "text": "-- for for that election",
+                "label": "+"
+            },
+            {
+                "text": "-- So you see thats very negative motivation --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- isnt it --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "-- isnt that too bad We really could use little positive motivation --",
+                "label": "qy^d"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- hey we think this guy can really make some changes and were going to support him",
+                "label": "^q"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "That was true in lot of cases in in couple of the older sixties campaigns",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh",
+                "label": "b"
+            },
+            {
+                "text": "What in Texas was that when you -",
+                "label": "qw"
+            },
+            {
+                "text": "No Im talking about national campaigns",
+                "label": "nn"
+            },
+            {
+                "text": "Thats thats true",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah Uh even when John Kennedy was elected there were so many strikes against him but there were people who believed he could make difference",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Now thats not to say what has transpired or what really was Im saying --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- thats how it was perceived",
+                "label": "+"
+            },
+            {
+                "text": "thats right thats perception thats true",
+                "label": "aa"
+            },
+            {
+                "text": "And uh -",
+                "label": "%"
+            },
+            {
+                "text": "Because the those were big political that was big um turn out --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- election",
+                "label": "+"
+            },
+            {
+                "text": "Absolutely",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And and it was people going to vote for I think more than those who voted against",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I know I know that in my own uh area of people whom I knew and how they were going to vote they didnt go to vote against uh politician as they did little bit later when Nixon was running",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "They went to vote against the less of lesser of the two evils in certain cases",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But I think that one was one that --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you had some very strong feelings among people and they voted their convictions",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh Well I think that also happened with Ronald Reagan",
+                "label": "b"
+            },
+            {
+                "text": "Absolutely",
+                "label": "aa"
+            },
+            {
+                "text": "He was --",
+                "label": "sv"
+            },
+            {
+                "text": "Youre right",
+                "label": "aa"
+            },
+            {
+                "text": "-- he was landslided in and people really saw that was -",
+                "label": "+"
+            }
+        ]
+    }
+]

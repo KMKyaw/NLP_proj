@@ -1,0 +1,379 @@
+[
+    {
+        "conversation_id": "conv_2751",
+        "turns": [
+            {
+                "text": "Okay what did you buy",
+                "label": "o"
+            },
+            {
+                "text": "Ford Explorer",
+                "label": "sd"
+            },
+            {
+                "text": "Im sorry what",
+                "label": "br"
+            },
+            {
+                "text": "Ford Explorer",
+                "label": "sd^r"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah one of the new ones",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And um Id Id probably buy another this is the first American vehicle Ive owned",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So I would probably purchase another one um I would be more selective in the dealership that I purchased it from but as far as uh the quality seems to be there um its quiet its it handles well um but I believe Id get that or Porsche one of the two",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "No not -",
+                "label": "nn"
+            },
+            {
+                "text": "Um if I had the money I think I would love to own",
+                "label": "sd"
+            },
+            {
+                "text": "And why would that be",
+                "label": "qw"
+            },
+            {
+                "text": "I dont know I - from what or - either that or Mercedes just because theyre put together so well It seems like they last forever",
+                "label": "no"
+            },
+            {
+                "text": "Whats wrong with the Volvo",
+                "label": "qw"
+            },
+            {
+                "text": "Oh I dont know theyre theyre not as nice looking",
+                "label": "sv"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Uh - - to me I dont know Im sure there are some that are but everyone Ive seen is kind of plain but -",
+                "label": "%"
+            },
+            {
+                "text": "What what city are you calling from",
+                "label": "qw"
+            },
+            {
+                "text": "Sherman",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Where are you",
+                "label": "qw"
+            },
+            {
+                "text": "Up in Dallas",
+                "label": "sd"
+            },
+            {
+                "text": "Dallas",
+                "label": "b^m"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "or Mercedes yeah well thats thats -",
+                "label": "b^m"
+            },
+            {
+                "text": "If I had um had the money I mean thats just - I know I never would own one but uh I dont know I like - my actual favorite cars i- were uh like the Ford Thunderbirds --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- of nineteen eighty-five I really like that body style but I dont own one of those either",
+                "label": "+"
+            },
+            {
+                "text": "What do you presently drive",
+                "label": "qw"
+            },
+            {
+                "text": "Uh Mercury Topaz",
+                "label": "sd"
+            },
+            {
+                "text": "Um fun",
+                "label": "ba"
+            },
+            {
+                "text": "Cheap taste cheap taste in cars okay",
+                "label": "sd"
+            },
+            {
+                "text": "Well there nothing wrong with those uh",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah theyre all right its its good car Looks like A37 and 39 should 3 slash units",
+                "label": "aa"
+            },
+            {
+                "text": "Theyre theyre nice veh- --",
+                "label": "+"
+            },
+            {
+                "text": "I mean Ive never had any problem with it See parsing note above",
+                "label": "+@"
+            },
+            {
+                "text": "-- theyre nice vehicles nothing wrong with those It um its just everybody has their own taste but man the Mercedes are expensive My wife has Volvo and it its nice I mean you know its okay an",
+                "label": "+"
+            },
+            {
+                "text": "Sorry I roped on Volvos then",
+                "label": "fa"
+            },
+            {
+                "text": "Huh",
+                "label": "br"
+            },
+            {
+                "text": "Sorry I roped on Volvos then",
+                "label": "fa^r"
+            },
+            {
+                "text": "Oh no no no no no no no it - it - I I kind of wish we would have maybe gone for the rather than the but because they- it is the safest car on the road uh slash error",
+                "label": "bd"
+            },
+            {
+                "text": "Oh is it",
+                "label": "bh"
+            },
+            {
+                "text": "Oh yeah slash error",
+                "label": "+@"
+            },
+            {
+                "text": "See I dont much about them I guess",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah there just safe to just - thats the reason why we mainly got it We got white and its the safest four door you know its good for if you have family which we do",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "We just we just - one out - and so its its uh um you know - theyre kind of low to the ground after driving the Explorer You know I presently - I used to have two eighty and Im tall guy an and uh theyre hard to get around in traffic to see",
+                "label": "%"
+            },
+            {
+                "text": "Really",
+                "label": "b"
+            },
+            {
+                "text": "Because you cant see car ahead of you but theyre fast as lightning and all that crap But the Explorer I mean youre sitting up on top of everything and you can really see real well And I just - its so comfortable and and uh Id call this an incomplete slash unit",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So youre - what are your feelings about American versus European cars",
+                "label": "+"
+            },
+            {
+                "text": "Um I like anything besides Japanese Of course everything has Japanese parts in them anymore I dont like Japanese cars",
+                "label": "sd"
+            },
+            {
+                "text": "Why not",
+                "label": "qw"
+            },
+            {
+                "text": "But uh European I dont ha- have any I mean those are the kind I usually end up liking the most American cars lot of people say they they dont last long but Ive never had any problem with um my Mercury or - my cous- - my husband has uh Cougar and hes never had any problem with it either so I dont know",
+                "label": "sd"
+            },
+            {
+                "text": "Thats the way it goes I guess",
+                "label": "ba"
+            },
+            {
+                "text": "Well what are your - I guess this is your first time to buy American so -",
+                "label": "qw"
+            },
+            {
+                "text": "Yeah I was real hesitant but it was",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I dont know uh I mean I think European cars are great course youve got to have metric wrenches and stuff and theyre eas- - some some of them are easy to work on Volvo being four cylinder is very easy to work on",
+                "label": "sd"
+            },
+            {
+                "text": "Really",
+                "label": "b"
+            },
+            {
+                "text": "Uh excellent warranty I mean just unbelievable warranty And and uh of course Ford isnt too bad I think Chrysler would probably make good vehicle uh but all of it has to do in my opinion with the service",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and the attitude of the service of the dealership",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I wouldnt send my dog to buy car from Middlekauff Ford",
+                "label": "sd"
+            },
+            {
+                "text": "Where",
+                "label": "br"
+            },
+            {
+                "text": "Theres - Middlekauff Ford in Plano",
+                "label": "%"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "Their just - their attitude is just slimy And and uh Ive written letter to Middlekauff and Ive told them that matter of fact I got another letter last night from the Quality Ford Division their still concerned about my attitude spelling their should be theyre and it it will never change about that place And uh - but uh anyway thats my own personal comment I guess but -",
+                "label": "%"
+            },
+            {
+                "text": "Yeah this girl that works for me just bought car down there and sh- - they they had problem with they uh took their Camaro in to get it traded and they they hadnt signed any papers and they had all ready uh taken it in to paint it and everything and everything was stolen out of it and the people um wouldnt reim- reimburse them for anything",
+                "label": "b"
+            },
+            {
+                "text": "Middlekauff wouldnt She needs to find herself lawyer Shed shed come out like champ on that one",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah so Ive heard some stuff about them But um -",
+                "label": "aa"
+            },
+            {
+                "text": "So ha- have you been using well anyway -",
+                "label": "qy"
+            },
+            {
+                "text": "What",
+                "label": "br"
+            },
+            {
+                "text": "That was - I was asking you some questions about the telephone and how long and how many have you been doing but thats -",
+                "label": "%"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "they they dont want to hear that",
+                "label": "sd^t"
+            },
+            {
+                "text": "Oh just about week",
+                "label": "sd^t"
+            },
+            {
+                "text": "Is that all week",
+                "label": "qy^t"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Good Lord I think I started in January or February",
+                "label": "ba"
+            },
+            {
+                "text": "Really",
+                "label": "b"
+            },
+            {
+                "text": "Oh God Ive - Im like twenty some phone calls",
+                "label": "fe"
+            },
+            {
+                "text": "Oh wow",
+                "label": "ba"
+            },
+            {
+                "text": "Thats why I I wasnt sure if this was the second time around or what Well look Ive enjoyed speaking with you",
+                "label": "sd^t"
+            },
+            {
+                "text": "Yeah you too",
+                "label": "fc"
+            },
+            {
+                "text": "And keep smiling",
+                "label": "ad"
+            },
+            {
+                "text": "Okay thanks",
+                "label": "aa"
+            },
+            {
+                "text": "Bye bye",
+                "label": "fc"
+            },
+            {
+                "text": "Bye",
+                "label": "fc"
+            }
+        ]
+    }
+]

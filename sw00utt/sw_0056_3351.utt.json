@@ -1,0 +1,383 @@
+[
+    {
+        "conversation_id": "conv_3351",
+        "turns": [
+            {
+                "text": "Hello Lynn",
+                "label": "fp"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "Okay Do you have any pets",
+                "label": "b"
+            },
+            {
+                "text": "Yes I have dog and cat now",
+                "label": "ny"
+            },
+            {
+                "text": "Oh what are their names",
+                "label": "qw"
+            },
+            {
+                "text": "Tibby and Liberty",
+                "label": "sd"
+            },
+            {
+                "text": "Which is the dog and which is the cat",
+                "label": "qw"
+            },
+            {
+                "text": "Tibby is the dog and Liberty is the cat",
+                "label": "sd"
+            },
+            {
+                "text": "Uh wife and I we have we have two cats",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Uh ones real nice but the other one is well - shes pretty wild",
+                "label": "sd"
+            },
+            {
+                "text": "Oh Ours are pretty calm",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah are they um just house pets",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Yeah thats thats what ours are too",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Our cat we got from the pound the day bef- the night she was going to be put to sleep So --",
+                "label": "b"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "-- thats why we call her Liberty",
+                "label": "+"
+            },
+            {
+                "text": "Oh well thats nice nice story Um",
+                "label": "sv"
+            },
+            {
+                "text": "Do you want to hear about my other animals Ive had",
+                "label": "qy"
+            },
+            {
+                "text": "Sure sure",
+                "label": "na"
+            },
+            {
+                "text": "Ive had skunk --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- Ive had Burmese python Ive had rats Ive had mice --",
+                "label": "sd"
+            },
+            {
+                "text": "Wow",
+                "label": "ba"
+            },
+            {
+                "text": "-- uh lets see Ive had gerbils I have I had son hes now gone from the home that was an animal lover",
+                "label": "^h"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So at one point I had snake skunk dog and cat running loose in the house",
+                "label": "sd"
+            },
+            {
+                "text": "Wow Um do the skunk uh was it kind of like cat to have around the house",
+                "label": "ba"
+            },
+            {
+                "text": "Yes --",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- it was litter trained --",
+                "label": "sd^e"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^r"
+            },
+            {
+                "text": "-- and we had it perfumed --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh it was very aggressive",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "But all the all three of them dog cat and skunk used to chase each other all through the house",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh and the skunk -",
+                "label": "b"
+            },
+            {
+                "text": "And the only thing we have with the skunk he was very very protective of his territory --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- being the sofa and the blanket on the sofa",
+                "label": "+"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "Nobody came near it when he was there",
+                "label": "sd"
+            },
+            {
+                "text": "Oh Uh I had I had dog one time and uh he chased after after skunk and got sprayed --",
+                "label": "b"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- so we had to we had to give him tomato tomato juice bath and uh get him cleaned up",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah they um ours would still back up to the dog or cat when he got mad and try to perfume them but --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- the glands had been removed so -",
+                "label": "+"
+            },
+            {
+                "text": "Right but I suppose it was still in the instinct of them to --",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- to back up and get ready",
+                "label": "+"
+            },
+            {
+                "text": "One other question we had is Why do you have pets should be 2 slash units bc answers the question",
+                "label": "sd@"
+            },
+            {
+                "text": "Yeah why I dont know I I think theyre kind of nice to have theyre kind of you know just relaxing to I dont know to pet and to - I dont know when they like sit up on your lap and stuff like that just kind of enjoyable to you know have like I dont know something giving you some affection as well",
+                "label": "b"
+            },
+            {
+                "text": "Yeah I always said if I di-",
+                "label": "b"
+            },
+            {
+                "text": "What what do you think",
+                "label": "qo"
+            },
+            {
+                "text": "Well I always said if I died Id come back as dog",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Thatd be the best way to be",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah Um do you like big dogs or --",
+                "label": "b^r"
+            },
+            {
+                "text": "Well --",
+                "label": "sd"
+            },
+            {
+                "text": "-- or little dogs",
+                "label": "+"
+            },
+            {
+                "text": "-- we had German Shepherd and he had dysplasia --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and he had it for about three or four years where we just about had to lift him and carry him every place he went",
+                "label": "sd"
+            },
+            {
+                "text": "Really",
+                "label": "b"
+            },
+            {
+                "text": "So when he died we got little one",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But our shepherd was almost thirteen years old and it just you know was almost cruel --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh --",
+                "label": "b"
+            },
+            {
+                "text": "-- because -",
+                "label": "+"
+            },
+            {
+                "text": "-- almost cruel for him to to walk",
+                "label": "^2"
+            },
+            {
+                "text": "Yeah he just he couldnt get up he couldnt walk so he was hundred and twenty pounds so it was chore",
+                "label": "aa"
+            },
+            {
+                "text": "Wow yeah",
+                "label": "ba"
+            },
+            {
+                "text": "So we said the next time around wed get something little that if --",
+                "label": "sd"
+            },
+            {
+                "text": "Sure",
+                "label": "b"
+            },
+            {
+                "text": "-- something happened it would be easier to carry",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And then weve had three cats in our married life and weve got calico now",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah weve got calico cat too",
+                "label": "b"
+            },
+            {
+                "text": "Do you",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah yeah shes the shes the nice one We uh we used to live in an apartment and like our cats never went outside but um the neighbors used to let their dogs out and our neighbors were I dont know kind of slimy and uh our cats wound up getting fleas uh from the apartment that we were in --",
+                "label": "ny"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "-- so we had to we had to flea bath them and it was uh it was an experience that they didnt enjoy at all",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah well dont even talk to me I when I was single --",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- I had gone away for the weekend and my husband then fianc3e was to keep my cat and he let her out and my house was loaded with fleas I mean you walked in and your legs were just black",
+                "label": "+"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "And we had such time and never got the cat back",
+                "label": "sd"
+            },
+            {
+                "text": "Really",
+                "label": "bh^r"
+            },
+            {
+                "text": "Yeah I found it you know in the street",
+                "label": "ny"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "I was social worker at the time and found it -",
+                "label": "sd"
+            }
+        ]
+    }
+]

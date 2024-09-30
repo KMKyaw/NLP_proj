@@ -1,0 +1,607 @@
+[
+    {
+        "conversation_id": "conv_2729",
+        "turns": [
+            {
+                "text": "Okay what kind of puppy you got",
+                "label": "o"
+            },
+            {
+                "text": "Well uh I think shes mostly German Shepherd Uh she was uh uh - person lives across the street from me uh brought her home from work because coworker of hers uh had this dog appear on its front doorstep",
+                "label": "sd"
+            },
+            {
+                "text": "Uh",
+                "label": "%"
+            },
+            {
+                "text": "somebody somebody abandoned her and",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "shes only about oh si- between six and eight six to eight weeks old and",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "uh uh I cant understand why anyone would abandon this dog though Shes - I mean shes that this young and shes almost housebroken",
+                "label": "+"
+            },
+            {
+                "text": "Wow",
+                "label": "ba"
+            },
+            {
+                "text": "I mean she actually asks to go out",
+                "label": "sd"
+            },
+            {
+                "text": "Thats great",
+                "label": "ba"
+            },
+            {
+                "text": "And uh yeah I was amazed Really good temperament and very playful and affectionate good personality - I dont know I cant imagine what uh would have been wrong with this dog so -",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah well I I have dog that God gave us too",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Yeah she just appeared",
+                "label": "b"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah my husband calls her street dog but weve had her now for about three years",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and I just - you get so attached to them",
+                "label": "%"
+            },
+            {
+                "text": "Oh yeah I had uh - last year I had ano- I had another German Shepherd now this one was purebred and uh he when he was about seven months old got gastrointestinal virus and was just about on deaths door but uh managed to get him to veterinarian in time",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and uh and on huge doses of antibiotics",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "and he actually got over it with - seven hundred dollars in vet bills",
+                "label": "+"
+            },
+            {
+                "text": "Wow",
+                "label": "ba"
+            },
+            {
+                "text": "um but he had actually was able to get him over that",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And then he was gaining weight again was just getting healthy and uh he put on about fifteen to twenty pounds after the thing and then he got hit by Cadillac",
+                "label": "sd"
+            },
+            {
+                "text": "Oh no",
+                "label": "ba"
+            },
+            {
+                "text": "So I couldnt believe it That was that was really hard",
+                "label": "sd"
+            },
+            {
+                "text": "Oh gee",
+                "label": "ba"
+            },
+            {
+                "text": "And that was even harder for - I was on business trip at the time and the dog was being house sit or dog sit whatever by some friends of mine down the street",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "so they just felt absolutely awful",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I bet",
+                "label": "ba"
+            },
+            {
+                "text": "And I felt felt probably worse for them than than for me because oh gosh they the uh this fellows wife who was uh watching the dog pro- she I think she loved that dog more than I did and uh",
+                "label": "sd"
+            },
+            {
+                "text": "Oh gosh",
+                "label": "ba"
+            },
+            {
+                "text": "She was jus- really attached to it but uh its unfortunate but now Ive got another one so -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah How long has it been since the first one",
+                "label": "b"
+            },
+            {
+                "text": "Uh see he it it was just over year",
+                "label": "sd"
+            },
+            {
+                "text": "Uh yeah",
+                "label": "b"
+            },
+            {
+                "text": "Uh it was in March of last year So uh yeah itd been didnt didnt have one for whole year",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Well I had I had German Shepherd before this one and when she died it just it just absolutely destroyed me I mean I was just you know -",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I couldnt even talk about it for months and so I decided well thats it - Im not going to do this anymore",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And then God gave me this dog so -",
+                "label": "sd"
+            },
+            {
+                "text": "My dads like that he uh he had beagle that he loved and uh when that beagle passed away uh he didnt want he wasnt going to have another dog theres no way",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "no how and then uh the he the beagle died in I guess about October and by Christmas time we went down to the pound and got him uh I or I gue- Humane Society and got uh got another one stray",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And she she turned out to be great dog and we had her for six years until she just passed away recently and again dad went through the whole thing but",
+                "label": "sd"
+            },
+            {
+                "text": "Okay yeah",
+                "label": "b"
+            },
+            {
+                "text": "mom went an -",
+                "label": "+"
+            },
+            {
+                "text": "Well you just do -",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "you cant help - i- its like its like kid",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah it is Well hopefully this one here Cocoa will live full life",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah well when uh - my my doggie uh that we have now uh shes shes mostly Golden Retriever",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "The vet called her uh golden mix",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "like who knows you know",
+                "label": "h"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "But shes uh shes that sort of strawberry blonde reddish color you know",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "And uh and her nose is that pink you know",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "she doesnt have brown nose and her ey- shes sort of unicolor you know",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "eyes are the same color and everything so I named her Rosebud and uh friend of mine said th- she that she gre- - this friend of mine grew up on farm and said that she had uh pet cow named Rosebud and she said theres lot of longevity in that name said my cow lived seventeen years",
+                "label": "+"
+            },
+            {
+                "text": "Thats not too bad Golly the Golden Retrievers are good dogs too theyre kind of like get that permanent smile to them",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah right",
+                "label": "aa"
+            },
+            {
+                "text": "theyre always always happy I dont think Ive ever seen them not look happy",
+                "label": "sv"
+            },
+            {
+                "text": "And shes so easy going and so sociable",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know she loves everybody And little kids can just you know maul all over her",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "and she just you know thinks its great",
+                "label": "sd"
+            },
+            {
+                "text": "This this friend of mine has th- well - its the same guy that was watching uh my German Shepherd when he got hit but uh went fishing with him on Friday and took - hes got full pure bred Golden Retriever and then I had uh the puppy little tiny puppy and we went and took the two dogs up fishing And this - they just they had ball romping around",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and you know you cant get Golden Retriever near water without it jumping in",
+                "label": "sd"
+            },
+            {
+                "text": "Getting in - yeah",
+                "label": "bf"
+            },
+            {
+                "text": "And uh this Golden Retriever jumped in the the really fast moving uh river current and uh -",
+                "label": "sd"
+            },
+            {
+                "text": "Oh no",
+                "label": "ba"
+            },
+            {
+                "text": "Well no actually he had no trouble at all He first jumped in and I - hes hes just about year old himself and never had really - I dont think hed swum before",
+                "label": "ar"
+            },
+            {
+                "text": "Really",
+                "label": "b"
+            },
+            {
+                "text": "But he jumped in in the the river",
+                "label": "sd"
+            },
+            {
+                "text": "Did puppy go to",
+                "label": "qy"
+            },
+            {
+                "text": "Well the puppy jumped in the into some of the pools but not into the - I was careful to keep her away from the",
+                "label": "sd"
+            },
+            {
+                "text": "Oh thats good yeah",
+                "label": "ba"
+            },
+            {
+                "text": "the fast moving water cause if she fell in then Id of been had to go in after her And up here the waters probably about forty degrees right now",
+                "label": "+"
+            },
+            {
+                "text": "Ugh ugh",
+                "label": "ba"
+            },
+            {
+                "text": "And I would not have been fun trying to retrieve her but uh this dog Dennis jumped in and got this look on his face like what do I do now as hes floating down the river then finally discovered that he could swim and uh actually paddled up against the current and uh made it back to the shore and climbed up and then he he jumped in again and he was swimming for quite bit all afternoon He loved it",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Cocoa didnt think too much of it though She jumped in and then started screaming and made me pull her back out I pulled her out and uh then had to wrap her up in sweatshirt because she was shivering so bad",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and so but uh she got over it so -",
+                "label": "sd"
+            },
+            {
+                "text": "Well the German Shepherd that I had before - we we had little pool",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and uh she was she did not want any part of swimming but she liked to to get in the pool on the first step Shed just get on the first step and lay down",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know in the summertime when its really really hot",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And shed just lay there on that step and just you know cool off",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Ive I live right across the street from big lake here um its on Oneida lake and Im wondering if uh if shell want to go out there and go swimming next year I mean Ive got - the yards all fenced in so she doesnt run loose but uh",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "she could go in sometime when if Im watching her so -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Well the one that we had just didnt want any part of that",
+                "label": "b"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah and she - oh baths - Oh gee she hated baths worse than anything It was it was just really fight to you know get her clean",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Have you seen uh CANINE",
+                "label": "qy"
+            },
+            {
+                "text": "No no",
+                "label": "nn"
+            },
+            {
+                "text": "The movie oh youve got to see it Especially since you have German it is so cute",
+                "label": "+"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah and uh an part of the the movie is where hes trying to clean this dog up and its its just hysterical",
+                "label": "ny"
+            },
+            {
+                "text": "Oh okay my my dog last German Shepherd it was real chore trying to give him bath too And that was the thing I couldnt figure out because he would go in the lake it wasnt like he didnt -- -",
+                "label": "bk"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- i- - normally I mean he didnt seem to have problem with getting wet but if you wanted to get him wet forget it",
+                "label": "%"
+            },
+            {
+                "text": "Yeah well thats how Cleo - you know - shed lay on her step",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "but that was that was the only time she wanted to get wet and she didnt want you getting her wet",
+                "label": "sd"
+            },
+            {
+                "text": "Right right obstinate obstinate",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah but you really need to see that movie I I - we bought the movie and I don- I dont know how many times Ive seen it",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And it came on the other night and I was watching it again and my husband heard me laughing and he said I cant believe that youre still getting such kick out of that movie",
+                "label": "sd"
+            },
+            {
+                "text": "Ill have to check it out I saw the the uh previews for it and all and it did look like itd be good mo- movie but -",
+                "label": "cc"
+            },
+            {
+                "text": "It is great",
+                "label": "sd"
+            },
+            {
+                "text": "uh really havent had whole lot of time to get out to see the movies lately",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But I got to do more more fun things",
+                "label": "sd"
+            },
+            {
+                "text": "Well we always wait until we can rent them you know",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah Well Im uh Im second lieutenant in the Air Force and so I travel lot",
+                "label": "b"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "And yeah Im engineer at uh at the laboratory Rolm Laboratory Griffis Air Force Base up here so -",
+                "label": "ny"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Thats how I got into uh into the switchboard project and all that so -",
+                "label": "sd^t"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But its nice having dog here uh the -",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah theres just -",
+                "label": "aa"
+            },
+            {
+                "text": "Un- un- uh - whats the unrequir- whats the word Im looking for uh lots of affection no co-",
+                "label": "%"
+            },
+            {
+                "text": "Right",
+                "label": "aa"
+            },
+            {
+                "text": "unconditional affection from the from the dog",
+                "label": "+"
+            },
+            {
+                "text": "thats it",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "Really not critical at all",
+                "label": "aa"
+            },
+            {
+                "text": "No no",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah theyre really wonderful",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah well its been nice talking to you we seem to be degenerating here so -",
+                "label": "b"
+            }
+        ]
+    }
+]

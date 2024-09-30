@@ -1,0 +1,423 @@
+[
+    {
+        "conversation_id": "conv_3166",
+        "turns": [
+            {
+                "text": "Okay what kind of fishing do you do",
+                "label": "o"
+            },
+            {
+                "text": "Well mostly uh little fresh water fish but mostly lake fishing like rainbow trout and stuff because I used to live in Utah",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But uh down here I havent fished much in Texas",
+                "label": "sd"
+            },
+            {
+                "text": "Thats one of the few things Ive ever fished for is rainbow trout",
+                "label": "sd"
+            },
+            {
+                "text": "Oh theyre really not I think theyre good to eat",
+                "label": "sd"
+            },
+            {
+                "text": "What what kind of bait do you use to catch them",
+                "label": "qw"
+            },
+            {
+                "text": "Oh just usually worms night crawlers Sometimes fish eggs",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "Sometimes",
+                "label": "na"
+            },
+            {
+                "text": "Fish eggs",
+                "label": "b^m"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Oh I didnt know that Huh",
+                "label": "sd"
+            },
+            {
+                "text": "Just little just little fish eggs",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh theres this one kind of cheese that you can put on the end of hook and it will stay relatively well",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I didnt know that",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah --",
+                "label": "b"
+            },
+            {
+                "text": "Thats great way",
+                "label": "ba"
+            },
+            {
+                "text": "-- and and they really like that",
+                "label": "sd"
+            },
+            {
+                "text": "I think that would probably be good way to catch catfish also",
+                "label": "sv"
+            },
+            {
+                "text": "Now I have never caught catfish",
+                "label": "sd"
+            },
+            {
+                "text": "Oh look catfish uh - personally I like to catch large mouth bass --",
+                "label": "+@"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and catfish because they fight the best",
+                "label": "+"
+            },
+            {
+                "text": "Because they fight the best",
+                "label": "sd"
+            },
+            {
+                "text": "But catfish will really just tear into anything like that like liver --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh is that right",
+                "label": "bh"
+            },
+            {
+                "text": "-- or uh cheese or anything that smells terrible",
+                "label": "+"
+            },
+            {
+                "text": "Now in Amarillo did you fish any of this",
+                "label": "qy"
+            },
+            {
+                "text": "Uh no Actually I always used to go to my grandparents in Oklahoma --",
+                "label": "nn"
+            },
+            {
+                "text": "Um",
+                "label": "b@"
+            },
+            {
+                "text": "-- and they have the uh Lake Texoma right next to them",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "+@"
+            },
+            {
+                "text": "So the - we used to catch some uh sand bass off Lake theres Roosevelt Bridge and what wed do is let the line all the way to the bottom and crank up you know --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- turns on the --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- reel about six to twelve times and the fish would be sitting at different levels",
+                "label": "+"
+            },
+            {
+                "text": "Oh how about that",
+                "label": "ba"
+            },
+            {
+                "text": "So yeah you just leave it at that level and in no time something would hit it and you could pull them up two and three times in row but you had to find out what level how many cranks they were off the bottom And if you left it on the bottom there was good chance that youd catch catfish",
+                "label": "b"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "And of course depending on how big your bait was uh you know would be depending on what you caught",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I think that is really interesting",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah that was lot of fun My grandfather used to do that and we used to have light at the top of the water",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Hed really spoiled me in that respect",
+                "label": "sd"
+            },
+            {
+                "text": "I think theyre - see and I wish I could go fishing here because I dont really know much about the fishing here I guess it would - if you did it like you were just uh saying thats pretty much like rainbow trout",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You bait the hook you throw it in you troll it --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- little bit and then you wait --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and they troll it little bit",
+                "label": "sd"
+            },
+            {
+                "text": "Well if you - do you have any friends with ponds",
+                "label": "%"
+            },
+            {
+                "text": "No I dont",
+                "label": "nn"
+            },
+            {
+                "text": "I uh - well if you can fi- - well or even lake If uh - seems like every time somebodys on the bank all they want to do is throw it out just as far as they can --",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh bring it in to you But its the opposite when youre fishing from boat You you want to - make it land right on the shore and then drag like plastic worm --",
+                "label": "+"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and just have it come into the water like regular animal or or fish --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh well you know something coming off from the bank like they usually do So you dont have to really get uh fish from boat you know because theyre actually right there at the shore",
+                "label": "+"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "But I didnt used to be sold on plastic worms but uh if - I am now",
+                "label": "sd"
+            },
+            {
+                "text": "You are now",
+                "label": "b^m"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "Ive never used those Thats really interesting",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah It just uh just slow reel and then let it sit on the bottom but the key is to always have your line tight",
+                "label": "b"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "And that way you can feel when theyre hitting it and believe me youll know the difference",
+                "label": "sd"
+            },
+            {
+                "text": "Uh what kind of fish do you like the best to eat",
+                "label": "qw"
+            },
+            {
+                "text": "Oh crappie actually",
+                "label": "sd"
+            },
+            {
+                "text": "Oh do you",
+                "label": "^g"
+            },
+            {
+                "text": "Yeah Ive been fishing in the the ocean Were about three hours from the ocean And I also like Spanish mackerel",
+                "label": "ny"
+            },
+            {
+                "text": "Um",
+                "label": "b@"
+            },
+            {
+                "text": "And you catch blues and uh thats different kind of fishing off the pier too Have you ever fished off the pier",
+                "label": "sd"
+            },
+            {
+                "text": "Yes Ive done fishing like that but but uh tell me what uh where youd catch crappie My my neighbor has gone before --",
+                "label": "+@"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and and done that but -",
+                "label": "+"
+            },
+            {
+                "text": "Oh the best thing for crappie is those little spinner baits and and jigs Uh they have like yellow uh fuzz on hook you know that kind of comes out",
+                "label": "sd"
+            },
+            {
+                "text": "Oh oh I know",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Uh theyre sort of like well I want to say flies but not exactly like -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah get - but theyre little heavier and theyre bigger",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Get the yellow ones",
+                "label": "ad"
+            },
+            {
+                "text": "The yellow",
+                "label": "b^m"
+            },
+            {
+                "text": "Those are the ticket",
+                "label": "aa"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "And let them drop to the bottom and maybe do kind of slow reel You dont even have to have good rod or anything Just just even regular line --",
+                "label": "ad"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and you throw it out and uh the the other thing thats real good is small uh - its real small rapalla Its about an inch and half long and theyre pure sil- all silver something real shiny about that long",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Theyll go after that in heartbeat also Just anything that really shines or spins",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah my mom she just loves to fish and she has lot of those those little uh - they almost look neon You know theyre just real color- colorful --",
+                "label": "b"
+            },
+            {
+                "text": "Oh yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- things on onto her end",
+                "label": "+"
+            },
+            {
+                "text": "Thats it",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah And she - shes really good fisher woman",
+                "label": "b"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Thats neat",
+                "label": "ba"
+            },
+            {
+                "text": "Well you sound like youre good fisher woman too",
+                "label": "sv"
+            }
+        ]
+    }
+]

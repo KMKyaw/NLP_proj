@@ -1,0 +1,487 @@
+[
+    {
+        "conversation_id": "conv_3703",
+        "turns": [
+            {
+                "text": "Okay",
+                "label": "o"
+            },
+            {
+                "text": "All right",
+                "label": "b"
+            },
+            {
+                "text": "Um we have small children two and four --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and so we our dining is very limited",
+                "label": "sd"
+            },
+            {
+                "text": "I bet youre McDonalds fan",
+                "label": "qy^d"
+            },
+            {
+                "text": "Oh were past that now Were little sick of that",
+                "label": "nd"
+            },
+            {
+                "text": "Are you Gosh where do you go Whataburger",
+                "label": "bh"
+            },
+            {
+                "text": "No um were more - like um you know like Wyatts Cafeteria",
+                "label": "nn"
+            },
+            {
+                "text": "Oh is that right",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah that way And the kids just love everything thats there so were pretty fortunate Kind of um buffet style uh so you can --",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah thats thats good",
+                "label": "b"
+            },
+            {
+                "text": "-- go in and go out and the foods already served and you dont have to wait and its already in front of them when you sit down and things like um Souper Salads you know its again its buffet and its already prepared and just things any any eating area that you just dont have to wait an extreme amount of time",
+                "label": "+"
+            },
+            {
+                "text": "I can understand that",
+                "label": "ba"
+            },
+            {
+                "text": "We -",
+                "label": "%"
+            },
+            {
+                "text": "We got we got three kids too and when the kids are small if you going to wait you dont go out",
+                "label": "sd"
+            },
+            {
+                "text": "No",
+                "label": "aa"
+            },
+            {
+                "text": "They wont put up with that",
+                "label": "sv"
+            },
+            {
+                "text": "We tried Bennigans one time and it was terrible Course it was just probably one of the worst days to go anyway We we waited almost forty-five minutes before everything was brought out and it was we were ready --",
+                "label": "sd"
+            },
+            {
+                "text": "And you had",
+                "label": "qy"
+            },
+            {
+                "text": "-- to go home",
+                "label": "+"
+            },
+            {
+                "text": "And you had the kids with you",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "And they waited forty-five minutes",
+                "label": "qy"
+            },
+            {
+                "text": "No We fought with them for forty-five minutes",
+                "label": "nn"
+            },
+            {
+                "text": "I dont doubt that one bit",
+                "label": "ba"
+            },
+            {
+                "text": "So we we we rarely go eat in those kind of eating uh situations any more But we do love to eat out and um and we do it as often as we can and and times that we do have baby-sitters we we try and catch um some things that we normally wouldnt do you know",
+                "label": "sd"
+            },
+            {
+                "text": "Where where do you like to go when you got baby-sitter",
+                "label": "qw"
+            },
+            {
+                "text": "Oh um let me see uh for New Years we went to eat at Uncle Julios",
+                "label": "sd"
+            },
+            {
+                "text": "Wheres that Never heard of that place",
+                "label": "qw"
+            },
+            {
+                "text": "Its um on on Walnut and Greenville",
+                "label": "sd"
+            },
+            {
+                "text": "Whats the name of that again",
+                "label": "qw"
+            },
+            {
+                "text": "Its called Uncle Julios",
+                "label": "sd"
+            },
+            {
+                "text": "What what are they what kind of -",
+                "label": "qw"
+            },
+            {
+                "text": "Um basically Mexican food",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah okay",
+                "label": "bk"
+            },
+            {
+                "text": "And its supposed to be very similar to um uh - what is that restaurant off of Central Its um its Mexican restaurant off of Central",
+                "label": "sd"
+            },
+            {
+                "text": "Well theres zillion of them Have you ever been to Mercado Juarez",
+                "label": "sv"
+            },
+            {
+                "text": "No but Ive heard about it",
+                "label": "nn"
+            },
+            {
+                "text": "Thats good place I -",
+                "label": "sd"
+            },
+            {
+                "text": "Really",
+                "label": "b"
+            },
+            {
+                "text": "Theyve got one in Addison too now but the original was on Northwest Highway uh just the other west of Loop Twelve Thats good Mexican place",
+                "label": "sd"
+            },
+            {
+                "text": "Really uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Good good prices good good food there",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "If you like Mexican stuff Its its good place",
+                "label": "sd"
+            },
+            {
+                "text": "We like um seafood also and uh -",
+                "label": "sd"
+            },
+            {
+                "text": "You you ever been to Vincents",
+                "label": "qy"
+            },
+            {
+                "text": "Vincents No we havent",
+                "label": "qy^h"
+            },
+            {
+                "text": "Thats good seafood place",
+                "label": "sd"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Really",
+                "label": "b"
+            },
+            {
+                "text": "You ever been tried place called Louisiana Purchase",
+                "label": "qy"
+            },
+            {
+                "text": "No",
+                "label": "nn"
+            },
+            {
+                "text": "Well this is in Plano They might have another one but its on uh Parker and Central Expressway --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and its its Ca- -",
+                "label": "%"
+            },
+            {
+                "text": "Oh okay Ive seen it",
+                "label": "b"
+            },
+            {
+                "text": "Yeah its Cajun type stuff",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "If you like it kind of hot that --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- that is good food thats good stuff",
+                "label": "+"
+            },
+            {
+                "text": "Weve been to um Chefalias Its basically the same thing seafood --",
+                "label": "sd"
+            },
+            {
+                "text": "Yes",
+                "label": "aa"
+            },
+            {
+                "text": "-- Cajun style",
+                "label": "+"
+            },
+            {
+                "text": "Wheres that place",
+                "label": "qw"
+            },
+            {
+                "text": "Thats in Addison off of Belt Line",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah okay",
+                "label": "bk"
+            },
+            {
+                "text": "Midway",
+                "label": "sd"
+            },
+            {
+                "text": "Belt Line and what",
+                "label": "qw"
+            },
+            {
+                "text": "Like around I think its little past or its right before Midway or its --",
+                "label": "sd"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "-- right at Midway",
+                "label": "+"
+            },
+            {
+                "text": "Yeah okay",
+                "label": "bk"
+            },
+            {
+                "text": "And um excellent food",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "We got this Premier Dining Card thing and weve weve been going to all sorts of weird type places with it",
+                "label": "sd"
+            },
+            {
+                "text": "What what is that",
+                "label": "qw"
+            },
+            {
+                "text": "Well you get uh one free and you you you pay for one now and --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really",
+                "label": "b"
+            },
+            {
+                "text": "-- type thing and uh",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "Weve been to from barbecue to - theres Swan Club which is out Central and Campbell",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh that is if you like continental stuff that is really nice Talk talk your husband into taking you there some night",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "aa"
+            },
+            {
+                "text": "I mean its not cheap place but uh its very nice",
+                "label": "sd"
+            },
+            {
+                "text": "Really And where is that",
+                "label": "b"
+            },
+            {
+                "text": "Uh its on Campbell It its north of Campbell but uh off Central uh --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- oh it used to be Northern Telecom Building in the ba- in the ground floor I dont know what they call it now Northern Telecom kind of moved over in their own building",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But it its big tall its the tallest building on the west side northwest side of Campbell and just before you get to Campbell --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and its in the lower floor but its really nice restaurant --",
+                "label": "sd"
+            },
+            {
+                "text": "Really",
+                "label": "b"
+            },
+            {
+                "text": "-- if you like Continental stuff",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And tell him to take you there for your anniversary and then they got place where you can dance you know and all that kind of stuff",
+                "label": "ad"
+            },
+            {
+                "text": "Yeah well my birthdays coming up so -",
+                "label": "b"
+            },
+            {
+                "text": "There you go All right You got one coming",
+                "label": "ba"
+            },
+            {
+                "text": "I need an excuse",
+                "label": "sd"
+            },
+            {
+                "text": "Have you ever been to Ewaldes now theres if you like Cont- - I I like Continental stuff myself",
+                "label": "qy"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "My wife doesnt necessary like that stuff but I like that",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And thats down in the the Stoneleigh Hotel now",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And that is really super kind of stuff too Take if you like Continental at all --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- that kind of stuff --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- either one of those two you go through hundred bucks without half trying but it its --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh oh",
+                "label": "b"
+            },
+            {
+                "text": "-- its nice really nice place",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Oh you dont have to spend that much Im kidding you",
+                "label": "sd"
+            }
+        ]
+    }
+]

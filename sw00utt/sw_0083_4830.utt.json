@@ -1,0 +1,339 @@
+[
+    {
+        "conversation_id": "conv_4830",
+        "turns": [
+            {
+                "text": "You want to go first",
+                "label": "qy"
+            },
+            {
+                "text": "No you can start",
+                "label": "nn"
+            },
+            {
+                "text": "Okay Uh one of the things they talked about was uh did we - wh- what do we think about judge making the decision",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I really dont agree with that I think that the trial by jury is better uh you know than - having unanimous decision rather than to have one person be responsible I dont think that they could be objective in every case every time",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Yo- you know what I mean",
+                "label": "qy"
+            },
+            {
+                "text": "Right Theres there th- this topic is kind of mute Uh --",
+                "label": "na^r"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- there theres no way We we couldnt survive in sy- in juror syst- in trial system without jury",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Uh one man can never be one man one woman can never be objectionable in every case",
+                "label": "sv"
+            },
+            {
+                "text": "Thats it",
+                "label": "aa"
+            },
+            {
+                "text": "Uh every person has their opinions and thats why jury selection is often very difficult Uh",
+                "label": "sd"
+            },
+            {
+                "text": "Well I I feel the other thing too uh they were saying uh you know what new ways could - could it you you know change the system I I really think that uh we spend lot of time uh going through appeal after appeal after appeal after appeal I mean i- if you go to trial by jury and especially if person has confessed If they have been caught you know point blank in the crime",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Theres uh no question its beyond reasonable doubt You know all these things I mean you know weve gone through this over and over again",
+                "label": "+"
+            },
+            {
+                "text": "Right They shouldnt allow an appeal",
+                "label": "aa"
+            },
+            {
+                "text": "And it can go on for ten twenty years",
+                "label": "sd"
+            },
+            {
+                "text": "Yep",
+                "label": "b"
+            },
+            {
+                "text": "I I think this is little ridiculous",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I think the only people who benefit from that are the lawyers",
+                "label": "sv"
+            },
+            {
+                "text": "Oh thats right I work for law firm",
+                "label": "aa"
+            },
+            {
+                "text": "I Im serious And I think that the lawyers have caused lot of the problems tha- that exist in the - in the criminal system today With plea bargaining",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "You know if someone is ill -",
+                "label": "%"
+            },
+            {
+                "text": "Well plea bar- plea bargaining is different story",
+                "label": "sd"
+            },
+            {
+                "text": "Well",
+                "label": "b"
+            },
+            {
+                "text": "Plea bargaining is something completely different That that actually prevents trials Or at least speeds them up",
+                "label": "sv"
+            },
+            {
+                "text": "Well I know Thats what Im saying But I think lot of all of the whole criminal system is messed up in in that regard I mean you know people who commit uh crimes that they - I dont know how it works exactly but --",
+                "label": "aa"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- you know they get lesser sentences and I understand that the jails are full of people you know uh --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b^r"
+            },
+            {
+                "text": "-- and that they have to do something But I think that the reason they are full is because they know that they can get away with it",
+                "label": "+"
+            },
+            {
+                "text": "Huh",
+                "label": "%"
+            },
+            {
+                "text": "Yo- you know what Im saying That - we dont have uh well lot of states dont have capital punishment",
+                "label": "qy"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And uh --",
+                "label": "sv"
+            },
+            {
+                "text": "We do",
+                "label": "sd"
+            },
+            {
+                "text": "-- I I think they should I and I think if person is guilty of taking someones life and like you say its its theres no doubt whatsoever Like drunk drivers that kill people and uh you know all -- -",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- they theyre caught dead to rights I I just think that thats theyve theyve taken life and if they should pay for it with their life",
+                "label": "sd"
+            },
+            {
+                "text": "Right When youre saying as far as the appeal uh procedure was concerned",
+                "label": "b^r"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "We just have the case Im Im sure youve probably heard of Marion Berry",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Uh his - last appeal was was denied two days before his sentence was up",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really",
+                "label": "b"
+            },
+            {
+                "text": "So I mean his appeal was denied and two days later he got out of jail",
+                "label": "sd"
+            },
+            {
+                "text": "It uh -",
+                "label": "%"
+            },
+            {
+                "text": "For cocaine possession",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But uh that was absurd There is never there was no reason --",
+                "label": "sv"
+            },
+            {
+                "text": "I know that that -",
+                "label": "%"
+            },
+            {
+                "text": "-- the appeal process should have dragged on that long for six month sentence",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh And I dont know Uh what would you do to change it To make it better",
+                "label": "b"
+            },
+            {
+                "text": "Well uh the the only I can I wa- you know - the appeal procedure is the only thing I can possibly think of Uh - like I said as far as removing of the jury and having the judge sentence thats absurd Theres no way that could work",
+                "label": "%"
+            },
+            {
+                "text": "Oh yeah I I I dont agree with that at all",
+                "label": "aa"
+            },
+            {
+                "text": "Uh but -",
+                "label": "%"
+            },
+            {
+                "text": "Imagine the guilt that person would have I mean --",
+                "label": "ad"
+            },
+            {
+                "text": "Oh exactly",
+                "label": "aa"
+            },
+            {
+                "text": "-- burned out Theres --",
+                "label": "+"
+            },
+            {
+                "text": "Exactly",
+                "label": "aa"
+            },
+            {
+                "text": "-- theres no possible way that you could uh you know feel good about yourself",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "aa"
+            },
+            {
+                "text": "If you had to do something like that day after day",
+                "label": "sv"
+            },
+            {
+                "text": "No one would want the job",
+                "label": "sv"
+            },
+            {
+                "text": "No Not really",
+                "label": "aa"
+            },
+            {
+                "text": "Uh and you know like I said the you know everyone has their opinions about every case",
+                "label": "sd"
+            },
+            {
+                "text": "Well - do you think people should have trial is theyre caught dead to rights like -",
+                "label": "qy"
+            },
+            {
+                "text": "Oh yeah I I feel that everyone is everyone is uh entitled to trial by jury That that that right - -",
+                "label": "ny"
+            },
+            {
+                "text": "I mean supposing I come up to you and I just point blank kill you",
+                "label": "sd"
+            },
+            {
+                "text": "Well I mean were there witnesses",
+                "label": "qy"
+            },
+            {
+                "text": "In other words youre saying that - you have to find out whether its premeditated or --",
+                "label": "bf"
+            },
+            {
+                "text": "Right",
+                "label": "aa"
+            },
+            {
+                "text": "-- what the circumstances were",
+                "label": "+"
+            },
+            {
+                "text": "Right That you cant you cant remove the jury regardless of the case",
+                "label": "aa^r"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "I mean you could have fifty people in audience watching --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^r"
+            },
+            {
+                "text": "-- murder take place and you youd still theres still mitigating circumstances",
+                "label": "+"
+            },
+            {
+                "text": "Well I I -",
+                "label": "%"
+            }
+        ]
+    }
+]

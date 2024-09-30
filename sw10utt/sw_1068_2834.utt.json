@@ -1,0 +1,1007 @@
+[
+    {
+        "conversation_id": "conv_2834",
+        "turns": [
+            {
+                "text": "Uh basically Im at home and I have two cats --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and my husband I mean my husbands great",
+                "label": "+"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Its wonderful",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "you know and and uh so Im about forty and whatever",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh Around there huh",
+                "label": "b"
+            },
+            {
+                "text": "So yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Well youre youre just youngster then",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Im just --",
+                "label": "b"
+            },
+            {
+                "text": "I passed the fifty",
+                "label": "sd"
+            },
+            {
+                "text": "-- spring chicken I guess",
+                "label": "+"
+            },
+            {
+                "text": "So I guess our topics going to be changes in the womens roles so --",
+                "label": "sd^t"
+            },
+            {
+                "text": "Well -",
+                "label": "%"
+            },
+            {
+                "text": "-- it should be real interesting",
+                "label": "+"
+            },
+            {
+                "text": "Righto",
+                "label": "b"
+            },
+            {
+                "text": "So you think were ready",
+                "label": "qy"
+            },
+            {
+                "text": "I think Im ready",
+                "label": "na"
+            },
+            {
+                "text": "Okay okay Uh you want to start off",
+                "label": "bk"
+            },
+            {
+                "text": "Well lets see the changes Ive seen in womens roles uh since I am in the forty age Im fifties baby --",
+                "label": "aa^h"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh and from my mothers generation to my generation its just very very wide uh its been big change",
+                "label": "+"
+            },
+            {
+                "text": "Very much yeah yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Very much and I think youll have to agree and --",
+                "label": "aa^m"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "-- and since we were in uh sort of the ground level the bra burning of the sixties -",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and and we didnt really know what the agenda was going to be --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh and I think you know it got off to really radical - it has radical fringe to it that uh Ive sort of backed away from",
+                "label": "+"
+            },
+            {
+                "text": "I think all things get started sometimes in that manner",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know they come in that way",
+                "label": "sv"
+            },
+            {
+                "text": "And to make change you know you have to make splash",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But to continue in that vein I think it got little bit warped and off the track --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- in several areas but I really do think that women have made contribution --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh to human beings I mean to be human and what its like and have feelings and emotions and its okay and I think uh you know on the other hand I dont know that men have changed that much So in in contrast to the womens changes uh you know the men stay steady",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and then the women change around them",
+                "label": "sv"
+            },
+            {
+                "text": "I hadnt thought much about that but that is true That -",
+                "label": "sd"
+            },
+            {
+                "text": "Uh I think men are trying",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh Some of them",
+                "label": "b"
+            },
+            {
+                "text": "But they dont have national organization of men",
+                "label": "sv"
+            },
+            {
+                "text": "No",
+                "label": "b"
+            },
+            {
+                "text": "to uh help them out and --",
+                "label": "+"
+            },
+            {
+                "text": "No",
+                "label": "b@"
+            },
+            {
+                "text": "-- uh whats changing them though is the economic situation",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "+@"
+            },
+            {
+                "text": "where both --",
+                "label": "+"
+            },
+            {
+                "text": "Very much",
+                "label": "ba"
+            },
+            {
+                "text": "-- team it has to be team partnership now",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and they both have to work --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and they both have to raise the children",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "if were going to have any kind of future at all",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and and that I think has been the downfall of the last ten years",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know the me oh - I dont know the the yuppiedom",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "the whatever it was the you know women didnt know how to go about doing the careers and they wanted to compete with men they wanted to be like men",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and thats wrong",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I think they finally discovered that they dont want to be like men men",
+                "label": "sv"
+            },
+            {
+                "text": "Not - no they they hurt themselves little bit in that way",
+                "label": "%"
+            },
+            {
+                "text": "Absolutely and so thats you know - they sort of threw the thing back another you know ten years",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "that theyve had to you know restructure but I saw the greatest -shirt the other day I got to get some for all my men friends it says let men run the world women have more important things to do",
+                "label": "+"
+            },
+            {
+                "text": "There you go Theres lot of truth in that",
+                "label": "ba"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But uh I think men and women both have valuable valuable assets to offer --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and you know we shouldnt - we were made differently",
+                "label": "%"
+            },
+            {
+                "text": "Thats right",
+                "label": "ba@"
+            },
+            {
+                "text": "however you come to that conclusion we were biologically physiologically made differently and there is great wonderment",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "+@"
+            },
+            {
+                "text": "in that and uh you know we should respect that in each other so -",
+                "label": "+"
+            },
+            {
+                "text": "Yes it shouldnt be destroyed",
+                "label": "aa"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "And and you know just sort of all - swooshed into one channel --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- sort of thing its its viva la difference",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "someone said that --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and I think that you can truly respect the other person I mean you know Tom is just always saying what mystery you are you know you know Depends -",
+                "label": "sv"
+            },
+            {
+                "text": "Well thats kind of makes it exciting",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know",
+                "label": "+"
+            },
+            {
+                "text": "Well that depends on what day of the month it is",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But uh I dont know I guess weve gotten more of - in in terms of that I think weve got more of sense of humor about each other --",
+                "label": "h"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and our roles and but its still challenge being in marriage and trying to figure out those roles and -",
+                "label": "+"
+            },
+            {
+                "text": "I think now when both are working they have more ch- more of chance of working together because theyre starting out that way",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah well thats thats very different way to do -",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "you know the woman doesnt start off at home",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "raising the kids and goes back into her career you know",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "twenty years later",
+                "label": "+@"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Uh",
+                "label": "+@"
+            },
+            {
+                "text": "Because you get set in your ways and its",
+                "label": "sv"
+            },
+            {
+                "text": "You do",
+                "label": "ba@"
+            },
+            {
+                "text": "really hard because to to really to get help",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "+@"
+            },
+            {
+                "text": "Uh - you know to get the work load shared",
+                "label": "+"
+            },
+            {
+                "text": "Are are you married",
+                "label": "qy"
+            },
+            {
+                "text": "Yes uh-huh Our -",
+                "label": "ny"
+            },
+            {
+                "text": "Do you have children",
+                "label": "qy"
+            },
+            {
+                "text": "I we have five children theyre",
+                "label": "na"
+            },
+            {
+                "text": "Oh my goodness",
+                "label": "ba"
+            },
+            {
+                "text": "Theyre all grown and on their own so -",
+                "label": "+"
+            },
+            {
+                "text": "Oh my",
+                "label": "ba"
+            },
+            {
+                "text": "Theyre uh -",
+                "label": "%"
+            },
+            {
+                "text": "How did you do",
+                "label": "qo"
+            },
+            {
+                "text": "Uh how do you mean that",
+                "label": "qo"
+            },
+            {
+                "text": "Well I mean okay well did you have boys girls how did - how -",
+                "label": "sd"
+            },
+            {
+                "text": "Uh we have uh two girls and three boys and our",
+                "label": "sd"
+            },
+            {
+                "text": "Oh my",
+                "label": "ba"
+            },
+            {
+                "text": "our baby girl just had baby girl",
+                "label": "+"
+            },
+            {
+                "text": "Oh my",
+                "label": "ba"
+            },
+            {
+                "text": "Last week was her first baby",
+                "label": "sd"
+            },
+            {
+                "text": "Oh how exiting",
+                "label": "ba"
+            },
+            {
+                "text": "So its been real exciting",
+                "label": "ba"
+            },
+            {
+                "text": "I I tell you what I dont know what I would do without my friends having all their kids",
+                "label": "fe"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I just love the babies --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and and since Im sort of in medical situation where I cant do that its -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Have you been that way long",
+                "label": "b"
+            },
+            {
+                "text": "Just eight years just -- -",
+                "label": "ng"
+            },
+            {
+                "text": "Just eight years",
+                "label": "b^m"
+            },
+            {
+                "text": "-- the most important years of my life you know",
+                "label": "sd"
+            },
+            {
+                "text": "Thats thats long eight years though",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah it has been",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh so there have been major major adjustments",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "but thats another story",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But you know my husband has really really filled in the gaps I mean I",
+                "label": "sd"
+            },
+            {
+                "text": "That makes big difference",
+                "label": "sv"
+            },
+            {
+                "text": "I couldnt ask for better life",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I mean if this is the way it had to be",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "this is the best way",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I could possibly do it and and that has lot to do with his strength and his just pitching in and and his being able to you know all all ego aside do lot of things --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- that really - so when I say men havent changed I guess I should look at my own backyard sort",
+                "label": "+"
+            },
+            {
+                "text": "Yes",
+                "label": "aa"
+            },
+            {
+                "text": "of thing and -",
+                "label": "+"
+            },
+            {
+                "text": "Well probably your role - and and the way you are also has changed though",
+                "label": "sv"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "ba"
+            },
+            {
+                "text": "You know compared to what it would have been twenty fifty years ago",
+                "label": "+"
+            },
+            {
+                "text": "Yeah thats true I mean boy I mean I I would have had so - I had so much guilt to begin with and the changes that had to take place you know",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "where I couldnt do lot of things --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh just adjusting to that",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "that uh yeah that was major change",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "but so I guess uh in the end you know you each take your own situation and you and you deal with it the best you can but --",
+                "label": "sv"
+            },
+            {
+                "text": "The best you can yeah",
+                "label": "b^m"
+            },
+            {
+                "text": "-- but but women I think are whole you know sort of riding the course theyre theyre got little wobbly and little shaky there I think the future of this whole thing is going to be what happens with the day care situation",
+                "label": "+"
+            },
+            {
+                "text": "I - yeah thats the only thing I worry about is the the childs love and security That - I think thats being damaged uh",
+                "label": "%"
+            },
+            {
+                "text": "I think",
+                "label": "sv"
+            },
+            {
+                "text": "lot",
+                "label": "+"
+            },
+            {
+                "text": "were going to see generation of kids that you know are just going to be little bit uh oh not very nurturing",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I think -",
+                "label": "%"
+            },
+            {
+                "text": "I do too I I think uh - now some some women can can do both Theyre very capable of working and and -",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah but I wish they werent so many I I wish they werent role models for everybody",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "because its so dangerous",
+                "label": "+"
+            },
+            {
+                "text": "It it really is yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Its dangerous for the woman too to think that she can do that and then when she cant you know the failure of that is",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "you know her life sort of falls apart and she doesnt know who she is and shes -",
+                "label": "+"
+            },
+            {
+                "text": "So many have to work to make go of it it seems",
+                "label": "sv"
+            },
+            {
+                "text": "Absolutely",
+                "label": "aa"
+            },
+            {
+                "text": "or they say they do anyways and but I think ones that dont have to the - its not as much of stigma not to work as it was for while there",
+                "label": "sd"
+            },
+            {
+                "text": "Well you know I think thats thats really I think it depends on what part of the country youre in",
+                "label": "sv"
+            },
+            {
+                "text": "Well that could be",
+                "label": "ba"
+            },
+            {
+                "text": "Uh I I would almost just say that because you know down here in the south --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know womans role is",
+                "label": "+"
+            },
+            {
+                "text": "Uh",
+                "label": "%"
+            },
+            {
+                "text": "womans role",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "sort of thing",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and you know -",
+                "label": "%"
+            },
+            {
+                "text": "You mean its stronger there",
+                "label": "qy"
+            },
+            {
+                "text": "Uh oh yeah yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Much stronger",
+                "label": "ba"
+            },
+            {
+                "text": "And and I think that uh you know career women still have lot of problems here",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "with the good old boys",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "here in Texas sort of thing",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "making career moves but",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Uh you know in terms of women staying home and being appreciated for their talents uh its just like the way it it has been for years",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I mean you know since the days of the pioneers around here",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "Thats the womans role",
+                "label": "sv"
+            },
+            {
+                "text": "Yes",
+                "label": "ba"
+            },
+            {
+                "text": "and it and its hard for her to uh you know watch her peers be appreciated I think sometimes but then Im not there so I dont know that",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "And I have women that do both and I see little jealousy on the part of you know the woman what has two little boys and and she has an au pair which is live-in college kid working for her and then she has her business in the back --",
+                "label": "sd"
+            },
+            {
+                "text": "Uh",
+                "label": "%"
+            },
+            {
+                "text": "-- and then my other girlfriend that has you know just runs the whole household herself and just has two kids and goes crazy",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "all the time And so I see I little bit of that and I always wish there was balance you know",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "with the one and and wish she could spend more time with her kids and the other gal I wish she could just get out of Dodge",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "for while",
+                "label": "+"
+            },
+            {
+                "text": "But theyre both -",
+                "label": "sd"
+            },
+            {
+                "text": "Get some peace and quiet",
+                "label": "^2"
+            },
+            {
+                "text": "Yeah theyre both different people too Thats",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah definitely so Youre right about that",
+                "label": "b"
+            },
+            {
+                "text": "Thats where the trouble lies",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Some people some people can adjust and have both do both well",
+                "label": "sv"
+            },
+            {
+                "text": "And thats -",
+                "label": "%"
+            },
+            {
+                "text": "and others cant",
+                "label": "sv"
+            },
+            {
+                "text": "Thats true Thats so true How how did your daughter do it",
+                "label": "ba"
+            },
+            {
+                "text": "Uh well uh I have one daughter that works full-time She has two little boys",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And they seem to do fine She has been talk- has talked about quitting you know and staying home for few years But then its real hard because shes got an excellent job",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Uh",
+                "label": "%"
+            }
+        ]
+    }
+]

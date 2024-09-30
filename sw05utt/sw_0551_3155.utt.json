@@ -1,0 +1,423 @@
+[
+    {
+        "conversation_id": "conv_3155",
+        "turns": [
+            {
+                "text": "I really havent seen any movies lately so when the computer picked this one I was little bit surprised but I think I havent been to the movie theater here in about oh six months but uh you know the last movies that Ive seen were probably on video",
+                "label": "sd"
+            },
+            {
+                "text": "Oh well thats - we rent lot of videos --",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- too Uh we saw - I have two little babies and we saw one movie recently and that was THE TERMINATOR --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- movie uh which I didnt like after all",
+                "label": "+"
+            },
+            {
+                "text": "Yeah now I ha- I havent seen THE TERMINATOR movie but and thats kind of blood and guts isnt it I dont particularly care for that sort of stuff",
+                "label": "b"
+            },
+            {
+                "text": "Well I dont either It - on all the the advertisements Arnold Schwarzenegger says he doesnt kill anybody in the movie He doesnt He maims them",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah right",
+                "label": "aa"
+            },
+            {
+                "text": "So",
+                "label": "%"
+            },
+            {
+                "text": "Yeah he maims them pretty good doesnt he",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh He he uh I think he shoots off their knee caps for the most part",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "In the movie",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So",
+                "label": "%"
+            },
+            {
+                "text": "I I saw uh SLEEPING WITH THE ENEMY Uh",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I havent seen that one yet",
+                "label": "sd"
+            },
+            {
+                "text": "Uh I saw it uh oh couple weeks ago I rented it and uh watched it and I was I was pretty disappointed in it because I I was told by several people that its pretty scary and intense --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and I was pretty disappointed in it",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Now its good movie but I guess that they built me up too much",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah well",
+                "label": "b"
+            },
+            {
+                "text": "For my expectations in it there",
+                "label": "+"
+            },
+            {
+                "text": "With all the commercials --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and everything I havent - thats one we want to see I I want to see uh DANCES WITH WOLVES",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But we havent seen that one yet either",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Now I havent seen it either but uh Ive heard that its real long That its good movie but its long like three hours",
+                "label": "b"
+            },
+            {
+                "text": "Yeah th- thats what I heard too Yeah weve got to get it at time when we can put our kids to bed and stay up late --",
+                "label": "aa"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "-- to watch it So slash error",
+                "label": "+"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "We saw uh the the uh movie with uh Sylvester Stallone OSCAR",
+                "label": "+"
+            },
+            {
+                "text": "OSCAR",
+                "label": "b^m"
+            },
+            {
+                "text": "Supposed to be his uh his debut in comedy",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Which was an interesting movie but not very funny",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I know my daughter saw that and she liked it so -",
+                "label": "b"
+            },
+            {
+                "text": "Did she",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Well it was it was an amusing movie",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "It - - I guess maybe it would have been better if wed have been at the theater --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- as opposed to uh just at the house watching it with with no one else around",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "And of course I get to watch all these movies like LOOK WHOS TALKING and WHOS LOOK WHOS TALKING TOO and because I have ten year old so",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "We we watch lot of movies around that category you know --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- that she that she can watch",
+                "label": "+"
+            },
+            {
+                "text": "My son just turned two and so THE LITTLE MERMAID is now our favorite movie",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah We seen THE LITTLE MERMAID too",
+                "label": "aa"
+            },
+            {
+                "text": "LITTLE MERMAID and PETER PAN --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- I think are are his two favorites that weve got",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh And theres some I think theres some good Disney movies fixing to come out on video uh SHIPWRECKED",
+                "label": "b"
+            },
+            {
+                "text": "Oh I havent I didnt hear that was coming out",
+                "label": "qy"
+            },
+            {
+                "text": "uh-huh Yeah its fixing to come out on video and boy I cant think of the other one thats fixing to come out",
+                "label": "ny"
+            },
+            {
+                "text": "Well they just had --",
+                "label": "sd"
+            },
+            {
+                "text": "But -",
+                "label": "%"
+            },
+            {
+                "text": "-- uh THE RESCUERS movie --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- that was Disney movie wasnt it I think I heard that was just one was just out Hes uh he doesnt sit still for the whole movie yet but --",
+                "label": "qy^g"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- he likes to uh to listen to the music and stuff if theres lot of that in the - in the movie",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh Well Im glad to know that theres somebody else out there that doesnt get to go to the movie theater",
+                "label": "b"
+            },
+            {
+                "text": "Well I - tell you ever - - my my kids are just small babies and I tell you we really want to go --",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- lot and uh theres so much out on video now that its almost you know - the movie comes out quicker than you can go see it",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Sometimes",
+                "label": "+"
+            },
+            {
+                "text": "Thats right slash error",
+                "label": "aa@"
+            },
+            {
+                "text": "So",
+                "label": "%"
+            },
+            {
+                "text": "And then they go to the dollar movies",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh That seems to happen I noticed that DANCES WITH WOLVES was playing at the uh Granada Theater",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh someone said that was lot of fun to go do You can have dinner and everything while you watch the movie I thought that might be kind of fun to do",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah that does sound fun",
+                "label": "aa"
+            },
+            {
+                "text": "And of course you need baby-sitter for that Definitely But uh no Id really like to get out to the movies more often Course its so expensive now too --",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- that you cant hardly afford it I I know we get discount tickets --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- where my husband works but other than that it just seems like its so expensive And then the popcorn and everything else you almost cant afford to do it",
+                "label": "+"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "No matter what Although we did actually get - we went on vacation couple months ago and we got to go see WHAT ABOUT BOB",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "That was kind of funny movie with uh Richard Dreyfuss and Bill Murray",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "That was fun",
+                "label": "sd"
+            },
+            {
+                "text": "Golly I dont think that Ive ever heard of that movie",
+                "label": "fe"
+            },
+            {
+                "text": "Oh hes Richard Dreyfuss is uh psychiatrist and Bob is his patient and Bob follows him on vacation Its uh -",
+                "label": "sd"
+            },
+            {
+                "text": "Oh thats the thats the one where they burn down the house or something --",
+                "label": "qy^d"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "-- the house explodes",
+                "label": "qy"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Oh okay",
+                "label": "bk"
+            },
+            {
+                "text": "Yeah thats the one",
+                "label": "ny"
+            },
+            {
+                "text": "Okay yeah Another movie that I want to see if it ever comes out on video so I can see it without my daughter around is uh oh - I just forgot the title of it Uh Oh its supposed to be real scary one Uh darn well here heres another one that Ive seen I saw uh - I cant remember the title of it either",
+                "label": "bk"
+            },
+            {
+                "text": "Must have left an impression",
+                "label": "sv"
+            }
+        ]
+    }
+]

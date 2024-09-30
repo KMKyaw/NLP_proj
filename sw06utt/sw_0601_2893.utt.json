@@ -1,0 +1,623 @@
+[
+    {
+        "conversation_id": "conv_2893",
+        "turns": [
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "Okay do you rec- exercise regularly",
+                "label": "b"
+            },
+            {
+                "text": "Yeah I sure do",
+                "label": "ny"
+            },
+            {
+                "text": "What do you do",
+                "label": "qw"
+            },
+            {
+                "text": "Uh I ride bicycle quite bit and uh work out with free weights",
+                "label": "sd"
+            },
+            {
+                "text": "Okay I love to ride bicycle",
+                "label": "bk"
+            },
+            {
+                "text": "I live right near White Rock Lake so I used to I try to ride about ten to twenty miles day But I --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh thats good",
+                "label": "ba"
+            },
+            {
+                "text": "-- havent been doing so well this year but -",
+                "label": "+"
+            },
+            {
+                "text": "I went an last year I went an was exercising on bike for while and I when Id gotten back I had gotten some sun that day the sweat had built up on me and built up under my skin and caused me to peel It was the sweating not the burn --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh thats weird",
+                "label": "ba"
+            },
+            {
+                "text": "-- that was wild But I exercise I dont exercise now I just had baby three months ago I havent really gotten back into exercising",
+                "label": "sv"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "But I exercised real good for couple of years It was aerobics and lifting weights three nights week and it was running three nights week",
+                "label": "sd"
+            },
+            {
+                "text": "So whats your motivation",
+                "label": "qw"
+            },
+            {
+                "text": "What whats my motivation",
+                "label": "br^m"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "friend of mine always pushing me This was in Louisiana And she would push you know she was hey lets go do it and you know she wouldnt take no for an answer",
+                "label": "sd"
+            },
+            {
+                "text": "Was it for health or to look good",
+                "label": "qr"
+            },
+            {
+                "text": "Oh I ju- I just wanted to look good yeah",
+                "label": "sd"
+            },
+            {
+                "text": "I was think -",
+                "label": "%"
+            },
+            {
+                "text": "it wasnt really health related",
+                "label": "sd"
+            },
+            {
+                "text": "It was just side benefit",
+                "label": "bf"
+            },
+            {
+                "text": "Yeah yeah because Im not Im not big or anything but Im not in great shape so But when I worked out I got in pretty good shape I didnt build up muscle though I just got real good and toned",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I dont think women look good with muscles",
+                "label": "sd"
+            },
+            {
+                "text": "Up to point",
+                "label": "aap"
+            },
+            {
+                "text": "Up to point no - yeah",
+                "label": "sd^r"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^m"
+            },
+            {
+                "text": "Its just some of those women that come up there looking like Arnold Schwarzeneggers sister just doesnt get it",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah so what was what was the other question lets see do you do it as task or do you enjoy enjoy working out",
+                "label": "b"
+            },
+            {
+                "text": "I guess its task cause I cant make myself do it lately",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I think I uh I enjoy it sometimes and theres other times when I just get tired of it and",
+                "label": "bk"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and I feel like Im obligated to do it because Ive been doing it so I should keep up",
+                "label": "+"
+            },
+            {
+                "text": "You dont want to lose yourself",
+                "label": "sv"
+            },
+            {
+                "text": "And theres some days its just like its the hardest thing in the world to to get started",
+                "label": "sd"
+            },
+            {
+                "text": "Well how old are you",
+                "label": "qw"
+            },
+            {
+                "text": "Im uh twenty-seven",
+                "label": "sd"
+            },
+            {
+                "text": "Okay so youre still young",
+                "label": "bk"
+            },
+            {
+                "text": "Yeah still young getting older",
+                "label": "aa"
+            },
+            {
+                "text": "We all are so -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah but uh -",
+                "label": "b"
+            },
+            {
+                "text": "Its not hard to stay - well if you keep working out when youre young though when you get older you know your bodys not going to look as bad I seen an old woman today she was about eighty and she looked so good",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I mean she was standing just as straight and tall and she had small waist and she didnt have you know like - you know how some older women will get the big bulge right in the middle",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "na"
+            },
+            {
+                "text": "- she didnt have that at all She her lips were little bit wide but lot of - back in her time they liked women with big hips anyway --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- so she may be keeping that on purpose so -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I notice if you uh if you stay in shape you dont age as bad",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I think too - I was I go to school too at night and last semester I had stopped working out cause I hurt myself and started smoking lot and you just - those kind of things age you more",
+                "label": "%"
+            },
+            {
+                "text": "Well smoking ages you quick",
+                "label": "sv"
+            },
+            {
+                "text": "Right an -- -",
+                "label": "b"
+            },
+            {
+                "text": "it puts those little wrinkles around your lips",
+                "label": "sd"
+            },
+            {
+                "text": "-- right an you cant - and then you know it just kind of feeds itself You smoke and then you dont work out because you -",
+                "label": "b"
+            },
+            {
+                "text": "You get winded",
+                "label": "^2"
+            },
+            {
+                "text": "Right and so -",
+                "label": "aa"
+            },
+            {
+                "text": "Oh I smoke pack day an -",
+                "label": "sd"
+            },
+            {
+                "text": "I finally quit because like I just all I was doing was going down hill fast",
+                "label": "sd"
+            },
+            {
+                "text": "I cant quit smoking Ive tried I was telling friend of mine that Id be almo- almost as bad as being an alcoholic",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I cant quit smoking Ive tried I just cant do it I quit when I was pregnant with my kids but you know as soon as I had them right back to it",
+                "label": "sd"
+            },
+            {
+                "text": "Right back to them",
+                "label": "bf^m"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^m"
+            },
+            {
+                "text": "It was like you know - that was the only reason I quit I didnt want to",
+                "label": "%"
+            },
+            {
+                "text": "Oh thats -",
+                "label": "%"
+            },
+            {
+                "text": "And I dont want to quit smoking I enjoy that I said I have very few vices Ill keep this one thank you",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "But uh did you ever go to like one of those health clubs or anything",
+                "label": "qy"
+            },
+            {
+                "text": "I went to health club few years ago and now I work out at home because I dont really my schedule with school and work I dont have time to get down to one",
+                "label": "na"
+            },
+            {
+                "text": "uh-huh",
+                "label": "bk"
+            },
+            {
+                "text": "There used to be one that was twenty-four hour that I used to go to but uh I actually prefer to work out alone",
+                "label": "sd"
+            },
+            {
+                "text": "I like to work out with people",
+                "label": "sd"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "I need - like you - I I need competition is what I need",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Ive got to have somebody to compete with or I dont want to do anything",
+                "label": "sd"
+            },
+            {
+                "text": "I wouldnt mind having you know working out with friend and and stuff but when you get into some of these some of health clubs where you just stand around and wait -",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh are you -",
+                "label": "b"
+            },
+            {
+                "text": "You know I like to start get it done and get out of there",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh are you married or anything",
+                "label": "b"
+            },
+            {
+                "text": "No Im not",
+                "label": "nn"
+            },
+            {
+                "text": "No well get your girlfriend to work out with you lot of women like that Id love it if my husband would ask me to work out with him He doesnt work out very often Course he dont need to Hes small and he works as laborer on the railroad",
+                "label": "bk"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So you know hes building his muscles up all day he doesnt have to do anything",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "He can eat like horse too And he dont you know he dont gain it like I do But uh -",
+                "label": "sd"
+            },
+            {
+                "text": "Uh especially having kid I guess tends to just gain weight because you have to to",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah you have to",
+                "label": "aa"
+            },
+            {
+                "text": "to uh -",
+                "label": "+"
+            },
+            {
+                "text": "Well you can gain too much weight I gained little bit too much but I looked - with my first little boy I did gain lot of weight I got I got about fifty pounds overweight with him and I didnt loose it until two years ago and then I got pregnant and you know ruined that so -",
+                "label": "sv"
+            },
+            {
+                "text": "Just have to start all over",
+                "label": "bf"
+            },
+            {
+                "text": "Yeah well actually like I say it aint as bad this time because I was in shape when I got pregnant",
+                "label": "aa"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "I wasnt out of sha- I wasnt overweight when I got pregnant with him I just wasnt in in shape I dont know the difference but -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah some people are little bit fanatical about it You know I -",
+                "label": "b"
+            },
+            {
+                "text": "About weight",
+                "label": "br"
+            },
+            {
+                "text": "Well yeah and about",
+                "label": "ny"
+            },
+            {
+                "text": "Exercise",
+                "label": "^2"
+            },
+            {
+                "text": "working out and fitness you know I like to to work out to look good and stay in shape and you know I know its good for me but people that live for it and you know eat bunch of different pills and",
+                "label": "+"
+            },
+            {
+                "text": "Well thats what my friend did",
+                "label": "sd"
+            },
+            {
+                "text": "all that kind of stuff it gets little bit obsessive",
+                "label": "+"
+            },
+            {
+                "text": "Well she was she was with the wheat germ and all the vitamins and everything else and really we was you know - even with her taking all those - expensive vitamins and stuff",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "we stayed right on the same track with each other",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^r"
+            },
+            {
+                "text": "you know developing and everything Now there - you can take those uh - what is it",
+                "label": "+"
+            },
+            {
+                "text": "Steroids",
+                "label": "sd"
+            },
+            {
+                "text": "Steroids yeah I couldnt think -",
+                "label": "sd^m"
+            },
+            {
+                "text": "Yeah theres really bad for you",
+                "label": "b"
+            },
+            {
+                "text": "I was goin- I was trying to say hemorrhoids no I was trying to say hem- hormones",
+                "label": "sd"
+            },
+            {
+                "text": "Hem- hormones",
+                "label": "b^m"
+            },
+            {
+                "text": "Yeah hormones but - yeah uh steroids But I stay from that crap",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah its too dangerous",
+                "label": "b"
+            },
+            {
+                "text": "Oh I wouldnt I could just see hair start growing out of my upper lip or something",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I had friend whose brother did steroids and as soon as he stopped working out he just ballooned out It all turned to fat and he just",
+                "label": "b"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "really looked bad",
+                "label": "+"
+            },
+            {
+                "text": "Ugh",
+                "label": "ba"
+            },
+            {
+                "text": "But uh -",
+                "label": "%"
+            },
+            {
+                "text": "I didnt know it did that",
+                "label": "sd"
+            },
+            {
+                "text": "I dont know if it does to everybody he was - i- it just thats how it affected him And he I dont know just -",
+                "label": "h"
+            },
+            {
+                "text": "Yeah but Ive been wanting to get me bicycle or bike Ive been wanting to get ten speed to ride around Im scared to run for dogs Course I know dogs can get you on bike too but",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "seems like it -",
+                "label": "+"
+            },
+            {
+                "text": "At least you got chance to out run them that way",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I dont like to run myself Ive thought about it several times and I just it I like to move little faster and cover more ground",
+                "label": "sd"
+            },
+            {
+                "text": "Well they - yeah theyve come up that running is not as good for you as they thought it was",
+                "label": "%"
+            },
+            {
+                "text": "Its probably I would think it would be hard on your your legs and your joints and stuff",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah its real hard on your legs and its hard on women And it it just makes stuff move down",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And uh but I I I like jogging I dont mind that I can get out and do that",
+                "label": "sd"
+            },
+            {
+                "text": "Uh I cant",
+                "label": "sd"
+            },
+            {
+                "text": "as long as its not hot If its hot you cant do that But in the rain oh I love to run in the rain just you know be careful not to slide",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But you cant ride your bike at all in the rain can you",
+                "label": "qy^g"
+            },
+            {
+                "text": "No you cant its dangerous",
+                "label": "nn"
+            },
+            {
+                "text": "You slide",
+                "label": "sd"
+            },
+            {
+                "text": "At least maybe some of these mountain bikes you could but regular ten speed with those skinny tires",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "you slide all over the place",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Oh I when I did ride my friends bike that one time I had uh I dont know what I was trying to do I was trying to make turn and I never could make turn in bike I can do it in my car but I tried to do it on that ten speed and wrecked and I told her dog was chasing me But I wrecked it into the curb I didnt hurt it too bad I scratched it on the the oh - she had some kind of fender thing going over the back tire I think",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But oh well Anyway its been nice talking to you",
+                "label": "%"
+            },
+            {
+                "text": "Yeah well -",
+                "label": "fc"
+            },
+            {
+                "text": "And uh -",
+                "label": "%"
+            },
+            {
+                "text": "Well good luck with the the new kid",
+                "label": "fc"
+            },
+            {
+                "text": "Thank you shes it shes good Anyway have fun exercising",
+                "label": "ft"
+            },
+            {
+                "text": "All right",
+                "label": "fc"
+            },
+            {
+                "text": "All right bye-bye",
+                "label": "fc"
+            }
+        ]
+    }
+]

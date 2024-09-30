@@ -1,0 +1,359 @@
+[
+    {
+        "conversation_id": "conv_3286",
+        "turns": [
+            {
+                "text": "So what do you think about it",
+                "label": "qo"
+            },
+            {
+                "text": "Well I found it interesting that they started off with problems of immigration in America and then went back and said well if there is problem",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "what should we do about it",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I guess thats so",
+                "label": "b"
+            },
+            {
+                "text": "Do you feel theres problem with immigration in America",
+                "label": "qy"
+            },
+            {
+                "text": "Um uh I think theres some problems but theyre not really big ones I think that um in general the whole immigration policy isnt quite as open as it should be That its really pretty hard for people from other countries to get in here even if theyre educated and will be good asset to America Its often hard for them to get in and get on the track towards citizenship unless they marry citizen or something like that",
+                "label": "na"
+            },
+            {
+                "text": "Okay Thats interesting I was I was wondering what your response would be Im first generation American",
+                "label": "bk"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "So Im",
+                "label": "sd"
+            },
+            {
+                "text": "Uh where did you come from",
+                "label": "qw"
+            },
+            {
+                "text": "from immigrant parents",
+                "label": "+"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "Or an immigrant mother anyway",
+                "label": "+"
+            },
+            {
+                "text": "Okay so where did your parents come from",
+                "label": "b"
+            },
+            {
+                "text": "Uh Poland",
+                "label": "sd"
+            },
+            {
+                "text": "Okay And -",
+                "label": "bk"
+            },
+            {
+                "text": "And that was you know prior to World War Two",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But its interesting that you know with the topic I think I agree with you",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "There needs to be more of an open policy",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And you know we have to remember the Chinese came here and were our labor you know for the railroad Transatlantic Railroad and",
+                "label": "sd"
+            },
+            {
+                "text": "Yep",
+                "label": "aa"
+            },
+            {
+                "text": "our Irish came and you know built the towns and",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "did labor But what do you think are you from Texas or -",
+                "label": "+"
+            },
+            {
+                "text": "Im from Pennsylvania",
+                "label": "ng"
+            },
+            {
+                "text": "Pennsylvania Okay",
+                "label": "bk^m"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Well that will be interesting",
+                "label": "ba"
+            },
+            {
+                "text": "Right and uh",
+                "label": "b"
+            },
+            {
+                "text": "Because we have just",
+                "label": "sd"
+            },
+            {
+                "text": "lot of -",
+                "label": "+"
+            },
+            {
+                "text": "had Naturalization Act where the Mexicans that were residents in Texas Im from Texas --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and have become citizens now",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "What do you think about that",
+                "label": "qo"
+            },
+            {
+                "text": "Um I think thats all right I um - at least on the surface it sounds like good thing Do you have an opinion about it",
+                "label": "sv"
+            },
+            {
+                "text": "Well I agree with it wholeheartedly",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "The only thing is Ive got to share with you my background is from New Jersey",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So when you were giving your answer I was thinking is this Texan Im talking to",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "No okay",
+                "label": "nn"
+            },
+            {
+                "text": "Because Texan philosophy is little different",
+                "label": "sv"
+            },
+            {
+                "text": "Right Well lot of the experience that I have with this problem has to do with my brother-in-law whos Chinese and immigrated from China And um you know he um got green card is and is in good standing in America and China but only because he was always nice to the Chinese government",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and all that and he was always on pretty good terms with them",
+                "label": "+"
+            },
+            {
+                "text": "Yeah well we -",
+                "label": "b"
+            },
+            {
+                "text": "But um their - my sister just had baby and theyre trying to get permission for his mother to come to America to like help care for the kid and that sort of thing And its turned out to be sort of horrible problem Its just very difficult to get woman who doesnt have lot of assets or whatever out of China even temporarily to visit here",
+                "label": "%"
+            },
+            {
+                "text": "Oh well then you have first in the experience on immigration",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Well that is interesting",
+                "label": "ba"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Well I wonder you know even with those that were involved with Tienamens Square",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "You know did we really protect them",
+                "label": "qh"
+            },
+            {
+                "text": "Yeah thats and I think thats pretty crazy",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "because I mean those students who were in America when that was happening are almost certainly going to be in trouble if they go back and aside for that theyre the best and brightest of China so its certainly in our best selfish interest to keep them here if we can",
+                "label": "+"
+            },
+            {
+                "text": "That is true That is true Well what do you think about -",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "we have in Texas large Vietnamese population --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- that has been brought in",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "What do you think about that",
+                "label": "qo"
+            },
+            {
+                "text": "Um",
+                "label": "^h"
+            },
+            {
+                "text": "And these are not the brightest",
+                "label": "sd"
+            },
+            {
+                "text": "See these are refujees you mean",
+                "label": "qy^h"
+            },
+            {
+                "text": "I mean we --",
+                "label": "nd"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "-- were talking boat people",
+                "label": "+"
+            },
+            {
+                "text": "Right okay",
+                "label": "bk"
+            },
+            {
+                "text": "We have lot of boat people in Texas",
+                "label": "sd"
+            },
+            {
+                "text": "Right Well um I dont have any problem with that Um",
+                "label": "b"
+            },
+            {
+                "text": "Youre true liberal heart-to-heart Good for you",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah I guess so",
+                "label": "aa"
+            },
+            {
+                "text": "I was ready for fight on this one",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Right",
+                "label": "b"
+            },
+            {
+                "text": "No I agree because -",
+                "label": "nn"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "um interesting my when my daughter was in high school one of the custodians was Vietnamese --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and with his limited English they found out thr- you know that she was in student council and they found out that he was medical doctor",
+                "label": "sd"
+            }
+        ]
+    }
+]

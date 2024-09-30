@@ -1,0 +1,719 @@
+[
+    {
+        "conversation_id": "conv_2248",
+        "turns": [
+            {
+                "text": "All right Now we used to be big time campers but now were not quite so much since the kids are involved so much in sports",
+                "label": "o"
+            },
+            {
+                "text": "uh-huh What type of camping did you do",
+                "label": "b"
+            },
+            {
+                "text": "Well when we before we had kids we was in motorcycle group",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "you know - we went like twenty or thirty at time We took uh just our little tents",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and we did it that way Then when we started having children we bought camper",
+                "label": "sd"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know and we did it that way",
+                "label": "+"
+            },
+            {
+                "text": "Oh how neat",
+                "label": "ba"
+            },
+            {
+                "text": "So weve always enjoyed camping",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Well I know I have um I just have tent and the kids and I like to go out and camp in the tent",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And then I bought van and that way I can sleep in the van and be more comfortable",
+                "label": "sd"
+            },
+            {
+                "text": "Ye- yes Now we have friends with van",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and when they go on vacation lot of times theyll just sleep in the van you know",
+                "label": "sd"
+            },
+            {
+                "text": "Right Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Like one night and the next night theyll stay at the motel you know or something like that",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And they enjoy it",
+                "label": "sd"
+            },
+            {
+                "text": "Yes I dont I dont think Im real true trooper you know when it comes",
+                "label": "b"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "to camping",
+                "label": "+"
+            },
+            {
+                "text": "yeah Oh",
+                "label": "b"
+            },
+            {
+                "text": "All the bugs and stuff",
+                "label": "sd"
+            },
+            {
+                "text": "me either",
+                "label": "+"
+            },
+            {
+                "text": "But I I try",
+                "label": "sd"
+            },
+            {
+                "text": "I hate to be on all that stuff",
+                "label": "sd"
+            },
+            {
+                "text": "But but I try",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "ba"
+            },
+            {
+                "text": "you know to uh to get out there and enjoy everything But what was so fun though is that I had to take my son to the doctor this morning because he went out camping with some friends and he got poison ivy",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "and its all over him The poor thing you know - so theres definitely hazards to going camping if you dont know what youre looking at",
+                "label": "sd"
+            },
+            {
+                "text": "Yes yes",
+                "label": "aa"
+            },
+            {
+                "text": "Oh shoot",
+                "label": "fe"
+            },
+            {
+                "text": "Oh But now I enjoy it every once in while I mean its not something Id want to do real often",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Im sissy",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I either want to do it in the fall or spring",
+                "label": "sd"
+            },
+            {
+                "text": "Right Right",
+                "label": "aa"
+            },
+            {
+                "text": "You know",
+                "label": "qh"
+            },
+            {
+                "text": "Definitely when its cool",
+                "label": "bf"
+            },
+            {
+                "text": "Yes",
+                "label": "aa"
+            },
+            {
+                "text": "Well have you done much camping around Texas",
+                "label": "qy"
+            },
+            {
+                "text": "Well not really because usually its when we go off",
+                "label": "ng"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "you know like for couple weeks or so",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Its usually like that",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Well have you camped all over the United States",
+                "label": "b"
+            },
+            {
+                "text": "Just about",
+                "label": "na"
+            },
+            {
+                "text": "Wow",
+                "label": "ba"
+            },
+            {
+                "text": "Just about",
+                "label": "na^r"
+            },
+            {
+                "text": "See now I havent so that - I bet you thats an experience there",
+                "label": "sd"
+            },
+            {
+                "text": "Oh it really is",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "It really is",
+                "label": "sd^r"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Also I said we mostly did ours before we started family",
+                "label": "sd"
+            },
+            {
+                "text": "Right right",
+                "label": "b"
+            },
+            {
+                "text": "Its lot easier then",
+                "label": "sd"
+            },
+            {
+                "text": "Well I know my parents like to camp lot and they uh theyve been going to Gulf Shores Alabama",
+                "label": "sd"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh which is really really neat They said theyve got the white beaches and the sand",
+                "label": "+"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "and its not real populated so they can they feel like theyre in the outdoors and still close to the ocean",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh from what I understand from them its really really pretty there",
+                "label": "sd"
+            },
+            {
+                "text": "Oh Id like to go anywhere You know I just like to go",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I really do",
+                "label": "sd"
+            },
+            {
+                "text": "Well have you done much camping up in Kentucky and and those parts",
+                "label": "qy"
+            },
+            {
+                "text": "No",
+                "label": "nn"
+            },
+            {
+                "text": "in the mountains",
+                "label": "+"
+            },
+            {
+                "text": "not really not that much Um weve been well weve been to Wyoming you know and Kentucky and Montana and you know places like that But usually if were with group of people we really dont stay any one place very long",
+                "label": "ng"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know like if were just going through and they camp one night and then head on",
+                "label": "sd"
+            },
+            {
+                "text": "Right right",
+                "label": "b"
+            },
+            {
+                "text": "But now that we have children and we go every blue moon",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Id rather just go to Galveston",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "ba"
+            },
+            {
+                "text": "You know",
+                "label": "+"
+            },
+            {
+                "text": "yeah yeah rent beach house or something slash error",
+                "label": "b"
+            },
+            {
+                "text": "Yes yes",
+                "label": "aa"
+            },
+            {
+                "text": "yeah thats thats my idea of camping looks like the yeah should be an independent slash unit",
+                "label": "+@"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "But were uh were getting more into it and weve done uh weve done quite bit and uh uh the kids like to go out you know as often as they can",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Um so thats good You know theyre theyre becoming enthusiasts then of camping",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh It is My children really enjoys it They really do But by the time we really get chance to its July you know",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "and its so hot",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And our camper do- doesnt have an air conditioner",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "Yeah its one of those pop-ups Im sure you could put one in probably",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "but we hadnt did that",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh Yeah well thats really neat",
+                "label": "b"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "Well -",
+                "label": "%"
+            },
+            {
+                "text": "we all enjoy camping And theyre you know theyre in like and scouts and stuff like that you know",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "so they get to go camping in those organizations also",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "At least their Daddy goes with them I dont",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "when they do that But",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Oh thats neat",
+                "label": "b"
+            },
+            {
+                "text": "That really is",
+                "label": "+"
+            },
+            {
+                "text": "Thats really neat",
+                "label": "ba"
+            },
+            {
+                "text": "Well how old is your boys",
+                "label": "qw"
+            },
+            {
+                "text": "Well I",
+                "label": "sd"
+            },
+            {
+                "text": "your children",
+                "label": "+"
+            },
+            {
+                "text": "well I have um son thats uh going to be eleven here pretty soon",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and then daughter thats thirteen So theyre theyre getting old enough to where they can help out with campfire and",
+                "label": "+"
+            },
+            {
+                "text": "Oh yes",
+                "label": "ba"
+            },
+            {
+                "text": "cooking and and all that kind of stuff too",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Yes",
+                "label": "b"
+            },
+            {
+                "text": "So thats thats really neat",
+                "label": "ba"
+            },
+            {
+                "text": "It really is Mines eleven and eight",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So they really enjoy it too",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah Yeah I I agree with you They like to get out there and but this wasnt so fun this last time for Nathan to to get out there and he didnt realize he was touching poison ivy and it got all into his eye and it was really swollen and uh so they had to give him shots and everything so - oh well maybe next time hell stay away from those particular",
+                "label": "b"
+            },
+            {
+                "text": "Yeah yes",
+                "label": "b"
+            },
+            {
+                "text": "trees",
+                "label": "+"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "or what bushes whatever they are",
+                "label": "+"
+            },
+            {
+                "text": "Oh But I have uh brother-in-law and sister you know that just really just camp You know they love to go camping",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "They could they would all the time they wanted you know",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "wanted to because theres nothing holding them back",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But Im just not that involved in it",
+                "label": "sd"
+            },
+            {
+                "text": "No now I like to go out like several times year",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But not on on the regular basis I have some friends who go out every single weekend",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "when you know in the season",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh and and I just couldnt do that",
+                "label": "sd"
+            },
+            {
+                "text": "Me",
+                "label": "sd"
+            },
+            {
+                "text": "you know",
+                "label": "+"
+            },
+            {
+                "text": "I havent really as far as entertainment I dont know what you would do every",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "you know -",
+                "label": "+"
+            },
+            {
+                "text": "yeah",
+                "label": "b"
+            },
+            {
+                "text": "But I guess my entertainments",
+                "label": "sd"
+            },
+            {
+                "text": "Just getting away",
+                "label": "^2"
+            },
+            {
+                "text": "television I guess",
+                "label": "+"
+            },
+            {
+                "text": "Yeah right right see I see they just want to get away",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But every Friday night theyll go home you know straight from work and theyll pack up and you know and then theyll leave and Im just going you know - by Friday night I just want to crash you know and I want to go home and you know do all that",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I dont either",
+                "label": "sd"
+            },
+            {
+                "text": "and then uh get out on the road to boot so -",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But anyway thats their life",
+                "label": "sd"
+            },
+            {
+                "text": "Yes But they probably live in city also dont they",
+                "label": "b"
+            },
+            {
+                "text": "Yeah yeah thats true",
+                "label": "ny"
+            },
+            {
+                "text": "Well see were in real small county area",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and you know that makes big difference",
+                "label": "sv"
+            },
+            {
+                "text": "Now thats true Thats true",
+                "label": "aa"
+            },
+            {
+                "text": "Because if we want to go camping we can just go just few miles you know",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Thats true",
+                "label": "aa"
+            },
+            {
+                "text": "That makes difference",
+                "label": "sv"
+            },
+            {
+                "text": "Well it was nice talking with you",
+                "label": "fc"
+            },
+            {
+                "text": "It was nice talking to you too",
+                "label": "fc"
+            },
+            {
+                "text": "Okay",
+                "label": "fc"
+            },
+            {
+                "text": "and well probably be talking to you again",
+                "label": "fc"
+            },
+            {
+                "text": "Okay well take care",
+                "label": "fc"
+            },
+            {
+                "text": "Oka- okay bye-bye",
+                "label": "fc"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc"
+            }
+        ]
+    }
+]

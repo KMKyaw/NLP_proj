@@ -1,0 +1,803 @@
+[
+    {
+        "conversation_id": "conv_2982",
+        "turns": [
+            {
+                "text": "Okay now you can tell me what you do",
+                "label": "o"
+            },
+            {
+                "text": "Uh well I work with computers just like your son --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and I actually do research in speech recognition --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh great",
+                "label": "ba"
+            },
+            {
+                "text": "-- part of the reason Im participating in the project --",
+                "label": "sd^t"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- is to see how the stuff goes",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But um I was working - well actually I havent worked for any large companies per se --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh recently but hopefully the job that I will have will have lots of benefits --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- namely lots of vacations --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- not real good salary but lots of vacations",
+                "label": "+"
+            },
+            {
+                "text": "Well the one John works for seems to have - you know good benefits and the pay is decent",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah the uh - well actually where I was working the company - one of the companies I was working for actually had very good health care benefits --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- which these days I think are really important --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- because health care is so ridiculously expensive",
+                "label": "sv"
+            },
+            {
+                "text": "Uh",
+                "label": "%@"
+            },
+            {
+                "text": "Because were were paying our own insurance right now",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh uh-huh",
+                "label": "+@"
+            },
+            {
+                "text": "But and Im - we actually had little baby --",
+                "label": "%"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- so Im taking little bit of time off from work",
+                "label": "+"
+            },
+            {
+                "text": "Great I had I had granddaughter",
+                "label": "ba"
+            },
+            {
+                "text": "Oh congratulations And so one thing that Im very concerned with now is first of all health benefits because its more important with family --",
+                "label": "ba"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- and you know our doctors vi- routine doctors visits covered my health insurance only covers um the emergency care",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Do you have major medical benefits",
+                "label": "b"
+            },
+            {
+                "text": "Right yeah but I dont -",
+                "label": "na"
+            },
+            {
+                "text": "That that helps some if - it depends on what your deductible is --",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- how high it is",
+                "label": "+"
+            },
+            {
+                "text": "Well my - our deductibles five hundred but its for each --",
+                "label": "%"
+            },
+            {
+                "text": "Each person",
+                "label": "^2"
+            },
+            {
+                "text": "-- event",
+                "label": "+"
+            },
+            {
+                "text": "Yeah thats pretty har- thats pretty high",
+                "label": "aa"
+            },
+            {
+                "text": "Right but you know so it covers the emergency things but it doesnt cover if you get sick --",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- it doesnt cover --",
+                "label": "sd"
+            },
+            {
+                "text": "Thats thats right",
+                "label": "ba"
+            },
+            {
+                "text": "-- doctors visits things like that",
+                "label": "+"
+            },
+            {
+                "text": "And five hundred dollars is lot to come up with for each person to be able to start using your --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah it certainly is",
+                "label": "aa"
+            },
+            {
+                "text": "-- major medical too",
+                "label": "+"
+            },
+            {
+                "text": "Uh",
+                "label": "%"
+            },
+            {
+                "text": "Yeah I know where my daughter works now she she - course we live in rural sort of setting --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and where she works she has no benefits at all",
+                "label": "sd"
+            },
+            {
+                "text": "Wow",
+                "label": "ba"
+            },
+            {
+                "text": "And her wage is not not very good",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But its its the type of area we live in Of course living expenses arent as bad either though which makes difference",
+                "label": "sd"
+            },
+            {
+                "text": "And probably the medical care is less expensive too",
+                "label": "sv"
+            },
+            {
+                "text": "Well she has to pay for it herself --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know they have to pay for their own insurance But uh -",
+                "label": "sd"
+            },
+            {
+                "text": "So I think that in general the doctors fees are probably lower there and so the insurance would cost lower",
+                "label": "sd"
+            },
+            {
+                "text": "Uh well from what Ive seen - from my aunt and uncle really from Florida up to here - theyre not that much different",
+                "label": "sd"
+            },
+            {
+                "text": "Well I know that friends of mine had baby up in Boston --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and their costs were about fifty percent of what it cost to have it in Manhattan",
+                "label": "sd"
+            },
+            {
+                "text": "Is that right",
+                "label": "bh"
+            },
+            {
+                "text": "And they were at one of the better hospitals you know --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and you know good doctors in Boston",
+                "label": "sd"
+            },
+            {
+                "text": "Wow thats big difference",
+                "label": "ba"
+            },
+            {
+                "text": "And I was at one of the big hospitals in New York",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But thats huge difference just between --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know and its two big cities that I think of as somewhat comparable",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah should be",
+                "label": "aa"
+            },
+            {
+                "text": "So I was pretty shocked at that But the other thing that Im really concerned about and most companies dont have - some are starting to have is day care --",
+                "label": "sd"
+            },
+            {
+                "text": "Yes uh-huh",
+                "label": "b@"
+            },
+            {
+                "text": "-- because it would be really nice to be able to have you know someone that could watch my daughter at work And Id go to work and if she were sick I could go down and see her if she needs to be fed whatever",
+                "label": "sd"
+            },
+            {
+                "text": "And it would be much more convenient Yeah --",
+                "label": "^2"
+            },
+            {
+                "text": "And I -",
+                "label": "%"
+            },
+            {
+                "text": "-- it would be more convenient too",
+                "label": "^2^r"
+            },
+            {
+                "text": "It would be more convenient more productive --",
+                "label": "sv"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "aa"
+            },
+            {
+                "text": "-- I think",
+                "label": "+"
+            },
+            {
+                "text": "My other daughter works and has - they have to take their two children to day care you know",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh it its - I dont know how they do it I really dont You know getting them there and then and going to work and then picking them up and",
+                "label": "%"
+            },
+            {
+                "text": "And and your hours are",
+                "label": "^2"
+            },
+            {
+                "text": "all the preparations",
+                "label": "+"
+            },
+            {
+                "text": "much more constrained and things like that",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And that to me well that you know - those three things the health care vacation and day care --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- are probably the most important benefits",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I suppose I should be concerned with life insurance and uh retirement plans but -",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I dont know I think those benefits you mentioned sometimes theyre even more important than you- the wage itself",
+                "label": "h"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "If you can get those benefits even uh - they they come out to much much better benefit than than an increase in your wage lot of times",
+                "label": "sv"
+            },
+            {
+                "text": "Right because youre you know - certainly something like day care at the work place --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- would make life so much simpler --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- that its worth paying you know having lower salary I would certainly accept lower --",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- salary for that",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah it would make it lot better",
+                "label": "aa"
+            },
+            {
+                "text": "You know everything else being equal because your life would be so much easier",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And theres question of quality of life also",
+                "label": "sv"
+            },
+            {
+                "text": "Uh well and if it was there you would really have little more uh knowledge on whats going on --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- probably you know with your child",
+                "label": "+"
+            },
+            {
+                "text": "Right and you you you dont feel like youre half hour away if she --",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- something happened",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And youre less preoccupied with it I think",
+                "label": "+"
+            },
+            {
+                "text": "Right yeah",
+                "label": "b"
+            },
+            {
+                "text": "But unfortunately there arent - I think I has started having that in certain locations",
+                "label": "sv"
+            },
+            {
+                "text": "I dont know my daughter one daughter works for I and they dont they where she works they dont have anything like that",
+                "label": "h"
+            },
+            {
+                "text": "uh-huh Is that locally",
+                "label": "b"
+            },
+            {
+                "text": "Uh Pittsburgh",
+                "label": "ng"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Pittsburgh Pennsylvania",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah because Pittsburghs big enough city too",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But you know I wouldnt be surprised if things like that didnt happen more in smaller communities before they happen in bigger ones",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Just because people might be more flexible in smaller locations and --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- things like that Because many times small companies offer better benefits in terms of quality of life than larger companies",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Like uh one company had proposed to me that I could come back to work after having the baby um any where between ten and forty hours week",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And um call my own days call my own hours",
+                "label": "+"
+            },
+            {
+                "text": "Oh so they were very flexible --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and that that would be great yeah",
+                "label": "sv"
+            },
+            {
+                "text": "and which - many times at large company its almost impossible --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- to do things like that",
+                "label": "+"
+            },
+            {
+                "text": "They say youre going to do it this way and thats the way its going to be",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And if you get two weeks off you get two weeks off --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and youre not allowed two weeks and one day",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "So it all depends on what your position is there too",
+                "label": "sv"
+            },
+            {
+                "text": "True well thats true in any any company I think",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Ive Ive never well I cant say Ive never - Ive maybe worked five years out of our married life --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- out of the ho- you know out of the home --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but uh the rest of the time Ive been an Avon lady and lady",
+                "label": "sd"
+            },
+            {
+                "text": "Was that when you were um well - those have its pluses and minuses too Ive been consultant recently --",
+                "label": "qy"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and so I dont have any benefits at all and -",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh and you have to take care of any benefits you want yourself yeah",
+                "label": "b"
+            },
+            {
+                "text": "Right and the same thing - my husband is unfortunately being paid as consultant --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and we tried to argue that he should get more salary for that --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- than what he is and um they they they -",
+                "label": "+"
+            },
+            {
+                "text": "Usually consultants make very good income",
+                "label": "sv"
+            },
+            {
+                "text": "Right and they they refuse to give him more salary -",
+                "label": "b"
+            },
+            {
+                "text": "Is that right",
+                "label": "bh"
+            },
+            {
+                "text": "Because they say they cant pay more than this and that and theyre not allowed to pay him more --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- than what his previous salary was and things like that --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and you know times are rough now so its new - its harder to get --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- the uh you know increases and things --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but um -",
+                "label": "%"
+            },
+            {
+                "text": "consultant really is should be more knowledgeable than everybody else you know --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah well hes -",
+                "label": "aa"
+            },
+            {
+                "text": "-- so it stands to reason they should really ha- have more benefits",
+                "label": "sv"
+            },
+            {
+                "text": "Right well hes been doing long term - hes being called consultant and hes really sort of temporary employee at place",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And they they pay him as consultant but he doesnt get any health benefits he doesnt get well -- -",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "-- we dont care about retirement benefits He doesnt get um vacation benefits and --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- he does lot of things that get factored into somebody elses salary",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So really his salary should be you know twenty percent or thirty percent higher --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- just based on that not including --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- the fact that you know its less long term commitment for the company --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and all that sort of stuff",
+                "label": "+"
+            },
+            {
+                "text": "Yeah and theyll do it",
+                "label": "b"
+            }
+        ]
+    }
+]

@@ -1,0 +1,423 @@
+[
+    {
+        "conversation_id": "conv_3281",
+        "turns": [
+            {
+                "text": "Okay Diane And very good afternoon to you",
+                "label": "o"
+            },
+            {
+                "text": "And aft- good afternoon to you",
+                "label": "fp^m"
+            },
+            {
+                "text": "Do you uh do most of your cooking at home or do you uh have lot of people come in and have to prepare for them",
+                "label": "qy"
+            },
+            {
+                "text": "Um no I do most of my cooking at home and um I could safely say that I have never cooked for dinner party",
+                "label": "nn"
+            },
+            {
+                "text": "uh-huh My goodness Well what would you uh like to cook Whats what whats what is your favorite uh recipes uh that you would like to have --",
+                "label": "b"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "-- for dinner party Now youre in Dallas is it",
+                "label": "+"
+            },
+            {
+                "text": "Right Im in Dallas",
+                "label": "na"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "Of course um dinner parties down here probably oh turn out to be more things like barbecues And -",
+                "label": "sd"
+            },
+            {
+                "text": "I was I was thinking in terms of Mexican almost",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh yes",
+                "label": "b"
+            },
+            {
+                "text": "Tex- Tex-Mex",
+                "label": "+"
+            },
+            {
+                "text": "Yeah uh Tex-Mex uh Mexican food um --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- probably little bit different than what you serve up in Pennsylvania for dinner party",
+                "label": "+"
+            },
+            {
+                "text": "Well thats very interesting food though and when I go out to eat dinner sometimes --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- thats the type of foods I like to find",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "We have uh - I think som- Chicos - or or in these different restaurants --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- in this area that uh have all this fine Mexican foods But um if I were to cook uh dinner party uh it may be standard to you but uh actually I never get too much fried chicken",
+                "label": "+"
+            },
+            {
+                "text": "Fried chicken",
+                "label": "b^m"
+            },
+            {
+                "text": "But I would have fried chicken uh with reasonably hot sauce on it",
+                "label": "sd@"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Almost Mexican type thing And I love twice cooked potatoes Have you ever had twice cooked potatoes",
+                "label": "+@"
+            },
+            {
+                "text": "Oh yes I have",
+                "label": "ny"
+            },
+            {
+                "text": "With with cream made of the the sour cream and cream cheese and uh little oleo and I use uh oregano and --",
+                "label": "+@"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- maybe dill weed uh mixed in with it",
+                "label": "+@"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And uh I like broccoli casseroles --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- which would include onion and cheese and and more dill weed --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and some medium hot peppers As you can see Im inclined towards the Mexican type of meal",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And I would probably have some quiet and gentle fried onion rings mixed in there with it too",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So uh how would you improve upon that",
+                "label": "qo"
+            },
+            {
+                "text": "Oh improve upon that Lets see Id probably put bunch of fresh vegetables in And some -",
+                "label": "b^m"
+            },
+            {
+                "text": "More fresh vegetables",
+                "label": "b^m"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Included to that",
+                "label": "qy"
+            },
+            {
+                "text": "Uh green beans and uh --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- carrots and things like that",
+                "label": "+"
+            },
+            {
+                "text": "How do you cook your green beans",
+                "label": "qw"
+            },
+            {
+                "text": "My green beans",
+                "label": "b^m"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Um I just get fresh green beans from the grocery store and snap off the ends and put them in water and steam them for about ten minutes",
+                "label": "sd"
+            },
+            {
+                "text": "So you - -",
+                "label": "%"
+            },
+            {
+                "text": "And I like to put little Mrs Dash in with them",
+                "label": "sd"
+            },
+            {
+                "text": "All right thats what I was wondering about What what you use and and --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- in herbs and so forth",
+                "label": "+"
+            },
+            {
+                "text": "Right uh-huh Um I like to just put tablespoon or so of Mrs Dash in there",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And it makes them pretty tasty",
+                "label": "sd"
+            },
+            {
+                "text": "Have you ever tried Chinese type green beans",
+                "label": "qy"
+            },
+            {
+                "text": "The Chinese type Are they the real -",
+                "label": "b^m"
+            },
+            {
+                "text": "We use soy sauce",
+                "label": "sd"
+            },
+            {
+                "text": "No I havent ever used that",
+                "label": "nn"
+            },
+            {
+                "text": "Well you might uh be interested in that Have - it gives very delicious taste You you have soy sauce taste and you also have little cream sauce in there because you --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you would use the uh water and - uh golly Whats this white powder that that uh that you mix with water --",
+                "label": "+"
+            },
+            {
+                "text": "white powder",
+                "label": "b^m"
+            },
+            {
+                "text": "-- and gives thick sauce I cant even think of the name of that right at the moment",
+                "label": "+"
+            },
+            {
+                "text": "Um gosh",
+                "label": "ba"
+            },
+            {
+                "text": "Anyhow - sorry about my mind",
+                "label": "%"
+            },
+            {
+                "text": "Thats okay",
+                "label": "bd"
+            },
+            {
+                "text": "But uh it does make nice thick creamy sauce with the green beans --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and then you have nice soy sauce taste under it with few onions in there with it If it does -- -",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- it it brings out such so much different things in uh --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- in the string beans I I like it to try them differently I hardly ever cook them the same way twice",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Just so I can enjoy them So you might uh think about that",
+                "label": "+@"
+            },
+            {
+                "text": "Yeah I might try that",
+                "label": "aa"
+            },
+            {
+                "text": "Chinese cooking actually has lot of very delicious tastes to them",
+                "label": "sv"
+            },
+            {
+                "text": "Oh yes I love Chinese",
+                "label": "b"
+            },
+            {
+                "text": "And uh north African cooking is good --",
+                "label": "sd"
+            },
+            {
+                "text": "North African",
+                "label": "b^m"
+            },
+            {
+                "text": "-- when you use something called couscous",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And thats uh made from uh I think they call it beans And thats the type of something that whatever you mix with it this couscous uh absorbs the taste of whatever else you put in it where that makes very delicious dish You probably have to buy that from specialty stores",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And thats north African dish They eat it one to two meals everyday --",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "-- in north Africa And it is very very flexible You can do lot of things with it It makes fantastic uh uh salad with cucumbers and olive oil and onions and -",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Oh boy real tasty Well Ive enjoyed talking with you and I hope Ive --",
+                "label": "ba"
+            },
+            {
+                "text": "Well Ive enjoyed --",
+                "label": "fc^m"
+            },
+            {
+                "text": "-- given you some ideas --",
+                "label": "+"
+            },
+            {
+                "text": "-- talking with you",
+                "label": "+"
+            },
+            {
+                "text": "-- and uh thats one thing we can enjoy is good delicious food",
+                "label": "fc"
+            },
+            {
+                "text": "Oh yes",
+                "label": "fc"
+            },
+            {
+                "text": "Well thank you very much Miss Diane",
+                "label": "fc"
+            },
+            {
+                "text": "Okay thank you",
+                "label": "fc"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc^m"
+            }
+        ]
+    }
+]

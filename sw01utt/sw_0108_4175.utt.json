@@ -1,0 +1,499 @@
+[
+    {
+        "conversation_id": "conv_4175",
+        "turns": [
+            {
+                "text": "I dont believe that were -",
+                "label": "o"
+            },
+            {
+                "text": "So what do you think about uh recycling programs in Atlanta Julie",
+                "label": "qo"
+            },
+            {
+                "text": "The recycling program here is just terrible I mean its hard to find places to go I mean Kroger does couple things They I dont think they do they do newspapers",
+                "label": "sd"
+            },
+            {
+                "text": "I dont know theres theres big bins out there I dont know if they ever get - I I really dont know what the details are There should be someplace where you could call and find out As matter of fact Im pretty sure theres place you can call and find out the closest you know thing to you but I think there should be some kind of curbside service",
+                "label": "no"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Thats the only way I could really -",
+                "label": "sd"
+            },
+            {
+                "text": "The one in Florida is so cool because they pick up everything They pick up newspapers and uh you know milk jugs and aluminum and tin cans you know like soup comes in and stuff",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "sd"
+            },
+            {
+                "text": "They pick up everything",
+                "label": "sd^r"
+            },
+            {
+                "text": "During the summers like the around where I live the uh homeless people see- - I mean they all have like shopping carts and --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- stuff and theyre go around and collect cans --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and aluminum and stuff and so we used to just save them up and then theyd come around and wed give them to them",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But when - during the winter time I think they they move south or something --",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- so I dont do that anymore And the the recycling at Georgia Tech like that uh outside the uh student center --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "sd"
+            },
+            {
+                "text": "-- they never empty those things",
+                "label": "+"
+            },
+            {
+                "text": "I know it I know it",
+                "label": "aa"
+            },
+            {
+                "text": "They just overflow",
+                "label": "sd"
+            },
+            {
+                "text": "It piles up",
+                "label": "sd"
+            },
+            {
+                "text": "So whats guy to do You know Shouldnt this end in slash",
+                "label": "qh"
+            },
+            {
+                "text": "I just dont know",
+                "label": "h"
+            },
+            {
+                "text": "I asked myself",
+                "label": "h"
+            },
+            {
+                "text": "I just dont know and now they have like bins and stuff that are little more convenient because mean until seven oclock you got to pay to park at the student center you cant really unload all your stuff",
+                "label": "h"
+            },
+            {
+                "text": "Really Huh oh yeah thats true hadnt thought about that That is very inconvenient",
+                "label": "bh"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Inconvenient even",
+                "label": "sv^r"
+            },
+            {
+                "text": "I know it I know it",
+                "label": "aa"
+            },
+            {
+                "text": "But uh - so you do recycle dont you",
+                "label": "%"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah Im kind of Im kind of bad about it",
+                "label": "b"
+            },
+            {
+                "text": "The -",
+                "label": "%"
+            },
+            {
+                "text": "If I if see - if I see pile of cans or bottles or something --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- Ill throw it in there but I dont really I dont ever take anything",
+                "label": "+"
+            },
+            {
+                "text": "Well I mean its real - you ought to because the the the farmers market recycles absolutely everything",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And since we go there all the time I mean -- -",
+                "label": "sd"
+            },
+            {
+                "text": "But wait --",
+                "label": "^h"
+            },
+            {
+                "text": "-- probably at all",
+                "label": "sd"
+            },
+            {
+                "text": "-- Ive never seen you before Who are you",
+                "label": "sd"
+            },
+            {
+                "text": "Oh by the way may names Julie",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah my names Bill Well -",
+                "label": "b"
+            },
+            {
+                "text": "Hi",
+                "label": "fp"
+            },
+            {
+                "text": "Hi",
+                "label": "fp"
+            },
+            {
+                "text": "Im from Atlanta",
+                "label": "sd"
+            },
+            {
+                "text": "Me too",
+                "label": "sd"
+            },
+            {
+                "text": "Neat",
+                "label": "ba"
+            },
+            {
+                "text": "Crazy Uh well is there anything else youd like to share me about your recycling philosophy Julie",
+                "label": "ba"
+            },
+            {
+                "text": "I just think that everybody ought to do it",
+                "label": "sd"
+            },
+            {
+                "text": "Do they do - like what about like uh - what kind of plastic stuff can you recycle do you know",
+                "label": "qy"
+            },
+            {
+                "text": "The only thing I know that you can recycle is milk jugs",
+                "label": "sd"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "What about like those grocery bags",
+                "label": "qw"
+            },
+            {
+                "text": "Oh yeah they have uh - uh what I what I used to uh - now that I dont go to the grocery store much its kind of moot but I used to just save up the ones that I got one time --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and then go and hand them to them the next time and use them over and over",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "- but also most places like Big Star does and Im not sure if Kroger does or not but -",
+                "label": "sd"
+            },
+            {
+                "text": "Theyll ask you whether you want bags or paper or plastic",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah and they they have like little little boxes that you can put your old bags in",
+                "label": "aa"
+            },
+            {
+                "text": "uh",
+                "label": "b"
+            },
+            {
+                "text": "Can bring them in",
+                "label": "sd"
+            },
+            {
+                "text": "Those petroleum products are going to kill us",
+                "label": "sv"
+            },
+            {
+                "text": "I know it I know it",
+                "label": "aa"
+            },
+            {
+                "text": "The hostile planet I think Julie",
+                "label": "sv"
+            },
+            {
+                "text": "It really is small hostile planet",
+                "label": "sv"
+            },
+            {
+                "text": "The petroleum pretty much I mean those petroleum products I think are the big uh you know --",
+                "label": "sv"
+            },
+            {
+                "text": "Did you know that -",
+                "label": "qy"
+            },
+            {
+                "text": "-- the great Satan of the recycling",
+                "label": "+"
+            },
+            {
+                "text": "No really not Did you know that like something like fifty percent of the worlds landfills is like paper",
+                "label": "ar"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "Filled with paper",
+                "label": "+"
+            },
+            {
+                "text": "Paper just seems so innocuous",
+                "label": "sv"
+            },
+            {
+                "text": "Huh",
+                "label": "br"
+            },
+            {
+                "text": "Paper doesnt seem threatening at all you know",
+                "label": "sv"
+            },
+            {
+                "text": "Well it is it is though",
+                "label": "sd"
+            },
+            {
+                "text": "It comes from trees How can it be bad",
+                "label": "sd"
+            },
+            {
+                "text": "It is because they -",
+                "label": "sd"
+            },
+            {
+                "text": "They treat it with chemicals or something Why cant trees break down I dont get it",
+                "label": "qy^d"
+            },
+            {
+                "text": "Well they do treat paper with chemicals like yellow paper you know --",
+                "label": "sd"
+            },
+            {
+                "text": "Yep",
+                "label": "b"
+            },
+            {
+                "text": "-- takes something like twenty times as long to decompose",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "You know you can bury piece of yellow paper it will still be there in couple of weeks",
+                "label": "sd"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah --",
+                "label": "aa"
+            },
+            {
+                "text": "Huh",
+                "label": "%"
+            },
+            {
+                "text": "-- it will be whole Youll be able to read --",
+                "label": "sd"
+            },
+            {
+                "text": "Im going to switch --",
+                "label": "cc"
+            },
+            {
+                "text": "-- off of it",
+                "label": "+"
+            },
+            {
+                "text": "-- from those yellow legal pads then",
+                "label": "+"
+            },
+            {
+                "text": "Yeah um",
+                "label": "b"
+            },
+            {
+                "text": "Im glad you told me that because I use those at work where I work and uh But I can just --",
+                "label": "sd"
+            },
+            {
+                "text": "- -",
+                "label": "%"
+            },
+            {
+                "text": "-- forget that from now on Im going - Im going to switch to the white ones",
+                "label": "+"
+            },
+            {
+                "text": "Well white papers bad too They they treat it too",
+                "label": "sd"
+            },
+            {
+                "text": "Well what about uh papyrus you know made out of bam- you know bamboo stuff from the --",
+                "label": "qo"
+            },
+            {
+                "text": "Im sure thats fine",
+                "label": "sd"
+            },
+            {
+                "text": "-- from the --",
+                "label": "+"
+            },
+            {
+                "text": "Im sure",
+                "label": "sd"
+            },
+            {
+                "text": "-- banks of the Nile",
+                "label": "+"
+            },
+            {
+                "text": "Maybe we ought to just start carving in stone again",
+                "label": "ad"
+            },
+            {
+                "text": "You think so",
+                "label": "bh"
+            },
+            {
+                "text": "Maybe",
+                "label": "no"
+            },
+            {
+                "text": "Tablets",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "I think we should just abandon the you know the written word --",
+                "label": "sv"
+            },
+            {
+                "text": "You think",
+                "label": "bh"
+            },
+            {
+                "text": "-- altogether you know",
+                "label": "+"
+            },
+            {
+                "text": "I dont know well I mean",
+                "label": "am"
+            },
+            {
+                "text": "What do you think",
+                "label": "qo"
+            },
+            {
+                "text": "I think weve kind of you know - I mean everybody everybody --",
+                "label": "+"
+            },
+            {
+                "text": "Kind of radical I know but -",
+                "label": "sv"
+            },
+            {
+                "text": "-- everybody has computer We would no longer need --",
+                "label": "+"
+            },
+            {
+                "text": "Thats true",
+                "label": "aa"
+            },
+            {
+                "text": "-- paper at all",
+                "label": "+"
+            },
+            {
+                "text": "Everyone had two way wrist watch - on their wrist like uh Dick Tracy",
+                "label": "ad"
+            },
+            {
+                "text": "I would love that",
+                "label": "sd"
+            }
+        ]
+    }
+]

@@ -1,0 +1,467 @@
+[
+    {
+        "conversation_id": "conv_3326",
+        "turns": [
+            {
+                "text": "Okay My children are all grown up",
+                "label": "o"
+            },
+            {
+                "text": "Oh Okay well now see Ive got two children and uh theyre - one is - uh just turned to be teenager and the other one is on his way so -",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I uh Im single parent so I think it makes it more difficult for me to uh you know find time with my my children since I --",
+                "label": "sd"
+            },
+            {
+                "text": "Ill bet",
+                "label": "ba"
+            },
+            {
+                "text": "-- work and then of course take care of the house - and all this good kind of stuff Uh so its real uh its real problem for me",
+                "label": "+"
+            },
+            {
+                "text": "Ill bet it is",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "What is the favorite thing you do with your children",
+                "label": "qw"
+            },
+            {
+                "text": "Uh the the thing that we like to do the most is to watch together",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh the kids like to play Nintendo but Im no good at it so I dont like to play",
+                "label": "sd"
+            },
+            {
+                "text": "You just watch them play huh",
+                "label": "qy"
+            },
+            {
+                "text": "Thats right thats right",
+                "label": "na"
+            },
+            {
+                "text": "I I tried it once or twice but I didnt feel like I was very good at it either",
+                "label": "sd"
+            },
+            {
+                "text": "Me either",
+                "label": "aa"
+            },
+            {
+                "text": "My grandson got me to one day but -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah they talk about these different levels and stuff and Ive never got off of level one",
+                "label": "b"
+            },
+            {
+                "text": "Different worlds --",
+                "label": "sd"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "-- and how do you get to another world you know And I I dont even know what theyre talking about",
+                "label": "qh"
+            },
+            {
+                "text": "I I know I agree with you so uh But no the other thing I think we like to go to the movies too",
+                "label": "aa"
+            },
+            {
+                "text": "Do you",
+                "label": "qy"
+            },
+            {
+                "text": "Thats - yeah thats thats neat thing So I guess were all in uh you know movie uh fanatics or whatever around here",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So we like to do those kind of things",
+                "label": "sd"
+            },
+            {
+                "text": "I know when our kids were growing up our we were big into water sports",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "We had boat and they all skied and in the summer we spent most weekends on the lake with them skiing and they always took other friends with them and we had lot of fun doing that but --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh how neat",
+                "label": "ba"
+            },
+            {
+                "text": "-- I had all girls --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- so we didnt do too much sports wise",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "I find my grandchildren are very involved in soccer and baseball --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- little boys do all of those things --",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- but -",
+                "label": "%"
+            },
+            {
+                "text": "Oh yeah Yeah see I have son and uh you know its football in the fall and and baseball in the spring and and --",
+                "label": "b^r"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- its one activity after another I Im constantly going back and forth",
+                "label": "+@"
+            },
+            {
+                "text": "Ill bet you really are",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah And my daughter has uh tennis so its between tennis and and bowling My - I bowl so you know were pretty active as sports you know --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- in in the family so",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "It its really neat",
+                "label": "+@"
+            },
+            {
+                "text": "Well when mine were real little they all played soccer but you know that was just for couple of years --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- when they were pretty small for girls and then they got more interested in other things",
+                "label": "+"
+            },
+            {
+                "text": "Boys",
+                "label": "^2"
+            },
+            {
+                "text": "Im not sure that they would admit it at that age that it was boys but I think thats probably what it was",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah I I know that uh my daughter uh even though she goes out with the the sports and everything uh yeah she likes to watch the football for uh the kids Im sorry",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh that was cat that hit the telephone Get away cat gosh I guess its why they wanted to do it on this type of telephone because theres all kind of activity that goes on But uh yeah my uh my kids are theyre starting to grow up you know Its not going to be too many more years before I uh uh you know theyll be gone and and uh there wont be as many activities Do you uh -",
+                "label": "sd"
+            },
+            {
+                "text": "But they - but you enjoy them I think the older mine get the more I enjoy them",
+                "label": "%"
+            },
+            {
+                "text": "Yeah I I agree with you I I do Im so glad theyre out of the that young real young --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- age and the babies -",
+                "label": "+"
+            },
+            {
+                "text": "And I mean I didnt - it wasnt that I didnt like them --",
+                "label": "%"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- when they were little but the older they got I enjoyed them as teenagers",
+                "label": "+"
+            },
+            {
+                "text": "Yes yes",
+                "label": "b"
+            },
+            {
+                "text": "And now that theyre each - of course three girls theyre each becoming the theyve all become women in themselves that its been neat to watch them",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "How - what kind of mothers they are - what kind of --",
+                "label": "%"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- wives you know -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah thats so true",
+                "label": "b"
+            },
+            {
+                "text": "How they do things and -",
+                "label": "sd"
+            },
+            {
+                "text": "Well do you do the do your daughters live close where you can go out",
+                "label": "qy"
+            },
+            {
+                "text": "Two of them live real close to me",
+                "label": "na"
+            },
+            {
+                "text": "Oh good",
+                "label": "ba"
+            },
+            {
+                "text": "So we we spend lot - most of our time spent with them is they come over to eat",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "And bring the kids and we play with the kids you know",
+                "label": "+@"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But uh -",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Where - oh - we go camp out they camp out --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and we spend weekends at the in the country with them --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- quite bit but --",
+                "label": "+"
+            },
+            {
+                "text": "Uh",
+                "label": "b@"
+            },
+            {
+                "text": "-- as far as doing any activity now that the grand kids are here we all just stay around the house mostly",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah Thats true",
+                "label": "+@"
+            },
+            {
+                "text": "Its too much effort to go somewhere with all the kids",
+                "label": "sv"
+            },
+            {
+                "text": "Oh yes oh yes Boy I know especially when they grow up like that so Im trying to these last five or six years Im trying to make them really special and --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh very precious since thats uh about the only time weve got left",
+                "label": "+"
+            },
+            {
+                "text": "Theyll always remember it too",
+                "label": "sv"
+            },
+            {
+                "text": "Yes yes absolutely I I think so too",
+                "label": "aa"
+            },
+            {
+                "text": "I hear mine saying well I remember mother and daddy used to take us to do so and so I need to take my boys to do this or that you know",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I remember the year we went to Disneyworld as quick as my kids are big enough were going to go to Disneyworld You know",
+                "label": "sd@"
+            },
+            {
+                "text": "There we go I know I know they cant wait",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah they just really cant wait to be able to take their kids where they had fun",
+                "label": "b"
+            },
+            {
+                "text": "Thats right thats right",
+                "label": "aa"
+            },
+            {
+                "text": "But -",
+                "label": "%"
+            },
+            {
+                "text": "Yeah so well I still got few more years so Im uh Im hanging onto those and doing as much activity as I can with them",
+                "label": "b"
+            },
+            {
+                "text": "Do you work",
+                "label": "qy"
+            },
+            {
+                "text": "Yes uh-huh I sure do",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I work full time so uh it it - that cuts into our free time right there",
+                "label": "sd"
+            },
+            {
+                "text": "It really does The time you have with them has to be quality time then",
+                "label": "aa"
+            },
+            {
+                "text": "Thats right thats right and uh vacations are very special for us and activities",
+                "label": "aa"
+            },
+            {
+                "text": "I imagine that they have uh some lot of homework too",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah You know this being school night and stuff so uh its its in the same old - you know routine of uh you know doing homework and you know trying to talk between all of that and and uh the other activities that we all have",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh uh-huh Well theres just so many things to do with them nowadays though and especially if theyre active kids",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Like you say you bowl",
+                "label": "qy^d"
+            }
+        ]
+    }
+]

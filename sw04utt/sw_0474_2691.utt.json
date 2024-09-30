@@ -1,0 +1,563 @@
+[
+    {
+        "conversation_id": "conv_2691",
+        "turns": [
+            {
+                "text": "Okay Jay where do you live in Texas",
+                "label": "o"
+            },
+            {
+                "text": "I live in Dallas",
+                "label": "sd"
+            },
+            {
+                "text": "In Dallas",
+                "label": "b^m"
+            },
+            {
+                "text": "uh right at the intersection of the busiest highway in the state And uh it goes east and west and north south tollway",
+                "label": "sd"
+            },
+            {
+                "text": "Whats that the I Thirty and Central --",
+                "label": "qy"
+            },
+            {
+                "text": "Its - no its --",
+                "label": "%"
+            },
+            {
+                "text": "-- express",
+                "label": "+"
+            },
+            {
+                "text": "-- called Six Thirty-Fives the highway",
+                "label": "+"
+            },
+            {
+                "text": "Okay yeah",
+                "label": "bk"
+            },
+            {
+                "text": "Its the looper that goes around the city --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- and then uh the tollway is called the Dallas North Tollway",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Just moved here about uh oh uh one about month ago --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh is that right",
+                "label": "bh"
+            },
+            {
+                "text": "-- after twenty-one years two miles to the east",
+                "label": "+"
+            },
+            {
+                "text": "Oh how about that",
+                "label": "bh"
+            },
+            {
+                "text": "So its very different house from the typical Dallas uh",
+                "label": "sd"
+            },
+            {
+                "text": "Its --",
+                "label": "qy"
+            },
+            {
+                "text": "house",
+                "label": "+"
+            },
+            {
+                "text": "-- new home",
+                "label": "+"
+            },
+            {
+                "text": "Its about eight years old",
+                "label": "no"
+            },
+            {
+                "text": "About eight years",
+                "label": "b^m"
+            },
+            {
+                "text": "its uh its duplex type thing",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "Uh very modern and uh very open and airy --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- light So its different than the than the long Texas ramblers",
+                "label": "+"
+            },
+            {
+                "text": "Right uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^m"
+            },
+            {
+                "text": "Well we --",
+                "label": "sd"
+            },
+            {
+                "text": "Whats your house like",
+                "label": "qw"
+            },
+            {
+                "text": "-- we live in brick story and half uh Cape Cod style I guess youd --",
+                "label": "+"
+            },
+            {
+                "text": "Oh great yeah",
+                "label": "ba"
+            },
+            {
+                "text": "-- call it And uh have big sun room on the back of it",
+                "label": "+"
+            },
+            {
+                "text": "So its got lot of - openness and light also",
+                "label": "qy"
+            },
+            {
+                "text": "No",
+                "label": "nn"
+            },
+            {
+                "text": "Oh it doesnt",
+                "label": "qy"
+            },
+            {
+                "text": "it doesnt have",
+                "label": "ng"
+            },
+            {
+                "text": "Well thats what my wife really wanted and so uh -",
+                "label": "sd"
+            },
+            {
+                "text": "With openness and light",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah thats -",
+                "label": "ny"
+            },
+            {
+                "text": "I understand that I would love that too",
+                "label": "ba"
+            },
+            {
+                "text": "Uh our our last house wasnt too bad but it was just too traditional",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and so if uh -",
+                "label": "%"
+            },
+            {
+                "text": "Yeah this is very traditional",
+                "label": "b"
+            },
+            {
+                "text": "the - the next time uh probably year and half from now were going to try to build",
+                "label": "sd"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So make one really uh contemporary and and very modern and very open and very light",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Do you have children at home",
+                "label": "b"
+            },
+            {
+                "text": "No I have three in college",
+                "label": "nn"
+            },
+            {
+                "text": "Three Oh boy",
+                "label": "bh"
+            },
+            {
+                "text": "They they usually get back for the at least two of them for the summer so",
+                "label": "sd"
+            },
+            {
+                "text": "You still need --",
+                "label": "qy^d"
+            },
+            {
+                "text": "But -",
+                "label": "+"
+            },
+            {
+                "text": "-- space plenty of space",
+                "label": "+"
+            },
+            {
+                "text": "Still need little bit of space We we have lot less than we had",
+                "label": "na"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "uh recently",
+                "label": "+"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "Already cut back",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Well -",
+                "label": "b"
+            },
+            {
+                "text": "How big is your place",
+                "label": "qw"
+            },
+            {
+                "text": "Its uh oh about twenty-five thousand twenty-five hundred square feet",
+                "label": "sd"
+            },
+            {
+                "text": "Oh --",
+                "label": "ba"
+            },
+            {
+                "text": "I guess",
+                "label": "+"
+            },
+            {
+                "text": "-- thats good size",
+                "label": "+"
+            },
+            {
+                "text": "Its four bedrooms and two baths and that",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah We",
+                "label": "b"
+            },
+            {
+                "text": "It --",
+                "label": "sd"
+            },
+            {
+                "text": "we had -",
+                "label": "+"
+            },
+            {
+                "text": "-- has one wing built on thats kitchen family room and then the big room on the back Uh",
+                "label": "+"
+            },
+            {
+                "text": "Yeah we had four bedrooms two and half baths uh in the place we just left",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So down now were down to two and two",
+                "label": "sd"
+            },
+            {
+                "text": "Two and two uh-huh",
+                "label": "b^m"
+            },
+            {
+                "text": "uh-huh So it wont be terribly wonderful when the kids are home but it wont be that long because we not for sure you know how long theyre going to stay or whatever",
+                "label": "b^m"
+            },
+            {
+                "text": "Right uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "I was just reading an article uh that there were nineteen thousand properties available in Texas uh for sale by the Reso- Resolution Trust Com- Corporation",
+                "label": "qy"
+            },
+            {
+                "text": "Oh yes",
+                "label": "ny"
+            },
+            {
+                "text": "Repossessed",
+                "label": "sd"
+            },
+            {
+                "text": "Yes and if you get in the if if you can find one in the right area you can really --",
+                "label": "ny"
+            },
+            {
+                "text": "I",
+                "label": "sd"
+            },
+            {
+                "text": "-- pick up steal",
+                "label": "+"
+            },
+            {
+                "text": "I guess so",
+                "label": "+"
+            },
+            {
+                "text": "Uh we we really didnt go that route and didnt look Uh but uh the planning of them - and the the housing market probably still going to even go lower There are many many houses ju- for sale just by the regular route",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So uh -",
+                "label": "%"
+            },
+            {
+                "text": "Thats discouraging if you own property",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah And we just decided uh uh sell And we got we got pretty good price uh for for what we had Uh not as good as it would have been --",
+                "label": "aa"
+            },
+            {
+                "text": "Few years -",
+                "label": "^2"
+            },
+            {
+                "text": "-- say three or four --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- years ago But that uh that was just the timing",
+                "label": "+"
+            },
+            {
+                "text": "Right Well our daughter and son-in-law moved up back up here Hes from Texas but course shes from here uh about year and half ago",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and had their house on the market down there and they never did sell it So they stayed six months and she got her job back and --",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- he got job down there Because -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah theyre not moving very well",
+                "label": "b"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "nn"
+            },
+            {
+                "text": "For sure",
+                "label": "ba"
+            },
+            {
+                "text": "Nope",
+                "label": "nn"
+            },
+            {
+                "text": "And thats good uh example of it",
+                "label": "sv"
+            },
+            {
+                "text": "They live in Rowlett",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah I know where that is Ive been weve been here for twenty-five years",
+                "label": "b"
+            },
+            {
+                "text": "Have you",
+                "label": "bh"
+            },
+            {
+                "text": "Im from Missouri and my wifes from Kansas so --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- I te- I teach at college here So its uh its sort of home now",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "What college are you teaching at",
+                "label": "qw"
+            },
+            {
+                "text": "Im at uh one of the Brook- uh its called Brookhaven College Its one of the community colleges",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "And its just about two miles to the west of --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- where Im living So its very nice",
+                "label": "+"
+            },
+            {
+                "text": "The only one I know --",
+                "label": "sd"
+            },
+            {
+                "text": "very convenient",
+                "label": "+"
+            },
+            {
+                "text": "-- is Richardson",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Now Richland College is out it serves Richardson and uh Garland",
+                "label": "b"
+            },
+            {
+                "text": "Garland uh-huh",
+                "label": "b^m"
+            },
+            {
+                "text": "And thats about nine miles to the east --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- of here So uh anyway well its good to hear from you",
+                "label": "+"
+            },
+            {
+                "text": "Well I enjoyed --",
+                "label": "fc"
+            },
+            {
+                "text": "And I hope we",
+                "label": "fc"
+            },
+            {
+                "text": "-- talking to you",
+                "label": "+"
+            },
+            {
+                "text": "hope we did them some --",
+                "label": "+"
+            },
+            {
+                "text": "I hope so",
+                "label": "fc"
+            },
+            {
+                "text": "-- good uh on their little computer --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- dealy And uh have good life the rest of it",
+                "label": "+"
+            },
+            {
+                "text": "Okay thank you same to you",
+                "label": "fc"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc^m"
+            }
+        ]
+    }
+]

@@ -1,0 +1,927 @@
+[
+    {
+        "conversation_id": "conv_2960",
+        "turns": [
+            {
+                "text": "Well do you watch much",
+                "label": "qy"
+            },
+            {
+                "text": "Well I watch in the evening with my kids",
+                "label": "na"
+            },
+            {
+                "text": "Your kids How many kids do you have",
+                "label": "bf"
+            },
+            {
+                "text": "I have four children",
+                "label": "sd"
+            },
+            {
+                "text": "Oh goodness I have got two",
+                "label": "ba"
+            },
+            {
+                "text": "Well -",
+                "label": "%"
+            },
+            {
+                "text": "That is about all I want",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah it keeps you busy doesnt it",
+                "label": "b"
+            },
+            {
+                "text": "Yeah they do They are still babies",
+                "label": "ny"
+            },
+            {
+                "text": "Uh my children like to watch SESAME STREET I watch with them every once in while but that is not my favorite programs",
+                "label": "sd"
+            },
+            {
+                "text": "Oh well We have only get two channels We do not have cable",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But I am not crazy about much It just - well it kind of is an idiot box Now SESAME STREET is good program --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- because uh - I do have that on videotape and I will let him watch that every once in while And he has learned to count to twenty from that So -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah It can be very --",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- educational There are shows th- that I like Uh I like good family shows",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "uh though Uh I let my kids watch things like LITTLE HOUSE ON THE PRAIRIE",
+                "label": "+"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "And the COSBY SHOW is uh is uh kind of unrealistic as family unless you live in upper class and have money",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "I think that sometimes the things they show on there though uh - the problems that their kids get into are are good to uh show that they do have problems anyway",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Uh",
+                "label": "%"
+            },
+            {
+                "text": "But they also have lot easier time disciplining their kids than real people do",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah I mean like I said real life is not that easy",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And uh I watch show that I like i- for entertainment Uh it is called the QUANTUM LEAP",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I love QUANTUM LEAP",
+                "label": "sd"
+            },
+            {
+                "text": "I watch that show every time",
+                "label": "sd"
+            },
+            {
+                "text": "Um yes",
+                "label": "b@"
+            },
+            {
+                "text": "and uh -",
+                "label": "%"
+            },
+            {
+                "text": "That is good show",
+                "label": "+@"
+            },
+            {
+                "text": "I I like uh how the how he has to help with the people that he that he becomes",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh because it is not show that he just becomes these people and then he lives there for while and then he is gone",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "He has to do something positive to help them",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "So I -",
+                "label": "%"
+            },
+            {
+                "text": "He always got to change history is what it is",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Usually yeah",
+                "label": "b"
+            },
+            {
+                "text": "It -",
+                "label": "%"
+            },
+            {
+                "text": "That it is so good I was glad when they put that back on this channel",
+                "label": "sv"
+            },
+            {
+                "text": "Me too me too",
+                "label": "sd"
+            },
+            {
+                "text": "because like I said we only get two channels because we do not get cable",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And still my little boy he watches videotapes He wont um - this is terrible I do not like him sitting in front of the all day",
+                "label": "sd"
+            },
+            {
+                "text": "No that is not terrible",
+                "label": "nd"
+            },
+            {
+                "text": "Well",
+                "label": "%"
+            },
+            {
+                "text": "I do not think that is terrible at all",
+                "label": "sd"
+            },
+            {
+                "text": "It - but it is not really good baby sitter",
+                "label": "+"
+            },
+            {
+                "text": "Well -",
+                "label": "%"
+            },
+            {
+                "text": "It is really not He needs to get outside and play And he is four years old and he just does not like to go out there by himself And I will let him watch the when I am wanting to get my house work done",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But other than that I do not like him glued to the all the time",
+                "label": "sd"
+            },
+            {
+                "text": "Well I do not think it is it is healthy all the time either",
+                "label": "sv"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "Uh and my kids like to to go play with their friends and so I guess I do not mind too much when they do watch little bit Now I - there are shows - I do not have cable either And there are shows that I really put my foot down on If there starts to be lot of violence",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I do not go for that I will not let them watch that If --",
+                "label": "+"
+            },
+            {
+                "text": "Well we made the mis- -",
+                "label": "%"
+            },
+            {
+                "text": "-- there is lot of language or -",
+                "label": "+"
+            },
+            {
+                "text": "Right We made the mistake of getting ROBOCOP And that is one of the worst oh I do not let him watch it anymore Because --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- the the pieces like especially where they kill somebody it is just not good I mean it is just real violent I mean -",
+                "label": "+"
+            },
+            {
+                "text": "Well it you know - today I watched - and it is like they show bloody",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "you know things and they show it in slow motion And",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and everything like that And before in western or something in the in the olden days -",
+                "label": "+"
+            },
+            {
+                "text": "You would see somebody get shot they would just fall down",
+                "label": "sd^2"
+            },
+            {
+                "text": "Yeah And they were gone",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And and it was not uh",
+                "label": "sv"
+            },
+            {
+                "text": "So graphic",
+                "label": "^2"
+            },
+            {
+                "text": "not like today Uh",
+                "label": "+@"
+            },
+            {
+                "text": "Today it is it is really graphic They try to make --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- it too realistic",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And -",
+                "label": "%"
+            },
+            {
+                "text": "Too much realism I think",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "sometimes I dont -",
+                "label": "+"
+            },
+            {
+                "text": "Now he is watching HONEY I SHRUNK THE KIDS right now",
+                "label": "sd"
+            },
+            {
+                "text": "Oh that is fun show",
+                "label": "sv"
+            },
+            {
+                "text": "It is it is cute",
+                "label": "sv"
+            },
+            {
+                "text": "Oh I really --",
+                "label": "sd"
+            },
+            {
+                "text": "And that -",
+                "label": "%"
+            },
+            {
+                "text": "-- like that one",
+                "label": "+"
+            },
+            {
+                "text": "little ROGER RABBIT on before that",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "That is cute And they have got THE HE MAN uh",
+                "label": "sv"
+            },
+            {
+                "text": "The cartoon or the -",
+                "label": "qr"
+            },
+            {
+                "text": "MASTERS OF THE UNIVERSE the --",
+                "label": "+"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "bk"
+            },
+            {
+                "text": "-- movie That is real cute show",
+                "label": "+"
+            },
+            {
+                "text": "That has good moral values too",
+                "label": "sv"
+            },
+            {
+                "text": "HE MAN",
+                "label": "qy^d"
+            },
+            {
+                "text": "uh-huh Well uh I think uh -",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah good versus evil",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Huh",
+                "label": "%"
+            },
+            {
+                "text": "yeah",
+                "label": "b"
+            },
+            {
+                "text": "Oh well it sounds like we have the same tapes for our kids anyway",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah At least we have the same --",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- ideas Yeah Language too - - language and violence and sexual - you know",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "things I I get kind of uh saying I am sorry kids this is -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And I I think it is important that I see what they are watching If -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah They do have like those parental control things on the uh remote controls You know where you can block out what channels you do not want them to watch",
+                "label": "b"
+            },
+            {
+                "text": "You mean in cable",
+                "label": "qy"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Oh I do not know because I do not have that But -",
+                "label": "sd"
+            },
+            {
+                "text": "Well my my uh stepfather and them have my stepfather my father-in-law and them have that",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh they do not have any kids but they was told how to use that But still when the kids get older they learn how to break through that parental control",
+                "label": "sd"
+            },
+            {
+                "text": "Oh do they",
+                "label": "qy"
+            },
+            {
+                "text": "Huh",
+                "label": "%"
+            },
+            {
+                "text": "They are too smart",
+                "label": "sv"
+            },
+            {
+                "text": "I think alls you have to do is push couple buttons",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So it is it is I am hoping that he will grow up not really caring much for those movies because now we have got lot of western tapes",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "JOSEY WELLS now he loves to watch JOSEY WELLS",
+                "label": "sd"
+            },
+            {
+                "text": "Well I think that is good show too",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Clint Eastwood",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And like THE MAN FROM SNOWY RIVER we have oh - my husband likes westerns And he also likes STAR TREK Now STAR TREK is good movies good shows",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "The uh series We have got lot of those",
+                "label": "qy^d"
+            },
+            {
+                "text": "Uh I think not even the old one but the new one too I like --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- both of those",
+                "label": "+"
+            },
+            {
+                "text": "THE NEXT GENERATION",
+                "label": "qy^d"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah My little boy is crazy about Captain Kirk",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And my little girl has Mister Spocks ears",
+                "label": "sd"
+            },
+            {
+                "text": "Oh - -",
+                "label": "b"
+            },
+            {
+                "text": "I told my husband he cursed my kids",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "They were both born with pointy ears",
+                "label": "sd"
+            },
+            {
+                "text": "Oh well -",
+                "label": "%"
+            },
+            {
+                "text": "Not real pointy My little boy grew out of it",
+                "label": "sd"
+            },
+            {
+                "text": "Oh that is not problem anyway",
+                "label": "ba"
+            },
+            {
+                "text": "No",
+                "label": "aa"
+            },
+            {
+                "text": "but it is fun to you know seeing the show anyway Uh now I like uh everything Mi- oh - no not Michael Douglas um oh I cant think of his name",
+                "label": "sd"
+            },
+            {
+                "text": "Kirk Douglas",
+                "label": "qy^d"
+            },
+            {
+                "text": "No the the man right now who is having uh who has done uh BONANZA and then he did LITTLE HOUSE ON THE PRAIRIE",
+                "label": "nn"
+            },
+            {
+                "text": "Oh Michael Landon",
+                "label": "sd"
+            },
+            {
+                "text": "Michael Landon There you go Michael --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh now there -",
+                "label": "%"
+            },
+            {
+                "text": "-- Landon I have always liked --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and thought he did good shows",
+                "label": "+"
+            },
+            {
+                "text": "Like HIGHWAY TO HEAVEN",
+                "label": "qy^d"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Here are some cookies Kyle Yeah I liked HIGHWAY TO HEAVEN and I and I thought that was kind of neat though But I loved LITTLE HOUSE ON THE PRAIRIE especially when Melissa Gilbert grew up",
+                "label": "t3"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "She was --",
+                "label": "sd"
+            },
+            {
+                "text": "yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- kind of like my idol when I was growing up Because I am twenty-seven so it is you know - she is about the same age as I am",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I wanted to be just like her because she is so cute",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I - and I liked that show because it it portrayed I thought really well uh pioneer kind of days",
+                "label": "b"
+            },
+            {
+                "text": "Yeah and -",
+                "label": "b"
+            },
+            {
+                "text": "You know",
+                "label": "+"
+            },
+            {
+                "text": "well -",
+                "label": "%"
+            },
+            {
+                "text": "but -",
+                "label": "%"
+            },
+            {
+                "text": "I liked it",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "but there - that is about the only uh show I have seen where every time they sit down at the table they pray --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- before they eat And I thought that was real neat",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Because there is not lot of shows that do that And uh they have this little cartoon that is on Sunday mornings with",
+                "label": "+"
+            },
+            {
+                "text": "Now what is that",
+                "label": "qw"
+            },
+            {
+                "text": "Jot I remember him in school but I do not - it is just this little dot with arms and feet and little eyes and his parents are there They have it like before one of the church things",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "uh you know church that comes on And it is just this little dot And he will go out and get himself into trouble and come home and the parents will tell him that there is verse in the Bible that will help him with that and",
+                "label": "+"
+            },
+            {
+                "text": "Oh I have --",
+                "label": "sd"
+            },
+            {
+                "text": "It is just -",
+                "label": "+"
+            },
+            {
+                "text": "-- not seen that",
+                "label": "+"
+            },
+            {
+                "text": "Well it is - usually we go to church on Sundays",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But we will miss every once in while And I will let Kyle watch that and he just - well I even like Jot I mean I - it is funny",
+                "label": "sd"
+            },
+            {
+                "text": "What channel is it on",
+                "label": "qw"
+            },
+            {
+                "text": "It is on channel - well let us see You are in Plano",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Uh it is twelve or ten down here",
+                "label": "sd"
+            },
+            {
+                "text": "Well I will look and and see Yeah we go to church on Sunday About one oclock is when our meetings start And uh -",
+                "label": "sd"
+            },
+            {
+                "text": "Oh well this is of the mornings",
+                "label": "sd"
+            },
+            {
+                "text": "It is in the morning",
+                "label": "qy^d"
+            },
+            {
+                "text": "Uh around nine or ten I think It is before one of the I think it is before the First Baptist in Sherman airs",
+                "label": "na"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "I think that is the one that it",
+                "label": "sv"
+            },
+            {
+                "text": "- -",
+                "label": "%"
+            },
+            {
+                "text": "uh comes on before",
+                "label": "+"
+            },
+            {
+                "text": "Well well look",
+                "label": "sd"
+            },
+            {
+                "text": "It is real cute You know what He is bouncing around and his name is Jot and then he has got friend named Cat And I think the dog is the only one that is not dot But it is real cute And like I say they they teach him stuff from the BIBLE And I think it is just real cute show I am trying to get my little boy into reading uh like church books and things",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "We have got like NOAHS ARK and oh LORD IS MY SHEP- - We have got about eight or twelve books for him just little Bible stories",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And they- - he is he is getting to where he likes them",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "We got him little Jesus doll uh about year ago and he has always kept that He likes it",
+                "label": "sd"
+            },
+            {
+                "text": "Well I really like - now we get channel fifty-five although we do not have cable",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "we do get channel fifty-five And that is uh - like song - they sing songs on there but theyre uh worship through music kind of things But they are up to date uh and some of them are like uh videos --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- like music videos that go along with the songs about church and Jesus And",
+                "label": "+"
+            },
+            {
+                "text": "So its",
+                "label": "qy^d"
+            },
+            {
+                "text": "And I -",
+                "label": "+"
+            },
+            {
+                "text": "Christian songs",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Oh that sounds fun",
+                "label": "sv"
+            },
+            {
+                "text": "The Chri- - its called the Christian music station or something like that",
+                "label": "%"
+            },
+            {
+                "text": "Thats something Well -",
+                "label": "ba"
+            },
+            {
+                "text": "And uh I really like that",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Uh I turn that on on Sunday mornings And I do not you know and so my kids do not uh have an -",
+                "label": "sd"
+            }
+        ]
+    }
+]

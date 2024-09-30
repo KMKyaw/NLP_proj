@@ -1,0 +1,395 @@
+[
+    {
+        "conversation_id": "conv_3068",
+        "turns": [
+            {
+                "text": "Well Steve did you go to college",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah In fact Im still going",
+                "label": "ny"
+            },
+            {
+                "text": "Oh thats good So you probably could give some great advice",
+                "label": "ba"
+            },
+            {
+                "text": "Uh well I dont know about that but I in fact Im in the process of trying to choose school",
+                "label": "nd"
+            },
+            {
+                "text": "uh-huh Well whats your ca- whats your interest your uh -",
+                "label": "b"
+            },
+            {
+                "text": "Uh well computer science and cognitive science",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "That thats similar to what - Im in program right now",
+                "label": "%"
+            },
+            {
+                "text": "Oh I see",
+                "label": "b"
+            },
+            {
+                "text": "And uh my area of expertise its information systems which is little bit less technical I think than uh than computer science But my area of expertise is uh uh human computer interaction",
+                "label": "sv"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "And I think thats one reason why Im part of this study uh because its of Im working with voice systems",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Yeah So so good luck I guess we should talk about giving advice though Wh- what what type of advice do you think youd give to parent",
+                "label": "b^m"
+            },
+            {
+                "text": "To parent",
+                "label": "qy^h"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Well you know the thing is when youre kid --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and the kid at that age especially if theyre going into undergraduate it seems like they think they know what they want",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "An and I mean choosing from my experience you know I thought you know my I know what I want lot more than my parents know what I want",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But uh I dont know at the same time you have to decide what is important about the school you know the size of it or -",
+                "label": "h"
+            },
+            {
+                "text": "Yeah I think thats more important probably than even the career vocation because most people change",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I kn- I know very few people that uh started in one field and stayed with it You know they - I think thats what you just said you know having to do more with the size of the school the environment of the school uh I think thats much more important I I think Id Id advise parent to send kid to school though that has number of different types of programs you know that uh some of the smaller schools might be very limited in what they can offer but some of the uh the small some of the larger small schools you know I guess around three or four thousand students --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- have can offer broader range of curriculums and things so if the kid does change they dont have to transfer or they dont have to uh uh - I dont know they dont have to give up years of you know of credit transfer and things",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Thats disruptive",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah I normally - and and parents hate to hear this you know because I I actually teach college I hate to uh I hate to talk to the parents because um one of the reasons is because you know the kid doesnt know exactly what they want and I always say make sure you major in something that you like even if its not going to be your career vocation because youll get better grades I I think most employers would probably rather hire you know three six in um in history uh to be salesman than someone with two oh in business administration",
+                "label": "b"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "Does that make sense",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah Well yeah I see what youre saying",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah I always you know tell them that you should major in something you youre going to get good grades in",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Because that thats always I think more important you know overall I dont know",
+                "label": "+"
+            },
+            {
+                "text": "Uh give me five minutes",
+                "label": "t3"
+            },
+            {
+                "text": "Yeah Oh you youre at the office now",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "At work Yeah",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah Im just getting ready to go to lunch Uh yeah thats like what we were saying though would you uh advise private school or public school",
+                "label": "qy^m"
+            },
+            {
+                "text": "I would I would",
+                "label": "na"
+            },
+            {
+                "text": "you know whats the trade off there what -",
+                "label": "qw"
+            },
+            {
+                "text": "it would - I I tell you I live in Maryland and the public schools here are pretty good I teach at public school actually and I know that the scores for our admitting freshmen are higher than lot of the public sch- lot of the private schools And um I actually I would full time at at public school - and then right now Im teaching part time at private school at Catholic institution",
+                "label": "+"
+            },
+            {
+                "text": "Oh I see",
+                "label": "bk"
+            },
+            {
+                "text": "And um and I really think I think Im getting better caliber of student at the private school because I think their parents pay more and I think the kids are little bit more challenged because their parents are probably college educated where at the public school I dont think as many parents are public are are college educated and I dont I think because it costs less the kid doesnt take it quite as serious you know theyre not th- - it its the minimal cost But I think you can get good education at public or private but I think you can also get bad education at public or private you know I -- -",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- you have to really you have to look around at the school I I think the bad part is that most parents or kids dont know what to look for",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah yeah I think uh I would agree with that In fact the thing that Im going through the same thing where in graduate school",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I was trying to choose You know particular institution might be better --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- for my area --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- yet like say you know the University of Small Town in Arkansas or something",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "might have some top specialists in my area",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Yet if I go to of I or or you know some you know any big name school my quality of education might not be that much better but its the same thing theres you know what will the name recognition",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "get me",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "kind of thing",
+                "label": "+"
+            },
+            {
+                "text": "does it have big ten football team or -",
+                "label": "qh"
+            },
+            {
+                "text": "Yeah yeah Thats thats usually the basic criteria",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah I mean uh yeah is it PAC ten school you know",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But I think - yeah see Im Im at the University of Maryland so in this this region um though I go to smaller branch of the University of Maryland my diploma will still say University of Maryland",
+                "label": "%"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Um you know it doesnt doesnt differentiate on my diploma though I would put it on my resume what program I went to But I I think you know Im actually at smaller program Im not at the col- the big College Park campus you know thats the big one with the football team",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So I I think um I think youre right that theres lot of theres difficult decisions there based on name recognition Um you know when I first was applying for graduate schools I applied to some big programs you know in this area like Stevens Institute of Technology which is recognized in the Northeast as as you know one step below I in sense",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "you know so its got big name recognition in this area big science school no football team but big science school",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and technical people know that But I don- - yeah I think youre right you really have to think about that for the job I went to very small state college when I got my bachelors and when I - now I was in education at first when I was looking for jobs I was going to be teacher I was just high school teacher so most people recognized that institution because it was teaching school sort of",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "you know but then when I went um for graduate work you know or for new job people said to me you know Shippensburg State where is that you know",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "And you know when I went into higher education even at other universities they werent aware of it you know",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So I think yeah thats important um I think it depends on if you want to be if you want regional job or national job you need that first",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "job or so out of school too",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I I guess another thing that concerns me is uh so many people it seems like everybody today is still in that job market and uh um where was I at Oh go- in going to school you get taught the things you learn in school but there is also whole other dimension I mean the growing up while youre going to school part",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh yeah",
+                "label": "aa"
+            },
+            {
+                "text": "And uh actually in the Midwest especially lot of the schools have like University of Missouri will have main campus like Columbia which is big multi disciplinary",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "and theyll have satellite campus in usually in smaller town that specializes in the technical field So youve really uh I guess sacrificed --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- some social --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- exposure to different groups and everything",
+                "label": "+"
+            },
+            {
+                "text": "Yeah depending on your technical areas Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^m"
+            },
+            {
+                "text": "I could see that But you know at some of the large schools I know that at at at University of Maryland where I am you know in program I I havent even met uh someone outside of my area of information systems except for -",
+                "label": "ba"
+            }
+        ]
+    }
+]

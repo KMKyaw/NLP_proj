@@ -1,0 +1,539 @@
+[
+    {
+        "conversation_id": "conv_3111",
+        "turns": [
+            {
+                "text": "Well Hal whats uh whats crime like in Dallas",
+                "label": "qw"
+            },
+            {
+                "text": "Well it depends where in Dallas you are",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "There are certainly parts of town I would not want to live in",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Because its the situation it is very location dependent --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and there are parts of town here where when they talk about the nightly gunfire -",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah Yeah in Baltimore we have similar - Uh I live on the outskirts of Baltimore and uh we live right outside the city and our neighborhood is pretty much working class people though Im in graduate school uh I live here because its close to the university",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But you know we have uh - it its really funny the only crime we really see is uh just the kids being malicious",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know and I think most of that is because their parents arent around That make sense",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "That uh the what they call the latchkey children",
+                "label": "bf"
+            },
+            {
+                "text": "Yeah something like that No ones you know - or or fathers are just missing you know so theres no uh no consistency there in the home or whatever Theres no one to tell them whats right and whats wrong you know",
+                "label": "b"
+            },
+            {
+                "text": "Yeah The sort of on my end is more of the upper middle class so --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- I think our uh - not that we dont have certain amount of local problems --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but on the other hand uh we get the uh affect of the uh the city and uh the main crimes within the suburb here are the the theft crimes",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "small number of assaults uh well if we have one murder year --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- thats probably as many - but then you know you go into Dallas and they are unfortunately --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh having murders --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- at rate greater than one day",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I think thats were about the same in Baltimore Though uh Washington I think is uh close by and you know they experience lot more",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I think they definitely have more problems that uh in in the area What what do you think can prevent crime",
+                "label": "sd"
+            },
+            {
+                "text": "Well the thing is I dont - its one of those things where if youre grad student you can appreciate the statistics on -- -",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- Unfortunately there are often these correlations that are inverse of what they should be like uh wherever there are more uh criminals there are more policemen --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- but thats which came first",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But on the other side of it is - its its basically the the problem is within the in the society --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and the societys views and well uh since now Im in my mid-forties when I was in grad school or when I was an undergraduate growing up in more rural area --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- I thought you know crime was was reasonably unknown --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and just the situation thats developed with the the drug -- new slash unit",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I think slash error",
+                "label": "b"
+            },
+            {
+                "text": "-- aspect of uh --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "+"
+            },
+            {
+                "text": "-- uh the pushers the dealers and the addicts uh",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I I I think I agree with you there",
+                "label": "aa"
+            },
+            {
+                "text": "Because it just was not uh something back in the sixties that --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh I even had to worry about But I think you know that there is lot in the society where things have changed uh so its effected all of us",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh Yeah I think they the drug culture definitely has uh is one of the main problems Yeah our uh our mayor in uh Baltimore is one of the people that goes on national television and says they should uh legalize drugs slash error",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Because it would eliminate the uh the violence and the uh the under- the the market I guess the the hidden market of the drugs and everything that goes along with it sv",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "That make sense Hes one of the big proponents of that He gets on national television and and says that you know So its uh - and he was - - District Attorney before and prosecutor before becoming becoming mayor So thats really stran- - you know its different viewpoint I uh -",
+                "label": "o"
+            },
+            {
+                "text": "You know in sense I dont Im - I have real mixed feelings on that --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- because it comes bit from the angle that the uh uh - it would certainly be an interesting test --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but the other side of it to me -",
+                "label": "%"
+            },
+            {
+                "text": "What happens if we lose worse",
+                "label": "qh"
+            },
+            {
+                "text": "Uh - - well the other side is that unfortunately some of the down side - and I think if I look back fifty or hundred years Id say you know back then there were the opium dens --",
+                "label": "%"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- but the thing is if somebody ruined their life uh society didnt try to then save themselves from it they let this person who had ruined it --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh become well die or whatever I mean --",
+                "label": "+"
+            },
+            {
+                "text": "Right yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- they probably became weakened physically and other things to the point that their life expectancy was real short but now we tend to believe somewhere in the health care system otherwise we need to take care of people even if they have you know physically ruined themselves",
+                "label": "+"
+            },
+            {
+                "text": "Yeah they have induced it themselves",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah --",
+                "label": "b"
+            },
+            {
+                "text": "Yeah thats true",
+                "label": "aa"
+            },
+            {
+                "text": "-- and so to me thats - I uh I would certainly like to see real test of of making drugs real cheap --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- to see if when you make them available people then dont use them",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh Well I think --",
+                "label": "b"
+            },
+            {
+                "text": "Uh slash error",
+                "label": "%@"
+            },
+            {
+                "text": "-- you know they did that in Alaska That that actually Alaska just recently legalized marijuana two utts",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "+"
+            },
+            {
+                "text": "But I never I never heard results or anything like that so I never you know - plus thats such thats not true uh you know it really couldnt be good test because Alaskas so different than every other part of the country",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know so that but that was interesting you know I I dont - crime is one of those things thats uh - I I dont know you know the drug culture - the uh the uh you know - I I see it with the kids in the neighborhood just stealing things not thinking anything wrong with it",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah well th- some of that - and of course Im baby of the old school --",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- but it it bothers me from the fifties on not that Id remember that much --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- from the fifties but but basically we have so much more of the something for nothing mentality",
+                "label": "+"
+            },
+            {
+                "text": "Yeah thats true Thats true We worked hard for everything Thats very true",
+                "label": "aa"
+            },
+            {
+                "text": "And so they -- -",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- in the - there were the sixty-four thousand dollar question shows in the fifties but nowadays theres so much on TV where where people seem to have the idea they can get something for nothing Of course --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh I work for lawyers lot and I see unfortunately we have this whole mentality that somehow there are these pots of money out there that you can sue somebody and you know theres million dollars you can have --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh for mental duress or whatever",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But you know the other thing that bothers me in the crime is the uh - in Europe they seem to have mentality and drunk driving is good one is that people are well indoctrinated in their society that drunken driving is unacceptable",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "aa"
+            },
+            {
+                "text": "And yeah if youre going to drink and you may drink you better have your designated driver",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "In this country and for example with alcohol or with drugs is we dont seem to understand how to handle it as society to say okay it is okay under these circumstances but if you step outside these bounds the punishment is extreme slash error",
+                "label": "sv@"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And we mean it",
+                "label": "+"
+            },
+            {
+                "text": "Yeah That I think that uh the drunk driving has just actually just caught on Uh",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "- and I I I really uh - my father was hit by drunk driver when I was in high school --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh that was very uh that that was an awful three years afterwards You know of recovery --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and the difficulties and uh everything we did and you know the guy went free because this was twelve years ago --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- thirteen years ago there was no - his father was even the uh police chief of the town",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So there was no repercussion at all You know other than insurance but he was uninsured",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So uh our insurance paid for everything but it was very difficult time and and then later this was actually funny my brother and I were picked up by the police for questioning because this fellow had bought new car and somebody had taken like baseball bat to it --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and broke all his windows and his lights and his dented it everywhere and they came and questioned us",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know and -",
+                "label": "%"
+            },
+            {
+                "text": "But that kind of shows how our attitude toward drinking --",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- and driving was uh misplaced --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- for years --",
+                "label": "+"
+            },
+            {
+                "text": "Yep slash error",
+                "label": "aa@"
+            },
+            {
+                "text": "-- that you know it was an acceptable social behavior",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Yeah very much so Yeah that those are some important points Yeah I - thats those are -",
+                "label": "+"
+            },
+            {
+                "text": "What are what does your city have for gun control if anything",
+                "label": "qw"
+            },
+            {
+                "text": "Well see Maryland is one of the most - we just voted in uh gun control strong gun control here in the state of Maryland I I think -",
+                "label": "%"
+            }
+        ]
+    }
+]

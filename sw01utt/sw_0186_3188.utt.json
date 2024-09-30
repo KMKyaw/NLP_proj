@@ -1,0 +1,331 @@
+[
+    {
+        "conversation_id": "conv_3188",
+        "turns": [
+            {
+                "text": "So have you done any painting projects lately",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah this is great topic for me because I just did my first two painting projects ever",
+                "label": "ny"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "Was not not big deal --",
+                "label": "sd"
+            },
+            {
+                "text": "What kind of --",
+                "label": "qw"
+            },
+            {
+                "text": "-- two little deals -",
+                "label": "sd"
+            },
+            {
+                "text": "-- painting was it",
+                "label": "+"
+            },
+            {
+                "text": "The first one um - I helped someone repaint an apartment and it was very easy",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh it was it",
+                "label": "b"
+            },
+            {
+                "text": "Yeah and Ive never painted anyth- I always thought it would be - so you know youd have to hire someone if you needed to paint inside your house or something --",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- but I know I can do it",
+                "label": "sd"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And the second one was I bought some toys at um at craft fair",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Theyre unfinished wooden book ends and stuff for little girl for Christmas and so I decided to paint them and that wasnt as easy as painting the apartment",
+                "label": "sd"
+            },
+            {
+                "text": "Oh well what kind of paint did you use for the um bookends",
+                "label": "qw"
+            },
+            {
+                "text": "Well its uh it thats half the problem right there is that it wasnt it was oil base so I had to get - and when I painted them I didnt realize that we didnt have any turpentine or paint thinner or anything in the house So I had it had it all over my hands At first I didnt realize you know - I had never painted anything so I didnt realize --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- that I needed that I mean I kind of knew in the back of my mind",
+                "label": "+"
+            },
+            {
+                "text": "So you cant use oil on wood",
+                "label": "qy^d"
+            },
+            {
+                "text": "Well no you can use it on wood but I just had it all over my hands and I went to wash the brushes out and uh wash my hands and you cant wash it off with water You have to get the uh solution and -",
+                "label": "nn"
+            },
+            {
+                "text": "Oh so you had to go around with paint all over you",
+                "label": "bf"
+            },
+            {
+                "text": "Yeah I had to drive to the store --",
+                "label": "aa"
+            },
+            {
+                "text": "temporarily anyway",
+                "label": "+"
+            },
+            {
+                "text": "-- yeah I had to drive to the store with paper towels all over my hands to go buy --",
+                "label": "aa"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- some paint thinner and and everything like that and then um downstairs in the apartment I just us- we just used latex base and so you can drip it on you know if you dripped it on something as long as you wiped it up it was real easy to clean",
+                "label": "+"
+            },
+            {
+                "text": "Oh is is that what you usually use in the house is latex",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah and and --",
+                "label": "ny"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "-- it it just like - the same with the toys - its just important to look for one that doesnt have lead in it you know it says Safe for Children and all that",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh yeah I heard about that I guess friend of mine had uh well - she she just started up day care center and uh the one of the real strict uh restrictions was the fact that she had to have special kind of paint that was fire proof and lead free and all that other good stuff --",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- so uh she had that done But uh -",
+                "label": "sd"
+            },
+            {
+                "text": "Have you painted anything recently",
+                "label": "qy"
+            },
+            {
+                "text": "Well um so to speak I had to paint this uh the inside of this warehouse thing -- I would have put slash after the answer so to speak",
+                "label": "na@"
+            },
+            {
+                "text": "Wow was it huge",
+                "label": "qy"
+            },
+            {
+                "text": "-- that you keep some um farm equipment in --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "-- and um what I had to do is just coat this bare wood with sealer and uh I had this big five gallon jug and it was like paint thinner I mean I you know it looked just like it was the viscosity of paint thinner --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- but uh you just took roller and put it on there and uh if you saw that the wood was getting wet you know that was that was all you needed So -",
+                "label": "sd"
+            },
+            {
+                "text": "Wow",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah it was - it used all of it I guess it was about three hundred yards worth So Well I guess it worked out It was pretty easy actually",
+                "label": "b"
+            },
+            {
+                "text": "Yeah I think though um were lucky that we didnt have to do any detail work because I dont know if I could you know I dont know I dont know must be difficult",
+                "label": "b"
+            },
+            {
+                "text": "Well what about the trim in your house Did you have to do that",
+                "label": "qo"
+            },
+            {
+                "text": "No it was - it was really easy I just like what - we had couple of different size brushes --",
+                "label": "nn"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know real easy - I went around the trim and if it - and there was wall paper like I was do just doing just the trim outs that around the doors and windows and there was wall paper and --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- if we got it on the wall paper little bit we just wipe it right away before it dried it came right off --",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- so there was no major mistakes there was -",
+                "label": "sd"
+            },
+            {
+                "text": "Did you have uh one coat or two",
+                "label": "qr"
+            },
+            {
+                "text": "Uh two actually --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- um and it - there was um - you know around the windows if you got it on the glass we let it dry and scraped it after that but that -",
+                "label": "%"
+            },
+            {
+                "text": "Yeah that would be really time uh time saver",
+                "label": "b"
+            },
+            {
+                "text": "Well yeah if you just you know - we didnt tape anything we werent that careful but it wasnt you know - I dont know its its funny its like if you just go slow you dont get or at least I didnt get that many mistakes --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- I didnt make that many mistakes",
+                "label": "sd"
+            },
+            {
+                "text": "Oh me I would have had to have taped the whole thing and then brushed around the edges and and then Id have probably rolled it on Id it would have taken me forever",
+                "label": "sd"
+            },
+            {
+                "text": "Why Just because youd be afraid to do it or have you done it before",
+                "label": "qw"
+            },
+            {
+                "text": "Yeah well the first time itd probably would have taken me forever so -",
+                "label": "b"
+            },
+            {
+                "text": "Well it wasnt - if it was my own I would have but my friend said oh just go ahead you just go ahead its easy I said Okay its your place",
+                "label": "sd"
+            },
+            {
+                "text": "Well how long did it take you all",
+                "label": "qw"
+            },
+            {
+                "text": "Well couple of week ends we would go down --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- two or three hours on the weekends and -",
+                "label": "+"
+            },
+            {
+                "text": "So there was two of you all",
+                "label": "qy^d"
+            },
+            {
+                "text": "No there was they were doing all sorts of repairs and there was I was just painting because I dont know how to do anything else",
+                "label": "nn"
+            },
+            {
+                "text": "Well thats easy enough",
+                "label": "sv"
+            },
+            {
+                "text": "So theres whole bunch of people",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "So now I feel like if I ever buy house I can probably paint if nothing else",
+                "label": "sd"
+            },
+            {
+                "text": "I think I could probably do it --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- uh as long as the hardware store told me what to buy then I could do it",
+                "label": "+"
+            },
+            {
+                "text": "But you know I went in to hardware store to get paint for those toys and the guy said Oh get this its nice shiny gloss which was true but I didnt realize what you know pain it is to clean the brushes and everything if you dont have latex I dont if - its worth the shine",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            }
+        ]
+    }
+]

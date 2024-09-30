@@ -1,0 +1,287 @@
+[
+    {
+        "conversation_id": "conv_3815",
+        "turns": [
+            {
+                "text": "Well are you in the market for new car",
+                "label": "qy"
+            },
+            {
+                "text": "Uh well yeah I am as matter of fact Well act- actually Im looking for another car but uh uh new probably not -",
+                "label": "ny"
+            },
+            {
+                "text": "Oh What sort of requirements to you have for your car",
+                "label": "b"
+            },
+            {
+                "text": "Uh sports car",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh usually either black or red",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And electric windows and power locks",
+                "label": "sd"
+            },
+            {
+                "text": "I see",
+                "label": "ba"
+            },
+            {
+                "text": "Now -",
+                "label": "%"
+            },
+            {
+                "text": "Top of top of the line",
+                "label": "qy^d"
+            },
+            {
+                "text": "Well not so much that as it is - Ive had so many times when uh uh you know Ill have friend next to me or I see somebody uh guy broken down on the side of the road and try to lean over and roll down the window",
+                "label": "ng"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "It is just real pain or you know if Im driving along and theres somebody next to me and uh somebody that I know and you try to talk to them --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- its real difficult to drive reach over and try to roll down the window",
+                "label": "+"
+            },
+            {
+                "text": "Right right",
+                "label": "b"
+            },
+            {
+                "text": "And uh so power locks power windows are just just things that uh just really help lot",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "What about you",
+                "label": "qo"
+            },
+            {
+                "text": "Well I guess Im uh more traditional in that I dont like - power windows or power locks because the people that I know - who have them always seem to have trouble with them",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "And uh so I dont I just dont like anything that I cant figure out why it doesnt work",
+                "label": "sd"
+            },
+            {
+                "text": "Sure",
+                "label": "b"
+            },
+            {
+                "text": "And then I want you know good uh gas mileage and I want an air bag and uh I guess -",
+                "label": "sd"
+            },
+            {
+                "text": "Have you ever had car with an air bag",
+                "label": "qy"
+            },
+            {
+                "text": "No I havent Have you",
+                "label": "nn"
+            },
+            {
+                "text": "No",
+                "label": "nn"
+            },
+            {
+                "text": "Somehow I just think you know I like the idea",
+                "label": "sd"
+            },
+            {
+                "text": "Well it it see- sure seems to save lives and -- -",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- uh yeah I actually I like the anti-lock brakes",
+                "label": "b"
+            },
+            {
+                "text": "Right thats good idea",
+                "label": "aa"
+            },
+            {
+                "text": "And I have never had chance to - I have been in cars that have had them but Ive never tromped on the brakes to see uh you know on ice or water just to see if they didnt lock up",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But uh you think youd buy uh an American car or European or Japanese",
+                "label": "qr"
+            },
+            {
+                "text": "Well I actually I dont know lot about different brands I tend to have you know my requirements like the last time I bought car I I guess I did sort of prefer American and my requirements were basically you know good repair record good mileage uh and I needed air-conditioning and uh cant remember what my oh - I wanted - uh stick shift And so I didnt have whole lot of choice There was one car in all of the the metropolitan area that I could find that you know was sort of medium priced car with stick shift in it",
+                "label": "sd"
+            },
+            {
+                "text": "What was that",
+                "label": "qw"
+            },
+            {
+                "text": "It it turned out to be Chrysler Uh Lancer",
+                "label": "sd"
+            },
+            {
+                "text": "Huh stick shift huh",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Did it have what three speed or four speed",
+                "label": "qr"
+            },
+            {
+                "text": "No five speed And it basically it was something that military guy had ordered and hadnt picked up and so it had been on the lot three months and they were really eager to sell it",
+                "label": "nn"
+            },
+            {
+                "text": "Wow",
+                "label": "ba"
+            },
+            {
+                "text": "So I guess in this area at least you know if its not automatic it doesnt move",
+                "label": "sv"
+            },
+            {
+                "text": "Well actually I much prefer stick shift and what Im Im curious - I I know why I love stick shift Why - why did you want one",
+                "label": "sd"
+            },
+            {
+                "text": "Well I just wanted it because again I had I guess traditionally always had car that had one and I thought it would be more reliable",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh",
+                "label": "b"
+            },
+            {
+                "text": "Its hard to find stick shift cars anymore",
+                "label": "sv"
+            },
+            {
+                "text": "I found that out I mean you know the people would just sort of look at me like you must be crazy when I went in to and asked and that was requirement so -",
+                "label": "aa"
+            },
+            {
+                "text": "Huh yeah",
+                "label": "b"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "No I mean most of the sports cars are stick shift",
+                "label": "nn"
+            },
+            {
+                "text": "Well Im not even sure all of them are anymore At least in this area",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "Not that I was looking for sports cars but now the people Ive talked to dont seem to have stick shift",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "And so why do you like stick shift",
+                "label": "qw"
+            },
+            {
+                "text": "Uh I guess I I grew up on it and its fun Its its an enjoyable part of driving I do feel like I have uh more control --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- over the car and it it to me it gives me more lot more control in snow and ice --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and slick conditions",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Uh it i- it does uh I dont know it its really more fun than anything else As long as youre not stuck in heavy traffic its fun",
+                "label": "%"
+            },
+            {
+                "text": "Right and actually its probably safer on you know at long trips because it keeps you more active",
+                "label": "b"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "Yeah uh of course I like gadgets and and uh fun things on the cars which are all the things course the - -",
+                "label": "b"
+            }
+        ]
+    }
+]

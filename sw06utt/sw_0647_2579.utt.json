@@ -1,0 +1,691 @@
+[
+    {
+        "conversation_id": "conv_2579",
+        "turns": [
+            {
+                "text": "Well good afternoon to you Mary First",
+                "label": "fp"
+            },
+            {
+                "text": "And good -",
+                "label": "%"
+            },
+            {
+                "text": "let me ask you whats whats the weather like up there to begin with",
+                "label": "+"
+            },
+            {
+                "text": "Well well today uh when I got up it was twenty-nine degrees Yes and it managed to get up to about fifty this afternoon but its been cloudy overcast and threatening rain all day",
+                "label": "sd"
+            },
+            {
+                "text": "That sounds more like our winter weather down here",
+                "label": "sv"
+            },
+            {
+                "text": "And weve also had extremely strong winds fifteen to twenty miles an hour",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "for the day",
+                "label": "+"
+            },
+            {
+                "text": "Well you know I bet thats what we that storm we had last night",
+                "label": "sv"
+            },
+            {
+                "text": "Is that right",
+                "label": "bh"
+            },
+            {
+                "text": "Oh we had frog strangler go sw- sweeping through here uh yesterday and last night And were expecting another one tonight",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "Oh I mean it was raining so hard you could swim down the street",
+                "label": "sd"
+            },
+            {
+                "text": "We had one of those two days ago",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But not uh but uh no rain at all yesterday and uh no rain today",
+                "label": "+"
+            },
+            {
+                "text": "Well its probably on its way up there It was heading north",
+                "label": "sv"
+            },
+            {
+                "text": "Thanks lot Cu- couldnt you send us some nice weather",
+                "label": "ba"
+            },
+            {
+                "text": "Well it was nice today",
+                "label": "sv"
+            },
+            {
+                "text": "Oh was it",
+                "label": "qy"
+            },
+            {
+                "text": "Uh in between the thunder showers yes",
+                "label": "^h"
+            },
+            {
+                "text": "Well the one things for sure we can always discuss the weather how some ever we cant do very much to change it",
+                "label": "sv"
+            },
+            {
+                "text": "Well you know what they say about the weather here in Texas",
+                "label": "qy"
+            },
+            {
+                "text": "Whats that",
+                "label": "ng"
+            },
+            {
+                "text": "If you if you dont like it wait five minutes itll change",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yes well thats about the way our weather is here also",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh - -",
+                "label": "b"
+            },
+            {
+                "text": "And I grew up in Saint Louis and Saint Louis was much the same",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Well tell me uh is is it normally that cold up there in in the Spring",
+                "label": "b"
+            },
+            {
+                "text": "No its not This is uh about uh ten degrees cooler than usual But about week ago we were up to eighty and eighty-five degrees",
+                "label": "nn"
+            },
+            {
+                "text": "Youre kidding",
+                "label": "bh"
+            },
+            {
+                "text": "No no it uh it fluctuates from one extreme to the other it seems",
+                "label": "nn"
+            },
+            {
+                "text": "You are you sure you didnt leave your refrigerator door open",
+                "label": "qy"
+            },
+            {
+                "text": "Im sure I didnt I was ready to turn on the air conditioning It no it really was extremely warm It only got down to about sixty-five in the evening",
+                "label": "na"
+            },
+            {
+                "text": "Um-hum",
+                "label": "b"
+            },
+            {
+                "text": "We had about three or four days of that and then all of sudden cold front came down and uh temperatures dropped thirty degrees in very short length of time And uh it has gone down gradually each day This morning it was twenty-nine yesterday it was about thirty-two Uh",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "cars were scraping ice off their cars this morning if theyve been sitting out all night So it",
+                "label": "+"
+            },
+            {
+                "text": "Oh Mother Macree",
+                "label": "ba"
+            },
+            {
+                "text": "it really wasnt too wasnt too pleasant",
+                "label": "+"
+            },
+            {
+                "text": "No I should say not Well I I sincerely hope that you dont have that terrible storm we had",
+                "label": "aa"
+            },
+            {
+                "text": "Oh I hope",
+                "label": "sd"
+            },
+            {
+                "text": "I hope",
+                "label": "sd"
+            },
+            {
+                "text": "not",
+                "label": "+"
+            },
+            {
+                "text": "it doesnt reach you up there",
+                "label": "+"
+            },
+            {
+                "text": "Well they are predicting rain and thunderstorms and I wouldnt be bit surprised by what we would not be getting the same weather you had",
+                "label": "sd"
+            },
+            {
+                "text": "Well I - lets hope it well i- if its the same as what we had at least itll be warmer",
+                "label": "%"
+            },
+            {
+                "text": "Uh yeah Yes warm rain well of course by the time it gets up here it may ru- run into cold front coming down from Canada",
+                "label": "b"
+            },
+            {
+                "text": "Yeah oh boy the that whew that would be tear disastrous If you",
+                "label": "b"
+            },
+            {
+                "text": "Yes",
+                "label": "aa"
+            },
+            {
+                "text": "had that rain storm and freezing weather",
+                "label": "+"
+            },
+            {
+                "text": "Yes",
+                "label": "aa"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "We had uh week ago they had golf ball size hail coming down in one part of the uh of the city of Dayton itself",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh then we just had about an inch and half or two inches of rain in less than an hour It was just coming down by the bucketfulls and great deal of lightning",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "So",
+                "label": "sv"
+            },
+            {
+                "text": "yes",
+                "label": "+"
+            },
+            {
+                "text": "it it wasnt uh it wasnt conditions to being out in it and I had just gotten home We had lot of tornado warnings also And I had gotten home shortly before that uh the rain started So uh I felt little more secure that I was at home rather than having to be out driving in it",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh Well uh I heard on the news this morning that um one of our local schools uh lost the roof of their gymnasium",
+                "label": "b"
+            },
+            {
+                "text": "Is that right",
+                "label": "bh"
+            },
+            {
+                "text": "And they suspected may have been tornado",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But uh uh thank God for small favors the uh uh - what do they call them The the the marching band or something",
+                "label": "ad"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Uh uh had just quit rehearsal about half hour before",
+                "label": "sd"
+            },
+            {
+                "text": "Oh they - that was ca- very very fortunate for them because that could have really been disastrous",
+                "label": "%"
+            },
+            {
+                "text": "Oh and how",
+                "label": "aa"
+            },
+            {
+                "text": "Well of course this is tornado season uh in to uh - we have many tornadoes spawned in this area And northern Indiana now were in the southwestern part of uh Ohio",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "just forty miles north due north of Cincinnati and uh but uh northern Indiana has many tornadoes come roaring across And we get the backlash off of it if not the part of the tornado itself",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So uh we you know we get lot of bad weather in this area But of course youre supposed to be the sun belt and I do know that you get some freezing weather down there on occasion",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah Well during the winter yes we do Uh weve had uh well past four or five years I guess at least one day during the year when just everything would just close down because wed have freezing rain",
+                "label": "aa"
+            },
+            {
+                "text": "Um-hum",
+                "label": "b"
+            },
+            {
+                "text": "And uh of course people down here they just dont know how to handle themselves and -",
+                "label": "sv"
+            },
+            {
+                "text": "Right Yes I was going to say that it does make difference when youre not accustomed to uh",
+                "label": "aa"
+            },
+            {
+                "text": "Well uh",
+                "label": "aap"
+            },
+            {
+                "text": "having to",
+                "label": "+"
+            },
+            {
+                "text": "not only that -",
+                "label": "+"
+            },
+            {
+                "text": "drive in it",
+                "label": "+"
+            },
+            {
+                "text": "but were were ee- dont have the equipment to handle it either",
+                "label": "sd"
+            },
+            {
+                "text": "Right right",
+                "label": "b"
+            },
+            {
+                "text": "Uh",
+                "label": "sd"
+            },
+            {
+                "text": "And -",
+                "label": "%"
+            },
+            {
+                "text": "they go out there and the - well all you can do with with uh freezing rain of course is spr- spread sand on the ice",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And but uh you know we dont even have vehicles that will do that",
+                "label": "sd"
+            },
+            {
+                "text": "Um-hum",
+                "label": "b"
+            },
+            {
+                "text": "They they have to get uh truck of sand and uh uh four or five laborers up there just spreading it by hand needs slash",
+                "label": "sd@"
+            },
+            {
+                "text": "Right Well uh well here what they do and I I contend that its certainly not the right thing to do they spread salt And of course the salt does melt the ice but then what melts immediately freezes and becomes uh perpetual problem",
+                "label": "b"
+            },
+            {
+                "text": "Well and then to make matters worse it destroys your vehicles too",
+                "label": "+@"
+            },
+            {
+                "text": "Oh it sure does do that",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah they well we they do that down here too They mix the salt in with the sand",
+                "label": "b"
+            },
+            {
+                "text": "Well sand and uh - but I have learned to do is uh now that I am alone is uh to carry bags of salt in the trunk of my car Um not only in case I need it for that for traction but for additional weight",
+                "label": "%"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "in the",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "back of the car And then of course kitty litter is also excellent for that I dont know whether youve ever thought in terms of",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh Ive",
+                "label": "b"
+            },
+            {
+                "text": "that but -",
+                "label": "+"
+            },
+            {
+                "text": "no Im",
+                "label": "b"
+            },
+            {
+                "text": "yeah",
+                "label": "b"
+            },
+            {
+                "text": "dog lover myself",
+                "label": "+"
+            },
+            {
+                "text": "Well Well the dogs dont use litter But kitty litter is excellent for uh getting under the wheels of cars and what have you and giving you traction",
+                "label": "sd"
+            },
+            {
+                "text": "I guess it would be",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh Yeah it uh works out uh really quite well Course I have I have dog also My son brought me little Lhasa Apso uh for my birthday last Thanksgiving",
+                "label": "b"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "He brought him from Dallas He -",
+                "label": "sd"
+            },
+            {
+                "text": "Oh wasnt that nice of him",
+                "label": "qh"
+            },
+            {
+                "text": "Yes that uh - he just thought I had been without dog uh for three years That was long enough",
+                "label": "ny"
+            },
+            {
+                "text": "Uh",
+                "label": "%"
+            },
+            {
+                "text": "He he had -",
+                "label": "sd"
+            },
+            {
+                "text": "I have uh Chowperd myself",
+                "label": "sd"
+            },
+            {
+                "text": "Oh what",
+                "label": "br"
+            },
+            {
+                "text": "Chowperd",
+                "label": "sd"
+            },
+            {
+                "text": "Now that one Im not familiar with",
+                "label": "sd"
+            },
+            {
+                "text": "Well shes part Chow and part Shepherd",
+                "label": "sd"
+            },
+            {
+                "text": "Uh okay Okay that makes sense then",
+                "label": "bk"
+            },
+            {
+                "text": "uh-huh But shes the best",
+                "label": "b"
+            },
+            {
+                "text": "I believe -",
+                "label": "sd"
+            },
+            {
+                "text": "the best of both breeds",
+                "label": "+"
+            },
+            {
+                "text": "Yes right well Ive always had big dogs before Never had little dog before",
+                "label": "b"
+            },
+            {
+                "text": "Well June",
+                "label": "sd"
+            },
+            {
+                "text": "And -",
+                "label": "%"
+            },
+            {
+                "text": "is medium sized",
+                "label": "+"
+            },
+            {
+                "text": "Yes well",
+                "label": "b"
+            },
+            {
+                "text": "But she is scared to death of thunder storms",
+                "label": "sd"
+            },
+            {
+                "text": "Oh well I had German shorthair that was frightened of storms The minute it would begin to storm he would just panic",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh I had to push him down when he was fourteen and two months later I had to put my yellow Lab down",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "because he had leukemia And uh then uh then there was no point in having all my acreage I had four and half acres with game preserve on three sides",
+                "label": "+"
+            },
+            {
+                "text": "Oh that must be nice",
+                "label": "ba"
+            },
+            {
+                "text": "Oh well it was great I loved it But then I didnt need all that anymore so I finally sold that and Im in fair size condo And I have nice size patio",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh so this little dog has plenty of room to run",
+                "label": "sd"
+            },
+            {
+                "text": "Well good",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah and he is cutie and uh but Ive never had dog I had to keep taking to the groomers to have groomed either",
+                "label": "b"
+            },
+            {
+                "text": "No well",
+                "label": "b"
+            },
+            {
+                "text": "And its -",
+                "label": "%"
+            },
+            {
+                "text": "now you know it sounds like you ought to be in condo down in Miami Beach somewhere Or better yet down around Saint Petersburg Florida",
+                "label": "+"
+            },
+            {
+                "text": "Is that right",
+                "label": "bh"
+            },
+            {
+                "text": "uh-huh Thats what I call home",
+                "label": "ny"
+            },
+            {
+                "text": "Oh is that right",
+                "label": "bh"
+            },
+            {
+                "text": "I lived there for ten years",
+                "label": "sd"
+            },
+            {
+                "text": "Oh well I was there once way way back in nineteen-sixty I think for just weeks vacation",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But uh I thats about the only time Ive been to Florida except passing through on the way to someplace else",
+                "label": "sd"
+            },
+            {
+                "text": "Yep",
+                "label": "b"
+            },
+            {
+                "text": "But uh -",
+                "label": "%"
+            },
+            {
+                "text": "Well I lived there in the seventies",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh I I love it I have two sons still living down there",
+                "label": "sd"
+            },
+            {
+                "text": "Um-hum Well uh uh most of my friends do spend lot of time down in Florida But uh I have just thats just not been my thing We used to always head west or head north Now that Im alone why uh I uh prefer to travel overseas if Im going anywhere",
+                "label": "b"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh course there too you never know what the weathers going to be When you",
+                "label": "sd"
+            },
+            {
+                "text": "Well thats",
+                "label": "sv"
+            },
+            {
+                "text": "start getting over",
+                "label": "+"
+            },
+            {
+                "text": "thats",
+                "label": "+"
+            },
+            {
+                "text": "to -",
+                "label": "+"
+            },
+            {
+                "text": "why I was suggesting uh that Saint Petersburg is got got to be the finest weather in the world",
+                "label": "+"
+            },
+            {
+                "text": "Oh is that right",
+                "label": "bh"
+            },
+            {
+                "text": "Oh I I loved it down there",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "Course you could tell always tell which were the the na- natives-",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and which ones were the snowbirds",
+                "label": "+"
+            },
+            {
+                "text": "Oh is that right",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah the snowbirds were the -",
+                "label": "ny"
+            }
+        ]
+    }
+]

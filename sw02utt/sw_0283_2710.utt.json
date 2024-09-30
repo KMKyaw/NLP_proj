@@ -1,0 +1,567 @@
+[
+    {
+        "conversation_id": "conv_2710",
+        "turns": [
+            {
+                "text": "I started when I was in college You know they always offer credit cards for college students",
+                "label": "sd"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "So I went ahead and accepted every one that I was offered",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Because I knew it would be easier to go ahead and get them and establish credit early",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "So I - I pack around lot of them but I only use few of them",
+                "label": "sd"
+            },
+            {
+                "text": "You have lot of discipline They make it really easy for people to uh to get credit cards especially college students",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I have uh two daughters who who both are in college or in fact one has finished now But they both have lot of credit cards",
+                "label": "sd"
+            },
+            {
+                "text": "And they give you such high credit limits",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Its its easy to get caught up in the minimum payment trap",
+                "label": "sd"
+            },
+            {
+                "text": "Uh right And then they they give you uh uh the credit limit and then youre always - seemingly up to that limit Now I have quite few credit cards that Im always almost up to the limit on most of them And thats thats how lot of people get into trouble",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Ive got Ive got two that I you know that usually Ill have balance on",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And then all of the others I just try to use kind of like you would an American Express card and and pay it off every month",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And that way I feel like Im getting you know thirty day loan",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But I dont have to worry about you know running them up too high except at Christmas Then they usually go then they usually get run up pretty good",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Well you have lot of discipline I uh Im trying my best right now to pay off some of mine I Ive Ive paid off about four credit cards this year",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh but still I have some that are are up to the limit And especially the Visa Card --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- that you can go and get cash on And it seems like every time Im short of cash I just go get get it from Visa",
+                "label": "+"
+            },
+            {
+                "text": "Now thats one thats - Ive never used my Visa for cash before",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Can you use it like at bank machine - -- -",
+                "label": "qy^d"
+            },
+            {
+                "text": "Uh",
+                "label": "b"
+            },
+            {
+                "text": "-- or -",
+                "label": "%"
+            },
+            {
+                "text": "Well uh you can go in bank and just hand them the Visa Card and say I want cash advance Or if theyve sent you uh number that you can use You know personal identification number --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- that you can use in the uh impact machines or whatever you",
+                "label": "+"
+            },
+            {
+                "text": "Oh okay",
+                "label": "bk"
+            },
+            {
+                "text": "you can do that Because I have one that I dont have pin number for You know sometimes you have to ask them for that",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And then I have one that uh just gave me the pin number automatically",
+                "label": "sd"
+            },
+            {
+                "text": "Now we got - thats thats funny you said that Because we got credit card uh my husband and I got credit cards in the mail one day that we hadnt even applied for",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Now couple of weeks later we got we got pin numbers and then we got uh bill saying you know uh the yearly fee it was like forty dollars",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And we we cut them up and sent them back because we we hadnt even applied for them and we didnt want them But they they had just automatically approved us and sent them without even contacting us",
+                "label": "sd"
+            },
+            {
+                "text": "Oh wow",
+                "label": "ba"
+            },
+            {
+                "text": "So I thought man I dont know if I trust this or not",
+                "label": "sd"
+            },
+            {
+                "text": "Well they they do that lot if you have good credit and you have been paying your bills on time Ev- ev- everybody in the world will offer you credit card",
+                "label": "sd"
+            },
+            {
+                "text": "Its like lets see if we can get her to run up her bills But its hard I mean its its tempting when you see something to say Well Ill just charge it And sometimes Ill do that but usually I I will try to pay everything off the next month or --",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- the ones that usually have an outstanding balance all the time Ill Ill pay more than the minimum payment",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Just I fe- I feel like even that little bit helps",
+                "label": "sd"
+            },
+            {
+                "text": "Right Well you know the way the economys going and inflation and the recession and all that I think we we really need to try to stay out of debt as much as possible Thats thats why Ive Ive really started to try to to pay off mine and get out of debt Because we never know when we might you know get laid off or --",
+                "label": "b"
+            },
+            {
+                "text": "I know it",
+                "label": "ba"
+            },
+            {
+                "text": "-- something Especially me I work for Texas Instruments and theyve had had lot of of uh you know layoffs lately",
+                "label": "+"
+            },
+            {
+                "text": "Well I work for I too",
+                "label": "sd"
+            },
+            {
+                "text": "You do",
+                "label": "bh"
+            },
+            {
+                "text": "And I think theyre getting ready to to probably sell us out our division",
+                "label": "sd"
+            },
+            {
+                "text": "Where are you",
+                "label": "qw"
+            },
+            {
+                "text": "In Johnson City Tennessee",
+                "label": "sd"
+            },
+            {
+                "text": "Johnson City uh-huh I --",
+                "label": "b^m"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- know theyre selling out somebody in Colorado Springs",
+                "label": "+"
+            },
+            {
+                "text": "Yeah They just they just announced that didnt they",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "So I mean its its kind of bad time to be slave to your credit cards",
+                "label": "sv"
+            },
+            {
+                "text": "It it certainly is Ive uh I have worked on part part time job uh where I was collector",
+                "label": "ba"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "For uh uh jewelry company People uh that - they just had this jewelry account It was Zales jewelry in fact And uh whole bunch of peop- - I mean they have about thousand collectors I guess",
+                "label": "+"
+            },
+            {
+                "text": "Man",
+                "label": "b"
+            },
+            {
+                "text": "And uh theres just so many people that have bought jewelry which is really luxury item --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and then they they just cant pay for it Something something happens you know and you hear so many stories listening to them Like uh you know they lost their job or uh they theyve signed for friend You know they got it in their name but they --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- got it for friend and then the friend --",
+                "label": "+"
+            },
+            {
+                "text": "Didnt pay them",
+                "label": "^2"
+            },
+            {
+                "text": "-- wouldnt pay them and now theyre stuck with the bill and its ruining their credit and --",
+                "label": "+"
+            },
+            {
+                "text": "Man",
+                "label": "ba"
+            },
+            {
+                "text": "-- you really have to watch it this you know Because -",
+                "label": "+"
+            },
+            {
+                "text": "Thats scary",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah Because every every month all of these credit cards report to the credit bureau you know Automatically mo- most of them do",
+                "label": "aa"
+            },
+            {
+                "text": "I didnt realize that",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah And if you if youre uh - its bad because if you you know your bill is due on the fifteenth --",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- then i- - - - you- youre not past due until the fifteenth of the next month",
+                "label": "+"
+            },
+            {
+                "text": "Oh okay",
+                "label": "b"
+            },
+            {
+                "text": "But you know if you if you pay one day after that fifteenth youre not one day late youre thirty days late",
+                "label": "sd"
+            },
+            {
+                "text": "They dont they dont recognize any time difference do they",
+                "label": "qy^g"
+            },
+            {
+                "text": "Right",
+                "label": "aa"
+            },
+            {
+                "text": "Ooh",
+                "label": "ba"
+            },
+            {
+                "text": "right",
+                "label": "b"
+            },
+            {
+                "text": "thats scary",
+                "label": "ba"
+            },
+            {
+                "text": "- - - and anyway we need to watch our credit reports and all that kind of -",
+                "label": "%"
+            },
+            {
+                "text": "Thats something I never thought about getting you know checking with to see what what your credit report looked like",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Well you know you you can do that I believe it costs about ten dollars",
+                "label": "b"
+            },
+            {
+                "text": "Might be worth it for peace of mind",
+                "label": "ba"
+            },
+            {
+                "text": "Oh yeah It is it is You might even find somebodys been reporting on you and you didnt even know it You know you I mean you might think youre paying something on time or and you by that day - and youre thir- thirty days is not real bad though anyway",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "If youve got charge off on your credit report or something like that Thats when it really gets bad Or something you havent paid in sixty days or ninety days you know And things like that -",
+                "label": "+"
+            },
+            {
+                "text": "I think that Discover Card has good idea with you know giving you little cash back incentive for each amount you you purchase As long as you dont go crazy trying to get cash back",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And since they dont have the yearly fee",
+                "label": "sd"
+            },
+            {
+                "text": "Do they charge lot of interest on that card",
+                "label": "qy"
+            },
+            {
+                "text": "I dont know",
+                "label": "no"
+            },
+            {
+                "text": "I dont -",
+                "label": "%"
+            },
+            {
+                "text": "Ive never I havent gotten one",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Just because its uh uh - I felt like with Visa and Mastercard and American Express you didnt need another one",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I would think it wouldnt be you know much more than the eighteen or nineteen percent everyone else charges",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So that that wouldnt be too bad",
+                "label": "sv"
+            },
+            {
+                "text": "Well always watch out for - anybody who bills you out of Atlanta Georgia Or theres couple of other places that are able to charge us like twenty-one and twenty-two percent interest I know I had charge with uh Spiegel and I hadnt read the uh terms of the credit agreement really",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And uh when I did I you know I realized that that it just looked seemed like I was never paying the balance off you know And I looked at the credit card agreement one day and it was like twenty-three percent interest",
+                "label": "sd"
+            },
+            {
+                "text": "Holy cow",
+                "label": "ba"
+            },
+            {
+                "text": "And thats the one bill that I hurry up hurried and paid up",
+                "label": "sd"
+            },
+            {
+                "text": "Definitely",
+                "label": "ba"
+            },
+            {
+                "text": "And",
+                "label": "sd"
+            },
+            {
+                "text": "Thats awful",
+                "label": "ba"
+            },
+            {
+                "text": "and Ive always watched it since then You really have to watch those interest rates I mean -",
+                "label": "+"
+            },
+            {
+                "text": "I mean theres no point in giving them any more money than we have to",
+                "label": "sd"
+            },
+            {
+                "text": "Thats true",
+                "label": "ba"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "So anyway they cant bill you any higher than eighteen percent I think in in Texas But --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh thats great",
+                "label": "ba"
+            },
+            {
+                "text": "-- there there are couple of states that can And one to watch out for is anybody that bills you out of Atlanta Atlanta Georgia",
+                "label": "+"
+            },
+            {
+                "text": "Ill try to remember that one",
+                "label": "cc"
+            },
+            {
+                "text": "Well",
+                "label": "%"
+            },
+            {
+                "text": "Well lets see I was trying to think if there was anything else Uh the I guess the worst problem I ever had with with credit card though was um I got an item on my bill that I had never purchased",
+                "label": "^h"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I had ordered sofa and had filled out the paperwork but they werent supposed to process it until they delivered it",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I changed my mind",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "but then they went ahead and charged it on my account",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "And it took me about eighteen months to get that all of that mess off of my account",
+                "label": "sd"
+            },
+            {
+                "text": "Wow",
+                "label": "ba"
+            },
+            {
+                "text": "So thats thats probably the worst thing Ive ever had happen with credit card",
+                "label": "sd"
+            },
+            {
+                "text": "I wonder if they -",
+                "label": "%"
+            }
+        ]
+    }
+]

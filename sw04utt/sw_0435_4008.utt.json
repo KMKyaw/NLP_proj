@@ -1,0 +1,307 @@
+[
+    {
+        "conversation_id": "conv_4008",
+        "turns": [
+            {
+                "text": "do you have",
+                "label": "qy"
+            },
+            {
+                "text": "Yes I have Macintosh thirty",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh Yeah lot of my friends are into Macintoshes I have um I myself",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "two eighty-six Im probably eventually going to get three eighty-six Um",
+                "label": "sd"
+            },
+            {
+                "text": "What do you use yours for mostly",
+                "label": "qw"
+            },
+            {
+                "text": "Um mostly um word processing applications and uh just as dumb terminal",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Um but I um I think eventually Ill start using it for spreadsheets and things like that Um what do you find that you use yours mostly for",
+                "label": "sd"
+            },
+            {
+                "text": "Well I do lot of word processing and spreadsheets and data base and uh about the only thing - I am uh Im just starting to get into uh little bit more communications now Ive just today ordered fax modem so Ill be able to --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- send and receive faxes right over there without using you know - you dont have to make hard copy that way",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh are you using windows",
+                "label": "qy"
+            },
+            {
+                "text": "No I I think I Im planning on like moving up getting three eighty-six before I move up to windows --",
+                "label": "nn"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- although you know I do like the the graphical user environment",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh Well its getting to be more and more like Macintosh",
+                "label": "b"
+            },
+            {
+                "text": "Yeah its um - I want I want to be able I just want it more for multi tasking which I suppose is also like Macintosh",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh",
+                "label": "b"
+            },
+            {
+                "text": "Well the one thing I used to use uh - Ive never used an I actually I used to use just an Apple two which of course is --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- looks pretty primitive now",
+                "label": "+"
+            },
+            {
+                "text": "Yeah thats what I learned lot of languages on was an Apple two in my high school",
+                "label": "aa"
+            },
+            {
+                "text": "But I dont have any uh any real programming capabilities on my uh Mac right now",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I dont have uh any compilers --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- so Im uh -",
+                "label": "%"
+            },
+            {
+                "text": "Well do you use your computer for um just things around the house or in the -",
+                "label": "qr"
+            },
+            {
+                "text": "I use it in my business",
+                "label": "sd"
+            },
+            {
+                "text": "Well see what do you do",
+                "label": "qw"
+            },
+            {
+                "text": "I uh do uh consultation and and testing of various kinds for uh English as second language programs",
+                "label": "sd"
+            },
+            {
+                "text": "Oh wow Um and uh are these like uh do these programs um - are are they based on on on um other language or are they based are they based - like lot of the um you know lot of the English as second language classes will have people from all sorts of you know parts of the world and the teacher just tries to tries to teach English you know through natural understanding",
+                "label": "ba"
+            },
+            {
+                "text": "Thats uh exactly what yeah thats the kind of thing Im working with exactly",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You seem to be uh better informed than the average person on that",
+                "label": "sv"
+            },
+            {
+                "text": "Well it was just uh when I was high school I worked for the community school and they had English second language class and it always seemed strange to me that you know all these all these people that you know spoke English not too well and spoke you know variety of different languages were all being taught at the same time",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I imagine its lot harder on computer because you have to you know you dont have as many cues you cant dont have hand gestures and things like that",
+                "label": "sv"
+            },
+            {
+                "text": "Right Well now we uh - what I use computer for is to write materials that --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- are later printed though Most of the stuff that I do is not uh interactive --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and I use it for - uh data analysis on testing so -",
+                "label": "sd"
+            },
+            {
+                "text": "Uh to see how well they retain the vocabulary and things like that",
+                "label": "qy^d"
+            },
+            {
+                "text": "Well just actually just uh item analysis statistical analysis of the tests uh",
+                "label": "nd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know when you write test you have to look at some data from it and see how the different questions are performing --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and find out which ones are discriminating well and which ones arent --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- find out how reliable the test is you try correlate it with other tests and things of that sort So its involves lot of spreadsheet use",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I would imagine so Um so um what were you doing when you were using an Apple two",
+                "label": "b"
+            },
+            {
+                "text": "Well I was doing some of the same stuff but doing it more slowly and with smaller files I cant believe you know Ive got uh five uh megabytes on this one now --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh It its -",
+                "label": "b"
+            },
+            {
+                "text": "-- and on my two I had hundred twenty-eight",
+                "label": "sd"
+            },
+            {
+                "text": "Yes its amazing you know how how like in the general user community the expectations have just grown so much I remember my first computer was eighty with four on it --",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and you know then then we then I started playing with Apples you know and those had forty-eight or you know if they were really great --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh the old --",
+                "label": "qy^g"
+            },
+            {
+                "text": "-- they had sixty-four",
+                "label": "+"
+            },
+            {
+                "text": "-- the old Apple uh the the original Apple had what yeah forty-eight I guess didnt it",
+                "label": "+"
+            },
+            {
+                "text": "Uh I know I know that in my school they had bunch that had sixteen on them is all and -- -",
+                "label": "sd"
+            },
+            {
+                "text": "My goodness",
+                "label": "ba"
+            },
+            {
+                "text": "-- theres I remember that there was one game that I played that required forty-eight and there was only one computer that had forty-eight on it at the time",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And you know its just so amazing that generally you know if you if you - Im not sure about Macintoshes but I know I - you you generally you know you buy megabyte at time",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know thats thats your low- thats the low end Uh",
+                "label": "sd"
+            },
+            {
+                "text": "Well the thirty goes up to eight --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but I havent upgraded it quite that far yet I think probably when I get system seven I may have to do that and and get another possibly another hard disk I dont know They say that system seven uses lot of memory",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Yeah I imagine",
+                "label": "b"
+            }
+        ]
+    }
+]

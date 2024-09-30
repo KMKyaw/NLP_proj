@@ -1,0 +1,523 @@
+[
+    {
+        "conversation_id": "conv_2263",
+        "turns": [
+            {
+                "text": "Okay",
+                "label": "o"
+            },
+            {
+                "text": "Okay They suggested that we uh discuss what we think of when we say camping",
+                "label": "b^m"
+            },
+            {
+                "text": "Yeah What do you where do you like to camp How do you like to camp",
+                "label": "b"
+            },
+            {
+                "text": "Oh I can camp just about most anyway Camping or uh motor home is nice uh travel trailer pop up",
+                "label": "sd"
+            },
+            {
+                "text": "I used to uh live in the Ozarks and uh --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "-- liked to go up there and just take backpack and --",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- strike out into the woods",
+                "label": "+"
+            },
+            {
+                "text": "You really rough it then",
+                "label": "bf"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh Do you do that very often",
+                "label": "b"
+            },
+            {
+                "text": "I havent done it in quite awhile --",
+                "label": "ng"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- since I moved down here But I used to do it --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- quite bit",
+                "label": "+"
+            },
+            {
+                "text": "Youd have lot of hills in that down in that area",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah yeah --",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^m"
+            },
+            {
+                "text": "-- it was real hilly",
+                "label": "sd"
+            },
+            {
+                "text": "That would be really great",
+                "label": "sv"
+            },
+            {
+                "text": "Take twenty-two and go out",
+                "label": "sd"
+            },
+            {
+                "text": "Pardon",
+                "label": "br"
+            },
+            {
+                "text": "Take twenty-two and find creek",
+                "label": "sd^r"
+            },
+            {
+                "text": "uh-huh That sounds like itd be fun Did you go alone or with group or -",
+                "label": "b"
+            },
+            {
+                "text": "I used to go with my brother",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "We just lived up there",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Oh thats great Long as its not raining",
+                "label": "b"
+            },
+            {
+                "text": "Yeah it gets kind of - I we used to have one of those little caves you can go back in --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- get out of the rain",
+                "label": "+"
+            },
+            {
+                "text": "Really oh that would be -",
+                "label": "b"
+            },
+            {
+                "text": "But I dont know much about camping in Texas",
+                "label": "sd"
+            },
+            {
+                "text": "Huh-uh Well Im in Pennsylvania",
+                "label": "b"
+            },
+            {
+                "text": "You live in Pennsylvania",
+                "label": "qy"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "I didnt know they did this",
+                "label": "sd"
+            },
+            {
+                "text": "Are you in Texas now",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Oh Okay",
+                "label": "bk"
+            },
+            {
+                "text": "Yeah Im down here at I",
+                "label": "b"
+            },
+            {
+                "text": "Most everybody Ive been talking to is from Texas but uh were up here in western northwestern part of Pennsylvania",
+                "label": "sd"
+            },
+            {
+                "text": "I used to be in Ohio its some pretty country up there",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Well you kind of know what its like then Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "But weve uh weve done uh many types of camping Weve weve done tent camping and we had access to motor home which is really super great if you dont want to rough it too much",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah You can get the they have some nice camping grounds --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know that have the water piped out --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- just set it up and get out of get out of the city for awhile",
+                "label": "sv"
+            },
+            {
+                "text": "Right Just get you away from the everyday things that are going on We when the children were smaller we used to go to uh Delaware along the - ocean most every year And that was fun we stayed mostly in state parks and uh we really enjoyed that",
+                "label": "aa"
+            },
+            {
+                "text": "Tell you what Im losing you",
+                "label": "^h"
+            },
+            {
+                "text": "Huh",
+                "label": "br"
+            },
+            {
+                "text": "I said Im losing you youre getting fad- youre fading out",
+                "label": "sd^c"
+            },
+            {
+                "text": "Oh maybe my dropping my phone Is that better",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Oh But -",
+                "label": "bk"
+            },
+            {
+                "text": "So what you try to go and take vacation every year and go out and camp",
+                "label": "%"
+            },
+            {
+                "text": "Yeah Well we used to we dont as much anymore but uh we used to We kind of slowed down little bit But uh I think the worst the worst thing is when its raining If you get rainy season and you happen to be camping --",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- then it can be kind of bad",
+                "label": "+"
+            },
+            {
+                "text": "I know the rain bring out the snakes or used to bring them out in the Ozarks",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Thats kind of kind of rough when you got to fight snakes off when your sleeping",
+                "label": "sv"
+            },
+            {
+                "text": "I dont think I would like that What kind",
+                "label": "sd"
+            },
+            {
+                "text": "Uh copperheads mostly",
+                "label": "sd"
+            },
+            {
+                "text": "Oh Those arent too pleasant",
+                "label": "bk"
+            },
+            {
+                "text": "No theyre -",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah We have some of them around here You probably have more there though I would imagine",
+                "label": "b"
+            },
+            {
+                "text": "Yeah One year they were they were just everywhere",
+                "label": "aa"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "I dont know what it was we had real rainy spring --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and then it was all year there was just copperheads everywhere",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh But you still backpacked and camped out",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Well I lived down in down in the bottom of big hollow and we had to pretty much hike out most of the time",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "If it rained we were stuck back in there Had four wheel drive",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You just get used to it",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I guess you know enough to look where youre walking or sitting --",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "-- or whatever youre doing Yeah Yeah I would think I would think cave would be could have problems like that too",
+                "label": "+"
+            },
+            {
+                "text": "Yeah This cave that we used to go in was little it was small it was more --",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- it was just big enough for couple of people to sack out",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh is your brother younger than you or -",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Hes about year and half younger",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh uh-huh well thats great thatd be lot of fun You have lot good experiences from that Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Yeah it was Saw few bears --",
+                "label": "aa"
+            },
+            {
+                "text": "Did you really",
+                "label": "bh"
+            },
+            {
+                "text": "-- things like that",
+                "label": "+"
+            },
+            {
+                "text": "What black ones",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah That would be exciting",
+                "label": "b^m"
+            },
+            {
+                "text": "Yeah the first first couple of times its pretty scary but uh after that you realize they are just as afraid of you too",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah theyre usually more afraid of you than you are of them usually",
+                "label": "aa"
+            },
+            {
+                "text": "But uh -",
+                "label": "%"
+            },
+            {
+                "text": "Theyre on the increase in this area",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "I dont know if - they dont have them up there do they",
+                "label": "%"
+            },
+            {
+                "text": "The black bear",
+                "label": "qy^h"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "ny^m"
+            },
+            {
+                "text": "Oh do they",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah the populations been really up Theyve uh theyve had longer hunting seasons than that even to get rid of more of them because they were uh increasing so much",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah they down here they they stopped for awhile or they really made it hard to hunt them",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I dont know what its like now I havent been back up there in awhile",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah But uh we we really like camping I I must say that uh we ha- we really have lot of fun lot of memories in that from camping and uh -",
+                "label": "b"
+            },
+            {
+                "text": "Well its good to get out and smell some fresh air too",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "Its just so its lot of work too --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- its uh get- you know getting ready and taking care of everything But its um its really refreshing So -",
+                "label": "sv"
+            },
+            {
+                "text": "Well I think were about to run out of our time",
+                "label": "fc"
+            },
+            {
+                "text": "I think so Well it was really good hearing from you and --",
+                "label": "fc"
+            },
+            {
+                "text": "Yeah",
+                "label": "fc"
+            },
+            {
+                "text": "-- I hope you get back into camping again and do little more of it",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Im sure I will",
+                "label": "fc"
+            },
+            {
+                "text": "Okay Thanks lot and you have good day",
+                "label": "fc"
+            },
+            {
+                "text": "You too",
+                "label": "fc"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc"
+            },
+            {
+                "text": "Bye",
+                "label": "fc"
+            }
+        ]
+    }
+]

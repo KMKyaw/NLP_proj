@@ -1,0 +1,479 @@
+[
+    {
+        "conversation_id": "conv_2678",
+        "turns": [
+            {
+                "text": "Uh so Jack what type of music do you like",
+                "label": "qo"
+            },
+            {
+                "text": "Well I like uh classical",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and uh sort of uh popular rock type music Uh",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I enjoy classical too I never really had listened to it till I I got married",
+                "label": "b"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "and and my wife uh enjoys it",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So I had never listened to it bef- till then but now I listen to it well whenever she does And even every once in while I put it on myself you know",
+                "label": "sd"
+            },
+            {
+                "text": "Yep",
+                "label": "b"
+            },
+            {
+                "text": "Um wh- -",
+                "label": "%"
+            },
+            {
+                "text": "Yeah I I used to play the piano and I like uh Bach and",
+                "label": "b"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "Um sort of the baroque music Handel and",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "uh Vivaldi and those kinds of -",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah see those those are really nice I like those",
+                "label": "b"
+            },
+            {
+                "text": "Yep yep",
+                "label": "b"
+            },
+            {
+                "text": "Though I I couldnt tell you anything about them other than when my wife says This is Bach you know",
+                "label": "sd"
+            },
+            {
+                "text": "Oh Yep yep Well I you know I dont I dont know all that much myself I just I just know",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "when I hear it that I like it",
+                "label": "+"
+            },
+            {
+                "text": "Yeah that you - - what you like - How about popular music",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Uh whatsevers on the radio is is usually okay with me but",
+                "label": "^h"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "um sometimes I have hard time unders- you know hearing the words clearly if Im in the car and theres noise and stuff so -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "+"
+            },
+            {
+                "text": "Its mostly just the tunes",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Im pretty much the same way You know people always say Wow Th- the meanings of those words",
+                "label": "b"
+            },
+            {
+                "text": "Yeah I know",
+                "label": "aa"
+            },
+            {
+                "text": "And Im always meaning Theres wor- well you know - I just thought they just all sort of rhymed you know",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "I know I know About the only thing I can remember after the song is over is the refrain",
+                "label": "ba"
+            },
+            {
+                "text": "Right yeah That whenever they say it two or three times",
+                "label": "b"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Im the same way Yeah Its funny uh depending on where you live I I I commute back and forth between Baltimore and rural town called Salisbury",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "which is two and half hours away and the difference in the radio with popular music",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "is totally different you know when -",
+                "label": "+"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah because Baltimore will play more uh what might be considered - little bit more progressive",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And as soon as you go down to Salisbury this town thats you know uh two and half hours away in the suburbs or whatever uh in real rural Balt- uh Maryland",
+                "label": "sd"
+            },
+            {
+                "text": "Yes",
+                "label": "bh"
+            },
+            {
+                "text": "they it turns into ber- basically classic rock",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "bh"
+            },
+            {
+                "text": "And they dont you know -",
+                "label": "%"
+            },
+            {
+                "text": "Oldies or what",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah mostly oldies",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But classic rock you know with - if you know like when the Doors movie came out you know Doors was really on the radio there",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "you know Where you know youd hear was- one or two of their more famous songs maybe top forty in Baltimore but in Salisbury you woul- thats all you would hear was This is the Doors you know",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "So it was sort of funny thing",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah Theres big variation among the country I mean if you",
+                "label": "b"
+            },
+            {
+                "text": "- -",
+                "label": "%"
+            },
+            {
+                "text": "go down south country music and -",
+                "label": "+"
+            },
+            {
+                "text": "Yes thats - Im starting to realize that I never really thought about that much but there is",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "Yeah I never",
+                "label": "b^m"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "I never I didnt - I I lived in Pittsburgh before Baltimore and I didnt I never really noticed the difference when I moved to this area",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I really didnt notice at all It just seemed the same",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But when I went more rural you know that it really changed",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "Yeah Chicago has lot of good stations uh",
+                "label": "b"
+            },
+            {
+                "text": "Oh does it Yeah",
+                "label": "bh"
+            },
+            {
+                "text": "Yes Uh in fact they have they have continuous news station which is nice if youre driving and you want to - -",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "now you dont have to wait till the hour mark Its its its sort of constant You just turn there",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and uh you get the latest news and everything Its uh its sort of like you know you turn on your and its on",
+                "label": "sd"
+            },
+            {
+                "text": "Right Yeah Boy that would really be beneficial",
+                "label": "b"
+            },
+            {
+                "text": "So yeah",
+                "label": "b"
+            },
+            {
+                "text": "Because you never hear the you never hear the news basically on the radio I never get it",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "aa"
+            },
+            {
+                "text": "You know and if you dont if you dont read the paper you sort of fall behind if youre in",
+                "label": "sv"
+            },
+            {
+                "text": "Yep",
+                "label": "aa"
+            },
+            {
+                "text": "the car all the time",
+                "label": "+"
+            },
+            {
+                "text": "Yep yep",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah thats pretty good",
+                "label": "b"
+            },
+            {
+                "text": "So - yeah I like to listen to tapes uh of music or",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "or um stuff on long trip",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And um now you can even get books on tape um",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah yeah On fact my uh my grandmother does that lot",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "because shes blind or what- shes losing her sight or whatever",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But - yeah that of in - I can imagine you know if youre driving cross country",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "you know uh listening to story - - lot of the classics are really",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "on tape",
+                "label": "+"
+            },
+            {
+                "text": "Yep yep",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So thats lot of fun but -",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah thats that would be good",
+                "label": "b"
+            },
+            {
+                "text": "Yep",
+                "label": "aa"
+            },
+            {
+                "text": "Well we strayed lot from music",
+                "label": "sv^t"
+            },
+            {
+                "text": "Yeah I guess so Well -",
+                "label": "aa"
+            },
+            {
+                "text": "But I but I guess music comes into that whole aspect of listening",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "So as long youre listening So -",
+                "label": "+"
+            },
+            {
+                "text": "Right Yep",
+                "label": "aa"
+            },
+            {
+                "text": "But if you do if you do have to go something I guess we can just cut off",
+                "label": "fc"
+            },
+            {
+                "text": "Yep Okay",
+                "label": "fc"
+            },
+            {
+                "text": "Well Jack it was nice to talk to you",
+                "label": "fc"
+            },
+            {
+                "text": "Yep Nice talking to you Tom",
+                "label": "fc"
+            },
+            {
+                "text": "- and good luck and I hope you get some more calls and make some more calls",
+                "label": "fc"
+            },
+            {
+                "text": "All right Good",
+                "label": "fc"
+            },
+            {
+                "text": "Bye",
+                "label": "fc"
+            },
+            {
+                "text": "Thank you Bye bye",
+                "label": "fc"
+            }
+        ]
+    }
+]

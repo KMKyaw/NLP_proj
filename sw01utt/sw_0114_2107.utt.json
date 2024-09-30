@@ -1,0 +1,719 @@
+[
+    {
+        "conversation_id": "conv_2107",
+        "turns": [
+            {
+                "text": "You said you have four cats",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yes I have four cats",
+                "label": "ny"
+            },
+            {
+                "text": "How old are they",
+                "label": "qw"
+            },
+            {
+                "text": "Well they range from lets see about year and half to nine years old",
+                "label": "sd"
+            },
+            {
+                "text": "Oh gosh",
+                "label": "b"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "I havent had my oldest one quite nine years Ive had him probably five years",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay you get so attached to them",
+                "label": "bk"
+            },
+            {
+                "text": "Oh yes I love my cats I lost one one time uh",
+                "label": "aa"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "the first one I got He jumped off the balcony actually of second story apartment",
+                "label": "sd"
+            },
+            {
+                "text": "Oh no",
+                "label": "ba"
+            },
+            {
+                "text": "And hed never been outside like you know by himself outside",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And it started raining and I was hysterical I was I was - I mean you would have thought child had died",
+                "label": "sd"
+            },
+            {
+                "text": "Yes uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I called everyone I knew I had every friend I knew in the apartment searching for this cat",
+                "label": "sd"
+            },
+            {
+                "text": "Yes I understand",
+                "label": "b"
+            },
+            {
+                "text": "And they laughed at me they thought that was so hysterical",
+                "label": "sd"
+            },
+            {
+                "text": "Oh no I understand we uh weve gone through the same things with ours weve had you know theyve been ill I mean I take off work",
+                "label": "ba"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "to take care of my cats you know my boss thinks Im absolutely crazy And then we had baby and its like all right who comes first the cat or the baby",
+                "label": "+"
+            },
+            {
+                "text": "The cat was here first so I know its hard",
+                "label": "bf"
+            },
+            {
+                "text": "And and then when we go to sleep at night you know its like my husband and I have to try to get any space on the bed because we have all four of them up there with us",
+                "label": "sd"
+            },
+            {
+                "text": "Oh how funny",
+                "label": "ba"
+            },
+            {
+                "text": "Its like all right whose corners is this one",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Thats sweet I have the two the other two cats I have are outdoor cats",
+                "label": "ba"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And they didnt used to be actually but they got kind of wild and werent doing very well inside so I put them outside once I got house and theyre doing great out there they love it But the other one the first one I got he doesnt want anything to do with outside unless youre there",
+                "label": "sd"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Other than that he gets scared to death If you shut that door he goes into hiding",
+                "label": "sd"
+            },
+            {
+                "text": "Oh no",
+                "label": "ba"
+            },
+            {
+                "text": "I think its from the time he jumped off the balcony",
+                "label": "sd"
+            },
+            {
+                "text": "Yes uh-huh thats it",
+                "label": "aa"
+            },
+            {
+                "text": "And Lord knows what happened to him Hes probably been through all kinds of nightmares",
+                "label": "sd"
+            },
+            {
+                "text": "Right traumatized for life here",
+                "label": "aa"
+            },
+            {
+                "text": "Probably",
+                "label": "am"
+            },
+            {
+                "text": "Oh yeah weve - all four of ours are house cats",
+                "label": "b"
+            },
+            {
+                "text": "Are they",
+                "label": "bh"
+            },
+            {
+                "text": "We started out with two with two outdoor cats but our neighbor decided he didnt like cats and shot one of them",
+                "label": "sd"
+            },
+            {
+                "text": "Oh no",
+                "label": "ba"
+            },
+            {
+                "text": "Oh well he lived through it oh I couldnt believe it We went through like twenty-two hundred dollars worth of vet bills",
+                "label": "sd"
+            },
+            {
+                "text": "Oh my gosh",
+                "label": "ba"
+            },
+            {
+                "text": "The the cat almost died and but he turned out to be such wonderful cat oh he loves life now",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I imagine",
+                "label": "ba"
+            },
+            {
+                "text": "And hes like oh thank you so much",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "I wonder how many of his lives he missed when that happened",
+                "label": "sd"
+            },
+            {
+                "text": "I know we wondered about that But uh oh that was traumatic experience for us too",
+                "label": "aa"
+            },
+            {
+                "text": "Oh I can imagine what did he shoot him with",
+                "label": "ba"
+            },
+            {
+                "text": "Uh well uh from what we can tell it was pellet gun and then he started chasing him with bull whip",
+                "label": "sd"
+            },
+            {
+                "text": "Oh my gosh People are crazy",
+                "label": "ba"
+            },
+            {
+                "text": "Oh yes absolutely nuts But uh luckily enough you know we found the cat in time and uh rushed him to the vet and it took us about six weeks of in and out of the vet and surgery and",
+                "label": "aa"
+            },
+            {
+                "text": "Oh Lord",
+                "label": "ba"
+            },
+            {
+                "text": "tod- - I mean he started off as stray and then we did all this for him",
+                "label": "+"
+            },
+            {
+                "text": "Oh man",
+                "label": "ba"
+            },
+            {
+                "text": "But oh hes been wonderful cat",
+                "label": "sd"
+            },
+            {
+                "text": "I imagine They usually are after something like that happens to them It seems to mellow them or something",
+                "label": "ba"
+            },
+            {
+                "text": "Oh yes But uh we wouldnt ha- we wouldnt have them - I mean I dont see us without pets without cats",
+                "label": "aa"
+            },
+            {
+                "text": "No",
+                "label": "aa"
+            },
+            {
+                "text": "Theres just uh theres this they just fill this void",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah I ke- I keep talking about getting rid of my outdoor cats because I feel like I dont I cant take care of them as well because theyre outside",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and it worries me that one day one of them wont come back",
+                "label": "sd"
+            },
+            {
+                "text": "Yes",
+                "label": "aa"
+            },
+            {
+                "text": "and I feel like they need big home nice place where someone can have the time to play with them and things But I cant give them up",
+                "label": "sd"
+            },
+            {
+                "text": "Oh no",
+                "label": "aa"
+            },
+            {
+                "text": "I just I go hysterical when they dont come home",
+                "label": "sd"
+            },
+            {
+                "text": "Right and you worry about oh whos taking care of them",
+                "label": "aa"
+            },
+            {
+                "text": "Oh oh yeah and every time you see one hit on the side of the road you say is that my cat",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And you go crazy thinking it might be yours",
+                "label": "sd"
+            },
+            {
+                "text": "Right well I didnt realize my husband was such sucker for animals until I brought one home one night We we- I had one that had we had we had to put to sleep he got so sick",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh well I fell in love with this uh its Chinchilla Persian",
+                "label": "sd"
+            },
+            {
+                "text": "Ugh",
+                "label": "ba"
+            },
+            {
+                "text": "and uh brought him home and oh my husband just died",
+                "label": "+"
+            },
+            {
+                "text": "Really",
+                "label": "b"
+            },
+            {
+                "text": "It was like we cant take it back youve got weve got to keep it now",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Its here now we have to keep it Yeah my my first one that I got - I had just moved away from home and got my own apartment It took me about two weeks to realize that was real lonely",
+                "label": "bf"
+            },
+            {
+                "text": "uh-huh uh-huh yes",
+                "label": "b"
+            },
+            {
+                "text": "So I found this one and uh actually it was on sign at Taco Bell drive-thru that said free kittens",
+                "label": "sd"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I thought well thats interesting Ill call them",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And he was the only one left and his mother had been killed coming back across the road to make sure shed gotten all her kittens",
+                "label": "sd"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And he was the last one she carried across you know the whole big sad story",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "So of course I had to take him I felt so sorry for him after that",
+                "label": "sd"
+            },
+            {
+                "text": "Right right",
+                "label": "b"
+            },
+            {
+                "text": "And he is uh you can tell he was weaned too young because hell nurse on your ears and your fingers",
+                "label": "sd"
+            },
+            {
+                "text": "Oh no",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah he - I asked the vet why he did that and he said he was probably weaned too young which he was because his mom was killed so -",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But he is the lovingest cat Everybody people who dont even like cats like him",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "He never meows he he doesnt have any front claws I had him declawed",
+                "label": "sd"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "but he doesnt bite anybody hes just hes just kind of there real friendly and docile",
+                "label": "sd"
+            },
+            {
+                "text": "Oh thats good Oh we just uh just love them They uh you know get to feeling so lovey and dovey and theyll come up and just start kneading in our chest and its like oh your claws need trimming",
+                "label": "ba"
+            },
+            {
+                "text": "Oh yeah yeah we do we call that doing biscuits",
+                "label": "aa"
+            },
+            {
+                "text": "Oh yes yes",
+                "label": "b"
+            },
+            {
+                "text": "it looks like their kneading bread spelling their should be theyre",
+                "label": "sd"
+            },
+            {
+                "text": "Oh it just drives us nuts",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I just love cats I like dogs theyre okay I had",
+                "label": "sd"
+            },
+            {
+                "text": "Um yeah",
+                "label": "b"
+            },
+            {
+                "text": "I had dog when I lived at home but theyre lot more trouble than cats actually",
+                "label": "+"
+            },
+            {
+                "text": "They really are The cats are so independent and they have so much more personality than dog",
+                "label": "aa"
+            },
+            {
+                "text": "Oh yeah they do",
+                "label": "aa"
+            },
+            {
+                "text": "And but oh theyre so much fun to watch them play",
+                "label": "sv"
+            },
+            {
+                "text": "Oh they are I love it its so funny to get more than one cat together because it brings out their personalities",
+                "label": "aa"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "And they just act so funny",
+                "label": "sv"
+            },
+            {
+                "text": "Oh weve got - well the two that were outside theyre like brothers I mean Ive never seen two cats so close",
+                "label": "sd"
+            },
+            {
+                "text": "Really",
+                "label": "b"
+            },
+            {
+                "text": "And uh they uh will get to playing chase through the house",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and it is hysterical I mean and then the other two cats will follow in pursuit Its like this train",
+                "label": "sd"
+            },
+            {
+                "text": "train of cats running around",
+                "label": "bf"
+            },
+            {
+                "text": "I mean it sounds like train We have wooden floors and so it just sort of echoes through the house",
+                "label": "sd"
+            },
+            {
+                "text": "Oh how funny I can imagine Yeah I wouldnt give anything for my cats I love them to death",
+                "label": "ba"
+            },
+            {
+                "text": "Oh no theyre just theyre theyre just uh theyre wonderful uh",
+                "label": "aa"
+            },
+            {
+                "text": "What are your cats names",
+                "label": "qw"
+            },
+            {
+                "text": "Uh we have uh Bonzo Bear Poindexter and Felix",
+                "label": "sd"
+            },
+            {
+                "text": "Oh how sweet",
+                "label": "ba"
+            },
+            {
+                "text": "And what do you have",
+                "label": "qw"
+            },
+            {
+                "text": "I have Xanadu and Precious and Rascal",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Precious and Rascal are brother and sister and they dont look thing like Nothing Precious is medium hair yellow cat",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh yeah",
+                "label": "b"
+            },
+            {
+                "text": "and Rascal is black and white short hair",
+                "label": "sd"
+            },
+            {
+                "text": "Nothing",
+                "label": "b^m"
+            },
+            {
+                "text": "They dont look thing like",
+                "label": "sd^r"
+            },
+            {
+                "text": "Not thing goodness gracious",
+                "label": "ba"
+            },
+            {
+                "text": "and they came from the same litter and everything",
+                "label": "sd"
+            },
+            {
+                "text": "We have uh uh tortoise which is black and and orange",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "And shes so ugly",
+                "label": "sd"
+            },
+            {
+                "text": "So ugly shes cute right",
+                "label": "bf"
+            },
+            {
+                "text": "Yes uh-huh I mean you cant help but love her Shes shes the oldest one and but uh very possessive",
+                "label": "ny"
+            },
+            {
+                "text": "Really",
+                "label": "b"
+            },
+            {
+                "text": "I mean its like nobody messes with her mamma",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "And uh I mean it comes bedtime and shes right there",
+                "label": "sd"
+            },
+            {
+                "text": "Is she the oldest one",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah shes the oldest And she - well in fact I got her when I moved out of the house also",
+                "label": "ny"
+            },
+            {
+                "text": "Really",
+                "label": "b"
+            },
+            {
+                "text": "And so yeah its uh - wouldnt have - I mean oh if something happens to her",
+                "label": "b"
+            },
+            {
+                "text": "Oh I know its like the end of the world",
+                "label": "aa"
+            },
+            {
+                "text": "It will be",
+                "label": "sd"
+            },
+            {
+                "text": "I know thats how I am about Xanadu",
+                "label": "sd"
+            },
+            {
+                "text": "Oh goodness You get so attached to them",
+                "label": "ba"
+            },
+            {
+                "text": "Oh definitely",
+                "label": "aa"
+            },
+            {
+                "text": "My mother has dogs and Im like no",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "This is nothing like cats",
+                "label": "sv"
+            },
+            {
+                "text": "You can walk dog and thats okay for weekend but cats are good all the time",
+                "label": "sd"
+            },
+            {
+                "text": "Right Im so glad my husband is cat person because if he was dog person no it wouldnt have worked",
+                "label": "aa"
+            },
+            {
+                "text": "It wouldnt have no that would be problem",
+                "label": "b^m"
+            },
+            {
+                "text": "Oh thats one of the requirements I asked him I said now you do like cats right We dont li- -",
+                "label": "sd"
+            },
+            {
+                "text": "Have you seen those uh - do you ever read COSMO",
+                "label": "qy"
+            },
+            {
+                "text": "Yes uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "There was cartoon in COSMO about year or two ago and it had this man sitting on couch with his date and there were cats hanging all over him Hanging on his clothes you know they had ripped him up and the couch was ripped up and down at the bottom he said of course I love cats And they were just all over him and sitting on his head the whole nine yards It was so funny",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah oh the whole time I was pregnant they kept saying are you getting rid of your cats are you getting rid of your cats You cant be pregnant and have cats Im like uh no no no",
+                "label": "b"
+            },
+            {
+                "text": "Watch me",
+                "label": "^q"
+            },
+            {
+                "text": "Right the child will learn to like cats",
+                "label": "aa"
+            },
+            {
+                "text": "Definitely",
+                "label": "aa"
+            },
+            {
+                "text": "and deal with them Im sorry we are not getting rid of the cats",
+                "label": "+"
+            },
+            {
+                "text": "Oh I wouldnt either Thered be no way",
+                "label": "sd"
+            },
+            {
+                "text": "The whole family was so disappointed",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really oh well -",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Thats life thats how life goes",
+                "label": "o"
+            },
+            {
+                "text": "Right uh but yes we just just love them to death",
+                "label": "aa"
+            },
+            {
+                "text": "I know I love mine too Well its been nice talking to you",
+                "label": "aa"
+            },
+            {
+                "text": "Well it was nice talking to you too I enjoyed it",
+                "label": "fc"
+            },
+            {
+                "text": "Me to Bye bye",
+                "label": "fc"
+            },
+            {
+                "text": "Bye bye",
+                "label": "fc"
+            }
+        ]
+    }
+]

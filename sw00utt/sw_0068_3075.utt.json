@@ -1,0 +1,543 @@
+[
+    {
+        "conversation_id": "conv_3075",
+        "turns": [
+            {
+                "text": "Lynn do you do you want to start",
+                "label": "qy"
+            },
+            {
+                "text": "Certainly",
+                "label": "na"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "Do you want to tell me about summer vacations youve taken or -",
+                "label": "qy"
+            },
+            {
+                "text": "Well I I tend to uh take two kinds of vacations the vacations to visit family --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and the vacations to just have week being cultural and going to the theater and doing sight-seeing and things like that",
+                "label": "+"
+            },
+            {
+                "text": "Which is your favorite",
+                "label": "qw"
+            },
+            {
+                "text": "Oh well I couldnt live without the family vacations but uh my favorite is the the indulgent ones where we go off and and uh see places that have interested me since I was kid",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "for the most part And uh -",
+                "label": "+"
+            },
+            {
+                "text": "Your family doesnt live close then",
+                "label": "qy^d"
+            },
+            {
+                "text": "Uh not anymore They uh theyve been in San Diego for the last few years and theyre moving to Florida",
+                "label": "ng"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "And thats one of those things you just have to go once year",
+                "label": "sd"
+            },
+            {
+                "text": "Yep I understand",
+                "label": "b"
+            },
+            {
+                "text": "So uh basically it it sorts out into that and then once about once every three or four years I try to get over to England because I lived there for while",
+                "label": "sd"
+            },
+            {
+                "text": "Wow",
+                "label": "ba"
+            },
+            {
+                "text": "some years back",
+                "label": "+"
+            },
+            {
+                "text": "Ive only been there once",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "and Id love to go back",
+                "label": "sd"
+            },
+            {
+                "text": "Beautiful country Beautiful country",
+                "label": "sv"
+            },
+            {
+                "text": "And it was -",
+                "label": "%"
+            },
+            {
+                "text": "beautiful people",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah it -",
+                "label": "b"
+            },
+            {
+                "text": "But uh - and Id real",
+                "label": "%"
+            },
+            {
+                "text": "we had great time",
+                "label": "sd"
+            },
+            {
+                "text": "really like to go because um Im fairly recently married and and my husband has been hearing about these people for years and uh but hes never met them so uh Id like Id like to do that But anyway thats thats our typical vacation and uh we enjoy the family vacations but the other ones are very special getaways and we probably take one of each every year How about yourself",
+                "label": "+"
+            },
+            {
+                "text": "Well uh we we as you do take family vacations uh sometimes one year and but this year were not going to be taking one for several reasons But vacations we really enjoy I think weve been on three cruises",
+                "label": "sd"
+            },
+            {
+                "text": "Oh Ive never",
+                "label": "sd"
+            },
+            {
+                "text": "And we",
+                "label": "sd"
+            },
+            {
+                "text": "been on cruise",
+                "label": "+"
+            },
+            {
+                "text": "we really love cruises Weve gone on CARNIVAL CRUISE LINES",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh weve gone fairly inexpensive from as most cruises go Uh we usually book just month before its ready to go",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And we get upgraded Last ti- last two times in fact we had an outside room and it was beautiful",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "And we like not having to take our suitcase in and out of hotel rooms and drag it all around Its kind of -",
+                "label": "sd"
+            },
+            {
+                "text": "Well what do you do on cruise Ive never been on cruise",
+                "label": "qw"
+            },
+            {
+                "text": "Oh my God you do everything You I mean you can be as busy as you want to be or as laid back as you want to be You can sit in the sun all day around the pool or you can take part in the games that they have going on They always have bingo They have casino Uh they have massage parlor They have exercise I mean you can do anything",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "%"
+            },
+            {
+                "text": "And thats just aboard ship And then when the ship docks you get to go sight-seeing and shopping",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And thats quite fun",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh And where have you been on these cruises",
+                "label": "b^r"
+            },
+            {
+                "text": "Uh Nassau San Juan Saint Thomas Weve been there twice We went two cruises that hit those islands but with different people We weve gone with friends each time",
+                "label": "sd"
+            },
+            {
+                "text": "I see",
+                "label": "b"
+            },
+            {
+                "text": "And then we went to uh the western Caribbean which is uh Port uh Cancun Cozumel",
+                "label": "sd"
+            },
+            {
+                "text": "Oh the the Mexican coast",
+                "label": "bf"
+            },
+            {
+                "text": "and Ocho Rios Pardon me",
+                "label": "+"
+            },
+            {
+                "text": "Thats all Mexico I think",
+                "label": "bf"
+            },
+            {
+                "text": "Yes uh-huh And but it was wonderful So we really like those And uh I guess we just like to go someplace someplace entirely different Weve been to few places in this country We still have lot to see though",
+                "label": "aa"
+            },
+            {
+                "text": "Where are you from originally",
+                "label": "qw"
+            },
+            {
+                "text": "Were from Illinois originally",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "bk"
+            },
+            {
+                "text": "And weve been down in Texas eighteen years and so like you we always try to make it you know back home to see the relatives We both still have family there",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "And thats fun It brings back lot of memories",
+                "label": "sv"
+            },
+            {
+                "text": "Oh yes",
+                "label": "b"
+            },
+            {
+                "text": "Uh things are different there though Theyre uh - I dont know Its just entirely different world than this area",
+                "label": "sv"
+            },
+            {
+                "text": "Well I I grew up in Dallas so I mean",
+                "label": "sd"
+            },
+            {
+                "text": "Did you",
+                "label": "bh"
+            },
+            {
+                "text": "its not its not like Im going home My",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "my parents retired first to San Diego and theyre going now to Florida and so theyre going very nice places thank God",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "that will be pleasure to visit and get to know I really came to love San Diego and feel very comfortable there Theyve been there eight years",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh you know I just grab the car and drive everywhere",
+                "label": "sd"
+            },
+            {
+                "text": "Oh thats great",
+                "label": "ba"
+            },
+            {
+                "text": "So it it is it is nice but its not home This is home and um and Ive never thought about cruise Its so funny",
+                "label": "sv"
+            },
+            {
+                "text": "Oh they they they really are Weve yeah as I said weve done them three times Wed be going again this this year if circumstances hadnt changed We",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "wed probably go My husband would you know the minute I said the word he he hes chomping at the bit He kind of likes the casinos little bit",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But I like all of that",
+                "label": "sd"
+            },
+            {
+                "text": "Whats the best part from your point of view",
+                "label": "qw"
+            },
+            {
+                "text": "I like seeing other countries and shopping in other places",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I like shopping I can shop anyplace shop in London and France and wherever Now my kids are moving to Toronto so were going to be able to go up there",
+                "label": "sd"
+            },
+            {
+                "text": "Oh that will be nice",
+                "label": "ba"
+            },
+            {
+                "text": "So Im kind of looking forward to that except I hate to see them go",
+                "label": "sd"
+            },
+            {
+                "text": "Oh sure",
+                "label": "aa"
+            },
+            {
+                "text": "But -",
+                "label": "%"
+            },
+            {
+                "text": "Sure Well go in dont go in the winter",
+                "label": "b^r"
+            },
+            {
+                "text": "Oh thats what everybody says and I I think its - I think Ill try to stay away except my my second grandchild will be born in in the winter in January",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "So that will be hard to stay away from",
+                "label": "sd"
+            },
+            {
+                "text": "Well th- there are exceptions made for special occasions like that",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But the ordinary thing is to stay out of the north in the winter and get out of Texas in the summer so -",
+                "label": "sv"
+            },
+            {
+                "text": "Isnt that the truth uh-huh",
+                "label": "aa"
+            },
+            {
+                "text": "Huh Well that sounds wonderful I I guess I I would contemplate going on cruise uh oh all circumstances permitting it",
+                "label": "sv"
+            },
+            {
+                "text": "Well theres all age grou- groups too and thats thats kind of fun Uh you if you sit at table with lot of people for your meals you meet different people",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You may meet people you know thirty years older than you or younger and everybody is really interesting and everybody is there to have good time and -",
+                "label": "sd"
+            },
+            {
+                "text": "Huh How long are the cruises",
+                "label": "qw"
+            },
+            {
+                "text": "Uh weve only gone on the seven day cruises",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "They have shorter ones and then they have ten day ones But I think seven days is long enough for us By that time were ready to get home and get back to our routine",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I think most vacations uh seven days is enough for us Weve gone - I think when we went to England and France we were there ten twelve days and that was pushing it bit",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah Uh I tend when when I spend enough money to go overseas - I",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "go for long time",
+                "label": "+"
+            },
+            {
+                "text": "Well that that makes sense it really does I mean oh we went to Panama too",
+                "label": "sv"
+            },
+            {
+                "text": "Oh thats interesting",
+                "label": "ba"
+            },
+            {
+                "text": "Went to Panama last August",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Our son-in-law is from Panama",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "And uh we went with our daughter and son-in-law to visit his parents who live there",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And his father is doctor and his mother is kindergarten teacher and they took time off it was their winter and they were having little break so they took some time off that uh they could show us around And it it is beautiful country",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "%"
+            },
+            {
+                "text": "It is beautiful They have mountains We were an hour away from the mountains or an hour away from the shore",
+                "label": "sv"
+            },
+            {
+                "text": "Thats really nice",
+                "label": "ba"
+            },
+            {
+                "text": "And it it is gorgeous They live in small town called David which is northern Panama up near Costa Rica",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh its its just its just gorgeous country Most people dont realize it I think if they could get tourists coming to their country theyd improve the economy considerably",
+                "label": "sv"
+            },
+            {
+                "text": "Huh Well may maybe now things are calming down again",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "That will happen",
+                "label": "+"
+            },
+            {
+                "text": "We really hope hope so",
+                "label": "sd"
+            },
+            {
+                "text": "Well that thats really great Uh",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I I mean as I said basically all Ive done is go back and forth to parents and uh -",
+                "label": "sd"
+            },
+            {
+                "text": "Well that thats thats pretty good Thats pretty good",
+                "label": "ba"
+            },
+            {
+                "text": "And and uh we had my husband had conference in so we spent week in and of course -",
+                "label": "sd"
+            },
+            {
+                "text": "Oh do you like",
+                "label": "qy"
+            },
+            {
+                "text": "Uh Im Im Im very unusual I like -",
+                "label": "h"
+            }
+        ]
+    }
+]

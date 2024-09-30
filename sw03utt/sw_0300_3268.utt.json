@@ -1,0 +1,319 @@
+[
+    {
+        "conversation_id": "conv_3268",
+        "turns": [
+            {
+                "text": "Well the types of vacations that I usually take - I usually come back more tired after my vacation then I do you know before I take it Um I need to definitely take vacation where all all I do is rest And I guess to do that Id probably have to take it at home",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "But um the vacation spots that I like to go to are places like the Bahamas and Florida I enjoy the beach",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I am after our last summers vacation I am antibeach",
+                "label": "sd"
+            },
+            {
+                "text": "Antibeach",
+                "label": "b^m"
+            },
+            {
+                "text": "uh-huh We went to uh Cape Hatteras",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Well we we were out visiting one of our kids in Maryland and we went down to Cape Hatteras for few days",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh uh the the waves were huge Ive never quite seen waves like this one --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh I was standing in water not more than in barely above my ankles --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh you know when the waves go in the waves go out they kind of all of sudden youre in sand above your ankles",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And I was standing there talking to my daughter and this really big wave came and totally threw me and one foot did not come out of the sand and it tore the ligaments in my knee",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So Im never going to another beach again ever Im ma- -",
+                "label": "sd"
+            },
+            {
+                "text": "You might be like I am I enjoy I enjoy going to the beach and to beach areas but I really dont like to get in the water the ocean I prefer swimming pool",
+                "label": "sv"
+            },
+            {
+                "text": "Well I I love to go and play around At least I always did but although actually my I like the mountains I uh --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- I dont really like hot weather thats my biggest gripe about living here",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I basically dont want to go to hot place on vacation",
+                "label": "sd"
+            },
+            {
+                "text": "Right I can understand that",
+                "label": "b"
+            },
+            {
+                "text": "Oh I my dream vacation is Alaska",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "This is --",
+                "label": "sd"
+            },
+            {
+                "text": "That would be nice",
+                "label": "ba"
+            },
+            {
+                "text": "-- just someplace Ive always wanted to go and someday I hope we can afford to just take humdinger of vacation up there",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh I know Ive taken several vacations to Colorado and I used to live in Colorado oh sometime ago for couple of years and I really enjoyed that",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh Yeah Id Id like that Uh I havent been to Yellowstone for long long time --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and I would uh weve been talking about going there next summer Uh I dont know well have to to",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Ive never been up to the Yellowstone area So -",
+                "label": "b"
+            },
+            {
+                "text": "Its been long time But you know it seems when your family is is different places lot of trips involved going to visit",
+                "label": "sd"
+            },
+            {
+                "text": "Thats right Thats right You got that",
+                "label": "aa"
+            },
+            {
+                "text": "Oh Im - we usually go up to Wisconsin at least once year --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- because this is where my husband and I are both from And my mother and his mother live up there feeling --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- lost and alone because we moved down here",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh weve got one of our our kids lives out on the east coast and so we have to you know go to those",
+                "label": "sd"
+            },
+            {
+                "text": "Well you have you have lot of vacation areas you can go to then",
+                "label": "sv"
+            },
+            {
+                "text": "Well I know but Im tired of them",
+                "label": "aa"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "I want to go someplace different up there",
+                "label": "sd"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "Uh my my idea I guess of the ideal vacation would be to begin with uh money be no object",
+                "label": "sv(^q)"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "You know so just absolutely you know first class fly where I want to rent car if I want to",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh you know just the really the nicest hotels and stuff like that and --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and not worry if somebody says well lets take this little side trip you know and not have to sit there and figure out um you know again we we fit that in there or not",
+                "label": "+"
+            },
+            {
+                "text": "Right uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh that thats what I um you know thats what I would like to do I have no interest for example in taking cruise",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "To me why somebody would want to ride around on boat for few days is mind boggling",
+                "label": "sv"
+            },
+            {
+                "text": "It would be sort of - I feel like it would be confining",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know I would rather much rather get on plane and get there --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and then enjoy myself",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I just uh - that that does absolutely nothing for me",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But uh I dont know I can say that I think my my favorite spots are still to go to go where theres mountains and and lot of trees and and wildlife to view and and uh I like that kind of stuff I could just sit there all day and look at the scenery",
+                "label": "h"
+            },
+            {
+                "text": "Yes I I agree I can I can do that too and uh you know I think if I had if I had the money I would probably go to Europe every year Because you know I think that they have they have it all over there in just few tiny two two miles",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know theres mountains and theres beaches and its all right there So -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Uh I I guess Ive never really thought about it that way Our uh - we have daughter whos almost thirteen but shes uh --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- very picky eater and our our standard excuse for not going someplace like that is you know gee Holly would starve to death if we you know we took her --",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- into the country so",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "So but I I would like if you know it was anywhere in the world to go I guess even though its hot I would like to go to Africa",
+                "label": "+"
+            }
+        ]
+    }
+]

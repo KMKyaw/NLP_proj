@@ -1,0 +1,427 @@
+[
+    {
+        "conversation_id": "conv_3615",
+        "turns": [
+            {
+                "text": "Do you have any children",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah I have two two boys twelve and sixteen",
+                "label": "ny"
+            },
+            {
+                "text": "Twelve and sixteen",
+                "label": "b^m"
+            },
+            {
+                "text": "uh-huh how about you",
+                "label": "b"
+            },
+            {
+                "text": "Well I have three and uh theyre five and three and nineteen months",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "So we kind of got different ball game but uh -",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "What uh - do you feel like you have any time to spend with them",
+                "label": "%"
+            },
+            {
+                "text": "Well -",
+                "label": "%"
+            },
+            {
+                "text": "Theyre probably at an age where they dont want to spend any time with their parents",
+                "label": "sv"
+            },
+            {
+                "text": "Thats true You actually of course spend less time with them when they get older but its of course still really important",
+                "label": "ba"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "I have kind of fortunate situation I think right now with my sixteen year old Um I work two nights week at - Im librarian --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and I work two nights week at the Senior High School library They keep it open you know for kids to do their work --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- and he um and then they the school district hires an aide you know to work --",
+                "label": "sd"
+            },
+            {
+                "text": "Sure",
+                "label": "b"
+            },
+            {
+                "text": "-- for me Well my son is my aide",
+                "label": "+"
+            },
+            {
+                "text": "Oh well thats nice",
+                "label": "ba"
+            },
+            {
+                "text": "So two nights week for four hours were stuck together --",
+                "label": "sd"
+            },
+            {
+                "text": "Youre stuck together",
+                "label": "b^r"
+            },
+            {
+                "text": "-- and theres usually not very much business",
+                "label": "sd"
+            },
+            {
+                "text": "No",
+                "label": "b"
+            },
+            {
+                "text": "I mean some nights its just real real quiet So -",
+                "label": "sd"
+            },
+            {
+                "text": "I would suspect your nights would be pretty quiet for the most part",
+                "label": "sd"
+            },
+            {
+                "text": "So we I have sort of captive audience so I really do spend probably more time with him than than most you know",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "But uh of course Im away from my other son those hours too But his dads at home --",
+                "label": "sd"
+            },
+            {
+                "text": "And so that --",
+                "label": "^2"
+            },
+            {
+                "text": "-- pretty much that time",
+                "label": "+"
+            },
+            {
+                "text": "-- kind of gives him uh time with his dad then",
+                "label": "+"
+            },
+            {
+                "text": "Yeah thats true yeah",
+                "label": "b"
+            },
+            {
+                "text": "Gives him little bit of that individual time",
+                "label": "sd"
+            },
+            {
+                "text": "But but it is hard once they get that age - I mean their friends are the most important thing there is",
+                "label": "sv"
+            },
+            {
+                "text": "Right and they want to be able to spend uh -",
+                "label": "b"
+            },
+            {
+                "text": "Thats right",
+                "label": "ba"
+            },
+            {
+                "text": "Well Ive even noticed that with my five year old She started kindergarten this year and --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- every day that shes not at school uh she thinks we need to have someone over and play --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and that kind of -- -",
+                "label": "%"
+            },
+            {
+                "text": "Yeah its kind of hard",
+                "label": "b"
+            },
+            {
+                "text": "-- yeah its hard I think uh I find myself getting my little projects going and not taking the time that I should",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Im more worried about Oh - I didnt this done - I didnt get - the kitchen needs to be cleaned --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- this needs to be done and --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and I need to re- remind myself to slow down and --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- itll still be there tomorrow",
+                "label": "+"
+            },
+            {
+                "text": "Yeah thats true",
+                "label": "b"
+            },
+            {
+                "text": "But thats kind of hard to do you know",
+                "label": "sv"
+            },
+            {
+                "text": "Yes it is hard to do right yeah",
+                "label": "b"
+            },
+            {
+                "text": "You dont see yourself getting -",
+                "label": "sv"
+            },
+            {
+                "text": "Well if youre kind of person that likes things you know organized or neat --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- or you know --",
+                "label": "%"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- then I think it it is hard Its um - I think one of the nice things about holidays is that you know it does give you the opportunity to spend more time --",
+                "label": "sv"
+            },
+            {
+                "text": "Slow down little bit",
+                "label": "^2"
+            },
+            {
+                "text": "-- yeah with family We have we often go to Illinois --",
+                "label": "+"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- for Christmas and were not this year and its just really nice because we can do you know the things you want to do",
+                "label": "+"
+            },
+            {
+                "text": "You can do uh more than --",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "-- than when you travel",
+                "label": "+"
+            },
+            {
+                "text": "Yeah thats right",
+                "label": "ny"
+            },
+            {
+                "text": "This is the first year were staying home too and uh I think its going to be real quiet but uh thats an opportunity to get out the games and -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah right See we usually do that my my kids even have already gotten out um - my twelve year old got out the Legos --",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- which of course he hasnt touched since last summer --",
+                "label": "+"
+            },
+            {
+                "text": "Of co- of course",
+                "label": "b^m"
+            },
+            {
+                "text": "-- but you know but every now and then I mean hes got lot of those technic those hard kind you know and he wants to be an engineer so he still likes --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- all that kind of building stuff and um we have the train and we havent had that Lego train together for years and um so he sat down and I told him I really wanted him to build the train and we would put it under the tree and that I would keep it together I wouldnt take it apart --",
+                "label": "+"
+            },
+            {
+                "text": "Wouldnt take it apart after that",
+                "label": "bf"
+            },
+            {
+                "text": "-- yeah and every year Id have the Lego train under the tree",
+                "label": "aa"
+            },
+            {
+                "text": "Thatd be kind of fun",
+                "label": "ba"
+            },
+            {
+                "text": "And um so he worked on that for the longest time ever since school was out on Friday and um then his sixteen year old brother started helping too you know you know these are kind of things like during the normal rat race -- -",
+                "label": "sd"
+            },
+            {
+                "text": "Right right",
+                "label": "b"
+            },
+            {
+                "text": "-- those kinds of things never happen --",
+                "label": "sd"
+            },
+            {
+                "text": "No --",
+                "label": "aa"
+            },
+            {
+                "text": "-- but -",
+                "label": "%"
+            },
+            {
+                "text": "-- no In fact in I think if people would learn to turn off the - and -- -",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- I think thats lot of the breakdown of the communication --",
+                "label": "sv"
+            },
+            {
+                "text": "Yes yeah",
+                "label": "aa"
+            },
+            {
+                "text": "-- and the communication --",
+                "label": "+"
+            },
+            {
+                "text": "Which is -",
+                "label": "%"
+            },
+            {
+                "text": "-- that would take place in family usually people are not sitting in front of that",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh and theres always few people in the family that when they stare at it you know theyre totally turned off to everything else The rest of -",
+                "label": "b"
+            },
+            {
+                "text": "Yes and you cant communicate while youre doing that right",
+                "label": "b"
+            },
+            {
+                "text": "No Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "Whereas uh Im the type of person I could not sit well I shouldnt say I could not but be very hard for me to sit down and watch program all the way through without --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah me too",
+                "label": "b"
+            },
+            {
+                "text": "-- doing something",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I dont watch very much of it at all - to to the extent that sometimes I feel almost embarrassed at work and stuff like that --",
+                "label": "b"
+            },
+            {
+                "text": "Because they talk so much isnt that the -",
+                "label": "^2"
+            },
+            {
+                "text": "-- yeah they talk about shows and I huh - you know how can you watch that you know --",
+                "label": "+@"
+            },
+            {
+                "text": "Youre kind of like what are you talking about and uh -",
+                "label": "sv(^q)"
+            },
+            {
+                "text": "-- its the best show on - I dont know",
+                "label": "^2"
+            },
+            {
+                "text": "You feel like youre little bit out of it dont you They need to have highlight in the newspaper or something tell us whats -",
+                "label": "qy^g"
+            }
+        ]
+    }
+]

@@ -1,0 +1,259 @@
+[
+    {
+        "conversation_id": "conv_4877",
+        "turns": [
+            {
+                "text": "Okay Uh so your you I guess youre probably in the same uh same situation uh were in Were kind of past having to provide child care Our our kids are grown up We dont have any grandchildren yet But uh uh theyre -",
+                "label": "o"
+            },
+            {
+                "text": "uh-huh How old are your children",
+                "label": "b"
+            },
+            {
+                "text": "Uh ones twenty-six and the other is uh twenty twenty-one",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So theyre uh uh",
+                "label": "sd"
+            },
+            {
+                "text": "Well theyre going to be getting there",
+                "label": "^2"
+            },
+            {
+                "text": "Theyre theyre getting there You know theres no --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- no no prospects right away for anything to happen",
+                "label": "+"
+            },
+            {
+                "text": "- uh-huh Oh I see",
+                "label": "b"
+            },
+            {
+                "text": "But uh -",
+                "label": "%"
+            },
+            {
+                "text": "I have uh five children I have eighteen year old son The rest of my girls are like twenty-three twenty-six twenty-eight and twenty-nine",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I have three granddaughters right now",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "And uh I uh - ones in Iowa",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh shes shes teacher and what she does is she teaches at preschool",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay",
+                "label": "b"
+            },
+            {
+                "text": "And and so she kind of - and they let her bring her her little daughter in for free",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And then so - but she just works part-time",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Then I have another daughter in uh Bountiful Utah and she has to work full-time and its just tearing her apart She has private baby-sitter",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And uh the baby just screams I mean the baby is like seventeen months and she just screams",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Well even if she knows that theyre fixing to get ready to go over there - Theyre not even there yet --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "-- you know",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Its hard We -",
+                "label": "b"
+            },
+            {
+                "text": "And and then I have my uh uh I have seven month old granddaughter and uh her mother stays home and she they live they live with us You know in as Orange County --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- is really expensive",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "They live with us and so of course we love it Because we get to see this cute little baby all the time But uh uh she just - uh she used to work in pre in the preschool and and and child care and she says after working in there - and and you know here she was provider but you know theres only so much one person can do",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "She said its so awful She said shell never put her child in in in preca- in - in preschool",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Im sure there must be some good ones around here somewhere",
+                "label": "sv"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "But its really its really really very difficult and -",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah What did you do when your kids were growing up Were you -",
+                "label": "b"
+            },
+            {
+                "text": "Well when when - the uh the first uh ten years see first ten or twelve years I stayed home",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh then after that I I went to work",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "And uh uh uh couple of times I just uh uh you know - th- then I had one job and then that job ran out because it was kind of government seeded type job And then and then like about later I I tried to get the baby to baby-sitter Supposed to be good uh recommended person from the church - and I knew her personally She had two kids of her own and everything But I quit my job because I couldnt stand how she was taking care of my child",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I mean first of all uh her children were sick all the time So when my son stayed over there he got sick",
+                "label": "sd"
+            },
+            {
+                "text": "He got sick yeah",
+                "label": "b^m"
+            },
+            {
+                "text": "Same thing same thing that the her kids had right",
+                "label": "sd"
+            },
+            {
+                "text": "Right Well -",
+                "label": "b^m"
+            },
+            {
+                "text": "And so uh we didnt take her over there until like about eleven oclock Then he shed take my son and her daughter over - to kindergarten But - - that day uh I was saying now he hes sick And she goes well she goes he has the same thing that all my kids have Thats what he got you know Goes well okay so its not like hes going to infect her kids But then what happened was is I said uh he just threw up and kindergarten starts at eleven thirty so she said well shell keep him home and hell probably just sleep anyway Well you know what that woman sent her sent him to kindergarten She sent him to kindergarten As soon as he went there the teacher took one look at him and he threw up again and they put him in the nursery uh they put him in the nurses office",
+                "label": "sd"
+            },
+            {
+                "text": "Guess so yeah",
+                "label": "ba"
+            },
+            {
+                "text": "And then what happened was is you know they gave her call because they knew that she was my baby-sitter Called her - and they said uh that hes sick Well she wasnt home",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "%"
+            },
+            {
+                "text": "I mean her all her kids were sick but she wasnt home right And her and her her daughter that was in kindergarten with him also did not go to school because she was sick Now why didnt he why didnt she keep him home with her No she didnt do that So it got to the point where hes hes supposed to get out of uh kindergarten like about two thirty And I had to leave work It was it was five oclock in the evening and I found out he was still there at school And they were calling me and they said somebodys got to pick him up And I kept thinking that she was going to get picked up she was going to pick him up because she only lives in like two blocks away from the school I was trying to get my husband to come and pick him up and all that kind of stuff And he had hundred and four fever They couldnt uh give him anything because theyre not allowed to at school and everything",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "I was so furious I I quit that job and I stayed home for awhile longer Then I went and got uh job in real estate where I can kind of adjust my time little bit better",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah little more flexibility You can come and go",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah but uh I havent had any good really very good experience with child care",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah When when our kids were small we had couple of uh good good women who uh would often - uh get them to come to the house",
+                "label": "b"
+            }
+        ]
+    }
+]

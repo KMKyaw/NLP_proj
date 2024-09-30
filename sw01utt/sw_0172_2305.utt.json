@@ -1,0 +1,643 @@
+[
+    {
+        "conversation_id": "conv_2305",
+        "turns": [
+            {
+                "text": "Okay um well the first thing - uh what do you think you would offer as far as uh information about selecting school",
+                "label": "o"
+            },
+            {
+                "text": "Well first I think theyve got to have pretty good idea of what they want to what they want to do",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh once they have that then they can start looking in all the various publications that give out all the information about schools and write to the schools themselves and start finding out about the different requirements for the programs and what kind of uh of job assistance and all that other kind of stuff they offer",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah uh do you do you feel that the first two years that the um - depending upon the field I know there are some fields which person should go to the school that school all four years but I know there are some fields where its really not necessary",
+                "label": "b"
+            },
+            {
+                "text": "Yeah lot fields are - most of your liberal arts degrees and stuff arent really concerned with your first two years anyway Its its your core education your general requi- general education requirements",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Um if you know if they want to get liberal arts degree I dont I dont know what advice Id give them Go to the school youd like to go to",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Thats what I did",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I didnt care about the program or anything else I went where I wanted to go",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah What was your degree in",
+                "label": "b"
+            },
+            {
+                "text": "Uh political science",
+                "label": "sd"
+            },
+            {
+                "text": "Political science oh okay Well I kn- I know Im going to school right now and uh I have friend",
+                "label": "b^m"
+            },
+            {
+                "text": "Where are you at",
+                "label": "qw"
+            },
+            {
+                "text": "Uh University of Texas Dallas",
+                "label": "sd"
+            },
+            {
+                "text": "Well yeah I guess everybodys in Dallas that I talk to Im in",
+                "label": "b"
+            },
+            {
+                "text": "I know",
+                "label": "aa"
+            },
+            {
+                "text": "North Carolina",
+                "label": "+"
+            },
+            {
+                "text": "Thats where Texas Instruments is",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah right",
+                "label": "aa"
+            },
+            {
+                "text": "Um something that I I think that Ive noticed that - I I have friend I think if youre going into like uh law or medicine very particular very specific field even even engineering you can get you can meet lot of the requirements at public um institution",
+                "label": "sd"
+            },
+            {
+                "text": "Sure",
+                "label": "b"
+            },
+            {
+                "text": "And uh its lot cheaper",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "aa"
+            },
+            {
+                "text": "My parents my parents made mistake in uh in sending my sister to private institution for the first two years",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "And she found out after that she said you know my parents they just they really wasted lot of money This is about twenty years ago",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But uh well right now I just - I mean as far as selecting selecting school I I I feel that uh lot of it depends upon the major",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah it does Um I didnt know what I wanted to do after I got my my degree",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Um originally I had planned uh undergrad degree in political science and then masters in public administration And I went ahead and pursued that I I got as far as the thesis and decided To hell with it I didnt want it Um and from that point I went to law school",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And after year and half of that I decided I didnt want that either",
+                "label": "sd"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "Havent figured out what I want to be when I grow up",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And so but I I I really did enjoy the law I mean thats thats where I wanted to be but I didnt want to go through the uh the hassle that the law schools put you through because I never did want to be practicing attorney I just wanted law degree",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And Ive since discovered that I would be far better off being in the paralegal field",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Because thats the nuts and bolts of the law and thats what I like and you dont have to put up with all the that the lawyers have to",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "So thats thats what Im pursuing right now --",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "-- and Im pretty happy with it so far",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah Im Im pursuing what they whats whats called an interdisciplinary field Im speech therapy major --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and fortunately I have lot of I have good medical background",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and -",
+                "label": "%"
+            },
+            {
+                "text": "thats probably very useful",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah its its actually turning out to be more more useful than what I thought",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And um I also have good languages background linguistics",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And some psychology So its all working together",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "The only field Im not familiar with really is education which is required requires about four or five different fields --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh good grief",
+                "label": "ba"
+            },
+            {
+                "text": "-- really So its -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I thought at one time I wanted to be teacher but I I quickly dispelled that idea when I became substitute teacher for while just to get my feet wet",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "sd"
+            },
+            {
+                "text": "I said uh I couldnt do this everyday No way",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Well -",
+                "label": "%"
+            },
+            {
+                "text": "Maybe maybe being tenured professor would be one thing but being public school teacher is entirely another thing",
+                "label": "sv"
+            },
+            {
+                "text": "Oh so you are disgruntled graduate student",
+                "label": "bf"
+            },
+            {
+                "text": "I am dis- I am I am just disgruntled person all around",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "%"
+            },
+            {
+                "text": "Im the uh Im the uh original uh Mister Scrooge I guess",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Bah humbug",
+                "label": "b"
+            },
+            {
+                "text": "Yeah bah humbug Yeah I just -",
+                "label": "aa"
+            },
+            {
+                "text": "I I I think - yeah there is - I I I think uh law would be fine field fine profession fine field to go into Um I know one time I was in political science class and you know talking about fields people going into different fields I made an off off the cuff remark about lawyers about their integrity being questionable And I mean oh that was like can of worms",
+                "label": "%"
+            },
+            {
+                "text": "Probably you probably got everybody on you because they were probably all going to law school",
+                "label": "sv"
+            },
+            {
+                "text": "No there was woman she said My my best friends are lawyers and you know all this and it was just -",
+                "label": "ar"
+            },
+            {
+                "text": "Well that remark in itself is slam My best friends are lawyers",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah I know",
+                "label": "aa"
+            },
+            {
+                "text": "You know like like uh my best friends are blacks",
+                "label": "^q"
+            },
+            {
+                "text": "Or Jewish it used to be Jewish you know",
+                "label": "^q"
+            },
+            {
+                "text": "Jewish now blacks --",
+                "label": "b^m"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and I guess I I guess Iraqi now is the -",
+                "label": "sd"
+            },
+            {
+                "text": "I know its - but -",
+                "label": "aa"
+            },
+            {
+                "text": "Law law was lot of fun until you get to law school --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and it doesnt become fun anymore",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I have I have friend Shes studying shes going into law another friend going into law and shes - I I Im really Im really concerned about you know - shes just going to be you know - whats going to happen when she gets there",
+                "label": "b"
+            },
+            {
+                "text": "Yeah you going -",
+                "label": "b"
+            },
+            {
+                "text": "You know all of her dreams will be dispelled",
+                "label": "sv"
+            },
+            {
+                "text": "Oh yeah Yeah if if if youve ever seen the program PAPER CHASE --",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- its very much like that except worse",
+                "label": "+"
+            },
+            {
+                "text": "Yeah its I I think its probably more embarrassing and very painful",
+                "label": "b"
+            },
+            {
+                "text": "It is",
+                "label": "aa"
+            },
+            {
+                "text": "I see --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah very much so",
+                "label": "aa"
+            },
+            {
+                "text": "-- I see that happening",
+                "label": "+"
+            },
+            {
+                "text": "Yeah its its lot of that Um --",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- it it was enjoyable for while um but its such grind --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and you begin to wonder you know if if Im not I mean - you really have to be dead set on being lawyer to do it",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "If you have any doubts whatsoever you better not get into it",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I mean I wasted year and half of awfully hard - and I aged ten years",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But I I I wouldnt trade the experience for anything in the world It never hurts to have some kind of grounding in law",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I went to language school and and that was it was an un- I guess uh United States institution I was military at the time And I I think --",
+                "label": "b"
+            },
+            {
+                "text": "What branch were you in",
+                "label": "qw"
+            },
+            {
+                "text": "-- probably the biggest - Huh",
+                "label": "+"
+            },
+            {
+                "text": "What branch were you in",
+                "label": "qw^r"
+            },
+            {
+                "text": "I was in the Air Force",
+                "label": "sd"
+            },
+            {
+                "text": "I was too",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah for myself I mean I think that military experience was fine it was just I just wish that there was something else that that that I could have done you know with -",
+                "label": "b"
+            },
+            {
+                "text": "Well I got I got tired of the service after while I mean it - I had terrific job really enjoyed it",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah what what was your job",
+                "label": "b"
+            },
+            {
+                "text": "Uh command post",
+                "label": "sd"
+            },
+            {
+                "text": "Uh I was I was linguist",
+                "label": "sd"
+            },
+            {
+                "text": "I was just wondering were you in SAC by any chance",
+                "label": "qy"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "Were you in SAC",
+                "label": "qy^r"
+            },
+            {
+                "text": "In Tak",
+                "label": "br^m"
+            },
+            {
+                "text": "SAC",
+                "label": "sd"
+            },
+            {
+                "text": "Uh no I wasnt",
+                "label": "nn"
+            },
+            {
+                "text": "Oh okay I I thought maybe you might have had some experience with the uh one thirty-fives",
+                "label": "bk"
+            },
+            {
+                "text": "No no I didnt I didnt go flight crew Matter of fact I didnt make it completely through that through that field I was in intelligence school and about three weeks short",
+                "label": "ar"
+            },
+            {
+                "text": "Oh",
+                "label": "%"
+            },
+            {
+                "text": "I didnt make it I sort of washed out",
+                "label": "sd"
+            },
+            {
+                "text": "Well Well",
+                "label": "%"
+            },
+            {
+                "text": "Yeah after about eighteen months of talking about the --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- year and half training you know its its something you know - I think thats why you know children really need to think about the field theyre going to going into and I mean spend lot of serious --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- reading before they I mean not just --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- thinking about They actually should do some reading --",
+                "label": "+"
+            },
+            {
+                "text": "Thats right and it",
+                "label": "aa"
+            },
+            {
+                "text": "-- and they should study it",
+                "label": "^2"
+            },
+            {
+                "text": "And if its possible even get some experience at it or at least watch some people --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- do it",
+                "label": "+"
+            },
+            {
+                "text": "I I I I think I think theres lot to be said for kids working --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh sure",
+                "label": "aa"
+            },
+            {
+                "text": "-- after school I mean they they find out whether just how much of people person they are",
+                "label": "+"
+            },
+            {
+                "text": "Thats true I found that out when I was in high school I worked at McDonalds",
+                "label": "aa"
+            },
+            {
+                "text": "Oh and I tell you what I worked at McDonalds as well and I I can tell you one thing there are just some people that I you know - you just came to the point where I mean - and oh I eventually worked in lab in la- as lab technician and I worked front desk And I mean somebody could walk in the door and I knew exactly what they were going to do and say",
+                "label": "^h"
+            },
+            {
+                "text": "Yeah yeah I was the same way too Im not people person I I I hate um having to play such nice guy",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know especially when its all phony",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Especially when you got some uh jerk coming in",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I - its just not for me Im uh I deal much better in research and books and stuff like that --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- which is why Im going to enjoy the paralegal field lot",
+                "label": "+"
+            },
+            {
+                "text": "Yeah thats good I was just wondering um getting back to the school thing so I I almost wish that there was something -",
+                "label": "b"
+            }
+        ]
+    }
+]

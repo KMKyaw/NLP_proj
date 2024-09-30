@@ -1,0 +1,475 @@
+[
+    {
+        "conversation_id": "conv_2018",
+        "turns": [
+            {
+                "text": "Hello",
+                "label": "fp"
+            },
+            {
+                "text": "Hello",
+                "label": "fp"
+            },
+            {
+                "text": "Hi",
+                "label": "fp"
+            },
+            {
+                "text": "Hello this is Lois",
+                "label": "fp"
+            },
+            {
+                "text": "Hi hi this is Lisa",
+                "label": "fp"
+            },
+            {
+                "text": "And uh I called you know from that the the I Data Base Calling Instructions",
+                "label": "sd^t"
+            },
+            {
+                "text": "uh-huh Yeah I got call yesterday too This is different subject though",
+                "label": "b"
+            },
+            {
+                "text": "Yeah this is about changes in the women in the -",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh theres really lot isnt there",
+                "label": "qy^g"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "I think there really is",
+                "label": "sv"
+            },
+            {
+                "text": "Its kind of an easy thing to talk about",
+                "label": "sv"
+            },
+            {
+                "text": "Oh I guess the work force would be the main wouldnt it",
+                "label": "qy^g"
+            },
+            {
+                "text": "Yeah uh I think you have to push one and then we can start recording it",
+                "label": "ny"
+            },
+            {
+                "text": "Okay All right",
+                "label": "aa"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "Are you ready now",
+                "label": "qy^t"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "Okay like I said I guess it would be the work force you know as far as changes in the generations",
+                "label": "b"
+            },
+            {
+                "text": "Yes I know because I know when my mother was you know going into the work force there wasnt very many opportunities for her I guess shes in her late forties You were expected to stay home and take care of the kids and Ive never faced that at all",
+                "label": "aa"
+            },
+            {
+                "text": "Uh no I think no- now you go to work when theyre six weeks old",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "you know and you stay there And I feel like the next generation youll probably just work right along with your husband you know",
+                "label": "+"
+            },
+            {
+                "text": "Yeah uh-huh I think its definitely gotten better",
+                "label": "aa"
+            },
+            {
+                "text": "Oh I do to much And its just going to get better",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "It really is",
+                "label": "sv"
+            },
+            {
+                "text": "Because women are in every field now I mean I cant think of field that theyre not involved in",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I cant either not one",
+                "label": "sd"
+            },
+            {
+                "text": "And I know at least in the medical field it seems like theyve come out with lot further advances as far as female medications and things since women have gotten into the doctor field",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I dont think that men really took the time to work on that sort of thing",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah even in Washington you know",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "there seems to be lot more women involved",
+                "label": "+"
+            },
+            {
+                "text": "Hopefully the next generation it wont even be an issue I mean people will just look at you as person and not as man or woman",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "I think that would be the best goal",
+                "label": "sv"
+            },
+            {
+                "text": "Oh I do too just your qualifications and that would be it",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh exactly not what color you are how old you are what your male or female That would be wonderful I guess its kind of an ideal world though huh",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah I kind of think maybe in time that you know youll go by social security numbers you know",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and that way they cant say well they picked male over female female over male you know",
+                "label": "sv"
+            },
+            {
+                "text": "Exactly or the way you look or the way you you know -",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "your age or anything I think that would be wonderful way to do it",
+                "label": "sv"
+            },
+            {
+                "text": "I do to just go by your social security number and then look at you qualifications that you know that you have",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh and then -",
+                "label": "aa"
+            },
+            {
+                "text": "And then if you get it you know then -",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh also with uh women in the work force theyve gotten lot more options as far as you know whats it called job sharing",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Like if you and another lady were to share the same full time job",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "or -",
+                "label": "+"
+            },
+            {
+                "text": "As matter of fact thats what Im doing",
+                "label": "sd"
+            },
+            {
+                "text": "Is it",
+                "label": "bh"
+            },
+            {
+                "text": "uh-huh it sure is",
+                "label": "ny"
+            },
+            {
+                "text": "That would be great",
+                "label": "sv"
+            },
+            {
+                "text": "It sure is",
+                "label": "aa"
+            },
+            {
+                "text": "Or lot of women I know now and my uh one of my supervisors when she went on to have her baby we hooked up uh uh terminal at her house and she you know we could send her messages and and she kept in touch like that",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "and basically just worked out of her house I would just take her the actual paperwork once uh every week or two and that worked out great too",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah that is",
+                "label": "aa"
+            },
+            {
+                "text": "And thats real attractive option if you have the the technology for it",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "All it was was you know - I mean she just used phone modem and she was like she was sitting in the office so I think thats real nice too to come up with different options Do you like the job sharing",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I do",
+                "label": "na"
+            },
+            {
+                "text": "Do you",
+                "label": "bh"
+            },
+            {
+                "text": "I really do I think its great",
+                "label": "sd"
+            },
+            {
+                "text": "Do you work like half days or half weeks or -",
+                "label": "qr"
+            },
+            {
+                "text": "Uh well like one week shell work three days and Ill work two and the next week you know Ill work three Why are utterances 2 3 split up when they are parallel in structure to the single utterance 1 and shell work two",
+                "label": "sd"
+            },
+            {
+                "text": "Oh oh thats great",
+                "label": "ba"
+            },
+            {
+                "text": "and we just share off like that",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Do you get the full benefits",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh yeah we get the full benefits",
+                "label": "ny"
+            },
+            {
+                "text": "Oh thats wonderful",
+                "label": "ba"
+            },
+            {
+                "text": "But weve just really got wonderful system that were working under",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah especially with children and so many things going on",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "that would be great",
+                "label": "+"
+            },
+            {
+                "text": "It really is and that way were not really missing any thing out you know",
+                "label": "sd"
+            },
+            {
+                "text": "Either way -",
+                "label": "^2"
+            },
+            {
+                "text": "of children uh-huh",
+                "label": "+"
+            },
+            {
+                "text": "yeah you have your career and your home life and that would be nice way especially if you have young children",
+                "label": "aa"
+            },
+            {
+                "text": "Oh it is it is well both of ours is school age but we dont want to miss any of those - and you know all of that",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh oh no I think - yeah My sons just in day-care but even that they have extracurricular activities and the older they get the more that youre involved in that",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh I think its great I really -",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and I look for more of that in the next generation",
+                "label": "sd"
+            },
+            {
+                "text": "I do too especially as women get up in management and and can be in on those decision making - you know when that subject comes up they can say yes that would be wonderful",
+                "label": "sd"
+            },
+            {
+                "text": "Yes oh I do too",
+                "label": "aa"
+            },
+            {
+                "text": "Plus I bet it cuts cuts down on your absenteeism because youve got two days off that you can do everything so you dont have to you know unless youre just really sick or the childs sick",
+                "label": "sv"
+            },
+            {
+                "text": "Most of the time now you know its just the weekend or just forget it",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh oh yeah I have to plan way in advance because - or what Ive done is found like doctors and dentists office with extended hours",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Thats been real helpful too like my doctor stays open til nine in the evening So thats real helpful so you dont you know have to do it during office hours run out on your lunch hour I dont know how many times Ive done that to do something",
+                "label": "sd"
+            },
+            {
+                "text": "To do yeah",
+                "label": "b^m"
+            },
+            {
+                "text": "post office or the bank or any kind of errand so -",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh Well I think weve really come long way in that because -",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh I guess I take it for granted kind of because I just - its always been that way",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But I know -",
+                "label": "%"
+            },
+            {
+                "text": "Yeah but I can rem- remember back growing up my mother - I mean it was - she always worked but it wasnt that easy for her to just take off",
+                "label": "b"
+            },
+            {
+                "text": "Oh no I can remember my mother getting in trouble if you know one of was sick and I know she probably didnt make hardly anything you know compared to the work that she did",
+                "label": "aa"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "aa"
+            },
+            {
+                "text": "I think there is still some discrimination there where as you know men and women work in the same job I think men get paid more",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I do too",
+                "label": "aa"
+            },
+            {
+                "text": "but I think thats improving Its such slow process its frustrating but",
+                "label": "sv"
+            },
+            {
+                "text": "Yes yes",
+                "label": "b"
+            },
+            {
+                "text": "you can see that its wrong and you just want to make it right but at least the wheels are moving forward",
+                "label": "+"
+            },
+            {
+                "text": "They really are",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah I think its getting better not worse Well I should probably get back to my job",
+                "label": "aa"
+            },
+            {
+                "text": "I know I know the feeling",
+                "label": "fc"
+            },
+            {
+                "text": "Call again",
+                "label": "fc"
+            },
+            {
+                "text": "Okay I sure will Bye-bye",
+                "label": "fc"
+            },
+            {
+                "text": "Okay bye-bye",
+                "label": "fc"
+            }
+        ]
+    }
+]

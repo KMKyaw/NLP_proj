@@ -1,0 +1,475 @@
+[
+    {
+        "conversation_id": "conv_2528",
+        "turns": [
+            {
+                "text": "Yeah so uh what are your favorite shows",
+                "label": "o"
+            },
+            {
+                "text": "One that I cant find anymore which is GABRIELS FIRE",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I havent watched that very much is that - do you like that",
+                "label": "sd"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "When was that on",
+                "label": "qw"
+            },
+            {
+                "text": "It was usually on um Thursday nights",
+                "label": "sd"
+            },
+            {
+                "text": "On",
+                "label": "qy"
+            },
+            {
+                "text": "I dont know",
+                "label": "h"
+            },
+            {
+                "text": "Oh oh yeah well um um it may be that um it was recently replaced by actually by um by what may be my favorite show of because sort of uh um TWIN PEAKS",
+                "label": "b"
+            },
+            {
+                "text": "It was same time period yes",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah so TWIN PEAKS um what happened was I think TWIN PEAKS um went went off they moved to Saturday night for while And then put and then put something I guess GABRIELS FIRE on it and at Thursday nights and then they moved um - no GABRIELS FIRE was on I think I I take that back Im not sure but anyway they moved it back and forth and thats when PEAKS was back in that time slot as well So I dont know",
+                "label": "b"
+            },
+            {
+                "text": "You dont know what happened to GABRIELS FIRE then",
+                "label": "qy"
+            },
+            {
+                "text": "No I have no idea I dont think I dont think that was on anyway I dont know what happened to it though",
+                "label": "nn"
+            },
+            {
+                "text": "I dont remember one from one station to another I keep forgetting one station Whats your second favorite",
+                "label": "sd"
+            },
+            {
+                "text": "Um its hard to say Im sort of very big TWIN PEAKS fan and beyond that I just sort of watch anything that happens to be on Im Im half the time Im addict and the other half the time I just ignore it its really bad Yeah theres some new shows that I sort of like um have you seen this SHANNON FIELD SHOW or uh its about lawyer its one of these lawyer shows you know they seem to be popular these days And theres lot of those Blair shows floating around",
+                "label": "^h"
+            },
+            {
+                "text": "Oh is he the reformed um gambler",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Yes yes yes",
+                "label": "aa"
+            },
+            {
+                "text": "I just like I just finished watching that few minutes ago Um and it - and that thats interesting one I I I like that because theres there are - Ive noticed that every every major station now has their own law show Theres LAW and theres um EQUAL JUSTICE some other one LAW AND ORDER or something Lots of lots of these things that are floating around now They seem to be popular shows Do you like the law shows or -",
+                "label": "sd"
+            },
+            {
+                "text": "I really dont watch that much what I do is I tape the programs I want to watch and then on the nights I can watch Ill pick out something",
+                "label": "ng"
+            },
+            {
+                "text": "That that makes logic",
+                "label": "ba"
+            },
+            {
+                "text": "But um -",
+                "label": "%"
+            },
+            {
+                "text": "also saves lot of time with commercials",
+                "label": "sv"
+            },
+            {
+                "text": "youre not kidding Do you ever watch AMERICAN GLADIATORS",
+                "label": "aa"
+            },
+            {
+                "text": "Oh I have Ive Ive I watched that late um I guess its on late Saturday nights or something",
+                "label": "na"
+            },
+            {
+                "text": "Midnight",
+                "label": "bc"
+            },
+            {
+                "text": "thats entering the day as well",
+                "label": "sd"
+            },
+            {
+                "text": "Midnight",
+                "label": "bc^r"
+            },
+            {
+                "text": "Have you have have you seen this often",
+                "label": "qy"
+            },
+            {
+                "text": "I tape it",
+                "label": "na"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah I tape it because I dont stay up that late to watch it",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I tape it But I understand uh that in England they play it at normal times because they dont consider that violent and the reason they have it on here so late is because they consider it violent program",
+                "label": "sd^r"
+            },
+            {
+                "text": "Really I dont know that dont didnt I -",
+                "label": "bh"
+            },
+            {
+                "text": "And Im like I dont believe this",
+                "label": "sd"
+            },
+            {
+                "text": "That dont - it it it seems like - I mean if wrestling is prime time professional wrestling it seems like its just just just like pros in wrestling to me I dont I dont see any difference though",
+                "label": "%"
+            },
+            {
+                "text": "I dont either",
+                "label": "aa"
+            },
+            {
+                "text": "I I dont understand it they consider it violent I have so ever - I have seen it on where we are I live in uh Rochester New York and I think -",
+                "label": "sd"
+            },
+            {
+                "text": "Youre in New York",
+                "label": "qy"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Where are you",
+                "label": "qw"
+            },
+            {
+                "text": "Im in Dallas Texas",
+                "label": "sd"
+            },
+            {
+                "text": "Youre uh - everybody I speak to is in Texas oh oh yeah but Im Im in New York and uh we seem we seem to have um - I think the AMERICAN GLADIATORS is on Sunday afternoons actually around here as well",
+                "label": "%"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "sometimes I think its been on - I think Ive seen it during the day I know Ive seen it during the day in Florida When I was at my parents down there",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Definitely seen it do- on on during the day down there and I dont think its very violent show I think its funny I think its real good concept I think its something completely new",
+                "label": "sd"
+            },
+            {
+                "text": "I think its great I love watching microbiologist fighting off with policemen or something else and competition - Im going oh great you know",
+                "label": "aa"
+            },
+            {
+                "text": "Well",
+                "label": "o@"
+            },
+            {
+                "text": "its its great role model for everybody",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah I think so I think because people sort of get through you know um I think that people sort of learn the importance of sort of physical fitness as well as the as well as you know some mental fitness and I think that people sort of learn good sportsmanship and so forth",
+                "label": "+@"
+            },
+            {
+                "text": "Oh yes I mean when I had uh - I was watching it the first time I ever saw microbiologist on there I thought well it just goes to prove it has nothing to do with your physical capabilities And uh there she was terrific she was really terrific",
+                "label": "aa"
+            },
+            {
+                "text": "Well dont they take people who have some sort of um big abilities like - and and at least they used to when it when it - the first ones I saw they had um man on who was uh he played college football and almost went pro and they had woman who was black belt in karate and she was the uh she was in the junior Olympics or something or they seem to have people who have very very big sports backgrounds To have - they le- leaned away from that sort of",
+                "label": "qy^d"
+            },
+            {
+                "text": "They hold competitions in Los Angeles in um Florida and Minneapolis Minnea- um - trying to think of - I think its in four places around the United States They hold competition and the only requirement is of course your skill of passing these tests",
+                "label": "sd"
+            },
+            {
+                "text": "Oh thats how they do it",
+                "label": "qy^d"
+            },
+            {
+                "text": "and thats it And we had bar man from here in Dallas area that made it",
+                "label": "na"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "There is woman that uh made - well she called herself craft person so Im not quite sure what she made And uh she made it I mean there is no - your occupation has nothing to do with it",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah okay I just thought they had some -",
+                "label": "b"
+            },
+            {
+                "text": "Strictly your skill",
+                "label": "bf"
+            },
+            {
+                "text": "yeah I thought they had some sort of - I mean I thought they were just poor people like us I guess not thats great",
+                "label": "b"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "But maybe Ill try it one day Ill get on there one day and see if I can uh um - what what do they win they they win money I think dont they",
+                "label": "cc"
+            },
+            {
+                "text": "I think the last I heard was its up to about hundred fifty thousand dollars",
+                "label": "sd"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Wow All that for getting tennis balls shot at you at hundred miles an hour",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah thats you know just minor Just minor little ball here or there you know",
+                "label": "ny"
+            },
+            {
+                "text": "One little ball here and there yeah and this guys beating you up so I dont know the beating up part I I actually feel the tennis balls would hurt",
+                "label": "sd^m"
+            },
+            {
+                "text": "Oh well they",
+                "label": "sd"
+            },
+            {
+                "text": "They look like -",
+                "label": "sv"
+            },
+            {
+                "text": "they come out with lot of bruises too",
+                "label": "+"
+            },
+            {
+                "text": "Yeah they seem like tennis ball but it almost doesnt look like its almost livable yeah the best - I I dont think I could I I could handle those tennis balls So what else to you tape besides AMERICAN GLAD- at - there anything else",
+                "label": "b"
+            },
+            {
+                "text": "Hey",
+                "label": "b"
+            },
+            {
+                "text": "Huh",
+                "label": "br"
+            },
+            {
+                "text": "see I tape MURDER SHE WROTE",
+                "label": "sd"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "I like mysteries",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay",
+                "label": "b"
+            },
+            {
+                "text": "I like mysteries I tape um FATHER DOWLING",
+                "label": "sd^r"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "because thats another mystery and I dont have to concentrate too hard on them",
+                "label": "+"
+            },
+            {
+                "text": "But Im sure thats fun",
+                "label": "sv"
+            },
+            {
+                "text": "Um most of the lawyer programs like uh LAW AND ORDER",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "theyre not on the times that Ive got that Ive watched because I havent had got GUIDE around here in ages",
+                "label": "+"
+            },
+            {
+                "text": "Oh okay well they seem to be on later",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "all - always right right before the news is when I catch them I I tend to if nothing else is in the town television at eleven oclock just to watch the news and or or NIGHTLINE or something just sort of get good you know good good think for the day",
+                "label": "%"
+            },
+            {
+                "text": "Your news is on at eleven",
+                "label": "qy"
+            },
+            {
+                "text": "Yes When is yours on",
+                "label": "ny"
+            },
+            {
+                "text": "Ten I was just in the middle of watching it",
+                "label": "sd"
+            },
+            {
+                "text": "Oh gosh well Im sorry I interrupted um",
+                "label": "ba"
+            },
+            {
+                "text": "Oh thats okay",
+                "label": "bd"
+            },
+            {
+                "text": "Yeah ours is on -",
+                "label": "b"
+            },
+            {
+                "text": "No problem",
+                "label": "bd"
+            },
+            {
+                "text": "actually it - ours is on at eleven it its um eleven oclock now here or eleven twenty-five now here in New York Um I think they wo- they do that I think they put things on at um eleven oclock here and I think they put it like eleven oclock um California time like in California but in the middle they sort of um - like central time or mountain time they they push things back So I was actually actually - Im not sure - I was in I was in Iowa awhile ago and noticed that everything was an hour earlier so does your prime time start at seven oclock",
+                "label": "%"
+            },
+            {
+                "text": "No well they have it at six and they have it at nine",
+                "label": "nn"
+            },
+            {
+                "text": "Wait no no",
+                "label": "ad"
+            },
+            {
+                "text": "and they have one at ten",
+                "label": "sd"
+            },
+            {
+                "text": "not not even the news but do they have like um - do like sort of all the regular sitcoms and so forth start at seven oclock You - so like you know the regular television shows that are that are very popular do they start at",
+                "label": "sd"
+            },
+            {
+                "text": "Im trying to think",
+                "label": "h"
+            },
+            {
+                "text": "seven or or at eight",
+                "label": "+"
+            },
+            {
+                "text": "Both um lets see they start um - EVENING SHADE at seven and then it goes to um - what is it after EVENING um",
+                "label": "na"
+            },
+            {
+                "text": "Right because that would the eight oclock here",
+                "label": "b"
+            },
+            {
+                "text": "thats MAJOR DAD at eight I think it is",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah that that would all start at at um that would all start at at eight oclock here that wouldnt start at seven We have um - at seven oclock we just have um - the - theyll play you know they have old reruns of CHEERS or something from seven to seven thirty and then something else from seven thirty to eight but then at at eight oclock is when everything starts",
+                "label": "b"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "Which is which is strange I mean because yours start at seven and end to ten and ours start at at at at eight and end at eleven thats why we - I I would actually like it better if everything started at seven and ended at ten",
+                "label": "+@"
+            },
+            {
+                "text": "Yeah its its stopped around here at ten and it goes into night programs at that point which could be one of you know many different night programs but it goes into night programs",
+                "label": "b"
+            },
+            {
+                "text": "Oh thats great",
+                "label": "ba"
+            },
+            {
+                "text": "But uh do you ever watch CHEERS",
+                "label": "qy"
+            },
+            {
+                "text": "Oh all the time Do you watch CHEERS or",
+                "label": "na"
+            },
+            {
+                "text": "Oh yeah oh yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Theres theres - its at - that was actually big dilemma for me now because um CHEERS CHEERS and TWIN PEAKS are now on the same time",
+                "label": "+@"
+            }
+        ]
+    }
+]

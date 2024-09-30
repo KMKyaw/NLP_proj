@@ -1,0 +1,315 @@
+[
+    {
+        "conversation_id": "conv_3855",
+        "turns": [
+            {
+                "text": "I pushed it",
+                "label": "sd^t"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "So how do you use your credit cards",
+                "label": "qo"
+            },
+            {
+                "text": "Oh we use them for paying our gas and for paying uh just about anything because um we dont like to pay for our checks So we use it quite bit --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but we we pay off every month though so we never have to pay interest and we always we never get the the credit cards if theres monthly or yearly charge We always get it through our bank or somewhere where its free So we never have to pay anything extra",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah thats me I wont use one that I have to pay an annual fee --",
+                "label": "b"
+            },
+            {
+                "text": "Yeah we just dont think its worth it So -",
+                "label": "b"
+            },
+            {
+                "text": "-- you know and um Im uh like you I I use it well to buy my gas with my Sh- my Shell credit card I use that and then like my Emporium card and uh Weinstocks card I use that but Im like you I usually pay it off as soon as I get my bill Why I dont just write check I dont know",
+                "label": "sd"
+            },
+            {
+                "text": "See well you I dont do it either",
+                "label": "sd"
+            },
+            {
+                "text": "You know its just really weird but I I dont carry lot of cash with me because Im --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- always afraid that someones going to steal my purse",
+                "label": "+"
+            },
+            {
+                "text": "Yes exactly thats how I fe- I mean its rare day when I even have seventy-five cents in my purse",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah you know enough for phone call and thats about all",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But uh other than that thats the thats the way I use them I know some people that uses them so bad that every one of them that theyve got they - they cant charge any more you know and I think thats terrible",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah because its really it helps your if you have good credit you know it helps you in the long run when you want to go make --",
+                "label": "aa"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- bigger purchase or something",
+                "label": "+"
+            },
+            {
+                "text": "Yeah because if anything ever happens that you do need to you know you have excellent credit why it really does help",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah and I think its more convenient too in lot of cases like whenever we go on trips we always you know use our our Visa or our Mastercard or whatever",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And then um you know we really dont have to pay for it out of our own pockets until about month later --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and so it helps us gain interest in the bank that when we do it we come out lit- even little bit ahead because weve been able to use whatever first off and then pay --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh --",
+                "label": "b"
+            },
+            {
+                "text": "-- for it later",
+                "label": "+"
+            },
+            {
+                "text": "-- uh-huh Yeah well I think its better to use credit cards too like I say because yo- theres so many people around any more thats watching what youre doing --",
+                "label": "b"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and if you pull wad of money out of your pocket theyre going to hit you over the head",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah even if its five bucks even",
+                "label": "aa"
+            },
+            {
+                "text": "I know It just uh you know it just seems like theyre somebodys always watching So I just dont I dont carry money Id just soon use my credit cards and --",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- just pay them off you know",
+                "label": "+"
+            },
+            {
+                "text": "And also if you if someone did happen to steal your credit card my husband was saying that if you know you notice it within I think its twenty-four hours you can report it in and I he said the most youd ever have to pay is fifty dollars for them to cancel you know whatever payments you had and if --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- whoever tried to uh you know credit it to the hilt youd only have to pay fifty dollars of it and then --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- you know you can have your card back with --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah right",
+                "label": "b"
+            },
+            {
+                "text": "-- pretty good rating you know because you can pay fifty dollars but not you know --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah right",
+                "label": "aa"
+            },
+            {
+                "text": "-- maybe five thousand or whatever",
+                "label": "+"
+            },
+            {
+                "text": "And you know some of those stores dont even seem to check your signature or anything --",
+                "label": "sv"
+            },
+            {
+                "text": "I know",
+                "label": "aa"
+            },
+            {
+                "text": "-- you know I dont know why they dont unless you have to spend certain amou- I dont know but I notice that some of them dont even look you know they just slide it in there and pass it back to you --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah exactly",
+                "label": "aa"
+            },
+            {
+                "text": "-- you know so I dont think thats right I think they should check it to make sure that the signature at least matches you know",
+                "label": "+"
+            },
+            {
+                "text": "Yeah sure I mean its just precaution for everybody",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah so -",
+                "label": "b"
+            },
+            {
+                "text": "Well lets see what else can I say about credit cards",
+                "label": "^h"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "Um",
+                "label": "b^m"
+            },
+            {
+                "text": "Oh I also use like to use Discover when I can because they give you some money back every year",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I dont I dont uh - that thats that Sears Discovery Card is that what that",
+                "label": "b"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah Now I dont have that one you know",
+                "label": "b^m"
+            },
+            {
+                "text": "Well we just started doing that and --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know what it comes in handy for when youre buying things like um tickets for the train or um airplanes --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- because theyll give you some money back you know and its only little bit but I mean its still something We got two fifty last year --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and so its you know it helps out here and there So -",
+                "label": "sv"
+            },
+            {
+                "text": "Oh you mean uh for for your using your credit card you get like rebate or something",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah they give you I think they start giving you like half percent back which doesnt sound like thing but when you you know when you add up everything youve youve charged up on the Discover card for year -- -",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and they give you half percent of that and that adds up to you know two fifty or something",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I see",
+                "label": "bk"
+            },
+            {
+                "text": "And so thats what - and I know were going to get back more this year because they you know we spent little bit more --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- probably and they do it for how long youve been member I think too --",
+                "label": "+"
+            },
+            {
+                "text": "Um I see",
+                "label": "bk"
+            },
+            {
+                "text": "-- and they increase the percentage little bit",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah well Ill -",
+                "label": "b"
+            }
+        ]
+    }
+]

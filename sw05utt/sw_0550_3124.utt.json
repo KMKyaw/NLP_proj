@@ -1,0 +1,407 @@
+[
+    {
+        "conversation_id": "conv_3124",
+        "turns": [
+            {
+                "text": "Well the weather has been certainly has been hot and its been humid I dont remember year in long time that the humidity has stayed up this high for uh this late into uh - well its not really late into the summer but the the humidity has hung around all of June",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Are you native to this area",
+                "label": "b"
+            },
+            {
+                "text": "No I grew up in Michigan so uh slash problem",
+                "label": "nn"
+            },
+            {
+                "text": "Oh okay",
+                "label": "bk"
+            },
+            {
+                "text": "But Ive been Ive been in Texas for fifteen years sd",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So uh but you know I know the summers get hot but --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- it certainly uh - this humidity has just really hung on there",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Yeah it seemed like well you know last year was so strange having all those heavy heavy rains in April and this year we really didnt have heavy rains until May Kind of like pushed the season back little farther and now its kind of lingering with kind of still bit of humidity and it just tried to rain I mean I was coming in from my car just few minutes ago and it was trying to rain which --",
+                "label": "aa"
+            },
+            {
+                "text": "Yes",
+                "label": "aa"
+            },
+            {
+                "text": "-- seems strange to have it raining in July Normally we dont have too much uh humidity or or uh rainy time when its past June",
+                "label": "+"
+            },
+            {
+                "text": "Oh thats right thats right I can remember it not - its really August that it happens You get those great big cracks in the ground where its been so dry --",
+                "label": "aa"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- and it just gets so dry and the earth opens up I can remember the first year I moved here --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and it didnt rain I moved here like in late August and it didnt rain from August until December and I went home and told it just doesnt rain in Texas I mean it was great after growing up in Michigan and not and al- you know every day was cloudy almost every day was cloudy and I you sort of forget how much it did rain and coming here and then it didnt rain it was just wonderful",
+                "label": "sd"
+            },
+            {
+                "text": "Well yeah see I I lived in uh Ohio mainly I lived in uh Pontiac just little while before I came --",
+                "label": "b"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- down here and you know so many times when you were trying to schedule outdoor activities you just never knew if it was going to be go or not because of the weather It might rain on your little parade",
+                "label": "+"
+            },
+            {
+                "text": "Thats right thats right",
+                "label": "aa"
+            },
+            {
+                "text": "You know and here it was like pretty much you could schedule some activity outside anytime and you really didnt have too much of chance of it getting rained out",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You could pretty much do whatever you wanted to do",
+                "label": "sv"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "What part of Michigan were you living in",
+                "label": "qw"
+            },
+            {
+                "text": "Oh I grew up in Dearborn --",
+                "label": "sd"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "-- which is suburb of of Detroit",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "You probably know where that is because I know where Pontiac is so uh slash error Anyway - yeah",
+                "label": "sv"
+            },
+            {
+                "text": "What brought you down here",
+                "label": "qw"
+            },
+            {
+                "text": "Oh teaching job",
+                "label": "sd"
+            },
+            {
+                "text": "So you teach in Plano schools",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah I did I did for while uh-huh So Im home with home with two children so uh slash error",
+                "label": "ny"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "So -",
+                "label": "+"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "New career",
+                "label": "sd"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "New career but uh anyway - so that kind of uh - well I had been down here to visit so I school and said hey lets you know find place that has nice job and uh thats how it worked out",
+                "label": "+"
+            },
+            {
+                "text": "Well yeah I think lot of people were uh leaving Michigan all about the time I came here in the early eighties and it seemed like it was almost mass exodus",
+                "label": "b"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know the the little joke about will the last person leaving Michigan just turn out the light",
+                "label": "sd"
+            },
+            {
+                "text": "Oh well its nice place you know I mean its its nice thats nice place though",
+                "label": "sv"
+            },
+            {
+                "text": "Well you know I I said I lived in uh the Pontiac I didnt live in the city of Pontiac I lived to the west of it Uh I forget the the county but you know where all the lakes are around there",
+                "label": "sd"
+            },
+            {
+                "text": "Okay sort of",
+                "label": "bk"
+            },
+            {
+                "text": "I lived in an apartment complex on one of the lakes It was real close to where I worked It was only like four miles to work and it was wonderful being on the lake like that You know in the summer you feel like youre you know on vacation all the time because youre right on lake and everybodys you know out enjoying the water and such and uh in the winter time the lakes froze over you could still kind of go sledding and such out there but I thought it was just really neat to be out there on all those lakes Theres lots of really small ones out there",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know like maybe mile two long",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "sd"
+            },
+            {
+                "text": "Thats enough to uh do some boating --",
+                "label": "sv"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "-- and it was lots of fun",
+                "label": "sd"
+            },
+            {
+                "text": "Thats right Lake I think Lake Whitmore is the only one I have real memories of slash error",
+                "label": "aa"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "Which is - well I think its I think its toward Ann Arbor so its probably out in that direction but thats the only one I probably could name --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- after all these years so",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "But uh -",
+                "label": "+"
+            },
+            {
+                "text": "But it was yeah just lots of little lakes and of course it was you know little more expensive to live on the lake but I just thought that was grand And I think lot of people didnt really know that there were all those lakes out there unless you were from that area and kind of spotted them but there was quite few lakes all around there It seemed like it was almost like you were living on an island there was so much water around where I was I said I wasnt close to downtown Pontiac I was way out to the west maybe four or five miles from from the city limits and it was really nice out there",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "We had uh Pine Knob --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know to go skiing --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- and stuff",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "So there were things around there Really was pretty nice",
+                "label": "sd"
+            },
+            {
+                "text": "Sure sure and - isnt that where they have summer music festival there too",
+                "label": "ba"
+            },
+            {
+                "text": "Right right in the summertime they have musicals there and in the winter time they make snow and have ski slope",
+                "label": "na"
+            },
+            {
+                "text": "Thats right thats right I know we used to - we we didnt do lot of it but we did",
+                "label": "bk"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "We did so those are always fun And Alpine was it Alpine was another ski slope --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- that we went to so uh slash error",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "It was nice I always tell people that in the winter we use we used to uh - my dad would kind of bank up the snow in the backyard and turn the hose on you know make pond in the backyard for us",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "So but uh you know we probably did some ice skating on it but then it chipped chipped and you know it would melt or whatever and get pretty uneven so -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah We used to have - Christmas time uh some of our relatives would come up from Alabama and I think most times we would have snow around Christmas and the kids when they were young would just go nuts",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know because they were from Alabama where it never snowed --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- and they just had grand time watching the snow and getting out there and playing in it you know eternally",
+                "label": "sd"
+            },
+            {
+                "text": "Oh Oh right right If only it would make nice snow here in Texas wed be okay at Christmas time",
+                "label": "b"
+            },
+            {
+                "text": "My first winter here - I I came down in uh early eighty-two and there was just freak snowfall early one morning in December be- couple days before Christmas It lasted only few hours like --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- by noon it was gone",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And I remember getting up and somebody telling me hey better wait to go to work because the roads are all you know snow And I was laughing going yeah right thats good practical joke ha ha They said no really theres snow and there was but very short time and the weather got warm so quick --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- it just melted it all away",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah I know",
+                "label": "aa"
+            },
+            {
+                "text": "Course when we get an ice storm thats not too much fun",
+                "label": "sv"
+            },
+            {
+                "text": "No thats not fun either so uh I I just as soon have all the slushy snow on the streets than have the ice on the streets so But uh well we have - our house is kind of on little hill so uh we get the sled out and uh the kids go down the hi- the hill on the sleds when its icy I mean they just go down the ice",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And if its cold we say okay out you go I think we must be the only people on the block that make use of that cold weather and get out there",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Oh yeah I think its fun even the couple of ice storms Ive gotten out there in my ski pants or something and still just been out and enjoying it little bit I mean sometimes the ice is pretty bad but if you get on the the uh grassy kind of part you get little bit of traction you know not slip and fall I mean first -",
+                "label": "aa"
+            }
+        ]
+    }
+]

@@ -1,0 +1,555 @@
+[
+    {
+        "conversation_id": "conv_2028",
+        "turns": [
+            {
+                "text": "Okay um How has it been this week for you",
+                "label": "o"
+            },
+            {
+                "text": "Weather-wise or otherwise",
+                "label": "qr"
+            },
+            {
+                "text": "Weather-wise",
+                "label": "sd"
+            },
+            {
+                "text": "Weather-wise Damp cold warm",
+                "label": "b^m"
+            },
+            {
+                "text": "Oh no damp",
+                "label": "ba"
+            },
+            {
+                "text": "We have we have gone through what might be called the four seasons uh in the last week",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "We have had highs of seventy-two lows in the twenties",
+                "label": "sd"
+            },
+            {
+                "text": "My goodness Well I dont even want to tell you what ours has been like then It was ninety-six yesterday",
+                "label": "ba"
+            },
+            {
+                "text": "I heard about that",
+                "label": "sd"
+            },
+            {
+                "text": "and we set record yesterday And uh very windy but then today the wind has dropped off and also the temperature so very cool uh I think right now its like sixty-nine",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "and thats cool for - or it feels cool compared to yesterday but very pleasant no rain in the last month I dont think The grounds very dry and our yard work everything is in bloom so our yard work is pretty tough the ground being dry but I guess it also uh brings about allergies were having lot of allergies down here right now",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Everything blooming and and the weather -",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh I think lot of people have contracted uh spring fever too so Had lot of people out at work you know for fishing and and uh and golfing reasons and things like that",
+                "label": "sd"
+            },
+            {
+                "text": "The blue flu",
+                "label": "bf"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "yeah the blue flu or the white collar flu depending on where you work I guess",
+                "label": "b"
+            },
+            {
+                "text": "Yes",
+                "label": "aa"
+            },
+            {
+                "text": "Oh we have had uh as Ive said we have had variable weather Uh",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "It has been untypically wet for this time of year",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "and also we have lot of green you know the grass has been growing and if you look outside you would like to go out and mow your lawn",
+                "label": "sd"
+            },
+            {
+                "text": "Uh",
+                "label": "%"
+            },
+            {
+                "text": "if you could go out and buy new spark plug or something along those lines but fortunately it rains and you uh do not have to go out and buy the spark plug",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "you know But weve had an unusually uh uh warm spring and well I guess were still in winter and uh",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "we have had no snow",
+                "label": "+"
+            },
+            {
+                "text": "No snow",
+                "label": "bh"
+            },
+            {
+                "text": "To speak of to speak of",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "We usually average oh anywhere from six to twelve inches during the winter and this year as well as last year we have had less than four inches total accumulation",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "So its been inordinately warm uh here for uh for this time of year",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "So uh in that regard its fine but uh",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I envy you your ninety-four degrees I thought I heard this morning that in San Antonio it was in the nineties yesterday",
+                "label": "+"
+            },
+            {
+                "text": "Yes yes it is Down in the more southern and western areas And of course we are um about two hours from the northern border straight south",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and and uh very windy Its amazing to me because I have only lived in Dallas for three years and I cannot believe that the wind blows all the time It does I I - very seldom if any - I cant remember you know day that I walked out and the wind wasnt blowing",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Well I spent six years in graduate school at in Indiana In the flatlands and it was that way every day",
+                "label": "b"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "Rarely day went by when the wind was less than fifteen or twenty miles an hour",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "Summer and winter so that uh - you you became accustomed to it I guess",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But uh otherwise - as I said we have had uh relatively mild winter",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "speaking for this area of the country",
+                "label": "+"
+            },
+            {
+                "text": "Oh rea- where did you go to school in Indiana",
+                "label": "qw"
+            },
+            {
+                "text": "Purdue",
+                "label": "sd"
+            },
+            {
+                "text": "Purdue I have brother that lives in uh uh South Bend Indiana",
+                "label": "b^m"
+            },
+            {
+                "text": "Oh yes",
+                "label": "ba"
+            },
+            {
+                "text": "And I had to always - Ive lived there for eight years myself Id always said I was going to go back to school and go to Notre Dame But I didnt Uh",
+                "label": "sd"
+            },
+            {
+                "text": "Well you are not from that area originally I can tell",
+                "label": "sv"
+            },
+            {
+                "text": "No originally Im from New Mexico",
+                "label": "aa"
+            },
+            {
+                "text": "Oh okay",
+                "label": "bk"
+            },
+            {
+                "text": "I was born in New Mexico and we lived in uh South Bend for eighty eight years and uh then moved to uh Tennessee actually",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh -",
+                "label": "%"
+            },
+            {
+                "text": "Well I thought I heard little Tennessee in there somewhere",
+                "label": "sd"
+            },
+            {
+                "text": "Very much very much cause I I spent thirteen years there",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh then moved to Dallas about three years ago So -",
+                "label": "+"
+            },
+            {
+                "text": "Gee youve moved almost moved around as much as I have",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah uh my father was in the Air Force so -",
+                "label": "aa"
+            },
+            {
+                "text": "Oh I see",
+                "label": "bk"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Well I worked for the government so I I moved uh much more frequently than I had intended for sixteen years",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "but uh I guess the uh this is my first conversation in this uh uh series",
+                "label": "sd^t"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I I received call last night because of the uh - I had not received my uh personal identification number",
+                "label": "sd^t"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "So I had to call Jack Godfrey today to ask him what it was because I I had to abort the call last evening because I couldnt get on the line",
+                "label": "sd^t"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So uh is there any - Im not sure how long were supposed to talk",
+                "label": "qy"
+            },
+            {
+                "text": "Its um its just as long as you want to",
+                "label": "sd^t"
+            },
+            {
+                "text": "Oh -",
+                "label": "%"
+            },
+            {
+                "text": "I mean its just uh as long as you want to and just you know reasonable lengthy conversation Uh do you work for Texas Instruments",
+                "label": "sd^t"
+            },
+            {
+                "text": "No I do not I work for",
+                "label": "nn"
+            },
+            {
+                "text": "Oh okay",
+                "label": "bk"
+            },
+            {
+                "text": "And I uh of course was I was sent uh an application from uh from Jack",
+                "label": "sd^t"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Ive known Jack for some time Im in the speech processing business",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay",
+                "label": "bk"
+            },
+            {
+                "text": "and have been for number of years so I was very much interested",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "in in being speaker for this",
+                "label": "+"
+            },
+            {
+                "text": "Well actually I I work for Texas Instruments and uh Im an Im an environmental engineer",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I see",
+                "label": "bk"
+            },
+            {
+                "text": "and uh they just published this internally you know getting people involved",
+                "label": "sd^t"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So that thats really strange I I was wondering why we had somebody from Maryland though I was saying God do we have TI in Maryland or -",
+                "label": "sv^t"
+            },
+            {
+                "text": "Im sure you have representative somewhere in the area",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "If just nothing more than business representative or government services representative and um but I have uh I have been speaker in other uh similar type of activities",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I know the reason why this is why the uh this is being gathered and the program and so forth so I was interested as I said I was interested in being speaker",
+                "label": "sd^t"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "We havent talked much about the weather",
+                "label": "sd"
+            },
+            {
+                "text": "Oh well -",
+                "label": "b"
+            },
+            {
+                "text": "I know thats what were supposed to do",
+                "label": "sd^t"
+            },
+            {
+                "text": "Yeah yeah Well really it uh the letter just says um - lets see I cant - I was looking at it I was trying to find out speedy short cuts and I always thought its not necessary to measure your time just to go ahead and enjoy the conversation and and end it when needed So -",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh In environmental engineering uh -",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "aa"
+            },
+            {
+                "text": "is that with regard to work place engineering or just you know environm- the work place environment or -",
+                "label": "qy"
+            },
+            {
+                "text": "Uh well its actually um waste water",
+                "label": "nd"
+            },
+            {
+                "text": "Oh I see",
+                "label": "bk"
+            },
+            {
+                "text": "Taking taking care of uh - Im actually in the air division and we monitor um anything that comes out of stack or out of building or um we do have customers that um their concerns are in the work place and we take care of that but",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "within our department We take care of everything Waste water uh solid waste and recycling and and air and -",
+                "label": "+"
+            },
+            {
+                "text": "Well I had - my the the call last evening was supposed to be about uh concerning recycling",
+                "label": "%"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "in the community The call I received - and so I had uh I had thought little bit about it um",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "before hand",
+                "label": "+"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So I - but that thats interesting I have uh uh friend who is planner",
+                "label": "%"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh city planner And one of his - and he models uh city districts and so forth",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "uh does computer modeling",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And one of the uh - he has inputs or gets inputs from uh an environmental engineer",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Yeah we actually our division is corporate wide and we take care of just the Dallas area",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Of course we have several plants here but um we do air modeling also",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I see",
+                "label": "bk"
+            },
+            {
+                "text": "And and yeah I take care of all the air modeling specifically for the Dallas area What we do we have weather station that we get all of this information you know temperature wind speed wind direction and uh we have huge chemical data base",
+                "label": "sd"
+            },
+            {
+                "text": "Well thats interesting",
+                "label": "ba"
+            },
+            {
+                "text": "And uh our our chemical data base so that we know every chemical on site and and um its concentration and if if anything ever happened God forbid you know building explosion or something tha- wed be able to track chemicals from that building with our weather station",
+                "label": "sd"
+            }
+        ]
+    }
+]

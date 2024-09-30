@@ -1,0 +1,251 @@
+[
+    {
+        "conversation_id": "conv_3187",
+        "turns": [
+            {
+                "text": "How would you feel about sending an elderly family member to nursing home",
+                "label": "qo"
+            },
+            {
+                "text": "Well I dont feel very good about it but I think that at some times it can be the right thing to do We sent my grandfather to nursing home at the point when he was really incapable of caring for himself anymore",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "He actually died few months after that and so as - at least in retrospect it was the right thing to do because he was either in nursing home or hospital --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- or something else that he would have been spending most of his time in those days",
+                "label": "+"
+            },
+            {
+                "text": "And what type of recommendations did you have when you decided where to place him",
+                "label": "qw"
+            },
+            {
+                "text": "Um well the see uh well - we he wanted to get into Mennonite nursing home which is very popular and hard to get into and had like ten year waiting list --",
+                "label": "%"
+            },
+            {
+                "text": "Oh my",
+                "label": "ba"
+            },
+            {
+                "text": "-- right we wound up just choosing another Mennonite nursing home that was easier to get into Or but naturally - no it was even Mennonite related Im sorry it was actually not particularly great nursing home Mostly the thing was that it was available when we needed it",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "because he suddenly got sick --",
+                "label": "+"
+            },
+            {
+                "text": "so the convenience -",
+                "label": "bf"
+            },
+            {
+                "text": "-- and needed to be put in",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "aa"
+            },
+            {
+                "text": "Uh what do you think",
+                "label": "qo"
+            },
+            {
+                "text": "My grandmother lived with us um until August um and we made the decision to put her in nursing home She has leukemia --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and her the rest of her family and her regular doctors and everybody she trusted and knew was in Dayton and were several thousand miles away --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- so I made the decision to put her in nursing home and my sister being on the other end found one that she could have what was called an independent living facility She had her own little room and didnt have to share it with anyone and could bring in her own chair and set --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah --",
+                "label": "b"
+            },
+            {
+                "text": "-- so -",
+                "label": "%"
+            },
+            {
+                "text": "-- yeah thats important --",
+                "label": "b^r"
+            },
+            {
+                "text": "Yes",
+                "label": "aa"
+            },
+            {
+                "text": "-- I would say",
+                "label": "+"
+            },
+            {
+                "text": "And that the other major factor is that she needs blood transfusions every week to ten days and would have to be hospitalized day or two so in this facility they can do it right there from her own room --",
+                "label": "sd"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "-- so she didnt have to be transported back and forth So shes been there since August the thirteenth and seems to have adjusted pretty well Its not her favorite place to be in Shed much rather be here with me But --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- when it got to the point I was spending more time at the hospital with her - and Ive got little children here who needed me here --",
+                "label": "+"
+            },
+            {
+                "text": "Right so that - slash error two utts",
+                "label": "aa@"
+            },
+            {
+                "text": "-- she needed somebody to watch her twenty-four hours day",
+                "label": "sd"
+            },
+            {
+                "text": "Right and --",
+                "label": "aa"
+            },
+            {
+                "text": "So",
+                "label": "%"
+            },
+            {
+                "text": "-- that becomes difficult then",
+                "label": "+"
+            },
+            {
+                "text": "She was falling down and hemorrhaging and you know all kinds of physical problems so it just became too much for me to handle even though I would have liked to have had her stay with her health being what it was she couldnt --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- anymore",
+                "label": "+"
+            },
+            {
+                "text": "Yep we tried to convince my grandfather to live with us at several points during the last few years of his life but he was essentially too proud and too independent --",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- so that even though his heart was getting incredibly weak and his knees were going bad --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- he lived in his own house as long as he could --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- but he was living alone had an upstairs apartment could barely make it up the steps --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- to the top without great deal of pain and this - eventually things just went too far --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and he allowed himself to be put into nursing home",
+                "label": "sd"
+            },
+            {
+                "text": "Yes well I think sometimes when people get to be certain age other people have to kind of help them make decisions It sure wouldnt have been Grannys decision to leave us and go back to nursing home but shes accepted it real well now --",
+                "label": "b"
+            },
+            {
+                "text": "Right --",
+                "label": "b"
+            },
+            {
+                "text": "-- so",
+                "label": "%"
+            },
+            {
+                "text": "-- well thats yeah thats right that the children have some responsibility too to their parents and such to help decide whats the right thing",
+                "label": "sv"
+            },
+            {
+                "text": "Well we enjoyed --",
+                "label": "sd"
+            },
+            {
+                "text": "And -",
+                "label": "%"
+            },
+            {
+                "text": "-- having her here but we feel shes much safer where she is now She still continues to fall but when she does there nurse is right there to help her --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and I know shes eating the right things and her doctors right there where he can come in and check on her so It became dangerous for us to keep transporting her back and forth in the car because she was so wobbly and needed walker or wheel chair --",
+                "label": "sd"
+            },
+            {
+                "text": "Yep",
+                "label": "b"
+            },
+            {
+                "text": "-- so I think shell adjust",
+                "label": "sd"
+            }
+        ]
+    }
+]

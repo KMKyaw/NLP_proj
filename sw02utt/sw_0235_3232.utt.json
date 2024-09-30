@@ -1,0 +1,475 @@
+[
+    {
+        "conversation_id": "conv_3232",
+        "turns": [
+            {
+                "text": "Okay I guess our topic is um advice about going to college",
+                "label": "o"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Do you have children of your own",
+                "label": "qy"
+            },
+            {
+                "text": "Oh no I dont have any children but Im still going to college",
+                "label": "nn"
+            },
+            {
+                "text": "Oh are you",
+                "label": "qy"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "What school are you going to",
+                "label": "qw"
+            },
+            {
+                "text": "State",
+                "label": "sd"
+            },
+            {
+                "text": "Oh Are you enjoying it",
+                "label": "qy"
+            },
+            {
+                "text": "Um well its lot of work",
+                "label": "sd"
+            },
+            {
+                "text": "Are you working on your um --",
+                "label": "qy"
+            },
+            {
+                "text": "My Bachelors",
+                "label": "^2"
+            },
+            {
+                "text": "-- Bachelors degree",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "And what field of study are you in",
+                "label": "qw"
+            },
+            {
+                "text": "Um its actually in computer science --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and I have special interest in Voice I",
+                "label": "sd"
+            },
+            {
+                "text": "Oh well thats neat Are you from North Carolina",
+                "label": "ba"
+            },
+            {
+                "text": "No Im actually from Amarillo Texas originally",
+                "label": "nn"
+            },
+            {
+                "text": "Oh are you really",
+                "label": "bh"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Oh Well what took you to North Carolina",
+                "label": "qw"
+            },
+            {
+                "text": "Oh um the service",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I see",
+                "label": "bk"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Well that was one of the things I was thinking about in school um I went to Texas Tech out in Lubbock --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh I had friend my roommate went to Tech also but she was from New Mexico --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and she had to pay out of state tuition --",
+                "label": "sd"
+            },
+            {
+                "text": "Ooh",
+                "label": "ba"
+            },
+            {
+                "text": "-- and I think that would have uh played real big part of my decision --",
+                "label": "sd"
+            },
+            {
+                "text": "It would have played major part in mine",
+                "label": "sd"
+            },
+            {
+                "text": "-- yeah because um she was pay- - of course back then it was so much cheaper than it is now It was like four dollars semester hour --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and so I was going to school for you know just few hundred dollars semester and she was paying forty dollars an hour --",
+                "label": "sd"
+            },
+            {
+                "text": "Golly",
+                "label": "ba"
+            },
+            {
+                "text": "-- so she paid ten times as much because she was out of state",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah luckily Ive paid in state tuition the whole time",
+                "label": "b"
+            },
+            {
+                "text": "Oh thats good Yeah so I think that would be one thing I would definitely consider --",
+                "label": "ba"
+            },
+            {
+                "text": "uh-huh um",
+                "label": "b"
+            },
+            {
+                "text": "-- try to find school within the state that um I liked well enough to attend",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh The second thing is some colleges only offer the uh liberal arts --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh whereas like State they offer engineering courses --",
+                "label": "+"
+            },
+            {
+                "text": "Right yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- so depending on what your major is or medical you might want to atteck- some um attend somewhere like Tech --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah right",
+                "label": "b"
+            },
+            {
+                "text": "-- and um aside from the uh - well some schools may even give you financial aid where another one wont",
+                "label": "%"
+            },
+            {
+                "text": "Yeah thats true that was something else I had was I had government aid of course but uh it was wonderful because I got one of those grants that you dont have to repay --",
+                "label": "b"
+            },
+            {
+                "text": "Oh really",
+                "label": "b"
+            },
+            {
+                "text": "-- and yeah it was so nice --",
+                "label": "%"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "-- it paid most of my tuition and um lot of the book costs and that kind of thing so -",
+                "label": "sd"
+            },
+            {
+                "text": "Wow thats great",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah I really -",
+                "label": "b"
+            },
+            {
+                "text": "Was it Pell grant",
+                "label": "qy"
+            },
+            {
+                "text": "Im sorry what did you say",
+                "label": "br"
+            },
+            {
+                "text": "What kind of grant was it",
+                "label": "qw"
+            },
+            {
+                "text": "Well it was called Basic Equal Opportunity Grant --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and it was from the government and it was based at first it was based on my parents income My parents had five children and really didnt make enough money to send any of us to school",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And so uh because based on the number of children and the amount of money uh my father brought in I got small grant --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but then after that I was on my own working and you know trying to go to school on my own So then I got real big grant because the --",
+                "label": "sd"
+            },
+            {
+                "text": "Wow",
+                "label": "ba"
+            },
+            {
+                "text": "-- amount of money I was making really didnt compare",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So it was kind of nice",
+                "label": "sv"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "I dont know if those are still available or not but -",
+                "label": "sd"
+            },
+            {
+                "text": "Uh Im not quite - theres theres lot of different organizations who uh who do give grants but uh Im not exactly sure which ones they are and how much they you know they generally run",
+                "label": "%"
+            },
+            {
+                "text": "Yeah yeah this was great it was just based on you know how much your tuition costs and everything and generally it paid everything so --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- I went to school about three years of my four for almost nothing so that was -",
+                "label": "+"
+            },
+            {
+                "text": "Golly thats great",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah it was really nice",
+                "label": "aa"
+            },
+            {
+                "text": "Oh another thing Ive got Ive got degree from another college --",
+                "label": "o"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh something that might play part is the size of the college",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Uh the smaller schools can give you lot uh lot more specialized instruction --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and attention than the larger schools --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- in the larger schools you get caught up in the bureaucracy and --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and they just give you teachers assistants you know --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- instead of scholar you get --",
+                "label": "sd"
+            },
+            {
+                "text": "Thats right",
+                "label": "ba"
+            },
+            {
+                "text": "-- and uh you dont get near the uh quality of education and as well the uh smaller schools often times dont cost as much",
+                "label": "sv"
+            },
+            {
+                "text": "Um I didnt know that",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "Um Well I guess the only comparison I had ever heard was between Christian college because I thought about attending Abilene Christian --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- instead of Texas Tech --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and of course the price was just astronomical compared to Tech --",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "-- the Christian college was so much more expensive But I guess some of the other smaller colleges might might be lot different",
+                "label": "sd"
+            },
+            {
+                "text": "Um Oh I at State I think its just waste of somebodys money to go there --",
+                "label": "sv"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "-- its really shame because of you know the instruction --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- um Id rather go to any other college you know in the state and I would definitely get my moneys worth uh much better than State",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah huh",
+                "label": "b"
+            },
+            {
+                "text": "Its kind of unfortunate because theyve theyve just grown so big that they just dont care about the students any more",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah yeah youre just number",
+                "label": "b"
+            },
+            {
+                "text": "Yeah theyre theyre bent on uh seeing how much land how much more land they can get and how much uh how much of the campus they can build up --",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh -- -",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- yeah its really bad situation here",
+                "label": "%"
+            },
+            {
+                "text": "Oh thats shame Well I I felt little cheated at Tech also Once I got into my - I um majored in -",
+                "label": "ba"
+            }
+        ]
+    }
+]

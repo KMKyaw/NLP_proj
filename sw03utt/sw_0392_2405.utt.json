@@ -1,0 +1,575 @@
+[
+    {
+        "conversation_id": "conv_2405",
+        "turns": [
+            {
+                "text": "Hi how are you today",
+                "label": "fp"
+            },
+            {
+                "text": "Im great",
+                "label": "fp"
+            },
+            {
+                "text": "Good Well as matter of fact Im before we started this conversation I was working on my at home",
+                "label": "fp"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Do you have one",
+                "label": "qy"
+            },
+            {
+                "text": "No I dont have one at home I work with one on at work --",
+                "label": "nn"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- continually you know but I do not have one of my own at home",
+                "label": "+"
+            },
+            {
+                "text": "Do you have -",
+                "label": "%"
+            },
+            {
+                "text": "What do you have at home",
+                "label": "qo"
+            },
+            {
+                "text": "We have an um - actually its I computer but it is the I --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- um clone Its not the I --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- from back when",
+                "label": "+"
+            },
+            {
+                "text": "From the oldies but the goodies",
+                "label": "bf"
+            },
+            {
+                "text": "Right",
+                "label": "aa"
+            },
+            {
+                "text": "Its probably pretty close to what I have because I have the same kind of thing at work I have three eighty-six which is I computer but everything in is in I mode So -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah thats what we have Um",
+                "label": "b"
+            },
+            {
+                "text": "Do you use it lot at home",
+                "label": "qy"
+            },
+            {
+                "text": "Well I really do I um am an accountant and",
+                "label": "na"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "but I work at home",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh So youre on it lot",
+                "label": "b"
+            },
+            {
+                "text": "So I use it for that quite often",
+                "label": "nd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "We have you know used some of it for some personal things We keep track of personal budgets and things like that on it I - since its tax season Im doing lot of taxes so I do lot of um lot of that work on it as well",
+                "label": "sd"
+            },
+            {
+                "text": "I was amazed when I took our taxes to our tax person and she works out of her home also",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And the uh software that does the taxes is just incredible",
+                "label": "sv"
+            },
+            {
+                "text": "Oh it is",
+                "label": "aa"
+            },
+            {
+                "text": "You know I mean she just you know - I expected to go and you know drop the stuff off and go back two weeks later And you know she had it done and out in twenty minutes on her little",
+                "label": "%"
+            },
+            {
+                "text": "Yeah you can",
+                "label": "b"
+            },
+            {
+                "text": "It was great",
+                "label": "sd"
+            },
+            {
+                "text": "Yes you can thats right",
+                "label": "aa"
+            },
+            {
+                "text": "Thats wonderful I have often thought that that having one at home would be neat I just dont know if we would really use it that much You know",
+                "label": "ba"
+            },
+            {
+                "text": "We really - we deci- we didnt decide to get one until I started working at home",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Then you know then we thought well we can use it for you know some personal things We di- - for us it really took you know business application --",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- to justify the expense of it",
+                "label": "+"
+            },
+            {
+                "text": "Oh definitely definitely I know my stepfather bought my mother little personal computer oh I guess probably three years ago for Christmas and you know its got some stuff on it Its got nice little word processing software on it you know and some budgeting type things and stuff And I dont think shes ever touched it --",
+                "label": "aa"
+            },
+            {
+                "text": "Really",
+                "label": "b"
+            },
+            {
+                "text": "-- you know It just it just seems like lot of trouble for something at home You know she always seems to have better things to do than to try to sit down and figure out how to use her computer you know So -",
+                "label": "+"
+            },
+            {
+                "text": "Right She could just as easily do those things by hand",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah just as quickly",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Now I know my boss has bought the software um that he can that his checkbook is on on --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- on disk and he goes in and prin- and types his checks on the screen and then hits print and they print out on the checks and hes ordered envelopes with the windows in the right places --",
+                "label": "+"
+            },
+            {
+                "text": "Oh my gosh",
+                "label": "ba"
+            },
+            {
+                "text": "-- you know and he just whips out you know - I saw him yesterday morning over there and and he paid his monthly bills and he just you know wrote all the checks on the screen and hit print and it printed out like ten checks and he just you know - theyre perforated and he just ripped them off They go through just continuous thing on the printer --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- and he ripped them off and stuck them in the envelopes and there they went You know and he said you know I can balance my checkbook in seconds you know --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- because its all in the computer you know So -",
+                "label": "+"
+            },
+            {
+                "text": "And you know theres not going to be those adding mistakes that we all make",
+                "label": "sv"
+            },
+            {
+                "text": "Thats exactly why He said you know he said used to be I always sat looking for those you know He said this way there isnt any You know it does it for you So This you know - there are some definitely some some advantages to it Its just matter of like you say are the advantages does it justify the cost if youre using it strictly for personal business So -",
+                "label": "aa"
+            },
+            {
+                "text": "Right I I think in most cases Id have to say no Not unless somebody really enjoys it",
+                "label": "aa"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Or perhaps is using it for education I have four year old son and we have some education programs that he likes little Sesame Street one --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and we have another one that plays music and he really likes that one",
+                "label": "sd"
+            },
+            {
+                "text": "As he grows up hell be even more and more too",
+                "label": "sv"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "Thatll be great",
+                "label": "ba"
+            },
+            {
+                "text": "And yeah on - now I think about it I guess for for kids like as they get older - especially now --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- when they get to junior high school high school and even college - I mean my sister went to college started about three years ago and she had to have computer",
+                "label": "+"
+            },
+            {
+                "text": "Really",
+                "label": "b"
+            },
+            {
+                "text": "I mean it was like necessity",
+                "label": "sd"
+            },
+            {
+                "text": "Well yeah I -",
+                "label": "b"
+            },
+            {
+                "text": "She couldnt imagine going through college without computer",
+                "label": "sd"
+            },
+            {
+                "text": "Well Im going through right now Im you know going part time in the evenings and you know I do - yeah everything has to be typed I mean they require it You have to type it --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- you know and and so Im up here you know nights and weekends you know working on the little - on the up here you know typing stuff So I can see where it would be great advantage to have one at home you know if you were going to school",
+                "label": "+"
+            },
+            {
+                "text": "Yeah any more I dont even know if they have if college kid would have typewriter",
+                "label": "aa"
+            },
+            {
+                "text": "Well you - I dont know",
+                "label": "%"
+            },
+            {
+                "text": "Probably not even no",
+                "label": "sv"
+            },
+            {
+                "text": "No no and they probably used to have it I just finished major research paper couple of weeks ago and I couldnt imagine not having that thing on disk --",
+                "label": "nn^m"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- where I could go back in and move stuff around and change it I I dont know what they used to do before they -",
+                "label": "+"
+            },
+            {
+                "text": "Well unfortunately in our family my husband and I went through college together and then he went on and got his Masters degree while I was working",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And Im the better typist",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "of us and we just had regular old typewriter not even correcting one back then",
+                "label": "+"
+            },
+            {
+                "text": "Oh --",
+                "label": "qy^d"
+            },
+            {
+                "text": "It wasnt that long ago but --",
+                "label": "sd"
+            },
+            {
+                "text": "-- and you had to type all of his papers",
+                "label": "+"
+            },
+            {
+                "text": "-- I typed his Masters papers and things on typewriter",
+                "label": "+"
+            },
+            {
+                "text": "Oh gosh",
+                "label": "ba"
+            },
+            {
+                "text": "Oh boy to have computer back then",
+                "label": "sd"
+            },
+            {
+                "text": "Oh cut your time in half at least",
+                "label": "sv"
+            },
+            {
+                "text": "At least",
+                "label": "aa^m"
+            },
+            {
+                "text": "At least",
+                "label": "b^m"
+            },
+            {
+                "text": "I mean and then of course you have some changes to make and do the whole thing over You take out sentence on computer you take it out bleep print it out fine",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Take out sentence on piece of paper -",
+                "label": "%"
+            },
+            {
+                "text": "You do the whole thing over",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Thats right You know I remember when I was working in high school you know I was working in an office right after I got out of high school I continued working there for probably another year And we did everything on typewriter --",
+                "label": "aa"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- everything But its amazing you know then when where you know someone would have you type letter they did it right they did it right I mean they were -",
+                "label": "+"
+            },
+            {
+                "text": "The first time",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah they sit there and they go is this really what I want to say and you typed it and that was it and now you know people just send it back over and over and over and over",
+                "label": "aa"
+            },
+            {
+                "text": "Thats probably one of the problems and frustrations that its brought about because people do feel like Oh well we can just change it",
+                "label": "sv"
+            },
+            {
+                "text": "Well well try this out and see what it looks like Yeah",
+                "label": "^q"
+            },
+            {
+                "text": "Yeah use it as just -",
+                "label": "b^m"
+            },
+            {
+                "text": "Yeah instead of knowing what they want to say --",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- before they eve- they just you know play with it and which in way is nice to be able to do but you know it it gets little out of hand sometimes Ive seen it get out of hand up here you know --",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- where weve got secretary that sits over here thats keeping metrics right now and keeping up you know of all the letters I type how many cha- how many of them do I make changes on And on each letter what types of changes Are they typos Are they because I couldnt read it or people just change like one word because they think it sounds better or whatever And you know shes also keeping percentage you know what percentage of letters am I retyping for whatever reason",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And theres like one week she did retypes on ninety percent of what she typed --",
+                "label": "sd"
+            },
+            {
+                "text": "I believe it",
+                "label": "ba"
+            },
+            {
+                "text": "-- you know and its like you know its ridiculous and that was that was the high week but its running about seventy --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- which is still ridiculous to have to make changes to seventy percent of everything that she types",
+                "label": "+"
+            },
+            {
+                "text": "Well its good that she does that I mean bring it to peoples attention",
+                "label": "sv"
+            },
+            {
+                "text": "Well thats exactly right You know she keeps you know keeps several weeks worth of data and then in addition is keeping copies of all the changes to show you know look this didnt really need to be changed You know this is ridiculous and you know changing add this time to now You know I mean thats the kind of things you know that shes keeping and showing that this was big waste of time it was waste of paper it was waste you know --",
+                "label": "aa"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- to change something like that So Anyway maybe you know maybe itll itll help in some way but I dont know There there definitely even with the few disadvantages like that are far better than the alternative",
+                "label": "+"
+            },
+            {
+                "text": "Oh I have to -",
+                "label": "%"
+            },
+            {
+                "text": "Without doubt Without doubt Well I would like to get one at home some day Weve got two year old son and so you know some day I would like to get even just like the video tell or something like that you know just to to be able to pull in sources from outside would be wonderful You know so -",
+                "label": "sv"
+            },
+            {
+                "text": "Especially when theyre in school I think they would get lot out of it",
+                "label": "sv"
+            },
+            {
+                "text": "Oh I do too I do too The on line encyclopedia just sounds wonderful you know that sounds like such great idea you know itd be kind of fun to be able to play with it So I know my father had and when we were in high school it was always fun We could um link in and I dont even remember now what it was called But you could link in and talk to other peo- talk to people all over the country you know",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And like you have your own little code name you know and youd type in du du du Hi how are you du du du and theyd type back and everybody and youd have five or six or seven people talking to each other at the same time and everything everybody said prints out on your screen as theyre typing it and it was just great fun you know It was very expensive because the whole time you were on there you were on long distance you know It was like --",
+                "label": "sd"
+            },
+            {
+                "text": "Ooh",
+                "label": "b"
+            },
+            {
+                "text": "-- long distance phone call So we were each limited to like twenty minutes day you know so -",
+                "label": "+"
+            },
+            {
+                "text": "Ooh that still could add up",
+                "label": "b"
+            },
+            {
+                "text": "Oh it added up big Well you know we my parents were divorced and so the time we were like visiting our father in the summer time you know so he felt like he could splurge and let us do it",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Im sure we would not have been allowed to do that under normal situations you know But when youre doing the guilty father complex you know because hes not there to watch us grow you can kind of get all kinds of stuff Thats sad Well it was nice to talk to you",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah you too",
+                "label": "fc"
+            },
+            {
+                "text": "Have -",
+                "label": "%"
+            },
+            {
+                "text": "Have nice day",
+                "label": "fc"
+            },
+            {
+                "text": "You too",
+                "label": "fc"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc"
+            },
+            {
+                "text": "Bye",
+                "label": "fc"
+            }
+        ]
+    }
+]

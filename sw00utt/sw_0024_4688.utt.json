@@ -1,0 +1,251 @@
+[
+    {
+        "conversation_id": "conv_4688",
+        "turns": [
+            {
+                "text": "Well we in in in our family have been pretty remiss in trying to uh you know keep track of uh daily finances Uh the uh way back what twelve years ago or something when I got my first computer I did what everybody else does which is to put the whole family budget on the machine and put checks and you know checkbooks and all this kind of thing and we kept that going for about month and it became so onerous that we gave up on it",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh That sounds about right",
+                "label": "b"
+            },
+            {
+                "text": "You know so uh the only thing were you know that we do now is uh I keep little spread sheet of uh what I call the net worth calculation which is just the the present value of various kinds of investments and so worth Uh and I only update that oh I dont know maybe once every quarter or so Every three months Just basically when the statements come in",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know Just to see whether or not were falling you know getting ahead falling behind or staying even or what",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Uh thats really about you know the extent of uh of the kind of uh financial score keeping that were doing",
+                "label": "sd"
+            },
+            {
+                "text": "Uh Well its kind of difficult for me Because right now uh like most teachers Im laid off and -- -",
+                "label": "%"
+            },
+            {
+                "text": "Huh Oh dear thats terrible",
+                "label": "%"
+            },
+            {
+                "text": "-- so um I spend most you know - I substitute lot",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So its lot its very hard on nonfixed income because I dont know how many days Im going to be called in and whether I am or not to try to keep track of finances",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "And but I know how much I have to bring in month And thats about it Thats about as far as we go And then anything extra is you know more or less split up between all of us",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "And just thrown in the kitty more or less for rainy day",
+                "label": "+"
+            },
+            {
+                "text": "Oh I see Are you are you married Are you living with bunch of with with people that youre sharing expenses",
+                "label": "b"
+            },
+            {
+                "text": "Uh no Im single mother I have three children",
+                "label": "nn"
+            },
+            {
+                "text": "Oh I see uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So uh right now were on we get - you know aid from the state at this point because theres no other way to do it And my ex-husband just sort of took off and doesnt pay child support",
+                "label": "sd"
+            },
+            {
+                "text": "Oh dear",
+                "label": "ba"
+            },
+            {
+                "text": "So right now I know what Im getting from the state and uh I have to balance more or less what I get from the state with my bills and uh you know try to work as many days as possible",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Any time they call me in But I still have to figure out If I work too many days then I lose all my state aid and if I dont work enough days then I dont get enough to meet the bills and its like juggling act every single month",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "Like this week Ive been just holding my breath and hoping theyll call me in but they probably wont because next week the kids have school vacation",
+                "label": "sd"
+            },
+            {
+                "text": "I see",
+                "label": "b"
+            },
+            {
+                "text": "So you know the four days before they only have four day week --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and they usually dont need subs because everybodys pretty good about coming in",
+                "label": "sd"
+            },
+            {
+                "text": "- oh I see",
+                "label": "b"
+            },
+            {
+                "text": "They dont like to be absent before vacation",
+                "label": "sv"
+            },
+            {
+                "text": "Oh sure",
+                "label": "b"
+            },
+            {
+                "text": "But were shopping around as far as well Im shopping around as far as trying to get uh thats why Im doing this to get some extra money",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh getting pledge sheets for the Boy Scouts My kids are in Boy Scouts so trying to get pledge sheets for the Boy Scouts because every penny I bring in is ten percent to me So its sort of helps defray the costs little bit But you know we do lot of robbing Peter to pay Paul I guess were in the situation that lot of am- middle-class Americans are in",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh Yeah youre the first you know uh - my next door neighbor just lost his job",
+                "label": "b"
+            },
+            {
+                "text": "Oh my Lord",
+                "label": "ba"
+            },
+            {
+                "text": "In you know one of these uh - his company went broke I mean went you know bankrupt Actually it was subsidiary of of an outfit called Shoe or something I- i- it was computer subsidiary I dont know what shoe companys doing running computer company",
+                "label": "+"
+            },
+            {
+                "text": "Really",
+                "label": "b"
+            },
+            {
+                "text": "But uh you know they just folded it up and uh uh told him to - they took the top management and gave them jobs --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- with the with the corporate uh at the corporate front office and everybody else was sent packing",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Uh hang on one second Ive got -- -",
+                "label": "ad"
+            },
+            {
+                "text": "Sure",
+                "label": "aa"
+            },
+            {
+                "text": "-- uh somebody was knocking on my door here Uh it sounds like in certain sense at least at the present - I mean it sounds sounds terrible to say but at the present stage you probably are even more in the market for budgetary thing than than most people probably ar- might be",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "In terms of keeping keeping score of input and output",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh Definitely",
+                "label": "aa"
+            },
+            {
+                "text": "Do you have do you have computer at home or -",
+                "label": "qy"
+            },
+            {
+                "text": "Uh yes we do And we try --",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- to - you know I keep track of every penny",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And more or less enter it in Every single day Im at the computer",
+                "label": "+"
+            },
+            {
+                "text": "I see",
+                "label": "b"
+            },
+            {
+                "text": "And its like okay what do we have left what do we have to pay what --",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- have we paid this month What hasnt come in yet you know",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Have you do you use standard uh standard spread sheet or I mean -",
+                "label": "b"
+            }
+        ]
+    }
+]

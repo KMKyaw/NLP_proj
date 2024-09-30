@@ -1,0 +1,751 @@
+[
+    {
+        "conversation_id": "conv_2253",
+        "turns": [
+            {
+                "text": "Yeah the question was uh what kind of books do you read for entertainment uh uh I guess",
+                "label": "o"
+            },
+            {
+                "text": "Oh I just read for escape",
+                "label": "sd"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "Well I mean its -",
+                "label": "%"
+            },
+            {
+                "text": "With two little kids I can understand that",
+                "label": "ba"
+            },
+            {
+                "text": "Yes Its thats simple I read to escape and I dont read any PARENTS magazines either",
+                "label": "b"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "What uh what kind of -",
+                "label": "qw"
+            },
+            {
+                "text": "Well I just finished just I just finished one last night great book It its very typical for my reading though but great book one called THE THINGS THEY CARRIED by Tim OBrien",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "And its uh - God I dont know if I would call it collection of Vietnam war stories or if Id call it collection of Vietnam love stories",
+                "label": "%"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Strange book Beautifully written",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Just beautifully written",
+                "label": "sd^r"
+            },
+            {
+                "text": "By uh somebody who was there or -",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah guy who was there as uh foot soldier",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So he considered himself to be you know true Vietnam soldier",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Well any of the guys that were ground - yes Yeah I can imagine",
+                "label": "b"
+            },
+            {
+                "text": "Yeah So whats the latest one youve read",
+                "label": "b"
+            },
+            {
+                "text": "Well I tell you what Im kind of uh history nut Im trying to think back now I read an awful lot of uh periodicals and uh you know almost what you call reference books",
+                "label": "^h"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh the last uh Im embarrassed to say the last you know honest to gosh cover to cover book that I read I cannot right offhand I tried to read uh one of the the Michener uh LONE STAR or the the TEXAS HISTORY BOOK",
+                "label": "sd"
+            },
+            {
+                "text": "I have never been able to make it through any of Micheners work",
+                "label": "sd"
+            },
+            {
+                "text": "Oh well Ive had similar problems It does tend to to -",
+                "label": "sd"
+            },
+            {
+                "text": "Have you are you Civil War buff at all",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah as matter of fact yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Because I finished one I think this is like two years ago and somebody had given me one of these dinky do crappy womens novels set in the Civil War John Jakes with -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and the novel didnt do that much for me But boy the period of time was fascinating",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So I then read was it BATTLE CRY OF FREEDOM",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "or - yeah I think it was BATTLE CRY OF FREEDOM",
+                "label": "%"
+            },
+            {
+                "text": "BATTLE CRY OF FREEDOM",
+                "label": "b^m"
+            },
+            {
+                "text": "Its kind of like historical compendium",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "of the Civil War and its not story of the Civil War its story of all the politics and uh lobbying and just basically state by state events",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "that lead to the events that brought about the Civil War And its fascinating because I had always you know been raised on this you know Emancipation Proclamation with the Civil War",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh There was lot more to it than that werent there",
+                "label": "b"
+            },
+            {
+                "text": "There was lot more to it than that As matter of fact that was very minor part that kind of become like an afterthought",
+                "label": "na^m"
+            },
+            {
+                "text": "Yeah well it was political move",
+                "label": "b"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "It was made to placate some of the northern support but not completely alienate all the southern support because you know it was uh if you read it it only emancipated those who were in areas uh in rebellion against the United States All the other areas which would I think at that time would have included West Virginia and oh may have been Kentucky few states you know that were not part of the South but still had slaves",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "They didnt emancipate them",
+                "label": "sv"
+            },
+            {
+                "text": "Well you know what else really surprised me now Im married to native Texan and Im not",
+                "label": "qh"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh",
+                "label": "b"
+            },
+            {
+                "text": "Ive got the same problem",
+                "label": "sd"
+            },
+            {
+                "text": "yeah Im glad you put it that way And I have two native Texan children too",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "My husband is always you know talked about th- Texas being uh rebel state",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And oh my God all this Civil War pride I kept waiting for - wheres some reference to this goddamn State of Texas and the role that they played either leading up to or in the Civil War",
+                "label": "sd"
+            },
+            {
+                "text": "Mayb- - isnt much there was there",
+                "label": "%"
+            },
+            {
+                "text": "They might as well have not even been there",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "You know they werent state and the only the only way that they had any part in it was after worth as to you know whos going to be going there And I keep telling my husband that and he keeps saying oh no I thought okay",
+                "label": "sv"
+            },
+            {
+                "text": "They supplied some uh you know - they were some groups of it the Vicksburg if you ever get chance to go over to Vicksburg the battleground at Vicksburg uh theres an area there where there was uh some Texas uh groups and they had an interesting time there",
+                "label": "%"
+            },
+            {
+                "text": "Oh Ill bet they did",
+                "label": "aa"
+            },
+            {
+                "text": "And down there at Sabine Pass uh I cant think of the guys name but he held off uh you know just he and handful of guys managed to hold off the whole Union navy for while from coming up the Sabine River which was of no consequence but still is an interesting story",
+                "label": "sd"
+            },
+            {
+                "text": "Well you know why they actually held them off None of the Yankees wanted to listen to their kind of luted grammar",
+                "label": "qh"
+            },
+            {
+                "text": "That could be it could be it",
+                "label": "am"
+            },
+            {
+                "text": "Now you didnt hear me say that Outside of uh -",
+                "label": "ad"
+            },
+            {
+                "text": "And then the last Civil War battle was fought at Val Verde you know over there on the Texas border you had lot of of groups heading for Mexico and they were cut off at the pass more or less at Eagle Pass And they didnt get across the river there so theyre the last - and that was actually after the war was over but it was the last",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "organized battle between the two units was in Texas so -",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Texas participation in the Civil War was uh minor at uh - its been -",
+                "label": "b"
+            },
+            {
+                "text": "Boy dont tell that to native Texan though",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "I mean my god they fought and won the whole thing",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah well my wifes from Galveston so -",
+                "label": "b"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Well Im from New Mexico so you know I was -",
+                "label": "b"
+            },
+            {
+                "text": "Thats beautiful state Thats beautiful state See I was raised in the Midwest which",
+                "label": "ba"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "you know hell we didnt even you know we didnt even know where the Mason Dixon Line was and besides you know if corn didnt grow there",
+                "label": "+"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "it didnt matter",
+                "label": "+"
+            },
+            {
+                "text": "It sounds like Iowa or something",
+                "label": "sv"
+            },
+            {
+                "text": "Iowa and Nebraska",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Yep And then I had probably lived the last eleven years in Massachusetts so you know",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "What does that make me an honorary Yankee or",
+                "label": "+"
+            },
+            {
+                "text": "Yeah on - yeah",
+                "label": "b"
+            },
+            {
+                "text": "God knows what",
+                "label": "+"
+            },
+            {
+                "text": "Oh well my sisters living in Illinois right now so -",
+                "label": "sd"
+            },
+            {
+                "text": "Well then shes going to come out well rounded",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But outside of those kind of things you know the other thing that Ive really gotten into reading and I think this is because the kids are getting to me",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "is science fiction",
+                "label": "+"
+            },
+            {
+                "text": "Ive always kind of enjoyed it I I used to read lot more than I do now",
+                "label": "sd"
+            },
+            {
+                "text": "Well Ive gone to the point where my husband my husband travels I get out like you know two or three books",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I Im trying to think of oh Isaac Asimov ROBOT series",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I mean I think Ive read all four of them and I understand that theres fifth",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "In the last six weeks hes been on the road lot",
+                "label": "sd"
+            },
+            {
+                "text": "I just turned around and looked at my brief at my briefcase my uh bookcase up here and I see ARMAGEDDON up there And uh the SHADOW OF BLOOMING GROVE and TWO THOUSAND AND TEN and GRANT TAKES COMMAND and THE WAR IN THE YEAR oh SPACE that was the one I was trying to wade through was SPACE James Michener Didnt get very far on that",
+                "label": "sd"
+            },
+            {
+                "text": "You know I think I read HAWAII",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "when I was about ten years old or so -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Which is about the developmental level that you know you need to be at to read those things and I still even then I was so so disgusted with it I I tried to read I dont remember which other one it was whatever one it was it was such blockbuster seller",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And I just I got about like hundred pages through it and realized I had like thousand more I thought I cant do this",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah it really - the the books are kind of uh imposing to say the least",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "No lets see heres one called GHOST TOWNS AND MINING CAMPS OF NEW MEXICO now not too many people have read that one I dont think",
+                "label": "^h"
+            },
+            {
+                "text": "No",
+                "label": "aa"
+            },
+            {
+                "text": "And theres THE HISTORY OF YOAKUM COUNTY TEXAS there Ive got uh -",
+                "label": "sd"
+            },
+            {
+                "text": "Is that big thick book",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah and Ive got yeah and Ive got HISTORY OF KINGSLEY IOWA",
+                "label": "ny"
+            },
+            {
+                "text": "What the what the hell for Why Kingsley Iowa",
+                "label": "qw"
+            },
+            {
+                "text": "Well because thats where my folks all came from",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay",
+                "label": "bk"
+            },
+            {
+                "text": "And they had centennial here awhile back I read the GRANT TAKES COMMAND that was pretty good",
+                "label": "sd"
+            },
+            {
+                "text": "Well -",
+                "label": "%"
+            },
+            {
+                "text": "That was part of that trilogy that uh",
+                "label": "sd"
+            },
+            {
+                "text": "Now thats one that",
+                "label": "%"
+            },
+            {
+                "text": "Bruce Canton did",
+                "label": "+"
+            },
+            {
+                "text": "Thats one - I dont know See I had never really been into science fiction that much until uh somebody gave me MIST OF AVALON probably about five or six years ago",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I dont know if Id call it science fiction or fantasy",
+                "label": "sd"
+            },
+            {
+                "text": "Sometimes its awful hard some of those get very philosophical they can be in any setting they just happen to put them in futuristic setting you know the -",
+                "label": "sv"
+            },
+            {
+                "text": "Well I loved that novel And then somebody said oh God this would have been even long ago because I was in Boston and it was raining all night and I had hole in my roof and I was waiting for the whole house to collapse and uh I was reading DUNE",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Which seeming rather ironic",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And I read the whole damn book while I was home hauling out you know like ten-gallon buckets of of water and waiting for the roof to collapse and",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh youre reading DUNE",
+                "label": "b"
+            },
+            {
+                "text": "reading about these guys wearing their little free man still suits and I think thats probably my favorite of of any piece of science fiction that Ive ever read",
+                "label": "+"
+            },
+            {
+                "text": "That was movie too wasnt it",
+                "label": "qy^g"
+            },
+            {
+                "text": "And the movie was awful",
+                "label": "na"
+            },
+            {
+                "text": "Was it",
+                "label": "bh"
+            },
+            {
+                "text": "Oh yes it was just terrible",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah Id I didnt see it but uh - yeah",
+                "label": "b"
+            },
+            {
+                "text": "It was it was beyond uh -",
+                "label": "%"
+            },
+            {
+                "text": "Patrick Stewart was in that I guess the guy thats on the new STAR TREK series was in that thing uh",
+                "label": "sd"
+            },
+            {
+                "text": "I dont know I just remember Sting was in it",
+                "label": "no"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah and if you were trying to follow any type of uh plot it it total- - even having read the book and Ive read that book probably three times",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "watching that movie I couldnt figure out",
+                "label": "+"
+            },
+            {
+                "text": "Couldnt -",
+                "label": "%"
+            },
+            {
+                "text": "what they were talking about at all",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I was real disappointed in that Well Ill tell you another good book do you like scary things",
+                "label": "sd"
+            },
+            {
+                "text": "Um well some history",
+                "label": "^h"
+            },
+            {
+                "text": "Have you -",
+                "label": "%"
+            },
+            {
+                "text": "books are pretty scary but - yeah",
+                "label": "+"
+            },
+            {
+                "text": "Thats true Have you read THE SILENCE OF THE LAMBS",
+                "label": "aa"
+            },
+            {
+                "text": "No Somebody who",
+                "label": "nn"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "saw the movie here the other day told me it was the most terrifying thing theyd ever seen they didnt sleep all night",
+                "label": "+"
+            },
+            {
+                "text": "Well see I I am debating whether or not I want to go see the movie after having read the book",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I mean the book is is chilling",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I have -",
+                "label": "b"
+            },
+            {
+                "text": "Just chilling",
+                "label": "sd"
+            },
+            {
+                "text": "no uh I dont have the foggiest notion what its about so -",
+                "label": "nn"
+            },
+            {
+                "text": "Then I wont tell you",
+                "label": "sd"
+            },
+            {
+                "text": "Okay yeah But -",
+                "label": "b"
+            },
+            {
+                "text": "Its just that if youre ever ever really want to just be scared out of your wits",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh thats the one",
+                "label": "b"
+            },
+            {
+                "text": "Thats the one Yes",
+                "label": "na^m"
+            },
+            {
+                "text": "Even better than JAWS and some of that",
+                "label": "qy"
+            },
+            {
+                "text": "Yes because the cat- the the character that is so horrible is another human being And youre just drawn into his his horror of him that you",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "begin to kind of like him",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "I mean -",
+                "label": "%"
+            },
+            {
+                "text": "Freddy Kruger type huh",
+                "label": "qy^g"
+            },
+            {
+                "text": "No no This guys smart and hes suave and hes all the charac- all the",
+                "label": "nn"
+            },
+            {
+                "text": "Oh the worst kind yeah",
+                "label": "^2"
+            },
+            {
+                "text": "characteristics",
+                "label": "+"
+            },
+            {
+                "text": "yeah",
+                "label": "b"
+            },
+            {
+                "text": "yeah all the characteristics -",
+                "label": "b^m"
+            }
+        ]
+    }
+]

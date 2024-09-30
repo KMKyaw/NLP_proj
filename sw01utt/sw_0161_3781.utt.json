@@ -1,0 +1,451 @@
+[
+    {
+        "conversation_id": "conv_3781",
+        "turns": [
+            {
+                "text": "Well I suppose we both have credit cards",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh yeah they seem to be part of life",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Yeah how do you use them",
+                "label": "b"
+            },
+            {
+                "text": "Well I do use them",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh I have few favorites that I use more than others and uh I try to keep my balances fairly reasonable I I could probably pay them off any month if I wanted to",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh but occasionally they can get out of hand and get higher when when you start using more than few --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh they all can build up",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh I think theyre handy I just get uh - I dont carry lot of cash with me --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh I hate writing checks --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- when you go shopping",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Well do you use credit cards",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah I use few I uh I watched my grandmother go into debt --",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- on them and so Ive - and then I guess my --",
+                "label": "+"
+            },
+            {
+                "text": "Grandmother -- -",
+                "label": "b^m"
+            },
+            {
+                "text": "-- mother -",
+                "label": "+"
+            },
+            {
+                "text": "-- huh",
+                "label": "br"
+            },
+            {
+                "text": "Yeah so my mother learned from that and I guess she taught me to be very very careful with them So basically uh I just keep them I use them so that I build up credit rating you know",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But otherwise uh I generally - and my husband it turns out - Ive just been married seven months but he has the same habit and we just keep few --",
+                "label": "sd"
+            },
+            {
+                "text": "Thats good",
+                "label": "ba"
+            },
+            {
+                "text": "-- you know few of the major ones and then use them once in while for something but we always pay it off right that month --",
+                "label": "+"
+            },
+            {
+                "text": "Oh thats",
+                "label": "ba"
+            },
+            {
+                "text": "-- so that we dont pay any --",
+                "label": "+"
+            },
+            {
+                "text": "Thats wonderful",
+                "label": "+"
+            },
+            {
+                "text": "-- service charge So that way we keep out of debt and we keep on top of what were spending",
+                "label": "+"
+            },
+            {
+                "text": "Well the interest rates in credit cards is so high now --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- compared to what your savings is bringing Its really I guess ridiculous to let them keep building",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah thats what I feel So -",
+                "label": "aa"
+            },
+            {
+                "text": "But I know some people can get get you know carried away with them and let them get --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- out of hand",
+                "label": "+"
+            },
+            {
+                "text": "Its really easy just to forget you know that you you charged that or charged that I try to keep all my receipts and keep them in someplace where I know that the bills going to come but sometimes I forget and so you know - bill will come in and Ill think oh no --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- I didnt know it was going to be that high",
+                "label": "+"
+            },
+            {
+                "text": "Uh- yeah",
+                "label": "b"
+            },
+            {
+                "text": "But so far Ive been able to weve been able to pay it off every time so -",
+                "label": "sd"
+            },
+            {
+                "text": "Well thats good Im looking right now Im - kind of looking for Visa that has lower interest rate It seems that some of them have gotten higher --",
+                "label": "ba"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh I saw on they had program on uh credit cards and theyre supposed to - I dont know if it was Tennessee or Arkansas or some some other state had Visa card that was the lowest one in the country And I --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- didnt write it down at the time and then I went and looked and to see what my visa was and I think its eighteen percent or something --",
+                "label": "+"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "-- so think I want to find something that has lower --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- rate",
+                "label": "+"
+            },
+            {
+                "text": "Have you ever used Discover card",
+                "label": "qy"
+            },
+            {
+                "text": "No I havent",
+                "label": "nn"
+            },
+            {
+                "text": "Yeah Im not even sure what their interest rate is since I pay it off but you know -",
+                "label": "b"
+            },
+            {
+                "text": "Is that the one from Sears",
+                "label": "qy"
+            },
+            {
+                "text": "Uh I think Sears originally --",
+                "label": "na"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "-- put it out but its uh its pretty well taken all over the now I mean uh Ive havent found many places that dont take Discover And theres no annual service fee which is good",
+                "label": "+"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "You know and then uh they also give you they say cash back uh like at the end of the year For the amount that I charge I get two dollars back or something --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but if you use credit cards lot you probably get more back",
+                "label": "sd"
+            },
+            {
+                "text": "Oh they give you money back for using your credit card",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah basically",
+                "label": "ny"
+            },
+            {
+                "text": "Oh --",
+                "label": "%"
+            },
+            {
+                "text": "Thats it",
+                "label": "sd"
+            },
+            {
+                "text": "-- I didnt know that",
+                "label": "sd"
+            },
+            {
+                "text": "And I think the service charge is pretty low too but Im not sure",
+                "label": "sd"
+            },
+            {
+                "text": "Um Well you know Sears was one of the few department stores that never would take any other credit cards",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I worked - at Sears for over ten years and uh it was only Sears card that they would take --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- until I guess they decided to join the club and come up with their own credit card another credit card that was --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- accepted so you know now theyll take the Discover but I still dont know if Sears will take Visa or Mastercard",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But uh --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- I never did apply for Discover card I just figure with the Visa and --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- American Express I probably have an - I can do enough damage with those two",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I think its best to keep the number down --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- that you have",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "Ive got some that I you know I havent even used at all uh past few years I probably wouldnt be able to use them",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But uh I I do like my Dillards I have to admit thats one of my favorite places to shop",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I do use Dillards probably as more than any of the other department stores",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But -",
+                "label": "%"
+            },
+            {
+                "text": "Yeah Well",
+                "label": "b"
+            },
+            {
+                "text": "Well -",
+                "label": "%"
+            },
+            {
+                "text": "Do you have anything else to say",
+                "label": "+"
+            },
+            {
+                "text": "No not too much more about credit cards",
+                "label": "nn"
+            },
+            {
+                "text": "Okay I dont think I do either so -",
+                "label": "b"
+            },
+            {
+                "text": "Okay well -",
+                "label": "b"
+            },
+            {
+                "text": "Well it was good talking to you",
+                "label": "fc"
+            },
+            {
+                "text": "Good talking to you Beth",
+                "label": "fc"
+            },
+            {
+                "text": "Okay",
+                "label": "fc"
+            },
+            {
+                "text": "Good luck",
+                "label": "fc"
+            },
+            {
+                "text": "Have good evening",
+                "label": "fc"
+            },
+            {
+                "text": "You too",
+                "label": "fc"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc"
+            },
+            {
+                "text": "Bye",
+                "label": "fc"
+            }
+        ]
+    }
+]

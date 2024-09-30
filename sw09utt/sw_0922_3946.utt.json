@@ -1,0 +1,323 @@
+[
+    {
+        "conversation_id": "conv_3946",
+        "turns": [
+            {
+                "text": "Im ready",
+                "label": "o"
+            },
+            {
+                "text": "Why dont you go ahead and start off",
+                "label": "ad^t"
+            },
+            {
+                "text": "Okay well I dont have an elderly person that I could send to nursing home or anything My both of my parents are dead but I did have friend that was in convalescent home uh like nursing home and I - went there very often to visit her and uh made me feel really sad If I did have mother living I dont think I could do that I think they would be better off being at home with their family you know",
+                "label": "aa"
+            },
+            {
+                "text": "I agree although were in that situation right now",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "We have an eighty seven year old mother in law living with me right now --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and because of her circumstances she can no longer live independently And even moving from her house to our house --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- has been tremendously unsettling for her and we have several young children --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and they about drive her crazy",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I can believe that Yes because most elderly people cant take having lot of noise and kids running around and things like that In situation like that maybe it would be better",
+                "label": "ba"
+            },
+            {
+                "text": "Well weve you know weve struggled lot with it because again most of the nursing homes Ive been in are very depressing to me",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And shes still alert enough that I think she would really know that we were putting her there --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and I think she would really resent it and I think that would make it very hard",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But on the other hand I see my wife with - I guess our youngest one now is five --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- and her trying to struggle because her mother really cannot take care of herself - She needs to be --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- bathed and dressed and lot of those kinds of --",
+                "label": "+"
+            },
+            {
+                "text": "Oh --",
+                "label": "b"
+            },
+            {
+                "text": "-- things",
+                "label": "+"
+            },
+            {
+                "text": "-- see now thats thats thats really sad situation",
+                "label": "sv"
+            },
+            {
+                "text": "And so the drain on the family -",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah really you know",
+                "label": "aa"
+            },
+            {
+                "text": "And when the kids have kids come you know shes always saying you know why do they have to be here why cant they send them home its too noisy and --",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- shell say that to the kids friends",
+                "label": "+"
+            },
+            {
+                "text": "Yeah right right",
+                "label": "b"
+            },
+            {
+                "text": "So its hard situation either way I think",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah in case like that you know you more or less think it would be better if she were in nursing home because you have your family growing up where -",
+                "label": "aa"
+            },
+            {
+                "text": "I think thats one of the things were really wrestling with When does it become detrimental to our family to the point that you have to consider that --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- as opposed to considering her current circumstances and -",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh but the cost of these nursing homes are so",
+                "label": "aa"
+            },
+            {
+                "text": "Oh prohibitive",
+                "label": "^2"
+            },
+            {
+                "text": "You know - lot of people cant afford that",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know so you really have no choice that way if you you know if youre not rich or - you know Uh I know this lady that you know that was friend of mine now her husband was still alive at the time when she was in there you know and it was costing him small fortune to keep her in there",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "I think we need to develop some alternatives like adult day care --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- thats more readily available you know I think if we could send her someplace for the day --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah then bring her back home at night",
+                "label": "b"
+            },
+            {
+                "text": "-- and she could be around some elderly people and have some activities would be of more interest to her --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "aa"
+            },
+            {
+                "text": "-- and then in the evening have her return and be with the family -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah you know just come home for dinner and then usually they want to go to bed fairly early anyhow",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know so that would probably be nice if we could ever get something like that but -",
+                "label": "sv"
+            },
+            {
+                "text": "But theres not many of those available right now --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and theyre very hard to get them into and --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- we tried sending her to senior citizen center",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But theyre really not prepared to cope with her because shes somewhat senile",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And so lot of the activities that theyre engaged in she cant participate in",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh um",
+                "label": "b"
+            },
+            {
+                "text": "But I think its an issue that you know - with the graying of America were really going to have to as as country figure out how were going to deal with this",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Because it is difficult situation and you know you hate seeing them just sort of send off and not well cared for",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah if --",
+                "label": "aa"
+            },
+            {
+                "text": "And yet -",
+                "label": "%"
+            },
+            {
+                "text": "-- if they dont know anybody and they dont know whats going on around them and everything like that well I can see maybe nursing home would be better you know But if they they have their wits about them and everything why its kind of hard",
+                "label": "+"
+            },
+            {
+                "text": "And then I think it depends on their physical ability too you know if they could be up and doing some things --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "aa"
+            },
+            {
+                "text": "-- it might be better than when theyre just sort of needing almost constant supervision and care",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh uh-huh Well uh my mother always said she hopes she never had to be like that and uh luckily I mean she lived by herself and then you know one day she had heart attack and she was gone so she never did have to go into nursing home or anything like that but theres so many of us kids there was like seven of us that my we wouldnt have probably allowed that to happen anyhow",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know she could have taken turns living with each one of us you know for sh- sh- period of time because we all dont live in the same city anyhow - nor the same state so -",
+                "label": "sd"
+            },
+            {
+                "text": "Do you live at all close to each other",
+                "label": "qy"
+            },
+            {
+                "text": "Uh I I have couple more that live out here in California but then I have broth- -",
+                "label": "no"
+            }
+        ]
+    }
+]

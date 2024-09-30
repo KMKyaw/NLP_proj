@@ -1,0 +1,271 @@
+[
+    {
+        "conversation_id": "conv_4360",
+        "turns": [
+            {
+                "text": "Uh lets see How about uh lets see about ten years ago uh what do you think was different ten years ago from now",
+                "label": "^h"
+            },
+            {
+                "text": "Well I would say as far as social changes go uh I think families were more together They they did more things together",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh they ate dinner at the table together Uh the parents usually took out time uh you know more time than they do now to come with the children and just spend the day doing family activity",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh although Im not mother I I still think that uh lot has changed since ten years ago Uh what do you --",
+                "label": "sv"
+            },
+            {
+                "text": "We -",
+                "label": "%"
+            },
+            {
+                "text": "-- think about that",
+                "label": "+"
+            },
+            {
+                "text": "Well uh actually ten years from today seems rather short",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Uh but I do agree that uh generally its society has sort of uh lets see rushed everything ahead",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh I dont know it leaves leaves lot of time out for family and things like that In other words they just prioritize their lives differently But I think that has lot to do with economic situation",
+                "label": "h"
+            },
+            {
+                "text": "Yes What about like as far as uh social changes in the individual Do --",
+                "label": "aa"
+            },
+            {
+                "text": "Uh",
+                "label": "%"
+            },
+            {
+                "text": "-- you think that the individual has as much time as they did lets say ten twenty years ago",
+                "label": "+"
+            },
+            {
+                "text": "Um It depends Uh its hard to say because I think people were busy ten twenty years ago too",
+                "label": "h"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh I just -",
+                "label": "%"
+            },
+            {
+                "text": "Well how how old are you",
+                "label": "qw"
+            },
+            {
+                "text": "Im twenty-eight",
+                "label": "sd"
+            },
+            {
+                "text": "Twenty-eight Okay Im twenty-three",
+                "label": "b^m"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So theres maybe five year gap between us",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So uh -",
+                "label": "%"
+            },
+            {
+                "text": "I just I think that things were bit were have been busy all along Its just --",
+                "label": "sv"
+            },
+            {
+                "text": "Huh",
+                "label": "%"
+            },
+            {
+                "text": "-- matter where priorities are at placed",
+                "label": "+"
+            },
+            {
+                "text": "Yes",
+                "label": "aa"
+            },
+            {
+                "text": "And that uh usually as far as families are concerned there used to be just one person working and usually the other parent was home",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And now uh its pretty much an economic necessity of for most in most places for both parents to work",
+                "label": "sv"
+            },
+            {
+                "text": "Do you think its an economic - necessity or do you think that were were uh all trying to keep up with certain standard of living",
+                "label": "qy"
+            },
+            {
+                "text": "I think thats part of it too But I do think -",
+                "label": "sv"
+            },
+            {
+                "text": "I mean do you think people really need two cars and --",
+                "label": "qy"
+            },
+            {
+                "text": "No no I dont",
+                "label": "nn"
+            },
+            {
+                "text": "-- house in the suburbs or -",
+                "label": "+"
+            },
+            {
+                "text": "No I dont think that But then there are lot of people that that dont have that",
+                "label": "nn"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But that really do need to work",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I think maybe those people that really do need to work both parents just to survive - And --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- then there th- is is that other group that is --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- working to maintain standard of living --",
+                "label": "+"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "-- that uh they think is is surviving which is really more luxuries",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh but I I tend to think that its less those people that have the two cars and everything than it is the group that is just trying to survive",
+                "label": "sv"
+            },
+            {
+                "text": "Yo- so you think its - which group are you saying is the one trying",
+                "label": "qy^d"
+            },
+            {
+                "text": "Im saying that the uh the group that is just trying to survive from day to day where both parents are working --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- is more of the majority than the than the people that have the higher standard of living Because if you look at economics across this country and statistics on who has the money and who the decreasing uh middle class in this country --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- I think that thats in my opinion the case",
+                "label": "+"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "So - I mean I have met people that uh both that that just want to maintain the standard of living and those that that really need the job",
+                "label": "%"
+            },
+            {
+                "text": "Okay And then sometimes I I often uh find that maybe theres so many different things available to us Yo- microwave answering machine --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know special dishwasher uh refrigerator and some of those items um for the for the uh - well I guess were sticking more to social changes but uh --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- people want all of that and not all of those are necessities",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "So theyre trying to - it has become necessity",
+                "label": "sv"
+            }
+        ]
+    }
+]

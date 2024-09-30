@@ -1,0 +1,931 @@
+[
+    {
+        "conversation_id": "conv_2921",
+        "turns": [
+            {
+                "text": "What part of the country are you in",
+                "label": "qw"
+            },
+            {
+                "text": "Uh Pennsylvania Yeah",
+                "label": "sd"
+            },
+            {
+                "text": "Oh you are East or west Im from Pittsburgh listen",
+                "label": "qy"
+            },
+            {
+                "text": "Oh are you really",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "What part of Pittsburgh",
+                "label": "qw"
+            },
+            {
+                "text": "Um the South Hills area Beaver County well originally Beaver County",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh where are you from",
+                "label": "qw"
+            },
+            {
+                "text": "Uh Clarion County",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay I know where that is",
+                "label": "bk"
+            },
+            {
+                "text": "I li- we live out in the country",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah thats pretty out there What well -",
+                "label": "b"
+            },
+            {
+                "text": "Yeah we have we have two children that live in Pittsburgh",
+                "label": "aa"
+            },
+            {
+                "text": "Oh okay yeah I got my brother and my whole family there Im Im talking to you from Dallas right now",
+                "label": "bk"
+            },
+            {
+                "text": "Oh oh you are",
+                "label": "qy"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Do you work do you work for Texas Instruments then",
+                "label": "qy"
+            },
+            {
+                "text": "No my husband does",
+                "label": "nn"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And who how about you",
+                "label": "qy"
+            },
+            {
+                "text": "No Im just - my son works for - computer",
+                "label": "nn"
+            },
+            {
+                "text": "place that that needed this - listen--not sure whos saying what",
+                "label": "^2*"
+            },
+            {
+                "text": "Uh federal company you know so yeah",
+                "label": "+"
+            },
+            {
+                "text": "Well thats okay I guess its an easy thing to do So youre - you have big - do you have rural house or what do you have",
+                "label": "ba"
+            },
+            {
+                "text": "Uh we have big old farmhouse that weve --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh thats -",
+                "label": "%"
+            },
+            {
+                "text": "-- you know remodeled",
+                "label": "+"
+            },
+            {
+                "text": "Those are beautiful",
+                "label": "ba"
+            },
+            {
+                "text": "It had been you know of course farm",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Its farm community and we -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah is it is it working farm or is it -",
+                "label": "b"
+            },
+            {
+                "text": "Ours is not working farm",
+                "label": "sd"
+            },
+            {
+                "text": "More more - I can understand that thats probably what I would uh -",
+                "label": "%"
+            },
+            {
+                "text": "Yeah I have garden - but you know - we have garden",
+                "label": "b"
+            },
+            {
+                "text": "Yeah --",
+                "label": "b"
+            },
+            {
+                "text": "But we dont farm",
+                "label": "sd"
+            },
+            {
+                "text": "-- I can hear the accent now I hear the I hear the Western Pennsylvania um",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "We live uh we lived in Minneapolis for about five years",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "We we originally lived in Dallas and we met and got married --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and then um actually married in Pittsburgh and thats thats not what they want to hear on this call uh --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- at any rate we came back here with - my husband was transferred around uh up to Minnesota and now back to Texas with I --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and were leasing uh two story town home in section of Dallas they call North Dallas",
+                "label": "sd"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And its uh near little town called Plano well its not little any more",
+                "label": "sd"
+            },
+            {
+                "text": "Uh Grapevine do you know Grapevine",
+                "label": "sd"
+            },
+            {
+                "text": "Uh yes thats out near the airport Thats about forty-five miles from us",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah my brother has home there hes trying to sell He hes living now up uh in in Maryland but uh he",
+                "label": "aa"
+            },
+            {
+                "text": "Its - yeah",
+                "label": "%"
+            },
+            {
+                "text": "li- lived in Grapevine for long time",
+                "label": "+"
+            },
+            {
+                "text": "Thats why we not sure we were not sure we want to uh buy down here because we actually we lived up north long enough to appreciate the um - listen--one utt Minneapolis-Saint Paul is very clean --",
+                "label": "sd*"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know in terms of - listen with previous slash unit and in terms of housing down here um you really have your pick but its just everythings overpriced for the economy",
+                "label": "%*"
+            },
+            {
+                "text": "Oh its terrible I -",
+                "label": "ba"
+            },
+            {
+                "text": "It really is I mean were were in leased town home and its uh youre probably your teeth will probably fall out figuratively speaking its nine hundred month",
+                "label": "aa"
+            },
+            {
+                "text": "Oh Im not surprised",
+                "label": "ba"
+            },
+            {
+                "text": "But you know what if you if you get anything under five hundred you get into what they call high density living --",
+                "label": "o"
+            },
+            {
+                "text": "Uh right right",
+                "label": "b"
+            },
+            {
+                "text": "-- you know the big apartment complexes --",
+                "label": "+"
+            },
+            {
+                "text": "Right right",
+                "label": "b"
+            },
+            {
+                "text": "-- and and I just have no tolerance for that",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah its not good",
+                "label": "b"
+            },
+            {
+                "text": "No I pre- slash error",
+                "label": "aa"
+            },
+            {
+                "text": "And the people think the income is really great in some of those areas but when they sit down and look at what it costs to live -- -",
+                "label": "sv"
+            },
+            {
+                "text": "Thats right slash error",
+                "label": "+@"
+            },
+            {
+                "text": "-- and uh of course most of the homes are you know fairly nice theyre uh done up fairly nice uh",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah but like the town home were in I dont know how I mean we - 2 utts this is its like duplex like two by two they call it like in Pittsburgh",
+                "label": "b"
+            },
+            {
+                "text": "Right uh-huh right slash error",
+                "label": "b"
+            },
+            {
+                "text": "And its nice but its I mean the girl bought it for hundred and ten",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "+"
+            },
+            {
+                "text": "and now she cant sell it And our neighbors -",
+                "label": "sd"
+            },
+            {
+                "text": "Well prices have come down on the homes the duplexes",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah I mean well our neighbors the attached on the other side theyre very nice thank God",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "they paid fifty-eight for it",
+                "label": "sd"
+            },
+            {
+                "text": "Oh my heaven",
+                "label": "ba"
+            },
+            {
+                "text": "Thats how bad it - I know",
+                "label": "sd"
+            },
+            {
+                "text": "Well I know up in Connecticut the same thing happened and uh its -- prob slash unit",
+                "label": "sd"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "-- people are devastated because they paid so much for their home",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh yeah I have some friends that live in Westport and its really really bad I mean you -",
+                "label": "b"
+            },
+            {
+                "text": "But we like our area It like I said its its an old house and everything --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but uh -",
+                "label": "%"
+            },
+            {
+                "text": "How far where is Clarion County in relation to actually - because were considering moving to Pennsylvania",
+                "label": "qw"
+            },
+            {
+                "text": "Well were about hundred miles from Pittsburgh --",
+                "label": "sd"
+            },
+            {
+                "text": "Thats not too bad",
+                "label": "ba"
+            },
+            {
+                "text": "-- north",
+                "label": "+"
+            },
+            {
+                "text": "Thats north",
+                "label": "br^m"
+            },
+            {
+                "text": "And yeah and its its really not you know not that far",
+                "label": "ny"
+            },
+            {
+                "text": "Are you going up toward uh uh - Im trying to think of the name of that town that starts with an Bradford no thats too far north",
+                "label": "qy"
+            },
+            {
+                "text": "Bradfords north of us",
+                "label": "sd"
+            },
+            {
+                "text": "So youre youre not that far north then okay",
+                "label": "qy^d"
+            },
+            {
+                "text": "No no",
+                "label": "nn"
+            },
+            {
+                "text": "Well youre really not too bad Yeah",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Um was it home that youve had for quite - few years or that youve -",
+                "label": "qy"
+            },
+            {
+                "text": "Well weve been here since sixty-six",
+                "label": "sd"
+            },
+            {
+                "text": "Oh then you have - yeah Do you have lot of land or -",
+                "label": "%"
+            },
+            {
+                "text": "Uh we have fifty acres",
+                "label": "sd"
+            },
+            {
+                "text": "Oh my well then",
+                "label": "ba"
+            },
+            {
+                "text": "Oh pardon me we have forty we gave ten to one of our children",
+                "label": "fa"
+            },
+            {
+                "text": "There you go Did you have hard time getting used to - do you feel like you live in an isolated area or -",
+                "label": "ba"
+            },
+            {
+                "text": "No not really and and towns keep creeping closer and closer you know",
+                "label": "nn"
+            },
+            {
+                "text": "Yeah I think that thats um - I can remember in Pittsburgh when - this has to do with homes uh indirectly but I can remember when Upper Saint Clair was out in the you know",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "the rural end of Washington and now its its terrible connection",
+                "label": "+"
+            },
+            {
+                "text": "Yeah its ours up here We have - our rural connections are real bad",
+                "label": "aa"
+            },
+            {
+                "text": "Oh well thats okay um",
+                "label": "bd"
+            },
+            {
+                "text": "But we but we live about ten miles from probably three or four not large towns but you know reasonable",
+                "label": "sd"
+            },
+            {
+                "text": "But but sub- - yeah substantially you know Um do you like living in an older home and restoring it like that",
+                "label": "%"
+            },
+            {
+                "text": "Uh yeah were tired of doing it though We we dont want to do too much more",
+                "label": "ny"
+            },
+            {
+                "text": "How big is it How many square feet do you have",
+                "label": "qw"
+            },
+            {
+                "text": "Uh oh golly I really -",
+                "label": "fe"
+            },
+            {
+                "text": "Well how many rooms do you think yeah",
+                "label": "qw"
+            },
+            {
+                "text": "We have uh uh four rooms downstairs and pantry --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and upstairs we have bath bath oh we have half bath downstairs too",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "We have bath upstairs and one two three four bedrooms and sewing room and junk room And uh -",
+                "label": "sd"
+            },
+            {
+                "text": "junk room yeah I understand we have that too Thats thats large if your children arent at home any more",
+                "label": "b^m"
+            },
+            {
+                "text": "Pardon",
+                "label": "br"
+            },
+            {
+                "text": "Thats large if your kids arent at home any more",
+                "label": "bf^r"
+            },
+            {
+                "text": "Well it really isnt too big yet We we li- - lot of people say that but um",
+                "label": "nd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "its - we just like it real well - and slash error",
+                "label": "+"
+            },
+            {
+                "text": "Its enough space for two people Yeah",
+                "label": "bf"
+            },
+            {
+                "text": "Yeah we had five children so --",
+                "label": "+"
+            },
+            {
+                "text": "Oh okay",
+                "label": "bk"
+            },
+            {
+                "text": "-- and theyve all moved you know on Theyre all out on their own now",
+                "label": "+"
+            },
+            {
+                "text": "Yeah right Thats okay Well weve got um - th- this town house is pretty big Its about eighteen hundred square feet Its got three bedrooms two and half baths --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- um its really nice",
+                "label": "sd"
+            },
+            {
+                "text": "Well it sounds like good buy",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah it is I mean I would never buy it but leasing it is fine",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Um but its just again the the privacy you know Um we had house in Minneapolis that was on three acres and my husband was raised um on working farm near Dayt-",
+                "label": "sd"
+            },
+            {
+                "text": "Oh that makes big difference",
+                "label": "ba"
+            },
+            {
+                "text": "right near Dayton Ohio and he said you know - hes hes slowly getting me to um not feel isolated if we move - to where theres more land",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh You really arent isolated because its - the advantages - your home is far enough away that youre not bothered by being too close to people",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "aa"
+            },
+            {
+                "text": "but yet you can have your friends uh you can have them in you can go out",
+                "label": "bf"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You have more of choice youre not pressed upon as bad",
+                "label": "sv"
+            },
+            {
+                "text": "Thats kind of what like - his parents have uh land that they retired to um about hundred miles out of Atlanta --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and in Georgia and it is too far south for me",
+                "label": "+"
+            },
+            {
+                "text": "Uh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "but um um but I mean they have one of the um - when they said log cabin I just laughed that they retired to - but they built one of these I mean its just beautiful",
+                "label": "sd"
+            },
+            {
+                "text": "Uh slash error",
+                "label": "b@"
+            },
+            {
+                "text": "Its like custom you know --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "+"
+            },
+            {
+                "text": "-- its not like what I would think of when I think of old log cabins You know I mean its modern its -",
+                "label": "sd"
+            },
+            {
+                "text": "More luxury uh-huh uh-huh",
+                "label": "^2"
+            },
+            {
+                "text": "Right right its modern its beautiful its country --",
+                "label": "b"
+            },
+            {
+                "text": "Right yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- its you know um - but uh I dont - what else about housing except its uh well - Pittsburghs housing economy i- i- I think its holding its own",
+                "label": "%"
+            },
+            {
+                "text": "Uh theyre - yeah I suppose they are now We - both of our children who live there have just bought home Now slash error",
+                "label": "%"
+            },
+            {
+                "text": "What part what sections are they in",
+                "label": "qw"
+            },
+            {
+                "text": "Uh in the Mount Lebanon area",
+                "label": "+"
+            },
+            {
+                "text": "Yeah thats nice",
+                "label": "b"
+            },
+            {
+                "text": "And uh the one the one boy the house they bought is completely livable They didnt have to do much to it",
+                "label": "sd"
+            },
+            {
+                "text": "Great",
+                "label": "ba"
+            },
+            {
+                "text": "The other one is uh uh has you know needs more work done Its twenty years old I think",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And but they have two children too and they they --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- bought what they could afford",
+                "label": "+"
+            },
+            {
+                "text": "Thats - yeah really good friend of mine lives in Penn Hills and theyve been in their house oh probably about twelve years now --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and um its its you know - theyre - going to start to see their return --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- on their investment very soon Um but its beautiful home and",
+                "label": "+"
+            },
+            {
+                "text": "They are beautiful homes",
+                "label": "ba"
+            },
+            {
+                "text": "I mean my brother lives - is it called Baldwin or Bebble",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I mean he lives all in that same area going from Mount Lebanon um its real pretty up there Its just -",
+                "label": "sd"
+            },
+            {
+                "text": "It is its real nice",
+                "label": "aa"
+            },
+            {
+                "text": "And the neighborhoods are stable --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know Its uh - when you come to this part of the country weve been away from Dallas long enough that you see the difference in housing",
+                "label": "+"
+            },
+            {
+                "text": "Oh my you wou- you do when you mo- When we first got married uh - my husband works for the state and we moved once year usually",
+                "label": "ba"
+            },
+            {
+                "text": "Oh my goodness",
+                "label": "ba"
+            },
+            {
+                "text": "And then after they had to start paying to move us",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "that suddenly wasnt necessary any more",
+                "label": "+"
+            },
+            {
+                "text": "Thats what it is here yeah thats why were at point now weve uh were adopting and we have been married ten plus years and what happens is uh you just realize that once you get to certain age the next house that you get well be staying in So slash error",
+                "label": "sd"
+            },
+            {
+                "text": "Right yeah you have to stop some place yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah thats kind of like --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- where were - so were considering Pennsylvania and were just kind of you know toying with what exactly where we want to be you know",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "lot of people say it doesnt matter where they live if they have nice house and",
+                "label": "sv"
+            },
+            {
+                "text": "Well slash error",
+                "label": "%@"
+            },
+            {
+                "text": "but I disagree with that I -",
+                "label": "+"
+            },
+            {
+                "text": "I do too Ive heard too many people say I hate it here",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know they buy place and they just hate the area",
+                "label": "sv"
+            },
+            {
+                "text": "I know and it and the economy here in Dallas I mean it its steady but its still not going up",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I um I just refuse to buy it um if I know Im not going to be there for at least --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- five years uh you you know",
+                "label": "+"
+            },
+            {
+                "text": "Yeah well my brother theyre having trouble selling their home see",
+                "label": "b"
+            },
+            {
+                "text": "Oh Im sure yeah there I mean you can go down street and here he told you this every other house you know if its been foreclosed on --",
+                "label": "ba"
+            },
+            {
+                "text": "Right uh-huh",
+                "label": "ba"
+            },
+            {
+                "text": "-- or you know even big executives -- -",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- um its really I mean - - and and its hard to sell the properties People from Penneys from New York came here about couple of years ago",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And they thought they were getting great deal um because they could get five hundred thousand dollar home with they call it zero lot lines no property Jean slash errors why is the name isolated",
+                "label": "sd"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And it would make you ill to see this",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I mean it would probably be like your house on uh you know half city block in Pittsburgh or something",
+                "label": "sv"
+            },
+            {
+                "text": "I I couldnt handle that",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I know and thats you know like - I can look outside right now and look into the next unit",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know its across the way and its landscaped and all that with azaleas",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "but its still its still not that private",
+                "label": "sv"
+            },
+            {
+                "text": "I get tired uh sometimes mowing because we mow you know good bit of ground around the house area",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah but you have rider",
+                "label": "b"
+            },
+            {
+                "text": "And I do get tired of that but uh I dont know I dont think Id want to change it",
+                "label": "sd"
+            },
+            {
+                "text": "No and your kids have - to tell you the truth um I think that if you can keep that that way you know kind of like homestead -",
+                "label": "aa"
+            }
+        ]
+    }
+]

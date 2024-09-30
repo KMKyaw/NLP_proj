@@ -1,0 +1,407 @@
+[
+    {
+        "conversation_id": "conv_4483",
+        "turns": [
+            {
+                "text": "Uh anyway were supposed to talk about recycling Basically what what your personal opinion is on it Uh this is this is really for speech research project theyre doing so uh I dont know Florida is pretty good about recycling isnt it",
+                "label": "sd^t"
+            },
+            {
+                "text": "Well they just kicked it off down here in in Sarasota county",
+                "label": "nd"
+            },
+            {
+                "text": "Oh they did",
+                "label": "bh"
+            },
+            {
+                "text": "Uh they had been doing it they started first in Sarasota City",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh you know which makes up pretty small portion of the county actually",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And uh theyve got these I dont know what if youre familiar with Sarasota county at all",
+                "label": "qy^d"
+            },
+            {
+                "text": "Not quite no",
+                "label": "ng"
+            },
+            {
+                "text": "Theyve got these wh- - its its county wide program now",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And what theyve done is theyve broken everything down into garbage Uh yard trash",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Plastic cr- cans and glass",
+                "label": "+"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "And then uh paper",
+                "label": "+"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "Which in the paper its just uh newspaper and corrugated cardboard",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Is the only thing youre supposed to put in there",
+                "label": "+"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "No slicks Uh",
+                "label": "sd"
+            },
+            {
+                "text": "Oh thats thats good Let me ask you this Do they require you to presort it",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Okay See thats something in Minneapolis theyre really strict on In terms of you got to put everything in its own little bag and really presort it really you know tightly But when I lived in Orlando its like you could put almost anything in there --",
+                "label": "bk"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and theyd just sort it out for you",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Yeah",
+                "label": "b"
+            },
+            {
+                "text": "It was really pretty good if youre lazy like I am so -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah right Well you know uh I talked to this girl who uh shes an - an acquaintance of mine and and shes involved with uh oh - what is the name of that company Its not Amway but its the other big vitamin company Shaklee",
+                "label": "b"
+            },
+            {
+                "text": "Oh okay yeah",
+                "label": "b"
+            },
+            {
+                "text": "Okay And uh and and shes just Shaklee crazy you know because its her business and everything And uh you know and she asked - we were talking one day and and she asked me couple of questions you know And she and and what she said that that generally the problems that people have with being environmentally conscious is number one they dont want it to change their lifestyle --",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and and like you know especially make it anymore complicated or any extra work or anything Which thats thats what recycling at home sorting does you know",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "I mean its little extra work",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh it can actually turn out to be lot of extra work because what they do what --",
+                "label": "sv"
+            },
+            {
+                "text": "It can yeah",
+                "label": "aa"
+            },
+            {
+                "text": "-- they do here in Sarasota county is theyve got - okay you put your garbage in garbage bag and you set it out by the curb",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "If you have yard trash you put your yard trash in some kind of container Uh or you can have bundles up to certain weight and cer- certain dimensions tie them up and --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah you got to tie them up and everything",
+                "label": "aa"
+            },
+            {
+                "text": "-- put them by the curb Well the plastic cans and glass they give you this little tub and its about foot and half deep and its about one by one and half foot wide and long",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "This is little container",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And then they have another one the same size That ones red Then they have blue one the same size for the paper goods",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And so like you know you would have to rinse out your pop cans Otherwise you got bees and ants and --",
+                "label": "sv"
+            },
+            {
+                "text": "Exactly",
+                "label": "aa"
+            },
+            {
+                "text": "-- you know and and if youve got uh food containers or anything like that its big problem",
+                "label": "+"
+            },
+            {
+                "text": "It is you know big --",
+                "label": "aa"
+            },
+            {
+                "text": "So not only do you -- -",
+                "label": "%"
+            },
+            {
+                "text": "-- hassle",
+                "label": "+"
+            },
+            {
+                "text": "-- yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah thats true I mean up here they give you one one of those containers and you put everything in it",
+                "label": "aa^m"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So its like if if you use lot of stuff you - its like well you know if youre partying kind of guy and you drink you know like couple of twelve packs maybe over the weekend --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- its going to be hard pressed to - to put all your recyclables in that one --",
+                "label": "+"
+            },
+            {
+                "text": "This is true",
+                "label": "aa"
+            },
+            {
+                "text": "-- place you know So its --",
+                "label": "+"
+            },
+            {
+                "text": "This is true",
+                "label": "aa"
+            },
+            {
+                "text": "-- kind of pain in the butt But uh I dont know Thats definitely one thing they could do to make it easier is to just you know - You have have those garbage people that make how every many make tw- twenty thirty bucks an hour have them do little bit of the sorting",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know And and maybe come up with better system Make it little more convenient But -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah theyve got these large garbage cans that you can rent from the waste management company here",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Uh if you want to have nice garbage can you know And its on wheels and its big",
+                "label": "+"
+            },
+            {
+                "text": "Oh you can actually rent those",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Okay Thats interesting Yeah --",
+                "label": "bk"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^m"
+            },
+            {
+                "text": "-- up here the the city provides them Kind of like -",
+                "label": "sd"
+            },
+            {
+                "text": "I think in I think in the city they do but out here in the county you have to rent them",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay",
+                "label": "b"
+            },
+            {
+                "text": "And they just add it on to your water bill or something",
+                "label": "sd"
+            },
+            {
+                "text": "So where exactly are you in terms of of like Sarasota Are you north of Sarasota or",
+                "label": "qw"
+            },
+            {
+                "text": "East of Sarasota",
+                "label": "sd"
+            },
+            {
+                "text": "East okay",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And Sarasota is on the west coast",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Okay Like south of Tampa right",
+                "label": "bk"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Okay Im -",
+                "label": "bk"
+            },
+            {
+                "text": "Yeah About an hour",
+                "label": "b"
+            },
+            {
+                "text": "Yeah thats -",
+                "label": "b"
+            },
+            {
+                "text": "About an hour south of Tampa",
+                "label": "+"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "Uh yeah well I listen to this talk radio station down here and its really - th- they - I dont if you ever listen to talk radio but --",
+                "label": "b"
+            },
+            {
+                "text": "Um occasionally",
+                "label": "na"
+            },
+            {
+                "text": "-- those guys they just kind of get into to - - stewing up trouble you know",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "With the callers and things like that But they get into some really good conversations sometimes you know And some of it sometimes its serious and they have some good feedback and all that stuff and --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- from listening to that I kind of got an idea that I thought would be good with and this kind of fits into the uh the aid program the welfare program thats going on right now",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And its like uh -",
+                "label": "%"
+            }
+        ]
+    }
+]

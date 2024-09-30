@@ -1,0 +1,407 @@
+[
+    {
+        "conversation_id": "conv_4792",
+        "turns": [
+            {
+                "text": "Im Nevin from Sunnyvale California",
+                "label": "sd"
+            },
+            {
+                "text": "Hi this is Jim Bliss from Minneapolis Minnesota How you doing",
+                "label": "fp"
+            },
+            {
+                "text": "Pretty good",
+                "label": "fp"
+            },
+            {
+                "text": "Good Uh I guess the topic is trial by jury and --",
+                "label": "fp"
+            },
+            {
+                "text": "Yep",
+                "label": "aa"
+            },
+            {
+                "text": "-- how we should change that or how we would change it Uh Im ready whenever you are",
+                "label": "+"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "So uh what are your what are your thoughts on the subject there",
+                "label": "qw"
+            },
+            {
+                "text": "Well I definitely think like decisions have to be unanimous",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah Yeah I think thats probably good thing",
+                "label": "aa"
+            },
+            {
+                "text": "Its probably the safest thing",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah I mean its to easy to get quorum --",
+                "label": "aa"
+            },
+            {
+                "text": "Yep",
+                "label": "aa"
+            },
+            {
+                "text": "-- and simple majority wont do",
+                "label": "sv"
+            },
+            {
+                "text": "No And even like you know two-thirds majority I mean its -",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah thats - yeah quorums are to easy to get",
+                "label": "aa"
+            },
+            {
+                "text": "Yep",
+                "label": "aa"
+            },
+            {
+                "text": "And theres always that that chance that one or two people could be playing devils advocate for good reason you know",
+                "label": "sv"
+            },
+            {
+                "text": "slash error",
+                "label": "x@"
+            },
+            {
+                "text": "So its its -- -",
+                "label": "%"
+            },
+            {
+                "text": "Yeah slash error",
+                "label": "+@"
+            },
+            {
+                "text": "-- definitely but uh I dont know I could I couldnt believe they suggested that judges should be doing the sentencing",
+                "label": "%"
+            },
+            {
+                "text": "Yeah Like Gives them little too much power",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah Tha- - I I know of couple of people at least who would be arguing with that Or arguing against that pretty vehemently But uh -",
+                "label": "aa"
+            },
+            {
+                "text": "Plus you know you may be you know doing you know guilty verdict but it may not be you know it may be for technical reasons",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah About the only good thing I would say about that is it - that it would uh hurry the process up bit --",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- but I mean even now weve got I know weve got plenty of cases out there where people have been wrongly convicted and things like that and --",
+                "label": "sd"
+            },
+            {
+                "text": "I know",
+                "label": "aa"
+            },
+            {
+                "text": "-- thats what the trial by jury - I mean jeez if if the judge was doing it himself without any checks and balances --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- whose to say",
+                "label": "+"
+            },
+            {
+                "text": "It - there would be much more of that",
+                "label": "%"
+            },
+            {
+                "text": "Yeah no doubt Are you involved in the legal system at all",
+                "label": "aa"
+            },
+            {
+                "text": "No But I",
+                "label": "nn"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "I tend to follow it just to just to know whats going on",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah Ive got some friends that are lawyers so -",
+                "label": "b"
+            },
+            {
+                "text": "Yeah I do too so -",
+                "label": "b"
+            },
+            {
+                "text": "One of them just got his law degree But uh to tell you the truth Im not real familiar with uh the system of juris- jurisprudence the way it is right now",
+                "label": "sd"
+            },
+            {
+                "text": "No",
+                "label": "aa"
+            },
+            {
+                "text": "I really havent studied it in depth",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I know little more about civil cases when than criminal cases",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Which is - its more in how you present it versus you know whos right",
+                "label": "+"
+            },
+            {
+                "text": "Im sure of it Because lot of those things its all its in its largely matter of viewpoint",
+                "label": "aa"
+            },
+            {
+                "text": "Yep",
+                "label": "b"
+            },
+            {
+                "text": "And who can argue their case better",
+                "label": "+"
+            },
+            {
+                "text": "slash error",
+                "label": "x@"
+            },
+            {
+                "text": "Uh its kind of weird I dont know you I always think about watching the PEOPLES COURT or something",
+                "label": "sv"
+            },
+            {
+                "text": "slash error",
+                "label": "x@"
+            },
+            {
+                "text": "And how weird those cases get",
+                "label": "+"
+            },
+            {
+                "text": "I know slash error should be aa",
+                "label": "+@"
+            },
+            {
+                "text": "Its just -",
+                "label": "%"
+            },
+            {
+                "text": "When I was couple of years ago involved in some pretrial stuff and -- - slash error one utt with a57",
+                "label": "sd@"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- like you know you go say okay we cant bring up this point because then theyre going to you know - the opposition will say this this and this and -",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "uh-huh And its like boy the stuff that they can twist around --",
+                "label": "b"
+            },
+            {
+                "text": "Yep",
+                "label": "b"
+            },
+            {
+                "text": "-- is - its pretty amazing",
+                "label": "+"
+            },
+            {
+                "text": "And its like the the truth isnt really important anymore Its -",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah its not And then you get people who who bring in cases just because they want to bring them up just because",
+                "label": "aa"
+            },
+            {
+                "text": "Yep",
+                "label": "b"
+            },
+            {
+                "text": "Like this this friend of mines pretty obnoxious and he really gets into suing people",
+                "label": "sd"
+            },
+            {
+                "text": "slash error",
+                "label": "x@"
+            },
+            {
+                "text": "And so hell hell sue just about anybody just for the chance to get into court",
+                "label": "sd"
+            },
+            {
+                "text": "slash error",
+                "label": "sv@"
+            },
+            {
+                "text": "and argue his case you know its like slash error",
+                "label": "+"
+            },
+            {
+                "text": "That sounds like little abuse of our system slash error but -",
+                "label": "+@"
+            },
+            {
+                "text": "It is Its its wasting peoples time and the taxpayers money and everything else aasv But uh -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah but its for the more general - people dont want to take responsibility",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know its -",
+                "label": "%"
+            },
+            {
+                "text": "And and most of the time theyre looking to place blame Uh --",
+                "label": "sv"
+            },
+            {
+                "text": "Yep",
+                "label": "b"
+            },
+            {
+                "text": "-- and stuff See youre from California is that right",
+                "label": "+"
+            },
+            {
+                "text": "Uh yeah Well originally from Chicago but -",
+                "label": "ny"
+            },
+            {
+                "text": "Oh okay I was just thinking I wonder I wonder how how the civil system or the court system must differ between there and say where I am in Minneapolis",
+                "label": "bk"
+            },
+            {
+                "text": "I really -",
+                "label": "%"
+            },
+            {
+                "text": "From what I understand its all pretty the same except when you get to Louisiana And Louisiana is completely different cause it was based on the - what is it its based on common law and --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "+@"
+            },
+            {
+                "text": "-- the rest of the country is not or something like that",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Pretty strange But uh fortunately I never have had to go in --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah I havent either other than -",
+                "label": "aa"
+            },
+            {
+                "text": "-- even even for jury duty But uh that friend of mines telling me that I might have to go in for uh as witness He may subpoena me",
+                "label": "+"
+            },
+            {
+                "text": "slash error",
+                "label": "x@"
+            },
+            {
+                "text": "So well see what happens But uh -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah slash error should be Im not really sure how we could change the legal system to make it better",
+                "label": "+@"
+            },
+            {
+                "text": "Yeah Its - there are too many big problems you know Theres theres such backlog of court cases right now",
+                "label": "aa"
+            },
+            {
+                "text": "I know",
+                "label": "aa"
+            },
+            {
+                "text": "You know to try to get them all in in good time and we already have too many lawyers as it is",
+                "label": "+"
+            },
+            {
+                "text": "Yeah And if its criminal cases we you cant put them in jail because theres no room left",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Yeah thats true And in fact theyre even letting some go",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I I Im originally from Florida and its like --",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "-- it seems like every year they let out more and more just cause they dont have room for them you know Thats not thats not good solution either",
+                "label": "+"
+            },
+            {
+                "text": "Not at all",
+                "label": "aa"
+            },
+            {
+                "text": "Im not real sure what the -",
+                "label": "sd"
+            }
+        ]
+    }
+]

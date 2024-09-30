@@ -1,0 +1,663 @@
+[
+    {
+        "conversation_id": "conv_2476",
+        "turns": [
+            {
+                "text": "Okay",
+                "label": "o"
+            },
+            {
+                "text": "Well what what do you is think is the uh the main change in What generation are you Im Im thirty years old",
+                "label": "qw"
+            },
+            {
+                "text": "Im twenty-nine",
+                "label": "sd"
+            },
+            {
+                "text": "Youre twenty-nine okay so were were both children of the very early sixties",
+                "label": "b^m"
+            },
+            {
+                "text": "Right And I have I mean Ive seen some change like I know um when I was young most mothers pretty much were housewives",
+                "label": "b"
+            },
+            {
+                "text": "Um um",
+                "label": "%"
+            },
+            {
+                "text": "and stayed at home with the kids",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and to to me it seems like its almost the opposite now where the the woman is working and",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and they you know take the children to child care",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "or maybe they work part-time or something",
+                "label": "h"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So that seems to be pretty big change",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah the family structure in general is being really restructured from one income to two incomes which means from one parent to two part-time parents",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "if youre lucky",
+                "label": "+"
+            },
+            {
+                "text": "Yeah right",
+                "label": "b"
+            },
+            {
+                "text": "Um I uh - it its funny its both of us then were really just adolescents when when - I think most of the major changes for adult women were going on",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "in America I dont think changes are still progressing but it seems to me that the uh really the seventies the early seventies was period of the most change",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and if I had to somewhat abstract about it it seems to be the major change has been that woman have acquired more choice",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh Oh thats true Thats true",
+                "label": "aa"
+            },
+            {
+                "text": "Uh I mean thats sort of the overall the meta the meta change as it were Uh where that woman really have more of choice now about what they do",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh course they find that the choice creates its own hardships in way because life is not quite as simple even if it is for your you know you can share something you really want which is wonderful thing",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "but it does seem - like an awful lot of my uh my adult women friends are anguishing over over some of some of these choices Um -",
+                "label": "sv"
+            },
+            {
+                "text": "Right Well I know the choice to either work or to be mother is probably pretty difficult because I think women just naturally tend to have those instincts that you you know you protected the children",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and you want to be with the children yet theres so many material things to be had out there that lot of people think oh but if we both work we can get really big house",
+                "label": "+"
+            },
+            {
+                "text": "Yes",
+                "label": "aa"
+            },
+            {
+                "text": "and we can have two really nice cars we can take vacation we can do this",
+                "label": "+"
+            },
+            {
+                "text": "Yes yes",
+                "label": "aa"
+            },
+            {
+                "text": "and its kind of almost expected of you anyway People kind of look down on on you know the role of woman as housewife its kind of like oh well you know she didnt go to college",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "and shes just housewife",
+                "label": "+"
+            },
+            {
+                "text": "She just settled for that Yeah",
+                "label": "^q"
+            },
+            {
+                "text": "Right Right Even though theres probably women with As maybe even Ph Ds that are staying at home with the children Um -",
+                "label": "aa"
+            },
+            {
+                "text": "Well I only know - I have - of my friends who have have children uh - I only know of one woman whos decided to go that quote unquote traditional route",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I have lot of respect for her because she made it as real choice",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "She really knew that she didnt have to do that but she decided that was what she wanted to do in her life",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and she wanted that role Shes marvelous parent and I you know I say all power to her because shes an example to me of someone who really does have the choice",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I feel that lot of uh women dont all right I said they have the choice but they dont necessarily feel that they do because they no longer feel like if they were just to be parent rather than uh you know sort of super woman success in the business world as well",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "they would somehow be perceived as failure",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "in their own eyes or in others and and then you and then its not choice anymore",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh and frankly its the way that men are Uh men dont have this choice",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "they dont feel this choice Uh in most subcultures in America that that Ive been exposed to if the man were to say uh no Ive decided not to work I want to stay home and do the child rearing my wife has good job and I want her to keep that too long an utterance needs to be broken up",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and I Im going to be the primary caretaker and you know and then then take care of the children because we dont want to put them in day care and this and that I think most Americans would feel funny about that",
+                "label": "+@"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Maybe sort of feel like he isnt that success that he could have been",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "So its um -",
+                "label": "%"
+            },
+            {
+                "text": "Theres some show on now and I I think Ive seen it once I dont get to watch much but uh theres show where the man is the one raising the kids",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and the wife is - and I - maybe they based it on that MISTER MOM movie but uh",
+                "label": "+"
+            },
+            {
+                "text": "I didnt happen to see that",
+                "label": "sd"
+            },
+            {
+                "text": "but uh there is show out there I guess theyre trying to gain more public acceptance of things like that Because I know there are cases of where that happens and -",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah I knew I knew people who did that years ago",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "but they were very apologetic about it because you could tell they were used to people saying What are you doing that for you know",
+                "label": "sd"
+            },
+            {
+                "text": "Right Its probably getting more and more accepted today in fact it seems like its kind of like anything goes now youre not too surprised on much of anything When you know the husbands the one at home raising the children",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "the mother works thats not real surprising And -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Ive seen more and more companies that have uh parental leave not just maternity leave",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "They can have paternity leave as well as maternity leave",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah In fact Im pretty sure TI has something like that because uh one of the area supervisors uh in my area as matter of fact took off um for couple of weeks when his wife had their baby",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Now it might have been just to take care of her and the baby",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "instead of having you know nurse or someone come in or",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "or something like that or whatever mid-wife or whatever they call it that they have for the first couple of weeks",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But I dont know if he took that out of his vacation or if they really do have paternity he put paternity leave up there but it might have just been him describing the fact that he was taking vacation days to go be father for little while",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I dont know But Im not real sure how that goes",
+                "label": "h"
+            },
+            {
+                "text": "Yeah the other big change I see in in womans lives is um to remain biological they uh women because they have choice are having children much later in life",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Uh I mean my friends who are having children are having them at age thirty",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh if Id been couple of generations ago they would have had kids running around by then",
+                "label": "sd"
+            },
+            {
+                "text": "Right Well people they in general are just getting married lot later Im still single so Im sure Ill be one of those parents thats you know one of those women in her thirties when when I get around to to ever getting married and having kids",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Thats uh I think I think thats getting little more common too",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah I actually think that Im Im somewhat encouraged by that trend because after all people live longer lives now",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "so its not like you know its not like youre going to uh you know pass away before your child is an adult",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "I mean barring you know unforeseen circumstances And I think most people make better parents when they are little bit more mature",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I agree",
+                "label": "aa"
+            },
+            {
+                "text": "I really do",
+                "label": "sv"
+            },
+            {
+                "text": "I agree I think it also gives woman chance if she does have job and career it gives the man and the wife both the chance to both be working and maybe save up some money and then it gives her little more option if she wants to stay home with the children while theyre young",
+                "label": "+@"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and be mother for awhile and then once theyve gotten to school age maybe she could go back to work So shes kind of got that option",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "if if they wait till later theyve saved up some money that its not as difficult for her to stay at home with the kids and live off one income or something",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah Thats true So I guess I Im pretty encouraged",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I really am But then Im product of my generation I dont know if I had been born hundred years ago and were looking at this time I might not like it but it sure seems nice to me",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh I mean I have other things to complain about but in terms of uh womans roles",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "um things really seem lot more flexible",
+                "label": "+"
+            },
+            {
+                "text": "I seem to see more women in uh in leadership type roles and management positions",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah I mean its still",
+                "label": "b"
+            },
+            {
+                "text": "in politics",
+                "label": "+"
+            },
+            {
+                "text": "its still small minority but its",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "but its an improvement It really is",
+                "label": "+"
+            },
+            {
+                "text": "Like the Mayor of Dallas is woman",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really",
+                "label": "ba"
+            },
+            {
+                "text": "And Im sure that twenty years ago that never would have happened but -",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "yeah shes I think shes in her second term now So shes shes - yeah this is her second term I think shes going to going to uh",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "not going to run again after this But but uh we do and we have several council women that are women but",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "you just start hearing more and more In fact oh the the Governor of Texas is woman too",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "We cant forget that one So -",
+                "label": "sd"
+            },
+            {
+                "text": "Whats whats her name",
+                "label": "qw"
+            },
+            {
+                "text": "Ann Richards",
+                "label": "sd"
+            },
+            {
+                "text": "No it - we dont get much Texas politics out in California to be honest",
+                "label": "aa,ar"
+            },
+            {
+                "text": "Yeah She was inaugurated in January so",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "so youre starting to see more of that and I know when I was younger it was all the Presidents and still all the Presidents are men but Im sure that one of these days well look at Ferraro ran for Vice-President",
+                "label": "+"
+            },
+            {
+                "text": "Thats right --",
+                "label": "aa"
+            },
+            {
+                "text": "and I guess one of these days well well eventually have -",
+                "label": "+"
+            },
+            {
+                "text": "-- although during during the Presidential debates there was some really nasty patronizing",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "stuff toward I dont know if you saw those but I thought she was treated badly for being woman",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "frankly I really did by by uh the the then vice-presidential candidates",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "uh who really I thought had demeaning attitude towards her",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And uh it was sort of it was acceptable to say certain types of things to her that she couldnt say back",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "that kind of thing which I I I found myself getting quite enraged about",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But really thats previous generation",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I dont - its harder to imagine people of our age doing that",
+                "label": "%"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "and not feeling really stupid",
+                "label": "+"
+            },
+            {
+                "text": "Right Right I agree Well I think weve weve gotten our five minutes or -",
+                "label": "aa"
+            },
+            {
+                "text": "Well theyve gotten their five minutes worth of us Ive enjoyed talking with you",
+                "label": "sd^t"
+            },
+            {
+                "text": "It was nice talking to you too",
+                "label": "fc"
+            },
+            {
+                "text": "Okay take care",
+                "label": "fc"
+            },
+            {
+                "text": "You too Bye bye",
+                "label": "fc"
+            },
+            {
+                "text": "Bye bye",
+                "label": "fc"
+            }
+        ]
+    }
+]

@@ -1,0 +1,511 @@
+[
+    {
+        "conversation_id": "conv_3245",
+        "turns": [
+            {
+                "text": "Okay Im ready",
+                "label": "o"
+            },
+            {
+                "text": "Okay so were going to talk about uh what kind of clothes we wear while we work",
+                "label": "bk"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Do you work for I",
+                "label": "qy"
+            },
+            {
+                "text": "No I work at home",
+                "label": "nn"
+            },
+            {
+                "text": "Oh you do well youre like me then I stay home also",
+                "label": "bh"
+            },
+            {
+                "text": "Do you have children",
+                "label": "qy"
+            },
+            {
+                "text": "Yes I have two seven year old and three and half year old",
+                "label": "ny"
+            },
+            {
+                "text": "Oh thats good",
+                "label": "ba"
+            },
+            {
+                "text": "How about you",
+                "label": "qo"
+            },
+            {
+                "text": "I have four girls --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- theyre nine and five and three and newborn",
+                "label": "sd"
+            },
+            {
+                "text": "Oh my you are busy --",
+                "label": "ba"
+            },
+            {
+                "text": "Yes",
+                "label": "aa"
+            },
+            {
+                "text": "-- and theyre all girls I have two girls so all girls around here",
+                "label": "bf"
+            },
+            {
+                "text": "Girls are nice arent they",
+                "label": "qy^g"
+            },
+            {
+                "text": "Yes uh really sweet",
+                "label": "ny"
+            },
+            {
+                "text": "Anyway as far as clothing goes um my wardrobe changes all the time depending on my size",
+                "label": "sd"
+            },
+            {
+                "text": "Thats how I am too",
+                "label": "aa"
+            },
+            {
+                "text": "We go from regular kind of spring clothes --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- regular kind of fall clothes --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- pregnant clothes",
+                "label": "+"
+            },
+            {
+                "text": "slash error",
+                "label": "x@"
+            },
+            {
+                "text": "clothes that are in between where youre not down to regular size yet --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh slash error should be",
+                "label": "+@"
+            },
+            {
+                "text": "-- or youre on your way up from regular size --",
+                "label": "+"
+            },
+            {
+                "text": "Oh thats funny",
+                "label": "ba"
+            },
+            {
+                "text": "-- and theyre all in boxes or bags and they all rotate all the time --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- kind of the same stuff all the time though I --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- dont uh get whole lot new right now",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I know thats kind of how I am I said who ever I talk to is going to be board because when its summer time Im wearing shorts and when its cold Im wearing sweat pants and --",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- most of unless Im going to something special that my daughters doing or something like that",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I I like jeans lot",
+                "label": "b"
+            },
+            {
+                "text": "Well thats thats good I used to wear jeans all the time until after I had kids and now nothing seems to be comfortable because I bulge in all the wrong places so -",
+                "label": "ba"
+            },
+            {
+                "text": "Oh and its its frustrating I just I find I have to get the right kinds though or its not comfortable --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- they - it it works best if they have pleats in the front --",
+                "label": "%"
+            },
+            {
+                "text": "Right yeah",
+                "label": "aa"
+            },
+            {
+                "text": "-- and uh they have to - my waist is kind of small compared to the hips so it has to be not the straight up and down levis kind",
+                "label": "%"
+            },
+            {
+                "text": "Yeah yeah I know what you mean Well -",
+                "label": "b"
+            },
+            {
+                "text": "But um but I - when I was I was pregnant through the summer this time --",
+                "label": "%"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- and I wore dresses all the time --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- because it was so much cooler --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "aa"
+            },
+            {
+                "text": "-- and so much more comfortable --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- not to have something binding on your waist --",
+                "label": "+"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "-- but uh -",
+                "label": "%"
+            },
+            {
+                "text": "One of my daughters was born in June and I remember I wore sundresses and you know just those real cool dresses almost the entire time",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "And I had one that was born in December so um it was little bit because it was real warm winter -- -",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- so even even into like November and December I was still wearing the short sleeve dresses course Im always hot when Im pregnant too so -- -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- I I didnt really need warm clothes but I really have been spoiled by sweat pants and these new uh units outfits you know that are just knit",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I havent tried those",
+                "label": "sd"
+            },
+            {
+                "text": "Oh they are so comfortable",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "Its its just um you know light weight --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- kind of like sweat suit but made out of that real light polyester stuff and --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- its just great because you can put you know you can decorate them up or dress them up if you want or you can just wear them with you know tennis shoes if you want So theyre really nice and Ive enjoyed wearing those --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but I -",
+                "label": "%"
+            },
+            {
+                "text": "I dont know if they expected us to talk about blazers and such here but I sure never wear them",
+                "label": "sd^t"
+            },
+            {
+                "text": "Yeah well I dont either if we if we had professional jobs where we go into an office and have to wear jacket or something --",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- that would make big difference I worked part time when my oldest was baby --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and um I had to wear dress every day and --",
+                "label": "sd"
+            },
+            {
+                "text": "Im watching Janice uh-huh",
+                "label": "t3"
+            },
+            {
+                "text": "-- and it was little bit hard to uh wind down I would I would have to drive six thirty five home and I would be burning up like in the summer time --",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- by the time I got home I was like Oh Ive got to get out of these clothes",
+                "label": "sd"
+            },
+            {
+                "text": "I I remember that from when I was - I worked way before I was married even but offices they keep them so cold --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- in the summer that you cant wear regular summer clothes --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "aa"
+            },
+            {
+                "text": "-- and be comfortable --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "aa"
+            },
+            {
+                "text": "-- youve got to have something to --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- add to it or something --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- I dont know if you can",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah and then when you drive home like especially if youre in lot of traffic --",
+                "label": "b"
+            },
+            {
+                "text": "You burn up",
+                "label": "sv"
+            },
+            {
+                "text": "-- which you are in Dallas - uh-huh --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- because I always hated to run my air conditioner just sitting still all the time --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- I was afraid Id make the car overheat",
+                "label": "sd"
+            },
+            {
+                "text": "Its hard on the car",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah so I would roll my windows down it was still hundred degrees --",
+                "label": "b"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- and I would just be sweltering hot by the time I picked my daughter up and --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- um I had friend who used to take shorts to work and after work shed go in the bathroom and change her clothes --",
+                "label": "+"
+            },
+            {
+                "text": "Oh thats funny",
+                "label": "ba"
+            },
+            {
+                "text": "-- and I thought thats probably good idea --",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Yeah --",
+                "label": "b"
+            },
+            {
+                "text": "-- because you really -- -",
+                "label": "+"
+            },
+            {
+                "text": "-- at least something cooler -",
+                "label": "sv"
+            },
+            {
+                "text": "-- yeah because you can ruin your good clothes getting so hot in them if you --",
+                "label": "aa"
+            },
+            {
+                "text": "Thats true",
+                "label": "aa"
+            },
+            {
+                "text": "-- especially if its something that has to be dry cleaned which I dont have any of",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I dont have to worry whole lot about that",
+                "label": "b"
+            },
+            {
+                "text": "No when you have children you dont um even when I go to church I have to have something I can just throw in the washer when Im through",
+                "label": "aa"
+            },
+            {
+                "text": "Thats right something that it doesnt matter if it gets spit up on too",
+                "label": "aa"
+            },
+            {
+                "text": "Thats right or if you get it dirty or whatever slash error two utts I know it",
+                "label": "aa@"
+            },
+            {
+                "text": "Ive always been creature of comfort too --",
+                "label": "sd"
+            },
+            {
+                "text": "Me too",
+                "label": "aa"
+            },
+            {
+                "text": "-- if its not comfortable forget it",
+                "label": "sv"
+            },
+            {
+                "text": "I know thats how I am too",
+                "label": "aa"
+            },
+            {
+                "text": "Wool was never comfortable to me",
+                "label": "sv"
+            },
+            {
+                "text": "Right me neither I have -",
+                "label": "aa"
+            }
+        ]
+    }
+]

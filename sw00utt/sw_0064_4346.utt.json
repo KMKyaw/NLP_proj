@@ -1,0 +1,239 @@
+[
+    {
+        "conversation_id": "conv_4346",
+        "turns": [
+            {
+                "text": "Okay",
+                "label": "o"
+            },
+            {
+                "text": "Okay you go first",
+                "label": "b^m"
+            },
+            {
+                "text": "Well I have uh two kids I have one seven and one five --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh theyre in public school here in Tyler and uh Im happy with it",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Im happy with the school its great good teachers good curriculum uh they learn lot they have no problems uh but I do live in the better well in the best part of the city though I live in you know the real richy part I guess Im not but everybody around me is and uh but theyre - I have friends that live in the other the less fortunate or whatever you want to call it part of town and their schools are kind of rundown and uh older and they dont really offer as much I dont know as uh the school that my girls are in I dont really think thats fair",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know Uh but you know Im happy with what theyre in so go ahead",
+                "label": "+"
+            },
+            {
+                "text": "Well yeah it its its pretty much what I was - going to say is theres lot of disparity between different neighborhoods and what sort of schools go in",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh I grew up in New York and --",
+                "label": "sd"
+            },
+            {
+                "text": "Wow",
+                "label": "ba"
+            },
+            {
+                "text": "-- uh the place - or not New York City upstate New York --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and I went to uh the City of Rochester School District --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "-- and - lot of my friends were in one of the neighboring suburbs and it wasnt we werent too far removed geographically from each other but the difference in schools I think was pretty substantial --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "-- and uh one of the things that probably would have been better if is if the entire county had had had just one school system",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And that would result in some uh could result in more equitable distribution of money because what was happening was you know all the very rich people went out to the move out to the suburbs and the city had very low tax base so they didnt have lot --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- of money to work with As result the schools were rundown there wasnt as many you know of the nice supplies in science class that we would have liked There wasnt as many advanced placement courses uh when I was senior --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "-- that some other schools had And uh it it - so I you know I think that one of the things one of the ways to to to help schools in general uh and get them all to minimum level of of of competency almost would be to expand the size of school districts so you get wider variety of people and the the problem with that is then then then people will either the rich people will either pull their kids out of the public school and put them in private schools or --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- theyll move farther away --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- to get better schools So you know it its kind of you end up chasing like dog chasing its own tail sort of",
+                "label": "+"
+            },
+            {
+                "text": "Also uh the the family environment - you know you can come to south Tyler where I live and you have got room mothers in every room youve got art mothers youve got every every holiday theres parties All these kids have these really supportive really supportive parents always up there for --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- something You can go to north Tyler to the schools and the parents might not could even tell you what their kids teachers name is",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know uh that has whole lot to do with it you know as far as their learning I mean if the parents arent uh you know willing to go with the kids and find out what theyre learning and if theyre learning --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know they really dont have much of chance --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- at all",
+                "label": "+"
+            },
+            {
+                "text": "Why is that",
+                "label": "qw"
+            },
+            {
+                "text": "Huh",
+                "label": "br"
+            },
+            {
+                "text": "Why is that",
+                "label": "qw^r"
+            },
+            {
+                "text": "Why you asking - You - they just dont I mean I mean Im Im up there at my kids school I know what theyre learning and if theyre up I call and find out you know is she having problems does she need help with anything no shes doing fine okay you know uh and I I know kids that their parents could really give rip and the kids --",
+                "label": "%"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- are not motivated",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b^r"
+            },
+            {
+                "text": "They have no motivation from home so they just go to school and you know eh you know Ill get through the day and uh bring homework home and theres nobody to to sit them down and say youre going to do this",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b^r"
+            },
+            {
+                "text": "Uh just you know they they take notion to do it they do and uh that doesnt work either you know they have to have guidance and --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh they cant just have it at school and then come home and theres nothing you know",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah Yeah I know that that that was big factor for me I ended up coming out of of the public school system very well --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and was very good education uh ended up getting some scholarships to go to college and --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "-- which has been you know which is really nice and --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- I think the difference for me was that my parents were you know they were definitely they were always there was like well - yeah of course youre going to study and do well and thats the way of course are you -",
+                "label": "+"
+            }
+        ]
+    }
+]

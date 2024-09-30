@@ -1,0 +1,703 @@
+[
+    {
+        "conversation_id": "conv_2429",
+        "turns": [
+            {
+                "text": "Well what would you have at dinner party",
+                "label": "qw"
+            },
+            {
+                "text": "Well uh lately since I have children Ive cut down on having dinner parties",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "but when I do I try to keep it pretty simple on things that I can prepare ahead of time uh I have one recipe for uh really good um type of meatball Its called burgundy meatball and its made with red wine and -",
+                "label": "sd"
+            },
+            {
+                "text": "Oh gosh",
+                "label": "ba"
+            },
+            {
+                "text": "um --",
+                "label": "%"
+            },
+            {
+                "text": "that sounds great",
+                "label": "+"
+            },
+            {
+                "text": "-- Its its really good and you can make it ahead of time and then um make the sauce when youre ready to um to serve it",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Thats one of my favorite things to to serve",
+                "label": "sd"
+            },
+            {
+                "text": "Well um I think it would probably depend on whether this was formal or informal dinner party",
+                "label": "sv"
+            },
+            {
+                "text": "Sure",
+                "label": "aa"
+            },
+            {
+                "text": "But if it was informal my first choice would be crawfish",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really Well I guess being from that part of the country",
+                "label": "b"
+            },
+            {
+                "text": "Because I mean crawfish everybody over here likes crawfish but --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know I I wouldnt have to worry about satisfying my guest But if it was formal dinner party I would probably think of something else like uh - shrimp shrimp fettucini is real easy --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- to um make and everything and its usually well liked by people I guess Im just seafood fan so",
+                "label": "+"
+            },
+            {
+                "text": "Well how do",
+                "label": "qw"
+            },
+            {
+                "text": "I think on the lines of -",
+                "label": "+"
+            },
+            {
+                "text": "make how do you you cook crawfish I in fact I just came back from the grocery store and being in Texas we dont have too many you know people that that eat crawfish but they had live crawfish",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "ba"
+            },
+            {
+                "text": "on sale",
+                "label": "+"
+            },
+            {
+                "text": "um youre not supposed to I mean youre not supposed to eat them dead I mean",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "well you eat them dead but -",
+                "label": "+"
+            },
+            {
+                "text": "Dont buy them that way",
+                "label": "^2"
+            },
+            {
+                "text": "Right Because if if they are dead for too long - you can always tell whenever theyre cooked if theyve been dead for long time because their tail straightens out",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And youre not supposed to eat those because theyre bad for you",
+                "label": "sd"
+            },
+            {
+                "text": "Okay Well Ill remember that",
+                "label": "b"
+            },
+            {
+                "text": "Yeah so if you ever go in restaurant order crawfish I mean every once in while youll see on- I mean it doesnt happen very often because its just an accident but if the tail is straight on it then yeah",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "dont eat it But um you just put some Cajun well lots of pepper --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and you just boil them and theyre absolutely wonderful but theres uh theyre pain to peel for some people Once you get used to it theyre real easy but um you know if you have nails or anything you can plan on those being shot",
+                "label": "sd"
+            },
+            {
+                "text": "Huh When you were um whe- when you serve it do you shell them and then serve em too",
+                "label": "qy"
+            },
+            {
+                "text": "I think for dinner party - I I dont know it depends",
+                "label": "sd"
+            },
+            {
+                "text": "Um-hum",
+                "label": "b"
+            },
+            {
+                "text": "Like if like my age if there was bunch of college kids coming over for dinner party no I they would shell their own",
+                "label": "sd"
+            },
+            {
+                "text": "Sure",
+                "label": "b"
+            },
+            {
+                "text": "you know wed just have crawfish and beer or something but um if it was more formal like if I was you know working environment then I would probably um sh- shell em or at least disconnect them from the head But theres",
+                "label": "sd"
+            },
+            {
+                "text": "Still have see that slash error",
+                "label": "o"
+            },
+            {
+                "text": "Theres big thing over here that everybody sucks the head So um --",
+                "label": "+"
+            },
+            {
+                "text": "Ooh slash error should be ba",
+                "label": "+"
+            },
+            {
+                "text": "-- it it would just depend Thats the best part of the crawfish Sucking the head But um I dont know it jus- i- it just depends on what type it was I guess But you can buy uh the crawfish shells already peeled everything And usually you use those like for frying",
+                "label": "+"
+            },
+            {
+                "text": "Um-hum",
+                "label": "b"
+            },
+            {
+                "text": "or to put in salads or to um You know make sauce with or something like that But you can go ahead and buy em cooked and shelled and theyre more expensive of course but -",
+                "label": "+"
+            },
+            {
+                "text": "Does it taste lot like shrimp",
+                "label": "qy"
+            },
+            {
+                "text": "Um Yeah it really does Looks like slash unit to me",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I like shrimp better These seems to be independent of A55 utt 2 above not continuation",
+                "label": "+@"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Just um The crawfish I mean it just has taste of its own It also depends on whos cooking it and how much seasoning they use",
+                "label": "sd"
+            },
+            {
+                "text": "Sure",
+                "label": "b"
+            },
+            {
+                "text": "stuff like that but um I think that - And also to get totally off the subject of crawfish lots of vegetables and hors doeuvres and stuff like that for dinner party I think that that really helps",
+                "label": "+"
+            },
+            {
+                "text": "Yeah We have friend another couple where the husband is the one who cooks all the time And -",
+                "label": "b"
+            },
+            {
+                "text": "Thats what I need",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah thats what I wish I had but in our family I am the one who who cooks And I I really enjoy it its gotten little more difficult with kids But I really do enjoy cooking And we um we have them over for dinner",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "back and forth quite lot And before I had my second child we sort of had contest going where",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "ba"
+            },
+            {
+                "text": "you know he would cook and then the next time it would be my turn and Id try to outdo him and then hed try to outdo me and we we - was really lot of fun",
+                "label": "+"
+            },
+            {
+                "text": "I bet",
+                "label": "ba"
+            },
+            {
+                "text": "and -",
+                "label": "%"
+            },
+            {
+                "text": "that that got pretty competitive",
+                "label": "bf"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "you know as",
+                "label": "+"
+            },
+            {
+                "text": "it did",
+                "label": "aa"
+            },
+            {
+                "text": "far as",
+                "label": "+"
+            },
+            {
+                "text": "we we",
+                "label": "sd"
+            },
+            {
+                "text": "who",
+                "label": "+"
+            },
+            {
+                "text": "tried",
+                "label": "+"
+            },
+            {
+                "text": "could come",
+                "label": "+"
+            },
+            {
+                "text": "to",
+                "label": "+"
+            },
+            {
+                "text": "up",
+                "label": "+"
+            },
+            {
+                "text": "be",
+                "label": "+"
+            },
+            {
+                "text": "with the best recipe",
+                "label": "+"
+            },
+            {
+                "text": "fancier or more courses than the other",
+                "label": "+"
+            },
+            {
+                "text": "That",
+                "label": "sv"
+            },
+            {
+                "text": "or -",
+                "label": "%"
+            },
+            {
+                "text": "would be fun",
+                "label": "+"
+            },
+            {
+                "text": "Uh it was lot of fun you know it something unique you know and then we got into different um themes you know um whether it would be ethnic food",
+                "label": "sd"
+            },
+            {
+                "text": "Uh huh",
+                "label": "b"
+            },
+            {
+                "text": "Or um sometimes it would be um oh Oh I dont know maybe an outdoor theme or uh elegant theme or you know - It was lot of fun",
+                "label": "+"
+            },
+            {
+                "text": "Sometimes it might be the candlelight and sometimes it might be the picnic out back",
+                "label": "bf"
+            },
+            {
+                "text": "Thats",
+                "label": "aa"
+            },
+            {
+                "text": "or something",
+                "label": "+"
+            },
+            {
+                "text": "right",
+                "label": "+"
+            },
+            {
+                "text": "Well thats you know thats fun",
+                "label": "ba"
+            },
+            {
+                "text": "it was fun and and we threatened to make the other two uh make us dinner one time",
+                "label": "sd^r"
+            },
+            {
+                "text": "Uh huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh Just to even it out since we seemed to be unfairly doing all the cooking and they were doing all the enjoying",
+                "label": "+"
+            },
+            {
+                "text": "That sounds right I",
+                "label": "sv"
+            },
+            {
+                "text": "Im -",
+                "label": "%"
+            },
+            {
+                "text": "would Id take him up on that",
+                "label": "+"
+            },
+            {
+                "text": "It does except that knowing them they would probably do something ridiculous and terrible just just to uh make sure that they didnt have to do it again",
+                "label": "aa"
+            },
+            {
+                "text": "Uh huh Id",
+                "label": "b"
+            },
+            {
+                "text": "make hot",
+                "label": "sd"
+            },
+            {
+                "text": "be -",
+                "label": "+"
+            },
+            {
+                "text": "dogs or some potato chips",
+                "label": "+"
+            },
+            {
+                "text": "I thats about how much I can cook You know Im Im doing lot more cooking now than I used to",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "but thats only because my mom just started working so shes tired when she comes home in the afternoon so I try to have things cooked for her but",
+                "label": "sd"
+            },
+            {
+                "text": "Oh thats nice",
+                "label": "ba"
+            },
+            {
+                "text": "uh um I usually try to stay out of kitchen I dont know not one of my favorite hobbies",
+                "label": "+"
+            },
+            {
+                "text": "It can it can be fun I if you have the time But you know lot of times its too much of rush really be able to enjoy it",
+                "label": "sv"
+            },
+            {
+                "text": "Well um",
+                "label": "sd"
+            },
+            {
+                "text": "able",
+                "label": "+"
+            },
+            {
+                "text": "my grandma speaking",
+                "label": "+"
+            },
+            {
+                "text": "to -",
+                "label": "+"
+            },
+            {
+                "text": "of those meatballs again she owned every Christmas and and Easter whenever we have at the big get-together over at her house she makes this meat ball sauce and it has - I dont know they are just kind of like quarter size meatballs and",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "they are absolutely delicious I dont know what she calls them in I dont Im sure she puts wine in it because um she cooks everything with alcohol But - um I dont know I would I would be interested in getting that recipe for you if you have it around",
+                "label": "+"
+            },
+            {
+                "text": "Yeah its um its in the other room I dont know if we",
+                "label": "aa"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "have enough time for it its real easy one of the unique things in this its like pound of ground beef some bread crumbs um an egg um whatever seasonings you can just light -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "so salt and pepper Um and chopped up water chestnuts",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "which is something different um",
+                "label": "+"
+            },
+            {
+                "text": "that would be wonderful",
+                "label": "ba"
+            },
+            {
+                "text": "makes them little bit crunchy you need to chop em up real fine",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But um it makes them crunchy and that adds something new to it And then the sauce is just made with um bouillion cubes",
+                "label": "sd^r"
+            },
+            {
+                "text": "Um-hum",
+                "label": "b"
+            },
+            {
+                "text": "water burgundy wine and um cornstarch instead of flour",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "So its not its not thick rich type of sauce its more of - when you use corn starch in in gravy like you know when you have um Chinese food",
+                "label": "sd"
+            },
+            {
+                "text": "Um-hum",
+                "label": "b"
+            },
+            {
+                "text": "That kind of gravy or sauce that comes with lot of that They use corn starch instead of flour in all of their sauces and gravies Shouldnt this be 2 slash units Im confused by the capital letter on They And it gives it bit of different consistency",
+                "label": "+@"
+            },
+            {
+                "text": "Well um how long do you cook the meatballs",
+                "label": "qw"
+            },
+            {
+                "text": "The meatballs you just um after you form them fry them in pan until",
+                "label": "ad"
+            },
+            {
+                "text": "Uh huh",
+                "label": "b"
+            },
+            {
+                "text": "theyre uh browned on all all sides and then drain off all the grease Uh then what I usually do is I freeze them And then when youre ready",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "to serve",
+                "label": "+"
+            },
+            {
+                "text": "yeah",
+                "label": "b"
+            },
+            {
+                "text": "them then you cook the sauce and then put the meatballs into the sauce And heat it probably you have to heat it up for good oh - if theyre frozen you know it may take half for them to thaw out But then heat them thoroughly in the sauce itself Let them simmer in the sauce itself",
+                "label": "+"
+            },
+            {
+                "text": "Hum",
+                "label": "%"
+            },
+            {
+                "text": "and its real good",
+                "label": "sd"
+            },
+            {
+                "text": "That sounds great Especially I mean the fact that you can prepare the meatballs so so far in advance -",
+                "label": "ba"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "I mean like if if",
+                "label": "bf"
+            },
+            {
+                "text": "And then freeze them",
+                "label": "^2"
+            },
+            {
+                "text": "you are having dinner party on Wednesday night you could do it on weekend",
+                "label": "+"
+            },
+            {
+                "text": "Sure",
+                "label": "aa"
+            },
+            {
+                "text": "That would be great I think Im going to have to keep that in mind for my future because I hope to have to have lots of dinner parties Cause I like to - I mean um Um Im sure that Ill be involved in big company and I know that my future husband will be You know - Hes going to be working for Chevron",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "in Houston so hes going to be - Um You know Im sure that dinner parties will",
+                "label": "+"
+            },
+            {
+                "text": "Yeah youll",
+                "label": "aa"
+            },
+            {
+                "text": "come in handy",
+                "label": "+"
+            },
+            {
+                "text": "meet friends invite invite the boss over",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "and",
+                "label": "+"
+            },
+            {
+                "text": "I have",
+                "label": "sd"
+            },
+            {
+                "text": "and",
+                "label": "+"
+            },
+            {
+                "text": "to impress the boss",
+                "label": "+"
+            },
+            {
+                "text": "friends at work",
+                "label": "+"
+            },
+            {
+                "text": "and clients cause Um Im in Im in public relations in school",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "so Im going to have You know my whole jobs going to be based on my clients stuff like that so",
+                "label": "sd"
+            },
+            {
+                "text": "Sure",
+                "label": "b"
+            },
+            {
+                "text": "Im going to have lots of dinner parties And have to take em out to eat Right now Im taking class on ettiquesy Did she really say ettiquesy and",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "all the little",
+                "label": "+"
+            },
+            {
+                "text": "really",
+                "label": "b"
+            },
+            {
+                "text": "bitty things that I didnt even know I mean I thought for sure Id been raised properly but Ive been doing lot of things wrong I didnt know about but um So Is there anything else",
+                "label": "+"
+            },
+            {
+                "text": "Well I I think weve covered the subject I got some interesting information about crawfish I was in fact - Its good cause I was curious about that today when I saw those for",
+                "label": "sv^t"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "sale",
+                "label": "+"
+            },
+            {
+                "text": "yes you need to try em Oh theyre wonderful",
+                "label": "b"
+            },
+            {
+                "text": "Oh I will Im sure my husband will be surprised cause we were talking about them the other day mm- before",
+                "label": "cc"
+            }
+        ]
+    }
+]

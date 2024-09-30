@@ -1,0 +1,251 @@
+[
+    {
+        "conversation_id": "conv_3530",
+        "turns": [
+            {
+                "text": "What kind of books do you like best",
+                "label": "qw"
+            },
+            {
+                "text": "Well I alternate between Danielle Steele is one of my very favorites and uh then I try to go into one of the self improvement books Uh we we take books every once in while in our Sunday school class and go through them Uh I love Scott Peck and his ROAD LESS TRAVELED",
+                "label": "sd"
+            },
+            {
+                "text": "Huh yeah Ive heard of that one I --",
+                "label": "b"
+            },
+            {
+                "text": "Oh it is --",
+                "label": "sd"
+            },
+            {
+                "text": "-- dont think Ive read it",
+                "label": "+"
+            },
+            {
+                "text": "-- it is wonderful I I thoroughly enjoyed that What do you read",
+                "label": "+"
+            },
+            {
+                "text": "Well uh Im Tom Clancy fan",
+                "label": "sd"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "And I read - I just finished book on Novelle Netware uh thats computer stuff I do lot --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yes",
+                "label": "b"
+            },
+            {
+                "text": "-- of computer reading and uh Im just finishing another one up on uh statistical sampling so I do more work kind of related reading than uh just for enjoyment",
+                "label": "+"
+            },
+            {
+                "text": "I I try to keep book going all the time Uh I try to read when I first wake up in the morning and then before I go to sleep So I probably get oh thirty to fifty pages day read",
+                "label": "sd"
+            },
+            {
+                "text": "Well thats pretty good",
+                "label": "ba"
+            },
+            {
+                "text": "And I just you know - I dont feel like - in fact this morning I was almost late for work because Im almost at the end of this book and I didnt want to put it down",
+                "label": "%"
+            },
+            {
+                "text": "Oh Ive had them like that before too",
+                "label": "sd"
+            },
+            {
+                "text": "But I like I like mysteries",
+                "label": "sd"
+            },
+            {
+                "text": "Mysteries Any particular writer",
+                "label": "b^m"
+            },
+            {
+                "text": "Uh yes I like uh uh oh - Im drawing blank Uh he wrote the uh BOURNE ULTIMATUM",
+                "label": "ny"
+            },
+            {
+                "text": "Ludwig Lud- -",
+                "label": "^2"
+            },
+            {
+                "text": "Ludwig yes",
+                "label": "aa^m"
+            },
+            {
+                "text": "Yes",
+                "label": "aa"
+            },
+            {
+                "text": "And uh I like Jeffrey Archer",
+                "label": "sd"
+            },
+            {
+                "text": "What does he - write",
+                "label": "qw@"
+            },
+            {
+                "text": "He is an English author who writes some mystery Uh well I guess theyre theyre type of mystery Theyre usually some - - hes ex-lawyer so or he hes lawyer who no longer practices but --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "+@"
+            },
+            {
+                "text": "-- his are all have some part of the law uh enveloped in them",
+                "label": "+"
+            },
+            {
+                "text": "So you kind of learn something as well as en- enjoy yourself",
+                "label": "sd"
+            },
+            {
+                "text": "Right and then uh the new author that came out with uh oh the one that uh Harrison Ford starred in",
+                "label": "b"
+            },
+            {
+                "text": "RAIDERS OF THE LOST ARK stuff",
+                "label": "^2"
+            },
+            {
+                "text": "No no it was --",
+                "label": "ar"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- the uh - its late Im tired so Im not --",
+                "label": "+"
+            },
+            {
+                "text": "What",
+                "label": "qw"
+            },
+            {
+                "text": "-- thinking too well",
+                "label": "+"
+            },
+            {
+                "text": "what time is it there ten thirty",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh its nine thirty here",
+                "label": "sd"
+            },
+            {
+                "text": "Oh its uh it was his first book It came it was on the top of the list uh he was",
+                "label": "sd"
+            },
+            {
+                "text": "Uh PRESUMED INNOCENT",
+                "label": "qy"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "Oh I havent seen the movie uh or - read the book but",
+                "label": "sd"
+            },
+            {
+                "text": "Okay and then hes he came out with the second one Uh sequel to it",
+                "label": "b"
+            },
+            {
+                "text": "Oh",
+                "label": "+@"
+            },
+            {
+                "text": "And both of those Ive enjoyed real well But I I like that I love Danielle Steele and and you know if I want to get fantasy and --",
+                "label": "sd"
+            },
+            {
+                "text": "Is she --",
+                "label": "qy"
+            },
+            {
+                "text": "-- get away from it all",
+                "label": "+"
+            },
+            {
+                "text": "-- is she kind of racy",
+                "label": "+"
+            },
+            {
+                "text": "No no she isnt at all",
+                "label": "nn"
+            },
+            {
+                "text": "Just feel good",
+                "label": "^2"
+            },
+            {
+                "text": "Her books uh - you always cry",
+                "label": "%"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "I mean its its always good for good tears Uh one book that she wrote thats good for both men and women is FINE THINGS I THINGS",
+                "label": "sd"
+            },
+            {
+                "text": "- my mother-in-laws real fan of hers",
+                "label": "sd"
+            },
+            {
+                "text": "Well its its one thats you know - its its always going to make you have good cry and you know its going it turn out good and youre going to be happy in the end",
+                "label": "+@"
+            },
+            {
+                "text": "Oh well thats nice",
+                "label": "ba"
+            },
+            {
+                "text": "And I said you know - I dont want anything too real anymore I have enough of that in my own life I want I want happy fantasy like -",
+                "label": "%"
+            },
+            {
+                "text": "Yeah Uh you mentioned Sunday school Ladonna",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh do you - are you BIBLE fan too",
+                "label": "qy"
+            },
+            {
+                "text": "Uh I I do my share of it I I certainly cant say that I understand lot of it",
+                "label": "na"
+            },
+            {
+                "text": "Oh yeah but uh thats always challenge So do you do - my wife talks with other people -",
+                "label": "b"
+            }
+        ]
+    }
+]

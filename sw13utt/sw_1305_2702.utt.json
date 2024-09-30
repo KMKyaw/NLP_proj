@@ -1,0 +1,675 @@
+[
+    {
+        "conversation_id": "conv_2702",
+        "turns": [
+            {
+                "text": "Clanking dishes woman and children",
+                "label": "%"
+            },
+            {
+                "text": "Well as much as Id uh Id like to say that Ill be looking for flashy convertible or uh or four by four or something I guess the next car Ill be looking for is kind of plain old four door",
+                "label": "sd"
+            },
+            {
+                "text": "What kind of car do you have now",
+                "label": "qw"
+            },
+            {
+                "text": "Oh weve got uh an older Delta Eighty-Eight and then uh our our newer car is uh Corsica",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And well probably be looking for something about that uh that same style",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "That same kind of four door hard top style",
+                "label": "sd"
+            },
+            {
+                "text": "You got kids",
+                "label": "qy"
+            },
+            {
+                "text": "Uh no but were planning for it",
+                "label": "nn"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "So uh in fact uh our Oldsmobile is is like an old Delta Eighty-Eight but its in pretty good sh- in really good shape",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And weve been really pleased with Oldsmobiles",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^r"
+            },
+            {
+                "text": "So thats probably where the first place wed look",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "But uh -",
+                "label": "%"
+            },
+            {
+                "text": "Well weve always had uh Fords",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh mostly because my wifes stepfather works at Ford dealership",
+                "label": "sd"
+            },
+            {
+                "text": "Thatll do it",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah Thatll do it Um but yeah were were in the same shape I think our next car will be you know some big old four door uh something that can haul the kids to baseball practice --",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and piano lessons and weve got minivan",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and thats great And I - drive uh - well I used to drive an Escort but it died on me So I I mean I I I used to run it I uh where we used to live I used to commute hundred and forty miles day",
+                "label": "sv"
+            },
+            {
+                "text": "Oh geez",
+                "label": "ba"
+            },
+            {
+                "text": "And uh and this Escort took it all And it it it got up to uh uh I was at ninety-four thousand miles on it and the engine just went",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So I I I bought used uh Dodge Aries",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "which has been okay",
+                "label": "+"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "I I mean Ive havent had it that long",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But it it al- its an eighty-five Aries but it only had thirty-four thousand miles on it when I bought it",
+                "label": "sd"
+            },
+            {
+                "text": "Oh geez",
+                "label": "ba"
+            },
+            {
+                "text": "And I just you know I just drive it to work So its just ten minute commute every day",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So uh it doesnt get much of uh - I mean its not like Im putting it through its paces",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "But I think uh and its four door which is nice",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "but its still little cramped Ive got three kids",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "so I I -",
+                "label": "%"
+            },
+            {
+                "text": "Sounds like you you need at least like Taurus size",
+                "label": "bf"
+            },
+            {
+                "text": "Yeah thats what",
+                "label": "aa"
+            },
+            {
+                "text": "or something like that",
+                "label": "+"
+            },
+            {
+                "text": "I was thinking of - was Taurus - Uh -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I I know lot of guys at work they uh the ones that have uh families uh and they still want kind of sports car Theyve been uh lot of them have been getting these Taurus Os That I guess its the sports version --",
+                "label": "b"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "-- of the Taurus",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "In fact it comes with standard stick and uh",
+                "label": "sd"
+            },
+            {
+                "text": "Ooh",
+                "label": "ba"
+            },
+            {
+                "text": "and lot of those And it comes with bigger engine and the things like that But uh -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and usually theyre in like black and gun metal grey and those kind of colors Youre not going to see too many uh you know green ones or blue ones or anything like that",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "They they put them in sporty colors I guess But uh -",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah Well my wife wants Miyata",
+                "label": "b"
+            },
+            {
+                "text": "Oh well sure Thats what you know - until until you look at the price tag and then --",
+                "label": "ba"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- you go What What would I besides tooling around and looking really cool --",
+                "label": "+"
+            },
+            {
+                "text": "Right yeah",
+                "label": "b^r"
+            },
+            {
+                "text": "-- and having lot of fun what would I really do with this car",
+                "label": "+"
+            },
+            {
+                "text": "I know I know Its like I I guess I could fit in it",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah I",
+                "label": "b"
+            },
+            {
+                "text": "maybe",
+                "label": "+"
+            },
+            {
+                "text": "I went I went through that when I first got out of uh college I had an old car that I bought just to get to to my - my first job",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And when I got there the first thing I did was trade it in on Spitfire",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "And I I knew that was going to be the only time I could afford two seater uh sports car",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But that that just does not make it as an only car Its uh its like I I would - I bought set of stereo speakers --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and it was one of those cash and carry deals I had to take them one at time with the top down And it was winter so I was in like this coat --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh no",
+                "label": "ba"
+            },
+            {
+                "text": "-- with the top down and the speaker in the passenger seat",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And I drove that one home and then I went back and got the other one and put that in the passenger seat and drove that one home And uh funny funniest sight And da- you kind of outgrow that real quick --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- when its your only car",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Well I - you know its funny Most people that Ive talked to did stuff like that when they were in college",
+                "label": "b^r"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "or you know or when they were single anyway",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Theyd theyd buy themselves sporty car because it was their last I never did that Uh you know my first car was Toyota Corolla",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "And uh because I got good deal on it -- -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh that was great little car Actually I met - thats how I met girls was Id find out if girl could drive manual transmission which I I had never - I Id learned on an automatic transmission",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And so so Id go out on dates where they would teach me how to drive this car",
+                "label": "+"
+            },
+            {
+                "text": "Boy thats good deal",
+                "label": "sv"
+            },
+            {
+                "text": "And uh in fact I married one of those people",
+                "label": "sd"
+            },
+            {
+                "text": "Ah okay Well Ill have to remember that if I ever get in --",
+                "label": "b"
+            },
+            {
+                "text": "And it worked",
+                "label": "sd"
+            },
+            {
+                "text": "-- that situation again",
+                "label": "+"
+            },
+            {
+                "text": "Yeah it worked all right real good",
+                "label": "b"
+            },
+            {
+                "text": "Huh Because I I know weve uh - thats thats something that that we definitely have to go with is an automatic transmission My uh my wife just does- cant cant uh - she really doesnt want to learn I guess",
+                "label": "b"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "the uh the standard shift I fact I I remember once we uh we uh went uh went on uh test drive We got one of these things from Lee Iacocca that said you know Ill give you fifty dollar savings bond if youll --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^r"
+            },
+            {
+                "text": "-- test drive car",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^r"
+            },
+            {
+                "text": "And we went uh we went uh we went to dealership and uh it it was prev- she she did pretty well But it was one of those things where we just went to big parking lot --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^r"
+            },
+            {
+                "text": "-- and the uh dealer kind of gave her standard shift parking because that was all it was It was it was the funniest thing it was like uh big Le Baron it was Le Baron with everything on it",
+                "label": "sd"
+            },
+            {
+                "text": "Wow",
+                "label": "ba"
+            },
+            {
+                "text": "but it had standard shift It was the --",
+                "label": "sd"
+            },
+            {
+                "text": "Thats weird",
+                "label": "ba"
+            },
+            {
+                "text": "-- craziest thing I ever saw",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And and and thats probably why they were trying to sell them I guess",
+                "label": "sv"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh we just kind of went back and forth and back and forth She did pretty well after while",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But uh its just kind of hard to learn I guess",
+                "label": "sv"
+            },
+            {
+                "text": "Well my wife - I mean shed always driven standard transmission",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh and - in fact all our earlier cars were standard transmission In fact the minivans has stick shift",
+                "label": "%"
+            },
+            {
+                "text": "Um okay",
+                "label": "b"
+            },
+            {
+                "text": "And in - this Dodge Aries is the first car weve ever gotten that had anything You know its got automatic transmission cruise control",
+                "label": "%"
+            },
+            {
+                "text": "Oh geez",
+                "label": "ba"
+            },
+            {
+                "text": "you know electric locks You know its like its like luxury car except that its the Dodge Aries",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "you know",
+                "label": "+"
+            },
+            {
+                "text": "yeah",
+                "label": "b^r"
+            },
+            {
+                "text": "So uh -",
+                "label": "%"
+            },
+            {
+                "text": "Oh well Well I guess thats I guess thats about all Ive got to say about cars",
+                "label": "b"
+            },
+            {
+                "text": "Well you um - the the thing about this uh th- - I will say this about the minivan",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "We thought that was luxury car when we bought it",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh I would think so yeah",
+                "label": "aa"
+            },
+            {
+                "text": "It it -",
+                "label": "%"
+            },
+            {
+                "text": "because its so big",
+                "label": "bf"
+            },
+            {
+                "text": "Yeah And and it was quiet it had stereo system",
+                "label": "aa"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "We never had it you know we always had the radio",
+                "label": "sd"
+            },
+            {
+                "text": "Sure sure",
+                "label": "b"
+            },
+            {
+                "text": "And uh of course this has this that had - speakers that you can control from the back seat",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And you can change the channels on the on the radio from the back seat too",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "And put - speaker phones in it So -",
+                "label": "sd"
+            },
+            {
+                "text": "Now now now that used to be luxury but I bet on the next time you buy car thats going to be mandatory",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "aa"
+            },
+            {
+                "text": "Youve got to have that now",
+                "label": "sv"
+            },
+            {
+                "text": "Thats right Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "Youre used to it and you got to have it",
+                "label": "sv"
+            },
+            {
+                "text": "And youve got to pay for it too",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Thats true too",
+                "label": "aa"
+            },
+            {
+                "text": "And I bet and I bet it costs twice as much as as when --",
+                "label": "sv"
+            },
+            {
+                "text": "It",
+                "label": "aa"
+            },
+            {
+                "text": "-- I bought mine",
+                "label": "+"
+            },
+            {
+                "text": "It probably does it probably does But uh -",
+                "label": "+"
+            },
+            {
+                "text": "We -",
+                "label": "%"
+            },
+            {
+                "text": "Oh well Well Bill its been nice talking to you",
+                "label": "b"
+            },
+            {
+                "text": "Nice talking to you",
+                "label": "fc"
+            },
+            {
+                "text": "Okay you have good evening",
+                "label": "fc"
+            },
+            {
+                "text": "Thanks lot",
+                "label": "ft"
+            },
+            {
+                "text": "Um Bye-bye",
+                "label": "fc"
+            },
+            {
+                "text": "Bye-bye Clanking talking",
+                "label": "fc"
+            }
+        ]
+    }
+]

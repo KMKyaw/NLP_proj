@@ -1,0 +1,463 @@
+[
+    {
+        "conversation_id": "conv_2467",
+        "turns": [
+            {
+                "text": "So uh describe your family budget",
+                "label": "ad"
+            },
+            {
+                "text": "Well Ive uh for lot of years I Ive pretty much flied without one and uh just recently uh we we set up budget and and were trying to stick to it We just bought new house So weve got everything you know pretty much we know what our uh our fixed expenses are per month and then weve got some ones that are variable that pretty much stay within certain range and then uh then theres the ones that you never know anything about and thats thats the food budget",
+                "label": "sd"
+            },
+            {
+                "text": "Well yeah and to some extent utilities I imagine",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah well the utilities are pretty much - you can pretty much figure what theyre going to be and one of the nice things here is the electric company has plan where theyll average them out for you",
+                "label": "+@"
+            },
+            {
+                "text": "They have that to some extent here but its not quite as good",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh transportation expenses I guess you own car",
+                "label": "sd"
+            },
+            {
+                "text": "Yes sir",
+                "label": "ny"
+            },
+            {
+                "text": "And you know how much youre going to drive every week",
+                "label": "qy"
+            },
+            {
+                "text": "Well I used to um I used to know uh fairly close to exactly how many miles I drove because I I was very convenient I lived uh nine tenths of mile from work",
+                "label": "no"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "So so it was you know two miles day to and from work So it kind of cut my transportation costs lot But now Ive just bought new house and Im half hour and so my transportation costs have gone up by uh five times",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I understand that We we have real similar situation Ours uh have quintupled at least So there is real family budget",
+                "label": "b"
+            },
+            {
+                "text": "Yeah pretty much um The problem is there never seems to be enough money I have three children and it seems like the more money you make the more money you have the more things that they seem to need and uh of course nothing ever goes down I mean uh I remember - I have five children total I have three left in the house",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And I can remember years ago when school would start and Id go buy all five kids you know shoes and I could get out of the out of the shoe store without spending more than thirty-five dollars Nowadays thirty-five dollars buys about one pair of shoes --",
+                "label": "sd"
+            },
+            {
+                "text": "If youre lucky",
+                "label": "sv"
+            },
+            {
+                "text": "-- yeah so I mean things have just really gone out of sight in the last uh I guess about the last ten years",
+                "label": "aa"
+            },
+            {
+                "text": "Exempt or nonexempt",
+                "label": "qr"
+            },
+            {
+                "text": "Im exempt",
+                "label": "sd"
+            },
+            {
+                "text": "Wow must be nice Part of the high price spread Uh no well we dont we do but we dont have family budget We have the fixed things we have to pay",
+                "label": "ba"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And we have the things that are extras But it seems that by and large the extras just dont exist",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And well you know the auto budget car payment sucks hell of lot of it dry",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And insurance is insurance bad there",
+                "label": "sv"
+            },
+            {
+                "text": "Um Ive got uh two older cars There both - ones seventy-seven and ones seventy-eight",
+                "label": "sd"
+            },
+            {
+                "text": "Well weve got one eighty-nine",
+                "label": "sd"
+            },
+            {
+                "text": "And my insurance is about it was running about four hundred dollars year But when I moved to the new town I live in - because its different county which has less crime and uh less you know less highways and so its cheaper place to live as far as the insurance companys concerned so my my I think my insurance dropped about sixty dollars year",
+                "label": "sd"
+            },
+            {
+                "text": "Wow Thats not bad four hundred and something year Thats thats -",
+                "label": "ba"
+            },
+            {
+                "text": "Its actually three hundred and forty for each one of the cars",
+                "label": "ar"
+            },
+            {
+                "text": "Thats cheaper than we pay",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I was down in Texas for two years and I was paying unbelievable rates for both car insurance and for home insurance Um",
+                "label": "b"
+            },
+            {
+                "text": "Well here in Colorado its even worse because we have no fault",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Do you have that there",
+                "label": "qy"
+            },
+            {
+                "text": "they have no fault in Maryland also",
+                "label": "sd"
+            },
+            {
+                "text": "Well no faults rather funny in Colorado because it seems that everyone pays all the time --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- instead of just the guilty party pays",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh Yeah Its kind of its kind of strange here the way things go Uh here if you have an accident and no ones injured the police wont even show up",
+                "label": "b"
+            },
+            {
+                "text": "Youre kidding",
+                "label": "bh"
+            },
+            {
+                "text": "Nope They say if nobodys injured you all exchange names and take it up with your insurance company",
+                "label": "nn"
+            },
+            {
+                "text": "God",
+                "label": "ba"
+            },
+            {
+                "text": "Well if you - I dont know how familiar you are with Maryland but uh -",
+                "label": "%"
+            },
+            {
+                "text": "Not at all",
+                "label": "sd"
+            },
+            {
+                "text": "especially the center part of Maryland where I Ninety-Five runs through it is really heavily populated Theres just so many people and so many accidents every single day that itd take whole another police force just to answer the traffic",
+                "label": "sd"
+            },
+            {
+                "text": "They dont even try to keep up with it",
+                "label": "qy^d"
+            },
+            {
+                "text": "No",
+                "label": "nn"
+            },
+            {
+                "text": "God",
+                "label": "ba"
+            },
+            {
+                "text": "Not bit",
+                "label": "sd^e"
+            },
+            {
+                "text": "So you lived in Texas for while",
+                "label": "qy"
+            },
+            {
+                "text": "Yes sir",
+                "label": "ny"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "I spent uh couple of years down there Moved down there in eighty-seven and moved out in eighty-nine",
+                "label": "sd"
+            },
+            {
+                "text": "Are where you from originally",
+                "label": "qw"
+            },
+            {
+                "text": "Uh right here in Maryland",
+                "label": "sd"
+            },
+            {
+                "text": "Huh so you just basically went home when you had chance",
+                "label": "b"
+            },
+            {
+                "text": "Yeah my family uh didnt like Texas and I had chance to uh transfer up I bought company about seven months after I moved to Texas right here in",
+                "label": "aa"
+            },
+            {
+                "text": "Thats nice",
+                "label": "ba"
+            },
+            {
+                "text": "So I got an opportunity to transfer back and I took it",
+                "label": "sd"
+            },
+            {
+                "text": "God thats great Uh Im native Texan",
+                "label": "ba"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "West Texan",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "There is difference",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah believe me I know there is I lived in Plano and I dont know if youre familiar with Plano --",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "-- but Plano maybe five percent of the Plano actually were from Texas Everybody else was an import",
+                "label": "sd"
+            },
+            {
+                "text": "Well Im West Texan",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Lubbock Midland Odessa --",
+                "label": "sd"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "-- Amarillo Dumas Panhandle",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "different world from down there",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So uh Colorados been fun But they have real problem Next to every window the state seems to have put up turnstile And every time you look at look at the mountains --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- or think about looking at the mountains you got to throw in dollar Or so it seems I may just be paranoid but that state income tax is just eating me alive",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah they have state income tax in Maryland But I noticed when I was in the in the in Texas they didnt have state income tax but they sure nailed you on those darn county taxes and",
+                "label": "b"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "aa"
+            },
+            {
+                "text": "school taxes and property taxes",
+                "label": "+"
+            },
+            {
+                "text": "Property taxes and -",
+                "label": "aa^m"
+            },
+            {
+                "text": "Oh my God ate you alive",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah well Colorado ins- you know they have the state income tax but then they also have property taxes and they also have sales taxes and they just get you every direction they can",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And I just dont know sir but it seems like they trying to get you every which way",
+                "label": "h"
+            },
+            {
+                "text": "Yeah it sure does Um theres uh some good books that Ive read um that you might be interested in Uh --",
+                "label": "aa"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "bh"
+            },
+            {
+                "text": "-- Charles Gibbons is the guy who runs some ads on light night and hes got seminars you can go to and they try to hook you into his organization which costs about four hundred bucks But hes got couple of books out One of them is called uh WEALTH WITHOUT RISK",
+                "label": "sd"
+            },
+            {
+                "text": "Ive heard of the book",
+                "label": "sd"
+            },
+            {
+                "text": "Yes its very good book Its tells you how to cut money on your taxes and on your insurance and then --",
+                "label": "b"
+            },
+            {
+                "text": "Legally",
+                "label": "qy"
+            },
+            {
+                "text": "-- what to do with the money that you save",
+                "label": "+"
+            },
+            {
+                "text": "Legally",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yes yes",
+                "label": "ny"
+            },
+            {
+                "text": "cut money on your taxes Huh",
+                "label": "+"
+            },
+            {
+                "text": "legally legally cut money on your taxes and on your insurance and then he tells you how to invest that money in order to uh you know be wealthier Uh he also has new book out that I purchased right before I moved and havent had chance to crack it open yet Um FINANCIAL SELF DEFENSE is the name of it Uh the man uh has lot of good ideas some of them I already knew about some of them I had already practiced But I suggest it to anyone who wants to be better off financially to read it because uh -",
+                "label": "sd"
+            },
+            {
+                "text": "And that includes everyone at I",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yes Im one of the ones that had my salary frozen for ninety-one Yes",
+                "label": "ny"
+            },
+            {
+                "text": "Well even the you know the nonexempts technically yet we havent had our salary frozen yet",
+                "label": "sd"
+            },
+            {
+                "text": "Yet",
+                "label": "b^m"
+            },
+            {
+                "text": "But when youre only at living wage it doesnt matter You know survival is funny state",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah I know what you mean I uh when I was in Dallas I was supervisor and I had four non exempts um under me",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And uh I was appalled at what how they were paying them I just couldnt believe it",
+                "label": "sd"
+            },
+            {
+                "text": "Did well Ive been with the company for sixteen years now I was for several years and it just - never seems to improve It and it doesnt seem to get much better for the exempts either unless youre twenty-eight or above",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Its really shame",
+                "label": "sv"
+            },
+            {
+                "text": "Well I Ive this company that they bought they ended up buying very high payroll",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "And uh the you know I thought I was making good wage",
+                "label": "sd"
+            }
+        ]
+    }
+]

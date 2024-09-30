@@ -1,0 +1,591 @@
+[
+    {
+        "conversation_id": "conv_2917",
+        "turns": [
+            {
+                "text": "Hi what do you do with your credit cards",
+                "label": "fp"
+            },
+            {
+                "text": "Oh Well my husband and I have gotten into some some problems with credit cards We dont handle them very well We we tend to run them up to the maximum and then ask for more",
+                "label": "b"
+            },
+            {
+                "text": "Oh jeez",
+                "label": "ba"
+            },
+            {
+                "text": "They theyre theyre really bad for us Um matter of fact weve gotten rid of all of our credit cards except for MasterCard and Visa and we pretty much keep those maxed out",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I was going to say that that sounds like like pretty many But I see what you meant you had them for each of the individual stores",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah we had cre- I had probably twenty credit cards --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- for - I had I had an American Express American Express Gold an Optima all the different department stores um two Visas two MasterCards",
+                "label": "+"
+            },
+            {
+                "text": "Oh gee",
+                "label": "ba"
+            },
+            {
+                "text": "I mean I had - any time anybody would you know send me an application you know preapproved or whatever I went I took it and it really ended up getting us in some real serious trouble",
+                "label": "sd"
+            },
+            {
+                "text": "Oh sure",
+                "label": "aa"
+            },
+            {
+                "text": "Um because see the more credit cards you have the more people offer them to you",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "aa"
+            },
+            {
+                "text": "And the more you use them the more they send them to you",
+                "label": "sv"
+            },
+            {
+                "text": "But each of these had an annual fee also right",
+                "label": "qy^g"
+            },
+            {
+                "text": "Exactly The American Express was probably the worst um because with the Gold card - I cant remember how much it was because I didnt even have it very long before I gave it up --",
+                "label": "na"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but I know the Green card was like thirty-five forty- five dollars year",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah forty five Right uh I -",
+                "label": "b"
+            },
+            {
+                "text": "Which was lot because I mean you had to pay it in full every month",
+                "label": "sv"
+            },
+            {
+                "text": "Exactly you know I thats it I really resented the fact that they were charging me for cards so I sent back all of mine except the ones that were free",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And um then then I also limited it to one of each one MasterCard and one Visa and here most of the stores will accept those and actually I then got Discover card since they pay you back",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh yeah I had Discover and that was one of the ones in the group that I ended up um closing Um it really wasnt my choice though I mean I ended up having I ended up actually losing my credit cards",
+                "label": "b"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Um I ended up going through credit counseling service --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- um because my husband and I just dont handle credit very well --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and um when when you do that they automatically once you start with their service they close your accounts out",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I see",
+                "label": "b"
+            },
+            {
+                "text": "So Im still paying on all these accounts but my accounts are closed",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So and I would prefer to keep it that way Once we once were paid off --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- um I would prefer just to have one MasterCard and one Visa and thats it",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah Actually I pay off my cards every month Only once in my life have I not paid",
+                "label": "b"
+            },
+            {
+                "text": "I think thats really good way to handle it because that way if you if you paid off every month you never have to worry about well how much do I have to pay these guys you know this month you know This you buy what you can afford I mean --",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- if you handle it just like you would like check or cash --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "aa"
+            },
+            {
+                "text": "-- its lot easier to keep it in check",
+                "label": "+"
+            },
+            {
+                "text": "Well and also in sense theyre giving you loan for month so that --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- you know if I were smarter I would have that same amount in savings and get the interest which I dont --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- do but but yeah the the thought of adding you know percent to to the price of what I buy",
+                "label": "+"
+            },
+            {
+                "text": "Yeah and I",
+                "label": "b"
+            },
+            {
+                "text": "I just I cant accept",
+                "label": "+"
+            },
+            {
+                "text": "and I think at this at this point in time with the economy the way it is I think that um its going to get even worse Um Im Im glad that were starting to pay our debts off now um you know we only we started this last year --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and we probably still have about another year to go --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- before were completely out of the hole But I think this they way the whole economy is going right now its just not good to be in debt",
+                "label": "+"
+            },
+            {
+                "text": "Thats right thats right Yeah yeah that I would that would be very scary feeling for me to know that I was you know juggling payments to different people --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- I guess because I never experienced it And its not because you know Im rich or anything its just mental concept that I have",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Yeah that I just -",
+                "label": "+"
+            },
+            {
+                "text": "Well when you when youre getting rid of the whole credit card cycle and if you really get into the mind set I got really good at juggling money and basically robbing Peter to pay Paul and it was scary because I was so good at it",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I thought this is not right I mean this has got to stop because eventually itd end up catching up at catching up with me and it hit me in the face",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Right right",
+                "label": "b"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "But it sounds like you know you you learned from it and youre coming out of it all right",
+                "label": "bf"
+            },
+            {
+                "text": "I yeah I have Ive learned lot from it",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Ive learned that credit cards are extremely dangerous in my hand --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and my husbands too because hes hes the same way I am",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I dont I dont think that - well when we buy on credit we just dont have concept of how much money were spending --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- until the bill comes in",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And then all of sudden you look at the bill and you go Oh my gosh I spent this much",
+                "label": "sv"
+            },
+            {
+                "text": "But now the fact that you still have two cards - are you do you use them more judiciously",
+                "label": "%"
+            },
+            {
+                "text": "Yeah we pretty much use them for emergency type things like transmission fell out on our car --",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and that paid for new transmission --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- um and and things like that Um and we try not to use them for --",
+                "label": "sd"
+            },
+            {
+                "text": "Purchases",
+                "label": "^2"
+            },
+            {
+                "text": "-- incidental type things like you know gas and stuff like that",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh uh-huh Clothing sales",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Sales I find are pain",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Ive Ive gotten Ive gotten lot more away from from credit cards and I pay by check lot more now",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh uh-huh Well it sounds good you know Like I said it sounds like youre youve really got it under control",
+                "label": "b"
+            },
+            {
+                "text": "I I admire you for having having that mind set for not not even getting you know past the thirty days I would thats ideally the where where I would like to be",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh Yeah and like I said once once it it happened I couldnt because my sons tuition came due and I guess I had you know not really counted on it quite at that point --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but um yeah I didnt like it at all I was very uncomfortable So -",
+                "label": "b"
+            },
+            {
+                "text": "I can imagine",
+                "label": "ba"
+            },
+            {
+                "text": "You know and and I mean it was I thought lot sixty dollars interest or something for for just couple of months and Im going --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- jeez thats outrageous but in in you know retrospect it wasnt all that much I mean lot of people pay lot more and --",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and you know but still I mean I figured I didnt need those items if it cost me sixty dollars more to have them",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh Think about what you can buy for sixty dollars",
+                "label": "b"
+            },
+            {
+                "text": "Exactly Groceries for week",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^m"
+            },
+            {
+                "text": "I I think about all all the money that that weve spent on interest --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- on all of our credit cards and its just incredible",
+                "label": "+"
+            },
+            {
+                "text": "But now did you use to not feel so badly because you could take it off your income tax",
+                "label": "qy"
+            },
+            {
+                "text": "Weve never been able to take it off our income tax Im Im fairly newly married Ive only been married less than two years --",
+                "label": "nd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and before that I never owned home or anything so I never had any deductions",
+                "label": "sd"
+            },
+            {
+                "text": "Right right",
+                "label": "b"
+            },
+            {
+                "text": "So really it was always just money --",
+                "label": "sd"
+            },
+            {
+                "text": "Thrown away",
+                "label": "^2"
+            },
+            {
+                "text": "-- thrown away",
+                "label": "+"
+            },
+            {
+                "text": "Yeah jeez",
+                "label": "b"
+            },
+            {
+                "text": "And I never really thought about it because -",
+                "label": "sd"
+            },
+            {
+                "text": "You were good at it",
+                "label": "bf"
+            },
+            {
+                "text": "Yeah I was so good at it that it just kind of got stuck in the back of my mind and just never --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- um became real problem until all of sudden it came an insurmountable problem",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I suspect that you know thinking about it and looking at my friends and the number of credit cards that they use and you know the amount that I know they buy I guess probably lot of them are in similar situation and you know just dont talk about it",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Most most people dont like to talk about money They feel uncomfortable I think",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "aa"
+            },
+            {
+                "text": "You know",
+                "label": "sv"
+            },
+            {
+                "text": "very personal",
+                "label": "sv"
+            },
+            {
+                "text": "for lot of people it is very personal",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh yeah and especially if you if you dont feel youre handling it quite right --",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- or that somebody might make fun of you or that it would be -",
+                "label": "+"
+            },
+            {
+                "text": "But I think the the average American is probably pretty heavily in debt Not not including like mortgage mortgage is an understandable debt --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- because thats you have you have to have roof over your head",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And I would much rather own my own home than than be renting it like were doing I mean were basically you know kind of throwing seven hundred dollars month away",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "aa"
+            },
+            {
+                "text": "Were renting house",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But you know right now with the way our credit card situation is theres nobody in the world thats going to give us mortgage on house",
+                "label": "sd"
+            },
+            {
+                "text": "Right right But but once I suppose you you prove yourself by paying this off next year --",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- youll be in very good shape",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Its its going to its going to take quite while",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Hopefully within five years well be in our own home",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But um Im not really counting on it real soon",
+                "label": "sd"
+            }
+        ]
+    }
+]

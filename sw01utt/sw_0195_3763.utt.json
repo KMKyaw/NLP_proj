@@ -1,0 +1,267 @@
+[
+    {
+        "conversation_id": "conv_3763",
+        "turns": [
+            {
+                "text": "Are you there",
+                "label": "qy"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Okay now tell me your favorite team",
+                "label": "b"
+            },
+            {
+                "text": "Uh baseball",
+                "label": "qy"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "Well Ive been kind of been intrigued with the Rangers uh more so with uh uh their management than anything else I I dont follow baseball that that closely but uh you know since I live here so close to Arlington uh thats the team that Ive been kind of following",
+                "label": "sd"
+            },
+            {
+                "text": "Okay I think its little bit late in the season for them to assign us - where do you think theyre headed so well have to talk about the future --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- with the Rangers",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "aa"
+            },
+            {
+                "text": "What are your thinkings on what they can do what theyll be able to do",
+                "label": "qo"
+            },
+            {
+                "text": "Well I think that uh you know with uh so much controversy over Ruben Sierra not signing and asking us for so much money its um you know I think - Im not real sure about th- - do you know anything about Ruben Sierras uh",
+                "label": "sv"
+            },
+            {
+                "text": "Well I heard tonight on the news that he is willing to come down",
+                "label": "nd"
+            },
+            {
+                "text": "Yeah that",
+                "label": "b"
+            },
+            {
+                "text": "on his -",
+                "label": "+"
+            },
+            {
+                "text": "he was willing to come down little bit and",
+                "label": "+"
+            },
+            {
+                "text": "Yes",
+                "label": "aa"
+            },
+            {
+                "text": "uh if the Rangers will go up little bit I think this should end in slash Bs next turn seems to start with backchannel of A19",
+                "label": "+@"
+            },
+            {
+                "text": "And the Rangers go up little bit uh-huh",
+                "label": "b^m"
+            },
+            {
+                "text": "Yeah I think this should be an independent utt see note on B18 but little bit from three you know from thirty million dollars or thirty-five mil- - thats lot of money",
+                "label": "+@"
+            },
+            {
+                "text": "I think the entire baseball - yeah theyre the ones that probably are paying the highest",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah they are",
+                "label": "aa"
+            },
+            {
+                "text": "And I think this is absolutely ridiculous",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "No",
+                "label": "o"
+            },
+            {
+                "text": "And I really think I really think that uh that they ought to - Im not real sure that they should pay him that much money I think they should uh uh pay him what his salary is going to be uh and let him - because hes got one more year before he turns into free agent",
+                "label": "sv"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "And then uh who knows if he produces next year they may have to end up paying him anyway but if he doesnt then his market value will go down and they can pick him up for for lot less than than they would uh if they paid him the si- you know the six million dollars year this year",
+                "label": "qh"
+            },
+            {
+                "text": "What I saw on the news today that - Bu- Buechele was back just to visit",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Im awful sorry hes not still -",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah but you know what he - that was great deal for him",
+                "label": "aa"
+            },
+            {
+                "text": "Oh Im sure it was",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah it was great deal for him and and uh he just signed on uh I think it was like five year deal with uh --",
+                "label": "b"
+            },
+            {
+                "text": "Pittsburgh",
+                "label": "^2"
+            },
+            {
+                "text": "-- Pittsburgh",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So you know hes real happy there As far as the Rangers are concerned I think I think they need some definitely need some pitching",
+                "label": "sd"
+            },
+            {
+                "text": "Yes sir",
+                "label": "aa"
+            },
+            {
+                "text": "Uh and so I you know I -",
+                "label": "%"
+            },
+            {
+                "text": "Well what do you think of Howse who is the coach for the pitchers",
+                "label": "qo"
+            },
+            {
+                "text": "The pitching coach",
+                "label": "br^m"
+            },
+            {
+                "text": "Yes",
+                "label": "aa"
+            },
+            {
+                "text": "Well you know I was just looking at the news tonight and they showed black guy that was go- was helping out uh",
+                "label": "sd"
+            },
+            {
+                "text": "His assistant",
+                "label": "^2"
+            },
+            {
+                "text": "His assistant",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I think thats great addition I mean he seemed to know what he was doing and and uh -",
+                "label": "sv"
+            },
+            {
+                "text": "I really wish they could see fit to get rid of Howse",
+                "label": "sd"
+            },
+            {
+                "text": "Oh you dont like Howse huh",
+                "label": "qy^g"
+            },
+            {
+                "text": "No no I really dont And Im not going to stand up you know on my soapbox and say that but Im not fond of Howse and Im not fond of Grieves",
+                "label": "nn"
+            },
+            {
+                "text": "Oh Tom Grieve",
+                "label": "br^m"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah Im Im not sure that um that theyre ready to get rid of of uh Tom Grieve yet but Howse might be different uh situation and I think youre probably right that they that they need some you know some changes in uh pitching coach maybe and um -",
+                "label": "b"
+            },
+            {
+                "text": "Well Im just gullible enough that I think Bobby Valentine is um uh doing all right and Im sure -",
+                "label": "sd"
+            },
+            {
+                "text": "You do huh",
+                "label": "qy^g"
+            },
+            {
+                "text": "Well",
+                "label": "nd"
+            },
+            {
+                "text": "Thats contrary to uh popular belief you know",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I know I know so but I would like so much for these Rangers to get their act together and give um oh uh Nolan Ryan the support he needs",
+                "label": "aa"
+            },
+            {
+                "text": "Oh I know You know its too bad that uh it has to be forty-two year old guy to to lead the uh the Rangers you know",
+                "label": "aa"
+            },
+            {
+                "text": "I understand",
+                "label": "aa"
+            },
+            {
+                "text": "They need to have some some young guys that can take the lead and and - uh",
+                "label": "sv"
+            },
+            {
+                "text": "Well I just oh I have so many mixed emotions about all this",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "+"
+            },
+            {
+                "text": "But I think with their new stadium they should go and let -",
+                "label": "sv"
+            }
+        ]
+    }
+]

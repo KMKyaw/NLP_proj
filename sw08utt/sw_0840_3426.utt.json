@@ -1,0 +1,619 @@
+[
+    {
+        "conversation_id": "conv_3426",
+        "turns": [
+            {
+                "text": "All right I I like keep forgetting to make these calls Ive been on this list for two months",
+                "label": "o"
+            },
+            {
+                "text": "Oh really I just",
+                "label": "b"
+            },
+            {
+                "text": "I think Ive made four calls",
+                "label": "sd^t"
+            },
+            {
+                "text": "Oh I just got mine last week and I havent started yet because I wanted to get one first --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- see how it worked",
+                "label": "+"
+            },
+            {
+                "text": "Well there are some kind of nice prizes and its worth doing it I so mad I think Ive had this for two months and like Ive said Ive made four calls and lot of times we dont answer the phone probably when I get mine --",
+                "label": "sd^t"
+            },
+            {
+                "text": "Really",
+                "label": "b"
+            },
+            {
+                "text": "-- early in the evening",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Well were supposed to talk about movies Have you been to any lately",
+                "label": "ad^t"
+            },
+            {
+                "text": "I have I was trying to think of the one I went to couple of weeks ago but I forgot it already",
+                "label": "sd"
+            },
+            {
+                "text": "Uh I havent really seen one since probably August because uh every weekend in in the Fall we go to our high school football game on Friday --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- then we go out with friends after and thats kind of the --",
+                "label": "+"
+            },
+            {
+                "text": "Thats your weekend",
+                "label": "^2"
+            },
+            {
+                "text": "-- our social --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah --",
+                "label": "b"
+            },
+            {
+                "text": "-- for the -",
+                "label": "+"
+            },
+            {
+                "text": "-- really",
+                "label": "b"
+            },
+            {
+                "text": "But oh I saw uh ROBIN HOOD which I didnt care for",
+                "label": "sd"
+            },
+            {
+                "text": "Really I didnt see that because I didnt think I would care for it",
+                "label": "b"
+            },
+            {
+                "text": "No and my husband dragged me to it",
+                "label": "aa"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "I like I think Kevin Costners nice fellow and hes nice looking but he just to me is not very dynamic actor",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I think thats why lot of people go to see him though",
+                "label": "b"
+            },
+            {
+                "text": "I guess because he is good looking I dont know",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "I dont know Oh I saw CITY SLICKERS Did you see - that was -",
+                "label": "h"
+            },
+            {
+                "text": "Yes I did see that --",
+                "label": "ny"
+            },
+            {
+                "text": "Thats the last one I saw I think",
+                "label": "sd"
+            },
+            {
+                "text": "-- and I really enjoyed that",
+                "label": "sd"
+            },
+            {
+                "text": "I did too I thought that was so cute and",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah I thought that was appropriate just for everyone",
+                "label": "aa"
+            },
+            {
+                "text": "Oh I do too",
+                "label": "+@"
+            },
+            {
+                "text": "Yeah It was great",
+                "label": "aa"
+            },
+            {
+                "text": "Oh I I really enjoyed that",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah and my daughter went to see that one too So it was fine for her --",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- so yeah",
+                "label": "b"
+            },
+            {
+                "text": "Which most of them probably arent",
+                "label": "sv"
+            },
+            {
+                "text": "Right well thats right",
+                "label": "aa"
+            },
+            {
+                "text": "I dont know what my kids see any more My kids are twenty and sixteen so theyve probably seen about everything at this point",
+                "label": "sd"
+            },
+            {
+                "text": "Probably they have Well my daughter is twelve --",
+                "label": "aa"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- and we had sleep over one night They wanted to watch PRETTY WOMAN which I have --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and I was hesitant and they all had seen it anyway",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I know it",
+                "label": "ba"
+            },
+            {
+                "text": "all twelve - so -",
+                "label": "sd"
+            },
+            {
+                "text": "Thats the way it is We can see some pretty raunchy stuff on on just regular without cable or anything",
+                "label": "bd"
+            },
+            {
+                "text": "Yes they do --",
+                "label": "aa"
+            },
+            {
+                "text": "You know --",
+                "label": "+@"
+            },
+            {
+                "text": "-- yes they do",
+                "label": "aa^r"
+            },
+            {
+                "text": "-- theres no way to protect them any more",
+                "label": "sv"
+            },
+            {
+                "text": "Right but",
+                "label": "b"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "I I love Julia Roberts movies but I didnt think they were great for my daughter",
+                "label": "+@"
+            },
+            {
+                "text": "No itll teach great lesson because she ended --",
+                "label": "aa"
+            },
+            {
+                "text": "No",
+                "label": "aa"
+            },
+            {
+                "text": "-- up so in so -",
+                "label": "+"
+            },
+            {
+                "text": "Really really",
+                "label": "b"
+            },
+            {
+                "text": "But it was fun movie to watch",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I love PRETTY WOMAN and then I like that one after that where oh - what was it It was like FATAL ATTRACTION thing",
+                "label": "sd"
+            },
+            {
+                "text": "Oh the scary one",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Oh I didnt see that but the -",
+                "label": "sd"
+            },
+            {
+                "text": "I dont remember the name of it but that was so good",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really",
+                "label": "b"
+            },
+            {
+                "text": "That was really excellent",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I like scary ones that are realistic",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah that that was that was -",
+                "label": "b"
+            },
+            {
+                "text": "They say is really frightening too",
+                "label": "sv"
+            },
+            {
+                "text": "What was",
+                "label": "br"
+            },
+            {
+                "text": "the new one that came out",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I dont know",
+                "label": "h"
+            },
+            {
+                "text": "They say its really horrifyingly scary --",
+                "label": "sv"
+            },
+            {
+                "text": "Really",
+                "label": "b"
+            },
+            {
+                "text": "-- but uh Id never get my husband to that He doesnt like to be scared",
+                "label": "sd"
+            },
+            {
+                "text": "Oh The last scary thing I saw was MISERY",
+                "label": "b"
+            },
+            {
+                "text": "Oh and my kids both saw that They liked it",
+                "label": "sd"
+            },
+            {
+                "text": "That scared me to death and I watched it at friends house on video and I was just -",
+                "label": "sd"
+            },
+            {
+                "text": "And it was still scary",
+                "label": "^2@"
+            },
+            {
+                "text": "Oh yes",
+                "label": "aa"
+            },
+            {
+                "text": "Oh no Gosh",
+                "label": "+@"
+            },
+            {
+                "text": "It was horrible It was so awful",
+                "label": "sd"
+            },
+            {
+                "text": "Oh no that one sounded gross I know my husband wouldnt have stood for that",
+                "label": "ba"
+            },
+            {
+                "text": "Really",
+                "label": "b"
+            },
+            {
+                "text": "He he likes MARY POPPINS and things",
+                "label": "sd"
+            },
+            {
+                "text": "I like that too",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I like funny movies and I like scary movies",
+                "label": "sd"
+            },
+            {
+                "text": "I do too I I really like variety",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Where are you from",
+                "label": "qw"
+            },
+            {
+                "text": "Im from New York",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I was going to - - well my husbands from New Jersey and --",
+                "label": "sd"
+            },
+            {
+                "text": "Is he really",
+                "label": "b"
+            },
+            {
+                "text": "-- we lived there for five years when we first got married --",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- and so it sound kind of nice it was familiar your accent",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yes its so close Im from Long Island --",
+                "label": "b"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- so thats close you know thats --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- more related to New Jersey than it is to like Rochester New York those that kind of thing",
+                "label": "+"
+            },
+            {
+                "text": "I dont know up there",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah different its --",
+                "label": "b"
+            },
+            {
+                "text": "Just uh - different uh-huh",
+                "label": "%"
+            },
+            {
+                "text": "-- its different yeah I guess",
+                "label": "+"
+            },
+            {
+                "text": "Well see the accents up there fascinated me because even in his family alone there were several different accents --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- the way they would pronounce words differently",
+                "label": "+"
+            },
+            {
+                "text": "Really",
+                "label": "b"
+            },
+            {
+                "text": "And and his family they lived in the same house there most of them were twenty or so you know",
+                "label": "sd"
+            },
+            {
+                "text": "Really and they were all from New Jersey",
+                "label": "b"
+            },
+            {
+                "text": "Yeah --",
+                "label": "b"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "-- uh-huh and they lived you know - they never moved into apartments when they were young they always stayed at home until they got married it seemed to be the custom up there Or they went in the service and so they were together for all that time",
+                "label": "b"
+            },
+            {
+                "text": "Really",
+                "label": "b"
+            },
+            {
+                "text": "But they still - their accents differed little in the family --",
+                "label": "%"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "-- so and it -",
+                "label": "%"
+            },
+            {
+                "text": "When did you live there",
+                "label": "qw"
+            },
+            {
+                "text": "Uh in the sixties",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "I finally",
+                "label": "sd"
+            },
+            {
+                "text": "I was in New York in the sixties",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah I converted him to being Texan I I just thought life would be I knew it was easier back here",
+                "label": "b"
+            },
+            {
+                "text": "Are you from Texas",
+                "label": "qy"
+            },
+            {
+                "text": "Well sort of Im an Air Force brat but --",
+                "label": "na"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "bk"
+            },
+            {
+                "text": "-- I was real familiar with Texas I went to college here and everything",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "And I just thought you know we could probably get better house and life is little slower little easier",
+                "label": "sd"
+            },
+            {
+                "text": "It is it is yeah",
+                "label": "aa"
+            },
+            {
+                "text": "He loves it He he really would never want to leave so it worked out",
+                "label": "sd"
+            },
+            {
+                "text": "Im used to it now So I like -",
+                "label": "sd"
+            },
+            {
+                "text": "Not hard when you first came",
+                "label": "qy^d"
+            },
+            {
+                "text": "Um",
+                "label": "br"
+            },
+            {
+                "text": "Was it hard when you first came",
+                "label": "qy^r"
+            },
+            {
+                "text": "Oh yes it was Because were here eighteen years --",
+                "label": "ny"
+            },
+            {
+                "text": "Oh my",
+                "label": "ba"
+            },
+            {
+                "text": "-- and you can imagine what Plano was like eighteen years ago",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I know",
+                "label": "ba"
+            },
+            {
+                "text": "It was very difficult",
+                "label": "sd"
+            },
+            {
+                "text": "Oh compared to New York oh yes",
+                "label": "^2"
+            },
+            {
+                "text": "Yeah it was very very difficult I didnt even want to talk",
+                "label": "b"
+            },
+            {
+                "text": "Were you all transferred",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah --",
+                "label": "ny"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "-- yeah",
+                "label": "b"
+            },
+            {
+                "text": "I have friend down the streets from New Jersey and they were - he got -",
+                "label": "sd"
+            }
+        ]
+    }
+]

@@ -1,0 +1,339 @@
+[
+    {
+        "conversation_id": "conv_3223",
+        "turns": [
+            {
+                "text": "Well I almost forgot the topic I was waiting so long for uh for it to find somebody Um",
+                "label": "sd^t"
+            },
+            {
+                "text": "Its on your favorite shows and why",
+                "label": "sd^t"
+            },
+            {
+                "text": "Right well so what is your favorite show",
+                "label": "aa"
+            },
+            {
+                "text": "Uh MAJOR DAD",
+                "label": "sd"
+            },
+            {
+                "text": "Oh you like that one",
+                "label": "qy"
+            },
+            {
+                "text": "I I love it I think it promotes good family values and its funny",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Uh Ive never really watched that one You know its funny how you can just get in mode where you only watch certain shows --",
+                "label": "b"
+            },
+            {
+                "text": "Thats ri- - yeah",
+                "label": "aa"
+            },
+            {
+                "text": "-- and uh you know theres so theres only few that I that I like to watch routinely",
+                "label": "sd"
+            },
+            {
+                "text": "What kind do you like to watch",
+                "label": "qw"
+            },
+            {
+                "text": "Probably my favorite is um oh - well I like shows like GROWING PAINS and uh whats the other one now they moved from Tuesday night to Wednesday night so I dont get to watch it very much",
+                "label": "%"
+            },
+            {
+                "text": "WONDER YEARS",
+                "label": "qy"
+            },
+            {
+                "text": "WONDER YEARS yeah thats my favorite Uh",
+                "label": "b^m"
+            },
+            {
+                "text": "I like both of those real much also I I think basically they pr- same thing they promote family values",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah WONDER YEARS I I guess that is supposed to be put out at time when I was growing up or whatever I guess I can really relate to it and uh its just real cute show Uh I I guess I like the shows that really have real sense of uh I dont know honesty or sort of purity value I guess",
+                "label": "b"
+            },
+            {
+                "text": "I do too I I dont like it uh lot of the shows that that Ive liked in the past like uh oh GOLDEN GIRLS and some of them tend to get so risque and when you --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- have children --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- uh watching it that sometimes really starts to bother me --",
+                "label": "+"
+            },
+            {
+                "text": "Right right",
+                "label": "aa"
+            },
+            {
+                "text": "-- and uh thats one of the reasons I mean if you want to go all time favorite show probably one of them was LITTLE HOUSE ON THE PRAIRIE --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh yeah my wife really likes that show",
+                "label": "b"
+            },
+            {
+                "text": "-- yeah which I just I was I always felt was wonderful --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh and so many of them nowadays like I said I think are just um -- -",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- uh they they go after well - they - like I said the risque stuff just I guess they think thats what people want to watch",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah well there was - but theres sense of ho- I guess purity in the show like one of my favorite shows used to be HAPPY DAYS --",
+                "label": "b"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "-- but uh you know Richie always used to be so you know just so honest and pure --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- I guess and when he left the show you know that it seemed to be missing that part of it --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and I never did like it after that --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- so I dont know I I say see the same thing in like WONDER YEARS and lot of the shows that I like to watch There always seems to be that kind of value in there somewhere",
+                "label": "h"
+            },
+            {
+                "text": "Yeah I I agree Uh do you like the sports programming",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Um I I enjoy those also almost as as much to certain extent Im - our whole house is baseball fans --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh we enjoy that and uh -- -",
+                "label": "sd"
+            },
+            {
+                "text": "So youre going to watch game tonight",
+                "label": "qy"
+            },
+            {
+                "text": "-- oh yeah oh yeah",
+                "label": "ny"
+            },
+            {
+                "text": "So do you do you have favorite for the series or anything",
+                "label": "qy"
+            },
+            {
+                "text": "Uh probably the Pirates but only because of Steve Bushel I guess --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- otherwise I really dont care that much but uh you know Im Im annoyed that the Rangers got rid of him and uh Id like to see him do well like all the way to the bank --",
+                "label": "sd"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "-- I guess",
+                "label": "+"
+            },
+            {
+                "text": "Yeah hes nice guy",
+                "label": "aa"
+            },
+            {
+                "text": "slash error",
+                "label": "x@"
+            },
+            {
+                "text": "I take it you live in the Dallas area",
+                "label": "qy^d"
+            },
+            {
+                "text": "Pardon slash error should be br",
+                "label": "+@"
+            },
+            {
+                "text": "Do you live in the Dallas area",
+                "label": "qy"
+            },
+            {
+                "text": "Live in live in Plano",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh yeah I live in Garland and yeah I I like Steve Bushel but I dont really like the Pirates Im big Saint Louis Cardinals fan --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- so uh Im kind of Im kind of pulling for the Braves over all they you know they --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- theyve come from so far down I really would like to see them do well",
+                "label": "+"
+            },
+            {
+                "text": "Well yeah yeah its uh - so I keep hoping the Rangers are going to do",
+                "label": "b"
+            },
+            {
+                "text": "Yeah one one year they - maybe theyll make it I dont know --",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- so but uh yeah I like sports programming quite bit but uh I guess my my favorite shows are the - and you know that getting back to the point that you made thats really true we were watching ROSEANNE I guess couple of weeks ago and her daughter was talking about birth control you know --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and my daughter was kind of walking in during that time and you know shes only seven years old so -",
+                "label": "sd"
+            },
+            {
+                "text": "Well its - so many of them now um you know it just seems like they feel like they have to stick that stuff in and --",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh you know Im you know Im Im an adult --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and I have adult tastes now but I dont need that --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- uh I I like things that uh are are wholesome I guess",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah well that that seems to be more our values too like the WONDER YEARS I I mean its kind of risque stuff for maybe for teenagers you know or and you can kind of relate to it --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know I dont know thats - I enjoy that lot --",
+                "label": "+"
+            },
+            {
+                "text": "Yes yes",
+                "label": "b"
+            },
+            {
+                "text": "-- but uh you know I agree with you the - and its funny because the shows - like lot of them that used to be considered risque like THREES COMPANY and stuff I think they they maintained - people would watch them because - there was that uh you know there was really the period that was going on there - I mean he really wasnt messing around with the girls but everybody perceived him that way and stuff --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but as soon as you know he went to move in with another girl the show just died --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and its its interesting that lot of the shows are that way",
+                "label": "sv"
+            }
+        ]
+    }
+]

@@ -1,0 +1,835 @@
+[
+    {
+        "conversation_id": "conv_2756",
+        "turns": [
+            {
+                "text": "And uh what part of Virginia uh",
+                "label": "qw"
+            },
+            {
+                "text": "Uh I live down in the south western part of Blacksburg",
+                "label": "sd"
+            },
+            {
+                "text": "Blacksburg Okay Ive been -",
+                "label": "b^m"
+            },
+            {
+                "text": "uh-huh have you ever heard of Virginia Tech",
+                "label": "b"
+            },
+            {
+                "text": "Sounds vaguely familiar",
+                "label": "na"
+            },
+            {
+                "text": "I",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah okay",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah okay",
+                "label": "b"
+            },
+            {
+                "text": "I I hadnt been down in that part of the state really",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Okay Well we vacation lot How about you Quite frequently -",
+                "label": "b"
+            },
+            {
+                "text": "Uh I wish we did",
+                "label": "sd"
+            },
+            {
+                "text": "Well we retired early --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay",
+                "label": "b"
+            },
+            {
+                "text": "-- so were we take trips pretty often",
+                "label": "sd"
+            },
+            {
+                "text": "Where all you guys go",
+                "label": "qw"
+            },
+            {
+                "text": "Well we go to Maine every Fall --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- then thats kind of family visit and vacation all up and down the coast --",
+                "label": "sd"
+            },
+            {
+                "text": "Uh-uh",
+                "label": "b"
+            },
+            {
+                "text": "-- and I have daughter in Texas and one in New Mexico so we go out there and we go to Florida --",
+                "label": "sd"
+            },
+            {
+                "text": "Uh",
+                "label": "b"
+            },
+            {
+                "text": "-- and down oh - we were just out recently at the outer banks of North Carolina",
+                "label": "%"
+            },
+            {
+                "text": "All these places that Ive never been",
+                "label": "sd"
+            },
+            {
+                "text": "Is that right Where do you go",
+                "label": "qh"
+            },
+            {
+                "text": "Uh --",
+                "label": "%"
+            },
+            {
+                "text": "What type of vacation",
+                "label": "qw"
+            },
+            {
+                "text": "-- well it really depends I mean uh seems like I do lot in the Midwest lately uh my uh fiancees familys from Wisconsin --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and so weve been out there couple of times and uh I uh went to Purdue for couple of years so Ive gone up to Indianapolis on occasion to visit friends --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh uh Im real big baseball fan so I usually try to combine it with uh catching couple of games somewhere",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh What club do you follow",
+                "label": "b"
+            },
+            {
+                "text": "Im uh Im big Red Sox fan",
+                "label": "sd"
+            },
+            {
+                "text": "Red - - good",
+                "label": "%"
+            },
+            {
+                "text": "but uh I uh -",
+                "label": "%"
+            },
+            {
+                "text": "me too",
+                "label": "sd"
+            },
+            {
+                "text": "uh youre Red Sox fan too",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "I usually try to catch whoevers in town though I dont specifically - I you know go to Cleveland to see them play",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "the Indians or the Red Sox uh uh thats about it we dont I mean we do lot of little trips around here uh and uh -",
+                "label": "+"
+            },
+            {
+                "text": "Ever go up in Pennsylvania in the mountains or -",
+                "label": "qy"
+            },
+            {
+                "text": "Not that much Weve gone out to um uh place in western Pennsylvania called Falling Water",
+                "label": "ng"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Uh have you ever heard of it",
+                "label": "qy"
+            },
+            {
+                "text": "Ive heard of it Ive never been there",
+                "label": "na"
+            },
+            {
+                "text": "Yeah its its really neat Its this house built on on waterfall and its uh really cool",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Um of course we keep picking crummy weather to go out there uh the first time we went out there was uh the day after hurricane Hugo had come through",
+                "label": "sd"
+            },
+            {
+                "text": "Gee",
+                "label": "ba"
+            },
+            {
+                "text": "So I mean they they didnt have any power and it was really cold and and rainy and uh we went up about year later and it was better but not whole",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "lot better So uh where else did we go uh weve gone to Richland last year --",
+                "label": "+"
+            },
+            {
+                "text": "Oh did you",
+                "label": "qh"
+            },
+            {
+                "text": "-- and uh had good time",
+                "label": "+"
+            },
+            {
+                "text": "Did you go",
+                "label": "qy"
+            },
+            {
+                "text": "down there",
+                "label": "+"
+            },
+            {
+                "text": "to Williamsburg have you been down there",
+                "label": "+"
+            },
+            {
+                "text": "Uh my girlfriend has with her sisters but I havent been",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "down there Uh I hear thats nice Were going to get down probably down Norfork sometime this Summer",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "just to see why catch football game actually",
+                "label": "+"
+            },
+            {
+                "text": "We were down - well when we came back from the outer banks we came up due Norfork and spent the night there with friend in Portsmith and then went to Williamsburg and spent night",
+                "label": "sd"
+            },
+            {
+                "text": "Uh spend day and lot of money",
+                "label": "^2"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah Ive heard uh - Im not real interested in Williamsburg because of the of the price attached",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "to it We just - we - I -",
+                "label": "+"
+            },
+            {
+                "text": "But its pretty neat down to just go and walk around if you like to walk its good town to just",
+                "label": "sd"
+            },
+            {
+                "text": "Uh",
+                "label": "%"
+            },
+            {
+                "text": "walk in",
+                "label": "+"
+            },
+            {
+                "text": "Uh yeah well",
+                "label": "b"
+            },
+            {
+                "text": "You can go",
+                "label": "sd"
+            },
+            {
+                "text": "do that",
+                "label": "+"
+            },
+            {
+                "text": "to the buildings and not go in if youre not -",
+                "label": "+"
+            },
+            {
+                "text": "Oh okay so I can wander around without -",
+                "label": "b"
+            },
+            {
+                "text": "Yeah you can wander its good town to wander in",
+                "label": "ny"
+            },
+            {
+                "text": "Oh okay I just have it pay somebody to get into the buildings",
+                "label": "bk"
+            },
+            {
+                "text": "Thats right",
+                "label": "ba"
+            },
+            {
+                "text": "Oh okay I didnt know that Yeah I think uh they do the whole with you know paying",
+                "label": "bk"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "they really did throw away lot of money to get getting one thing or another",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "but they had good time so -",
+                "label": "sd"
+            },
+            {
+                "text": "We really didnt do that really this time we just uh visited around",
+                "label": "sd"
+            },
+            {
+                "text": "Uh uh",
+                "label": "%"
+            },
+            {
+                "text": "Weve done it couple of times and thats enough for uh probably another twenty years",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I was uh - we use it live in California and uh my um - up up around San Francisco - and uh there was one year when my father was uh my fathers company was starting to do stuff down in Los Angeles so my father was working down in Los Angeles for like uh six months or so uh actually I think it was closer I think to full year and you know wed hed fly down there on Mondays and fly back on Fridays well any time we had school vacation or something like that we went down to Los Angeles so I saw I went to Disneyland about five times",
+                "label": "b"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "in one year and I really have no great urge to go back now",
+                "label": "+"
+            },
+            {
+                "text": "Thats great as kid though isnt it I mean",
+                "label": "qy^g"
+            },
+            {
+                "text": "Oh it was great because uh well the times that were really fun were when uh we had vacation but the kids in Los Angeles didnt --",
+                "label": "na"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- so we basically had one of the parks",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Uh Disneyland I mean theres still lot of people at Disneyland but there was another um another amusement park down there Busch Gradens uh there was nobody there when we were there we got we won log floating ride like five straight times we just get get done with them and they go oh do you want to go again sure",
+                "label": "sd"
+            },
+            {
+                "text": "Have you ever - youve never been down to Epcot at Florida and Disney --",
+                "label": "qy"
+            },
+            {
+                "text": "No Id like to",
+                "label": "nn"
+            },
+            {
+                "text": "-- thats good",
+                "label": "ba"
+            },
+            {
+                "text": "sometime but -",
+                "label": "+"
+            },
+            {
+                "text": "we we really enjoy that weve been two or three times and probably go back again this winter",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Ive never been - the fartherest south Ive been on the East Coast is Charlotte",
+                "label": "b"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "So I um keep wanting to get further - you know I thought I would go to Florida couple Summers",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "ago but never did it",
+                "label": "+"
+            },
+            {
+                "text": "Charleston is really nice place to visit",
+                "label": "sd"
+            },
+            {
+                "text": "My uh my sister lives in Charlotte and theyve gone to",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Charleston couple of times and had real good",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "time",
+                "label": "+"
+            },
+            {
+                "text": "its real pretty place",
+                "label": "sd"
+            },
+            {
+                "text": "Uh yeah one of these days well get down there although I dont know when were going to have vacation to do it Were uh were getting married in about",
+                "label": "b"
+            },
+            {
+                "text": "Oh are you",
+                "label": "b"
+            },
+            {
+                "text": "year and",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "our honeymoon were going up to this um uh place in Wisconsin called Door County its up by Green Bay Its place my girlfriends also wanted",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "to go and uh -",
+                "label": "+"
+            },
+            {
+                "text": "Is it on uh one of the lakes",
+                "label": "qy"
+            },
+            {
+                "text": "Its um uh - I dont if youve ever seen map of Wisconsin but theres kind of like little little thing sticking out uh in the Lake Michigan",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "thats Door County",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay yeah that would",
+                "label": "b"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "be really nice",
+                "label": "+"
+            },
+            {
+                "text": "Yeah they call it the Cape Cod of the uh",
+                "label": "b"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "the Midwest so uh were thinking thatll be lot of fun",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "she uh she had this uh book of pictures from it that were really nice kind of like travel guide --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh sounds good",
+                "label": "b"
+            },
+            {
+                "text": "-- so uh that should be lot of fun",
+                "label": "sd"
+            },
+            {
+                "text": "Well I dont know what our next trip will be I guess our next - well I know what my next trip Im going to be grandmother in July",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "The first the first one",
+                "label": "sd"
+            },
+            {
+                "text": "Oh boy",
+                "label": "ba"
+            },
+            {
+                "text": "so my next trip is going to be to Texas",
+                "label": "sd"
+            },
+            {
+                "text": "Oh thatll be fun",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah in the middle in the middle of the Summer",
+                "label": "b"
+            },
+            {
+                "text": "Well yeah you wont even notice it though",
+                "label": "b"
+            },
+            {
+                "text": "Well theyll be air-conditioning anyway so -",
+                "label": "sd"
+            },
+            {
+                "text": "Is that is that how you got into this uh this",
+                "label": "qy^t"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "you know uh data base",
+                "label": "+"
+            },
+            {
+                "text": "my daughters temp at Texas Instruments",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay",
+                "label": "bk"
+            },
+            {
+                "text": "and working on this project",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I was I was just - I mean most of the people Ive talk to are from are from Texas",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "so when I you know when I heard you were from Virginia I was like oh okay theres somebody different and you said oh I got somebody down in Texas I go okay that the connection",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Thats it yeah",
+                "label": "ba"
+            },
+            {
+                "text": "right there",
+                "label": "+"
+            },
+            {
+                "text": "I talked to one in California I never asked him the other day how he was connected I dont think he was I employee",
+                "label": "sd^t"
+            },
+            {
+                "text": "Uh I uh - most people talk to Texas theres been couple of other the people uh most of whom are like me that work in in speech labs that are going to use data base",
+                "label": "%"
+            },
+            {
+                "text": "Oh I see",
+                "label": "b"
+            },
+            {
+                "text": "eventually So uh it was fun I actually yesterday I ended up talking to somebody else from the same lab Im in",
+                "label": "+"
+            },
+            {
+                "text": "Is that right Well we spent last week end in Charlotte with real good friends that had just",
+                "label": "bh"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "moved to back East from Oklahoma",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and shes uh working on this project too I mean shes talking on the project too --",
+                "label": "sd^t"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh we got back Monday and I got call yesterday and it was her on I Network",
+                "label": "sd"
+            },
+            {
+                "text": "Uh thats neat I havent uh I havent had something like that happen just uh just getting the one guy",
+                "label": "ba"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "from the lab Uh youre sure have nice town uh my uh sister lives on Lake",
+                "label": "+"
+            },
+            {
+                "text": "Oh does",
+                "label": "b"
+            },
+            {
+                "text": "Norman just -",
+                "label": "+"
+            },
+            {
+                "text": "she thats nice out there",
+                "label": "+"
+            },
+            {
+                "text": "Yeah uh we keep wanting to get down there and visit them over the Summer and its",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "never really works out",
+                "label": "+"
+            },
+            {
+                "text": "yeah its real pretty",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Well",
+                "label": "%"
+            },
+            {
+                "text": "Traffic not much else we do for vacation really uh just so we dont havent been able to take really -",
+                "label": "sd"
+            },
+            {
+                "text": "Are you golfer No",
+                "label": "qy"
+            },
+            {
+                "text": "No",
+                "label": "nn"
+            },
+            {
+                "text": "Me either",
+                "label": "sd"
+            },
+            {
+                "text": "No Are you guys",
+                "label": "b^m"
+            },
+            {
+                "text": "No uh-huh",
+                "label": "nn"
+            },
+            {
+                "text": "golfers or uh -",
+                "label": "+"
+            },
+            {
+                "text": "no uh-huh nope not too much into sports",
+                "label": "nn"
+            },
+            {
+                "text": "Except our outside though",
+                "label": "sv"
+            },
+            {
+                "text": "Just walking thats all",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I dont think there are any traveling that was in my early teens down in that area and Im know real sure there are um -",
+                "label": "sd"
+            },
+            {
+                "text": "No professionals",
+                "label": "sd"
+            },
+            {
+                "text": "When uh - I was thinking I might be minor league but -",
+                "label": "%"
+            },
+            {
+                "text": "Oh theres one in Salem Salem Rebels",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Salem Rebels",
+                "label": "sd"
+            },
+            {
+                "text": "Buccaneers",
+                "label": "ar"
+            },
+            {
+                "text": "Buccaneers Oh okay",
+                "label": "b^m"
+            },
+            {
+                "text": "Yeah um yeah I may be seeing them um in town just west of here Frederick has uh has minor league team that plays in the same league with Salem and uh I think we may be seeing them this",
+                "label": "b"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "weekend",
+                "label": "+"
+            },
+            {
+                "text": "is that right up there in Frederick",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah I think theyre out of town",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Uh thats nice little town actually Frederick uh",
+                "label": "b"
+            },
+            {
+                "text": "Ive never been up there Ive never visited Baltimore Id like to go just sight see little bit sometime",
+                "label": "sd"
+            },
+            {
+                "text": "Oh theres theres some nice things in Baltimore you know the Inner Harbor and the uh",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "the Aquarium and all that are very nice Uh theyve just done uh - you known I - you know the Aquarium is one of those things that you know because everybody -",
+                "label": "+"
+            }
+        ]
+    }
+]

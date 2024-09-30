@@ -1,0 +1,891 @@
+[
+    {
+        "conversation_id": "conv_2061",
+        "turns": [
+            {
+                "text": "Hello",
+                "label": "fp"
+            },
+            {
+                "text": "Hello",
+                "label": "fp"
+            },
+            {
+                "text": "Hey how you doing",
+                "label": "fp"
+            },
+            {
+                "text": "Not bad not bad Whats your name",
+                "label": "fp"
+            },
+            {
+                "text": "Fernando",
+                "label": "fp"
+            },
+            {
+                "text": "Fernando My name is Nick",
+                "label": "b^m"
+            },
+            {
+                "text": "Wait Let me turn off my stereo here",
+                "label": "ad"
+            },
+            {
+                "text": "Sure",
+                "label": "aa"
+            },
+            {
+                "text": "Because Ive been like waiting like for about ten minutes to get connected to somebody",
+                "label": "sd^t"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Phew Man Im -",
+                "label": "fe"
+            },
+            {
+                "text": "Yeah What time is it over th- are you are you in Dallas",
+                "label": "b"
+            },
+            {
+                "text": "No no Im in Detroit Or not Detroit Im in uh California",
+                "label": "nn"
+            },
+            {
+                "text": "Are you",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah I -",
+                "label": "ny"
+            },
+            {
+                "text": "Because every time I got through I went to Dallas Texas",
+                "label": "sd^t"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah Im in North Carolina",
+                "label": "ny"
+            },
+            {
+                "text": "Oh Well youre on the uh - lets see",
+                "label": "b"
+            },
+            {
+                "text": "On the other coast",
+                "label": "^2"
+            },
+            {
+                "text": "Yeah twenty-one Yeah Shoot man its what midnight almost",
+                "label": "aa"
+            },
+            {
+                "text": "What Yeah yeah Its uh - Im watching SATURDAY NIGHT LIVE here",
+                "label": "br"
+            },
+            {
+                "text": "Yeah okay All right Well I guess were supposed to talk what about credit card",
+                "label": "b"
+            },
+            {
+                "text": "- wait Wh- what did how how did you get to know about the I thing",
+                "label": "ad"
+            },
+            {
+                "text": "Oh one of my instructors uh said that they were doing something like this and -",
+                "label": "sd^t"
+            },
+            {
+                "text": "Wha- what are you working on",
+                "label": "qw"
+            },
+            {
+                "text": "Masters in uh information systems",
+                "label": "sd"
+            },
+            {
+                "text": "Really Im doing my Masters in in computer science and computer engineering",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah Where at",
+                "label": "bh"
+            },
+            {
+                "text": "At North Carolina State University",
+                "label": "sd"
+            },
+            {
+                "text": "Hey How do you like it out there",
+                "label": "ba"
+            },
+            {
+                "text": "Uh I dont Because uh I come from lot bigger city than this one and --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- I Im in Raleigh and -",
+                "label": "+"
+            },
+            {
+                "text": "Oh Raleigh Durham Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Yeah That area And its really small All all you have is like towns built around universities",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Like Chapel Hill",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah So it its basically bunch of small towns anyway Kind of quaint little towns but they --",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- dont have whole lot there",
+                "label": "+"
+            },
+            {
+                "text": "Where you at",
+                "label": "qw"
+            },
+            {
+                "text": "Uh well Im in Monterey California right now Yeah",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay So so I mean its like this this town probably has like two hundred and fifty thousand people and thats about it",
+                "label": "bk"
+            },
+            {
+                "text": "Two hundred fifty",
+                "label": "br^m"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Okay It its its lot bigger than Monterey is But were just uh just south of uh San Jose and San Francisco",
+                "label": "bk"
+            },
+            {
+                "text": "Oh okay",
+                "label": "bk"
+            },
+            {
+                "text": "And its only couple of hours away or hour away to you know to large city",
+                "label": "sd"
+            },
+            {
+                "text": "So so where do you go Do you go to Berkeley",
+                "label": "qw"
+            },
+            {
+                "text": "No no I go to the its the naval postgraduate school out here",
+                "label": "nn"
+            },
+            {
+                "text": "Oh okay Because uh I was looking at at the doctorate degree in computer science center at Berkeley",
+                "label": "bk"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And theyre asking like for uh of like three point seven or something --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- like that And like theyre looking like for uh like ninety-nine percentile and this and that",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And its like -",
+                "label": "%"
+            },
+            {
+                "text": "Well thats what they look for Whether or not they get it is hard to say spelling dragged not drug in this case",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I know Thats why thats why I didnt apply I mean it was like --",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- for me it was like practically impossible to get between like ninety and ninety-nine percentile on the on the verbal part",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Its pretty tough Its pretty tough I - uh lets face it you know And you know I you know did the you know - as far as - I found it lot of times with regards to education you know the school only takes you so far you know Its what you do",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know So uh I dont lose any sleep sleep over stuff like that",
+                "label": "+"
+            },
+            {
+                "text": "So are are you going to go for your Doctorate",
+                "label": "qy"
+            },
+            {
+                "text": "Probably not See Im in the Navy",
+                "label": "nn"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And uh you know most of the Navy funds that I probably wont do it until I - if I do do it it will be after I get out of the Navy",
+                "label": "sd"
+            },
+            {
+                "text": "When do you get out",
+                "label": "qw"
+            },
+            {
+                "text": "Oh probably be another twelve years",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay",
+                "label": "bk"
+            },
+            {
+                "text": "Oh you know I like what Im doing right now",
+                "label": "sd"
+            },
+            {
+                "text": "But uh but what if they pay for it",
+                "label": "qo"
+            },
+            {
+                "text": "Excuse me",
+                "label": "br"
+            },
+            {
+                "text": "What if they pay for",
+                "label": "qo^r"
+            },
+            {
+                "text": "If they pay for",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Nah they wont pay for it Theyve I think they have maybe two people year go get get their",
+                "label": "nn"
+            },
+            {
+                "text": "Because I know I know couple of people here that work for uh the Army Uh",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah They civilians or uh military",
+                "label": "b"
+            },
+            {
+                "text": "I think I think theyre military But I --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- mean the guy is still in",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh - uh he works over in Maryland",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And so hes doing his Masters here They gave him like scholarship like for year",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And hes doing it in like in year and summer",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And so hes getting that and uh --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- they said like they got lot of benefits and that Thats why you want to join",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But uh this guy - I mean you can earn lot more money so you say - I go why you still there if you can earn lot more money once youve get your your your Masters",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "They go well they got lot of benefits that would go with it so -",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Well lot of times its you know lot of times its not the money that keeps pe- that keeps people in",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "They they like what theyre doing They you know they feel good about what theyre doing That type of thing Its more -",
+                "label": "sv"
+            },
+            {
+                "text": "But I mean I mean you - the - once you get your Masters you can be earning between anywhere between like thirty-seven forty-five thousand year",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh easily Im sure",
+                "label": "aa"
+            },
+            {
+                "text": "-- and thats not what theyre paying",
+                "label": "+"
+            },
+            {
+                "text": "No Well it depends on what rank you are of course",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah Yeah I know",
+                "label": "aa"
+            },
+            {
+                "text": "I mean like I say if youre if youre you know if youre at an upper level in the rank category you know youre probably pulling down close to seventy grand year",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah But thats uh -",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Those are few and far between though",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Its like its like uh in I In I you can get certain points --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh everyones manager But nobody can get one more point to become you know like whatever you need to earn so much money",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Since I imagine its fairly competitive",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Its like - no I I mean I is like - theres joke about I which says you know its like uh - all all the major companies get into boating race right",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And so I says well we have we have to have team right",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And then they come in last and they have this whole team you know analyze why they came in last right Because the person asked for it",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Saying - he goes uh the problem was that there were five people saying row row row and one person rowing right So he goes have you come up with -lution uh have you come up with solution They go yeah change the rower You know its like everyones manager but you know its like --",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- only use like one person does the work so -",
+                "label": "+"
+            },
+            {
+                "text": "Too many chiefs and not enough Indians",
+                "label": "bf"
+            },
+            {
+                "text": "Yeah So -",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah I dont know that can be that that can really slow you down",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Well thats the way it works I mean thats thats why theyre having problems I mean everyones manager and -",
+                "label": "aa"
+            },
+            {
+                "text": "I didnt realize that",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I mean its like its like the people that actually do the work there --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- are uh very few And then the other people just plan it you know Its like its like have you have --",
+                "label": "+"
+            },
+            {
+                "text": "push paper around",
+                "label": "^2"
+            },
+            {
+                "text": "-- have you ever seen the commercial like for Federal Express where the with uh the think tank",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "You know like all these people are just standing sitting around just going you know like what shall we do Has anybody thought of anything No And then this guy from Federal Federal Express comes along They go whats that This track which its going around the world and they can tell you where your package is anywhere any time",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And so its like the same thing with I You know so they have this think tank And they got to come up with ideas But see uh the the thing is that I is so stabilized that everybody will buy their stuff",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah Oh yeah Theyve got theyve got basically uh you know lock on lot of the market",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And lot of times you figure you know with the support that they provide you know - people generally go with that because they figure that the you know you probably wont get fired for getting I material Whereas if you try something different theyll --",
+                "label": "sv"
+            },
+            {
+                "text": "And it fails and youre dead",
+                "label": "^2"
+            },
+            {
+                "text": "-- theyll say yeah why didnt you buy why didnt you try something more mainline",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Well I doesnt fire anybody Because --",
+                "label": "b"
+            },
+            {
+                "text": "No",
+                "label": "aa"
+            },
+            {
+                "text": "-- uh what they do is they they put you in different job",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Which - you actually are like sitting around not doing anything So you quit",
+                "label": "+"
+            },
+            {
+                "text": "Uh",
+                "label": "b"
+            },
+            {
+                "text": "I mean thats their policy They never fire anybody unless youre caught doing something illegally",
+                "label": "sd"
+            },
+            {
+                "text": "Illegal or something like that yeah",
+                "label": "bf"
+            },
+            {
+                "text": "Yeah like if youre stealing something or doing anything like that",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But they wont let you off What theyll do is like - suppose you know like youre manager So theyll put --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you into keeping up the paper you know Its like how much paper is going in And then you --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- say thats not my job so you quit",
+                "label": "+"
+            },
+            {
+                "text": "So in other words thats the way they force --",
+                "label": "bf"
+            },
+            {
+                "text": "Right",
+                "label": "aa"
+            },
+            {
+                "text": "-- people out Thats why they can say you know theres no layoff --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- policy But it does- they dont really say that you know youre youre always going to have great career --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- conditions He- hey thats kind of sad",
+                "label": "+"
+            },
+            {
+                "text": "No but I mean its like its like they they have just like different policy I dont know My dad works for them but its like I like never in their commercials they never put down any other company you know Its like --",
+                "label": "ar"
+            },
+            {
+                "text": "No",
+                "label": "aa"
+            },
+            {
+                "text": "-- they wont say -",
+                "label": "+"
+            },
+            {
+                "text": "Well theyre the standard right now Or as far as that goes you know people think of computers they think of I lot of times And the main -",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah Because see what happens is they have good backup policy And anybody can fix it",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And so thats what youre going to go for",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah Well you know thats thats thats big thing",
+                "label": "aa"
+            },
+            {
+                "text": "And and you know its like for example like Leading Edge Have you ever heard of Leading Edge",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah They are out of Korea right",
+                "label": "ny"
+            },
+            {
+                "text": "What",
+                "label": "br"
+            },
+            {
+                "text": "Leading Edge Dont they pro- -",
+                "label": "sd"
+            },
+            {
+                "text": "They they made like uh small personal computers",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Small - theyre out of Korea right",
+                "label": "b"
+            },
+            {
+                "text": "I dont know I dont know But what they do is what they did I dont know is buy all the parts that I would throw away",
+                "label": "no"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And build an I with all the parts that I would throw away",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "Yeah for example you test chip It cant last seven years but it can last five I says lets throw it away Leading Edge will say well buy it from you",
+                "label": "b"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "And so thats - I mean theyre still around I think",
+                "label": "%"
+            },
+            {
+                "text": "Yeah Ive seen well Ive seen them around anyway You know",
+                "label": "aa"
+            },
+            {
+                "text": "So thats what they do They buy all all the things that I throws away and they and thats why theyre so compatible",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Because I mean - and by the time you have computer for five years youre going to throw it away anyway You know",
+                "label": "+"
+            },
+            {
+                "text": "Most people do Or they have to anyway",
+                "label": "sv"
+            },
+            {
+                "text": "Well I mean theres like well - in way you realize - I mean one - one of my teachers got this computer which you know - its like uh voice uh synthesizing stuff",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And he got that He said you know its like uh - I was testing it LISTEN to this sequence that begins here and ends with A215 utt 11 I cant tell how much Speaker is quoting and how much heshe is directly addressing Speaker and it was wonderful And then when you tried to erase and correct you know all the errors in your voice it takes up all your memory",
+                "label": "sd"
+            },
+            {
+                "text": "Wow",
+                "label": "ba"
+            },
+            {
+                "text": "And I want more you know And its like Jesus Christ you know - its like why do you want more Because its like one second of recording I mean you put into Wave --",
+                "label": "^q"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and you want to correct the errors into Wave it takes so much - I mean its like - of course it does I mean by the times it transforms into Wave by mark off model and you put it in there and you want to correct those And then you know youre trying to make the the Wave smooth so you can approximately - of course its going to take lot Imagine imagine --",
+                "label": "^q"
+            },
+            {
+                "text": "Its amazing Yeah",
+                "label": "ba"
+            },
+            {
+                "text": "-- what it is for us to make mark off models you know Its like Jesus Christ -",
+                "label": "+"
+            },
+            {
+                "text": "Well when you get you know when you get right down to it the uh the more they can do for you the more uh like I say the more the more memory theyre going to require",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Both both in terms in Ram as well as uh you know standard --",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- memory or disk mem- disk base so -",
+                "label": "+"
+            },
+            {
+                "text": "Well like they say like nobody can get enough you know Its like once you have something - and its like -- -",
+                "label": "sv"
+            },
+            {
+                "text": "Oh yeah You find out more",
+                "label": "aa"
+            },
+            {
+                "text": "-- I was watching this program on yesterday In nineteen seventy-six --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- NASA came up with Three graphics Right",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And they were showing this like Three - Three graphics view of like -",
+                "label": "sd"
+            },
+            {
+                "text": "Like the deal",
+                "label": "qy^d"
+            },
+            {
+                "text": "What No no no",
+                "label": "br"
+            },
+            {
+                "text": "Like hologram",
+                "label": "qy^d"
+            },
+            {
+                "text": "This is like this is like --",
+                "label": "sd"
+            },
+            {
+                "text": "With just graphics on on -",
+                "label": "bf"
+            },
+            {
+                "text": "-- video game stuff Okay",
+                "label": "+"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "But the only thing was that it was just lines okay Like if you -",
+                "label": "sd"
+            }
+        ]
+    }
+]

@@ -1,0 +1,587 @@
+[
+    {
+        "conversation_id": "conv_2963",
+        "turns": [
+            {
+                "text": "Do you all do you get together with family reunions or -",
+                "label": "qy"
+            },
+            {
+                "text": "Yes we try to Uh we have not in some years now And I think we are going to try to have one this summer",
+                "label": "ny"
+            },
+            {
+                "text": "Oh that will be fun --",
+                "label": "sv"
+            },
+            {
+                "text": "My aunt --",
+                "label": "sd"
+            },
+            {
+                "text": "-- if you have --",
+                "label": "+"
+            },
+            {
+                "text": "-- is planning it",
+                "label": "+"
+            },
+            {
+                "text": "-- not done it in while Uh where is your family from",
+                "label": "+"
+            },
+            {
+                "text": "Uh Missouri",
+                "label": "sd"
+            },
+            {
+                "text": "Oh Is it",
+                "label": "b"
+            },
+            {
+                "text": "Southwest part of Missouri",
+                "label": "sd"
+            },
+            {
+                "text": "So you are going to have to go there",
+                "label": "qy^d"
+            },
+            {
+                "text": "That will will be where it is Uh",
+                "label": "na"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "if if she gets it planned I have been out of town so I do not know what she has been doing But uh they are all getting very very old",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "All my aunts and uncles So we need to see them soon",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "My family is from Kentucky Most of them is down there",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I have got an uncle in Louisiana and another sister here in Texas",
+                "label": "sd"
+            },
+            {
+                "text": "Right Do you all get together often Or -",
+                "label": "b"
+            },
+            {
+                "text": "We did when I was growing up It was every summer we got together",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Now my grandmother just passed away this last year",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "So you know -",
+                "label": "%"
+            },
+            {
+                "text": "I think as --",
+                "label": "sd"
+            },
+            {
+                "text": "she was th- -",
+                "label": "%"
+            },
+            {
+                "text": "-- we get older it is dif- more difficult to uh when - all my aunts and uncles are in their eighties now so it is uh -",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I have to uh I will probably have to take charge and do it one of these uh one of these uh days",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But uh",
+                "label": "sd"
+            },
+            {
+                "text": "Well it",
+                "label": "sv"
+            },
+            {
+                "text": "I still have elderly parents alive So uh it takes lot of effort to either get everybody called or written and settle on date you know --",
+                "label": "+"
+            },
+            {
+                "text": "It --",
+                "label": "+"
+            },
+            {
+                "text": "-- that -",
+                "label": "+"
+            },
+            {
+                "text": "-- sure does",
+                "label": "+"
+            },
+            {
+                "text": "And if they are -",
+                "label": "%"
+            },
+            {
+                "text": "Well we - in Kentucky it wasnt hard because everybody lives so close together We just did it word by mou- you know by word of mouth",
+                "label": "%"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "You know And uh my uncle in Louisiana he is the only one that you know had to travel",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And now I have got sister in Germany and --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh my gosh",
+                "label": "ba"
+            },
+            {
+                "text": "-- we are just scattered all over the place",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So it is going to be hard this time",
+                "label": "sd"
+            },
+            {
+                "text": "So the -",
+                "label": "%"
+            },
+            {
+                "text": "But we have got huge family",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah And we need to have more and more of them I ho- I think I hope that is not lost art that people getting together as they do spread out all over the world",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Because it is so fun",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I mean",
+                "label": "sd"
+            },
+            {
+                "text": "it is",
+                "label": "aa"
+            },
+            {
+                "text": "we my mother has got like thirteen brothers and sisters",
+                "label": "+"
+            },
+            {
+                "text": "Oh I see",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah She has got huge family And every one of them have five or six kids And most of them you know",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "have got kids",
+                "label": "+"
+            },
+            {
+                "text": "Sure that makes big crowd",
+                "label": "bf"
+            },
+            {
+                "text": "Yeah It is -",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "we just we had two baseball bleachers full of people",
+                "label": "sd"
+            },
+            {
+                "text": "Is that",
+                "label": "bh"
+            },
+            {
+                "text": "and there are still about eight or six eight or ten people taking pictures",
+                "label": "sd"
+            },
+            {
+                "text": "Is that right",
+                "label": "bh"
+            },
+            {
+                "text": "Yes And it was just - the last time we had one it was so fun",
+                "label": "ny"
+            },
+            {
+                "text": "That is wonderful I hope -",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "well we need to have another one I hope my aunt is successful as uh later Well it is probably not going to be done because I have not heard from them I it was supposed to be this June so I do not imagine there is anything coming This is hardly almost June",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Well I",
+                "label": "b"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "we have always had ours in park or something",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But it has away been the same park and there is nothing really special there Only thing is it is big",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah that is -",
+                "label": "b"
+            },
+            {
+                "text": "and it is open",
+                "label": "sd"
+            },
+            {
+                "text": "we have it usually at this uh at this one park because there is pavilion there in case --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- it rains And uh you have to have it uh fairly early in the summer or it is too hot up there",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh In Missouri",
+                "label": "b"
+            },
+            {
+                "text": "In Missouri yeah It is too mu- it is not it is just uh very humid and the old people cannot take it anymore",
+                "label": "na"
+            },
+            {
+                "text": "Well that was part of the problem with the ones we have",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Now the kids would sneak off And we were just being kids and we found what we thought was just an old water hole So we was going swimming And like I said we was just big kids We was like eight and ten years old",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And our parents came and caught us We had been playing in the sump It was part of the sewage cleaning system",
+                "label": "sd"
+            },
+            {
+                "text": "Isnt that great Yeah Yeah",
+                "label": "bh"
+            },
+            {
+                "text": "Kyle dont I have got four year old",
+                "label": "t3"
+            },
+            {
+                "text": "Yeah Well that keeps you busy Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Yeah But if we could have gotten it by lake or something I thought that would have been much better",
+                "label": "b"
+            },
+            {
+                "text": "Yeah It would have been Something for the young people --",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- to --",
+                "label": "+"
+            },
+            {
+                "text": "Well they -",
+                "label": "%"
+            },
+            {
+                "text": "-- to do But",
+                "label": "+"
+            },
+            {
+                "text": "there was uh I am sorry there was uh I remember now there was like uh baby pool",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "+@"
+            },
+            {
+                "text": "just about foot deep",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Yes I remember my little brother riding bicycle through it We were all kids anyway",
+                "label": "o"
+            },
+            {
+                "text": "Every family has all that going on I am sure So uh -",
+                "label": "sv"
+            },
+            {
+                "text": "Oh but I love it all the different foods because that - yeah",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I do too That is the best part of it",
+                "label": "aa"
+            },
+            {
+                "text": "Thats the -",
+                "label": "%"
+            },
+            {
+                "text": "Everybody --",
+                "label": "sv"
+            },
+            {
+                "text": "yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- bringing something for potluck picnic and oh grand - yeah",
+                "label": "+"
+            },
+            {
+                "text": "So how long did you say it has been since you all had one",
+                "label": "qw"
+            },
+            {
+                "text": "I do not know I think it has been uh four three or four years Or five even uh since they have had it tried to get everybody together They are just spread out so much and and we really need to uh no matter ho- what kind of crowd they get",
+                "label": "no"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I hope -",
+                "label": "%"
+            },
+            {
+                "text": "Well I have been married almost five so I guess it has been seven years since we have had one",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And since then we have lost oh well just our grandmother",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "That is surprising",
+                "label": "sv"
+            },
+            {
+                "text": "Well time flies so fast it may have been that that long since we have one It is hard to remember but I think it has been about four or five years",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So uh anyway I I hope both our families get to have one soon",
+                "label": "sd"
+            },
+            {
+                "text": "Oh if I can ever get down to Kentucky - It has been like four years since I have been home",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah It is difficult with little ones",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I know when we had",
+                "label": "sd"
+            },
+            {
+                "text": "That is",
+                "label": "sd"
+            },
+            {
+                "text": "had our -",
+                "label": "+"
+            },
+            {
+                "text": "the reason that is the reason I dont I would get on bus any day by myself but I wont do it with the babies",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh Sure",
+                "label": "b"
+            },
+            {
+                "text": "Because uh I have got uh four month old and four year old",
+                "label": "sd"
+            },
+            {
+                "text": "Oh Lord",
+                "label": "ba"
+            },
+            {
+                "text": "So I am just starting And I just quit too",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I am telling you That is uh -",
+                "label": "^h"
+            },
+            {
+                "text": "Uh I wont be adding any more to the family reunion",
+                "label": "sd"
+            },
+            {
+                "text": "No I hope it I know it takes lot of effort right with with that with two little ones like that",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah They are good kids though",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So uh I am not too upset Anyways I have enjoyed talking to you",
+                "label": "sd"
+            },
+            {
+                "text": "Enjoyed talking to you",
+                "label": "fc"
+            },
+            {
+                "text": "All right",
+                "label": "fc"
+            },
+            {
+                "text": "Good luck in everything",
+                "label": "fc"
+            },
+            {
+                "text": "All right you too",
+                "label": "fc"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc"
+            }
+        ]
+    }
+]

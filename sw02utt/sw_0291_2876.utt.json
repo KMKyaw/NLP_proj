@@ -1,0 +1,543 @@
+[
+    {
+        "conversation_id": "conv_2876",
+        "turns": [
+            {
+                "text": "All right uh how long have they been recycling there in Virginia",
+                "label": "o"
+            },
+            {
+                "text": "Um actually quite while Um Ive lived here for six years and can you hold on just second",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah uh-huh",
+                "label": "aa"
+            },
+            {
+                "text": "Hello",
+                "label": "fp"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Oh Im sorry I must have got the other line cut off Uh so theyve been doing that it for while now --",
+                "label": "fa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh it - I live in an apartment --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and my ap- facilities - there it is hold on",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh Hello",
+                "label": "aa"
+            },
+            {
+                "text": "Okay sorry about that",
+                "label": "o"
+            },
+            {
+                "text": "Yeah okay youre okay",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "okay",
+                "label": "o"
+            },
+            {
+                "text": "Uh anyhow they have facilities here in my apartment complex for recycling paper only Uh Ive been recycling for maybe about two years now and at ano- ano- another public facility --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- where they have you know recycling of glass uh aluminum and paper Now -",
+                "label": "+"
+            },
+            {
+                "text": "Have you have you cycled recycled plastic also",
+                "label": "qy"
+            },
+            {
+                "text": "No and thats what I I dont understand exactly why they dont have that option",
+                "label": "nn"
+            },
+            {
+                "text": "We we have out here --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh up until just this last year in on you are town there wasnt any really good way - they had some bends sp bins",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "around that we could find and put them in but not all that many - it wasnt very well advertised --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but recently uh the refuse department has has uh is working on getting system going where we will actually have uh bend that we put things in for recycling these other things --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- so it it should be good uh",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I think its marvelous idea when you think of uh when I just think of the papers that I dump out --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- I mean there just - its such - I waste - I just hate to think about it",
+                "label": "%"
+            },
+            {
+                "text": "Yeah now an additional thing is uh - where I work --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- they also have recycling there of uh all white paper and of you know cans also --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- so I mean lot of people you know right at the vending machines",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "they have receptacles that you know",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "you can just pop your cans in and near the",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Xerox machines they have places you know for your",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "paper you know I keep little box at my desk you know",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and I just throw as Im using the white paper you know I just throw it right in there",
+                "label": "sd"
+            },
+            {
+                "text": "Uh",
+                "label": "b"
+            },
+            {
+                "text": "and then you know they have someone that comes around and pick it up you know every afternoon --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah thats neat",
+                "label": "b"
+            },
+            {
+                "text": "-- which you know is an excellent idea",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "at work because I know the amount paper they go through there because -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah thats right I guess one of the things I think that needs to happen is we need to be better informed about",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "about it theres needs to be more public uh",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I would agree with that",
+                "label": "aa"
+            },
+            {
+                "text": "service of programs or something that would let us know had happens to it --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and helps us to become enthused about it because of what is happening --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and theres -",
+                "label": "%"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Ive seen few things but not very much",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "really and I I think thats shame they need to uh do little more Id like to know for instance when I when they say uh plastic all plastic what kind of plastic",
+                "label": "+"
+            },
+            {
+                "text": "Exactly",
+                "label": "aa"
+            },
+            {
+                "text": "can you put all together or",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "is there some reason not to uh now maybe they just sort it after they get it and throw out what they cant use I dont know --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but I Id be glad to organize it",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "if that theyd tell me what it is Im doing --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- because that would that would be really helpful sep utt because as",
+                "label": "+@"
+            },
+            {
+                "text": "uh-huh yeah I agree with you there another thing that I like here which is - I do with - I have to actually go to two different recycling areas because one of them is that uh - their aluminum cans is for uh Childrens Hospital for burn fund --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- so all the monies are donated you know",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "for the recycling to Childrens Hospital which I think is an excellent idea",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh thats great",
+                "label": "b"
+            },
+            {
+                "text": "there you know because the other",
+                "label": "+"
+            },
+            {
+                "text": "Now that gives",
+                "label": "sv"
+            },
+            {
+                "text": "public -",
+                "label": "+"
+            },
+            {
+                "text": "you little bit of incentive there",
+                "label": "+"
+            },
+            {
+                "text": "Right right",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and before even at work - before they started the recycling plan which at work theyve only been doing since January first of this year I had had everyone in my department recycling and you know I would have them drop",
+                "label": "%"
+            },
+            {
+                "text": "Saving them for you uh",
+                "label": "bf"
+            },
+            {
+                "text": "right drop their cans off in my office and then I would haul them you know here to this place for the Childrens Hospital Fund --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- which got people really going into it",
+                "label": "+"
+            },
+            {
+                "text": "I think thats",
+                "label": "ba"
+            },
+            {
+                "text": "but -",
+                "label": "%"
+            },
+            {
+                "text": "right I think I think helping us be more enthu- enthusiastic about it",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "helping us maybe maybe using the money for something special that would be like paying off the national debt",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "slash error",
+                "label": "x@"
+            },
+            {
+                "text": "That - there you go",
+                "label": "%"
+            },
+            {
+                "text": "Making sure - slash error",
+                "label": "+@"
+            },
+            {
+                "text": "Thats for sure",
+                "label": "aa"
+            },
+            {
+                "text": "But I I think thats right I think they there needs to be little bit more in the area of of uh ad- advertisement",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and letting public letting you understand",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "more of what it is youre doing why youre doing it how youre its done and",
+                "label": "+"
+            },
+            {
+                "text": "Right right",
+                "label": "aa"
+            },
+            {
+                "text": "what what happens to it because I think thats that would help lot",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh and Im sure you know in the near future I would think they would be coming out with more",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "you know Ive seen definite trend you know towards more recycling",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I -",
+                "label": "b"
+            },
+            {
+                "text": "everywhere you know even at McDonalds",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "you know with their their use of no",
+                "label": "+"
+            },
+            {
+                "text": "Yes I Im glad",
+                "label": "b"
+            },
+            {
+                "text": "foam containers anymore",
+                "label": "+"
+            },
+            {
+                "text": "to see some of these things I think",
+                "label": "+"
+            },
+            {
+                "text": "Right I think I think it is getting more you know advertisement",
+                "label": "b"
+            },
+            {
+                "text": "People are becoming more conscience all the time that its necessary to do",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "and that we need to somehow get away from the fact that we have to have everything individually wrapped",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and all these things that -",
+                "label": "%"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "I think thats true Well I think - Im thats about my uh",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "some on recycling - but I I enjoyed talking to you",
+                "label": "+"
+            },
+            {
+                "text": "Okay well I did too",
+                "label": "fc"
+            },
+            {
+                "text": "uh-huh all right bye now",
+                "label": "fc"
+            },
+            {
+                "text": "Okay Bye-bye",
+                "label": "fc"
+            }
+        ]
+    }
+]

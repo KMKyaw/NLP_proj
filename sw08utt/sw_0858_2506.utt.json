@@ -1,0 +1,639 @@
+[
+    {
+        "conversation_id": "conv_2506",
+        "turns": [
+            {
+                "text": "So tell me about your home",
+                "label": "ad"
+            },
+            {
+                "text": "My home All right my home is about fifteen years old",
+                "label": "b^m"
+            },
+            {
+                "text": "All right",
+                "label": "b"
+            },
+            {
+                "text": "Its two story house it its our first home and it looks like its going to be the last I think were going to demolish it Weve got two children and its - they have scraped the uh plaster off the walls you know with riding their little toys through it and stuff You know",
+                "label": "sd"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "put dents in the tiles just multitude of them I mean even places - its its past the dent stage were talking some of its been peeled away you know I dont know what they -",
+                "label": "sd"
+            },
+            {
+                "text": "We talking from from dents in the holes",
+                "label": "bf"
+            },
+            {
+                "text": "Yeah dents in the hole right",
+                "label": "b"
+            },
+            {
+                "text": "I understand weve got Ive got daughter",
+                "label": "ba"
+            },
+            {
+                "text": "Weve got two one of thems eleven and one of thems seven and then the carpet you know - we need to replace the carpet I mean it sounds like its just the pits but its not all that bad I guess but you know theyre just real hard on it",
+                "label": "sd"
+            },
+            {
+                "text": "Kids are hard on houses",
+                "label": "sv"
+            },
+            {
+                "text": "Definitely I can see why people wait until they get like in high school or maybe junior high and then they get another one",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah yeah Uh we live in mobile home and thats probably not typical America but -",
+                "label": "b"
+            },
+            {
+                "text": "I know theres lot of them",
+                "label": "sd"
+            },
+            {
+                "text": "its - what we have - its all we can afford",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And uh seems like were always working on it as Im sure",
+                "label": "sd"
+            },
+            {
+                "text": "Because theyre always",
+                "label": "sv"
+            },
+            {
+                "text": "it is with your house",
+                "label": "+"
+            },
+            {
+                "text": "because theyre always ruining something",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "How old is your child",
+                "label": "qw"
+            },
+            {
+                "text": "Ten girl",
+                "label": "sd"
+            },
+            {
+                "text": "Well -",
+                "label": "%"
+            },
+            {
+                "text": "So you know just like yours ours is always you know - were - something else goes wrong always you know its -",
+                "label": "sd"
+            },
+            {
+                "text": "Some appliances breaking or something",
+                "label": "qr"
+            },
+            {
+                "text": "No appliances - we had couple plumbing problems weve oh - who knows you know its always something with homes",
+                "label": "nn"
+            },
+            {
+                "text": "And you said you were in Colorado Springs",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "Are there lot of trailers around there",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah there are theres big military constituency",
+                "label": "ny"
+            },
+            {
+                "text": "And is that what youre in",
+                "label": "qy"
+            },
+            {
+                "text": "Oh no no Im I work for I",
+                "label": "nn"
+            },
+            {
+                "text": "Well then thats why youre doing this then isnt it",
+                "label": "qy^g^t"
+            },
+            {
+                "text": "Oh yes",
+                "label": "ny"
+            },
+            {
+                "text": "Oh okay well -",
+                "label": "bk"
+            },
+            {
+                "text": "What division are you in",
+                "label": "qw"
+            },
+            {
+                "text": "Im not in I",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "I had friend that had roommate that worked for I and she saw this come up on the computer screen and ran it off And passed it to the people that were interested",
+                "label": "sd"
+            },
+            {
+                "text": "Its not hobby you know its something to do I get to here about Texas again bit and get to talk to people all over the country you know that Ive talked to someone in Maryland I believe it was",
+                "label": "sv^t"
+            },
+            {
+                "text": "I know Ive been talking to people in Ohio and uh Virginia and I think California",
+                "label": "sd^t"
+            },
+            {
+                "text": "Its interesting isnt it",
+                "label": "qy^g^t"
+            },
+            {
+                "text": "Yeah it is",
+                "label": "ny"
+            },
+            {
+                "text": "You know the gal I talked to in Maryland didnt own car shes never traveled anywhere shes never been anywhere she you know - I talked about one of the biggest problems in the United States being our roads and she didnt understand She doesnt drive",
+                "label": "sd^t"
+            },
+            {
+                "text": "How does she get to work",
+                "label": "qw"
+            },
+            {
+                "text": "Uh she uh lives on campus shes college student Buses and and uh public transportation",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh I had re- -",
+                "label": "b"
+            },
+            {
+                "text": "Her her parents live by the public transportation",
+                "label": "sd"
+            },
+            {
+                "text": "and I wish we could down here",
+                "label": "sv"
+            },
+            {
+                "text": "Well it would be nice but I kind of like the freedom too dont you",
+                "label": "aa"
+            },
+            {
+                "text": "Well sometimes but I tell you Id sure like to be able to get on bus or something and get to work but if I did it it would take me an hour and fifteen minutes I would have to get on one and drive or walk to bu- you know - theres one terminal close to us and then theyd drive me to the main terminal here",
+                "label": "no"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "then Id have to go to downtown Dallas and then walk over couple blocks and get on another bus to go to my school",
+                "label": "sd"
+            },
+            {
+                "text": "If its anything like uh -",
+                "label": "sv"
+            },
+            {
+                "text": "So thats too much",
+                "label": "bf"
+            },
+            {
+                "text": "Dallas always has been no one wants to be at downtown Dallas much",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah but there sure are lot of people that work down there",
+                "label": "b"
+            },
+            {
+                "text": "Is the crime rate still bad",
+                "label": "qy"
+            },
+            {
+                "text": "Definitely And I went down there couple maybe three weeks ago for trial and I mean all these people were standing up that was you know during the workday all along the cur- streets",
+                "label": "na"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "you know just all around these vacant buildings just lot of vacant buildings and theyre just being demolished",
+                "label": "+"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "and and they stink and",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "beer and wine bottles all over the place",
+                "label": "+@"
+            },
+            {
+                "text": "Huh thats terrible",
+                "label": "ba"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So Garland how nice is it now its been while since Ive been there",
+                "label": "sd"
+            },
+            {
+                "text": "You know I think it might be up to two hundred and fifty thousand Its gotten big",
+                "label": "sv"
+            },
+            {
+                "text": "Yes it has",
+                "label": "aa"
+            },
+            {
+                "text": "I think when we moved here it was like hundred and twenty something like that And I didnt realize when I moved here that it was separate town from Dallas",
+                "label": "sv"
+            },
+            {
+                "text": "Well yeah it is",
+                "label": "b"
+            },
+            {
+                "text": "I know now but I didnt",
+                "label": "sd"
+            },
+            {
+                "text": "Where you from",
+                "label": "qw"
+            },
+            {
+                "text": "Im from Kilgore Texas its in east -",
+                "label": "sd"
+            },
+            {
+                "text": "Kilgore I know where Kilgore is",
+                "label": "b^m"
+            },
+            {
+                "text": "Oh where you from",
+                "label": "qw"
+            },
+            {
+                "text": "Im Im originally from Lubbock",
+                "label": "sd"
+            },
+            {
+                "text": "Are you",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "So why did you move up to Colorado",
+                "label": "qw"
+            },
+            {
+                "text": "Seemed like the thing to do at the time",
+                "label": "sd"
+            },
+            {
+                "text": "Well its real pretty up there I have friend",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I love it",
+                "label": "sd"
+            },
+            {
+                "text": "in Denver",
+                "label": "+"
+            },
+            {
+                "text": "the mountains I love the mountains",
+                "label": "+"
+            },
+            {
+                "text": "What do you -",
+                "label": "qw"
+            },
+            {
+                "text": "uh back to the topic",
+                "label": "ad"
+            },
+            {
+                "text": "What",
+                "label": "br"
+            },
+            {
+                "text": "it seems that uh more and more people are not owning traditional homes these days",
+                "label": "sv"
+            },
+            {
+                "text": "Theyre not owning homes period",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah yeah uh everyone says you know - when I bought this several years ago when our local economy was good everyone said no no youre crazy to buy mobile home",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But now it seems that uh with the local economy bad and I - and strange it seems that uh -",
+                "label": "sv"
+            },
+            {
+                "text": "It wasnt such bad idea",
+                "label": "^2"
+            },
+            {
+                "text": "Oh theyre doing some back pedaling",
+                "label": "sv"
+            },
+            {
+                "text": "So have you got uh land",
+                "label": "qy"
+            },
+            {
+                "text": "No Im renting at the time so -",
+                "label": "nn"
+            },
+            {
+                "text": "I did that one year I lived with two other girls and we all taught And it was two bedroom so we took turns you know",
+                "label": "sd"
+            },
+            {
+                "text": "Gosh",
+                "label": "ba"
+            },
+            {
+                "text": "having sharing the bedroom",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I got to where I decided I wanted to pay more rent and get private bedroom And then we had two baths it was just one the little bathroom were the thing that really bothered me because I felt real closed in",
+                "label": "sd"
+            },
+            {
+                "text": "Well mobile homes have changed lot probably since you had one",
+                "label": "sv"
+            },
+            {
+                "text": "That was in the seventies",
+                "label": "sd"
+            },
+            {
+                "text": "Ours is wood - ours is wood sided",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and it has traditional top",
+                "label": "sd"
+            },
+            {
+                "text": "Im sorry",
+                "label": "fa"
+            },
+            {
+                "text": "roof and uh its nine hundred and eighty square foot What two bedroom one bath",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "rooms are nice sized Well you can imagine nine hundred eighty square foot broke up into two bedrooms one bath",
+                "label": "+"
+            },
+            {
+                "text": "So have",
+                "label": "qy"
+            },
+            {
+                "text": "its its comfy",
+                "label": "sd"
+            },
+            {
+                "text": "Have you got it under -",
+                "label": "+"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "Are you required to by law",
+                "label": "qy"
+            },
+            {
+                "text": "I",
+                "label": "o@"
+            },
+            {
+                "text": "We were down here",
+                "label": "sd"
+            },
+            {
+                "text": "dont know whether it is or not It was already setup when we bought it",
+                "label": "+@"
+            },
+            {
+                "text": "Yeah well I bet its not bad",
+                "label": "b"
+            },
+            {
+                "text": "Oh yeah its wood sided it has sheetrock everywhere and uh you know so its quieter than you remember mobile homes to be",
+                "label": "b"
+            },
+            {
+                "text": "Okay but how much is yours When we bought ours we were paying tw- uh three hundred twenty-nine dollars",
+                "label": "b"
+            },
+            {
+                "text": "Oh our payments are like two twenty",
+                "label": "sd"
+            },
+            {
+                "text": "For how many years",
+                "label": "qw"
+            },
+            {
+                "text": "Fifteen",
+                "label": "sd"
+            },
+            {
+                "text": "Oh so it was still lot cheaper",
+                "label": "sv"
+            },
+            {
+                "text": "And uh what",
+                "label": "br"
+            },
+            {
+                "text": "so it was still lot cheaper than what we gave because ours is thirty years and we bought one of the cheapest houses you know tract house",
+                "label": "sv^r"
+            },
+            {
+                "text": "Yeah oh yes mobile homes heck of lot cheaper and well actually whenever we got ours we picked it up used you know three or four years used and uh",
+                "label": "b"
+            },
+            {
+                "text": "Which probably didnt make much difference",
+                "label": "qy^d"
+            },
+            {
+                "text": "Well yeah it did",
+                "label": "+@"
+            },
+            {
+                "text": "have in it -",
+                "label": "qy"
+            },
+            {
+                "text": "No no no what I meant not in quality - what I meant was",
+                "label": "nn"
+            },
+            {
+                "text": "In the price",
+                "label": "^2"
+            },
+            {
+                "text": "four years equity costs five hundred dollars",
+                "label": "+"
+            },
+            {
+                "text": "Gee nice huh That sounds good",
+                "label": "ba"
+            },
+            {
+                "text": "So you know theres not that much time left on the loan and -",
+                "label": "sd"
+            },
+            {
+                "text": "So if the economy gets better are you going to get another one another house",
+                "label": "qy"
+            },
+            {
+                "text": "I dont know",
+                "label": "h"
+            },
+            {
+                "text": "No",
+                "label": "^g"
+            },
+            {
+                "text": "Uh to tell you the truth right now it feels kind of comfy to have our mobile home and have it so close to paid for You know its like me to pickup and move somewhere else somewhere else is easy",
+                "label": "ng"
+            },
+            {
+                "text": "But you wouldnt take that mobile home right",
+                "label": "sd"
+            },
+            {
+                "text": "Sure",
+                "label": "na"
+            },
+            {
+                "text": "You would",
+                "label": "qy^d"
+            },
+            {
+                "text": "Sure absolutely",
+                "label": "na"
+            },
+            {
+                "text": "It would be cheaper to move that than buy another one",
+                "label": "qy^d"
+            },
+            {
+                "text": "Oh absolutely When I you know when you talk about the deal like I got yeah yeah it would be cheaper Uh especially if it were paid move or something You know theres some paid moves occasionally",
+                "label": "na"
+            },
+            {
+                "text": "I would pay to move you",
+                "label": "qy"
+            },
+            {
+                "text": "I dont know but they did - when I when I moved up here - so they might want to move away",
+                "label": "h"
+            },
+            {
+                "text": "So how many years you been up there",
+                "label": "qw"
+            },
+            {
+                "text": "Uh six or seven",
+                "label": "sd"
+            },
+            {
+                "text": "Do you snow ski",
+                "label": "qy"
+            },
+            {
+                "text": "Uh little bit little bit mostly I just love walking in the mountains driving in the mountains",
+                "label": "na"
+            },
+            {
+                "text": "Its real pretty I went rock climbing one time",
+                "label": "sd"
+            },
+            {
+                "text": "Oh thats exciting",
+                "label": "ba"
+            },
+            {
+                "text": "my friend talked me in that Im real um scaredy when it comes to heights but once we got on top of the rocks it was quite -",
+                "label": "sd"
+            }
+        ]
+    }
+]

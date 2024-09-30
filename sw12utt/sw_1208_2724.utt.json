@@ -1,0 +1,527 @@
+[
+    {
+        "conversation_id": "conv_2724",
+        "turns": [
+            {
+                "text": "Uh so what do you do to exercise",
+                "label": "qw"
+            },
+            {
+                "text": "Uh - - I uh weight train uh three days on and one day off",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "bk"
+            },
+            {
+                "text": "I uh ride bicycles uh fifteen twenty miles I dont know maybe three times maybe four times week I play basketball uh couple times week I play softball one night week Uh thats what I do",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "What about yourself",
+                "label": "qo"
+            },
+            {
+                "text": "Thats pretty impressive Uh I guess I bicycle Uh the amount varies as much as hundred and fifty miles week",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "bk"
+            },
+            {
+                "text": "Uh I guess play softball one night week And I backpack lot over the summer",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah thats thats about the extent of it I mean I dont do any of those things particularly you know for exercise But uh I guess the bicycling is the one thing Ill sort of like do if I feel like I need to go exercise Uh but I do it mostly for fun",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah uh what do you ride uh like bunch of hills or pretty flat",
+                "label": "b"
+            },
+            {
+                "text": "It it it varies Uh out near my house is pretty hilly Uh but sometimes I bike to work which is about uh fifteen mile trip each way And thats mostly flat",
+                "label": "sd"
+            },
+            {
+                "text": "How long does that take you to get to work",
+                "label": "qw"
+            },
+            {
+                "text": "Uh about forty-five fifty minutes",
+                "label": "sd"
+            },
+            {
+                "text": "How - how does that work work out with uh storing your bike and showering and all that",
+                "label": "qw"
+            },
+            {
+                "text": "Yeah it can be pain Uh basically uh I work on campus so I can store my bike in my office and walk across the uh campus to the uh gym use the shower there --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh but its its enough of pain that I did it consistently one year I would commute every day uh but it just became such pain I mean were talking you know forty-five fifty minutes for biking",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "uh and sometimes longer if you had adverse wind And then another half an hour you know to cool down and take shower and all this kind of stuff It was big hunk hunk of the day Uh and then of course another hour to get back home Uh so Ive been doing that less and and concentrating more on you know light biking when I get home on the evening and then you know some more on the weekends",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Do you ride lot of rallies or lot of those around there",
+                "label": "b"
+            },
+            {
+                "text": "Not so much Uh I guess mostly I bike on my own Ive got touring bike",
+                "label": "ng"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh though I havent gone on any extended trips with it How about you what kind of biking do you do",
+                "label": "+"
+            },
+            {
+                "text": "Uh well actually my wife just got me into it and I did an did an internship at the Institute for Aerobics Research in Dallas",
+                "label": "^h"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "the Cooper Clinic and I learned all the health benefits of you know - I was solid weight trainer",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and all I did was weights and aerobic exercise and then my wife got me into the aerobic exercise and said you really need to do it so",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "once I got into this uh internship I learned all the physiological ad- advan- advantages to it so I began program couple I dont know probably three or four weeks ago and I did my first bike rally this Saturday I did uh forty forty miles",
+                "label": "+"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "and uh thats the longest Ive ever ridden so far I usually you know fifteen or twenty",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And it was it was kind of hilly and it was pretty tough but uh Im looking at uh doing lot more of it because you know my wife is really into it",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I see",
+                "label": "b"
+            },
+            {
+                "text": "and I I kind of held her back little bit this this weekend She wanted to go go go but",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "you know she wanted to stay with me",
+                "label": "+"
+            },
+            {
+                "text": "Its good to have partner",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah it really is",
+                "label": "aa"
+            },
+            {
+                "text": "Are you think of doing any like centuries or -",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah that would be cool sometime if I could you know work up to that",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh Yeah I just wondered if you were going to do that mostly or more like you know uh uh touring like from Vermont or you know that kind of",
+                "label": "b"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "thing I mean people seem to get into different aspects One is more of distance - and ones more just you know - they want to put some equipment on their bike and go for tour",
+                "label": "+"
+            },
+            {
+                "text": "Ive never really looked into that That you know thats - my wife would just love that",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I may do that sometime There again Im just kind of fledgling into this",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Ive its kind of funny I called this number and I was just reading through bicycle magazine and going through all the different tours coming up",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "I mean around Texas you you got about five or six if you live around the Dallas area you got five or six every weekend to choose from",
+                "label": "sd"
+            },
+            {
+                "text": "Oh thats nice",
+                "label": "ba"
+            },
+            {
+                "text": "Because theyre really into it",
+                "label": "+"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "Bicycling is really big here I didnt know that and you know until I came down here and",
+                "label": "sd"
+            },
+            {
+                "text": "Wow",
+                "label": "ba"
+            },
+            {
+                "text": "kind of caught the fever",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Because I lived in Indiana all my life and you know you may say see one or two guys on bicycle that or above the age of fifteen or something --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but other than that its nothing up there like it is down here",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Im not sure why that is I mean generally in the Midwest it seems to be less much less I mean maybe its because of the winters",
+                "label": "b"
+            },
+            {
+                "text": "Probably",
+                "label": "aa"
+            },
+            {
+                "text": "Uh or maybe just because you know theres theres lot more flat lands you know out in the West",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So it makes biking better alternative for transportation",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah It theres lot of bikers around here Its its really neat",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "There are lot of lot of resources lot of magazines and stuff little TEXAS BICYCLIST is like little newspaper that comes out every month",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "Its free just go to the bike shock bi- bike shop and pick it up and its got all the rides coming up so I guess Im going to be busy about every Saturday this summer",
+                "label": "sd"
+            },
+            {
+                "text": "Oh thats terrific",
+                "label": "ba"
+            },
+            {
+                "text": "going to different ride Yeah see little bit of Texas Ive never seen before",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So uh how long have you been biking",
+                "label": "qw"
+            },
+            {
+                "text": "Oh I guess as an adult for just about the past uh three years or so Uh you know I guess last time I did it before that was college which was about ten years ago",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "bk"
+            },
+            {
+                "text": "And uh yeah I guess I just never really thought about it much for while uh until I suddenly discovered all my friends were basically biking lot And so I thought Id try it too",
+                "label": "b"
+            },
+            {
+                "text": "Have you ever had uh its kind of slightly off the subject but you ever had uh blood workup done recently or since youve been biking",
+                "label": "qy"
+            },
+            {
+                "text": "No I havent no",
+                "label": "nn"
+            },
+            {
+                "text": "to see if it - because it really from what I understand it really improves your uh cholesterol --",
+                "label": "+"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "-- and you know it uh it kind of knocks down two of the big risk categories for coronary artery disease which is uh uh low cardiovascular fitness and also uh you know the cholesterol",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "It gives you increased Ls and decreases your Ls",
+                "label": "sd"
+            },
+            {
+                "text": "Oh thats great",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah so -",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Ive Ive definitely noticed its had good effect on my pulse rate my resting pulse",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know it gets it down to about forty",
+                "label": "sd"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Thats good",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You say you ride about hundred hundred fifty miles week",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Man Thats thats hard-core",
+                "label": "ba"
+            },
+            {
+                "text": "On average yeah",
+                "label": "sd"
+            },
+            {
+                "text": "When do you get to begin with the winters and all that What time of the year do you usually embark on your - do you ride inside if you cant ride outside",
+                "label": "qw"
+            },
+            {
+                "text": "No Im not that hard-core I mean there are some people - in fact lot of people will ride outside in the snow Theyve got uh mountain bike you know with the big knobby tires",
+                "label": "nn"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And I dont do that I basically I I pretty much lay off for the winter Uh I was thinking of getting rollers for the last winter you know because it will help your balance when youre indoor training",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "Uh but I just you know more or less stocked like an exercise bike and that kind of thing uh but yeah I mean winters are kind of problem so Im more or less out of shape now that Ive been biking I guess this year for just couple of weeks",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh but you know up here its only stopped snowing since then",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Uh but yeah its its its its pretty good Its uh - the main the main thing I guess for me is just to enjoy it because once it starts seeming like you know exercise and chore Ill lay off it more",
+                "label": "%"
+            },
+            {
+                "text": "Right So you uh change up your routes lot and keep -",
+                "label": "b"
+            },
+            {
+                "text": "Oh yeah yeah I try to go someplace pretty different you know every week I rotate around uh about four different routes uh from my house or Ill sometimes come in the school Its nice coming its its nice riding to school because its all along canal path uh because its just its along the Erie Canal up here",
+                "label": "aa"
+            },
+            {
+                "text": "So what school is it",
+                "label": "qw"
+            },
+            {
+                "text": "Uh University of Rochester",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay Yeah",
+                "label": "bk"
+            },
+            {
+                "text": "So its fairly picturesque",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And uh so its its its good ride as long as youre not doing it every day its good ride",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Thats true Sounds neat",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Its kind of - I was wondering if I was going to talk with someone that never has exercised before and doesnt want to and everything else but got guy that rides hundred and fifty miles week Thats uh motivating",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Thats really good Well --",
+                "label": "sv"
+            },
+            {
+                "text": "Oh it was good talking to you",
+                "label": "fc"
+            },
+            {
+                "text": "-- good talking to you and keep up the good work",
+                "label": "+"
+            },
+            {
+                "text": "Okay you too",
+                "label": "fc"
+            },
+            {
+                "text": "All right Take care",
+                "label": "fc"
+            },
+            {
+                "text": "Bye",
+                "label": "fc"
+            },
+            {
+                "text": "Bye",
+                "label": "fc"
+            }
+        ]
+    }
+]

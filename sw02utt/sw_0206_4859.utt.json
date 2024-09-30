@@ -1,0 +1,219 @@
+[
+    {
+        "conversation_id": "conv_4859",
+        "turns": [
+            {
+                "text": "Okay Uh generally I get uh you know most of my news uh in the you know weekly magazines like TIME NEWSWEEK and and uh NEWS AND WORLD REPORT With with occasional smatterings of of uh you know THE WALL STREET JOURNAL and of course the local paper",
+                "label": "o"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But uh my my only complaint is I really dont enough time to to look at the articles every day and and go through paper you know exhaust the details So thats why I concentrate on weekly magazines",
+                "label": "sd"
+            },
+            {
+                "text": "Do you think that the weekly magazines provide you with as much detail information as youd like",
+                "label": "qy"
+            },
+            {
+                "text": "Well yes I I well I I dont think I have the time to really become student in every article",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And and so I I I like the weekly magazines uh because i- it gives me you know the high points of whats going on",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "Uh but many times uh you know the the local uh the local news kind of suffers you know But here I am you know cheek by jowl with our nations capital and -",
+                "label": "sv"
+            },
+            {
+                "text": "Oh thats right Youre very close actually Its --",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- almost uh bedroom community for --",
+                "label": "+"
+            },
+            {
+                "text": "Yes",
+                "label": "aa"
+            },
+            {
+                "text": "-- the capital",
+                "label": "+"
+            },
+            {
+                "text": "- exactly Well when when the capital gang always talk about the people inside the beltway Im saying to myself hey guys Im inside the beltway But uh i- it turns out that uh that that the is I think is great",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And for for things like hurricanes and fast breaking events but generally theyre theyre theyre more sound bitish you know kind of thing and and I dont really uh you know I dont really feel as though Ive gotten sufficient uh you know dose of news that way",
+                "label": "+"
+            },
+            {
+                "text": "Yeah lot of my information comes from several sources Probably pretty high up on the list is National Public Radio",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh which I like",
+                "label": "+"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "Uh I I think its fairly objective and I always like the letters that they read which tend to accuse them of being too liberal and too conservative And while theres an inherent uh filtering process going on just by the letters they choose to read uh I always figure its good thing when any given group is being accused by each side of uh favoring the other side Thats thats potential indication of balance And generally I really do believe they are pretty balanced Uh I also read TIME magazine and we get one of the daily newspapers around here where we go through various sections of the uh various uh of the articles and the front section and uh -",
+                "label": "sv"
+            },
+            {
+                "text": "Well the MERCURY and the and the and the CHRONICLE are the only things that are really can --",
+                "label": "sv"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- stand up there",
+                "label": "+"
+            },
+            {
+                "text": "Oh you st- - did you use to live around here",
+                "label": "%"
+            },
+            {
+                "text": "Uh Redwood City I use to work at Anteks",
+                "label": "na"
+            },
+            {
+                "text": "Oh okay Oh yeah okay I know exactly where that is",
+                "label": "bk"
+            },
+            {
+                "text": "Anteks Amdahl and places like that",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah we we get the MERCURY which I generally think is actually pretty good newspaper",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "- - the newspaper I really been impressed with it when Ive read it at times i- at well the LOS ANGELES TIMES",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Which Ive found to be uh very good quality uh newspaper and I like lot of the articles there Th- the other thing when you said we dont have cable so but the other thing that you referred to that always sounds really interesting to me is is called SPAN",
+                "label": "+"
+            },
+            {
+                "text": "Yes I Ive I enjoy - see they have uh we have two the both SPANS here But but --",
+                "label": "aa"
+            },
+            {
+                "text": "Both",
+                "label": "br"
+            },
+            {
+                "text": "-- really the th- on the public you know MACNEIL LEHRER --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- is one is an hours program that I always - if if I watch any news program it will be MACNEIL LEHRER",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "And and occasionally SPAN I I like I saw the uh the uh the the tapes that were that were run of Marion Berrys drug bust was the whole thing was was run on that and --",
+                "label": "+"
+            },
+            {
+                "text": "Oh I never say that listen should say be saw That would have been interesting",
+                "label": "sd*"
+            },
+            {
+                "text": "-- and and - also they have the uh the uh uh PARLIAMENTS QUESTION AND ANSWER PERIOD It -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I I think thats always fascinating I wish I wish we had something",
+                "label": "b"
+            },
+            {
+                "text": "when wh- when it first uh you know when it first tuned in on that I you know - its one thats - I think it was somebody was just scarcely just just ripping the hell out of someo- another person And I - and everybody was you know making noise in the background And then needs slash mark",
+                "label": "sd"
+            },
+            {
+                "text": "But its usually the Prime Minister right",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah Heres this dude in wig --",
+                "label": "+@"
+            },
+            {
+                "text": "Thatcher Major -",
+                "label": "sd"
+            },
+            {
+                "text": "-- and I said to myself its another Monty Python that I didnt know about And then and then up jumps Margaret Thatcher off her green bench and I said oh its Parliament",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Which could be another of Monty Python",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah So I I thought to myself I cant wait Im going over to to Britain in mid you know in mid-May I I Im going to uh you know - you know apr- approach my uh you know - this is how I discovered you know the que- the Prime Ministers you know question and answer period you know - -",
+                "label": "ny"
+            },
+            {
+                "text": "I I have seen that and uh aside from the level of wit which is much higher than generally in American politics uh which I really enjoy I really like the fact that they have chance to ask hard real questions I think And its unlike the fairly controlled uh press conferences that Presidents of the United States have here where they they always seem -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            }
+        ]
+    }
+]

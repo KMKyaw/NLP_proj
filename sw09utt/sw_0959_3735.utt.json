@@ -1,0 +1,539 @@
+[
+    {
+        "conversation_id": "conv_3735",
+        "turns": [
+            {
+                "text": "Hello",
+                "label": "fp"
+            },
+            {
+                "text": "Hi",
+                "label": "fp"
+            },
+            {
+                "text": "Okay I pressed one so I guess were recording now",
+                "label": "b"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "Okay um",
+                "label": "b^m"
+            },
+            {
+                "text": "Um as far as spare time they talked about - I dont I think - who has any spare time Ive got six year old and um - well my babys one today",
+                "label": "sd^t"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "Todays his birthday",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "And Im also Im expecting and so I I dont know I havent had much spare time lately but -",
+                "label": "sd"
+            },
+            {
+                "text": "Okay well Ive I have had some because I was working for I and they went bankrupt so --",
+                "label": "b"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- Ive got quite bit of spare time right now And Ive been making dolls cloth dolls",
+                "label": "+"
+            },
+            {
+                "text": "Oh have you",
+                "label": "bh"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "And uh -",
+                "label": "%"
+            },
+            {
+                "text": "You sew the bodies and everything",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah its theyre all cloth Its not uh any porcelain at all",
+                "label": "ny"
+            },
+            {
+                "text": "So so you just sew everything up huh",
+                "label": "qy^g"
+            },
+            {
+                "text": "Yeah --",
+                "label": "ny"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "-- and I make the clothes for them",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh What kind -- -",
+                "label": "b"
+            },
+            {
+                "text": "And -",
+                "label": "%"
+            },
+            {
+                "text": "-- do they have yarn hair or -",
+                "label": "qy"
+            },
+            {
+                "text": "Um no you can get the little curly hair --",
+                "label": "nn"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- at the craft shop",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "I made some of them with that hair and then uh dont ask me what the other hair I made - it looked like um it looked - well I made some of them with regular wigs",
+                "label": "sd"
+            },
+            {
+                "text": "Oh did you",
+                "label": "bh"
+            },
+            {
+                "text": "I went to the flea markets and bought you know like the wigs for dollar",
+                "label": "sd"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Then I cut shape out of the back of them --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh my goodness",
+                "label": "ba"
+            },
+            {
+                "text": "-- and then sewed them on",
+                "label": "+"
+            },
+            {
+                "text": "It sounds like youre creative",
+                "label": "sv"
+            },
+            {
+                "text": "They looked really cute",
+                "label": "sd"
+            },
+            {
+                "text": "Uh do you sell them",
+                "label": "qy"
+            },
+            {
+                "text": "I have sold five of them so far",
+                "label": "na"
+            },
+            {
+                "text": "Oh have you",
+                "label": "bh"
+            },
+            {
+                "text": "uh-huh I just have to get place where you know I can sell them actually",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah I bet How long does it take you to make one",
+                "label": "b"
+            },
+            {
+                "text": "Uh if I would just work all day long making the clothes and everything probably about two and half days",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "Do you enjoy it",
+                "label": "qy"
+            },
+            {
+                "text": "Yes --",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- I really do",
+                "label": "sd^e"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And then I also crochet and -",
+                "label": "sd"
+            },
+            {
+                "text": "I I I can crochet and knit Um actually I started an afghan but its been whole long time ago --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- probably over year ago and its sitting in my closet half done right now but its knitting one And -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I tried knitting first but I dont know I I didnt like it",
+                "label": "b"
+            },
+            {
+                "text": "Oh didnt you",
+                "label": "b"
+            },
+            {
+                "text": "So then I went to crocheting but now I want to learn how to knit again",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I en- -",
+                "label": "b"
+            },
+            {
+                "text": "You know",
+                "label": "b"
+            },
+            {
+                "text": "Yeah I enjoy knitting I I kind of like that but I just like I say havent done it for while",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I do like sewing sometimes I Ive made few of the you know just the little valence curtains in my house and --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- things like that But it its just finding the time for these things that you --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "aa"
+            },
+            {
+                "text": "-- you enjoy But -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I in fact I just bought serger in December",
+                "label": "b"
+            },
+            {
+                "text": "oh I would love one of these",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Oh thats neat",
+                "label": "ba"
+            },
+            {
+                "text": "I havent done everything on it yet you know but just what little bit I have used it for I really like it",
+                "label": "sd"
+            },
+            {
+                "text": "Oh those are wonderful arent they",
+                "label": "sv"
+            },
+            {
+                "text": "You know especially making the seams and things like that you know its its got such professional finish on them",
+                "label": "sv"
+            },
+            {
+                "text": "Oh yeah that and thats what I hate doing is the finishing stuff",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Itd be nice to have that",
+                "label": "sv"
+            },
+            {
+                "text": "So I like that",
+                "label": "sd"
+            },
+            {
+                "text": "Oh thats neat",
+                "label": "ba"
+            },
+            {
+                "text": "And -",
+                "label": "%"
+            },
+            {
+                "text": "Well do you have um uh - I guess youre kind of young I was going to say do you have grand kids or anything to make dolls for",
+                "label": "qy"
+            },
+            {
+                "text": "Well fifty-sevens not young but no my sons has been married for almost ten years but they dont have any children",
+                "label": "sv"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So I just make clothes for my dolls",
+                "label": "sd"
+            },
+            {
+                "text": "Oh well Well how did you get involved in that",
+                "label": "b"
+            },
+            {
+                "text": "Just you know just like sewing and stuff and decided to buy pattern and try to make doll",
+                "label": "sd"
+            },
+            {
+                "text": "So you did buy pattern and then started from there",
+                "label": "bf"
+            },
+            {
+                "text": "And they they turned out really cute Yeah you got to have pattern for the body --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh -",
+                "label": "%"
+            },
+            {
+                "text": "Ha- have you ever seen those bunnies --",
+                "label": "qy"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "-- that they dress",
+                "label": "+"
+            },
+            {
+                "text": "Yes",
+                "label": "ny^r"
+            },
+            {
+                "text": "Yeah I I did make some clothes for one of those --",
+                "label": "b"
+            },
+            {
+                "text": "Arent they cute",
+                "label": "qy"
+            },
+            {
+                "text": "-- dress one of those Yeah I have quite few of them actually in my house I and most of them I have bought um already clothed but I did --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- I did make the dress on one and I kind of made the pattern up Its not its probably not the best but -",
+                "label": "+"
+            },
+            {
+                "text": "No I I bought bunny pattern one time but when I sewed it up the face of it looked like mouse",
+                "label": "ar"
+            },
+            {
+                "text": "Oh it did",
+                "label": "bh"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "See it was too pointed",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "So I tore it back apart again and I havent tried another one",
+                "label": "sd"
+            },
+            {
+                "text": "You havent sewn it back up huh",
+                "label": "qy^g"
+            },
+            {
+                "text": "No but I bought little lamb pattern and the material and everything to make it out of but I havent made it yet",
+                "label": "nn"
+            },
+            {
+                "text": "uh-huh Uh do you do any kind of painting or anything",
+                "label": "b"
+            },
+            {
+                "text": "No I dont --",
+                "label": "nn"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- paint except I stenciled my wall",
+                "label": "+"
+            },
+            {
+                "text": "Oh uh-huh I tri- I tried that I did I I ended up just stenciling um blind like just roller shade",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But I I can I had hard time stenciling For some reason I just couldnt do it",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "And people have told me its very easy",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah I my neighbor did it first and I seen her house and I saw how beautiful it looked so then I decided well I was going to do it and --",
+                "label": "b"
+            },
+            {
+                "text": "Well -",
+                "label": "b"
+            },
+            {
+                "text": "-- uh it turned out really really good",
+                "label": "+"
+            },
+            {
+                "text": "What design did you use",
+                "label": "qw"
+            },
+            {
+                "text": "Uh mostly flowers --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know",
+                "label": "+"
+            },
+            {
+                "text": "And what room",
+                "label": "qw"
+            },
+            {
+                "text": "Ive done it in the all uh all my rooms",
+                "label": "sd"
+            },
+            {
+                "text": "Have you",
+                "label": "bh"
+            },
+            {
+                "text": "I put it in the bedrooms and the bathroom",
+                "label": "sd"
+            }
+        ]
+    }
+]

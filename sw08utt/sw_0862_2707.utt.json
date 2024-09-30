@@ -1,0 +1,759 @@
+[
+    {
+        "conversation_id": "conv_2707",
+        "turns": [
+            {
+                "text": "Okay",
+                "label": "o"
+            },
+            {
+                "text": "Um yeah",
+                "label": "o"
+            },
+            {
+                "text": "Were official now yeah",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah its um its very hot in fact Ive been cleaning because I live in an apartment --",
+                "label": "b"
+            },
+            {
+                "text": "Oh okay",
+                "label": "b"
+            },
+            {
+                "text": "-- so I cant do very much gardening other than balcony gardening --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- um you know I have the little flower boxes with um - lot of different flowers and I do enjoy plants but I dont have yard or anything that I can do gardening really",
+                "label": "+"
+            },
+            {
+                "text": "Oh youre youre youre not the so-called ex- - you need house I guess to go through all of that I have had couple of houses and uh --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- the only recommendation I would have for someone who hasnt gardened is uh one get couple of good books of books of course and usually they have talk shows",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Here in Dallas --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- they have two great uh talk shows that go through everything that will grow here which is the opposite probably of what would grow up where you are --",
+                "label": "+"
+            },
+            {
+                "text": "Right right",
+                "label": "b"
+            },
+            {
+                "text": "-- and so Uh --",
+                "label": "sv"
+            },
+            {
+                "text": "Well the",
+                "label": "o@"
+            },
+            {
+                "text": "-- in fact you you could easily do that now listen to turn on talk show up there --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "+@"
+            },
+            {
+                "text": "-- and see if there theres got to be some gardening folks --",
+                "label": "+"
+            },
+            {
+                "text": "Yes but -",
+                "label": "b"
+            },
+            {
+                "text": "-- on the radio that says when to put your grass in and and what kind of grass to grow up in Virginia and everything so I uh - for someone who doesnt garden Id say that thats my biggest recommendation is to -",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh so you enjoy gardening",
+                "label": "b"
+            },
+            {
+                "text": "Oh yeah yeah I like it lot uh --",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh its lot of work Im an engineer Im Im with I You - are you with I up there or -",
+                "label": "+"
+            },
+            {
+                "text": "No no Im with defense contractor",
+                "label": "nn"
+            },
+            {
+                "text": "Okay Uh where was oh - yeah no I I like it I uh I always know that why Im not farmer when I garden though I mean it is dog work and it is tough --",
+                "label": "bk"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- I have lot of trees down here uh the part I dont like I guess would be from December through February where you have to rake leaves --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- forever it seems like and the wind blows all the leaves on from your neighbor after you rake yours so --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- other than that you know those three months when its pure dog work --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh the rest of its very enjoyable just going through the experiences of of putting little plants in or whatever --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- I I havent had to plant any trees because Ive got so many but uh --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh but I do listen to that talk show There there is some great people from Texas and I dont know maybe youve heard of and down here but theres some great uh folks uh --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- that have been well trained and again uh to to uh recommend gardening for this area",
+                "label": "+"
+            },
+            {
+                "text": "Um Yeah Im sure it is you know different in the different areas Um Im originally from Pennsylvania and I do go home on weekends during the Summer and uh and uh mow my mothers grass and different things like that",
+                "label": "b"
+            },
+            {
+                "text": "Yeah you probably have rye grass up there We grow bermuda and Saint Augustine here",
+                "label": "b"
+            },
+            {
+                "text": "Oh I would have no idea",
+                "label": "sd"
+            },
+            {
+                "text": "Right yeah see you would have to learn that though see -",
+                "label": "b"
+            },
+            {
+                "text": "No idea whatsoever Like I said Im just balcony kind of gardener with my little flowers and my flower boxes and my herbs on --",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "-- my window sill and -",
+                "label": "+"
+            },
+            {
+                "text": "Do you have much luck in the Winter or theyre theyre freeze it freeze out because the roots are all in the Winter uh - or do you have to start all over every year",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah I have to start all over every year --",
+                "label": "ny"
+            },
+            {
+                "text": "Right yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- well except I do have some um some day lilies that --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- um you know I dont do anything with and they seem to come back year after year and I leave them on my balcony even in --",
+                "label": "+"
+            },
+            {
+                "text": "In the same pot thats amazing",
+                "label": "^2"
+            },
+            {
+                "text": "-- in the snow and the Winter you know --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- in the ice everything because here you know not as severe as the snow is in Pennsylvania but here we still do get some snow and ice and --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- things like that",
+                "label": "+"
+            },
+            {
+                "text": "I grow few things in pots but we have to bring them in here --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- in the Winter because usually uh if its not below the ground so you can insulate the roots from freezing --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know the pots will will die everything in pot will die --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- so you can bring them well we do bring stuff in the garage and everything --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but uh its quite time consuming by the way I dont know how close you are to getting house or anything but its quite uh - But I would definitely do it - Im all for doing everything - whether - whatever subject you pick do it the knowledgeable way --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- dont go out there and start digging holes uh",
+                "label": "ad"
+            },
+            {
+                "text": "Right right I agree with that",
+                "label": "aa"
+            },
+            {
+                "text": "Get some books of whether it be Pennsylvania or Virginia --",
+                "label": "ad"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- as as well as - not your neighbors of course they usually know nothing but listen to still - then theres always gardening part of the newspaper --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- or communications as well as I bet theres talk show up there right now that you if you turn the dial around --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- youll - on Saturday - this is Saturday - that - youll find someone probably in the morning I dont know --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- discussing you know what we do up in Virginia to get something growing --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- you probably dont have to do much over there the soils probably so good --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- our soils not very good down here Were -- -",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- I guess in the ice age it it its pushed lot of uh limestone and everything to some parts of Dallas you just can dig foot down and you hit solid limestone you know --",
+                "label": "sv"
+            },
+            {
+                "text": "Wow uh-huh",
+                "label": "ba"
+            },
+            {
+                "text": "-- so uh I think all the trees that are here now were planted kind of like the Johnny Appleseed type trees where people have come from - Im sure the Indians were here there was nothing growing in this part of Dallas its so scrubby --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh and I think that we even got our famous hundred year old pecan trees from Alabama and all that too --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- we we call them native pecan trees but they grow wild here theyre eating pecans though Pecans are probably not taken from Virginia theyre probably only in the South --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh right Im -",
+                "label": "b"
+            },
+            {
+                "text": "-- for pecan pie and all that its what they call pecan pecan pie up there in the East",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "from Pennsylvania and New Jersey - Im from New Jersey originally",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh oh you dont sound like it",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Ive worked on that with little chewing gum which I shouldnt do uh",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Go ahead you how many times have you called by the way or how many times have you been called",
+                "label": "ad"
+            },
+            {
+                "text": "Um Ive been called lot at the times though its been not very appropriate I guess that I havent been able to actually participate Ive participated probably in about maybe I dont know seven calls --",
+                "label": "sd^t"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and you know Ive called couple of times but most of the time I notice that um you know it takes forever to get call through",
+                "label": "sd^t"
+            },
+            {
+                "text": "Oh yeah today - thats what Im saying today I was I got to laugh because I tried it this morning and I thought everybody was gardening I thought - Well no --",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- no This is great subject because theyre out there gardening you know",
+                "label": "nn"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I didnt tell you what our weather is like It is beautiful here --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- today",
+                "label": "+"
+            },
+            {
+                "text": "Yeah its like eighty-five degrees here",
+                "label": "b"
+            },
+            {
+                "text": "Its not quite that hot Yeah weve had real nice mild Spring You might have seen if youve seen the news today about all the tornados here that were --",
+                "label": "sd"
+            },
+            {
+                "text": "No I havent",
+                "label": "nn"
+            },
+            {
+                "text": "-- north of us Uh I dont know if you get I dont get but its here at work --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- in fact Im at work today believe it or not",
+                "label": "sd"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But uh they have - in the break areas --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and there was some heavy tornados uh I guess in Kansas quite few people were killed Youll see that on the evening news",
+                "label": "sd"
+            },
+            {
+                "text": "Oh my uh-huh",
+                "label": "ba"
+            },
+            {
+                "text": "Uh",
+                "label": "b"
+            },
+            {
+                "text": "Ill have to make sure I catch that",
+                "label": "cc"
+            },
+            {
+                "text": "Tornados uh which is not the right subject but uh they blow through here all in the Spring I guess its related somewhat to the weather you know --",
+                "label": "sv^t"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and and the plants and all that that uh --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- sometimes they do essentially nothing and the weather men yesterday were all alert say hey theres something really terrible going to happen and they they sure were right but it wasnt in Texas it was --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- north of us Yeah look at the news tonight theyll theyll --",
+                "label": "+"
+            },
+            {
+                "text": "Ill have to make sure I catch that",
+                "label": "cc^r"
+            },
+            {
+                "text": "-- they claim thirty odd people were killed up in Kansas City Kansas",
+                "label": "+"
+            },
+            {
+                "text": "Uh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Anyway back on planting Uh It is very interesting uh subject uh when you when did you get house uh your your trees grow up so well up there but Im sure you have plenty of trees",
+                "label": "ad"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "That that is key thing for shade --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and keeping your bills down uh I guess you have mostly pine trees but where in Virginia are you all",
+                "label": "+"
+            },
+            {
+                "text": "Um right now the District Washington --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- um in Fairfax Virginia Its fifteen miles west of Washington",
+                "label": "sd"
+            },
+            {
+                "text": "Oh do you have the cherry blossoms there in there or not",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah theres theres few not you know nearly as many as whats actually in the District But um theyre definitely enjoyable",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Right now I know the azaleas and everything are out are beautiful",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah Yeah azaleas grow all over we grow those here too although again we have to prepare the soil",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You probably have nice big pine you probably have all kinds of trees the oaks and everything thats one thing I noticed there",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah there there there is vast variety here of you know trees like if I look out my window right now I can see you know couple of pine trees some oak trees --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- yeah",
+                "label": "b"
+            },
+            {
+                "text": "Have you ever been down here",
+                "label": "qy"
+            },
+            {
+                "text": "Um no actually I havent",
+                "label": "nn"
+            },
+            {
+                "text": "Okay its interesting country It is wide open uh and flat --",
+                "label": "bk"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh and again as I said I think the when the Indians were here there there werent any trees but the the civilization has brought all kinds of experiments with all kinds of trees and lot of them have done well --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh they do have some pine forest areas in wes- in wes- in east Texas --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- where you have native pine trees but here in Dallas its I think they all were planted by the classical Johnny Appleseed and Johnny Pecanseed whatever you would call it you know theres tremendous amount of pecan trees --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- that we use for you know uh for eating --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- I think they thought that was going to be great boom crop uh hundred and fifty years ago because they are all over the place --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- in the South What else",
+                "label": "+"
+            },
+            {
+                "text": "Um well I guess that I really dont know that much",
+                "label": "sd"
+            },
+            {
+                "text": "I dont have any say I I - the subjects are usually pretty interesting I Im Im of course Im I -er so Im hoping this works I is very good uh has done lot of experiments in the speech uh --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- speech uh synthesis synthesis cant say it",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And theyve come out with some new products in fact this week they came out with some new math uh you might see them in your advertisements uh new math uh Speak and Math uh devices They they have had Speak and Spell and all that for years --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- but theyve come out with some different ones --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- this past week and uh my wife and everyone - what what are they going to accomplish out of all this and I said Well youre not going to have to type on the computer one day youre just going to have to talk to it --",
+                "label": "+"
+            },
+            {
+                "text": "Right uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know so you you - its going to be much faster of course you know the classical thing for the handicapped too person who cant type very fast or -- -",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- like I can of course -- -",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- not that I can type very fast either but uh -",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh but then what about people that um - I I I personally work with someone that that is deaf and cannot speak She can speak but she cant speak very clearly --",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and she in fact is data entry person I mean she types away all day",
+                "label": "sd"
+            }
+        ]
+    }
+]

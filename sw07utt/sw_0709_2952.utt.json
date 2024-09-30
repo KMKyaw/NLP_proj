@@ -1,0 +1,791 @@
+[
+    {
+        "conversation_id": "conv_2952",
+        "turns": [
+            {
+                "text": "Okay what kind of things do you like to do in your spare time",
+                "label": "%"
+            },
+            {
+                "text": "Well uh I have two children",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "so I do not have whole lot of spare time right now One of the things that I have made time for is uh playing softball",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I really enjoy - I enjoy softball but I enjoy all kind of sports I enjoy watching and participating I really like water sports like swimming and skiing but I do not get to do that too often",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And then I I really enjoy sewing but I do not get much of chance to just really sit down and do much sewing How about you",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I uh like sports type things too We like to get out and walk and we like the water sports too",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But like you unless you have pool in your backyard it is kind of hard to get to do that --",
+                "label": "sd"
+            },
+            {
+                "text": "I know it It is",
+                "label": "aa"
+            },
+            {
+                "text": "-- very often",
+                "label": "+"
+            },
+            {
+                "text": "Do you work full time",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah Well part time We --",
+                "label": "ny"
+            },
+            {
+                "text": "Part time",
+                "label": "b^m"
+            },
+            {
+                "text": "-- are going to have baby in July",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "So part of my big hobby has been trying to put together nursery and all that kind of stuff lately",
+                "label": "sd"
+            },
+            {
+                "text": "Right Yeah that definitely takes over your time",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah it does I have been -",
+                "label": "aa"
+            },
+            {
+                "text": "Is this going to be your first",
+                "label": "qy"
+            },
+            {
+                "text": "Yes uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "I have been doing some cross-stitch for something I wanted to put in the nursery So I have not --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- done that in years but I have kind of enjoyed that",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "It is just hard to find the time to sit there and do it",
+                "label": "sd"
+            },
+            {
+                "text": "Right Well that is - it sure is fun to do that kind of thing because then you have got something to show for it",
+                "label": "aa"
+            },
+            {
+                "text": "Right yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah That is neat",
+                "label": "b"
+            },
+            {
+                "text": "And I guess I kind of consider shopping hobby",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I do too",
+                "label": "aa"
+            },
+            {
+                "text": "I just go out just to just to enjoy it and not --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- really spend money sometimes",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "just look",
+                "label": "+"
+            },
+            {
+                "text": "Well since I have had kids it is kind of funny I I never really was much of garage sale shopper until I had kids 2 slash units But you will probably find after your children get bigger uh like when they want things like tricycles toys things that cost quite lot in the store you can find that kind of stuff at garage sales for just few dollars",
+                "label": "sd,o@"
+            },
+            {
+                "text": "Yeah yeah we --",
+                "label": "aa"
+            },
+            {
+                "text": "And -",
+                "label": "%"
+            },
+            {
+                "text": "-- bought some baby clothes yeah last weekend at garage sale",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Oh you can just get all kinds of things and kids especially clothes and toys they just do not use them and wear them you know for that many years or anything 2 slash units",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So I am - I have become garage sale shopper And it is fun",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "On the weekends I drive around look to see you know who is selling what And I found my little daughter some tap shoes for her tap class",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "And just you know all kinds of things like that that you would probably pay thirty dollars for and I got them for two dollars",
+                "label": "+"
+            },
+            {
+                "text": "Wow Yeah",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah So -",
+                "label": "b"
+            },
+            {
+                "text": "Yeah it is kind of hobby it that is time consuming too really to find the things that you want sometimes you have to stop -- Looks like including A61 there are 3 slash units here",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- at lot of places",
+                "label": "+"
+            },
+            {
+                "text": "Yeah it is It it does take more time But I do not work so uh that is something I have decided I am going to make sure my kids have have happy growing up years and -",
+                "label": "aa"
+            },
+            {
+                "text": "Right yeah I think that is important too I am not --",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- going to work --",
+                "label": "+"
+            },
+            {
+                "text": "Well",
+                "label": "ba"
+            },
+            {
+                "text": "-- after the baby comes",
+                "label": "+"
+            },
+            {
+                "text": "Well that is good",
+                "label": "+"
+            },
+            {
+                "text": "So I --",
+                "label": "sd"
+            },
+            {
+                "text": "I am glad",
+                "label": "ba"
+            },
+            {
+                "text": "-- guess hopefully I will have more time for hobbies I do not know",
+                "label": "+"
+            },
+            {
+                "text": "Well at first when you first have baby you uh seems to take every moment of your time Partly because you are not used to you know juggling your time around like that But",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "aa"
+            },
+            {
+                "text": "eventually the you will you will be doing lots of stuff So -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But I think my husband is real into sports too He plays on I softball team and the church softball team And by the time he plays two games week and I play game week we go to lots of softball",
+                "label": "sd"
+            },
+            {
+                "text": "Wow Yeah",
+                "label": "ba"
+            },
+            {
+                "text": "But the kids enjoy going because theres usually lot of other kids for them to play with and we that is getting outside and you know doing things they like to do too So -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah So that is good whole fam- - your whole family can enjoy those hobbies",
+                "label": "b"
+            },
+            {
+                "text": "Yeah And one other thing we are doing this year is uh we bought Wet and Wild passes",
+                "label": "aa"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "We have never done that before but the kids are always wanting to play in the water And uh like you said unless you have pool in your backyard or access to good place to play it is kind of hard And uh they have real good kiddie areas uh at both of the Wet and Wilds around here So we are planning on going two or three times week",
+                "label": "sd"
+            },
+            {
+                "text": "Oh wow That will make the summer go by in hurry",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah I think it will",
+                "label": "aa"
+            },
+            {
+                "text": "Keep the kids busy",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah Because my oldest daughter is in school and she gets bored real fast when she is home with nothing to do",
+                "label": "aa"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "So I think that will be lot of fun",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So we are looking forward to that",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Uh do you consider yard work hobby at all or is that just chore",
+                "label": "b"
+            },
+            {
+                "text": "Well when I got married I thought it was going to be fun",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But my husband and I both I think consider it chore Its -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "our yard has had so many problems It has completely died out two times",
+                "label": "sd"
+            },
+            {
+                "text": "Oh no",
+                "label": "ba"
+            },
+            {
+                "text": "And uh we have had to start all over trying to plant grass So it has become chore",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "Do you and your husband like to work in the yard",
+                "label": "qy"
+            },
+            {
+                "text": "Oh well we like it once in while but not as often as we have to do it",
+                "label": "nd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I like to put flowers out and you know",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "few little things like that But as far as --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- mowing every week and finding time --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- to get all that stuff done",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "it gets to be chore",
+                "label": "+"
+            },
+            {
+                "text": "Yeah That is true",
+                "label": "aa"
+            },
+            {
+                "text": "Seems like sometimes hobbies do that They kind of take over and turn into work instead of --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- fun",
+                "label": "+"
+            },
+            {
+                "text": "Well that is how sewing I love to sew and uh I wish I had more time to do it But sometimes I will get started on project and then finishing it is more of chore than -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah If it does not go quite quite right",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Another thing I enjoy doing is cooking I I like especially - it is real strange but I like to cook for other people Like I have friend that is uh pregnant but she cant get up and walk around right now",
+                "label": "aa"
+            },
+            {
+                "text": "Oh no",
+                "label": "ba"
+            },
+            {
+                "text": "So I enjoy you know cooking things to take over to her house or -",
+                "label": "sd"
+            },
+            {
+                "text": "Oh that is nice",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah And it it is fun for me to do that It is it is something I enjoy doing It is funny though it is like I do not really want to cook for us It is kind of like when you are kid and and someone elses house was fun to clean but --",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Your -",
+                "label": "b"
+            },
+            {
+                "text": "-- you did not want to do your own",
+                "label": "+"
+            },
+            {
+                "text": "How funny I think I will enjoy cooking more when I am not working when I --",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- do not get home until five-thirty or six and I have to cook and clean up",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "aa"
+            },
+            {
+                "text": "it is not it is not fun But I think I will like it better",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah When you are home --",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- its it makes difference It sure does",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Well do you guys go camping or anything like that",
+                "label": "qy"
+            },
+            {
+                "text": "Uh yeah we have done little bit of camping We like that Its - there again it is just so hard to find time to get away --",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- for whole weekend",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Well that is something that we are planning to do not this weekend but the next My parents go camping lot and they invited the kids and my husband and me to go with them and -",
+                "label": "b"
+            },
+            {
+                "text": "Oh That sounds fun",
+                "label": "b"
+            },
+            {
+                "text": "Yeah We are really looking forward to it The girls love it They have been couple of times and uh just getting to be outside you know all the time and sleep in tent And that is really fun to them So",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "We are looking forward to that",
+                "label": "+"
+            },
+            {
+                "text": "Well that sounds nice I I think that would be good family thing --",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah I --",
+                "label": "aa"
+            },
+            {
+                "text": "-- to start doing --",
+                "label": "+"
+            },
+            {
+                "text": "-- think so",
+                "label": "+"
+            },
+            {
+                "text": "-- more often",
+                "label": "+"
+            },
+            {
+                "text": "Yeah My uh my husband loves to fish I am not much into fishing but uh my daughter thinks she wants to learn how to fish so --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- I think it will be real good for them They can go fishing",
+                "label": "+"
+            },
+            {
+                "text": "Yeah we have camped with some friends who have young children and",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "uh if you can find some place where those little sunfish are right around the shore where they can just pull in line",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Oh they have so much fun doing that",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And they think they are really great fishermen --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- because they are catching so many",
+                "label": "+"
+            },
+            {
+                "text": "Oh I know Yeah uh she is really looking forward I am hoping - that is another thing though when sometimes your uh hobbies can interfere with each other Because my husband is afraid he is going to have softball tournament that weekend",
+                "label": "aa"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "And I am saying no no",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Yeah Skip this tournament",
+                "label": "b"
+            },
+            {
+                "text": "Yeah If you are doing lot of things sometimes you have conflicts and you have to decide what you enjoy the most",
+                "label": "aa"
+            },
+            {
+                "text": "Right",
+                "label": "aa"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "Yeah Do you do any other crafts or anything besides your sewing",
+                "label": "b"
+            },
+            {
+                "text": "Well not really right now I keep thinking when the kids get bigger and I have little more time uh I might take up there is I would love to cross-stitch I think cross-stitching is so pretty but I have never done any",
+                "label": "ng"
+            },
+            {
+                "text": "It is not too hard It is -",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I do not think it is as hard as like knitting or --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- crochet or something like that",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I I crocheted when I was younger It is funny when I was in high school I made blanket And - but you know I cant even remember how I did it now",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "It has been so long since I did it that but -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I started to - to knit sweater",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I got off on my rows somehow and so what should have been the back all of sudden was on the front",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "And then I tore it out and threw it down And I never have picked it back up again and now I cant remember anything about it",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah well I did the same thing Uh when I was pregnant with my first daughter I was really bored and I bought one of those latch hook rug kits",
+                "label": "b"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "It was real pretty rug And I thought well I could use this as gift or something you know And oh it was so - it was beautiful but I did not realize how long it took And I got about two two-thirds of it done and then I just - I had the baby",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And then it was just like --",
+                "label": "sd"
+            },
+            {
+                "text": "Forget it",
+                "label": "^2"
+            },
+            {
+                "text": "-- I forgot all about it And every once in while I will be digging through the closet and I will find that thing And I will think oh maybe I ought to get the rest of that out you know and finish it",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But uh for while there latch hook rugs were real big uh hobby",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I remember that",
+                "label": "aa"
+            },
+            {
+                "text": "It seemed like people did them lot",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Uh uh people do not do that much any more So it was something easy I could do",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah They are pretty easy",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Well it has been real good talking to you",
+                "label": "fc"
+            },
+            {
+                "text": "Yeah You too",
+                "label": "fc"
+            },
+            {
+                "text": "And I hope you enjoy your camping trip",
+                "label": "fc"
+            },
+            {
+                "text": "Oh thank you And thanks for calling",
+                "label": "ft"
+            },
+            {
+                "text": "uh-huh used to mean youre welcome Bye",
+                "label": "fw*"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc"
+            }
+        ]
+    }
+]

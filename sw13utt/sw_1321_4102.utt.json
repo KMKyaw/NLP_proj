@@ -1,0 +1,283 @@
+[
+    {
+        "conversation_id": "conv_4102",
+        "turns": [
+            {
+                "text": "So what do you think about caring for older folks Dale",
+                "label": "qo"
+            },
+            {
+                "text": "Well I think uh the elderly is really neat population to care for",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Theyve got lot of special needs and at the same time uh the majority of them dont want to give up the independence that they have",
+                "label": "sv"
+            },
+            {
+                "text": "Right very definitely",
+                "label": "aa"
+            },
+            {
+                "text": "And so youve got real balance to make there",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "What about you",
+                "label": "qo"
+            },
+            {
+                "text": "Well Im thinking about it more in terms of my parents that are starting to get old They arent really that old but they are sort of wearing out My mamma is dialysis patient --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and she is only about sixty-four but shes had some pretty close calls and my daddy has to drive her to dialysis now and so shes phasing out sounds like and but shes also very very very independent person and doesnt like having having people uh not being able to do things for herself when she wants to --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "-- uh I know they certainly dont want to be in nursing home but my daddy keeps talking about it I dont - I couldnt possibly",
+                "label": "sd"
+            },
+            {
+                "text": "very faint",
+                "label": "%"
+            },
+            {
+                "text": "couldnt never see him in nursing home And my grand daddy also doesnt like wouldnt want to be in nursing home Hes ninety I think right on ninety right now --",
+                "label": "+"
+            },
+            {
+                "text": "Oh really",
+                "label": "b"
+            },
+            {
+                "text": "-- and hes living by himself My grand mamma died couple of years ago --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay",
+                "label": "b"
+            },
+            {
+                "text": "-- so but hes you know - as long as you can have the families take care of the people Id like to see them stay at home",
+                "label": "%"
+            },
+            {
+                "text": "Yeah but it gets hard My my grandmother is in her mid eighties --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and shes uh suffering from uh well uh progressive Alzheimers Disease --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "-- so she doesnt remember anybody --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh she remembers things but they are things back whenever she was real young --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b^r"
+            },
+            {
+                "text": "-- and so with - she was living by herself but my uh uncle has moved in with her to take care of her --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and its creating lot of problems",
+                "label": "sd"
+            },
+            {
+                "text": "Right especially for your uncle I bet",
+                "label": "b"
+            },
+            {
+                "text": "Oh yes Yes",
+                "label": "ny"
+            },
+            {
+                "text": "Now friend of mine who was studying social work here in Philadelphia worked for an adult day care program for mostly for patients with Alzheimer Do they have anything like that in Dallas",
+                "label": "sd"
+            },
+            {
+                "text": "In Dallas uh yeah Ive Ive heard of several things and they are really neat programs to be able to do if you can link up with them but sometimes its hard to either find the connections to get them in or uh to be able to get them there for the day program and pick them up",
+                "label": "^h"
+            },
+            {
+                "text": "Right So they are pretty limited",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "aa"
+            },
+            {
+                "text": "Oh another interesting thing another good friend of mine who got her degree in social gerontology wa- well had job for while where she went around to to folks and had them sort of kicked them in the pants to make them take good care of their older relatives",
+                "label": "sv"
+            },
+            {
+                "text": "Oh really",
+                "label": "b"
+            },
+            {
+                "text": "To make sure that they would take care of their responsibilities",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I dont think that was mainly with Alzheimers patients but just patients people in general who were not as independent as they use to be",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh uh-huh Well it its its really day care programs are really neat you know and if the if the people are able and and can get up and move and everything like that that is one of the best things to do but I think the hardest thing to do is whenever youve got person whos mentally very alert and active --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh very faint",
+                "label": "b"
+            },
+            {
+                "text": "-- and their body just hasnt kept up with them -- -",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- and I think thats in way its more some an area where some of the day care uh programs have left off --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- because you really kind of have to be little bit mobile to be able to do those",
+                "label": "sd"
+            },
+            {
+                "text": "Right to uh get there and to participate in the activities",
+                "label": "b"
+            },
+            {
+                "text": "Right Cause I know theres one not too far from from me here in Dallas Uh and they have ceramics and pottery and needle work --",
+                "label": "b^r"
+            },
+            {
+                "text": "Right",
+                "label": "aa"
+            },
+            {
+                "text": "-- and sports",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "aa^r"
+            },
+            {
+                "text": "But if your vision is gone and you have arthritis real badly -",
+                "label": "sd"
+            },
+            {
+                "text": "Thats true You cant play those things",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah you cant do it",
+                "label": "aa"
+            },
+            {
+                "text": "But you can sing songs and uh --",
+                "label": "sv"
+            },
+            {
+                "text": "Well thats true",
+                "label": "aa"
+            },
+            {
+                "text": "-- and tell stories about the old times I guess you know you were talking about your - was it your grand mother --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "-- that was having Alzheimer --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny^r"
+            },
+            {
+                "text": "-- uh being able to tell old stories You can perhaps get group of people that arent too far along with Alzheimer talking about the old times and enjoying it themselves that way",
+                "label": "+"
+            },
+            {
+                "text": "And they love to recollect I mean they just you know - and they will just go on and on with these stories and they have such memory",
+                "label": "sd"
+            },
+            {
+                "text": "Do they like to listen to other people recollect though",
+                "label": "qy"
+            },
+            {
+                "text": "My grandmother doesnt She she wants to te- to tell you about her story over again so -- -",
+                "label": "ng"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- which is fine you know so -",
+                "label": "sv"
+            },
+            {
+                "text": "Well that is good because we -",
+                "label": "sv"
+            }
+        ]
+    }
+]

@@ -1,0 +1,275 @@
+[
+    {
+        "conversation_id": "conv_4064",
+        "turns": [
+            {
+                "text": "Well how do you feel about trial by jury",
+                "label": "qo"
+            },
+            {
+                "text": "I feel very uncomfortable with trials by juries recently Uh",
+                "label": "sd"
+            },
+            {
+                "text": "In what way",
+                "label": "qw"
+            },
+            {
+                "text": "In that it seems to me that they are swayed more by emotion than uh by evidence thats presented I have uh very little regard for the law presently practiced",
+                "label": "sd"
+            },
+            {
+                "text": "Oh do do you feel they are swayed more toward are you talking about with criminal or civil suits",
+                "label": "qr"
+            },
+            {
+                "text": "I was thinking primarily criminal cases",
+                "label": "sd"
+            },
+            {
+                "text": "So do you think that I mean the the stereotypical bleeding heart juries --",
+                "label": "qy"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "-- where they feel sorry",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh Thats concern of mine Uh I would feel more comfortable in many cases I think with judges Uh you know doing the sentencing",
+                "label": "ny^r"
+            },
+            {
+                "text": "uh-huh The other thing the only thing that really bothers me about that is I think you know that judge can be - I I like the idea of juries of your peers --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh in that you you you get more personally more than one person making the making decision And second of all you get wide variety of background so that -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah my question I guess are they really your peers",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh Id --",
+                "label": "aa"
+            },
+            {
+                "text": "Uh",
+                "label": "sv"
+            },
+            {
+                "text": "-- agree with that Thats definitely problem",
+                "label": "+"
+            },
+            {
+                "text": "Uh too often I think they are not --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh when you when you are selecting jury and you are doing it partially if if not entirely on the basis of which color representation you have --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know that is matter of concern to me too Uh I think that uh in such cases uh they are not really looking for unbiased people but rather for biased",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh now I happen to know several judges and there is one that I would feel uncomfortable but has me- doing sentencing without the jury I would feel little bit uneasy about --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but the other two I feel uh would give either you know the plaintiff or for the defendant the the full benefit of the law",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I guess thats what I am concerned with",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah I guess I I definitely agree with you but sin- the - well what I dont like about uh sentence the jury doing the sentencing --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- in that I think it becomes lot less - the the same crime gets unequal sentences",
+                "label": "+"
+            },
+            {
+                "text": "This is very true",
+                "label": "aa"
+            },
+            {
+                "text": "I uh I think there is more of an ability of you know you know for selecting jury two different juries that would most of the time come up with the same idea uh the same idea versus you know whether he is guilty --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- or innocent --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but I think I think there would be large variation in in trying to gage the the severity of the crime and an appropriate punishment and have that that measure stick across the board",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah and you do see such uneven sentencing --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know evidence of it in the newspapers and such I mean --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- where uh it would appear the crimes were very similar but one individual got twenty-five years and the other one was sentenced to life So -",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh",
+                "label": "b"
+            },
+            {
+                "text": "Of course lot of thats also the ability of of the defendant to uh get good lawyer",
+                "label": "sv"
+            },
+            {
+                "text": "Isnt that the truth",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "There are times when is it uh oh goodness my mind has gone blank its uh Othello You know where he says kill all the lawyers Every now and then one is tempted to see what what",
+                "label": "%"
+            },
+            {
+                "text": "Yeah I agree",
+                "label": "aa"
+            },
+            {
+                "text": "But I its taken me long time to understand that uh lawyers are concerned with the law and not with justice --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- as we think of you know as as --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- novices tend to think that uh attorneys care about justice",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah I I agree with it yeah They will admit to you that they can- dont have the benefit of being able to you know of of letting allowing themselves to believe their clients that are guilty --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- its more of the game plan of how do they convince the judge or jury through argument",
+                "label": "sv"
+            },
+            {
+                "text": "And --",
+                "label": "sv"
+            },
+            {
+                "text": "That the -",
+                "label": "%"
+            },
+            {
+                "text": "-- they are very effective too",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh even - I have been involved uh just sli- slightly in case where I know the person is guilty --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but uh his attorneys gotten him off",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh the city has dropped their charges against him because their the attorney has presented enough evidence of doubt to convince the judge So I dont know",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Uh this is little bit of the subject but one one thing that I really dislike uh also thats thats new is the uh is that I have heard that there are federal sentences",
+                "label": "b"
+            }
+        ]
+    }
+]

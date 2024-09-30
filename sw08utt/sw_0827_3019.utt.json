@@ -1,0 +1,819 @@
+[
+    {
+        "conversation_id": "conv_3019",
+        "turns": [
+            {
+                "text": "Okay so -",
+                "label": "o"
+            },
+            {
+                "text": "First how much television watching do you do -",
+                "label": "qw"
+            },
+            {
+                "text": "I do little bit more than I think usual people do because I am here alone during the day",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and I like it just for the noise",
+                "label": "sd"
+            },
+            {
+                "text": "Thats right but do you actually watch it",
+                "label": "b"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "pay attention to it or is it more of company",
+                "label": "+"
+            },
+            {
+                "text": "Um it just depends on what it is",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I mean I have my favorite things that I do",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh okay",
+                "label": "b"
+            },
+            {
+                "text": "and then some fun thing to do sometime",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Um what about you",
+                "label": "qo"
+            },
+            {
+                "text": "Well actually I work full time and when I am not working I am running and I do not watch lot of television and I am very selective in what I watch",
+                "label": "^h"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "If theres something that I absolutely want to watch I will turn it on and watch it and then turn it off I probably watch television four hours week max",
+                "label": "sd"
+            },
+            {
+                "text": "Well see thats great yeah",
+                "label": "ba"
+            },
+            {
+                "text": "And and uh -",
+                "label": "%"
+            },
+            {
+                "text": "Well -",
+                "label": "%"
+            },
+            {
+                "text": "if if I do not find something that I really want or really want to watch well then I just do not turn it on I would rather listen to music",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Part of it is that uh I think we need to be very selective about the kinds of things that come to us on subliminal basis and I think that if we are doing other things and these programs come in sometimes they influence us and we do not know where that influence came from",
+                "label": "sv"
+            },
+            {
+                "text": "Well I think that well part I think thats partially true too",
+                "label": "aap"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I think you have to have the will and the - and uh anyway I think it -",
+                "label": "sv"
+            },
+            {
+                "text": "Uh right right right",
+                "label": "aa"
+            },
+            {
+                "text": "you are you would be susceptible to stuff",
+                "label": "sv"
+            },
+            {
+                "text": "Of course I uh -",
+                "label": "%"
+            },
+            {
+                "text": "And it has to be reinforced at another level too But",
+                "label": "sv"
+            },
+            {
+                "text": "Thats right",
+                "label": "%"
+            },
+            {
+                "text": "anyway what would you watch if you had you know this week to watch",
+                "label": "+@"
+            },
+            {
+                "text": "I uh -",
+                "label": "+@"
+            },
+            {
+                "text": "Do you like specials",
+                "label": "qy"
+            },
+            {
+                "text": "Well last night for example I really would have liked to have watched UNSOLVED MYSTERIES Those are fascinating to me",
+                "label": "na"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "If I have the opportunity I watch it Unfortunately I was with someone else who was flipping channels",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "I hate that I do not care whole lot for some of the contemporary humor",
+                "label": "sd"
+            },
+            {
+                "text": "Oh right yeah",
+                "label": "b"
+            },
+            {
+                "text": "In our comedy programs although - nobody can appreciate comedy any more than I can but I would prefer to find good comedian on one of the educational channels or one of the older comedians",
+                "label": "sd"
+            },
+            {
+                "text": "Well we have cable also",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and sometimes you can um get the specials",
+                "label": "sd"
+            },
+            {
+                "text": "Thats right",
+                "label": "o@"
+            },
+            {
+                "text": "and sometimes those are really",
+                "label": "sv"
+            },
+            {
+                "text": "and some of those are fine programs",
+                "label": "+@"
+            },
+            {
+                "text": "pretty hysterical",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So I I like to watch comedy I mean -",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and thats something But",
+                "label": "sd"
+            },
+            {
+                "text": "I I enjoy comedy",
+                "label": "sd"
+            },
+            {
+                "text": "I am not",
+                "label": "+@"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "real up to date on whats going on now",
+                "label": "+@"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I I guess I have my old favorites but I am",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "hooked on you know like - Bob Newhart is still on",
+                "label": "+@"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I watch him",
+                "label": "sd"
+            },
+            {
+                "text": "I enjoy that uh-huh",
+                "label": "aa"
+            },
+            {
+                "text": "And uh you know something on that level -",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I I also enjoy uh - I do not know Sunday mornings its Channel Thirteen - I watch lot",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "of Thirteen uh THE MCLAUGHLIN GROUP and I",
+                "label": "+"
+            },
+            {
+                "text": "Thats right",
+                "label": "b"
+            },
+            {
+                "text": "I just laugh I mean I think thats so hysterical",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "these guys Its just so much fun Its just its just lot of fun",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "watching that I mean I do not agree with whole lot of the stuff the they say but its fun",
+                "label": "+"
+            },
+            {
+                "text": "Right Right",
+                "label": "b"
+            },
+            {
+                "text": "You know so yeah",
+                "label": "+@"
+            },
+            {
+                "text": "Well -",
+                "label": "%"
+            },
+            {
+                "text": "I like to be entertained I really do",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I watch it for entertainment but I also watch it for uh cultural impact I do lot of channel thirteen channel three some of the educational channels and I watch for special programs that have special special play special concert uh I recently watched tribute to three of the finest opera stars",
+                "label": "b"
+            },
+            {
+                "text": "Oh now that was fabulous",
+                "label": "ba"
+            },
+            {
+                "text": "Uh and it was fabulous",
+                "label": "aa^m"
+            },
+            {
+                "text": "and that you know -",
+                "label": "qy"
+            },
+            {
+                "text": "I was just absolutely -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "you just held you breath",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "in some of those and uh -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "oh I was just - it makes chills all",
+                "label": "sd"
+            },
+            {
+                "text": "I know",
+                "label": "ba"
+            },
+            {
+                "text": "over you So -",
+                "label": "+"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "I I may or may not even look at the guide but if I have time I may flip through and say hey this looks good if I finish this task I can watch that in an hour Uh if the hour comes and I do not get chance to watch it so what",
+                "label": "sd"
+            },
+            {
+                "text": "You know well theres certain thin- - I mean -",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I have got um my in the kitchen here and",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "uh you know if theres something like cooking shows - I love to watch cooking shows I I really do",
+                "label": "+@"
+            },
+            {
+                "text": "I do too it makes me want to cook",
+                "label": "aa"
+            },
+            {
+                "text": "I know",
+                "label": "ba"
+            },
+            {
+                "text": "and then I eat and then I get fat so I just let other people watch",
+                "label": "sd"
+            },
+            {
+                "text": "I I - yeah",
+                "label": "%"
+            },
+            {
+                "text": "then I eat what they cook",
+                "label": "sd"
+            },
+            {
+                "text": "And and theres some um - in fact one of the water color shows I know has inspired me to take water color lessons you know",
+                "label": "%"
+            },
+            {
+                "text": "Oh I think thats",
+                "label": "sd"
+            },
+            {
+                "text": "So",
+                "label": "o@"
+            },
+            {
+                "text": "marvelous",
+                "label": "+"
+            },
+            {
+                "text": "you know",
+                "label": "+@"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "things like that you get",
+                "label": "+@"
+            },
+            {
+                "text": "Oh yeah I took lot of my",
+                "label": "b"
+            },
+            {
+                "text": "whole lot of exposure",
+                "label": "+@"
+            },
+            {
+                "text": "college courses - I took some of my college courses on television",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "so that - its very successful for some of",
+                "label": "%"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "those things but I think I really got stung very badly about having influence in your life or at least I saw very bad example of having television influence your life uh my husband had an aunt who was addicted to soaps",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and I want you to know that became the most suspicious cantankerous contrary old woman ever walked",
+                "label": "sd"
+            },
+            {
+                "text": "She got you -",
+                "label": "bf"
+            },
+            {
+                "text": "Absolutely I do not know who she thought she was but she just got to the point where you could might near you could almost hear those soaps being echoed in her voice",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and that attitude being demonstrated And for her to miss soap it was big withdrawal",
+                "label": "+"
+            },
+            {
+                "text": "Oh well see thats -",
+                "label": "%"
+            },
+            {
+                "text": "And -",
+                "label": "%"
+            },
+            {
+                "text": "But she was probably depressed to begin with",
+                "label": "sv"
+            },
+            {
+                "text": "Well I do not know",
+                "label": "h"
+            },
+            {
+                "text": "You know what I mean",
+                "label": "qy"
+            },
+            {
+                "text": "Well she was grumpy to begin with",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah grumpy to begin with Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Theres no doubt about that but uh but you could clearly see those influences",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and in my youngsters I know that one day uh my youngsters were watching THE THREE STOOGES and I always thought that was just casual slap stick",
+                "label": "+"
+            },
+            {
+                "text": "I hate that show",
+                "label": "sd"
+            },
+            {
+                "text": "comedy but when one tries to lift the other one up with pipe wrench I decided that was not funny",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "any more",
+                "label": "+"
+            },
+            {
+                "text": "I I -",
+                "label": "%"
+            },
+            {
+                "text": "And I really",
+                "label": "sv"
+            },
+            {
+                "text": "Good",
+                "label": "ba"
+            },
+            {
+                "text": "I really feel very strong about the BART SIMPSON SHOW I think that is - the kids watch that and thats absolutely the mouthiest kid I ever saw And I just I do not like it",
+                "label": "+"
+            },
+            {
+                "text": "Is not that amazing How old are your kids",
+                "label": "qh"
+            },
+            {
+                "text": "Mine are grown but I have grandchildren",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay so thats -",
+                "label": "bk"
+            },
+            {
+                "text": "And young children around",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and uh for four year old to think Bart Simpson is hero is tragic",
+                "label": "sv"
+            },
+            {
+                "text": "I had forgotten about that see its just my husband and I and",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "so I do not have that you know I that constant influence",
+                "label": "+@"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "of the kids shows and all that",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "but uh um I dont know",
+                "label": "h"
+            },
+            {
+                "text": "Well I was very careful even when my kids were",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "kids were at home And when they were young I was really did uh watch what they watched I was cau- - I sat down with them and I watched it and if I did not like it I changed the channel for them You know",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "I you know I distracted them changed their interest",
+                "label": "sd@"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Because I just could not tolerate that kind of influence on the kiddos I just wou- -",
+                "label": "+@"
+            },
+            {
+                "text": "And and you know we get it at school too anyway so you might as well not",
+                "label": "sv"
+            },
+            {
+                "text": "Sure",
+                "label": "b"
+            },
+            {
+                "text": "reinforce it",
+                "label": "+"
+            },
+            {
+                "text": "Thats right thats right",
+                "label": "aa"
+            },
+            {
+                "text": "you know",
+                "label": "+"
+            },
+            {
+                "text": "Gosh they got they are mouthy enough anyway",
+                "label": "ba"
+            },
+            {
+                "text": "I know I remember going to sch- - my parents were lot like too - and of course",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "we did not have any of the variety you know kids have",
+                "label": "+@"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "but all the watch RAWHIDE and all those shows",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And my parents never let me watch anything like that I could watch YOGI BEAR you know",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "what kind of culture was that",
+                "label": "qh"
+            },
+            {
+                "text": "Yeah well -",
+                "label": "b"
+            },
+            {
+                "text": "And I remember going to school the next day and everybody would be asking oh did you see that",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "did you see how he did that and did you see - and I could never participate",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And it always made me feel little bit you know loner like I you know -",
+                "label": "sd"
+            },
+            {
+                "text": "Sure I can",
+                "label": "na"
+            },
+            {
+                "text": "But uh -",
+                "label": "%"
+            },
+            {
+                "text": "understand how that would happen",
+                "label": "+"
+            },
+            {
+                "text": "But see then my parents - I think then you have to replace it with other things",
+                "label": "sd"
+            },
+            {
+                "text": "Absolutely well I did",
+                "label": "aa"
+            },
+            {
+                "text": "You know to uh -",
+                "label": "+@"
+            },
+            {
+                "text": "I ran my kids to death I said hey I think thats enough television for awhile",
+                "label": "sd"
+            },
+            {
+                "text": "Really",
+                "label": "b"
+            },
+            {
+                "text": "maybe we need to go outside",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and we need to go out and play and enjoy some company So I would go out with them now see theres the problem parents do not do that They",
+                "label": "sd"
+            },
+            {
+                "text": "Thats true",
+                "label": "aa"
+            },
+            {
+                "text": "say you go outside and play",
+                "label": "+"
+            },
+            {
+                "text": "Or you go rent video up at",
+                "label": "^q"
+            },
+            {
+                "text": "Yeah I said - but",
+                "label": "b"
+            },
+            {
+                "text": "the store and come home and sit down and watch it",
+                "label": "+"
+            },
+            {
+                "text": "but we went on field trips and we did other things And I think that was -",
+                "label": "+@"
+            },
+            {
+                "text": "Well thats you know thats something people do not do well here we are talking on that subject but thats thats an interesting concept I have got to stick in my uh -",
+                "label": "sv"
+            },
+            {
+                "text": "Of course",
+                "label": "b"
+            },
+            {
+                "text": "You know work with kids but uh -",
+                "label": "sd"
+            }
+        ]
+    }
+]

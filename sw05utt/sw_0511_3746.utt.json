@@ -1,0 +1,335 @@
+[
+    {
+        "conversation_id": "conv_3746",
+        "turns": [
+            {
+                "text": "Okay uh what kind of hobbies do you have Lori",
+                "label": "o"
+            },
+            {
+                "text": "Uh I guess I uh I like to play golf",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh I also like to plant flowers and do do some gardening and do arts and crafts",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Where do you play golf in this area",
+                "label": "b"
+            },
+            {
+                "text": "Well we live uh pretty close to the Mesquite Golf Course",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So we will play either out there or at Firewheel That is usually where we play but I have played you know different courses in in the Dallas area",
+                "label": "sd"
+            },
+            {
+                "text": "Do you uh do you ride or do you pull cart when you play golf",
+                "label": "qr"
+            },
+            {
+                "text": "Uh both",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Not at the same time",
+                "label": "sd"
+            },
+            {
+                "text": "I was going to say that could be difficult",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "No sometimes we ride and sometimes uh we pull we like to to uh lot of the times just walk uh for the exercise But -- -",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- I find that when I ride in cart I play better and I think it is cause I dont get as tired",
+                "label": "sd"
+            },
+            {
+                "text": "I think that might be true",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I dont like pulling cart on Firewell golf course because they want you to pull the cart on the path",
+                "label": "sd"
+            },
+            {
+                "text": "I know and that makes me so mad You know it is like it is not going to do that much damage to the course but apparently they think differently",
+                "label": "aa"
+            },
+            {
+                "text": "That is the reason I dont play over there",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I like the course but I dont play over there because you they dont uh you know dont allow you to pull cart",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And I dont think cart damages the turf",
+                "label": "sv"
+            },
+            {
+                "text": "Right Well the reason why we play over there is because its where since we are Garland resident they gave us special deal where you can get uh ten rounds of golf for hundred dollars yeah hundred dollars cause it is half price what the normal green fees are",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So that is why we you know play over there cause we have got our card",
+                "label": "sd"
+            },
+            {
+                "text": "Well I guess I could use card too I live uh very near uh very close to the Firewheel Golf Course",
+                "label": "sv"
+            },
+            {
+                "text": "Oh do you So you live in Garland then",
+                "label": "bh"
+            },
+            {
+                "text": "Yes I live in northwest Garland Right up there near the golf course",
+                "label": "ny"
+            },
+            {
+                "text": "Okay well we are in south Garland but yeah next time you go uh you know check into it they have uh - it is just like uh bus card and they just punch it You know it has got one through ten on it and every time you go they just punch it for you",
+                "label": "bk"
+            },
+            {
+                "text": "Well in the last two years I have not played very much golf because I am involved in Boy Scouts",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay",
+                "label": "bk"
+            },
+            {
+                "text": "So I have uh I have uh I have children --",
+                "label": "sd"
+            },
+            {
+                "text": "You must have son",
+                "label": "qy^d"
+            },
+            {
+                "text": "-- Boy Scout age I have two boys that are boy scout age and uh so --",
+                "label": "+"
+            },
+            {
+                "text": "Oh okay",
+                "label": "bk"
+            },
+            {
+                "text": "-- I am very active in Boy Scouts so I would have to say that camping and hiking and canoeing and Boy Scouts is my hobby",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But I -- -",
+                "label": "%"
+            },
+            {
+                "text": "Oh well that sounds like fun too",
+                "label": "ba"
+            },
+            {
+                "text": "-- but my golf clubs will probably rust before I get to use them again because my boys are still right at the beginning age and it is probably going to be six to eight years before they go to college",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Well you need to uh teach them how to play and take them out on the course with you",
+                "label": "b"
+            },
+            {
+                "text": "Thats right Lessons are expensive though",
+                "label": "aa"
+            },
+            {
+                "text": "Oh yeah Well you can teach them",
+                "label": "aa"
+            },
+            {
+                "text": "Well they would probably never make it then because I dont think uh - I only took lessons for golf when I was in college",
+                "label": "ar"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh as course for you know --",
+                "label": "sd"
+            },
+            {
+                "text": "Right Right",
+                "label": "b"
+            },
+            {
+                "text": "-- so I could graduate",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But uh that is the only time I think I have ever really taken golf lessons and that was kind of group --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- scenario --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- and not individual",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "I took one lesson one other time Besides that uh I just uh try to make the club hit the ball",
+                "label": "sd"
+            },
+            {
+                "text": "Right Yeah I know what you mean",
+                "label": "aa"
+            },
+            {
+                "text": "I dont want to play strike out you know",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But I have fun doing it some uh you know I have some good shots and some bad shots",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah It it is just nice to get outdoors and do something",
+                "label": "b"
+            },
+            {
+                "text": "So you said you work uh in the gardens too Do you have uh special flowers",
+                "label": "sd"
+            },
+            {
+                "text": "Well flower gardens I like to have - matter of fact this past weekend I just got finished planting bunch of tulips and daffodil bulbs So those ought to be coming up around spring time",
+                "label": "no"
+            },
+            {
+                "text": "My wife had uh just put in bunch of I want to say they are pansies",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "She put them in like two months ago cause they are winter plants",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And they have been - we thought even with all the cold weather weather we have had they have been blooming just fine",
+                "label": "sd"
+            },
+            {
+                "text": "Oh they do great I put mine in probably in November",
+                "label": "sd"
+            },
+            {
+                "text": "That is when she did I think",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I think it was November and I dont do anything to mine water them or anything And they just - they do really good and I even had uh I guess it was last year or the year before I had some out and it froze and the pansies looked terrible but they came back later I didnt do anything to them so they are uh they are good to plant in the winter time They last for long time then So if you start putting them you know you can put them out in the spring too but once it starts getting real hot --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- then it just kills them cause they cant stand the hot weather",
+                "label": "+"
+            },
+            {
+                "text": "Do they survive longer if you plant them in the winter time Will they make it through the summer sun",
+                "label": "qy"
+            },
+            {
+                "text": "No they wont make it through the summer because it gets too hot but they make it through probably winter and spring So -",
+                "label": "nn"
+            },
+            {
+                "text": "Well",
+                "label": "%"
+            },
+            {
+                "text": "Yeah I have got some of those too cause I love flowers",
+                "label": "%"
+            },
+            {
+                "text": "Well that is good",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah And I do I try to do some arts and crafts and I love to go -",
+                "label": "b"
+            }
+        ]
+    }
+]

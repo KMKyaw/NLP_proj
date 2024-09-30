@@ -1,0 +1,659 @@
+[
+    {
+        "conversation_id": "conv_2339",
+        "turns": [
+            {
+                "text": "Okay I was thinking about camping and different i- peoples ideas about it",
+                "label": "o"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Weve even seen people with these campers and they got the big old antennas up so they can watch their when theyre going",
+                "label": "sd"
+            },
+            {
+                "text": "Right or their --",
+                "label": "aa"
+            },
+            {
+                "text": "Thats not -",
+                "label": "%"
+            },
+            {
+                "text": "-- satellite dish",
+                "label": "+"
+            },
+            {
+                "text": "Yeah satellite dish",
+                "label": "b"
+            },
+            {
+                "text": "On top of the recreational vehicles",
+                "label": "sd"
+            },
+            {
+                "text": "Oh golly Thats not the kind we do Do you go camping",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah We have little bit and weve just gotten one of those little tents that we throw out on the ground and thats what we camp in So we kind of rough it",
+                "label": "ny"
+            },
+            {
+                "text": "Well so do we In fact when we first got married we would try to take these trips to Minnesota to see his family --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and we didnt have tent or any camping supplies so wed sleep on those picnic tables at roadside parks",
+                "label": "sd"
+            },
+            {
+                "text": "Oh no",
+                "label": "ba"
+            },
+            {
+                "text": "I mean I know its dangerous I wouldnt do it now but we did And one time we went to Yellowstone and we were doing the same thing We couldnt find place to camp and so we were on top of picnic table with our our sleeping bags I guess And this ranger comes up with this light shines it on us and said that were just bear bait out there We had our food --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and told us to get inside our car",
+                "label": "+"
+            },
+            {
+                "text": "Gosh Bear bait",
+                "label": "b^m"
+            },
+            {
+                "text": "Bear bait",
+                "label": "b^r"
+            },
+            {
+                "text": "That would make me nervous",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Have you done any camping around here",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah Weve got some land at Holly Lake --",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- outside of Tyler And we go up there fairly often Sometimes we get lot of people together to do it",
+                "label": "+"
+            },
+            {
+                "text": "Yeah That sounds fun",
+                "label": "b"
+            },
+            {
+                "text": "And weve done things like when when its kind of cold We take extension cords and weve all got heaters in our tents And in the Summer Same thing we get our extension cords running from all these tents but weve got the fans going",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "So were not roughing it too much",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And we have taken - out there for the kids",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And theyve got their electrical hookups So its not so bad",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Do you go on long - Like week at time or just weekends",
+                "label": "b"
+            },
+            {
+                "text": "I think the longest weve stayed out there is like five days",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And they even they had library at one time out there",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "So thats really not roughing it so much but --",
+                "label": "bf"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "-- we have gone on trips where we bathed in streams",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Thats kind of different",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah I like the campgrounds that have nice shower",
+                "label": "aa"
+            },
+            {
+                "text": "And pool to go to",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "aa"
+            },
+            {
+                "text": "That would be nice",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah Weve uh we camped at the DeGray State Park in Arkansas",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "In the Fall and there was nobody else hardly around and it was just really nice that time of year We had taken our electric blanket too just in case it was unbearable but we didnt need it Yeah",
+                "label": "+"
+            },
+            {
+                "text": "Well my husband has even camped at Lake Lavon --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "-- with one of his friends he just decided to take the kids out there",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I mean its not very many miles from our house at all But they had the time of their lives you know",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "Had the boat just pulled up right by the tents",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "It wasnt bad",
+                "label": "ba"
+            },
+            {
+                "text": "That sounds nice",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah And weve taken our tents though loaded them up in car carrier and decided we were going to tent most of the way And it ended up when it came time for us to pull in for the night wed take vote And most of the time we decided we wanted to stay in hotel",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Instead of getting out all that stuff you know",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah its lot of work to set up just for one night",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Then you have to get up the next day and move it on",
+                "label": "aa"
+            },
+            {
+                "text": "Right",
+                "label": "aa"
+            },
+            {
+                "text": "Huh-uh But were set now Weve got cook stoves and weve got our bug light and everybodys got their sleeping bags we got air mattresses We decided that was easier than cots and more comfortable",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Those are nice we have one of those too",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah Those double ones",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Pretty good Were on our third one I think Somehow -",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah How do you blow yours up",
+                "label": "b"
+            },
+            {
+                "text": "Weve got an electric pump that hooks into the cigarette lighter",
+                "label": "sd"
+            },
+            {
+                "text": "Oh - we were looking at those in magazine Last time we went we took our vacuum cleaner with us",
+                "label": "bk"
+            },
+            {
+                "text": "I didnt know you could do that",
+                "label": "qy^d"
+            },
+            {
+                "text": "And yeah you can if you can reverse the nozzle on your vacuum cleaner --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and it blows air out instead of sucking it in and you can fill them up that way but something thats smaller would be lot more convenient",
+                "label": "sd"
+            },
+            {
+                "text": "No joke I hope you didnt have big vacuum cleaner",
+                "label": "ba"
+            },
+            {
+                "text": "No uh-huh We have - my husband and I we have pickup truck so theres plenty of room to hold things",
+                "label": "nn"
+            },
+            {
+                "text": "Yeah Now weve used hair dryer before",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But I put it on hot and also melted it",
+                "label": "sd"
+            },
+            {
+                "text": "Oh no",
+                "label": "ba"
+            },
+            {
+                "text": "I found that you dont do that",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I didnt realize it would melt so easily",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "I dont know",
+                "label": "sd"
+            },
+            {
+                "text": "We take we take our dog camping She likes to go out and stay in the woods",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "She sleeps she sleeps in the tent with us Its fun",
+                "label": "sd"
+            },
+            {
+                "text": "I dont like it when theres mosquitos so bad",
+                "label": "sd"
+            },
+            {
+                "text": "Oh me either",
+                "label": "sd"
+            },
+            {
+                "text": "And then one night we were camping and it came just torrential downpour We had the steaks on the grill These people were with us And it I mean everything was sopping wet inside the tent It was just that bad you know",
+                "label": "sd"
+            },
+            {
+                "text": "Oh no",
+                "label": "ba"
+            },
+            {
+                "text": "And we decided wed just go across the road to the office and see if we could rent anything",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So I got condo with jacuzzi and it was wonderful",
+                "label": "sd"
+            },
+            {
+                "text": "Oh boy",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "That was lucky",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah it was",
+                "label": "aa"
+            },
+            {
+                "text": "Weve been lucky Weve never really been rained on the few times weve gone",
+                "label": "sd"
+            },
+            {
+                "text": "Its horrible",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I bet it - when we were younger when I was kid we camped in Virginia and we had one of those little pop up tents which is really nice because it kind of gets you off the ground But it seemed like it rained every weekend for about - the year we were really into camping",
+                "label": "ba"
+            },
+            {
+                "text": "You mean that you put on truck or what",
+                "label": "qy"
+            },
+            {
+                "text": "No Its little trailer you pull behind your car and uh",
+                "label": "nn"
+            },
+            {
+                "text": "Oh yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "you know you the lid pops off the little tent comes up the top --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and it had two double beds in it",
+                "label": "sd"
+            },
+            {
+                "text": "How many weeks have you been doing these calls",
+                "label": "qw^t"
+            },
+            {
+                "text": "Oh since the beginning I guess its been two or three weeks",
+                "label": "sd^t"
+            },
+            {
+                "text": "I think this must be into my third week too So do you work for I",
+                "label": "sd^t"
+            },
+            {
+                "text": "Uh well I work as temporary in the Speech Lab",
+                "label": "na"
+            },
+            {
+                "text": "In Speech Lab",
+                "label": "qy^m"
+            },
+            {
+                "text": "uh-huh Where theyre doing this program The Voice Recognition Program",
+                "label": "ny"
+            },
+            {
+                "text": "And what exactly are they going to do",
+                "label": "qw"
+            },
+            {
+                "text": "Oh they turn them over to somebody and theyre going to I guess theyre going to try to teach computers how to recognize voices and search for specific words and stuff",
+                "label": "sd"
+            },
+            {
+                "text": "So any voice no matter what the speech pattern or the dialect --",
+                "label": "bf"
+            },
+            {
+                "text": "Right",
+                "label": "aa"
+            },
+            {
+                "text": "-- or anything",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Um I wonder if these are going to be speaking The computers",
+                "label": "qy^d"
+            },
+            {
+                "text": "I dont know I type up the tapes of what people talked about",
+                "label": "no"
+            },
+            {
+                "text": "Oh thats kind of neat",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah its sort of interesting",
+                "label": "aa"
+            },
+            {
+                "text": "Do you put all the uh-huhs in here on everything too",
+                "label": "qy"
+            },
+            {
+                "text": "uh-huh Everything like that All the little stutters and everything",
+                "label": "ny"
+            },
+            {
+                "text": "What do you write for stutter That uh -",
+                "label": "qw"
+            },
+            {
+                "text": "Like if they say I I we just type it in like that",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Well I guess thats it for camping uh",
+                "label": "sv^t"
+            },
+            {
+                "text": "I guess so unless you want to talk about stakes What size stakes to put in You need metal instead of plastic",
+                "label": "aa^t"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "And you make sure that you keep up with them for the next time",
+                "label": "ad"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "We got one of those kind that have got the - oh what is it Theyre plastic and theyve got the elastic on the inside of the poles and you just put them together",
+                "label": "sd"
+            },
+            {
+                "text": "Oh uh-huh Thats what we have too",
+                "label": "b"
+            },
+            {
+                "text": "And its dome tent",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah thats what ours is",
+                "label": "b"
+            },
+            {
+                "text": "Thats good isnt it",
+                "label": "qy^g"
+            },
+            {
+                "text": "Yeah yeah they pop up pretty fast",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Have you ever camped on sand",
+                "label": "qy"
+            },
+            {
+                "text": "Um no",
+                "label": "nn"
+            },
+            {
+                "text": "That can be mess We camped at the beach one time and that was sort of miserable You just couldn- - everywhere you went there was sand You couldnt - even when youre eating - it it was in your bed",
+                "label": "sd"
+            },
+            {
+                "text": "Ive done it in shelter",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "It was in Padre Island and in --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- truck off Corpus not but not in tent",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Oh well thats about all",
+                "label": "fc"
+            },
+            {
+                "text": "Okay",
+                "label": "fc"
+            },
+            {
+                "text": "Okay",
+                "label": "fc^m"
+            },
+            {
+                "text": "Well its good talking to you",
+                "label": "fc"
+            },
+            {
+                "text": "uh-huh",
+                "label": "fc"
+            },
+            {
+                "text": "Bye",
+                "label": "fc"
+            },
+            {
+                "text": "Bye",
+                "label": "fc^m"
+            }
+        ]
+    }
+]

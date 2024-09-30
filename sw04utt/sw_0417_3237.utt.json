@@ -1,0 +1,627 @@
+[
+    {
+        "conversation_id": "conv_3237",
+        "turns": [
+            {
+                "text": "Okay so you said that you live in Coppell",
+                "label": "o"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "So what is your house like",
+                "label": "qw"
+            },
+            {
+                "text": "Its two bedroom two baths duplex",
+                "label": "sd"
+            },
+            {
+                "text": "Oh well thats neat",
+                "label": "ba"
+            },
+            {
+                "text": "Brick --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh --",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh -",
+                "label": "+"
+            },
+            {
+                "text": "-- is it one youre renting or buying",
+                "label": "qr"
+            },
+            {
+                "text": "No we own it yeah well our side -",
+                "label": "nn"
+            },
+            {
+                "text": "Yeah yeah well thats kind of neat that you can --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- even though its duplex you can still buy Thats good",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh yeah",
+                "label": "b"
+            },
+            {
+                "text": "Do you have any children",
+                "label": "qy"
+            },
+            {
+                "text": "No huh-uh Do you",
+                "label": "nn"
+            },
+            {
+                "text": "Yes I have two children and our home is really too small for us right now",
+                "label": "ny"
+            },
+            {
+                "text": "Ours is too We outgrew it when we moved in",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah we moved from an apartment --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- that was really small and at the time we just had little baby that was five months old --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- so we moved into this house in Garland its in one of the older areas of town --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and one thing I really like is it has big trees everywhere --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know lots of shade and squirrels and birds and --",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "-- real pretty but the the house is real small --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- it has less than thousand square feet --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh wow",
+                "label": "ba"
+            },
+            {
+                "text": "-- yeah its real little",
+                "label": "b"
+            },
+            {
+                "text": "You all are cramped",
+                "label": "bf"
+            },
+            {
+                "text": "Yeah and now I have daughter now my - the one that was five months old is seven years old --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and the one I have another one thats three and half --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and have all these clothes and --",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- toys and stuff that were just trying to find places to put",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh how many bedrooms is it",
+                "label": "b"
+            },
+            {
+                "text": "Well they advertised it as three bedroom house --",
+                "label": "nd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- because it has built on addition room you know --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but the room thats built on doesnt have closet --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "-- so um the people that lived here before us did use it for bedroom --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but we have always just put like our computer and extra toys and books and -- -",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know its kind of catch all room But it sure is nice to have it --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- when the kids come over to play they all go out there to play with the Barbies --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and that kind of stuff so -",
+                "label": "+"
+            },
+            {
+                "text": "How fun",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah that works out good And Im thankful I have two girls because theyre in bunk beds and --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- so you know they can share room --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh make for more space that way",
+                "label": "+"
+            },
+            {
+                "text": "And how olds the youngest",
+                "label": "qw"
+            },
+            {
+                "text": "Shes three and half --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- yeah so um and right now we have their clothes on uh like double racks you know in the closet --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- we made higher and lower --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and it works out fine but theyre just about to get too tall where the dresses are beginning to drag --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know and um were going to have to figure out new idea But were were kind of looking around and wanting to move into bigger home --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- uh hoping to be able to do that within year or so --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- so that would be nice",
+                "label": "sd"
+            },
+            {
+                "text": "Thats what wed like to do",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah is Coppell nice area to live",
+                "label": "b"
+            },
+            {
+                "text": "Oh its wonderful place to live and they - I dont have any kids so I dont really know but they say that we have wonderful schools",
+                "label": "na"
+            },
+            {
+                "text": "Well I think Ive heard lot uh about Coppell schools that theyre real good --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- thats neat",
+                "label": "ba"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "Do you do you hope to have children or are you not planning on having any or -",
+                "label": "qy"
+            },
+            {
+                "text": "I dont think so no",
+                "label": "ng"
+            },
+            {
+                "text": "I see Well do you have any pets",
+                "label": "bk"
+            },
+            {
+                "text": "Oh of course those are my kids --",
+                "label": "na"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- I have two dogs",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Well do they stay inside or -",
+                "label": "b"
+            },
+            {
+                "text": "Yeah theyre inside dogs",
+                "label": "ny"
+            },
+            {
+                "text": "Well thats thats neat",
+                "label": "ba"
+            },
+            {
+                "text": "Theyre my babies",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Well what are the colors in your house",
+                "label": "b"
+            },
+            {
+                "text": "Uh um kind of mauve and gray",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I bet thats pretty",
+                "label": "qy^d"
+            },
+            {
+                "text": "uh-huh and then the kitchens kind of country pink and country blue and --",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- its all done in cows Im cow nut",
+                "label": "+"
+            },
+            {
+                "text": "Oh thats neat I like cows too",
+                "label": "ba"
+            },
+            {
+                "text": "uh-huh --",
+                "label": "b"
+            },
+            {
+                "text": "Yeah --",
+                "label": "b"
+            },
+            {
+                "text": "-- so -",
+                "label": "%"
+            },
+            {
+                "text": "-- well our house was redo- uh - our house is very old also --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- its like thirty-seven years old --",
+                "label": "sd"
+            },
+            {
+                "text": "Wow",
+                "label": "ba"
+            },
+            {
+                "text": "-- yeah and it was redone before we moved in which - Im thankful for that but the - it was redone at the time probably when earth tones were in --",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- everything is -- -",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- like the carpets kind of tan and brown --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and has um paneling in the living room and lots of lots of tans and lots of browns --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but the good thing is you can bring out other colors from that --",
+                "label": "sv"
+            },
+            {
+                "text": "Oh yeah yeah",
+                "label": "aa"
+            },
+            {
+                "text": "-- you know so uh thats worked out good In the in the kitchen they put real pretty blue and tan um wallpaper --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- had done it up with blues so thats nice but --",
+                "label": "+"
+            },
+            {
+                "text": "Oh sounds pretty",
+                "label": "ba"
+            },
+            {
+                "text": "-- yeah yeah weve enjoyed living here Its close to my uh oldest daughters school --",
+                "label": "+@"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- and that makes it really handy too --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "aa"
+            },
+            {
+                "text": "-- and she really likes her school so -- -",
+                "label": "sd"
+            },
+            {
+                "text": "Good",
+                "label": "ba"
+            },
+            {
+                "text": "-- and we are so close to shopping and -",
+                "label": "sd"
+            },
+            {
+                "text": "Thats an important factor there",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah how about in Coppell Ive always imagined it kind of out away from everything",
+                "label": "aa"
+            },
+            {
+                "text": "Well you know now we have that new mall in Lewisville --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really",
+                "label": "bk"
+            },
+            {
+                "text": "-- and thats just like mile or two from our house --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh well thats nice",
+                "label": "ba"
+            },
+            {
+                "text": "-- but when we first moved to Coppell its what six years ago we didnt even have grocery store --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh wow",
+                "label": "ba"
+            },
+            {
+                "text": "-- and now we have four --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "-- and Coppells not really big enough to support fo- four grocery stores --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah --",
+                "label": "aa"
+            },
+            {
+                "text": "-- so -",
+                "label": "%"
+            },
+            {
+                "text": "-- but it does sound like its definitely growing",
+                "label": "bf"
+            },
+            {
+                "text": "Oh much --",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- very much In fact its about the size now - I moved down here from Chicago what twenty-three years ago --",
+                "label": "+"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and to Lewisville --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and Coppells now about the size that Lewisville was when when I moved down here",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I see Well when we first moved here we moved here from Lubbock --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and we almost moved to Lewisville that was --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really",
+                "label": "b"
+            },
+            {
+                "text": "-- our second choice yeah behind Garland we at the time we thought we might buy mobile home",
+                "label": "+"
+            }
+        ]
+    }
+]

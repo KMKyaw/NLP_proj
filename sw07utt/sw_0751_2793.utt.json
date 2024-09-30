@@ -1,0 +1,379 @@
+[
+    {
+        "conversation_id": "conv_2793",
+        "turns": [
+            {
+                "text": "Uh you know I when I was much younger uh than I am now I I had wanted to go to the Peace Corps and uh it seems like I it it was something that I I really wanted wanted to do",
+                "label": "sd"
+            },
+            {
+                "text": "Can you speak up please",
+                "label": "ad^c"
+            },
+            {
+                "text": "Seems like wanting to go to the Peace Corps was something that I had really wanted to do when I was young",
+                "label": "sd"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "But uh I dont believe they accept you after you you know after youre married and you have uh kids and all that so I got into",
+                "label": "sv"
+            },
+            {
+                "text": "Uh",
+                "label": "b"
+            },
+            {
+                "text": "that and then I wasnt able to to uh participate",
+                "label": "+"
+            },
+            {
+                "text": "But they will accept you later in life also",
+                "label": "sd"
+            },
+            {
+                "text": "Oh they will",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah after your children are grown",
+                "label": "ny"
+            },
+            {
+                "text": "Oh I didnt know that",
+                "label": "sd"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "Then theres no age limit",
+                "label": "qy^d"
+            },
+            {
+                "text": "No",
+                "label": "nn"
+            },
+            {
+                "text": "Your kidding typo - youre",
+                "label": "qy^d*"
+            },
+            {
+                "text": "No Im not Some of the people that have been involved with Peace Corps among other things were retired teachers Uh there was retired plumber that went to uh uh Uruguay I think and helped them quite bit with concepts in plumbing you know providing for for better public hygiene",
+                "label": "nn"
+            },
+            {
+                "text": "Goodness Im surprised I really had no idea",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah but so do you think that people should be required to give couple years for the good of the country",
+                "label": "b"
+            },
+            {
+                "text": "Well I dont I dont really think that they sh- they should be it should be mandatory I mean",
+                "label": "sd"
+            },
+            {
+                "text": "Why",
+                "label": "qw"
+            },
+            {
+                "text": "well I dont know I - its - that just might not be something that everybody wants to do I mean there are lot of people who would like to do it and there are lot of people who get into other things and they get all involved and they just you know dont want to or dont have the time",
+                "label": "+"
+            },
+            {
+                "text": "Well I understand but if it were told to us that we would find the time somewhere between our seventeenth and uh twenty-sixth birthday to give year or two to the to the country in the form of maybe building better roads or the parks service or the Peace Corps or somet- you know the military service or something Wouldnt we have uh maybe better class of Americans",
+                "label": "ba"
+            },
+            {
+                "text": "I dont see how that can can make better class of Americans to make everybody to make it mandatory for everybody to participate",
+                "label": "sd"
+            },
+            {
+                "text": "lot of these peop- lot of our uh - pardon the terminology but yuppies now are interested in one thing and one thing only and thats themselves",
+                "label": "sd"
+            },
+            {
+                "text": "Thats true Well I dont I dont think that -",
+                "label": "aa"
+            },
+            {
+                "text": "And at least if you legislated giving for couple years of their lives or or uh honestly purely giving but but some sort of equitable exchange then at least the country would have gotten two years from them where um they would have given something to the country instead of take taking away all their lives",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah are are you suggesting then that if if uh if I have to go and and do something for the country for two years that the country will compensate me in some way",
+                "label": "b"
+            },
+            {
+                "text": "Uh",
+                "label": "%"
+            },
+            {
+                "text": "I I will be compensated for this Im not just going to -",
+                "label": "qy^d"
+            },
+            {
+                "text": "Give them your ti- give them your entire life for two years no I think this really should be 2 slash units with the respective labels",
+                "label": "bf,nn,o@"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "It will be job of sorts Im sure that the Peace Corps pays it doesnt pay well its not top wages",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "but but it does pay",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "The military - for young hiring in soldiers does pay - it doesnt pay well",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Okay currently in our country especially in some regions theres an employment problem Youre aware of that Im sure",
+                "label": "sd"
+            },
+            {
+                "text": "That that thats true But in even in our region theres an employment problem Theres lot of uh people gotten laid off lately You know from just companies like General Dynamics and",
+                "label": "aa"
+            },
+            {
+                "text": "And Texas Instruments",
+                "label": "^2"
+            },
+            {
+                "text": "and Texas Instruments Thousands and thousands of people are out there looking for jobs",
+                "label": "+"
+            },
+            {
+                "text": "You know in in another time we had the",
+                "label": "sd"
+            },
+            {
+                "text": "no Im not",
+                "label": "ar"
+            },
+            {
+                "text": "Works Progress Administration",
+                "label": "+"
+            },
+            {
+                "text": "Im not familiar with that",
+                "label": "+"
+            },
+            {
+                "text": "during the great depression",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "though I cant see why it was great Uh that gave people pay that was halfway between relief which was welfare",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and the minimum wage",
+                "label": "+"
+            },
+            {
+                "text": "I see and that was that was simi- that was some some program where people gave their time",
+                "label": "b"
+            },
+            {
+                "text": "In trade for",
+                "label": "^2"
+            },
+            {
+                "text": "in trade for",
+                "label": "+"
+            },
+            {
+                "text": "money",
+                "label": "+"
+            },
+            {
+                "text": "for money okay",
+                "label": "+"
+            },
+            {
+                "text": "and and living",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "They gave them food and uniforms and uh here in Colorado youll find great many things Public roads that were worked on by the uh dams that were built by the",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "uh scenic overlooks parks -",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "We are road our road systems falling apart Our air- our national road system system of highways",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and roads is falling apart",
+                "label": "+"
+            },
+            {
+                "text": "Well then I guess there are lot of lot of things that people could do to contribute to the good of the country",
+                "label": "sv"
+            },
+            {
+                "text": "Ther- theres lot of work to be done",
+                "label": "bf"
+            },
+            {
+                "text": "uh-huh I I really dont see anything wrong with it I just dont think that it should be mandatory that every person have to do that",
+                "label": "b"
+            },
+            {
+                "text": "I I cant see the problem in it for year Th- -",
+                "label": "sd"
+            },
+            {
+                "text": "Well -",
+                "label": "%"
+            },
+            {
+                "text": "what what Im saying is that if it were mandatory",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "that every person right after graduation from high school",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "that were able-bodied",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "would give year well or not give year but but trade year - then they - at least one not more than say three or four then it would definitely effect unemployment -",
+                "label": "+"
+            },
+            {
+                "text": "All right I wonder if if they didnt make it mandatory if they would actually get enough people volunteering to to do it that it you know that they would have enough",
+                "label": "aa"
+            },
+            {
+                "text": "I dont know",
+                "label": "no"
+            },
+            {
+                "text": "I mean I Id probably -",
+                "label": "%"
+            },
+            {
+                "text": "Well you know Texas New Mexico Colorado huge numbers of other western states have no real welfare system",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Theres Aid to Dependent Children and Aid to Mothers of Dependent Children but theres no real welfare system",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But if we took these people off off the streets for year there would darn sure be more hours labor available in the nation for everyone else And who knows maybe some of our graduating high school seniors would find out little bit more of th- what the traditional American work ethic means You know we have had some problem with that in recent years",
+                "label": "sv"
+            },
+            {
+                "text": "Oh well yes we have With with uh recent generations I I know exactly what you are talking about I I mean I know several people who do not wish to work",
+                "label": "aa"
+            },
+            {
+                "text": "Uh they wish only for the paycheck",
+                "label": "bf"
+            },
+            {
+                "text": "Well they wish for the money and they they decide that theyre going to get the money anyway they can with you know without uh",
+                "label": "sd"
+            },
+            {
+                "text": "Really producing",
+                "label": "^2"
+            },
+            {
+                "text": "without without working in the the traditional American job market",
+                "label": "+"
+            },
+            {
+                "text": "Yeah be it selling drugs or whatever",
+                "label": "aa"
+            },
+            {
+                "text": "Right So one other thing - and they they get the money anyway they can",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah yeah And maybe if we instilled the work ethic you know - I enjoy the I enjoy working",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            }
+        ]
+    }
+]

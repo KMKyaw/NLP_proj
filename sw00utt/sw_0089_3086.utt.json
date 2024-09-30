@@ -1,0 +1,447 @@
+[
+    {
+        "conversation_id": "conv_3086",
+        "turns": [
+            {
+                "text": "So do you have -",
+                "label": "qy"
+            },
+            {
+                "text": "I have personal computer at home Its an compatible I dont use it very much any more I used to use it quite bit",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I also have at work that I use as terminal I do some stand alone work on it and I can transfer data back and forth between the and the main frame",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "What about you Do you own computer",
+                "label": "qo"
+            },
+            {
+                "text": "Um well I sort of own computer We have two - at home but neither one do we really own Um",
+                "label": "no"
+            },
+            {
+                "text": "Are you leasing them",
+                "label": "qy"
+            },
+            {
+                "text": "No both of them are sort of work related and -",
+                "label": "nn"
+            },
+            {
+                "text": "Loaners from work",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah thats the nicer way right",
+                "label": "ny"
+            },
+            {
+                "text": "Do you work for I",
+                "label": "qy"
+            },
+            {
+                "text": "No no Um I actually Im doing consulting right now because I just had baby and my husbands working at Bell Labs but hes really from France and these computers actually are from France",
+                "label": "nn"
+            },
+            {
+                "text": "What brand are they",
+                "label": "qw"
+            },
+            {
+                "text": "One of thems Compaq --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "bk"
+            },
+            {
+                "text": "-- its three eighty-six --",
+                "label": "sd"
+            },
+            {
+                "text": "Im jealous",
+                "label": "ba"
+            },
+            {
+                "text": "-- and the other is actually I compatible its three eighty-six I guess its twenty-five yeah three eight six twenty-five maybe I dont know no we dont have the - we decided not to get the which is actually another loaner one too that we picked up for consulting job that my husband was doing and -",
+                "label": "sd"
+            },
+            {
+                "text": "What kind of consulting do you do",
+                "label": "qw"
+            },
+            {
+                "text": "Um well I actually do some work working at I and at NIST National Institute of Standards and Technology --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- in Washington and then I worked for Dragon Systems for while",
+                "label": "+"
+            },
+            {
+                "text": "What kind of work do you do when youre consulting",
+                "label": "qw"
+            },
+            {
+                "text": "Um well it depends its very different in the different places but -",
+                "label": "^h"
+            },
+            {
+                "text": "Is it programming related",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah yeah Program related research related and I work in the speech field and I do lot metacoustic phonetics and --",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- looking at the acoustic characteristics of speech and I do that type of stuff typically for other people and we like here we use the - to do that Mostly I use it for writing papers and things like that",
+                "label": "+"
+            },
+            {
+                "text": "Word processing",
+                "label": "bf"
+            },
+            {
+                "text": "Well more uh - do you know Latek",
+                "label": "ar"
+            },
+            {
+                "text": "No Im --",
+                "label": "nn^e"
+            },
+            {
+                "text": "Wo-",
+                "label": "+"
+            },
+            {
+                "text": "-- not familiar with that",
+                "label": "+"
+            },
+            {
+                "text": "Word text processing so I dont I dont use I mean - you can call it word processing but I dont usually use word processor to do it --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and we dont have too much standard software Like I havent bought we havent really bought any commercially available software at all So we dont use it for things like our accounts and addresses and things like that We use it more for just writing programs when we need to or um doing research looking at the speech signal and then doing writing and also as just as terminal and we connect to other computers to read our net mail and things like that",
+                "label": "sd"
+            },
+            {
+                "text": "So youve got youve got modem in it then",
+                "label": "bf"
+            },
+            {
+                "text": "Uh neither one has modem but we have modem",
+                "label": "ng"
+            },
+            {
+                "text": "At home --",
+                "label": "qy^d"
+            },
+            {
+                "text": "Neither one -",
+                "label": "sd"
+            },
+            {
+                "text": "-- you have modem that you can connect to each of them",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "na"
+            },
+            {
+                "text": "Uh and so its an external modem",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah we have -",
+                "label": "ny"
+            },
+            {
+                "text": "I got when I got mine I had an internal modem in it --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- I used it uh quite bit when I was uh uh looking at uh information on large bulletin board sponsored by newspaper in in Fort Worth --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "-- but uh went out of town for while and and sort of got off the uh bulletin board and off of my micro completely --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "-- and after while the modem started making noises on its own without uh even without using it on the computer I could turn computer on itd start squawking So I finally opened up the box and took it out",
+                "label": "sd"
+            },
+            {
+                "text": "So that was it",
+                "label": "bf"
+            },
+            {
+                "text": "I think thats the thirty second warning",
+                "label": "sv"
+            },
+            {
+                "text": "Oh I didnt hear it Do you hear the the beep in the background",
+                "label": "sd"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "Oh thats an ambulance or something going on here I think",
+                "label": "sv"
+            },
+            {
+                "text": "Okay Where",
+                "label": "aa"
+            },
+            {
+                "text": "I havent ever noticed the thirty second warning actually",
+                "label": "sd"
+            },
+            {
+                "text": "Where are you - and uh -",
+                "label": "+"
+            },
+            {
+                "text": "In Manhattan",
+                "label": "sd"
+            },
+            {
+                "text": "Are you at home now",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah Im at home",
+                "label": "ny"
+            },
+            {
+                "text": "So youve got lot of traffic noise real close",
+                "label": "qy^d"
+            },
+            {
+                "text": "uh-huh So itd be interesting for the people that look at this signal I mean because theres lot of background noise that you know people can hear So itll be interesting how much of it actually gets picked up Um yeah and often times that - I cant talk on th- cant do this much later than now between sort of like six five thirty and six thirty or something like that because the traffic outside they honk the horn so loud I cant even hear the phone call",
+                "label": "ny"
+            },
+            {
+                "text": "What time is it now where you are",
+                "label": "qw"
+            },
+            {
+                "text": "Uh about twenty after four",
+                "label": "sd"
+            },
+            {
+                "text": "So youre an hour ahead of where I am Im in Central --",
+                "label": "sd"
+            },
+            {
+                "text": "Okay yeah --",
+                "label": "b"
+            },
+            {
+                "text": "-- Central time zone",
+                "label": "+"
+            },
+            {
+                "text": "-- were Eastern And um what did did you ever try using like Prodigy or any of those systems",
+                "label": "sd"
+            },
+            {
+                "text": "No I havent done that Uh I know someone who has and and shes uh very uh pleased with it She told me some of the things you can do and its just very handy tool to have",
+                "label": "nn"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Yeah and you can do - - it makes things very convenient You can save lot of money too Certainly cut down on long distance charges if you if thats what you have in mind",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh yeah Ive never tried using that I dont know too much about it What about - have you did you use commercially available software or -",
+                "label": "b"
+            },
+            {
+                "text": "I have I have used Lotus I have used uh Word Perfect --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh I - not heavy use Ive used uh Base and uh Ive used substantial amount of shareware Um I havent done much Lotus work connected with my job Ive been through three classes --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "-- and I have great deal of respect for it",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "Um I havent done much word processing work with my job I do some --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "-- and I - and the Base work Ive done was strictly class related",
+                "label": "%"
+            },
+            {
+                "text": "Ive never used Base um but Ive heard both good things and bad things about it",
+                "label": "sd"
+            },
+            {
+                "text": "Well its probably the granddaddy of most uh data base management systems",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Its got some pretty strong competitors Some of them have reviews that are better than Base so I I think by now its matter of uh personal taste",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah people told me that it was sort of cumbersome to use",
+                "label": "b"
+            },
+            {
+                "text": "I can understand that very easily Ive used Ive had class on um Base and also in Paradox --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and both of those seem very easy to use compared to Base",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh Do you think you Base is more flexible or allows you to do more Or do you think the others are pretty much compatible these days",
+                "label": "b^r"
+            },
+            {
+                "text": "Um I wouldnt say compatible but --",
+                "label": "sv"
+            },
+            {
+                "text": "But uh -- -",
+                "label": "%"
+            },
+            {
+                "text": "-- certainly comparable",
+                "label": "+"
+            },
+            {
+                "text": "-- yeah I didnt mean compatible I meant comparable My brain is going to mush",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And what do you work on at I",
+                "label": "qw"
+            },
+            {
+                "text": "Im computer programmer --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- on the I main frames",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "I do uh main- mainly business data processing",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "I also handle production support for the systems in my area of responsibility",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "Um sometimes I get called late at night at home because theres production problem and that gives me the opportunity to uh come in to work and fix it if I cant think of -- -- some thing to tell the trouble shooter while were on the phone",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Um I also uh handle most of the calls from our users and other programmers who need to find out something connected",
+                "label": "sd"
+            }
+        ]
+    }
+]

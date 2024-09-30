@@ -1,0 +1,495 @@
+[
+    {
+        "conversation_id": "conv_4314",
+        "turns": [
+            {
+                "text": "Well we have - we used to when I was younger --",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- wed go every weekend",
+                "label": "sd"
+            },
+            {
+                "text": "All right",
+                "label": "b"
+            },
+            {
+                "text": "But we havent done - - whole lot of it lately",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Im kind of into it Im uh kind of sailor",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Im up in Minneapolis now but I was in Florida so uh yeah I was kind of into it for while there",
+                "label": "sd"
+            },
+            {
+                "text": "Were you sailboating",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah for the most part Yeah --",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^m"
+            },
+            {
+                "text": "-- I had little sail",
+                "label": "sd"
+            },
+            {
+                "text": "Well we dont get to do whole lot of that up here",
+                "label": "sd"
+            },
+            {
+                "text": "No",
+                "label": "b"
+            },
+            {
+                "text": "Just motorboats all we -",
+                "label": "sd"
+            },
+            {
+                "text": "What part of Texas you from",
+                "label": "qw"
+            },
+            {
+                "text": "Uh Nacogdoches",
+                "label": "sd"
+            },
+            {
+                "text": "Okay whereabouts is that",
+                "label": "bk"
+            },
+            {
+                "text": "Thats between Houston and Dallas",
+                "label": "sd"
+            },
+            {
+                "text": "Okay all right",
+                "label": "bk"
+            },
+            {
+                "text": "Its the oldest town in Texas",
+                "label": "sd"
+            },
+            {
+                "text": "Is that right",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Wow thats pretty wild",
+                "label": "ba"
+            },
+            {
+                "text": "We have uh Lake Sam Rayburn out here and Lake Nacogdoches so we do lot of boating on -",
+                "label": "sd"
+            },
+            {
+                "text": "Okay so you got some lakes around you can do that on",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "You do skiing and stuff or -",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah little bit",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah All right",
+                "label": "bh"
+            },
+            {
+                "text": "Just got through snow skiing",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny^m"
+            },
+            {
+                "text": "All right",
+                "label": "b"
+            },
+            {
+                "text": "Just came back from Denver but -",
+                "label": "sd^e"
+            },
+            {
+                "text": "Yeah that sounds good Yeah weve uh our - the snow up here is really kind of starting to melt now",
+                "label": "b"
+            },
+            {
+                "text": "Yeah it it it was heavy when we were there though",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I didnt see any boats there though",
+                "label": "sd"
+            },
+            {
+                "text": "Not not not too many no But uh no I just got back from weekend We went and uh had kind of picnic in the woods type thing It was pretty nice but uh no I I have uh I had boat last summer that I took out catamaran that I do did lot of sailing on and stuff",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "bh"
+            },
+            {
+                "text": "Thats lot of fun but uh my parents are pretty big sailors too theyre kind of into it",
+                "label": "ba"
+            },
+            {
+                "text": "Uh all we all we have up here mostly bass boats",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah I guess its pretty uh fishings pretty big thing huh",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Lot of lot of fishing going on up here",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah All right So where about in Texas is that Is that centrally located or -",
+                "label": "b"
+            },
+            {
+                "text": "Its uh well - you ever heard of Lufkin",
+                "label": "%"
+            },
+            {
+                "text": "Uh no what what major city is nearby",
+                "label": "nn"
+            },
+            {
+                "text": "Houston",
+                "label": "sd"
+            },
+            {
+                "text": "Okay and thats south or north of there or something",
+                "label": "bk"
+            },
+            {
+                "text": "Let me see Houstons north",
+                "label": "^h"
+            },
+            {
+                "text": "Yeah Okay",
+                "label": "bh"
+            },
+            {
+                "text": "Dallas is south",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay all right Well that sounds pretty good Does uh - I guess the weather - does that stay pretty constant there or -",
+                "label": "bk"
+            },
+            {
+                "text": "Its its gets cold at night and then warm in the afternoons",
+                "label": "ng"
+            },
+            {
+                "text": "Yeah",
+                "label": "bh"
+            },
+            {
+                "text": "Probably seventies eighties in the afternoon",
+                "label": "sd"
+            },
+            {
+                "text": "Okay well thats pretty temperate Yeah thats not too bad But uh yeah have you done uh any other boating then or -",
+                "label": "bk"
+            },
+            {
+                "text": "No I hadnt done any in - uh lately but thats all I used to ha- uh have friend that owned his daddy owned boat shop",
+                "label": "nn"
+            },
+            {
+                "text": "Yeah",
+                "label": "bh"
+            },
+            {
+                "text": "And we used to when I was in high school we used to go out go boating every day just about",
+                "label": "sd"
+            },
+            {
+                "text": "Oh thats great Yeah I -",
+                "label": "ba"
+            },
+            {
+                "text": "And we had - different boat every day",
+                "label": "sd"
+            },
+            {
+                "text": "Oh thats fantastic Yeah I used to uh kind of be that way myself when I lived in uh north western Florida in the panhandle I used to sail about every day Id work go to work -",
+                "label": "ba"
+            },
+            {
+                "text": "Id like to do some sailing",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah its lot of fun Its uh - especially if you get pretty fast boat like those catamarans are pretty fast",
+                "label": "b"
+            },
+            {
+                "text": "Yeah what -",
+                "label": "aa"
+            },
+            {
+                "text": "You can actually -",
+                "label": "%"
+            },
+            {
+                "text": "Do if you get one like that do have somebody teach you that or they just -",
+                "label": "qy"
+            },
+            {
+                "text": "Well actually I Ive known how to sail pretty much my whole life Uh my familys pretty into it --",
+                "label": "nd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh I took sailing lessons when I was about six and then uh -",
+                "label": "sd"
+            },
+            {
+                "text": "Is it pretty easy",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah it its kind of thing where you get the hang of it after while you know uh just kind of get feel for the wind and how it works and and the physics behind it",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So its its not too bad its pretty easy to get the hang of I think and uh generally everybody Ive Ive known has kind of gotten into it but some people are more motorboaters you know --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- which is fine",
+                "label": "+"
+            },
+            {
+                "text": "Well thats about all we have",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah yeah lot of people dont dont see the excitement in sailing but then again they may nev- - they may never have tried anything like uh catamaran --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh thats when you really start getting into speed You know you actually some catamarans you can actually pull people behind the skiers they get so fast you know",
+                "label": "sd"
+            },
+            {
+                "text": "I didnt know that",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah they get pretty quick but -- -",
+                "label": "b"
+            },
+            {
+                "text": "That --",
+                "label": "ba"
+            },
+            {
+                "text": "-- uh",
+                "label": "%"
+            },
+            {
+                "text": "-- that would be something",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah I havent I havent personally done that but uh the races - I I work with guy right now that uh races catamarans in the summertime --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh hes pretty gassed about it Hes got good uh -",
+                "label": "sd"
+            },
+            {
+                "text": "What kind of what lake do you all use",
+                "label": "qw"
+            },
+            {
+                "text": "Well he uh hes from Detroit --",
+                "label": "nd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- so he usually goes on one of the Great Lakes I think and does his sailing Uh for me I I go back to Orlando uh in about month and so down there basically just go to the coast Were about thirty miles from Coco Beach and the east coast and theres lot of places there you can go you know So uh so thats good thing",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But yeah so what do you do for job",
+                "label": "qw"
+            },
+            {
+                "text": "Uh I build transformers",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Okay is that for I or -",
+                "label": "bk"
+            },
+            {
+                "text": "No its for Cooper Industries",
+                "label": "nn"
+            },
+            {
+                "text": "Okay Are they primarily electronic then",
+                "label": "bk"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "Well -- -",
+                "label": "%"
+            },
+            {
+                "text": "Well that -",
+                "label": "%"
+            },
+            {
+                "text": "-- they have you know worldwide - but -- -",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- - all we do here is make transformers --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay",
+                "label": "b"
+            },
+            {
+                "text": "-- electronics and stuff like that",
+                "label": "+"
+            },
+            {
+                "text": "Great Yeah how do you like it down there in Texas",
+                "label": "ba"
+            },
+            {
+                "text": "Its real nice",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "bh"
+            },
+            {
+                "text": "Been here all my life",
+                "label": "sd"
+            },
+            {
+                "text": "Oh no doubt",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Okay Ive never been to Texas Ive been to Oklahoma but uh thats about as far as -",
+                "label": "b"
+            },
+            {
+                "text": "Oh its - Oklahomas nothing like it",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Okay well thats good because I didnt like Oklahoma that well",
+                "label": "bh"
+            }
+        ]
+    }
+]

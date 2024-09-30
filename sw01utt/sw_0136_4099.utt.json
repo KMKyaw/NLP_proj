@@ -1,0 +1,391 @@
+[
+    {
+        "conversation_id": "conv_4099",
+        "turns": [
+            {
+                "text": "Kay",
+                "label": "o"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "I guess were talking about exercise huh",
+                "label": "sd^t"
+            },
+            {
+                "text": "Yeah yeah Well first of all I I ha- have to ask you how how old you are",
+                "label": "aa"
+            },
+            {
+                "text": "Oh I am twenty-seven",
+                "label": "sd"
+            },
+            {
+                "text": "Twenty-seven okay Well I am quite bit older than you are But no I think exercise is extremely important and I I do exercise on regular basis",
+                "label": "b^m"
+            },
+            {
+                "text": "You do What type of exercise do you do",
+                "label": "bh"
+            },
+            {
+                "text": "Well I do uh jazzercise --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh you do",
+                "label": "bf"
+            },
+            {
+                "text": "-- which is an aerobic uh program that - are you familiar with it",
+                "label": "+"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "Its uh you know national company and we have jazzercise center here in Plano that has classes like all day long so you can -",
+                "label": "sd"
+            },
+            {
+                "text": "Are they different from aerobics or is it the same thing",
+                "label": "qy"
+            },
+            {
+                "text": "No its really its an aerobic routine Yo- you warm up and then you have thirty minutes of aerobic activity starting you know slowly and then working up to uh you know high heart rate and then you gradually go down again",
+                "label": "nn"
+            },
+            {
+                "text": "And you do that every day or -",
+                "label": "qy^d"
+            },
+            {
+                "text": "No I only do it probably two or three times week",
+                "label": "nn"
+            },
+            {
+                "text": "Oh okay",
+                "label": "bk"
+            },
+            {
+                "text": "The minimum they want you to do is three times week",
+                "label": "sd"
+            },
+            {
+                "text": "And this is club or uh do you belong to group",
+                "label": "qy^d"
+            },
+            {
+                "text": "Well its really - I mean its called center and you buy as many classes as you want to at time and then you just go in whenever you can So like I usually choose to go at nine thirty in the morning or nine fifteen class or ten thirty class in the mornings",
+                "label": "sd"
+            },
+            {
+                "text": "Do you go with friends or do you go alone",
+                "label": "qy"
+            },
+            {
+                "text": "No I go by myself and thats one of the frustrating things cause I can find very few people to go with me --",
+                "label": "nn"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and most of my friends that are my age dont exercise or they might play tennis --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and since I am not tennis player uh you know I dont get that but I am you know I am between I am in my late forties --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- so uh there arent many people you know that want to do that",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Most of the people that are in the classes are young mothers You know with with children between the ages -",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah young mothers or -",
+                "label": "aa"
+            },
+            {
+                "text": "Young mothers You know young women with small children --",
+                "label": "sd^r"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- are the ones that I find Well what do you do",
+                "label": "+"
+            },
+            {
+                "text": "Uh I really dont have routine I like playing basketball We just bought new home with basketball hoop and --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh great",
+                "label": "ba"
+            },
+            {
+                "text": "-- thats what I do every day",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Do you play every day",
+                "label": "b"
+            },
+            {
+                "text": "Yeah pretty much When my wife lets me",
+                "label": "ny"
+            },
+            {
+                "text": "Well now who do you play with Do you have friends that play with you or just -",
+                "label": "qw"
+            },
+            {
+                "text": "No I just shoot around by myself",
+                "label": "nn"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And uh thats about it I use to play soccer lot in high school but when I graduated I havent done much I dont have problem I know I have to do more aerobics but I dont have problem with weight I could eat all day and not gain an ounce",
+                "label": "sd"
+            },
+            {
+                "text": "Well see thats thats th- really good and I think that keeps lot some people from exercising",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I mean I dont have problem with weight either but I think I dont have problem because I exercise",
+                "label": "sd"
+            },
+            {
+                "text": "You do exercise",
+                "label": "bf"
+            },
+            {
+                "text": "You know I mean people are always saying to me how do you stay thin and its because I exercise --",
+                "label": "+"
+            },
+            {
+                "text": "You do it",
+                "label": "bf"
+            },
+            {
+                "text": "-- but I also watch what I eat",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know but youll come being twenty-seven you dont really have to worry about your heart rate and that yet --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah and I -- -",
+                "label": "b"
+            },
+            {
+                "text": "-- but as you get older you will",
+                "label": "sv"
+            },
+            {
+                "text": "-- well everyones told me my waist line is going to expand one of these days but I dont know",
+                "label": "sd"
+            },
+            {
+                "text": "Well it might not Mine - because everybodys been telling me that too and so far it hasnt happened you know and I I just feel like you know you have to constantly weigh yourself --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and just keep an eye on it and cut back if it starts to get you know too high",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I guess I enjoy sports lot so thats why Ive kept active in that way",
+                "label": "b"
+            },
+            {
+                "text": "Yeah But you dont play any other sports but basketball",
+                "label": "b"
+            },
+            {
+                "text": "Uh basketball volleyball uh too bad its not really heavy as far as recreation or hobby I do that",
+                "label": "sd"
+            },
+            {
+                "text": "But do you ski Being in Utah I was wondering if you ski",
+                "label": "qy"
+            },
+            {
+                "text": "Uh I use to but it got too expensive so -",
+                "label": "sd"
+            },
+            {
+                "text": "Oh did it really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Cause I know that skiing in Utah is is suppose to be great",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah lot of people do that --",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and but well I just I never find the time I had rather do other things",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Well I have never skied before but I have friends that go to Utah all the time and they think its really -- -",
+                "label": "b"
+            },
+            {
+                "text": "Oh they come up here",
+                "label": "bf"
+            },
+            {
+                "text": "-- and they ski I guess theres place where you can ski well is it Tahoe Where you ski from no thats Nevada to California --",
+                "label": "sd"
+            },
+            {
+                "text": "Thats in Nevada",
+                "label": "sd"
+            },
+            {
+                "text": "-- I guess",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Yeah I am thinking about where you can ski over the state line",
+                "label": "b"
+            },
+            {
+                "text": "Oh yeah but -",
+                "label": "b"
+            },
+            {
+                "text": "But theres fun- there is place in Utah called funny name",
+                "label": "sd"
+            },
+            {
+                "text": "Theres Snow Bird or Alta",
+                "label": "sd"
+            },
+            {
+                "text": "But its like Oh Heavenly Is that it",
+                "label": "sd"
+            },
+            {
+                "text": "Heavenly",
+                "label": "br^m"
+            },
+            {
+                "text": "Yeah I think its called Heavenly",
+                "label": "aa"
+            },
+            {
+                "text": "Huh Ive never heard of that one",
+                "label": "sd"
+            },
+            {
+                "text": "Youve never heard of that",
+                "label": "qy^d"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "nn"
+            },
+            {
+                "text": "Well maybe it isnt in Utah But they said theyve skied Heavenly and it sounded like you know that they skied really well and when they are actually talking about place Its kind of funny",
+                "label": "sd"
+            },
+            {
+                "text": "Do they exercise much or I mean for skiing I know when I went you can get sore easily but -",
+                "label": "qy"
+            },
+            {
+                "text": "Oh yeah You can get really sore I know you - I mean Ive talked to people but most of these people ski enough so that they dont get sore",
+                "label": "aa"
+            },
+            {
+                "text": "Oh yeah is one or two timer year if I do go on them and I am really sore after",
+                "label": "b"
+            },
+            {
+                "text": "And then is it your quadriceps that are the worst",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "In your legs and -",
+                "label": "qy^d"
+            },
+            {
+                "text": "My legs really really ache",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But thats - I am using muscles that I have never used before",
+                "label": "%"
+            },
+            {
+                "text": "Well - and its strange that you can do like I did aerobics you know all the time and then I went horseback riding and still I was so sore and I couldnt get over -",
+                "label": "%"
+            }
+        ]
+    }
+]

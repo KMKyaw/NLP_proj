@@ -1,0 +1,487 @@
+[
+    {
+        "conversation_id": "conv_3528",
+        "turns": [
+            {
+                "text": "Night",
+                "label": "o"
+            },
+            {
+                "text": "Fine thank you",
+                "label": "fp"
+            },
+            {
+                "text": "I understand were supposed to talk about spaceflight",
+                "label": "sd"
+            },
+            {
+                "text": "Yes",
+                "label": "aa"
+            },
+            {
+                "text": "I hope you know more about it than I do",
+                "label": "sd"
+            },
+            {
+                "text": "Oh well I just got through renting reading uh SPACE by uh James Michener",
+                "label": "sd"
+            },
+            {
+                "text": "Oh is that right",
+                "label": "qy"
+            },
+            {
+                "text": "And so that uh helped out little bit I think",
+                "label": "sv"
+            },
+            {
+                "text": "I havent read his book I was so upset with TEXAS that I havent gotten into any more of his books because I thought it was just horrible",
+                "label": "sd"
+            },
+            {
+                "text": "Well he tends to go into lot of detail sometimes",
+                "label": "aa"
+            },
+            {
+                "text": "Well - and I dont think he was truthful in lot of what he did in TEXAS so I wasnt sure how credible he was",
+                "label": "h"
+            },
+            {
+                "text": "Oh is that right",
+                "label": "qy"
+            },
+            {
+                "text": "But anyway what do you think weve gained from the spaceflights",
+                "label": "qo"
+            },
+            {
+                "text": "Well uh Im not sure to be honest with you so uh this going to the moon seemed to be exciting adventure and uh",
+                "label": "^h"
+            },
+            {
+                "text": "Ego trip",
+                "label": "sv"
+            },
+            {
+                "text": "And yeah it was nice to go there but I dont know that it really benefitted mankind that much",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I happen to live not too far away from - uh well Ive actually worked for the company that uh has been blamed for the Challenger disaster Uh --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh is that right",
+                "label": "qy"
+            },
+            {
+                "text": "-- Morton Thiakol",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh you know thats been kind of real negative feeling here is -- -",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- sure it was you know very unfortunate thing that occurred there and its -",
+                "label": "sv"
+            },
+            {
+                "text": "Where do you live",
+                "label": "qw"
+            },
+            {
+                "text": "Uh we live in uh Utah",
+                "label": "sd"
+            },
+            {
+                "text": "You live in - am I talking to Utah right now",
+                "label": "bk^m"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Oh oh great",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Because --",
+                "label": "sd"
+            },
+            {
+                "text": "Uh",
+                "label": "b"
+            },
+            {
+                "text": "-- Im in Dallas",
+                "label": "+"
+            },
+            {
+                "text": "Oh I have sister that lives in Dallas thats how we got hooked up to the program was her --",
+                "label": "b"
+            },
+            {
+                "text": "I see",
+                "label": "b"
+            },
+            {
+                "text": "-- her husband works for Penneys there",
+                "label": "+"
+            },
+            {
+                "text": "I see",
+                "label": "b^r"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "Carolyn Rash",
+                "label": "qy^d"
+            },
+            {
+                "text": "Pardon me",
+                "label": "br"
+            },
+            {
+                "text": "Is her name Rash Carolyn Rash",
+                "label": "qy"
+            },
+            {
+                "text": "No her name is uh my last name is Skidmore",
+                "label": "nn^e"
+            },
+            {
+                "text": "I see",
+                "label": "b"
+            },
+            {
+                "text": "And her her husbands name is his last name is Weight",
+                "label": "sd"
+            },
+            {
+                "text": "I see",
+                "label": "b^r"
+            },
+            {
+                "text": "And uh -",
+                "label": "%"
+            },
+            {
+                "text": "Well you probably know lot about it I wasnt sure that they were blaming that sp- space disaster on one company I hadnt heard that",
+                "label": "sv"
+            },
+            {
+                "text": "Well they were There was uh - apparently the specifications for the joints uh - they were not to perform in uh cold weather and uh apparently there was definitely joint that did not seal and uh if youve ever seen the size of those uh motors --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- that put them into space - I mean theyre as long as football field practically and --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "-- about twelve foot in diameter and and there is lot of pressure lot of thrust to get that much weight up in the air",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "So its this book was interesting though I uh - talked about how lot of the problems they have to come overcome to uh - its very complex uh situation to go into space",
+                "label": "%"
+            },
+            {
+                "text": "Oh yeah I would think so too",
+                "label": "aa"
+            },
+            {
+                "text": "They would - the thing that he went into quite bit of detail about how how much of problem it is to re-enter the Earths atmosphere",
+                "label": "%"
+            },
+            {
+                "text": "You never think about that do you",
+                "label": "qy^g"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "I would think it would be harder to get up than it would be --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- getting back down",
+                "label": "+"
+            },
+            {
+                "text": "But they have to come in at just the right angle If you come in at the wrong angle what happens is they bounce off and go back into space --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and if they come into it at different angle there is so much friction that it burns them up",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "Well I saw one of some of those early space capsules at Smithsonian Im sure youve --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- seen more of them than I have but --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you could see the scorch on them you know they had though piles --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- but you could see where they would come off in the how hot it got because it was still the scorch on them which was quite interesting",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah Ive Ive",
+                "label": "b"
+            },
+            {
+                "text": "Well I - excuse me go ahead",
+                "label": "%"
+            },
+            {
+                "text": "I would say Ive never Ive never seen an actual capsule",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "Ive seen more more of the motors that that they --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- produced out there",
+                "label": "+"
+            },
+            {
+                "text": "Well these were the ones that John Glenn went up in --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know and the old old ones",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "The very first ones the little bell type things",
+                "label": "sd"
+            },
+            {
+                "text": "People have commented how uh they were surprised at how small they were",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah they really were they --",
+                "label": "aa"
+            },
+            {
+                "text": "Looked pretty --",
+                "label": "qy^d"
+            },
+            {
+                "text": "-- just uh -",
+                "label": "+"
+            },
+            {
+                "text": "-- confining huh",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah and uh the whole thing was small and yeah you I mean you actually put it on you know",
+                "label": "ny"
+            },
+            {
+                "text": "Is that right",
+                "label": "qy"
+            },
+            {
+                "text": "You put it around you pretty much it was so small",
+                "label": "na"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "Well I thought there was some medical benefits that we have learned from space but did he go into that in the book",
+                "label": "sv"
+            },
+            {
+                "text": "Not really Uh",
+                "label": "ng"
+            },
+            {
+                "text": "I guess thats just to sell us on it",
+                "label": "sv"
+            },
+            {
+                "text": "One things - I know one thing theyve theyve mentioned that I didnt get from the book by the way but it talked about uh - theyre able to manufacture uh different kinds of crystals --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and ball bearings and things like that in zero gravity state that they turned out being almost uh nearly perfect as far as ball bearing goes Its perfectly round",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But Im not sure you have to go to outer space to achieve that zero gravity",
+                "label": "sv"
+            },
+            {
+                "text": "Well thats true and -",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Thats right Well do you think we should continue to support it at the level - well I thought probably one of the things they were doing that they didnt tell us was spying Because --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- I think those satellites you know or not satellites but the spaceflights could really spy and with uh --",
+                "label": "+"
+            },
+            {
+                "text": "Yes",
+                "label": "aa"
+            },
+            {
+                "text": "-- with Russias demise I didnt know if we should continue to support it at the current level",
+                "label": "+"
+            },
+            {
+                "text": "Uh I think they have cut it back to be honest with you",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "From from the glory days when they did the Apollo shots to the moon",
+                "label": "+"
+            },
+            {
+                "text": "Uh",
+                "label": "b"
+            },
+            {
+                "text": "Uh I appreciate having the satellites You know thats certainly made it nice for other purpose I dont know if you have satellite dish or not We dont --",
+                "label": "sd"
+            },
+            {
+                "text": "No I dont I dont --",
+                "label": "nn"
+            },
+            {
+                "text": "-- but I --",
+                "label": "sv"
+            },
+            {
+                "text": "-- either",
+                "label": "+"
+            },
+            {
+                "text": "-- I know thats certainly helped lot --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- in that regard Uh",
+                "label": "+"
+            }
+        ]
+    }
+]

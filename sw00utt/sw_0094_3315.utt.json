@@ -1,0 +1,383 @@
+[
+    {
+        "conversation_id": "conv_3315",
+        "turns": [
+            {
+                "text": "Hello",
+                "label": "fp"
+            },
+            {
+                "text": "Hi",
+                "label": "fp"
+            },
+            {
+                "text": "Hi my name is Leslie",
+                "label": "fp^m"
+            },
+            {
+                "text": "Hi Im Jennifer",
+                "label": "fp^m"
+            },
+            {
+                "text": "And where are you from",
+                "label": "qw"
+            },
+            {
+                "text": "Pennsylvania",
+                "label": "sd"
+            },
+            {
+                "text": "Oh nice Im from Dallas Texas",
+                "label": "ba"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah so -",
+                "label": "ny"
+            },
+            {
+                "text": "Oh thats neat",
+                "label": "ba"
+            },
+            {
+                "text": "Well did you understand what this was for you know what it was for what we -",
+                "label": "qy"
+            },
+            {
+                "text": "Uh television shows",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Sure that sounds good",
+                "label": "b"
+            },
+            {
+                "text": "Okay I I dont watch too many but we can try it",
+                "label": "b"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "Are you ready to start",
+                "label": "qy"
+            },
+            {
+                "text": "Sure am",
+                "label": "na"
+            },
+            {
+                "text": "Okay just minute",
+                "label": "bk"
+            },
+            {
+                "text": "Okay I guess were recording now",
+                "label": "b"
+            },
+            {
+                "text": "Yeah okay",
+                "label": "b"
+            },
+            {
+                "text": "What are your favorite television shows",
+                "label": "qw"
+            },
+            {
+                "text": "Well I dont really watch too many shows other than uh occasionally Ill Ill turn on DONAHUE because it comes on in the morning when I seem to be getting ready around here",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "And uh so if if theres no one else around you know its just me and I have chance to listen to something Ill turn that on but uh just for the for the conversation factor I think but and then I think I enjoy when I catch it I dont even know what night its on but DESIGNING WOMEN sometimes",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I love that show",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah do you",
+                "label": "b"
+            },
+            {
+                "text": "Yes that is great",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah its fun And then theres new one that started out that Ive caught occa- couple of times called GOOD AND EVIL I think",
+                "label": "aa"
+            },
+            {
+                "text": "Oh I heard they just canceled that",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "I read in todays paper they just canceled that show",
+                "label": "sd"
+            },
+            {
+                "text": "It is real different one Its uh its its different I guess I watch it more out of the uniqueness of it and the time that it comes on more than the fact that I have to see it But -",
+                "label": "sv"
+            },
+            {
+                "text": "Have you seen the show its its new this year called HOME FRONT",
+                "label": "qy"
+            },
+            {
+                "text": "No I havent watched that",
+                "label": "nn"
+            },
+            {
+                "text": "Oh its its really good Its uh I think its on like Tuesday nights from ten to eleven --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and its set in post World War Two times and its about how the servicemen come home and readjust to civilian life here and the changes everyones going through Its really interesting",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "Its kind of like - nighttime soap opera type thing",
+                "label": "sv"
+            },
+            {
+                "text": "Sounds neat",
+                "label": "ba"
+            },
+            {
+                "text": "It is its good its really well written",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah Is that on what chan- what station",
+                "label": "b"
+            },
+            {
+                "text": "Uh I dont even know to tell you the truth",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay What other shows do you like",
+                "label": "bk"
+            },
+            {
+                "text": "Uh I prefer OPRAH WINFREY --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- to DONAHUE",
+                "label": "+"
+            },
+            {
+                "text": "Well she comes on later and I usually have kids around so I dont end end up --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- watching that one is the only problem I have with it I guess",
+                "label": "+"
+            },
+            {
+                "text": "I did watch soap operas but I work full-time now and cant catch those anymore",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Except when Im home sick and now when I watch them I think why did I ever watch those",
+                "label": "+"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "Theyre stupid",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So when I did watch them I was addicted to them every day",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But not anymore",
+                "label": "sd"
+            },
+            {
+                "text": "That can happen So do you know of any other shows in the even or something that you enjoy",
+                "label": "sv"
+            },
+            {
+                "text": "Oh uh tonight Im looking forward to seeing GOLDEN GIRLS",
+                "label": "sd"
+            },
+            {
+                "text": "Oh thats always fun",
+                "label": "sv"
+            },
+            {
+                "text": "Yes I like that show",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And if I can stay up late enough I like to catch SATURDAY NIGHT LIVE every now and then",
+                "label": "sd"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And right now were watching Penn State football game because thats where we live",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Its exciting were winning so thats really exciting",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah well I think - I also course like to catch the news during the evening hours --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but uh its little tough because thats when Im usually making dinner and the kids are wanting to talk all at the same time So usually I dont get whole lot of news watching in",
+                "label": "sd"
+            },
+            {
+                "text": "Yes we watch in morning while were getting ready --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- for the day and eating breakfast Well catch our news that way Watch the weather channel so that we know what the weathers going to be like",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah So what have you seen interesting on OPRAH WINFREY lately",
+                "label": "b"
+            },
+            {
+                "text": "Lately I havent been catching it because of my work schedule",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh I cant remember the last time I saw it Its been while",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah well I dont know if weve talked our full three minutes or not",
+                "label": "b"
+            },
+            {
+                "text": "I dont know sometimes they come on and and say",
+                "label": "sd"
+            },
+            {
+                "text": "Oh thats right",
+                "label": "aa"
+            },
+            {
+                "text": "Well today on they were talking about something like this about uh learning to recognize voices and words and stuff and the research thats going on which is kind of what were doing helping them get data base for words",
+                "label": "sd"
+            },
+            {
+                "text": "Um yeah",
+                "label": "b"
+            },
+            {
+                "text": "It was really interesting",
+                "label": "sv"
+            },
+            {
+                "text": "It is interesting So -",
+                "label": "aa"
+            },
+            {
+                "text": "Do you work for Texas Instruments",
+                "label": "qy"
+            },
+            {
+                "text": "No no just uh doing this as fund-raiser for our church",
+                "label": "nn"
+            },
+            {
+                "text": "Oh thats nice",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah so it kind of makes it easy you know to do little something for it",
+                "label": "b"
+            },
+            {
+                "text": "Sure because we uh weve talked to lot of people from Texas it seems and we thought well maybe they work from for Dallas -",
+                "label": "b"
+            }
+        ]
+    }
+]

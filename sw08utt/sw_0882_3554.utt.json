@@ -1,0 +1,443 @@
+[
+    {
+        "conversation_id": "conv_3554",
+        "turns": [
+            {
+                "text": "Of exercise program you have",
+                "label": "sd@"
+            },
+            {
+                "text": "Well um I have former exercise program Im graduate student and this semester Ill tell you what I its been almost impossible for me to get you know back to regular exercise",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "+@"
+            },
+            {
+                "text": "Um last summer I was swim instructor all summer and and life guard so it was really easy for me to get quite bit of exercise swimming and um and since I worked at recreation center I could uh you know use those facilities quite often But um -",
+                "label": "sd"
+            },
+            {
+                "text": "Well swimming is uh one of the best exercises you can do",
+                "label": "sv@"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "I mean --",
+                "label": "+@"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- as far as for uh cardiovascular and --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh and theres --",
+                "label": "b"
+            },
+            {
+                "text": "-- and its --",
+                "label": "+"
+            },
+            {
+                "text": "-- and theres no jarring on the -",
+                "label": "+"
+            },
+            {
+                "text": "-- least hard on your body I -",
+                "label": "+"
+            },
+            {
+                "text": "Pardon",
+                "label": "br"
+            },
+            {
+                "text": "Its the least hard on your body --",
+                "label": "sd^r"
+            },
+            {
+                "text": "Exactly yeah um flu- -- -",
+                "label": "aa"
+            },
+            {
+                "text": "-- as far as uh impact and -",
+                "label": "+"
+            },
+            {
+                "text": "-- yeah fluid resistance",
+                "label": "b"
+            },
+            {
+                "text": "Right right",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh uh-huh How about you",
+                "label": "b"
+            },
+            {
+                "text": "Well I do uh little aerobics oh three or four times week but its not enough to - boy if I go in the summer time I try to jog jog couple of miles --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh well you know even doing that three or four times week when summer hits thats hard thing to go out and --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and go jogging for uh --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- half hour or so but --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- so Im not quite getting the level that I need to",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Do you do you kind of think its chore or do you enjoy it",
+                "label": "b"
+            },
+            {
+                "text": "I like it",
+                "label": "na"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I like it uh part of my problem is I have small children so uh to do whole lot just requires lot of oh coordination as far as --",
+                "label": "sd^r"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- scheduling and --",
+                "label": "+"
+            },
+            {
+                "text": "Sure yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- that type of uh deal you know uh when youre in college boy You got hundred things going on Of course you got little different direction going but uh -",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh yeah Uh I um I used to uh I used to weigh uh two hundred fifteen pounds and now I weigh only about one about one seventy-five Um so I drastically had to change the way I ate when I when I first moved to college and uh I had started weight lifting quite regularly and so I got my weight down and its kind of easy for me to forget about it now because uh you know when Im not fat like I used to be --",
+                "label": "b"
+            },
+            {
+                "text": "Right you dont notice it --",
+                "label": "b"
+            },
+            {
+                "text": "-- I dont worry about it yeah",
+                "label": "+"
+            },
+            {
+                "text": "-- as much yeah",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh Although lately I have noticed you know even if I gain like two pounds I start I start feeling it and -",
+                "label": "aa"
+            },
+            {
+                "text": "You feel it dont you",
+                "label": "qy^g"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Its amazing how uh how much uh it changes and I weigh probably about the same I weighed for oh I dont know how many years but uh its changed places And things dont fit just quite exactly --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- fit the same",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But uh so do you do uh - in Texas uh does - there probably quite few facilities",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah there are Um Im living in dorm right now and so right downstairs theres facility And I really feel kind of guilty for not working out more than I do because theres facility right downstairs where all you know all we have to do is is uh run down there and",
+                "label": "ny"
+            },
+            {
+                "text": "Do you enjoy it or is it uh -",
+                "label": "qy"
+            },
+            {
+                "text": "I really do if I have the time to",
+                "label": "+@"
+            },
+            {
+                "text": "If you can have find the time --",
+                "label": "^2"
+            },
+            {
+                "text": "uh-huh --",
+                "label": "b"
+            },
+            {
+                "text": "-- its just the -",
+                "label": "+"
+            },
+            {
+                "text": "-- yeah I really do because I like to get you know get off alone and just do that for while but thats hard you know",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah it is hard --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- it is hard Its uh like anything else whether or not you want to --",
+                "label": "sd^r"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- sacrifice another half hour My problem is I dont want to wake up another half hour earlier --",
+                "label": "+"
+            },
+            {
+                "text": "Exactly",
+                "label": "aa"
+            },
+            {
+                "text": "-- and do more Dont get enough sleep as it is right --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh yeah yeah",
+                "label": "ny"
+            },
+            {
+                "text": "-- and uh kind of have - if youre having the pressures of school and uh everything else its kind of - course its really you know - as soon as you do it its really release",
+                "label": "%"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "You feel invigorated and you feel --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- oh you feel in lot better shape --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah ready to go another twelve hours",
+                "label": "b"
+            },
+            {
+                "text": "-- just like eating right foods",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "If I eat very much sugar boy just does something",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Do you have to watch what you eat pretty regularly",
+                "label": "b"
+            },
+            {
+                "text": "I do I have to be real careful",
+                "label": "na"
+            },
+            {
+                "text": "uh-huh I stopped eating meat about oh uh must have been eight months ago",
+                "label": "b"
+            },
+            {
+                "text": "Did you",
+                "label": "^g"
+            },
+            {
+                "text": "uh-huh completely I mean any kind of meat - or and I and I really feel lot better now",
+                "label": "ny"
+            },
+            {
+                "text": "Makes lot of difference",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah it really does",
+                "label": "ny"
+            },
+            {
+                "text": "Well theres lot of fat in meat",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh yeah thats it I mean thats about where almost all of the fat comes from --",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- and so I found that really helps",
+                "label": "sd"
+            },
+            {
+                "text": "And unless you really like uh fish Fish is pretty good for you but uh -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I eat that I think Ive eaten fish like twice since - I used to eat lot of fish too but I just tried to cut it all out for while and see what happens",
+                "label": "b"
+            },
+            {
+                "text": "Kind of see what happens",
+                "label": "^2"
+            },
+            {
+                "text": "Yeah and I like it",
+                "label": "aa"
+            },
+            {
+                "text": "Ive tried to do that with sugar and its almost impossible --",
+                "label": "sd"
+            },
+            {
+                "text": "I dont know if Im that brave yet",
+                "label": "sd"
+            },
+            {
+                "text": "-- everything has sugar in it I mean if you go - your ketchup has sugar in it",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Course - and I like sugar too thats --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- thats problem but - Anyway well its uh nice talking to you Think weve uh covered all the subject",
+                "label": "+"
+            },
+            {
+                "text": "Okay yeah it sounds good",
+                "label": "fc"
+            },
+            {
+                "text": "Okay",
+                "label": "fc"
+            },
+            {
+                "text": "Well good luck to you there in Idaho",
+                "label": "fc"
+            },
+            {
+                "text": "Well you too Good luck uh enjoy college while you can Let me tell you its uh -",
+                "label": "fc"
+            },
+            {
+                "text": "Well Im in graduate school now I I I kind of feel like I wish I could have gone back to undergraduate now",
+                "label": "fc"
+            },
+            {
+                "text": "Its little different uh --",
+                "label": "fc"
+            },
+            {
+                "text": "Yeah",
+                "label": "fc"
+            },
+            {
+                "text": "-- challenge isnt it",
+                "label": "+"
+            },
+            {
+                "text": "Yeah it is Well its good talking",
+                "label": "fc"
+            },
+            {
+                "text": "Where are you going --",
+                "label": "fc"
+            },
+            {
+                "text": "Pardon",
+                "label": "fc"
+            },
+            {
+                "text": "-- studying",
+                "label": "+"
+            },
+            {
+                "text": "Im studying speech pathology",
+                "label": "fc"
+            },
+            {
+                "text": "Right",
+                "label": "fc"
+            }
+        ]
+    }
+]

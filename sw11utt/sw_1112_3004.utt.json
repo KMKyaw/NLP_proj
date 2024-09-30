@@ -1,0 +1,659 @@
+[
+    {
+        "conversation_id": "conv_3004",
+        "turns": [
+            {
+                "text": "All right",
+                "label": "o"
+            },
+            {
+                "text": "Well she lives in Utah so -",
+                "label": "sd"
+            },
+            {
+                "text": "Oh uh-huh uh-huh Thats the way we always were We always lived away from our family and relatives while the kids were growing up",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So well I guess were going to talk about children today",
+                "label": "ad^t"
+            },
+            {
+                "text": "Okay lets do i-",
+                "label": "aa"
+            },
+            {
+                "text": "So you ready My children are all gone already",
+                "label": "qy"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Theyre theyre all out on their own So uh do you want to start first yo- yo-",
+                "label": "sd"
+            },
+            {
+                "text": "Okay",
+                "label": "aa"
+            },
+            {
+                "text": "do you work",
+                "label": "+"
+            },
+            {
+                "text": "No I dont",
+                "label": "nn"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I stay home most of the time but I know that its very difficult to to find good help sometimes when and especially when your when you want your children to be taken care of",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Um you know theres - my neighbor she tends children though and and um theres big controversy whether they should have to um have - law to have them certified or or not",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And um you know theres pros and cons on both side of that --",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- because if they were then you kind of know that they had to go through some kind of testing",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "or some kind of something to be on get an okay seal",
+                "label": "+"
+            },
+            {
+                "text": "Yeah but yet most of the problems we hear - of course maybe thats what we hear about is from organized and approved day care centers",
+                "label": "b"
+            },
+            {
+                "text": "Thats right Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "But maybe we dont hear about the other ones though that could be",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know the individual incidence or something",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh Uh now usually when I have someone tend um - my oldest tends for me now if I go somewhere but -",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh how old",
+                "label": "b"
+            },
+            {
+                "text": "before -",
+                "label": "%"
+            },
+            {
+                "text": "is your oldest",
+                "label": "+"
+            },
+            {
+                "text": "Hes almost teenager",
+                "label": "sd"
+            },
+            {
+                "text": "Oh well hes plenty big enough then",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah hes hes very good Um but um before that I would I would use uh kids from our church",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and they did good job",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "for me Um but Ive never had to leave them like in day care center",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "or anything and Ive been very lucky just be able to stay home",
+                "label": "+"
+            },
+            {
+                "text": "Thats the way with me I I worked four years one time but my last two children were uh both entering high school age",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh they were of course gone while I was - working so it wasnt problem I saw and I stayed home the rest of the time",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I so I didnt have that problem either Now I have I - my oldest daughter she has two children and theyve been in day care uh",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "she works full time",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah thats hard",
+                "label": "b"
+            },
+            {
+                "text": "It its difficult but yet shes the type of person that I dont know if shed be happy staying at home",
+                "label": "sd"
+            },
+            {
+                "text": "Well some people arent",
+                "label": "ba"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "She she surprised me though Shes done lot of things that I never thought she would do you know with with the family because she was - the one that said she was never getting married and never going to have any children",
+                "label": "sd"
+            },
+            {
+                "text": "Oh is that is that right",
+                "label": "bh"
+            },
+            {
+                "text": "So she is she spends lot of quality time I think when she is with with the children",
+                "label": "sd"
+            },
+            {
+                "text": "I think thats really important",
+                "label": "ba"
+            },
+            {
+                "text": "And uh sh- theyve used the day care most of the time They tried one once They had lady come in",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh she she also had small child she brought with her And it did not work out Uh at all",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "It she thought it was going to She was real excited because it was so much easier than taking the children out",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah uh-huh",
+                "label": "aa"
+            },
+            {
+                "text": "in the morning but uh I- th- the lady called and her baby wasnt very old at the time and said she was having trouble And this baby is the is the most pleasant uh real pleasant baby easy to satisfy usually And and she was having problems with her and so she called and said things were okay settled down and was all right",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "Well my daughter decided to call them and check and things werent okay",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "ba"
+            },
+            {
+                "text": "Her her one son was watching the soapies which she doesnt allow them to watch the soapies",
+                "label": "sd"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And the baby was in his crib with the door shut just screaming his heart out",
+                "label": "sd"
+            },
+            {
+                "text": "Oh dear",
+                "label": "ba"
+            },
+            {
+                "text": "and the baby-sitter was in the kitchen with her baby",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "ba"
+            },
+            {
+                "text": "And so that ended that",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "ba"
+            },
+            {
+                "text": "episode and she was most upset uh over finding this",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I bet",
+                "label": "b"
+            },
+            {
+                "text": "So uh she they kind of had decided that the day care was better Theres uh",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "more people involved more than one adult they - and the age groups are separated And uh slash error",
+                "label": "+"
+            },
+            {
+                "text": "Well nannies have been an option uh but I know that at day care they have more of routine like at- maybe in uh",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "+"
+            },
+            {
+                "text": "preschool would have where they have lessons and",
+                "label": "+"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "so forth",
+                "label": "+"
+            },
+            {
+                "text": "story time uh",
+                "label": "^2"
+            },
+            {
+                "text": "and so on uh-huh",
+                "label": "+"
+            },
+            {
+                "text": "and the this one has been particularly nice It uh it kept track of what they did",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and they would tell the parents what they did that day You know if they said anything or did anything So it kind of ac- i- kept them -",
+                "label": "sd"
+            },
+            {
+                "text": "Gave you an idea of what your child",
+                "label": "bf"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "was progressing in or doing",
+                "label": "+"
+            },
+            {
+                "text": "I oft- I always thought that if you were checking into day care that you would be good to get references",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "uh on people that had been in that day care but was no longer there",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Because they wouldnt have nothing to worry about saying you know if there was problem they they would I think be more ready to tell you what it was",
+                "label": "sv"
+            },
+            {
+                "text": "Oh I think so because if they were still there you know they might not",
+                "label": "sv"
+            },
+            {
+                "text": "They may not say anything",
+                "label": "sv"
+            },
+            {
+                "text": "Right right",
+                "label": "aa"
+            },
+            {
+                "text": "And uh other than how else how do you judge other than from what others have uh what you see uh the cleanliness and that type of thing",
+                "label": "sv"
+            },
+            {
+                "text": "You cant really You cant really unless your child would be old enough to say something",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and usually they arent at that age",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know um slash error",
+                "label": "%@"
+            },
+            {
+                "text": "But it would be real difficult to pick you you know to find one and --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "+"
+            },
+            {
+                "text": "-- decide",
+                "label": "+"
+            },
+            {
+                "text": "Well I know I uh about three years ago I I tended some children",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh you know I I wondered if I would have to be certified or whether theyd just bring them and --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and we got to where well we were just friends and so",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "they said no dont do that well just bring them",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And then if there was problem and then wed sit down",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and talk about it but it never happened",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "to be problem",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and and so things worked out okay and their kids played with my kids and it worked out well",
+                "label": "sd"
+            },
+            {
+                "text": "I- it worked out good Im going to Ive decided Im going to baby-sit my two granddaughters",
+                "label": "bf"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Since theyll be going back at the end of the month And so",
+                "label": "sd"
+            },
+            {
+                "text": "Thats great",
+                "label": "ba"
+            },
+            {
+                "text": "Im going to give it try I I I sell Avon and Stanley products",
+                "label": "+"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and Ive got that worked out My husband hes retired so hes going to deliver my products so Ill do my orders and that by phone",
+                "label": "sd"
+            },
+            {
+                "text": "Well that will be great",
+                "label": "ba"
+            },
+            {
+                "text": "So um",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Ill be able to keep that up little bit But I th-",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I think Ill enjoy doing -",
+                "label": "+"
+            },
+            {
+                "text": "I bet youll have some great experiences with them",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah I I think Ill enjoy -",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "I I guess I kind of miss having baby around kid around or something",
+                "label": "sd"
+            },
+            {
+                "text": "Sure why not",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "And and you know the grandparents uh I always hear its always fun when you can send them home at the end of the day instead of having to slash error",
+                "label": "sv@"
+            },
+            {
+                "text": "Right Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "So slash error",
+                "label": "+@"
+            },
+            {
+                "text": "Well they do say you enjoy them more",
+                "label": "sv"
+            },
+            {
+                "text": "Thats right",
+                "label": "+"
+            },
+            {
+                "text": "some somebody said if they knew grandchildren where so much fun they would have had them first",
+                "label": "sd"
+            },
+            {
+                "text": "Well uh my husbands mother lives right over here and she takes care of them sometimes",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "for me and and just is lovely lady",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and Ive always appreciated when shes sat with them",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah My daughter",
+                "label": "b"
+            },
+            {
+                "text": "And -",
+                "label": "%"
+            },
+            {
+                "text": "always said she would not let me baby-sit because you do hear grandparents complaining --",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- because theyre stuck with their grandchildren so much",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But theyre the ones that complain lot are the first -",
+                "label": "sv"
+            }
+        ]
+    }
+]

@@ -1,0 +1,531 @@
+[
+    {
+        "conversation_id": "conv_2382",
+        "turns": [
+            {
+                "text": "Okay do you want to go first",
+                "label": "o"
+            },
+            {
+                "text": "Well I could barely hear what the switchboard operator was saying as what was the topic",
+                "label": "sd^t"
+            },
+            {
+                "text": "Fitness and exercise",
+                "label": "sd^t"
+            },
+            {
+                "text": "Oh God No why dont you go first",
+                "label": "fe"
+            },
+            {
+                "text": "Okay um I like to do uh weight training and and cycling And just walking uh swimming I used to do lot of basketball and running and volleyball until I had some knee surgery last fall And the doctor said that running and jumping isnt real good for my knee anymore so I had to kind of change my life-style little bit",
+                "label": "aa"
+            },
+            {
+                "text": "Well let me ask personal question how old are you",
+                "label": "co"
+            },
+            {
+                "text": "Thirty-eight",
+                "label": "sd"
+            },
+            {
+                "text": "Oh well then you should see over thirty-five everything goes downhill flop",
+                "label": "sv"
+            },
+            {
+                "text": "Well the rest of me is in pretty good shape its just that left knee that just doesnt want to do everything it used to",
+                "label": "sd"
+            },
+            {
+                "text": "Oh youre lucky then because Ive battled arthritis all my life",
+                "label": "sv"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "I mean even since I was like about two or three",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Then they diagnosed it and usually most people are just absolutely crippled and uh I do water aerobics",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I bet that helps",
+                "label": "ba"
+            },
+            {
+                "text": "Religiously do water aerobics",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I used to do it about six times week and now Im down to about four but its about the only thing that keeps my mobility in sh- in there uh I tried weight training and Im telling you you just I just cant lift the things",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And the shock on the system is is just too much so I have stuck to water aerobics basically you know the weightless thing and",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "trying to keep this shape that way but you know its hard to find I mean its really hard to find place thats going to offer water aerobics because what Im finding is that if they do offer it you get the crowd of women that are - I think they feel this is going to be an effortless sweatless way",
+                "label": "+"
+            },
+            {
+                "text": "Thats right",
+                "label": "ba"
+            },
+            {
+                "text": "to get in shape",
+                "label": "+"
+            },
+            {
+                "text": "Thats right",
+                "label": "ba"
+            },
+            {
+                "text": "without having to spend anything or its the geriatric crowd",
+                "label": "+"
+            },
+            {
+                "text": "Thats right",
+                "label": "ba"
+            },
+            {
+                "text": "So Ive considered even becoming licensed to teach it",
+                "label": "sd"
+            },
+            {
+                "text": "Well I mean if if you know what your routine is you can do that by yourself and you probably do",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah but you have to have an indoor pool",
+                "label": "aa"
+            },
+            {
+                "text": "This is true",
+                "label": "ba"
+            },
+            {
+                "text": "So to find an indoor pool where either you can do this by yourself without you know drawing lot of looks means youre really going to do strenuous workout activity you look very odd in the water",
+                "label": "sd"
+            },
+            {
+                "text": "Well that -",
+                "label": "%"
+            },
+            {
+                "text": "that was the one place where I was also able to do weight training and that does look very odd in the water",
+                "label": "sd"
+            },
+            {
+                "text": "I can believe that Have you tried the uh the pool at the Spring Creek Fitness Center",
+                "label": "ba"
+            },
+            {
+                "text": "No and you know thats the only place I havent tried and people have told me Now thats the Texins facility",
+                "label": "nn"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "I have been told that thing is just lovely",
+                "label": "sd"
+            },
+            {
+                "text": "It is They keep it at eighty-one degrees year-round",
+                "label": "sd"
+            },
+            {
+                "text": "Huh He- - do you use that facility lot",
+                "label": "b"
+            },
+            {
+                "text": "Um fairly fairly good amount uh more on the weekends uh I try to beat the traffic in the mornings when I workout in the mornings I try to come down to the Dallas Fitness Center",
+                "label": "na"
+            },
+            {
+                "text": "Huh Do you know if they have child care there",
+                "label": "b"
+            },
+            {
+                "text": "Um have you done your attitude survey for this year yet You need to put that on there seriously",
+                "label": "qy"
+            },
+            {
+                "text": "They dont - I dont I dont work at I",
+                "label": "%"
+            },
+            {
+                "text": "Oh you dont",
+                "label": "bh"
+            },
+            {
+                "text": "No I used to work at I",
+                "label": "nn"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "as matter of fact I was the only woman that they had in the field in management position actually when I was working there I was the only woman that was pretty much in the industry and I used to fill out those attitude surveys",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and uh uh me and the insurance adjusters are are very familiar with each other and my husband still works there",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and um I get my attitude expressed through them but I find it to be very - sometimes its kind of shoot yourself in the foot short- mentality to save few bucks",
+                "label": "sd"
+            },
+            {
+                "text": "This is true",
+                "label": "ba"
+            },
+            {
+                "text": "Uh and never having lived in Texas before I starting working for I and I came down here and you know they did an attitude survey like six weeks after I had been working here and I asked about you know day care for the shift workers",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and boy I was pulled in by my manager and told that you just dont say that you know",
+                "label": "sd"
+            },
+            {
+                "text": "Well its not -",
+                "label": "%"
+            },
+            {
+                "text": "it was not applicable to me and I was kind of horrified",
+                "label": "sd"
+            },
+            {
+                "text": "Now what year are we talking about",
+                "label": "qw"
+            },
+            {
+                "text": "Were talking nineteen seventy-eight",
+                "label": "sd"
+            },
+            {
+                "text": "Okay uh things have become much more enlightened since then",
+                "label": "bk"
+            },
+            {
+                "text": "They couldnt have gotten anymore in the dark ages",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah you know we still dont have day care facility but people are more sympathetic to it",
+                "label": "b"
+            },
+            {
+                "text": "I understand I understand that theyre now covering womens preventative health care",
+                "label": "sd"
+            },
+            {
+                "text": "Yes Yes",
+                "label": "aa"
+            },
+            {
+                "text": "and uh the reason Im at home is when I had my kids and I was scheduled to go back and I tell you how much in the dark ages it was Um I had been rated number one in the field and then I took uh - when I became pregnant I also got meningitis",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "and then delivered the first baby three months early",
+                "label": "+"
+            },
+            {
+                "text": "My gosh",
+                "label": "ba"
+            },
+            {
+                "text": "and they put the baby on heart lung monitor when I took her home and the insurance carrier was not going to cover this because it was considered preventative treatment",
+                "label": "sd"
+            },
+            {
+                "text": "Could you hold the phone for one second",
+                "label": "ad^c"
+            },
+            {
+                "text": "Sure",
+                "label": "aa"
+            },
+            {
+                "text": "Thanks Okay Im back",
+                "label": "fa"
+            },
+            {
+                "text": "And then they used to uh - and then I had second one eighteen months later they told me to put them back to back and of course to maintain - and I was flat on my back for the last five months with the second one",
+                "label": "%"
+            },
+            {
+                "text": "Wow",
+                "label": "ba"
+            },
+            {
+                "text": "because thats when I go into labor four and half months and I dont even know it",
+                "label": "+"
+            },
+            {
+                "text": "Of course its real easy to take care of the first one when youre on your back",
+                "label": "sv"
+            },
+            {
+                "text": "Oh yeah very easy very easy and they they put me on twenty-four hour fetal monitoring then to to try to control the labor and see how far it was going and after the baby was born since it wasnt premature then they said they wouldnt cover the cost of the monitor I think thats kind of when my husband hit the roof",
+                "label": "aa"
+            },
+            {
+                "text": "Really",
+                "label": "b"
+            },
+            {
+                "text": "because it was uh thirteen thousand dollar bill but after the second baby was born I was going to go back to work",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and that was when they had - God it would have been the eighty-five layoff",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and Ill tell you how they handled this and I was just outraged I did not know that since I was on personal leave of absence that I had been uh terminated until I filed my insurance claims about four months later and they didnt have any coverage under my name and I went back and I said what the hell is going on here you know",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah really",
+                "label": "b"
+            },
+            {
+                "text": "And they told me that uh oh well you know you know your husband works here and hes got good salary we didnt think that youd be coming back anyway and uh you know weve got people here that really you know need to be working and so that we had just - you know it was this way we didnt have to layoff an active person and wed just let you go And it took me about year of arguing I said you know Ive got to put this in writing to me",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and because until they put it in writing I couldnt get my insurance benefits and I couldnt get my uh termination benefits either",
+                "label": "+"
+            },
+            {
+                "text": "There you go",
+                "label": "ba"
+            },
+            {
+                "text": "I was just pissed as hell that they could do that",
+                "label": "sd"
+            },
+            {
+                "text": "I I can believe that",
+                "label": "sd"
+            },
+            {
+                "text": "But I I guess things have gotten better Ive been told that this flex hour and those kind of things -",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah flex time is great",
+                "label": "ba"
+            },
+            {
+                "text": "I still dont think that they after my experiences that they could you know get me to go back ever again",
+                "label": "sv"
+            },
+            {
+                "text": "I I can understand I can understand Well its been good talking with you",
+                "label": "ba"
+            },
+            {
+                "text": "But let me ask you this since you use Texans how much is it month",
+                "label": "co"
+            },
+            {
+                "text": "Oh shoot its only about ten bucks month",
+                "label": "sd"
+            },
+            {
+                "text": "Now thats for individual",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah I mean uh to add dependents is is you know maybe another dollar or something its no big deal",
+                "label": "ny"
+            },
+            {
+                "text": "Thats it",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Now if you if you pay your monthly charge do you then pay separately for classes your taking",
+                "label": "qy"
+            },
+            {
+                "text": "Uh you do for classes for classes but to I mean to use any of the facilities is is no extra charge",
+                "label": "na"
+            },
+            {
+                "text": "God thats cheap",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah it is",
+                "label": "aa"
+            },
+            {
+                "text": "Thats really cheap Do you have to be an active I employee to join Texans or",
+                "label": "sd"
+            },
+            {
+                "text": "Or or depe- - or dependent of one",
+                "label": "^2"
+            },
+            {
+                "text": "Or depe- - God I am so dependent these days",
+                "label": "+"
+            },
+            {
+                "text": "Really",
+                "label": "b"
+            },
+            {
+                "text": "Its sense - Oh seen that my my co-dependents have turned on the hose and are getting my neighbors fence -",
+                "label": "%"
+            },
+            {
+                "text": "Wonderful",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah So my position for management to domestic goddess has been an adjustment but boy I think Im going to go contact Texans I really think I am",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I mean that beats any offer Ive heard in long time",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah its great",
+                "label": "aa"
+            },
+            {
+                "text": "Huh All righty When youre there on weekends is it crowded as hell",
+                "label": "b"
+            },
+            {
+                "text": "Uh well it would depend on when you go its not its not excessively crowded on the weekends",
+                "label": "no"
+            },
+            {
+                "text": "See Id want to be there in the mornings like from nine thirty to ten thirty",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I dont think that would be bad at all If youre in Richardson youd probably wanted to come to the to the Dallas site",
+                "label": "sd"
+            },
+            {
+                "text": "Oh Im actually right on the Plano line",
+                "label": "sd"
+            },
+            {
+                "text": "Oh well then you could go either one",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "the Spring Creek one is lot more modern has lot more niceties amenities and youd probably like the pool there",
+                "label": "sd"
+            },
+            {
+                "text": "Oh God it sounds like I would I might do that then Okay I learned something here",
+                "label": "ba"
+            },
+            {
+                "text": "Well good Im glad",
+                "label": "ba"
+            },
+            {
+                "text": "You can go back to work now",
+                "label": "ad"
+            },
+            {
+                "text": "Well thank you",
+                "label": "fc"
+            },
+            {
+                "text": "Thank you",
+                "label": "fc"
+            },
+            {
+                "text": "You have good day",
+                "label": "fc"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc^m"
+            }
+        ]
+    }
+]

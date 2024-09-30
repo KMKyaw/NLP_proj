@@ -1,0 +1,643 @@
+[
+    {
+        "conversation_id": "conv_3090",
+        "turns": [
+            {
+                "text": "Okay uh well do you uh keep family budget or do you have some -",
+                "label": "o"
+            },
+            {
+                "text": "No I dont use family budget my father who is very old has kept one his entire life",
+                "label": "nn"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and I probably re- rebelled against it I probably should have kept one He keeps every penny that comes in and goes out --",
+                "label": "sv"
+            },
+            {
+                "text": "Oh interesting",
+                "label": "ba"
+            },
+            {
+                "text": "-- on very strict percentage",
+                "label": "+"
+            },
+            {
+                "text": "Yes well uh we sort of started doing it years and years ago and my husband started graduate school when we were first married and I sort of just got in the habit I guess And you know never have gotten out of it I cannot really say that its formal budget its more just pretty uh fairly uh accurate uh recording of what I spend",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "and what I think I am going to have to spend And uh -",
+                "label": "+"
+            },
+            {
+                "text": "I think it makes much more sense",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and I have recently uh gotten out of debt and everything and I will probably ke- start keeping little better",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "track of it",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^r"
+            },
+            {
+                "text": "I just uh spent whatever came in and and uh didn- never knew what came in and what went out",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "But uh just you know like about like the government runs",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Huh",
+                "label": "%"
+            },
+            {
+                "text": "That sounds real similar",
+                "label": "sv"
+            },
+            {
+                "text": "So I think it is probably better to have some sort of at least record but my dad was so precise",
+                "label": "sv"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "that I mean if it said to spend eleven percent on something thats what it was spent And --",
+                "label": "+"
+            },
+            {
+                "text": "Oh my yeah",
+                "label": "ba"
+            },
+            {
+                "text": "-- that was put over there and I mean of course he is from the depression and uh",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "so uh you know its his life",
+                "label": "+"
+            },
+            {
+                "text": "Sure",
+                "label": "b"
+            },
+            {
+                "text": "but uh I would I think it would be smart if somebody would keep uh some sort of plan that works for them",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah I think you are right um uh well i- it must have been sort of interesting to us is to uh its because since I have pretty much kept my record books for the last fifteen years I guess I can go back and look and its real fun to just see how things have changed over the years Uh",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah it is",
+                "label": "aa"
+            },
+            {
+                "text": "For instance -",
+                "label": "%"
+            },
+            {
+                "text": "Im historian and my father had kept them I think since nineteen twenty-seven and uh",
+                "label": "sd"
+            },
+            {
+                "text": "My goodness",
+                "label": "ba"
+            },
+            {
+                "text": "but he burned the ones from twenty-seven to fi- I could not believe he did that but then",
+                "label": "+"
+            },
+            {
+                "text": "Oh dear",
+                "label": "ba"
+            },
+            {
+                "text": "so I took the ones from fifty-two on to the present",
+                "label": "+"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "but to look to have looked back into the twenties thirties and forties it would have been fantastic",
+                "label": "sv"
+            },
+            {
+                "text": "Oh yes",
+                "label": "aa"
+            },
+            {
+                "text": "to see that But uh -",
+                "label": "+"
+            },
+            {
+                "text": "Well as matter of fact uh my mother was going through some things not lon- not long ago I guess it has been couple of years ago in an old trunk that she had And she came upon budget book that she had back in the thirties Uh",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "when they - it was the late well - I guess it would have been I will take that back it must have been in the forties because they had been married uh probably fifteen years at the time And it was just uh fascinating to see how little things cost I mean it was",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "it was just almost laughable in some instances that you know - of course its all relative of course",
+                "label": "+"
+            },
+            {
+                "text": "I know Right",
+                "label": "aa"
+            },
+            {
+                "text": "but uh never the less it was fun to see those figures next to you know - for pr- pair of shoes was like five dollars and -",
+                "label": "sv"
+            },
+            {
+                "text": "I know well even in nineteen sixty-three - I found record that I had uh I travel in Europe lot and I what I had paid for hotels",
+                "label": "aa"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "And similar hotel in Paris is two hundred dollars night now",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "And I paid uh oh between four and five dollars",
+                "label": "sd"
+            },
+            {
+                "text": "Oh isnt that",
+                "label": "ba"
+            },
+            {
+                "text": "in nineteen sixty",
+                "label": "+"
+            },
+            {
+                "text": "something",
+                "label": "+"
+            },
+            {
+                "text": "And thats really crazy cause thats about thirty years ago",
+                "label": "sv"
+            },
+            {
+                "text": "Really Oh that is that is really really something",
+                "label": "b"
+            },
+            {
+                "text": "Oh But of course its just what the market will bear",
+                "label": "sd"
+            },
+            {
+                "text": "Thats true",
+                "label": "aa"
+            },
+            {
+                "text": "If people will pay two hundred then why charge ten",
+                "label": "bf"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "You know",
+                "label": "%"
+            },
+            {
+                "text": "thats thats right Thats exa- thats just good old economics working",
+                "label": "aa"
+            },
+            {
+                "text": "Right right",
+                "label": "aa"
+            },
+            {
+                "text": "Well uh we have tried to uh instill some some sense of uh of budgeting in our kids but our two children are just uh as um unlike as night and day And",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "our son could care less about budget and our daughter watches her pennies so closely that she almost she almost just sounds like your father I mean she has everything planned so closely",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "that if",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "something goes wrong it just throws her for loop",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Well then you never know how they will - one - they may flip flop when they",
+                "label": "b"
+            },
+            {
+                "text": "Yes",
+                "label": "aa"
+            },
+            {
+                "text": "get to be uh ol-",
+                "label": "+"
+            },
+            {
+                "text": "Right yes",
+                "label": "aa"
+            },
+            {
+                "text": "we- older The other one may be very careful",
+                "label": "+"
+            },
+            {
+                "text": "Yes",
+                "label": "aa"
+            },
+            {
+                "text": "and she may marry somebody and of course it would be good because it you marry somebody little loose then she will have that stability of watching uh",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You should have one in the in the",
+                "label": "sv"
+            },
+            {
+                "text": "I think that is true I uh - and",
+                "label": "aa"
+            },
+            {
+                "text": "in the house And I think -",
+                "label": "+"
+            },
+            {
+                "text": "I think that is probably what happened in our house because I think my husband was not quite as uh good at saving and so on before we got married and I was I was really diligent about that I was putting money aside and when before I was married you know when I was working out of college and",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "uh that really paid off Because when time came for him to go back to graduate school we were in in fairly good shape financially as far as not having any major debts And -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah thats about the way it is here",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "if it had not been for my wife I would have probably been in debtors prison if we had one So but what does you husband do now",
+                "label": "sv"
+            },
+            {
+                "text": "Uh he is an engineer he is uh",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "an electrical engineer And in fact went through uh many years of graduate school and got his so we",
+                "label": "+"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "had lot of lot of years of budgeting",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah You have",
+                "label": "aa"
+            },
+            {
+                "text": "And you know -",
+                "label": "%"
+            },
+            {
+                "text": "to do it when",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "you are in school",
+                "label": "+"
+            },
+            {
+                "text": "When you -",
+                "label": "%"
+            },
+            {
+                "text": "My wife is still in school getting her doctorate",
+                "label": "sd"
+            },
+            {
+                "text": "uh yes",
+                "label": "b"
+            },
+            {
+                "text": "and it uh -",
+                "label": "%"
+            },
+            {
+                "text": "Well Im working",
+                "label": "sd"
+            },
+            {
+                "text": "and I have got -",
+                "label": "sd"
+            },
+            {
+                "text": "Im working on my masters degree now so in fact this last year we had three both of the children were in college our son has year left and our daughter graduated this year and Im just about ready to finish my masters degree",
+                "label": "+"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "so we have had uh once again you know some really real lean year for us",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I I know We had three",
+                "label": "aa"
+            },
+            {
+                "text": "But uh -",
+                "label": "%"
+            },
+            {
+                "text": "in college plus my wife so that was four",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So we were both in the same -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah you know exactly what it",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "what its like then",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^r"
+            },
+            {
+                "text": "And its uh - which you learn - I guess you figure that that is an investment that is uh really in- invaluable",
+                "label": "%"
+            },
+            {
+                "text": "That is the best one",
+                "label": "bf"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah with education you cant",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "take that away from you",
+                "label": "+"
+            },
+            {
+                "text": "That is right so its its one that you can live through And I",
+                "label": "aa"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "think that thats the way that we looked at it in our beginnings when my husband was in graduate school that there was light at the end of that tunnel You know",
+                "label": "+"
+            },
+            {
+                "text": "Sure",
+                "label": "aa"
+            },
+            {
+                "text": "that that it was worth it to save and to not have uh something and uh in return know that something better was going to be at the end of it so --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah thats true",
+                "label": "aa"
+            },
+            {
+                "text": "-- uh it really makes it easier but uh well I have enjoyed talking with you Jerry",
+                "label": "+"
+            },
+            {
+                "text": "I have enjoyed talking with you Kathy",
+                "label": "fc"
+            },
+            {
+                "text": "And I I wish I could hear more about your historian part of your life because that sounds really fascinating to me I am interested in that",
+                "label": "sd"
+            },
+            {
+                "text": "Well if I had your address I would send you - I am also in the travel business I --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- do tours and I can take some real great tours to Europe So uh",
+                "label": "+"
+            },
+            {
+                "text": "Oh wow Well my my husband",
+                "label": "ba"
+            },
+            {
+                "text": "if you -",
+                "label": "+"
+            },
+            {
+                "text": "and I just went there last year um actually we did not take tour we we were in England and and uh went to Ireland and Scotland and just rented cars and",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "did it on our own but uh um I - that sounds interesting Is your business in Dallas then",
+                "label": "+"
+            },
+            {
+                "text": "Yeah its here in Dallas",
+                "label": "ny"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "In the Quorum So I Im Jerry Hammond and Im out at Brookhaven College so you could just holler at me there",
+                "label": "sd"
+            },
+            {
+                "text": "Oh you are kidding",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Well Im going to be teaching at Brookhaven in the fall",
+                "label": "sd"
+            },
+            {
+                "text": "All right what is your last name",
+                "label": "b"
+            },
+            {
+                "text": "Kuenzer and Im - uh-huh And I will be",
+                "label": "sd"
+            },
+            {
+                "text": "Well good I will -",
+                "label": "ba"
+            },
+            {
+                "text": "in the communications department teaching uh English One Oh One to - I have couple of sections",
+                "label": "+"
+            },
+            {
+                "text": "Oh well I know Zack Miller real well",
+                "label": "sd"
+            },
+            {
+                "text": "Yes yeah thats the guy who hired me yes",
+                "label": "b"
+            },
+            {
+                "text": "Well wonderful I will look you up in the fall then",
+                "label": "ba"
+            },
+            {
+                "text": "Fantastic",
+                "label": "ba"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "Well its been good ta- its been good type conversation",
+                "label": "fc"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc"
+            }
+        ]
+    }
+]

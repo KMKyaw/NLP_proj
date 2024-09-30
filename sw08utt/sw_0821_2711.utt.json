@@ -1,0 +1,683 @@
+[
+    {
+        "conversation_id": "conv_2711",
+        "turns": [
+            {
+                "text": "So the topic is vacations",
+                "label": "qy"
+            },
+            {
+                "text": "Alright thats good thats good topic huh",
+                "label": "na"
+            },
+            {
+                "text": "I think so I enjoy them",
+                "label": "na"
+            },
+            {
+                "text": "Where did you go on your last vacation",
+                "label": "qw"
+            },
+            {
+                "text": "Uh the last was back down to Lubbock to visit parents It was -",
+                "label": "sd"
+            },
+            {
+                "text": "What",
+                "label": "br"
+            },
+            {
+                "text": "The last one was back down to Lubbock Texas",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh yeah",
+                "label": "b"
+            },
+            {
+                "text": "to visit family",
+                "label": "+"
+            },
+            {
+                "text": "Uh",
+                "label": "b"
+            },
+            {
+                "text": "But thats not the tradition for us",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah Whats your out of the out of the state type - where do you like to go",
+                "label": "b"
+            },
+            {
+                "text": "Uh we enjoyed Yellow Stone real well last year",
+                "label": "sd"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "What kind of uh vacation spots are there in Colorado",
+                "label": "qw"
+            },
+            {
+                "text": "Oh Rocky Mountain National Park",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Its its just like any of the other national parks It - you know theres camping and fishing and hiking and wildlife watching and -",
+                "label": "sd"
+            },
+            {
+                "text": "I think my parents took me there when I was real young We went to Colorado Springs and uh Rocky Mountain National Park It was real pretty",
+                "label": "sd"
+            },
+            {
+                "text": "Oh its -",
+                "label": "%"
+            },
+            {
+                "text": "Got to see Pikes Peak",
+                "label": "ad"
+            },
+            {
+                "text": "Yeah we usually try and drive up there oh once every year or two",
+                "label": "b"
+            },
+            {
+                "text": "You drive by yourself up there",
+                "label": "qy"
+            },
+            {
+                "text": "Sure",
+                "label": "na"
+            },
+            {
+                "text": "Oh wow",
+                "label": "ba"
+            },
+            {
+                "text": "To the top the of the peak sure",
+                "label": "sd"
+            },
+            {
+                "text": "Oh thats tough I dont I dont think I could do that",
+                "label": "sv"
+            },
+            {
+                "text": "Oh its not bad at all Its its beautiful drive",
+                "label": "bd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Now I admit up there the altitude is kind of interesting",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know you get little lightheaded and giddy but its fun You know take along picnic lunch and -",
+                "label": "sd"
+            },
+            {
+                "text": "Sure is pretty up there",
+                "label": "sd"
+            },
+            {
+                "text": "Oh we love it",
+                "label": "sd"
+            },
+            {
+                "text": "You have mountains all around you",
+                "label": "qy"
+            },
+            {
+                "text": "Uh no theyre only to the east uh I mean to the west of us",
+                "label": "nn"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Here in the Springs you know its right there at the very foot of the Rockies You know and once week we drive up into the mountains usually you know usually once week once every other week",
+                "label": "+@"
+            },
+            {
+                "text": "Wow thats neat Im jealous Theres hills in Texas",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah well I enjoy hills in Texas too Ive been in Sherman",
+                "label": "b"
+            },
+            {
+                "text": "Have you ever been out of the United States for uh vacation",
+                "label": "qy@"
+            },
+            {
+                "text": "No I havent you",
+                "label": "nn"
+            },
+            {
+                "text": "Or business",
+                "label": "+@"
+            },
+            {
+                "text": "Uh once to Mexico City but just little day thing on business",
+                "label": "na"
+            },
+            {
+                "text": "uh-huh I went to uh the Bahamas last year on cruise for my honeymoon",
+                "label": "b"
+            },
+            {
+                "text": "Uh thats nice",
+                "label": "ba"
+            },
+            {
+                "text": "It was really neat I had never been out of really out of Texas or out of Indiana much out of the United States Im from Indiana so -",
+                "label": "sd"
+            },
+            {
+                "text": "Did you enjoy it",
+                "label": "qy"
+            },
+            {
+                "text": "What",
+                "label": "br"
+            },
+            {
+                "text": "Did you enjoy it",
+                "label": "qy^r"
+            },
+            {
+                "text": "Yeah it was great",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "It was really pretty down there",
+                "label": "sd"
+            },
+            {
+                "text": "Uh got to eat some different kinds of foods and meet people from different culture and -",
+                "label": "bf"
+            },
+            {
+                "text": "uh-huh Yeah really did There - in fact one uh family that sat at our table every meal was from London",
+                "label": "b"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "and they had never been to the United States so they were really enjoying it and they were telling us about all their trips",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "They had been to Disneyland and it was neat to meet different people",
+                "label": "sd"
+            },
+            {
+                "text": "So the place that I went that weve gone on vacation that I think I enjoyed the most",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "was Seattle",
+                "label": "+"
+            },
+            {
+                "text": "Oh really Ive heard its really pretty up there",
+                "label": "bh"
+            },
+            {
+                "text": "Well we uh - was two years ago",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "we went during the drought",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Im sorry three years ago It had been dry for whole week",
+                "label": "sd"
+            },
+            {
+                "text": "Oh wow",
+                "label": "ba"
+            },
+            {
+                "text": "It didnt rain for whole week",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah that would have been nice That would have been best time to go",
+                "label": "b"
+            },
+            {
+                "text": "Yeah somehow we picked the right time and uh walked down on the wharf and I think we ate seafood every meal for well not quite every meal but most meals for week",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh it was wonderful Uh the Pacific Science Museum the little girl really enjoyed Its very interesting",
+                "label": "sd"
+            },
+            {
+                "text": "Pacific Science",
+                "label": "br^m"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "Yes It was it was super and uh went to the Seattle Aquarium",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And its right down there on the right there on the ocean and down there on the wharf by the piers and all and you walk down in dome glass dome",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and the bay is circulating over your head and you",
+                "label": "sd"
+            },
+            {
+                "text": "Oh wow",
+                "label": "ba"
+            },
+            {
+                "text": "and you can watch the fish swim by and sharks and oh its -",
+                "label": "+"
+            },
+            {
+                "text": "Oh neat",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah and then theres walrus and sea lion and porpoises and oh its its amazing",
+                "label": "b"
+            },
+            {
+                "text": "Thats the vacation you recommend huh",
+                "label": "qy^g"
+            },
+            {
+                "text": "Oh absolutely",
+                "label": "na"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Without doubt Seattle is beautiful and the mountains",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah Ive heard it is",
+                "label": "b"
+            },
+            {
+                "text": "the mountains to the east of Seattle",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "+"
+            },
+            {
+                "text": "are just incredible",
+                "label": "+"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "I rode ferry for the first time in my life",
+                "label": "sd"
+            },
+            {
+                "text": "Oh wow",
+                "label": "ba"
+            },
+            {
+                "text": "You know up there you go from the mainland to whole bunch of islands around there by ferry",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Instead of by bridge And you drive your car on You park your car you set your brake You walk upstairs and you have beer",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b@"
+            },
+            {
+                "text": "or coffee or whatever depending on the time of day",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "+@"
+            },
+            {
+                "text": "Its amazing",
+                "label": "sd"
+            },
+            {
+                "text": "And your car is on ferry",
+                "label": "qy"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "And it goes across with you",
+                "label": "qy"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "Thats really neat",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah yeah And there are people literally that everyday take the ferry you know and drive",
+                "label": "b"
+            },
+            {
+                "text": "To work",
+                "label": "^2"
+            },
+            {
+                "text": "on to it yeah live on an island off off shore from Seattle",
+                "label": "+"
+            },
+            {
+                "text": "Thats really wild",
+                "label": "ba"
+            },
+            {
+                "text": "And you uh - everyday they drive on the ferry They go upstairs and have their morning coffee",
+                "label": "%"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "Take for the twenty to hour and ten minutes that it takes to get across and you know depending on where it is",
+                "label": "sd"
+            },
+            {
+                "text": "Hour and ten minutes",
+                "label": "br^m"
+            },
+            {
+                "text": "Well in some places you know",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "in some areas you know depends on how far they are commuting",
+                "label": "+"
+            },
+            {
+                "text": "Thats really interesting",
+                "label": "ba"
+            },
+            {
+                "text": "Oh it its strict - Im Im West Texan",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Out there in the land of no water",
+                "label": "sv@"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And to think that people live on the water daily is kind of odd to me You know its its different life style than we are used to",
+                "label": "+@"
+            },
+            {
+                "text": "Yeah it is Ive been wanting to go to the West Texas and see different parts of Texas because I havent lived here very long and I havent really seen much So what are some good things in Texas to go visit",
+                "label": "b"
+            },
+            {
+                "text": "Oh Galveston",
+                "label": "sd"
+            },
+            {
+                "text": "Galveston",
+                "label": "br^m"
+            },
+            {
+                "text": "Yes I liked Galveston real well uh theres uh - one of the areas down there close to Galveston is - I forget the name of the island",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "but its bird sanctuary",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "with all kinds of wild birds Whooping and sand hill cranes and ducks and pelicans and its very pretty Uh I like the Rio Grande Valley",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Real well Of course you havent lived until you have been to San Antone to the",
+                "label": "+@"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "to the Alamo",
+                "label": "+"
+            },
+            {
+                "text": "Boardwalk and all that",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah the river walk Oh its -",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And you need to go in the Spring when all the flowers are in bloom all up and down through there Oh its just simply beautiful",
+                "label": "ad"
+            },
+            {
+                "text": "Ive heard its really pretty",
+                "label": "sd"
+            },
+            {
+                "text": "And of course always when I lived in West Texas had to annually go down to San Antone just -",
+                "label": "sd"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah and go to uh Lone Star and uh you know make my annual pilgrimage to the Lone Star Brewery and should be slash unit",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Uh El Paso is kind of neat in kind of funny way should be slash unit You know go across the border and all Uh the Davis Mountains are interesting",
+                "label": "+@"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "out there in West Texas",
+                "label": "+"
+            },
+            {
+                "text": "Down by Big Bend",
+                "label": "^g"
+            },
+            {
+                "text": "Yeah yeah Uh now the right time of year to go there is in the middle of winter",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "because theres beauty to the desert that it can most be it can best be appreciated when you are not burning up",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know whenever youve been kind of cold where you are at Its most enjoyable",
+                "label": "sv"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "to get you know to get warm",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Thats nice uh down there in the lower Rio Grande Valley closer to where the Rio Grande empties into the Gulf thats interesting I love the Texas Hill Country",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And uh Austin is neat for for an occasional visit",
+                "label": "sv"
+            },
+            {
+                "text": "Ive heard to go to Austin too lot people say to go down there",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah its fun few days Uh",
+                "label": "b"
+            },
+            {
+                "text": "Whats there to see in Austin",
+                "label": "qw"
+            },
+            {
+                "text": "Oh is real pretty",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh theres lot of little limestone lakes and caverns around that area Marble Falls and all Thats real pretty Uh I would say definitely go see that part and uh Id say go to uh Midland once just for the heck of it I dont know why exactly But uh you know find out when they are holding the petroleum fair uh",
+                "label": "sd"
+            }
+        ]
+    }
+]

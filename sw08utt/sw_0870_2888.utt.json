@@ -1,0 +1,699 @@
+[
+    {
+        "conversation_id": "conv_2888",
+        "turns": [
+            {
+                "text": "Okay",
+                "label": "o"
+            },
+            {
+                "text": "Okay I guess were set",
+                "label": "o"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "Current events",
+                "label": "sd^t"
+            },
+            {
+                "text": "I get my current events basically from news uh just because I watch",
+                "label": "sd"
+            },
+            {
+                "text": "Television news",
+                "label": "^2"
+            },
+            {
+                "text": "pretty much lot of television um",
+                "label": "+"
+            },
+            {
+                "text": "Is it uh or HEADLINE NEWS or just local",
+                "label": "qr"
+            },
+            {
+                "text": "Uh",
+                "label": "b"
+            },
+            {
+                "text": "news or -",
+                "label": "+"
+            },
+            {
+                "text": "I watch little bit of everything I like to tune into to because uh you know you can tune in like any time of day and pretty much get the update on",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "everything",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "in about five or ten minutes I think news today um its kind of losing its importance Like on in on radio if you hear any news at all its like two seconds",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "You know really quickly",
+                "label": "sd"
+            },
+            {
+                "text": "Well -",
+                "label": "%"
+            },
+            {
+                "text": "on regular stations",
+                "label": "+"
+            },
+            {
+                "text": "on commercial radio I guess I I tend to get more of my news from national public radio of the morning on the way to work",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah thats good too uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "or evening on the way to school so",
+                "label": "+"
+            },
+            {
+                "text": "I like",
+                "label": "sd"
+            },
+            {
+                "text": "So I dont uh",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I dont see much mostly when Im in school but I do here",
+                "label": "+"
+            },
+            {
+                "text": "Yeah where do you go to school",
+                "label": "b"
+            },
+            {
+                "text": "Uh University of Texas at Dallas",
+                "label": "sd"
+            },
+            {
+                "text": "Oh Okay I went to at Austin",
+                "label": "bk"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "But uh Im news reporter so I I should get all I can my news from the new- from the",
+                "label": "sd"
+            },
+            {
+                "text": "Really",
+                "label": "b"
+            },
+            {
+                "text": "But um -",
+                "label": "%"
+            },
+            {
+                "text": "I do tend to throw on HEADLINE NEWS when Im doing things around the house and just let it play",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and listen but uh -",
+                "label": "+"
+            },
+            {
+                "text": "I usually dont intentionally Although I should I dont intentionally turn on the television to watch news",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Or I dont intentionally turn on the radio to listen to the news If it comes on I just happen to hear it Now I will intentionally buy newspaper to wa- to to look at the news But other -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah all I ever get out of the paper is Sunday paper so",
+                "label": "b"
+            },
+            {
+                "text": "Yeah thats true",
+                "label": "aa"
+            },
+            {
+                "text": "I read the comics",
+                "label": "+@"
+            },
+            {
+                "text": "Thats about it",
+                "label": "sd"
+            },
+            {
+                "text": "Thats about it yeah",
+                "label": "sd^m"
+            },
+            {
+                "text": "The Sunday paper its so full of stuff but you pick your favorite section and the rest",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "you throw away",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Although you paid what almost two dollars now to get it but -",
+                "label": "sd"
+            },
+            {
+                "text": "I like to listen to uh national public radio on the way to work because its I dont know its variety and now",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "theyre throwing in little news and little bit of other stuff It --",
+                "label": "+@"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- tends to get like HEADLINE NEWS if you listen to it for an hour",
+                "label": "+"
+            },
+            {
+                "text": "Is it is it pretty good coverage on there",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah it usually is They throw in lot of you know lot of interviews and commentaries Its kind of like getting newspaper Theres lot of --",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- sections to it and --",
+                "label": "+"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "-- they they present different sides of things",
+                "label": "+"
+            },
+            {
+                "text": "Because I find like on - I like to listen to that but each story is like no more than two or three lines you know",
+                "label": "sd"
+            },
+            {
+                "text": "Oh well they spend little more time you know they cover the headlines",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and then they go into lot of the issues and --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- things where they they spend five or ten minutes discussing something and",
+                "label": "+"
+            },
+            {
+                "text": "Yeah that would probably be better",
+                "label": "b"
+            },
+            {
+                "text": "interviewing people And its -",
+                "label": "+"
+            },
+            {
+                "text": "Especially when you look for the like popular radio stations like mostly the music stations news is is pretty much nonexistent",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "They have little little teeny-weeny news breaks you know",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah and only in the morning I guess theres little bit",
+                "label": "b"
+            },
+            {
+                "text": "Yeah yeah basically",
+                "label": "b"
+            },
+            {
+                "text": "I havent listened to top forty radio station in so long I wouldnt know",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "So lets see um",
+                "label": "^h"
+            },
+            {
+                "text": "And I guess I get some kinds of other you know business related news through trade journals and things but -",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh",
+                "label": "b"
+            },
+            {
+                "text": "The only reason I get trade journals is like if Im looking for job or something",
+                "label": "sd@"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Which is what Im doing now",
+                "label": "+@"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But um -",
+                "label": "%"
+            },
+            {
+                "text": "lot of people are",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah trying to get out of wherever they are but um I think I think news is - Im wondering where its going You know how - I think it will be nonex- pretty much nonexistent except maybe through the paper I know the newspaper used to be kind of the only source for news And now its its kind of your final choice You watch - first you go to then you go to radio or something like that",
+                "label": "b"
+            },
+            {
+                "text": "Yeah where nobody wants",
+                "label": "b"
+            },
+            {
+                "text": "And I think it -",
+                "label": "%"
+            },
+            {
+                "text": "to sit down and read",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "Its it takes lot more time to read something",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and youve got news",
+                "label": "sd"
+            },
+            {
+                "text": "So much more effort",
+                "label": "sv"
+            },
+            {
+                "text": "bombarding you from everywhere now",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know you",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "turn on the turn on the radio -",
+                "label": "+"
+            },
+            {
+                "text": "But I think that soon the paper may be kind of the only source again",
+                "label": "sv"
+            },
+            {
+                "text": "Why is that",
+                "label": "qw"
+            },
+            {
+                "text": "I dont - well just because Im Im thinking that it its getting so short on radio You still you have two or three - I know in Dallas you can probably get two two all news radio stations out of I dont how many popular radio stations And then on television you have just the news at six and ten",
+                "label": "%"
+            },
+            {
+                "text": "Yeah I just -",
+                "label": "b"
+            },
+            {
+                "text": "And I just I just see that dwindling in in -",
+                "label": "sv"
+            },
+            {
+                "text": "I find it hard to believe that people will go back to reading over television I mean just given the way society is And I enjoy reading but most --",
+                "label": "sv"
+            },
+            {
+                "text": "True yeah",
+                "label": "aa"
+            },
+            {
+                "text": "-- people would rather turn on the tube and and and",
+                "label": "+"
+            },
+            {
+                "text": "True Thats true too yeah",
+                "label": "aa"
+            },
+            {
+                "text": "flip through the channels you know and get the headline news at thirty minutes of",
+                "label": "+"
+            },
+            {
+                "text": "Than sit down and take the effort to read --",
+                "label": "^2"
+            },
+            {
+                "text": "Right",
+                "label": "aa"
+            },
+            {
+                "text": "-- the paper",
+                "label": "+"
+            },
+            {
+                "text": "And they dont have to go get one you know",
+                "label": "sv"
+            },
+            {
+                "text": "One thing I like about the paper um as opposed to television is that uh when I like when I report because Im in television I have to get the basic the main facts and thats it Thats all you have time for",
+                "label": "sv"
+            },
+            {
+                "text": "Right Right",
+                "label": "b"
+            },
+            {
+                "text": "Whereas in the paper I like to read the articles because they get every side every single side and and every point they make you know",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And and its all there",
+                "label": "+@"
+            },
+            {
+                "text": "Well thats why I like uh national public radio --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- because they get on one of these little things they give you headlines that are brief just - they touch on whats going on And then theyll get into something and really explore it",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And its its informative Its lot more informative than you know quick half hour news shows that --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- they tell you what they want you to hear",
+                "label": "+"
+            },
+            {
+                "text": "Yeah because thats what we do I mean its like each story is thirty seconds you know",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "So its like you really have to tell as much as you can which is not much in that amount of time So and it will probably get shorter and shorter as the years go by I think I dont know",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah theres so much going on in the world",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Communication you know expands the world now",
+                "label": "sv"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "Theres too much going on You cant afford to give more than couple of seconds here and there",
+                "label": "sv"
+            },
+            {
+                "text": "I think that is one good thing one great thing about news and we saw it during the war just now is that we got all the information within minutes you know",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Whatever happened we knew about it about the same time that they knew about it",
+                "label": "sd"
+            },
+            {
+                "text": "And the question is how much of it or how some of it - I guess theres lot of debate about censorship and --",
+                "label": "qh"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and what were really seeing",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Is it is it the true story or is it --",
+                "label": "qh"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- little bit biased",
+                "label": "+"
+            },
+            {
+                "text": "Because even though we do get the story right away they were censored as to what they --",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- could tell us So all we had to sit here and and ask is well what arent they telling us you know So that that was pretty scary But we - I talked to one woman and she said that she didnt want to know what was going on because if she had son over in Saudi Arabia she wouldnt want to know you know that theyre bombing or or this and thats going on And at the same time I talked to another woman and she was so happy to know because she lived through Vietnam And she didnt know what was happening at that time",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And she was so happy to get the information you know So theres just lot of different opinions on that But -",
+                "label": "sd"
+            },
+            {
+                "text": "I I you know I like to to know whats going on Sometimes I think theres just little bit too much",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know you get in the habit of like I say turn on Headline News and it will play over and over and you just tune it out because its the same thing but -",
+                "label": "sv"
+            },
+            {
+                "text": "And then too lot of times I think uh especially on television they blow things completely out of proportion",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah they tend to",
+                "label": "aa"
+            },
+            {
+                "text": "Like -",
+                "label": "%"
+            },
+            {
+                "text": "dramatize things",
+                "label": "+"
+            },
+            {
+                "text": "You know like this Kennedy thing",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Its just I mean everywhere you turn Kennedy Kennedy Kennedy You know what kind of shoes did he wear on the night And you know its just like okay this is ridiculous",
+                "label": "sv"
+            },
+            {
+                "text": "Like who cares Really",
+                "label": "qh"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "Well -",
+                "label": "%"
+            },
+            {
+                "text": "But what are you doing Sitting on computer",
+                "label": "qw"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "I heard the little clicking",
+                "label": "sd"
+            },
+            {
+                "text": "Trying to do some programming",
+                "label": "sd^e"
+            },
+            {
+                "text": "Oh okay Well it was nice talking to you",
+                "label": "bk"
+            },
+            {
+                "text": "Okay",
+                "label": "fc"
+            },
+            {
+                "text": "Okay",
+                "label": "fc^m"
+            },
+            {
+                "text": "Take care",
+                "label": "fc"
+            },
+            {
+                "text": "Take care",
+                "label": "fc^m"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc"
+            },
+            {
+                "text": "uh-huh bye",
+                "label": "fc"
+            }
+        ]
+    }
+]

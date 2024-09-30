@@ -1,0 +1,439 @@
+[
+    {
+        "conversation_id": "conv_2285",
+        "turns": [
+            {
+                "text": "Okay Well like I was saying Burlingtons crime it doesnt involve children and what you see on the - from you know in Washington and New York - So what I believe the people want - the subject is is big city crime which is something that I dont have any first hand experiences about but I have you know concerns and --",
+                "label": "o"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- I have few ideas of um how to combat it I mean I dont I dont think ideally you know you need money to do everything so --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- Thats one thing that thats thats crime that you cant fight it if you need that money So -",
+                "label": "+"
+            },
+            {
+                "text": "Right yeah well when uh we lived in San Antonio I grew up around San Antonio and its always been very large uh city and increasingly growing Its has kind of the split population Um theres lot of retired military uh individuals that live there and then theres very large Hispanic population there And the one thing that we noticed that over the years has gotten worse and worse is Hispanic uh gang crime in the city --",
+                "label": "b"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- and that has uh been the worse thing that weve seen happening",
+                "label": "sd"
+            },
+            {
+                "text": "Does it spread out of the neighborhoods into the more the uh retired peoples community or does it stay in the bad neighborhoods",
+                "label": "qy^d"
+            },
+            {
+                "text": "Um the majority of the actual gang crimes like the pat- the drive by shootings and stuff stays in the neighborhoods but the crime spreads out into the more affluent divisions through robberies rape and uh car crime Theres very large uh or very high percentage of car theft And San An- San Antonios not far from the border to Mexico so lot of the uh cars go to uh you know shops and they take them apart and lot of them go over the border especially like Mercedes lot of those those in the the uh the cars the Datsun cars end up over the border and uh -- -",
+                "label": "sd"
+            },
+            {
+                "text": "So thats big concern if you live there",
+                "label": "qy^d"
+            },
+            {
+                "text": "-- very much so",
+                "label": "na"
+            },
+            {
+                "text": "is to really lock your car up",
+                "label": "+"
+            },
+            {
+                "text": "very much so in fact for while there they had downtown if you were to come to stop light they had rash of where people were when people were stopped at stop signs that people would get in their car and hold knife and hold them up So now ever since then when you drive into the city most people keep their doors locked while theyre in the car until they get down there and once youve reached the the river walk area which is the tourist area its usually pretty safe during the day if youre just kind of cautious and dont go down the back streets or alleys and um you know or alone If you stay with the groups and along the area where they have the river patrol cops its very nice But at at evening um again you they have the high tourist area the river walk area which is nice but you dont want to get off the beaten track Um theres lot of parking garages there because parking is very tight And so you dont want to get caught in the parking garage uh alone",
+                "label": "na^r"
+            },
+            {
+                "text": "Oh my it sounds like um San Juan Puerto Rico we were there just well for lay over --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and um well it wasnt lay over we were we had we were staying at the other end of the island and we drove into San Juan to catch our plane",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "It was at night and this boy really wanted to go on the beach and they look at you crazy --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you dont go on the beach",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- Well its big tourist town you know dont they dont people go for walk on the beach at night And they said no its very safe in the daytime --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but at night they even have the policemen come around at dusk and sound their sirens pretty much telling people be wary you know and get off the beach",
+                "label": "sd"
+            },
+            {
+                "text": "Its just so sad you know it is just really so sad you know it is just really so sad because you cant enjoy anything any more Um in San Antonio I dont know what the answer is Education I think is lot of it Um so many of the kids are drop outs Um uh theres lot of drugs that go on and that they just have hopeless lives They they lead themselves down hopeless tunnels I think education helps little bit there Um then again I dont know really what steps there are that they -",
+                "label": "sv"
+            },
+            {
+                "text": "Well what they what they say they try to do is to get the kids um early and young",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And what we have here in Burlington which it doesnt cost lot of money but they have kids council --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- that they have all these after school activities for kids",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "They set up kids with elderly people in the winter time they shovel their snow They have big brother big sister program",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b@"
+            },
+            {
+                "text": "They have bottle drives they have cleanup outings And they have also organized fun activities like gyms going to the beach and playing volleyball at the beach in the summer and they have gyms open And it seems that the younger you can get them and get them involved with programs --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "+@"
+            },
+            {
+                "text": "-- after school you might keep them --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but you again you need that one on one like big brother trying to keep the younger kid you know tell him hey stay in school itll get better you know so that your mom doesnt have job -- -",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and she doesnt work you dont know you can be better than that You dont have to live on the you know for street life",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But -",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh thats good that sounds like theyve got lot going on there",
+                "label": "b"
+            },
+            {
+                "text": "Yeah but its so cheap they dont have problem here I mean um they can deal with that --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- scale They might have five hundred troubled youths",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "When you have five thousand troubled youths plus when youre getting into th- well the kids now its twelve years old and theyre selling drugs --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and theyve got fifteen year old thats their boss --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- that is carrying gun",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Its just its the morals of the people which I mean I guess we everybodys responsible for the society but if I had child that that did things so bad - its not they dont care about anybody --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- these people theyre stealing from theyre just the big bad rich guy --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and we dont have it so we deserve it and we should take it",
+                "label": "^q"
+            },
+            {
+                "text": "uh-huh yeah I dont know how you combat that I I dont know where you start or with lot of these kids um so many of them all they see is just the gangs --",
+                "label": "b"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "-- and unless you can take them out of the environment enough to where they dont have the peer pressure from the gangs as soon as they come home from school",
+                "label": "sd"
+            },
+            {
+                "text": "Well I think lot of it is the parents are totally irresponsible too Were talking --",
+                "label": "sv"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- these kids are fourteen years old The parents might be thirty years old --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and Im thirty years old and Im kind of irresponsible but I have the morals that keep me from you know - if I was going to go out and drink or do something I wouldnt do it in front of my child These people you know they bring their their Johns home and they bring their drugs home and the kids are just sitting there in the same room",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Its just that they have absolutely no no morals --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and its really sad",
+                "label": "sv"
+            },
+            {
+                "text": "And I dont know how you combat that I rea- - I dont know what the answer is to that problem you know",
+                "label": "sd"
+            },
+            {
+                "text": "But I like your idea of education --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- I mean if the parents arent supplying it theyve got to get it --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- from someone else --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- from the schools",
+                "label": "+"
+            },
+            {
+                "text": "And what do those kids do they get it at school and come home what do they do then I I feel I feel for them I dont know how to make it better for them or you know because it they cant remove themselves they cant just leave and say okay well its not acceptable Im leaving the big city Mom and Im Im going off you know when theyre ten they have to live in it and",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah its really sad like if they did have big brother big sister program -- -",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "+@"
+            },
+            {
+                "text": "-- those those people trying to help the kids the parents might have hostilities towards them you know",
+                "label": "sv"
+            },
+            {
+                "text": "Right I think so and uh -",
+                "label": "b"
+            },
+            {
+                "text": "Like youre judging us and Im not good enough to raise my child which basically is true --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- Its its its - Im glad I dont live in big city --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- just because I mean not just because I wouldnt feel safe its just because that I would be reminded every day --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- of something that I dont see and I might see it on you know SIXTY MINUTES special",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh no in San Antonio it was like every day it was just matter of who was shot that night",
+                "label": "b"
+            },
+            {
+                "text": "I know it but San Antonio is considered nice clean city believe it or not I mean they have all kinds of nice write ups about it --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh oh yeah but",
+                "label": "b"
+            },
+            {
+                "text": "-- but any big city has bad section",
+                "label": "^2"
+            },
+            {
+                "text": "But theres lot of them its very prevalent lot of the crime is very prevalent",
+                "label": "+"
+            },
+            {
+                "text": "Yes theyre very bold it seems",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh very much When we moved here to Monterrey it was big change because its such small community were just above Carmel and um theres hardly - most everybody seems pretty well employed around here and um those that arent - theres Celinas which is about fifteen minute drive which is mostly migrant workers and theres lot of crime there um migrant Hispanic farm workers people that are down and out and uh they all seem to congregate in Celinas not so much here in Monterrey So its its pretty quiet You know we walk the streets at night and uh people run in the park and you know youre just - have your normal smarts about you then you really dont have to worry or -",
+                "label": "b"
+            },
+            {
+                "text": "Really even uh even in the worst crime areas in Burlington I I can walk the streets I wouldnt - I if I did it every night --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- I think there would be trouble in our house so you wouldnt get confronted or anything --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- but I dont think you would uh someone might grab you mess around with you but theyre not going to grab you steal you- your money and slit your throat --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- which in lot of big cities -- -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- I mean thats what you your going to have to expect that to happen People are just totally unfeeling",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh uh I didnt know that about Burlington Ill have to keep that in mind",
+                "label": "b"
+            }
+        ]
+    }
+]

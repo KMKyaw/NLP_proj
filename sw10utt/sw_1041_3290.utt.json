@@ -1,0 +1,571 @@
+[
+    {
+        "conversation_id": "conv_3290",
+        "turns": [
+            {
+                "text": "Uh the only work I do outside the home is I am an Avon representative",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay",
+                "label": "b"
+            },
+            {
+                "text": "And I sell family products",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh -",
+                "label": "%"
+            },
+            {
+                "text": "Do you -",
+                "label": "qy"
+            },
+            {
+                "text": "So I I dont really I dont really dress up whole lot Do you work outside",
+                "label": "sd"
+            },
+            {
+                "text": "Well I I work uh - Im and I do contract work",
+                "label": "nd"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "bk"
+            },
+            {
+                "text": "And so and I work with another who just started his own practice --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- and I work with him couple days week --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and so when I go to his office or to other clients offices then Ill dress up --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but otherwise its great being at home --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- in jeans or shorts or whatever",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So that that makes it pretty nice Its --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- kind of weird because before I used to work you know full time and and uh it seemed like I was wearing suit every day just about",
+                "label": "+"
+            },
+            {
+                "text": "Well youd have to dress differently when youre working every day I think",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Right and so its uh - some of my suits I havent put on for quite --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- while",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So its",
+                "label": "sd"
+            },
+            {
+                "text": "Its kind of nice to relax little bit",
+                "label": "sd"
+            },
+            {
+                "text": "Its its very nice",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Gosh",
+                "label": "b"
+            },
+            {
+                "text": "Well my my dress up - I live out in the country also so --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- what I wear depends on the weather",
+                "label": "+"
+            },
+            {
+                "text": "Sure",
+                "label": "b"
+            },
+            {
+                "text": "Uh so I really I know lot of the Avon representatives are portrayed as being very dressed up",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But I mostly dress I try to dress nice but for convenience because when the weathers bad when I go into the home I take off my shoes --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- which I try to wear something easy to take off you know --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- and put on And I dont too often take off my coat even so uh I really dont have to dress up like - you would like if youre in an office or something",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah Well I imagine that where you live uh youre in warm clothing quite bit of the year",
+                "label": "b"
+            },
+            {
+                "text": "Uh well not actually because --",
+                "label": "+@"
+            },
+            {
+                "text": "Not really",
+                "label": "qy"
+            },
+            {
+                "text": "-- we really only have maybe three four months of Id say warm weather",
+                "label": "+"
+            },
+            {
+                "text": "Oh is that right",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah and the rest is uh gets into the cooler weather",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh Course they keep saying the weathers going to change and were going to have more Florida type weather up here so I --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- dont know But for now",
+                "label": "+"
+            },
+            {
+                "text": "So you all are waiting for that",
+                "label": "sv"
+            },
+            {
+                "text": "But for now we have lot of ice and snow in the wintertime and uh cold weather",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And that type of thing",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Now my daughter works all the time so she dresses - I think you know you have to spend more money on your clothing and that --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- because you do have to have the appearance good appearance to do good job --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- where you work",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Well down here its sunny most of the time",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh usually warm I mean we had few cool days uh this month but not anything Im sure compared to what youve had so far",
+                "label": "+"
+            },
+            {
+                "text": "Um uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So I mean people are still wearing shorts and --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh usually around Halloween it starts getting cooler so --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you start --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know breaking out coat --",
+                "label": "+"
+            },
+            {
+                "text": "Right yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- at that time but that that lasts you know for few months",
+                "label": "+"
+            },
+            {
+                "text": "Did you find you wore uh slacks when you were working full time or did you --",
+                "label": "qy"
+            },
+            {
+                "text": "No",
+                "label": "nn"
+            },
+            {
+                "text": "-- did they wear more dresses and skirts",
+                "label": "+"
+            },
+            {
+                "text": "No never wore slacks",
+                "label": "nn^r"
+            },
+            {
+                "text": "No slacks",
+                "label": "b^m"
+            },
+            {
+                "text": "It was I think it was one of those things where its not like someone came out and said you cant wear them",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "It was one of those understood things --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- that you just you know either wore you know dress or -",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh Not even dressy slack dressy suit slack suit even --",
+                "label": "b"
+            },
+            {
+                "text": "Not -",
+                "label": "nn"
+            },
+            {
+                "text": "-- if its all -",
+                "label": "+"
+            },
+            {
+                "text": "No not not with what I did Uh",
+                "label": "nn"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Most people didnt",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Sometimes like the secretaries might --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but even then you didnt see them wearing slacks too much And I really you know - theres some nice pantsuits out and --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and I wouldnt have mind- minded you know wearing those --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- especially when it gets pretty cold",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But uh -",
+                "label": "%"
+            },
+            {
+                "text": "I know my daughter mostly - I dont think she ever wears slacks --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- to work But I didnt know if the trend changes you know if uh -",
+                "label": "+"
+            },
+            {
+                "text": "You know I think its one of those things where its not viewed upon as being professional I guess they --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- expect women to be in skirts --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- or dresses",
+                "label": "+"
+            },
+            {
+                "text": "Look more like woman huh",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And its the men that make the rules",
+                "label": "sv"
+            },
+            {
+                "text": "Uh well then you you you know why they make them then that way",
+                "label": "sv"
+            },
+            {
+                "text": "But no we usually you know - skirt and skirt and blouse or suit or dress --",
+                "label": "o"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- is what you see down here So its nice with me working at home because I can wear pants",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "No no one can see me --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- unless Im you know - -",
+                "label": "+"
+            },
+            {
+                "text": "But yet you need to keep up an appearance for your husband too though --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- at home",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Because thats I I believe -",
+                "label": "+"
+            },
+            {
+                "text": "But Im not going to put skirt on just for him",
+                "label": "sd"
+            },
+            {
+                "text": "Oh you dont think you will huh Well youll be excused because considering everything -",
+                "label": "qy^g"
+            },
+            {
+                "text": "Yeah I think that the main issue at home --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- is being comfortable --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- in your clothing",
+                "label": "+"
+            },
+            {
+                "text": "But I I look at homemaking as job also",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Uh being homemaker and I I think sometimes we lose sight of that",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Uh by the fact that we dont sometimes watch our dress",
+                "label": "+"
+            }
+        ]
+    }
+]

@@ -1,0 +1,527 @@
+[
+    {
+        "conversation_id": "conv_3146",
+        "turns": [
+            {
+                "text": "Okay",
+                "label": "o"
+            },
+            {
+                "text": "Hi Nancy",
+                "label": "fp"
+            },
+            {
+                "text": "- -",
+                "label": "%"
+            },
+            {
+                "text": "Well do you do lot of dining out",
+                "label": "qy"
+            },
+            {
+                "text": "No um we dont although we enjoy it Um we do it more when we have company come",
+                "label": "nn"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Um what about you",
+                "label": "qo"
+            },
+            {
+                "text": "Well we do - some dining out Um I I do lot of cooking so um mostly like when we go out you know its my husband and I I we dont go out too often as family um unless its like fast-food kind of thing But um but we do enjoy dining out One of our favorite places here in in the Dallas area is Atlantic Cafe I dont know if you have you ever been there",
+                "label": "sd"
+            },
+            {
+                "text": "Ive heard of that but I havent been there Um where about is that",
+                "label": "sd"
+            },
+            {
+                "text": "Um well actually theres the Atlantic Cafe and Cafe Pacific and uh -",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay I Ive been to Cafe Pacific",
+                "label": "bk"
+            },
+            {
+                "text": "Have you Th- now thats down in uh Highland Park",
+                "label": "bh"
+            },
+            {
+                "text": "Right",
+                "label": "aa"
+            },
+            {
+                "text": "Its Highland Park Village Did you like it",
+                "label": "sd"
+            },
+            {
+                "text": "Yes Uh",
+                "label": "ny"
+            },
+            {
+                "text": "Oh I love it",
+                "label": "sd"
+            },
+            {
+                "text": "Before we moved to the area my brother uh lived in Dallas for number of years and we came up one time when my father was visiting and --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- we all ate there and oh their seafood was wonderful",
+                "label": "+"
+            },
+            {
+                "text": "Oh it is its fabulous It really is great place",
+                "label": "sv"
+            },
+            {
+                "text": "Now where is the Atlantic Cafe",
+                "label": "qw"
+            },
+            {
+                "text": "Atlantic Cafe is down on I believe its on McKinney",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay",
+                "label": "bk"
+            },
+            {
+                "text": "Um and - originally the two the the guy who owns the Cafe Pacific and th- the guy who owns the Atlantic Cafe were partners in the Atlantic Cafe And then they they separated and the guy started Cafe Pacific And I loved them both I really do I think theyre wonderful Thats our favorite You know what wed really like if if we just have casual evening is Houstons Have you been there",
+                "label": "sd"
+            },
+            {
+                "text": "No um but Ive heard thats really good too and -",
+                "label": "nn"
+            },
+            {
+                "text": "Its wonderful The only thing is you have to wait You have you have to expect to wait at least an hour",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "So you have to go knowing youre going to be sitting there there for an hour waiting to get in And - as long as you know that its okay But they have I think one just about the best prime rib --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- um anywhere --",
+                "label": "+"
+            },
+            {
+                "text": "Oh okay",
+                "label": "bk"
+            },
+            {
+                "text": "-- in the area I love it",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And my husband really likes their ribs So its hysterical We go in and we sit there for an hour waiting to get in and then we get there and we dont even look at the menu",
+                "label": "sd"
+            },
+            {
+                "text": "You know right away what you want",
+                "label": "bf"
+            },
+            {
+                "text": "I know right away what we what we want Yeah Yeah",
+                "label": "sd^m"
+            },
+            {
+                "text": "Well we really enjoy prime rib too and uh actually the the Steak And Ale out here uh weve gone to uh my in-laws also enjoy prime rib when theyve --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- had some of their specials on Sunday Monday or Tuesday night --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh the time we went the prime rib was really good",
+                "label": "sd"
+            },
+            {
+                "text": "Was it Really Ive nev- Ive Ive been there for like you know lunch --",
+                "label": "bh"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but Ive never been there for dinner And it was good yeah",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "Oh thats great Thats great Another nice place for for prime rib is Baby Does --",
+                "label": "ba"
+            },
+            {
+                "text": "Oh Ive heard about that too --",
+                "label": "sd"
+            },
+            {
+                "text": "-- Maxwells nice have you been there",
+                "label": "sd"
+            },
+            {
+                "text": "-- but no Weve uh I guess we eat out even less than I realize",
+                "label": "nn"
+            },
+            {
+                "text": "And I didnt think we ate out very often See Baby Does is nice",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "And one place Id never been that I would really like to go to uh is Lawrys Ive heard thats real good",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Lawrys Prime Rib",
+                "label": "+"
+            },
+            {
+                "text": "Yes Id I had heard that too Um",
+                "label": "aa"
+            },
+            {
+                "text": "Ive Ive never been there but Ive heard its real good",
+                "label": "sd"
+            },
+            {
+                "text": "Have you been to the little uh not for prime rib but the Cafe De France um right here --",
+                "label": "qy"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "-- on Central Expressway slash error",
+                "label": "+"
+            },
+            {
+                "text": "Yes actually they have one in Richardson that Ive been to",
+                "label": "ny"
+            },
+            {
+                "text": "Oh okay slash error should be bk",
+                "label": "+"
+            },
+            {
+                "text": "Uh they have real nice lunches Have you have you been there for lunch Or -",
+                "label": "sd"
+            },
+            {
+                "text": "Yes uh --",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- primarily lunch well and breakfast sometimes but uh during the week they often have limited menu choice but uh very reasonable complete dinners for six ninety-nine that included --",
+                "label": "sd"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "-- the soup an- or salad --",
+                "label": "+"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "-- entrees and accompaniments and dessert and uh the - my husband and I like veal uh --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- lot and their veal dishes have been good Weve tried different ones when theyve had them as one of the -- -",
+                "label": "+"
+            },
+            {
+                "text": "The specials",
+                "label": "^2"
+            },
+            {
+                "text": "-- uh-huh",
+                "label": "aa"
+            },
+            {
+                "text": "Have you ever been to Biffins",
+                "label": "qy"
+            },
+            {
+                "text": "Huh-",
+                "label": "%"
+            },
+            {
+                "text": "I keep hearing about it I keep hearing the advertisements of it --",
+                "label": "sd"
+            },
+            {
+                "text": "I - yes no",
+                "label": "%"
+            },
+            {
+                "text": "-- and and they keep saying you know oh its wonderful its wonderful I have not been over there and I was thinking you know its supposed to be family place over near Plano Super Bowl",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Right And -",
+                "label": "b"
+            },
+            {
+                "text": "And uh Ive Ive not been there",
+                "label": "sd^r"
+            },
+            {
+                "text": "I havent either uh one place - and Ive only been there for lunch but uh I went with friend and we met her husband um down on Greenville down near the Highway Twelve area is Gershwins",
+                "label": "sd"
+            },
+            {
+                "text": "Ive been there",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I we just we- -",
+                "label": "%"
+            },
+            {
+                "text": "That was nice",
+                "label": "sd"
+            },
+            {
+                "text": "It was and we had the uh we both enjoy mushroom soup and Linda had told me they had the best mushroom soup and they did It was wonderful but uh and we just had soup and salad so we could make room for the dessert which was chocolate sack I dont know if you tried - but --",
+                "label": "aa"
+            },
+            {
+                "text": "Oh --",
+                "label": "%"
+            },
+            {
+                "text": "-- or - -",
+                "label": "+"
+            },
+            {
+                "text": "-- Ive heard of it Where where its made - its like its like - its all chocolate like made like paper bag --",
+                "label": "sd"
+            },
+            {
+                "text": "Yes",
+                "label": "aa"
+            },
+            {
+                "text": "-- and its filled with what whip cream --",
+                "label": "qy^d"
+            },
+            {
+                "text": "It yes -- Shouldnt this end in slash",
+                "label": "ny@"
+            },
+            {
+                "text": "-- and and strawberries and something",
+                "label": "+"
+            },
+            {
+                "text": "-- it had sponge cake -- I really think this should be the start of new slash unit",
+                "label": "+@"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and whip cream and it had strawberries kiwis and raspberries --",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- in raspberry uh puree and",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "and we shared one the three of us and it was plenty because it was very rich but uh --",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- I wished Id had camera It was beautiful",
+                "label": "+"
+            },
+            {
+                "text": "Oh I bet it was I bet it was",
+                "label": "ba"
+            },
+            {
+                "text": "Uh",
+                "label": "%"
+            },
+            {
+                "text": "The last time we went to Cafe Pacific it was Fathers Day and --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- we took another friend with us and uh for dessert we thought we had just stuffed ourselves And so we had they had uh like berry assortment It was it was raspberries --",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- and blueberries and and strawberries on plate with like custard on the bottom And you know they did like the raspberry puree just kind of like in in decoration on the - you know how they do the plates real fancy with the decorations and then --",
+                "label": "+"
+            },
+            {
+                "text": "Yes Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- piled the berries and shaved chocolate on top of it --",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- and it was outstanding",
+                "label": "sd"
+            },
+            {
+                "text": "It sounds wonderful",
+                "label": "ba"
+            },
+            {
+                "text": "It was really really relatively simple but oh it was good It was really good",
+                "label": "sd"
+            },
+            {
+                "text": "Well thats uh one of the things th- that I do enjoy when you get good restaurant Uh I love fresh berries And their their fruits are always exceptional I dont Im know - they must have special source for getting them because even at the Farmers Market uh",
+                "label": "sd"
+            },
+            {
+                "text": "You cant find them",
+                "label": "^2"
+            },
+            {
+                "text": "you cant find them --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- like that and -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah yeah You know i- Im originally from Connecticut and uh I was home few years ago and my sister and brother-in-law were going to take us out for dinner and uh I was really amazed you know the the restaurants up there were kind of quaint You know they were real real pretty but they lacked the service and they lacked the at- the just the I dont know - The restaurants down here seem like they have uh - I guess theres so much competition that they really have to be good",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I thought I would really miss that",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "I would too because well because we dont go out very often When we do go out um in way its like little mini vacation I guess and uh it is its whole experience Of course you want the food to be good but the atmosphere and service I think are important uh --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- too",
+                "label": "+"
+            },
+            {
+                "text": "And you know in order to survive in this area I think they have to be good",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Because the ones that arent so good dont just dont make it",
+                "label": "sd"
+            },
+            {
+                "text": "Um that reminded me of place for lunch thats little off the beaten track but it is wonderful Its called Cafe Max and its at Plano Road and Campbell They have the most wonderful salads They do what they call salad sampler which easily could feed two or three",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            }
+        ]
+    }
+]

@@ -1,0 +1,911 @@
+[
+    {
+        "conversation_id": "conv_2472",
+        "turns": [
+            {
+                "text": "Perhaps this connection - no it still echoes Okay um",
+                "label": "o^c"
+            },
+            {
+                "text": "Do you like to cook",
+                "label": "qy"
+            },
+            {
+                "text": "I love it",
+                "label": "sd"
+            },
+            {
+                "text": "I do too",
+                "label": "sd"
+            },
+            {
+                "text": "Uh",
+                "label": "%"
+            },
+            {
+                "text": "It its kind of hard to find time sometimes but -",
+                "label": "sd"
+            },
+            {
+                "text": "Do you work",
+                "label": "qy"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "And have family",
+                "label": "qy^d"
+            },
+            {
+                "text": "Uh I dont have family but I I usually work about fifty hours week and",
+                "label": "ng"
+            },
+            {
+                "text": "Oh",
+                "label": "ba"
+            },
+            {
+                "text": "by the time I get home Im so tired its hard to cook full meal",
+                "label": "+"
+            },
+            {
+                "text": "I expect so Uh well for dinner party I think one of my favorite things is baked chicken and white wine",
+                "label": "ba"
+            },
+            {
+                "text": "Thats thats really weird that you said that because for dinner party mine is is is chicken in marsala wine sauce",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "so Where did you get your recipe for it",
+                "label": "qw"
+            },
+            {
+                "text": "Um I guess mostly out of an international cookbook that I have",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay Well mine actually came from the um Texas Instruments Cafeteria",
+                "label": "bk"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "They they -",
+                "label": "%"
+            },
+            {
+                "text": "They have I plant in Texas in Kingsport",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah we have - its in Johnson City",
+                "label": "ny"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And um the cafeteria is real good about putting out recipes you know like once month theyll put out recipe of the month",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh great",
+                "label": "b"
+            },
+            {
+                "text": "And they they put this one out and I tried it and it was really good",
+                "label": "sd"
+            },
+            {
+                "text": "What is uh is marsala wine sweeter wine",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah little bit sweeter",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And it uh its its red wine",
+                "label": "sd"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "And uh Im trying to think what else I I roll it in bread crumbs and uh Parmesan cheese",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and then I rub it with little bit I rub the chicken with little bit of oil",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "and pour the wine sauce over it as like the last twenty minutes",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "so that it gets just enough flavor",
+                "label": "+"
+            },
+            {
+                "text": "Oh so it kind of browns and then you put wine over it",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh That sounds real good",
+                "label": "b"
+            },
+            {
+                "text": "And its really easy too so -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "What do you use",
+                "label": "qw"
+            },
+            {
+                "text": "What do you serve with it",
+                "label": "qw"
+            },
+            {
+                "text": "Huh",
+                "label": "br"
+            },
+            {
+                "text": "What do you serve with it",
+                "label": "qw^r"
+            },
+            {
+                "text": "I like to serve um wild rice with it",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Thats what I do too",
+                "label": "b"
+            },
+            {
+                "text": "This is really neat And I - were big broccoli fans",
+                "label": "ba"
+            },
+            {
+                "text": "uh-huh thats what Ive got Ive got steamed broccoli down on mine",
+                "label": "b"
+            },
+            {
+                "text": "Well I just I just dont think you can go wrong with something like that",
+                "label": "sv"
+            },
+            {
+                "text": "No its great Ive got good dessert recipe",
+                "label": "aa"
+            },
+            {
+                "text": "Oh what",
+                "label": "qw"
+            },
+            {
+                "text": "Uh do you like angel food cake",
+                "label": "qy"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "I just break it up in glass bowl",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and then I mix up uh some cream cheese and little bit of Amaretta wi- and some cool whip",
+                "label": "sd"
+            },
+            {
+                "text": "Wow",
+                "label": "ba"
+            },
+            {
+                "text": "and I make thickened blueberry sauce and I layer it with uh angel food cake and the blueberries and then that topping",
+                "label": "sd"
+            },
+            {
+                "text": "What time should we be there That sounds wonderful",
+                "label": "bh"
+            },
+            {
+                "text": "It is its great",
+                "label": "sv"
+            },
+            {
+                "text": "I love desserts but since theres only two of us",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "its really - I I try to avoid making anything that too fancy that",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "wed like too much and eat too much",
+                "label": "+"
+            },
+            {
+                "text": "I know I know what you mean We dont eat desserts much any more",
+                "label": "sd"
+            },
+            {
+                "text": "But I I guess one that that I really like that I havent made in awhile and its its called fruit pizza",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And you take uh sugar cookie uh recipe",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and and spread it out on pizza pan So you make it like pizza crust and then you you bake that and then you um take things like kiwi",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and strawberries and bananas and whatever fresh fruit you want and you mix that with um excuse me you use cream cheese and little bit of orange juice and I cant remember what else is in it and you make kind of glaze",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and then you layer your fresh fruit on that",
+                "label": "sd"
+            },
+            {
+                "text": "Oh and pour that over it",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "That sounds great",
+                "label": "ba"
+            },
+            {
+                "text": "It is really good and it",
+                "label": "sv"
+            },
+            {
+                "text": "It would be pretty",
+                "label": "ba"
+            },
+            {
+                "text": "its real light and it - depending on the fruit you use its you know its real colorful",
+                "label": "+"
+            },
+            {
+                "text": "Right Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Especially with like the kiwi and the strawberries",
+                "label": "sd"
+            },
+            {
+                "text": "Right That would be pretty",
+                "label": "b"
+            },
+            {
+                "text": "So but usually I just opt for brownies and vanilla ice cream",
+                "label": "sd"
+            },
+            {
+                "text": "Weve been fixing something lately that well - weve been cooking lot of turkey breasts",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Because its low fat",
+                "label": "+"
+            },
+            {
+                "text": "Yeah its just so much better for you",
+                "label": "b"
+            },
+            {
+                "text": "And Ive been making hot sandwich I toast piece of whole wheat bread",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and then put the turkey on it and then slices of the low fat Swiss cheese and then I make little honey mustard dressing and put over it",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "and pop it in the microwave",
+                "label": "+"
+            },
+            {
+                "text": "That sounds great",
+                "label": "ba"
+            },
+            {
+                "text": "It is delicious I wouldnt mind serving that to anybody",
+                "label": "sv"
+            },
+            {
+                "text": "No and thats some- thats something that just you know it doesnt take long time to fix",
+                "label": "aa"
+            },
+            {
+                "text": "No",
+                "label": "aa"
+            },
+            {
+                "text": "its really good and its really good for you",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah its real quick",
+                "label": "b"
+            },
+            {
+                "text": "And we eat out lot and there are sometimes you just dont feel like eating out",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "and I wish I had something little bit different",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "to just zap together",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Well ma- - mix up little uh mayonnaise with some dijon mustard",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and honey until it just - I mix it until it just tastes good to me",
+                "label": "+"
+            },
+            {
+                "text": "I was going to say do you just mix it to taste",
+                "label": "qy"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "Yeah and its real good And it keeps in the refrigerator",
+                "label": "b"
+            },
+            {
+                "text": "How long does it keep do you well - you wouldnt have to make -",
+                "label": "qw"
+            },
+            {
+                "text": "Oh it keeps long time",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah and you wouldnt have to mix that much together even",
+                "label": "b"
+            },
+            {
+                "text": "No uh-huh it keeps long time",
+                "label": "aa"
+            },
+            {
+                "text": "Im sorry I keep coughing Ive had bad cold",
+                "label": "fa"
+            },
+            {
+                "text": "Oh And I put little um oh yogurt in it too",
+                "label": "b"
+            },
+            {
+                "text": "Plain Plain yogurt",
+                "label": "qy^d"
+            },
+            {
+                "text": "If I - just plain yogurt It gives it little tang",
+                "label": "%"
+            },
+            {
+                "text": "Ill bet that is really good",
+                "label": "ba"
+            },
+            {
+                "text": "It makes great sandwich",
+                "label": "sv"
+            },
+            {
+                "text": "Man Im going to have to think of that Were getting company tonight",
+                "label": "fe"
+            },
+            {
+                "text": "Oh are you",
+                "label": "b"
+            },
+            {
+                "text": "and I have been debating what to cook because one of my guests is vegetarian",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah thats kind of hard",
+                "label": "b"
+            },
+            {
+                "text": "So were going to - I think well try to do something little bit - we might try to to um to grill some flounder or salmon steaks",
+                "label": "%"
+            },
+            {
+                "text": "Theyll eat fish",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Shell eat fish",
+                "label": "sd"
+            },
+            {
+                "text": "And I usually - when they come down Ill grill those --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and brush on little lemon butter sauce and um definitely go with it will have to be rice dish --",
+                "label": "+"
+            },
+            {
+                "text": "Right uh-huh that sounds good",
+                "label": "b"
+            },
+            {
+                "text": "-- lots of vegetables to make up for the lack of meat",
+                "label": "+"
+            },
+            {
+                "text": "Right I had recipe from that um INTERNATIONAL COOKBOOK TWO thats great salad in summertime Do you do you garden or not",
+                "label": "aa"
+            },
+            {
+                "text": "No we dont our next door neighbors do and some lot of times theyll give us something",
+                "label": "nn"
+            },
+            {
+                "text": "Okay its just sliced tomatoes and I put it on glass plate because it looks real pretty",
+                "label": "bk"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Sliced tomatoes and then green pepper strips",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "ba"
+            },
+            {
+                "text": "just over it",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and some red onion slices",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and just little bit of um basil",
+                "label": "+"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "and then little Italian dressing over it And everybody loves it and its so easy and its delicious",
+                "label": "+"
+            },
+            {
+                "text": "Thats what I was just thinking it doesnt sound like it it would be hard at all",
+                "label": "sd"
+            },
+            {
+                "text": "Huh-uh it isnt",
+                "label": "b"
+            },
+            {
+                "text": "where did you get",
+                "label": "qw"
+            },
+            {
+                "text": "And you can put some cucumber slices on too",
+                "label": "sd"
+            },
+            {
+                "text": "where did you get this cook book",
+                "label": "qw"
+            },
+            {
+                "text": "I got it at the Checkbook Store",
+                "label": "sd"
+            },
+            {
+                "text": "Really",
+                "label": "ba"
+            },
+            {
+                "text": "And its got beaut- all these beautiful pictures in there that are inspiring Its going to say uh edited by Charlotte Turgeon editor of - Im not french LaRoute Gastro LaMink the creative cooking course",
+                "label": "sd"
+            },
+            {
+                "text": "Ill might have to visit the State Book Store",
+                "label": "sd"
+            },
+            {
+                "text": "Im trying to see who its published by Ottenheimer Ive never heard of it",
+                "label": "sd"
+            },
+            {
+                "text": "I havent either",
+                "label": "sd"
+            },
+            {
+                "text": "This edition is published by Bonanza Books",
+                "label": "sd"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "Its big book but it was not expensive",
+                "label": "ba"
+            },
+            {
+                "text": "Well the ones that Ive been Ive been wanting to get um - I guess youve seen the THREE HUNDRED SIXTY-FIVE WAYS TO COOK CHICKEN",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and the THREE HUNDRED SIXTY-FIVE WAYS TO COOK PASTA",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Ive been Ive been wanting to get those because we eat lot of chicken",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b@"
+            },
+            {
+                "text": "and we do eat lot of pasta",
+                "label": "sd"
+            },
+            {
+                "text": "We do too Yeah",
+                "label": "+@"
+            },
+            {
+                "text": "So we we just said the other night it wouldnt be too difficult to be to do without red meat",
+                "label": "sd"
+            },
+            {
+                "text": "Thats right I dont think it would",
+                "label": "ba"
+            },
+            {
+                "text": "You know we dont have that much of it now As long as we have plenty of vegetables",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and lots of chicken",
+                "label": "+"
+            },
+            {
+                "text": "I stir fried some the other night though Some uh beef and broccoli strips it was good but it didnt have much beef in it",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Ive got Ive got Wok that we dont use near as often as we used to",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "We used to stir fry lot especially um lot of chicken and and lot of rice dishes",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh it just takes the time to cut everything up",
+                "label": "b"
+            },
+            {
+                "text": "Yeah But usually if Im if Im if I take day off or on the weekend especially I try to cook",
+                "label": "b"
+            },
+            {
+                "text": "Cook",
+                "label": "^2"
+            },
+            {
+                "text": "real real food",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And at least cook couple of dishes ahead",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "So that we can have those to enjoy",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "One of my daughters sent me COLORADO COOK BOOK put out by the Junior League of Denver",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Have you ever seen any put out by Junior Leagues",
+                "label": "qy"
+            },
+            {
+                "text": "Yes Cause we have some",
+                "label": "ny"
+            },
+            {
+                "text": "they are great",
+                "label": "sv"
+            },
+            {
+                "text": "some local ones",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And we have share alike column in the paper",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "where people you know write in and share recipes or write in and say Im looking for this recipe",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh Right",
+                "label": "b"
+            },
+            {
+                "text": "and thats where I get lot of my recipes",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah They are good usually good arent they",
+                "label": "b"
+            },
+            {
+                "text": "Yes And I got I got real good one from doctors office one time",
+                "label": "ny"
+            },
+            {
+                "text": "Oh is that right what was that",
+                "label": "b"
+            },
+            {
+                "text": "Its uh its baked bean recipe",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And you mix baked beans and Lima beans and uh lets see I guess -",
+                "label": "sd"
+            },
+            {
+                "text": "You buy the canned baked canned baked beans",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah Just mix the canned beans together",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and brown sugar and molasses and bake them in catsup you know",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and and you just bake it And its just its like spicier baked bean dish",
+                "label": "sd"
+            },
+            {
+                "text": "Oh that sounds -",
+                "label": "ba"
+            },
+            {
+                "text": "And you can add hamburger if you want",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "to give it little more body",
+                "label": "+"
+            },
+            {
+                "text": "That sounds good",
+                "label": "ba"
+            },
+            {
+                "text": "So I I try to always keep my eyes open and because lot of time you can find find really good recipes where you wouldnt even think about it",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "So I try to always keep little notebook in my purse",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Jot them down huh",
+                "label": "b"
+            },
+            {
+                "text": "But its been -",
+                "label": "%"
+            }
+        ]
+    }
+]

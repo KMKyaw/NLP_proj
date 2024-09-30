@@ -1,0 +1,271 @@
+[
+    {
+        "conversation_id": "conv_3361",
+        "turns": [
+            {
+                "text": "Okay Well Carolyn the uh one of the main things Id like like to know is uh how do you feel about the knowing about the environment of nursing home before you would send someone there to live and so forth",
+                "label": "o"
+            },
+            {
+                "text": "Well -",
+                "label": "%"
+            },
+            {
+                "text": "What do you think would be required and so forth",
+                "label": "qo"
+            },
+            {
+                "text": "Uh Ill tell you I I watched what went on um with the TWENTY TWENTY show I dont know if you saw that few days ago that that talked about nursing homes and actually they specifically talked about some in the area where I am here in Texas and -- -",
+                "label": "^h"
+            },
+            {
+                "text": "Oh you knew of the homes then",
+                "label": "qy"
+            },
+            {
+                "text": "-- Pardon",
+                "label": "br"
+            },
+            {
+                "text": "You knew of the homes themselves",
+                "label": "qy^r"
+            },
+            {
+                "text": "Well I - no Im not familiar with those homes per se --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but um they were in the area where I live --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay",
+                "label": "bk"
+            },
+            {
+                "text": "-- uh and it was really revealing to see some of the you know the things that go on I guess in some of these homes so I would definitely you know want to really check things out and uh go I guess that the big thing would be once you got someone in home like that to to make sure that you went daily you know --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and made sure that they were cared for and -",
+                "label": "+"
+            },
+            {
+                "text": "Well from your point of view how would you feel about actually sending someone that thats you know means something to you to one of those homes I realize that you indicated you wanted to check out as much as you can about it --",
+                "label": "qw"
+            },
+            {
+                "text": "uh-huh",
+                "label": "aa"
+            },
+            {
+                "text": "-- and of course that makes sense but how do you think they would feel I should say about moving from where they have lived most of their life into whole new new home situation",
+                "label": "ba"
+            },
+            {
+                "text": "Well actually I have that kind of situation because my mother lives with me and shes --",
+                "label": "nd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- eighty-seven --",
+                "label": "+"
+            },
+            {
+                "text": "Oh okay",
+                "label": "bk"
+            },
+            {
+                "text": "-- and uh from the time that we were tiny she said you know I want you to promise that youll never put me in rest home",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So I know how she feels about it You know if I uh --",
+                "label": "sd"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "-- if I ever had to put her there I think uh it would be probably when I just could not handle it any more you know if I --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- she got to the point where she was totally bedridden and and I mean I just didnt have the skills or the strength to lift her or whatever it needed I think that would be the -",
+                "label": "+"
+            },
+            {
+                "text": "Well how do you find that your your personal relationship is with her know that youre both together all the time and you are having to do lot more for her than normal Does that does that cause any problems between the two of you",
+                "label": "qo"
+            },
+            {
+                "text": "Uh I wouldnt say any more than usual",
+                "label": "ng"
+            },
+            {
+                "text": "uh-huh Is she -",
+                "label": "b"
+            },
+            {
+                "text": "I think its very hard for her um to be waited upon so to speak I mean I think its hard for her to have that role of not being able to do as much as she used to",
+                "label": "sd"
+            },
+            {
+                "text": "Its hard to accept the fact that youre unable to pursue life at the level that you did before isnt it",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah I think thats very true",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Um on the other hand it takes on almost switch of mother child relationship",
+                "label": "sv"
+            },
+            {
+                "text": "It is different",
+                "label": "sv"
+            },
+            {
+                "text": "Uh",
+                "label": "b"
+            },
+            {
+                "text": "I had that almost similar situation My mother lives in an apartment with my sister --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh so I except for the three or four months this summer - thats the only time I ever spent with my mother and of course since I see her only once or twice year I was just thrilled --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- to have her here with me and I spent every minute I could to be with her and uh cooking foods for her you know just to make her her life as though she were on vacation",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But somehow another it that doesnt work between my mom and my sister and they they find they they are - in speaking they - I dont know my mother feels uncomfortable around my sister and my sisters uncomfortable because her mothers there --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and I guess its just because theyre there all the time",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So its it puts has put pressure on both of them from that point of view So thats thats kind of bad news And by the same token my wifes mother is now moved into nursing home and after all she has been farmers wife for sixty years --",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "-- and now all of sudden shes had to move off of her farm into another home where the environment is totally different",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Shes relatively happy but she doesnt like the food And when she complains about the food --",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "-- then they kind of get angry with her",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So thats another one of those things you have to solve",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah Well thats got to be big adjustment for someone thats as you say lived on farm for sixty years and then go to something like that",
+                "label": "b"
+            },
+            {
+                "text": "Yeah after all their their life is so totally different because in those early days the food they had to make it from scratch so to speak",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I mean you raised your own chickens and you killed your own hogs I suppose and then they --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- they had to store the meat in uh - I dont want to say barns but they had regular little places they they would hang it you know --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- to cure it and so forth And and now all of sudden it uh comes in differently it tastes differently",
+                "label": "+"
+            },
+            {
+                "text": "Thats right Yeah",
+                "label": "aa"
+            }
+        ]
+    }
+]

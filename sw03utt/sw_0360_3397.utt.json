@@ -1,0 +1,375 @@
+[
+    {
+        "conversation_id": "conv_3397",
+        "turns": [
+            {
+                "text": "Okay",
+                "label": "o"
+            },
+            {
+                "text": "Well its not often you get uh many women interested in football",
+                "label": "sv"
+            },
+            {
+                "text": "Oh well -",
+                "label": "%"
+            },
+            {
+                "text": "Do you follow football very much",
+                "label": "qy"
+            },
+            {
+                "text": "Im sorry what",
+                "label": "br"
+            },
+            {
+                "text": "Do you follow football very much",
+                "label": "qy^r"
+            },
+            {
+                "text": "I dont no I havent recently um",
+                "label": "na"
+            },
+            {
+                "text": "Well we can talk about something else Do you have any uh - you married",
+                "label": "sd"
+            },
+            {
+                "text": "No Im not no",
+                "label": "nn"
+            },
+            {
+                "text": "No well I guess kids are out",
+                "label": "b^m"
+            },
+            {
+                "text": "Whats that",
+                "label": "br"
+            },
+            {
+                "text": "Kids are out",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yep Are you married",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah I Im married Got two boys",
+                "label": "ny"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Wow So do you like football",
+                "label": "ba"
+            },
+            {
+                "text": "Oh I follow the uh the Cowboys but thats about it uh",
+                "label": "no"
+            },
+            {
+                "text": "The the same here",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Do you live in Dallas",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah I I I am pretty big Dallas fan been for long time --",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- but I havent been to any games recently But uh I try to catch the game every weekend that I can",
+                "label": "sd"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah Have you ever been to Cowboys game",
+                "label": "ny"
+            },
+            {
+                "text": "I havent huh-uh",
+                "label": "ng"
+            },
+            {
+                "text": "Um its pretty nice",
+                "label": "sd"
+            },
+            {
+                "text": "We dec- we decided just to watch them at home But -",
+                "label": "sd"
+            },
+            {
+                "text": "Thats good At least you uh follow the game little bit",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Um yeah Im not fanatic about it I dont know who played when and who does what like some guys are I just like to watch and and hopefully they win",
+                "label": "b^m"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Thats about the extent of it",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Right now Im in um college so Im more into college football than professional I think",
+                "label": "b"
+            },
+            {
+                "text": "Oh I see What uh school are you going to",
+                "label": "b"
+            },
+            {
+                "text": "Um Im at",
+                "label": "sd"
+            },
+            {
+                "text": "okay",
+                "label": "bk"
+            },
+            {
+                "text": "Yeah so -",
+                "label": "b"
+            },
+            {
+                "text": "Leslie what are you studying",
+                "label": "qw"
+            },
+            {
+                "text": "Nursing",
+                "label": "sd"
+            },
+            {
+                "text": "Nursing Great",
+                "label": "b^m"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "My moms an",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah So what are you planning to go into Do you want to be an or -",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah yeah Um I havent really picked field I havent I I dont know Ive thought lot about labor and delivery but --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- I dont know",
+                "label": "+"
+            },
+            {
+                "text": "Try that Thats what my mom does labor and delivery",
+                "label": "ad"
+            },
+            {
+                "text": "Oh really Wow",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah she loves it She she really uh enjoys",
+                "label": "ny"
+            },
+            {
+                "text": "Is she nurse in Dallas",
+                "label": "qy"
+            },
+            {
+                "text": "No shes nurse in San Antonio --",
+                "label": "nn"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "-- but uh shes been shes been working uh on late shift She works the uh I guess the graveyards what youd call it",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "She works the graveyard shift And shes worked that for oh years when I was small",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "Uh I guess probably going on twenty years now",
+                "label": "sd"
+            },
+            {
+                "text": "Wow",
+                "label": "ba"
+            },
+            {
+                "text": "And she really enjoys it She likes the quiet that you have at that time of the night and uh and uh shes uh she just started new job at different hospital closer to where she lives --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and shes really enjoying herself She really likes it",
+                "label": "sd"
+            },
+            {
+                "text": "Well thats great",
+                "label": "ba"
+            },
+            {
+                "text": "Well good luck to you in pursuing your nursing degree",
+                "label": "ba"
+            },
+            {
+                "text": "Oh thanks",
+                "label": "ft"
+            },
+            {
+                "text": "Hope youll like it",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Do you plan on staying in in the Dallas area",
+                "label": "qy"
+            },
+            {
+                "text": "Um Id like to come back to Dallas Right now Im in Utah of course",
+                "label": "nd"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So um - but my familys there so - yeah Id like to go back",
+                "label": "%"
+            },
+            {
+                "text": "Yeah uh I think Texas San Antonio in particular has got large uh base of hospitals Uh I dont know about Dallas I think Dallas is pretty scattered",
+                "label": "b"
+            },
+            {
+                "text": "Are you in San Antonio",
+                "label": "qy"
+            },
+            {
+                "text": "No Im Im in Dallas --",
+                "label": "nn"
+            },
+            {
+                "text": "Oh okay",
+                "label": "bk"
+            },
+            {
+                "text": "-- but Im originally from San Antonio --",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "-- and theyve got large medical uh center down there Theyve got the Health Science Center out there also",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "So if ever wanted you know pursue anything more than your nursing degree that thatd be the place to do it",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah my brother-in-law um is in the medical profession I mean hes at medical scho- school in San Antonio right now",
+                "label": "aa"
+            },
+            {
+                "text": "Oh great",
+                "label": "ba"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "Great",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Well like I said good luck to you",
+                "label": "fc"
+            },
+            {
+                "text": "Thanks",
+                "label": "fc"
+            },
+            {
+                "text": "All right well um take care and maybe well meet up again some time",
+                "label": "fc"
+            },
+            {
+                "text": "All right",
+                "label": "fc"
+            },
+            {
+                "text": "Okay Bye-bye",
+                "label": "fc"
+            }
+        ]
+    }
+]

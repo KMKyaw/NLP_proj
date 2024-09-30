@@ -1,0 +1,383 @@
+[
+    {
+        "conversation_id": "conv_4023",
+        "turns": [
+            {
+                "text": "how do you feel about crime in the city You say youre from Atlanta",
+                "label": "qo"
+            },
+            {
+                "text": "Right I I I actually I live in the city --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh I guess it is concern of mine uh you know for my own safety",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh I mean do you do you find crime in Atlanta really - I live in Atlanta also",
+                "label": "b"
+            },
+            {
+                "text": "Well thats right Uh slash error",
+                "label": "ba"
+            },
+            {
+                "text": "Uh",
+                "label": "%"
+            },
+            {
+                "text": "Uh I think it is bad in certain areas sv however I think the area that I live in its not uh the crime level is not as high as it is in other areas of the of the city",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I think it seems that theres certain areas where uh the crime is focused --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh",
+                "label": "+"
+            },
+            {
+                "text": "Well what do you think can be done about the crime in the city",
+                "label": "qw"
+            },
+            {
+                "text": "Well I think its whats been happening over the last several years it seems theyve been beefing up the police patrols trying to put put more guys more cops higher visibility and uh --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- theyve had some impact but not tremendous amount and probably um they need to try to increase community involvement that sort of thing I think",
+                "label": "+"
+            },
+            {
+                "text": "I probably agree with that",
+                "label": "aap"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Uh",
+                "label": "%"
+            },
+            {
+                "text": "You know particularly in some of the housing projects uh you know thats that tends to be where lot of that crime is focused --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and theyve got to do more than just having having cops there Theyve got to kind of change the way people think about it",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah thats probably true Um so um well do you think Atlantas as bad as most other cities",
+                "label": "aa"
+            },
+            {
+                "text": "Um well Ive been to - Id say its its probably in the top top ten in terms of crime Um its nowhere near as bad as New York City --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- for example Probably not not as bad as Detroit",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh I dont think its as bad as either",
+                "label": "b"
+            },
+            {
+                "text": "No",
+                "label": "aa"
+            },
+            {
+                "text": "We I dont think we have as much of the gang problem as lot of the other cities have",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah that seems to be true Um yeah if youve ever been to like New York City and --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you can just you can just as you walk through the street on given evening you can see crimes being committed",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Its that obvious",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I dont know I came to the conclusion also that you know just if you are walking in downtown area you know where theres lot of crime lot of thats going to just just keeping your senses about you and and trying not to look like victim you know",
+                "label": "b"
+            },
+            {
+                "text": "Yeah thats true",
+                "label": "aa"
+            },
+            {
+                "text": "You know walk bi- you know walk with you know with --",
+                "label": "sv"
+            },
+            {
+                "text": "With big stick or",
+                "label": "^2"
+            },
+            {
+                "text": "-- just walk in confidently and you know dont dont be --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- looking around like youve never been there before --",
+                "label": "+"
+            },
+            {
+                "text": "Sure",
+                "label": "ba"
+            },
+            {
+                "text": "-- and you have no idea where you are",
+                "label": "+"
+            },
+            {
+                "text": "Right dont dont walk down an alley or dont get -- -",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- just try to keep yourself out of bad situation --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but yeah there are times when you cant avoid all that --",
+                "label": "%"
+            },
+            {
+                "text": "Uh",
+                "label": "%"
+            },
+            {
+                "text": "-- and and then youre kind of on your own",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah have you have you ever have you ever been mugged in Atlanta",
+                "label": "b"
+            },
+            {
+                "text": "Uh no The only thing Ive ever had was Ive had my wallet lifted --",
+                "label": "nn"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but that was in more of setting where there was number of people around and I kind of got - I was much younger at the time --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and kind of couple of people they just took it from me without me knowing really --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and kind of passed it off so I didnt know who had it",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Ive had that happen but thats thats about it",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Ive been pretty lucky about getting mugged Um",
+                "label": "b"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "Yeah I think Ive only actually seen like one you know one actual robbery with gun --",
+                "label": "+"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "-- and thats been about the only you know real violent crime where you know potentially violent crime that Ive seen in Atlanta",
+                "label": "sd"
+            },
+            {
+                "text": "Really well Ive had my -",
+                "label": "ba"
+            },
+            {
+                "text": "And that was just guy running out of store that he just robbed",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Ive had my car stolen so maybe that counts",
+                "label": "b"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Oh where was where where was that Was that downtown or -",
+                "label": "qw"
+            },
+            {
+                "text": "Oh no that was in the northern - um up near Cumberland Mall area",
+                "label": "nn"
+            },
+            {
+                "text": "Really",
+                "label": "ba"
+            },
+            {
+                "text": "Its actually Cobb County but it is Atlanta --",
+                "label": "sd"
+            },
+            {
+                "text": "Metropolitan yeah",
+                "label": "^2"
+            },
+            {
+                "text": "-- and uh theres lot of car thefts in that area",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Ive actually Ive known known some people that have had their cars stolen Uh and uh and you know about half the time they seem to the seems to recover them you know --",
+                "label": "aa"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- in various states of disrepair",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Up on blocks My friend had Rabbit and when he when he got it back his um dashboard was sitting in the front seat",
+                "label": "+"
+            },
+            {
+                "text": "Yeah mine was just it had been wrecked and some superficial type damage but they didnt they didnt strip it --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- so I got it back",
+                "label": "sd"
+            },
+            {
+                "text": "Well youre probably luckier than -",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah than most",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh Um so like does insurance pay for the body damage or --",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "na"
+            },
+            {
+                "text": "-- was that all there was body",
+                "label": "+"
+            },
+            {
+                "text": "It was about three grand to put everything together They cracked the steering column of course to steal the car Yeah you got to you crack the steering column and you pull the - theres pin in there that you can pull on these cars --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and you can start it up basically pretty easily",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh So how do you know this much about um stealing cars",
+                "label": "b"
+            },
+            {
+                "text": "Well after I found mine I had to I had this -",
+                "label": "sd"
+            }
+        ]
+    }
+]

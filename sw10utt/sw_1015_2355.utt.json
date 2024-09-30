@@ -1,0 +1,987 @@
+[
+    {
+        "conversation_id": "conv_2355",
+        "turns": [
+            {
+                "text": "Okay um what do you think about the war recently",
+                "label": "o"
+            },
+            {
+                "text": "The war",
+                "label": "qy^d"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "You mean in terms of the economy or -",
+                "label": "qy^d"
+            },
+            {
+                "text": "Uh the economy - the - our soldiers going over uh -",
+                "label": "na"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "just everything",
+                "label": "sd"
+            },
+            {
+                "text": "I thought we were going to talk about social changes Is that is that what - youre kind",
+                "label": "sd^t"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "of directing it",
+                "label": "+"
+            },
+            {
+                "text": "yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Oh okay",
+                "label": "bk"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Okay well",
+                "label": "b"
+            },
+            {
+                "text": "thats the first thing I thought of I dont know",
+                "label": "sd"
+            },
+            {
+                "text": "Um Well I think its caused lot of you know big difference between when people had gone to war before",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "like compared to Vietnam because",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "I mean I know that there was so much more support for the soldiers going over and even people that didnt agree with the war still seem to be able to separate that",
+                "label": "+"
+            },
+            {
+                "text": "Right and -",
+                "label": "b"
+            },
+            {
+                "text": "you know and support the soldiers so -",
+                "label": "+"
+            },
+            {
+                "text": "I know that uh Ive heard people say that you know when people that went to World War Two - you couldnt become political figure or president unless you had served in the war",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "but then in Vietnam that was totally different you know you couldnt be political figure if you were in Vietnam probably",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And now",
+                "label": "sv"
+            },
+            {
+                "text": "yeah",
+                "label": "b"
+            },
+            {
+                "text": "if youve served in Desert Storm you probably would be good candidate",
+                "label": "+"
+            },
+            {
+                "text": "Yes it would be like bonus for your",
+                "label": "aa"
+            },
+            {
+                "text": "-",
+                "label": "ba"
+            },
+            {
+                "text": "image or something",
+                "label": "+"
+            },
+            {
+                "text": "exactly exactly",
+                "label": "+"
+            },
+            {
+                "text": "Yeah it - Im sure it caused lot of changes in terms of how many families had to have their income",
+                "label": "b"
+            },
+            {
+                "text": "Oh torn apart - Oh yea-",
+                "label": "^2"
+            },
+            {
+                "text": "just drastically altered We had people down the street that the guy was in the reserves and he was just about ready to go and they have just had new baby",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and uh they would have she would have had to go back to work and",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "I think she said their income would have dropped by like two thirds",
+                "label": "+"
+            },
+            {
+                "text": "So it - thats also good reason why it it - or good that it ended as soon as it did",
+                "label": "%"
+            },
+            {
+                "text": "Yeah yeah I think the biggest change that weve seen um in in my life or whatever lately is the economy",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and things are so tight and like my husband hasnt gotten raise in two years and",
+                "label": "sv"
+            },
+            {
+                "text": "Exactly",
+                "label": "ba"
+            },
+            {
+                "text": "you know -",
+                "label": "+"
+            },
+            {
+                "text": "and it seems like everything is raising every- everything that can be cigarettes",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "not that I smoke but cigarettes um uh stamps I mean it seems like ever- -",
+                "label": "+"
+            },
+            {
+                "text": "Even dog licenses I mean -",
+                "label": "sv"
+            },
+            {
+                "text": "Exactly everything single thing that we do",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "is higher",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "you know And they just raised the minimum wage today but thats not like you know",
+                "label": "sd"
+            },
+            {
+                "text": "Going to effect too many -",
+                "label": "^2"
+            },
+            {
+                "text": "as much as they should have raised it Im sure",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "But uh -",
+                "label": "%"
+            },
+            {
+                "text": "So thats the hardest thing for us and um weve been trying to kind of maintain traditional lifestyle in the sense of meaning home We have three year old and two year old and Im trying to stay home as long as I can",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "but you know every week it gets harder because I could go out and be making money",
+                "label": "sd"
+            },
+            {
+                "text": "Right Right",
+                "label": "b"
+            },
+            {
+                "text": "you know so thats big uh stress I think",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "you know for the social changes in our family",
+                "label": "+"
+            },
+            {
+                "text": "I dont I dont have any children or anything right now Im uh I work as news reporter in Waco",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "and so -",
+                "label": "%"
+            },
+            {
+                "text": "I see",
+                "label": "b"
+            },
+            {
+                "text": "I get to see I got to see lot of not firsthand but uh probably good part of the war um as far as what people thought about it",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and lot of things like that so -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah Well i- -",
+                "label": "b"
+            },
+            {
+                "text": "It was kind of amazing people were coming to me to ask me you know whats going on you know like I knew or like I sat in on the meetings or something",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah you have an inside track or something",
+                "label": "b"
+            },
+            {
+                "text": "Yeah yeah So I got to hear lot of what the people thought about you know changes in in the war and everything so that was pretty interesting",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah yeah Lets see what other social changes in the past ten years oh I guess between men and women Ive seen lot of changes",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "in terms of women feeling like they have to have career be mom be",
+                "label": "+"
+            },
+            {
+                "text": "Exactly be everything be supermom",
+                "label": "aa"
+            },
+            {
+                "text": "everything superperson",
+                "label": "+"
+            },
+            {
+                "text": "exactly",
+                "label": "aa@"
+            },
+            {
+                "text": "Yeah because I know you know I I really get pressure from because I have career also",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "+@"
+            },
+            {
+                "text": "and I get lot of pressure from people that you know my colleagues that - why am I staying home You know",
+                "label": "sd"
+            },
+            {
+                "text": "Right And -",
+                "label": "b"
+            },
+            {
+                "text": "whereas before that never would have happened",
+                "label": "sv"
+            },
+            {
+                "text": "Whereas it would have been -",
+                "label": "sv"
+            },
+            {
+                "text": "people would have said why are you going to work",
+                "label": "sv(^q)"
+            },
+            {
+                "text": "Exactly um",
+                "label": "aa"
+            },
+            {
+                "text": "So thats kind of difference for us I think theres more pressure to um not necessarily negative thing but on my husband to be more involved with the family",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "So hes -",
+                "label": "%"
+            },
+            {
+                "text": "The roles are changing lot",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah hes gotten lot uh you know you see all kinds of men being involved in the housework and taking care of the kids and all but in terms of his amount of hours at work nothing on that has lightened up",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "So its now he has the pressure too of being superdad and supercareer and -",
+                "label": "sd"
+            },
+            {
+                "text": "And even you know I think lot of the movies we see now kind of kind of play good part in our changes because you see that they have THE THREE MEN AND BABY type movies",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah thats true",
+                "label": "aa"
+            },
+            {
+                "text": "And I think you know that -",
+                "label": "sv"
+            },
+            {
+                "text": "MISTER MOM and -",
+                "label": "sd"
+            },
+            {
+                "text": "yeah and then you have the women uh detectives now and you know different roles",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "just in what we see - and so we probably want to do that even more now",
+                "label": "%"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know since the womens movement in the wh- seventies",
+                "label": "+"
+            },
+            {
+                "text": "Thats true",
+                "label": "ba"
+            },
+            {
+                "text": "and you know weve come long way but I think its still still have good ways to go",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "I think theres still - I I know that um I grew up in Chicago in the sixties",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and was part - my family was real liberal and I think theres lot of um kind of myths that weve come long way just in terms of our society",
+                "label": "%"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "and race relations and things like that and you know I think theres so much prejudice still there",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and its kind of more covert now People used to be more clear and say",
+                "label": "sv"
+            },
+            {
+                "text": "Exactly",
+                "label": "aa"
+            },
+            {
+                "text": "you know well I believe in this or I believe in that",
+                "label": "+"
+            },
+            {
+                "text": "Exactly",
+                "label": "aa^r"
+            },
+            {
+                "text": "and now you know I think theres still tremendous amount of prejudice",
+                "label": "sv"
+            },
+            {
+                "text": "Its just not as -",
+                "label": "%"
+            },
+            {
+                "text": "but people think oh were in the nineties were beyond all that you know",
+                "label": "sv"
+            },
+            {
+                "text": "Exactly But its - I mean like I say weve come long way but we have I mean twice as far to go",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "still",
+                "label": "+"
+            },
+            {
+                "text": "yeah",
+                "label": "b^r"
+            },
+            {
+                "text": "and I dont think lot of people you know realize lot the plight of lot of people",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know and you may be in good standing and everything may look hunky-dory to you",
+                "label": "+"
+            },
+            {
+                "text": "But theres so many more people",
+                "label": "^2"
+            },
+            {
+                "text": "but theres so many more people",
+                "label": "+"
+            },
+            {
+                "text": "that are homeless and -",
+                "label": "+"
+            },
+            {
+                "text": "exactly that you dont even slash marks right Should there be one after exactly",
+                "label": "+@"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and that you dont even see or know about",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Its real easy to get isolated in your own little community",
+                "label": "b"
+            },
+            {
+                "text": "Oh oh yeah",
+                "label": "ba"
+            },
+            {
+                "text": "you know because wh- when I was growing up in Chicago um we were in real ethnic neighborhood and there were people from all first generation Chinese German you know all different nationalities",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and everything",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And now were kind of like in Lewisville Miss White Little suburbia",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "you know I mean I dont even know anybody that",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "you know from any place other than Texas hardly",
+                "label": "+"
+            },
+            {
+                "text": "I grew up in",
+                "label": "sd"
+            },
+            {
+                "text": "you know",
+                "label": "+"
+            },
+            {
+                "text": "in Brooklyn New York",
+                "label": "+"
+            },
+            {
+                "text": "Oh boy",
+                "label": "ba"
+            },
+            {
+                "text": "and so I was just I was just surrounded you know by Black people",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "because Im Black and so you know I lived thats where I lived",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And so now I I feel lucky actually because Ive almost lived around everyone Ive I went to to college",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "and so they you know they have lot of different people go there",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "different kinds of people And so I feel really enriched in that lot of people dont get to see -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "you know some people have lived in Lewisville all their life you know",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah and they",
+                "label": "b"
+            },
+            {
+                "text": "and so they dont get to see -",
+                "label": "+"
+            },
+            {
+                "text": "they think the whole world is like that",
+                "label": "+"
+            },
+            {
+                "text": "Exactly And th- -",
+                "label": "ba"
+            },
+            {
+                "text": "We lived in dorm My husband and I met in graduate school",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "at Indiana University and I was ours was uh international co- you know co-ed dorm",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and there were twelve hundred students theyre graduate students from all over the world And once we came here it was like - gosh I just miss that",
+                "label": "sd"
+            },
+            {
+                "text": "Exactly",
+                "label": "ba"
+            },
+            {
+                "text": "because it really is exciting",
+                "label": "sv"
+            },
+            {
+                "text": "It is",
+                "label": "aa"
+            },
+            {
+                "text": "to be around people of different cultures and different backgrounds We got invited to - one guy practically roasted goat in his in his dorm",
+                "label": "+"
+            },
+            {
+                "text": "Oh my God",
+                "label": "ba"
+            },
+            {
+                "text": "I wonder if he was from Iran or some place I dont know where but um you know",
+                "label": "sd"
+            },
+            {
+                "text": "Well theres so many people who have never you know even gotten to do that",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "+@"
+            },
+            {
+                "text": "so thats great",
+                "label": "sv"
+            },
+            {
+                "text": "yeah",
+                "label": "b"
+            },
+            {
+                "text": "My sister was telling me she met gi- shes going to the University of Pennsylvania in in Philadelphia",
+                "label": "sd"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and uh she just met girl from um I think Barbados or Jamaica or something",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "like that And I mean this girl she had like two outfits that she would just wear all the time",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and everything and",
+                "label": "+"
+            },
+            {
+                "text": "yeah",
+                "label": "b"
+            },
+            {
+                "text": "she got some kind of money from her government like five hundred dollars So my sister had to take her shopping and you know show her what to wear show her how to match up colors and",
+                "label": "+"
+            },
+            {
+                "text": "Oh God",
+                "label": "ba"
+            },
+            {
+                "text": "I just thought that was so very exciting",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "you know to go and and just witness you know this girl just coming to America type thing you know",
+                "label": "+"
+            },
+            {
+                "text": "Yeah really",
+                "label": "b"
+            },
+            {
+                "text": "So you know I would have loved it the opportunity to do that",
+                "label": "sd"
+            },
+            {
+                "text": "That is part",
+                "label": "sd"
+            },
+            {
+                "text": "but -",
+                "label": "%"
+            },
+            {
+                "text": "of the change I think that Ive seen probably you know in the past twenty years or whatever is now kids have to have so much I mean I even get caught up in it with our kids",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "even though I buy most of the things at garage sales for their Christmas",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I mean people ha- you know think theyre kids have to have five hundred dollars worth of toys",
+                "label": "sv"
+            },
+            {
+                "text": "the latest cereal about you know th- -",
+                "label": "sv"
+            },
+            {
+                "text": "Oh yeah its just -",
+                "label": "b"
+            },
+            {
+                "text": "Yeah thats ridiculous",
+                "label": "b"
+            },
+            {
+                "text": "it its -",
+                "label": "%"
+            },
+            {
+                "text": "too When I first moved here I was only thirteen but everyone had car in school you know",
+                "label": "+"
+            },
+            {
+                "text": "Oh gosh",
+                "label": "ba"
+            },
+            {
+                "text": "and I couldnt and I just couldnt belie- you know I was from New York and so you know we road the bus",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah me too",
+                "label": "b"
+            },
+            {
+                "text": "And if you had ca- -",
+                "label": "%"
+            },
+            {
+                "text": "in Chicago",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I didnt even date guy that had car until I was in college",
+                "label": "+"
+            },
+            {
+                "text": "Exactly And if you had car - there was nowhere to park it anyway or you know its just - you just didnt have car",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "but then we came here and they had parking lots in the schools and I couldnt understand it",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know all the kids had cars",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and they you know have to have car",
+                "label": "sd"
+            },
+            {
+                "text": "Oh gosh",
+                "label": "ba"
+            },
+            {
+                "text": "So that was -",
+                "label": "sd"
+            },
+            {
+                "text": "my kids are going to be hating me Ill give them bike and say",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah right",
+                "label": "b"
+            },
+            {
+                "text": "heres it so you can afford to pay the insurance",
+                "label": "+"
+            },
+            {
+                "text": "Really",
+                "label": "b"
+            },
+            {
+                "text": "you know",
+                "label": "+"
+            },
+            {
+                "text": "Or live really close to school and have them walk",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah no",
+                "label": "b"
+            },
+            {
+                "text": "But -",
+                "label": "%"
+            },
+            {
+                "text": "kidding",
+                "label": "+"
+            },
+            {
+                "text": "uh yeah lot of changes",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "Well did we cover it everything Betty",
+                "label": "qy^t"
+            },
+            {
+                "text": "I think so",
+                "label": "sd"
+            },
+            {
+                "text": "Okay I guess Ill get back to my laundry",
+                "label": "bk"
+            },
+            {
+                "text": "Okay well its good its good talking to you",
+                "label": "aa"
+            },
+            {
+                "text": "You too good luck",
+                "label": "fc"
+            },
+            {
+                "text": "Okay",
+                "label": "fc"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc^m"
+            }
+        ]
+    }
+]

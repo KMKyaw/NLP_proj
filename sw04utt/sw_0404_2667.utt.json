@@ -1,0 +1,595 @@
+[
+    {
+        "conversation_id": "conv_2667",
+        "turns": [
+            {
+                "text": "Okay",
+                "label": "o"
+            },
+            {
+                "text": "Okay uh the question was about uh physical fitness and staying in shape and exercise",
+                "label": "b^m"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Well uh I I dont do it as much as I should I try to walk",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh last year I would I did it every day but Ive kind of in ninety-one Ive kind of gone down hill",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And so Im not doing it as much as I need to but I I can tell you when I do do it on regular basis I feel so much better --",
+                "label": "sd"
+            },
+            {
+                "text": "I agree",
+                "label": "aa"
+            },
+            {
+                "text": "-- and so much healthier But its just to get motivated to do it and once I get started and and I I I ca- I do it every night",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Its just to get uh motiv- motivated again and what happened about couple of weeks ago I started again And I was walking and it got kind of dark",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I was by myself and there was this fellow in this truck that kept circling the block",
+                "label": "sd"
+            },
+            {
+                "text": "Ooh",
+                "label": "b"
+            },
+            {
+                "text": "And so I I kind of got frightened and I kind of use that as an excuse All I have to do is start earlier but -",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "I havent walked since so -",
+                "label": "sd"
+            },
+            {
+                "text": "Its always easy to find an excuse not to exercise I know what you mean",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah it sure is It sure is How about you Do you exercise on regular basis",
+                "label": "aa"
+            },
+            {
+                "text": "Um well I try to Um I started at the beginning of this year I decided all right Im going to start exercising again Im going to be real good and I went through the I fitness center and registered for the uh aerobics classes there",
+                "label": "na"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And they run for two months at time And you have to you do have to pay to take them And I took I signed up for one that was three nights week an hour and half so that was four and half hours week",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "And it cost sixty dollars and I thought okay thats not cheap thatll encourage me to always go since I spent that much money",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And I had friend of mine going so I was real good I only missed it about three times And then oh March came around and I signed up again and I got uh caught up with class I was taking at I and then I was having to work some real late hours to get caught with my work after I got out of class",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And then I went to Colorado Springs the next week to do some training at the I up there And so that was two weeks I had missed and boy I tell you what Ive been terrible ever since then",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah its once you get out of that habit --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you just dont you dont get back into it Because I teach school and last year bunch of teachers had an aerobics class We went in together and hired private instructor and she came to our school twice week",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I I was - I would go faithfully and then I missed once Then I went back again couple times and missed another time and then kept missing and never went back again",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I think if you - you just have to stick with it",
+                "label": "%"
+            },
+            {
+                "text": "Oh yeah I think Ive been two maybe three times the month of April and this session is about to run out Now I signed up for different one now thats only two nights week because I am getting kind of into real busy schedule as far as teaching lot of training classes and --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- some of them require me to go out of town and and uh that just kind of throws my whole schedule off on doing that So",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And Ive - lately uh theres been nights that I could have gone and Ive found excuses uh --",
+                "label": "+@"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- things like I had the flu last week but Im fine this week I could have gone Monday I could have gone tonight and I didnt",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So Im kind of finding excuses and now its kind of like well - this is the last week Ill just start fresh next week But I better better do it And I think another thing is that my friend that was taking with me the first two months wasnt the second two months She started taking tennis lessons and so I havent had that extra motivation of of us forcing each other or not forcing each other --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- but encouraging each other to go So -",
+                "label": "+"
+            },
+            {
+                "text": "Sure yeah that makes difference when you have somebody to go with and to do the same the same thing",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Like its misery loves company I dont really love exercise I mean some I - the neighbor across the street she goes belongs to Presidents and uh its not Presidents any more I dont know what the name of it is anymore But she loves it",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I mean its just its an automatic high for her",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "She just enjoys it so much And I dont",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Im the same way",
+                "label": "b"
+            },
+            {
+                "text": "I feel good after I do it but I hate it when Im doing it",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know I just - I dont enjoy it at all and she just loves it So Even when she doesnt go to the health club she runs you know",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And its daily thing for her So it you know - and its so hard for me I envy her I wish I could be that way but I dont",
+                "label": "sd"
+            },
+            {
+                "text": "I do too",
+                "label": "sd"
+            },
+            {
+                "text": "I dont - and I have an older sister that loves running too and she runs all the time but at to me its every minutes agony and I - in fact I dont run I hate to run",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Like when I walk Ill take along radio or something and that helps you know pass the time",
+                "label": "sd"
+            },
+            {
+                "text": "Right Yeah walking is kind of boring I do have few friends that live in my apartment complex in this neighborhood and we try to we used to try to get together and I think now that the weathers getting nicer were going to start doing it again and occasionally go walking Theres real nice residential area right behind our apartment complex",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And its not as boring if you get several people --",
+                "label": "sv"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "-- and you can kind of talk and and it it makes it pass pretty quickly and the aerobics isnt too boring I kind of enjoy it when Im doing it Um its lot more fun than some other things I could do I guess",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "But uh I do I do have to make myself go and of course while Im doing it I feel pretty good and after I get finished I feel great",
+                "label": "sd"
+            },
+            {
+                "text": "Oh its great afterwards yeah",
+                "label": "sv"
+            },
+            {
+                "text": "I mean I can go in there I can be - like Friday afternoon when Im tired its the end of the week and I just want to go home And Ill make myself go and Ill have headache and everything and I get out I dont have headache any more I feel great and Im just - its amazing how much better I feel",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And then just in general I sleep lot better --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah thats right",
+                "label": "b"
+            },
+            {
+                "text": "-- and I just feel much better I mean Ive been kind of dragging the last few weeks and I know if I would just get around to exercising --",
+                "label": "sd"
+            },
+            {
+                "text": "Exactly --",
+                "label": "aa"
+            },
+            {
+                "text": "-- Id feel better",
+                "label": "+"
+            },
+            {
+                "text": "-- it does it gives you energy",
+                "label": "sv"
+            },
+            {
+                "text": "But my dragginess is my excuse for not exercising",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Well Im too tired or I have headache or - well I just got over the flu and Im still kind of draggy so I better not go",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Its kind of vicious circle isnt it",
+                "label": "qy^g"
+            },
+            {
+                "text": "Yeah it really is",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah I find too that I have more energy when I exercise and you know its silly not to but I dont know its just put off I dont know why I dont do more and I and I know that its good for my health I know you know from everything that you read and you see on television now exercise is so important to good health",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "So you know you not only you know youre not only doing something to keep yourself fit but youre probably prolonging your life So -",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Theres no reason that we shouldnt do it but I dont know",
+                "label": "sv"
+            },
+            {
+                "text": "Its just hard to make yourself go And I I think one thing I dont like about aerobics is that after Im finished its kind of late at night and Ive been sweaty and and it you know - I dont really feel like going in the grocery store all sweaty or running errands",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So it kind of kills the evening for doing errands So I think Tuesday Thursday might be little bit better",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Of course I feel like once Ive done it if Im sweaty I might as well do an extra thirty minutes because youve already kind of shot your night",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "But um so Im kind of glad they have longer class on Tuesday Thursday now that I can just kill two nights and --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh get reasonable amount of workout in",
+                "label": "+"
+            },
+            {
+                "text": "Does it cost the same for just two nights or -",
+                "label": "qy"
+            },
+            {
+                "text": "No its less expensive",
+                "label": "nn"
+            },
+            {
+                "text": "Well thats good too",
+                "label": "ba"
+            },
+            {
+                "text": "This one was only forty-five dollars But Im glad its not too totally cheap because if it was too cheap I would talk myself out of going more probably",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "Since its more expensive I think Okay you spent that much money youd better go",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Thats right thats right",
+                "label": "aa"
+            },
+            {
+                "text": "So hopefully",
+                "label": "sd"
+            },
+            {
+                "text": "Well do you have facility right at the where you work",
+                "label": "qy@"
+            },
+            {
+                "text": "Yeah yeah its right there and its they have really nice facility at the I Theyve got two different aerobics rooms they have the mirrors Of course sometimes you dont like to see the mirrors on the wall --",
+                "label": "ny"
+            },
+            {
+                "text": "No",
+                "label": "+@"
+            },
+            {
+                "text": "-- you dont like to see how you work But I guess sometimes it kind of motivates you to really get going But -",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah and then they hire private instructors",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Oh thats great",
+                "label": "ba"
+            },
+            {
+                "text": "And they have ceiling fans in the rooms and its its pretty nice setup Um and of course its real convenient because it is right there at work I think if I had to come home and then go somewhere Id never make it",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And just the fact that I can go straight from my desk over to the the recreation center and do it helps lot",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Yeah I can see that would be uh easy They make it as easy as they possibly can for you",
+                "label": "aa"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "Well um do lot of people take advantage of it",
+                "label": "qy"
+            },
+            {
+                "text": "Quite few do They have probably ooh Id say fifteen different fifteen to twenty different aerobics classes each session that are running and they have them anywhere from six in the morning Uh they have some during during lunch hour that are shorter and I guess guys can take advantage of that For me I wouldnt have time to do an hour hour of aerobics and then take shower and get get dressed again",
+                "label": "na"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "But theres lot more guys that do that one",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And um they have them you know in the evenings they even have some late night ones for people that work second shift and things like that So they have big variety They even have some uh aerobic uh water aerobics when the weather gets nice out in the pool Ive never done that one before But -",
+                "label": "sd"
+            },
+            {
+                "text": "Oh you have pool there too",
+                "label": "qy"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Oh how nice",
+                "label": "ba"
+            },
+            {
+                "text": "Theyve got an olympic pool and and basketball courts and sand volleyball Theyve got the full weight room and uh the locker rooms with uh jacuzzi and sauna and the shower facilities and hair dryers and all the you know everything youd need just about",
+                "label": "sd"
+            },
+            {
+                "text": "Wow",
+                "label": "ba"
+            },
+            {
+                "text": "Its real it is real nice facility Its also got full insid- inside basketball court and I think theyre working on building jogging track and some other things But its it is very nice",
+                "label": "sd"
+            },
+            {
+                "text": "Thats great",
+                "label": "ba"
+            },
+            {
+                "text": "I just dont take as much advantage of it as I should",
+                "label": "sd"
+            },
+            {
+                "text": "Now to use -",
+                "label": "%"
+            },
+            {
+                "text": "I mean Im just now finally starting to do the aerobics thing But -",
+                "label": "sd"
+            },
+            {
+                "text": "Well does it cost money like to use the to exercise in the weight room or to uh to tak- to go swimming Do you have to pay for that too",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah You can get fitness membership that allows you to use the facilities and its about eight dollars month",
+                "label": "ny"
+            },
+            {
+                "text": "Oh thats not bad",
+                "label": "ba"
+            },
+            {
+                "text": "No not at all",
+                "label": "aa"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "Pretty cheap",
+                "label": "sv"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "And then the aerobics cost extra even if you have the fitness membership but I think the aerobics classes are even pretty reasonably priced from what Ive heard",
+                "label": "sd"
+            },
+            {
+                "text": "I think so too yeah Well and people of all ages take advantage of the aerobics",
+                "label": "aa"
+            },
+            {
+                "text": "Hm",
+                "label": "br"
+            },
+            {
+                "text": "People of all ages take advantage of the aerobics",
+                "label": "qy^r"
+            },
+            {
+                "text": "Oh yeah in fact uh the I-ers families can come in on these things",
+                "label": "ny"
+            }
+        ]
+    }
+]

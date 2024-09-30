@@ -1,0 +1,551 @@
+[
+    {
+        "conversation_id": "conv_2955",
+        "turns": [
+            {
+                "text": "Well I guess it depends on what age I am in the thirty something so I know I mean I lived through it Uh are you old enough to know about the war",
+                "label": "sv"
+            },
+            {
+                "text": "Uh just barely",
+                "label": "na"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Yeah I am uh twenty-nine",
+                "label": "b"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "So uh -",
+                "label": "%"
+            },
+            {
+                "text": "Well yeah you are old enough",
+                "label": "b"
+            },
+            {
+                "text": "Yeah But -- -",
+                "label": "aa"
+            },
+            {
+                "text": "But it was on the fringe",
+                "label": "sv"
+            },
+            {
+                "text": "-- just uh yeah exactly Had some friends that were that were in it",
+                "label": "aa"
+            },
+            {
+                "text": "It ended uh when I was in uh college In uh when I turned nineteen in nineteen seventy I cannot even remember at this point Uh when I turned nineteen it was the year that uh the draft was still going on If I had been male or in Israel I would have been number two",
+                "label": "sd"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Wowie",
+                "label": "ba"
+            },
+            {
+                "text": "So I learned lesson in gender",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh in terms of the war I do not know Uh actually I do not really know that much about it I just know socially the impact it had here and what you hear in the media you know Uh I guess I think it was uh uh not that great that we were in there uh in terms of for how long it lasted",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "You know",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "What do you think",
+                "label": "qo"
+            },
+            {
+                "text": "Well I think it is uh basically the same way It is certainly has affected uh policy though There is",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "there is no question it had an overwhelming effect of how we approached the the thing in uh Iraq",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Because uh the whole thing that was bad about Vietnam it was no different from Iraq I mean it was uh one country picking on smaller weaker one",
+                "label": "sv"
+            },
+            {
+                "text": "Right The devastation yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah The only difference was that the government said okay if we were going to support this smaller country then we are going to support it hundred percent And we are going to consider ourselves against in war",
+                "label": "b^m"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "against these people as well",
+                "label": "+"
+            },
+            {
+                "text": "Yeah And in full --",
+                "label": "aa"
+            },
+            {
+                "text": "Which uh -",
+                "label": "%"
+            },
+            {
+                "text": "-- faction yeah",
+                "label": "+"
+            },
+            {
+                "text": "Right Which really was not the attitude with Vietnam It was sort of of presidents war --",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- rather than --",
+                "label": "+"
+            },
+            {
+                "text": "it just kind of --",
+                "label": "sv"
+            },
+            {
+                "text": "-- countrys war",
+                "label": "+"
+            },
+            {
+                "text": "-- dragged on Uh I do not know how you were historically But I was little bit older before I realized just how long it had been going on since --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- and -- -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah It --",
+                "label": "b"
+            },
+            {
+                "text": "-- I mean I pa- -",
+                "label": "%"
+            },
+            {
+                "text": "-- seemed to me like it was",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "it seemed like it was going on forever yeah",
+                "label": "+"
+            },
+            {
+                "text": "It really well - yeah in fact because in terms of when your - there is at least ten years between us so in terms of when you were in school I am sure that it was you know the majority of your high school and junior high years",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh one of the things I did not like was the weapons the weapons I cant even say it the weaponry th- systems that they used",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Uh it just did not seem that uh I do not know technically we knew what we were doing either",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And then you heard about the things like agent orange et cetera and you would think you know just uh how could the government or the Pentagon uh who- or whomever is in charge there been so careless",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah right",
+                "label": "aa"
+            },
+            {
+                "text": "Uh",
+                "label": "b"
+            },
+            {
+                "text": "Of course now i- - uh now everyones more uh you know environmentally --",
+                "label": "sv"
+            },
+            {
+                "text": "Conscious yeah",
+                "label": "^2"
+            },
+            {
+                "text": "-- uh intelligent than they were back then I mean back then it was not commonly known that saccharin was bad for you and all these other things --",
+                "label": "+"
+            },
+            {
+                "text": "Nutrisweet",
+                "label": "^2"
+            },
+            {
+                "text": "-- that people --",
+                "label": "+"
+            },
+            {
+                "text": "yeah and all these other things That is true uh",
+                "label": "aa"
+            },
+            {
+                "text": "-- that people know about themselves now",
+                "label": "+"
+            },
+            {
+                "text": "Uh monetarily too I just do not think we have done enough for the uh Vietnamese people as whole Uh in South Vietnam in general in helping them restore themselves",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know and I dont know if it is because there are not any oil fields there",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I do not know if they uh I do not know if they have that resource or not",
+                "label": "b"
+            },
+            {
+                "text": "Yeah I mean I do not think they do But I just think it is kind of shame that uh you still hear things about the children that are orphans there and -",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "uh so on whole I do not know war is not good And that one I probably - uh my main opinion would be - - we should not have done it",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Well",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "that is what I know about the Vietnam War Unless you -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah well you know little uh little bit more than I do explain it I did not uh get to live through it That the people that I know that it did",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "uh felt very strongly Most of - I work for government contractor",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So most of the guys I work with are uh oh at least some of the guys I work with rather are veterans",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Oh Vietnam",
+                "label": "b"
+            },
+            {
+                "text": "And uh from Vietnam",
+                "label": "na"
+            },
+            {
+                "text": "Jeez yeah",
+                "label": "ba"
+            },
+            {
+                "text": "And I have not talked to any of them that that were not you know glad that they went or or rather thought that the reason they went was good one",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know",
+                "label": "sd"
+            },
+            {
+                "text": "And that that -",
+                "label": "%"
+            },
+            {
+                "text": "most of them are ver- very strongly that that the reason for America to be there was good one",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "They just felt that the way America backed them up was not was not at all right",
+                "label": "sd"
+            },
+            {
+                "text": "In terms of the personal -",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah In term of uh -",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah The bitterness is more on personal --",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- level than on -",
+                "label": "+"
+            },
+            {
+                "text": "Personal level - and and the finances how they started You know - like air attacks and stuff like that dropped off like crazy",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Because the Congress would not approve you know -",
+                "label": "sd"
+            },
+            {
+                "text": "The money is -- -",
+                "label": "%"
+            },
+            {
+                "text": "So",
+                "label": "b"
+            },
+            {
+                "text": "-- after - yeah",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "+"
+            },
+            {
+                "text": "I mean I think it started actually like like in the late fifties I mean like in fifty-eight fifty-nine",
+                "label": "sd"
+            },
+            {
+                "text": "Huh I I -",
+                "label": "b"
+            },
+            {
+                "text": "So it really - I mean because I know in nineteen sixty-three I mean I was nine years old when Kennedy was shot",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So I mean I remember uh right around then thats when I first started hearing about Vietnam But then as I got older and studied in school I realized it was even going on before that",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know and you think to yourself oh my goodness Eisenhower",
+                "label": "sv(^q)"
+            },
+            {
+                "text": "Yeah right",
+                "label": "aa"
+            },
+            {
+                "text": "That sounds ancient yeah And I know I know you know lot of the Vietnam vets that are my age in their later thirties uh guys that I know that they are just kind of bitter you know They they you know - I hate to quo- that movie BORN ON THE FOURTH OF JULY but it is that kind of idea",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know they just do not feel that socially they were given - like friend of mine called it the yellow ribbon syndrome",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Yeah They were not given the -",
+                "label": "b"
+            },
+            {
+                "text": "right the ticker tape parade and all that",
+                "label": "b"
+            },
+            {
+                "text": "Yeah So well I wont keep you any more",
+                "label": "b"
+            },
+            {
+                "text": "Okay",
+                "label": "fc"
+            },
+            {
+                "text": "That is probably as about as much as we both know But thanks for talking to me",
+                "label": "fc"
+            },
+            {
+                "text": "Yes Uh were you calling from Texas",
+                "label": "fc"
+            },
+            {
+                "text": "Uh yes is that where you are at",
+                "label": "fc"
+            },
+            {
+                "text": "No I am in Falls Church Virginia",
+                "label": "fc"
+            },
+            {
+                "text": "Oh I know where that is That is beautiful where you are at",
+                "label": "fc"
+            },
+            {
+                "text": "Yeah right in right near",
+                "label": "fc"
+            },
+            {
+                "text": "yeah Are you native of there",
+                "label": "%"
+            },
+            {
+                "text": "Uh pretty much yep Been -",
+                "label": "fc"
+            },
+            {
+                "text": "Yeah uh Dallas it is uh ninety-two degrees here today but at least the humidity is uh below forty percent which makes it kind of like Phoenix",
+                "label": "fc"
+            },
+            {
+                "text": "Yeah It is about the same weather here",
+                "label": "fc"
+            },
+            {
+                "text": "Really",
+                "label": "fc"
+            },
+            {
+                "text": "Little bit little bit cooler like eighty-nine",
+                "label": "fc"
+            },
+            {
+                "text": "Well you -",
+                "label": "%"
+            },
+            {
+                "text": "But basically the same thing",
+                "label": "fc"
+            },
+            {
+                "text": "Yeah well you are not missing too much then",
+                "label": "fc"
+            },
+            {
+                "text": "Yeah Right",
+                "label": "fc"
+            },
+            {
+                "text": "Really Well take it easy",
+                "label": "fc"
+            },
+            {
+                "text": "Okay",
+                "label": "fc"
+            },
+            {
+                "text": "Okay Bye-bye",
+                "label": "fc^m"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc^m"
+            }
+        ]
+    }
+]

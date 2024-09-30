@@ -1,0 +1,307 @@
+[
+    {
+        "conversation_id": "conv_3270",
+        "turns": [
+            {
+                "text": "Well I dont know if theres going to be solutions to the budget",
+                "label": "sv"
+            },
+            {
+                "text": "Well now its in pretty disastrous shape for sure",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Its only getting worse exponentially --",
+                "label": "sv"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "-- it seems",
+                "label": "+"
+            },
+            {
+                "text": "Exactly",
+                "label": "ba"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "Theres uh maybe some short-term things that they can do and it hurts everybodys pocket of course but um I know that state has uh cutback uh raises for year to help uh the uh state financial or whatever you might want to say to get better --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- in better condition That -",
+                "label": "+"
+            },
+            {
+                "text": "Oh which state is that",
+                "label": "qw"
+            },
+            {
+                "text": "Uh State of Minnesota",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So theres the potential that perhaps you know the budget might want to take look at its uh federal employees or and take look at saying well lets freeze wages I mean everybodys doing it so it isnt --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- like uh private business has had to do it so --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- it might have to be something that they might consider doing as shir- thats got to be very short term",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And the only other avenue that I can think of is uh looking at where theyre spending the money and not so much as saying well were spending too much in that area as perhaps looking at what is costing them the money As --",
+                "label": "sv"
+            },
+            {
+                "text": "Yep",
+                "label": "b"
+            },
+            {
+                "text": "-- for for instance I think you probably remember the military getting caught um with toilet seats that cost them four hundred five hundred dollars",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And it was just - I mean you can go to -Mart and buy them for uh eight dollars or I think --",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- six dollars or whatever for toilet seats so",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Definitely --",
+                "label": "b"
+            },
+            {
+                "text": "So it gives you - --",
+                "label": "+"
+            },
+            {
+                "text": "-- I think that theres --",
+                "label": "sv"
+            },
+            {
+                "text": "-- idea that -",
+                "label": "+"
+            },
+            {
+                "text": "-- probably lot of waste in defense and in government funded research in the first place",
+                "label": "+"
+            },
+            {
+                "text": "Sure sure So -",
+                "label": "b"
+            },
+            {
+                "text": "I mean there was um people at Stanford who were soaking the government you know using millions of dollars of research money --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- to uh for the President to buy beach homes or whatever it was",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I think that that maybe more widespread --",
+                "label": "sv"
+            },
+            {
+                "text": "Than we think",
+                "label": "^2"
+            },
+            {
+                "text": "-- than --",
+                "label": "+"
+            },
+            {
+                "text": "Sure",
+                "label": "b"
+            },
+            {
+                "text": "-- well than wed like to have think",
+                "label": "+"
+            },
+            {
+                "text": "Sure",
+                "label": "b"
+            },
+            {
+                "text": "But but then its something thats hard to enforce too Im sure",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh It sure is The you know as far as - I think there was something with the government official that went on conferences for two days and actually uh the conferences were nothing but uh you know theyre getting paid for this and it was something more than just the conferences They were using it as eating out uh when you think about people uh taking vacations these big government officials taking descendants in congress -",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "The rest of them taking these vacations and using the taxpayers money for that",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And its real big crunch uh --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- of course when they get caught then theyre you know theyre guilty of course but uh during that time Im sure theres hundreds of uh thousands of people that are uh spending money that does not belong to them So -",
+                "label": "sv"
+            },
+            {
+                "text": "Well thats right Uh I think that oh politicians talk lot about waste --",
+                "label": "ba"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but Im not sure that thats really that much of the problem",
+                "label": "sv"
+            },
+            {
+                "text": "Sure",
+                "label": "b"
+            },
+            {
+                "text": "I mean when you look at something like the Gulf War --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- it cost us God knows how much You know at million dollars pop for patriot missiles",
+                "label": "+"
+            },
+            {
+                "text": "Exactly And I dont think uh its ended up being - I mean it gave people jobs --",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- but I think it also cost um quite bit as far as because after theyre done with the war lot of things were no longer put to use I mean it was kind of like okay well do this during this point and time but after that thats you know uh --",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- they didnt want to do it anymore",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So lot of things that are saying that theyre no longer going to be doing for next wars that are coming up that they did for this one in getting rid of lot of things So --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- I dont know",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Okay well it was good talking to you and --",
+                "label": "fc"
+            },
+            {
+                "text": "Okay",
+                "label": "fc"
+            },
+            {
+                "text": "-- have good evening",
+                "label": "+"
+            },
+            {
+                "text": "All right You too",
+                "label": "fc"
+            },
+            {
+                "text": "uh-huh thanks",
+                "label": "fc"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc"
+            },
+            {
+                "text": "Bye now",
+                "label": "fc"
+            }
+        ]
+    }
+]

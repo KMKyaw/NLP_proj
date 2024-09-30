@@ -1,0 +1,687 @@
+[
+    {
+        "conversation_id": "conv_2832",
+        "turns": [
+            {
+                "text": "Okay sorry",
+                "label": "o"
+            },
+            {
+                "text": "Wow thats okay So tell me about your home",
+                "label": "ba"
+            },
+            {
+                "text": "Oh its uh it looks like little shot gun house almost Its got three bedrooms going along one side and the living room and kitchen on the other",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Its uh an older home its not new I like it though its big",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really what kind of square footage",
+                "label": "b"
+            },
+            {
+                "text": "Oh I wouldnt know I measured it one time",
+                "label": "h"
+            },
+            {
+                "text": "Uh",
+                "label": "%"
+            },
+            {
+                "text": "because I was uh we had saw some termites and we thought about getting it sprayed I think it was like - I cant remember Im sorry",
+                "label": "+"
+            },
+            {
+                "text": "Thats okay thats okay",
+                "label": "bd"
+            },
+            {
+                "text": "Its big enough for us though",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "We kind of need maybe one more room Weve got two children",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh okay So where do you live at - I mean wha- what part of town In here in Denison",
+                "label": "b"
+            },
+            {
+                "text": "Okay we- - see thats north",
+                "label": "b"
+            },
+            {
+                "text": "Or down here in Denison - yeah",
+                "label": "qrr"
+            },
+            {
+                "text": "Okay I live I live in Plano so its north to me",
+                "label": "b"
+            },
+            {
+                "text": "Okay up here then",
+                "label": "b"
+            },
+            {
+                "text": "I say down Im really from Kentucky",
+                "label": "sd"
+            },
+            {
+                "text": "I was going to say you didnt have the typical - you have southern accent",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "but you dont have Texas accent",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Well Im originally from uh Ohio Cincinnati",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay",
+                "label": "b"
+            },
+            {
+                "text": "so Im famili- uh familiar with uh -",
+                "label": "sd"
+            },
+            {
+                "text": "That area - that dialect -",
+                "label": "^2"
+            },
+            {
+                "text": "Right right Also I lived in Georgia for about four years so the uh - theres difference too between east and west in the south",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh the way in which people speak Anyway my home is um I guess its about twenty-five hundred square foot and I have uh four bedrooms at the present Were busting out walls and things like that",
+                "label": "+"
+            },
+            {
+                "text": "Thats what I want to do How many kids do you have",
+                "label": "sd"
+            },
+            {
+                "text": "We have two we have two",
+                "label": "sd"
+            },
+            {
+                "text": "Do you have enough bedroom space then",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah well have enough bedroom space its - were rearranging our house because the bedrooms are kind of small",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And so were going to enlarge our master bedroom and take out couple of walls and enlarge it And then shuffle the rooms around little bit",
+                "label": "sd"
+            },
+            {
+                "text": "Thats kind of like what wed like to do We just had baby couple months ago and weve got den its more or less spare room",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "We rarely go in there except for to play chess",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "We want to make that bedroom for my stepdaughter and my daughter and uh we need the one extra room Like like you said our rooms are too - the bedrooms are too small the living room and kitchen are huge",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "but the bedrooms are too small Where youve got to leave the furniture just one certain way you cant rearrange it at all",
+                "label": "sd"
+            },
+            {
+                "text": "Right theres they uh - I know what youre saying there ours is the same and they tend to put windows in the strangest places",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know we have windows in our bathrooms which really makes it difficult for -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah weve got two great big windows in our back bathroom",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh yo- youre kind of limited in what you can do there and everything so -",
+                "label": "b"
+            },
+            {
+                "text": "No privacy",
+                "label": "sd"
+            },
+            {
+                "text": "No we dont have lot of that yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Well weve got at least two windows on every wall in the house It -",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Id hate to clean these windows I really would",
+                "label": "sd"
+            },
+            {
+                "text": "I figured Im going to have to hire somebody to remove our windows and put new ones in that are easier to clean Ours are the double pane and you cant really clean them on the inside you know",
+                "label": "sd"
+            },
+            {
+                "text": "Ours are those too yeah You must live in an older home too then",
+                "label": "sd"
+            },
+            {
+                "text": "Right I do the house is about um Id say almost thirty years old",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So its not new home its its seen some wear and tear",
+                "label": "sd"
+            },
+            {
+                "text": "Ours has too",
+                "label": "sd"
+            },
+            {
+                "text": "You know",
+                "label": "+"
+            },
+            {
+                "text": "When we moved in the man that sold it to us had said that he remodeled it",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and he did it hisself so most of that by now is falling apart",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "You know well I mean its not just horrible but like this tiles come loose off the wall the whole bathroom is covered from ceiling to foot in tile and I dont like that at all",
+                "label": "sd"
+            },
+            {
+                "text": "Um that is awful",
+                "label": "ba"
+            },
+            {
+                "text": "With that uh the great big tiles square tiles like that you put on the floor",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh he did it in that",
+                "label": "b"
+            },
+            {
+                "text": "the the huge one Yeah instead of wallpaper I wouldnt mind it if it was like short tiles for that you put -",
+                "label": "+"
+            },
+            {
+                "text": "The normal tiles right",
+                "label": "^2"
+            },
+            {
+                "text": "right that you put around bathtub that would be prettier",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But this looks like floor covering on the wall It just doesnt look good",
+                "label": "sd"
+            },
+            {
+                "text": "Oh and also theyre very heavy and so they tend to come off whole lot easier",
+                "label": "sd"
+            },
+            {
+                "text": "Right theres one big one that has come off and short of putting nails through it we cant get it back on so -",
+                "label": "b"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "And he rewired the house and its shorting out here and there and -",
+                "label": "sd"
+            },
+            {
+                "text": "Oh wow I - thats one of the things weve been fortunate with is our uh wiring is okay We dont have we dont have enough power um or our breakers arent arent powerful enough to take to to really help with the load in the house",
+                "label": "ba"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I mean we need to redo some rewiring ourselves but our plumbing is awful There is - there is shut off valve thats outside that doesnt work",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "and theres no other real shut off valves inside the house so if something breaks we have to shut it off from the main in the street",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "you know and oh its it can be really bizarre",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And we never know where its going to flood",
+                "label": "sd"
+            },
+            {
+                "text": "Weve got power surges on the west side of our house Weve got our stereo hooked up",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Well that - the power makes it run Its never ran its always ran just fine the clock and stuff",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But it runs about ten minutes fast except for about month for about month the the clock ran normal",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "And then the power went off again lightning or something knocked it out and we hooked it back up and now its running ten or fifteen minutes fast again",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "But on the east side of the house it runs fine",
+                "label": "sd"
+            },
+            {
+                "text": "Oh boy you do have strange wiring problem there",
+                "label": "ba"
+            },
+            {
+                "text": "He put new wiring in its all new wiring up in the attic",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "or I guess crawl space",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "but uh oh no he didnt know what he was doing he really should have hired people",
+                "label": "o"
+            },
+            {
+                "text": "Well thats something - my husbands in construction and he wont even touch electrical stuff He i- - I mean hell do little things but he wont do any major rewiring He says hed rather pay the electrician to handle it",
+                "label": "ba"
+            },
+            {
+                "text": "Right hell end up killing himself",
+                "label": "b"
+            },
+            {
+                "text": "Pardon",
+                "label": "br"
+            },
+            {
+                "text": "End up killing theirselves",
+                "label": "sv^r"
+            },
+            {
+                "text": "Thats right",
+                "label": "ba"
+            },
+            {
+                "text": "My husband hell change out light switch but thats about as far as hell go",
+                "label": "sd"
+            },
+            {
+                "text": "Well thats the way mine is you know",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I mean he he well he said he went up in the attic and looked around and he was like oh my God he says looks like bunch of spaghetti up there And we had squirrels in our attic when we first moved in because the roof was so sorry",
+                "label": "sd"
+            },
+            {
+                "text": "Uh was what -",
+                "label": "%"
+            },
+            {
+                "text": "The roof was really sorry I mean when we moved in",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "we had no idea how bad it was It was wood shingle roof and we - the first year we were living there we had to replace the roof",
+                "label": "+"
+            },
+            {
+                "text": "Well he put - which - I heard its law that youre only allowed to have three layers of shingles Is it three or five your husband probably knows",
+                "label": "sd"
+            },
+            {
+                "text": "He probably knows I dont know what it is off hand",
+                "label": "aa"
+            },
+            {
+                "text": "Well hes got seven layers of shingles up there and he told us it was completely new roof Like I said he didnt know what he was doing",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah he must not of We stripped ours we stripped ours off We didnt put it over cause we put composition roof on And we completely - completely stripped all the old wood shingles off put decking up put the paper down and I mean just started from scratch",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Unfortunately when we were doing that it decided it wanted to snow and hail and rain",
+                "label": "sd"
+            },
+            {
+                "text": "Oh no",
+                "label": "ba"
+            },
+            {
+                "text": "And we and we had we had almost Id say about half of the roof off and it did this",
+                "label": "sd"
+            },
+            {
+                "text": "And uh uh house full of snow",
+                "label": "^2"
+            },
+            {
+                "text": "And house full of snow and rain",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and it came down it did this in the middle of the night We have plastic you know just tied down on everything you know as best we could",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "real thick edge stuff I mean and the wind came in from the north and it just blew everything off in the middle of the night and we were asleep and and I woke up and I got up and it was about four oclock in the morning and I heard all these these drips drip drip drip drip drip drip",
+                "label": "+"
+            },
+            {
+                "text": "Oh no",
+                "label": "ba"
+            },
+            {
+                "text": "I had water coming in every light fixture",
+                "label": "sd"
+            },
+            {
+                "text": "That - yeah",
+                "label": "%"
+            },
+            {
+                "text": "I had water coming in everything that was in the ceiling everywhere And I mean it filled up my light fixtures because theyre the old kind",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I would go in and Id turn on light in the room you know and the light would come on and the whole thing would be full of water And I mean the light would still come on It didnt blow up or anything",
+                "label": "sd"
+            },
+            {
+                "text": "My neighbor or friend of mine when I lived in Louisiana her - we all lived on base my husband was in the Army",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "She woke up about three or four oclock in the morning water dripping from hers The neighbors la- uh washing machine had uh over done something I dont know but it was leaking just pouring water in and it all went through to her roof and it was coming out of the lights fixtures",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "The fire alarm went off for some reason It shorted it out or something",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah that will happen",
+                "label": "ba"
+            },
+            {
+                "text": "So she woke up with about six feet of water in her house",
+                "label": "sd"
+            },
+            {
+                "text": "Oh my lord",
+                "label": "ba"
+            },
+            {
+                "text": "No not six feet but -",
+                "label": "ar"
+            },
+            {
+                "text": "But its quite bit quite bit you know that",
+                "label": "^2"
+            },
+            {
+                "text": "Yeah you might as well so Did you have carpets and stuff",
+                "label": "aa"
+            },
+            {
+                "text": "Oh several of our rooms got ruined we have um - we - are on pier and beam we dont have concrete slab underneath our house",
+                "label": "no"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "so it it got into the carpeting got into the floor The carpeting was already awful anyway but it got into the floor and rotted the floor and made it stink - -",
+                "label": "sd"
+            },
+            {
+                "text": "Your house sounds like mine because mines pier and beam too",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah they came in and they had it - one room they completely cut up the floor in and removed it We had to call the insurance company I mean the insurance company was paying for the new roof but they also ended up having to pay for the damage when the re- roof was being repaired",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know which really wasnt our fault I mean wed done everything we could to keep out the weather",
+                "label": "+"
+            },
+            {
+                "text": "Thats right Thats right",
+                "label": "ba"
+            },
+            {
+                "text": "You know and stuff and -",
+                "label": "+"
+            },
+            {
+                "text": "Well you got to redo it the way you wanted it in the end",
+                "label": "sv"
+            },
+            {
+                "text": "Oh yeah it -",
+                "label": "ba"
+            },
+            {
+                "text": "Are you finished with it now",
+                "label": "qy"
+            },
+            {
+                "text": "Uh the roof",
+                "label": "qy^d"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Oh yeah yeah its its been done for quite some time Were really glad with all the rain weve had in the last couple of years that we have really good roof",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh how long have you lived there",
+                "label": "b"
+            },
+            {
+                "text": "Uh see its three - its just been - at three years Weve been in the house just the three years Weve been doing lot of remodeling I mean its it had detached it had dir- detached garage and my husbands built walkway across and were going to brick up the garage to match the house and things like that so we -",
+                "label": "sd"
+            },
+            {
+                "text": "You all did it yourselves",
+                "label": "qy"
+            },
+            {
+                "text": "What uh the walk",
+                "label": "qy^d"
+            },
+            {
+                "text": "The home improvements",
+                "label": "no"
+            },
+            {
+                "text": "Oh yeah yeah he see he does this for living",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I mean this is what -",
+                "label": "sd"
+            }
+        ]
+    }
+]

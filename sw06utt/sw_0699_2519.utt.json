@@ -1,0 +1,575 @@
+[
+    {
+        "conversation_id": "conv_2519",
+        "turns": [
+            {
+                "text": "Well how about you are you an exercise fanatic",
+                "label": "qy"
+            },
+            {
+                "text": "No",
+                "label": "nn"
+            },
+            {
+                "text": "Me either",
+                "label": "sd"
+            },
+            {
+                "text": "Im definitely - I do like to walk",
+                "label": "sd"
+            },
+            {
+                "text": "Do you",
+                "label": "qy"
+            },
+            {
+                "text": "Yes Since I has uh uh instituted that um walkabout",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I have gone out and started walking even more bought me the you know the proper shoes and everything to get started",
+                "label": "+"
+            },
+            {
+                "text": "Wonderful",
+                "label": "ba"
+            },
+            {
+                "text": "and uh park out there you know way out there in the boondocks",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "+"
+            },
+            {
+                "text": "It was so funny the other day I took some guys to to lunch and when we came back they said Oh theres parking space real close and I parked way out in the boonies",
+                "label": "sv"
+            },
+            {
+                "text": "Way what is this",
+                "label": "o*"
+            },
+            {
+                "text": "and I said you can walk off your lunch",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Thats the way to do it",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Im kind of like you Ive never really gotten into it its just its just chore you know",
+                "label": "sv"
+            },
+            {
+                "text": "Um um",
+                "label": "b"
+            },
+            {
+                "text": "and I finally decided one semester Im in college and Im taking night classes and I still dont have any of my classes",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "+"
+            },
+            {
+                "text": "and so one semester I thought okay thats what Im going to do and that will get me where Ill have to do it you know",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and they were offering walking class",
+                "label": "sd"
+            },
+            {
+                "text": "Um um",
+                "label": "b"
+            },
+            {
+                "text": "where you you know you have to walk you know that like for every mile you walk and every so many minutes you get you get points you know and then you have to go in once week and log your points so its not like you can do the class like anytime you want you know",
+                "label": "+"
+            },
+            {
+                "text": "Um um",
+                "label": "+"
+            },
+            {
+                "text": "and at the end of the semester you go back in and your like your final exam is three mile walk",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "And if you walk it in this many minutes you get an this many minutes you get",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and I thought oh this will be an easy class and you know and I did it and I did it for long time like about the middle of the semester I ended up having to have surgery on my foot",
+                "label": "sv"
+            },
+            {
+                "text": "Oh no",
+                "label": "b"
+            },
+            {
+                "text": "and this has been couple of years ago",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and you know I had I did that and I just ended up having to drop the class",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "you know by the time the final came around I wasnt even where I could wear shoe yet",
+                "label": "sd"
+            },
+            {
+                "text": "Oh no",
+                "label": "b"
+            },
+            {
+                "text": "let alone walk three miles you know",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But that was the only time I have ever been able to like start an exercise program and really stick to it",
+                "label": "sd"
+            },
+            {
+                "text": "Um um",
+                "label": "b"
+            },
+            {
+                "text": "because then I had to I had to go every week and log in what I had walked",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "+"
+            },
+            {
+                "text": "and my teacher looked at it every week you know",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But other than that I just you know I kind of get in the mood every once in awhile say",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "okay Im going to start going to aerobics now you know",
+                "label": "+"
+            },
+            {
+                "text": "There you go",
+                "label": "o"
+            },
+            {
+                "text": "and Ill go for like two weeks and go this is for the birds this is too much work",
+                "label": "sv(^q)"
+            },
+            {
+                "text": "Well you know I have noticed too that uh when I started the exercise uh not the exercise but the walking program uh that I did tone up you know like all over",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "but it didnt get the upper part of my body",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and uh so what I do is I bowl I am fanatic when it comes to bowling and I used to bowl five times week",
+                "label": "sd"
+            },
+            {
+                "text": "Wow",
+                "label": "ba"
+            },
+            {
+                "text": "so I really loved it",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and I still bowl at least once week now on league on on - and Im bowling on the I league",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Um but Ive noticed that what I do is that I have my towel that sits on the floor so that every time I get up to bowl I have to bend over to pick up my towel and that way I get the little extra exercise",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Im always explaining to people I do little things like that like you know take the stairs instead of the um the elevator",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and I do silly things like that versus regular program that you would have",
+                "label": "sv"
+            },
+            {
+                "text": "But thats - youre amazed at how much that adds up",
+                "label": "%"
+            },
+            {
+                "text": "It sure does",
+                "label": "aa"
+            },
+            {
+                "text": "I was on uh Nutri Systems for while",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and that is one of the things that they really stressed doing you know when you come to your Nutri System meeting dont park in the parking place outside the front door",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "park at the other end you know",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "I mean and they stretched stressed things like that too You know during when youre sitting watching at night",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "during every commercial get up off the couch",
+                "label": "+"
+            },
+            {
+                "text": "There you go",
+                "label": "sv"
+            },
+            {
+                "text": "go to the living room and get glass of water go to the bedroom and make the bed go do something",
+                "label": "+"
+            },
+            {
+                "text": "Um um Um um",
+                "label": "o@"
+            },
+            {
+                "text": "but get up during every commercial And things like that And youd be surprised at how much just that little bit adds up",
+                "label": "+"
+            },
+            {
+                "text": "Thats true",
+                "label": "+@"
+            },
+            {
+                "text": "you know just gives you little more activity so -",
+                "label": "+"
+            },
+            {
+                "text": "Thats true",
+                "label": "aa"
+            },
+            {
+                "text": "especially when youre like us and dont really want to do it anyway",
+                "label": "sv"
+            },
+            {
+                "text": "No I used to I really did uh years ago and uh I was thinking about that not too long ago that I used to walk and not only did I walk but I used to watch all those exercise programs on and I would tape them",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and then I would do them like two times day but I dont do any of that kind of stuff anymore I think having children everything just kind of everything goes by the wayside",
+                "label": "sd"
+            },
+            {
+                "text": "Well I cant use that as an excuse because I didnt do it before I had mine either Ive never been - I just Im more into you know sitting than I am -",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah yeah Me too",
+                "label": "aa"
+            },
+            {
+                "text": "so but you know I have found that with - I have two year old",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and I have found really though Im kind of the opposite Im more active now with him than I was before",
+                "label": "sv(^q)"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "because now you know hell I want to go outside and Ill go outside with him and well walk up and down the street and well go to the park and Ill run around with him and stuff like that that - so Im getting more you know more exercise that way than I ever did before I had him you know",
+                "label": "+"
+            },
+            {
+                "text": "Um um Um um",
+                "label": "b"
+            },
+            {
+                "text": "so I think I think that has helped little bit I dont know",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah yeah running",
+                "label": "b"
+            },
+            {
+                "text": "Just chasing him around the house you know",
+                "label": "sv"
+            },
+            {
+                "text": "Oh yeah tha- thats enough",
+                "label": "+@"
+            },
+            {
+                "text": "will be plenty for you",
+                "label": "+"
+            },
+            {
+                "text": "Well mine are older now doing uh their own things so",
+                "label": "sd"
+            },
+            {
+                "text": "Right right Youve kind of gotten out of that little stage there",
+                "label": "b"
+            },
+            {
+                "text": "Oh yes Yes I have thirteen year old and an eleven year old so -",
+                "label": "b"
+            },
+            {
+                "text": "Oh lucky you",
+                "label": "ba"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "youre getting into even more interesting stages",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah yeah Were actually going through the same stages the two year old and the teenager",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "Yeah you watch itll be exactly the same",
+                "label": "b"
+            },
+            {
+                "text": "Same thing huh it repeats the terrible twos repeat at about thirteen",
+                "label": "sv"
+            },
+            {
+                "text": "It does it it absolutely does so -",
+                "label": "aa"
+            },
+            {
+                "text": "How interesting I can hardly wait",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah I I I know I just know you cant But no I dont get as much exercise as I used to but I at least since I has implemented that program I do Im more aware of it",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and you know that Im need to do this that and the other and uh so I try to do combinations of things but not like go down to the Presidents Health Club like I see all these people do",
+                "label": "sd"
+            },
+            {
+                "text": "Right That that walkabouts good program",
+                "label": "b"
+            },
+            {
+                "text": "It is it is",
+                "label": "aa"
+            },
+            {
+                "text": "It really is you know when they first started it I I got all the information of course but just like everything else I was real gung ho with friend of mine Oh were going to do this were going to do this and we did do it for long time",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and then I started school you know",
+                "label": "sd"
+            },
+            {
+                "text": "Um um",
+                "label": "b"
+            },
+            {
+                "text": "and like two nights week I was going to school and then the other two nights week my husband worked so I had to pick Ryan up you know",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "theres always an excuse you know",
+                "label": "sv"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "to not do it so -",
+                "label": "+"
+            },
+            {
+                "text": "And it gets worse it doesnt get any better",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah oh Im sure Im sure",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah because Im constantly running my children around someplace and thats where I actually get my exercise",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "is running them from here to there",
+                "label": "+"
+            },
+            {
+                "text": "here to here here -",
+                "label": "^2"
+            },
+            {
+                "text": "in the car",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah to the mall to the movies to the friends to the -",
+                "label": "b"
+            },
+            {
+                "text": "There you go thats it thats it",
+                "label": "aa"
+            },
+            {
+                "text": "Sounds like fun",
+                "label": "sv"
+            },
+            {
+                "text": "Well it was nice talking to you",
+                "label": "fc"
+            },
+            {
+                "text": "Well it was really good to talk to you",
+                "label": "fc"
+            },
+            {
+                "text": "Yeah well okay well talk to you later",
+                "label": "fc"
+            },
+            {
+                "text": "Take care talk to you later",
+                "label": "fc"
+            },
+            {
+                "text": "Um um Bye-bye",
+                "label": "fc"
+            }
+        ]
+    }
+]

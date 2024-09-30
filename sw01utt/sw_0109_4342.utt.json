@@ -1,0 +1,239 @@
+[
+    {
+        "conversation_id": "conv_4342",
+        "turns": [
+            {
+                "text": "So how do you uh - so so it sounds like youve got television going on there so I can assume that you probably watch the news Is that -",
+                "label": "qw"
+            },
+            {
+                "text": "I almost never watch news",
+                "label": "sd"
+            },
+            {
+                "text": "Really Wow I -",
+                "label": "bh"
+            },
+            {
+                "text": "I get most of my news driving back and forth to work listening to the radio",
+                "label": "sd"
+            },
+            {
+                "text": "Uh what what station do you listen to",
+                "label": "qw"
+            },
+            {
+                "text": "Uh its local radio station Its called uh I cliff",
+                "label": "sd"
+            },
+            {
+                "text": "Cliff I see so uh its not affiliated with anything is it Not --",
+                "label": "b^m"
+            },
+            {
+                "text": "No",
+                "label": "nn"
+            },
+            {
+                "text": "-- its not network station",
+                "label": "+"
+            },
+            {
+                "text": "No",
+                "label": "nn"
+            },
+            {
+                "text": "Okay yeah because I I listen to uh public radio lot and they have they have which I I I saw thing recently they may be trying to start their own uh cable TV outlet I guess Theyre getting little getting little feisty now",
+                "label": "bk"
+            },
+            {
+                "text": "Well this has this station has lot of just ongoing news --",
+                "label": "sd"
+            },
+            {
+                "text": "Uh",
+                "label": "%"
+            },
+            {
+                "text": "-- and occasionally in the morning Ill pick up something like uh or that but I hate watching the like ten oclock news or -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah so you have paper or something or -",
+                "label": "b"
+            },
+            {
+                "text": "Yeah we have lo- well we have uh DALLAS MORNING NEWS which is the big paper in Dallas",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "We read I read it pretty much --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- from cover to cover",
+                "label": "+"
+            },
+            {
+                "text": "How do you like it Its been its been while since I read the Dallas news I uh fact last time I read the Dallas Dallas news I was in Arkansas I uh -",
+                "label": "qw"
+            },
+            {
+                "text": "The TIMES HERALD went out of business here --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "bh"
+            },
+            {
+                "text": "-- and so we really only have one Dallas newspaper and one Fort Worth newspaper",
+                "label": "sd"
+            },
+            {
+                "text": "Well that must be pretty bad So how did that happen anyway",
+                "label": "sv"
+            },
+            {
+                "text": "Uh financial trouble",
+                "label": "sd"
+            },
+            {
+                "text": "No not how I mean when did it when did they -",
+                "label": "ar"
+            },
+            {
+                "text": "Oh when did it happen",
+                "label": "br^m"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "I guess they closed down about three months ago",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really Um",
+                "label": "b"
+            },
+            {
+                "text": "So how do you keep up",
+                "label": "qw"
+            },
+            {
+                "text": "Oh me I uh good grief I read the TIMES LOS ANGELES TIMES Theres quite task if youve ever run into one Theyre uh --",
+                "label": "sd"
+            },
+            {
+                "text": "Yes theyre very --",
+                "label": "aa"
+            },
+            {
+                "text": "-- speci- -",
+                "label": "+"
+            },
+            {
+                "text": "-- voluminous",
+                "label": "+"
+            },
+            {
+                "text": "Yeah theyre thick Uh if theres something you want to know its its in the TIMES and then and in detail repair bracketing wrong Uh they uh we we used to have two papers here in town and then the HERALD EXAMINER collapsed about two years ago because of oh I dont know just nobody was buying it really",
+                "label": "aa"
+            },
+            {
+                "text": "So there really is only one major now",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah pretty much Uh there used to be fact I think there still is the uh the DAILY NEWS which runs out of the San Fernando Valley and uh theyre not bad as far as uh you know as far as local paper goes In fact it was kind of weird because I met the uh I met the I met the editor uh while I was on uh while I was doing jury service in Santa Monica one time It was like we just sat around and talk about newspapers and stuff He was really cool guy Uh you know went to Columbia University and all this stuff And uh its its pretty good paper but uh you know its not its not the TIMES",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Although I you know Im sorry to see some of their uh - theres theres daily news uh news rack right around the corner from where I live which means that theyre theyre expanding I guess But uh - and occasionally I I pick up like TIME magazine or something I think uh if theyve got an interesting lead story but you know its - I I dont have time",
+                "label": "sd"
+            },
+            {
+                "text": "I used to read TIME magazine lot but I dont read it much anymore",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah thats thats kind of problem for them Theres lot of people who fall into that category",
+                "label": "b"
+            },
+            {
+                "text": "And then we have local rag here in town that --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- I pick up periodically and read just to see whats going on in our little community",
+                "label": "+"
+            },
+            {
+                "text": "I see",
+                "label": "bk"
+            },
+            {
+                "text": "Because we dont get an awful lot of coverage in the DALLAS MORNING NEWS",
+                "label": "+"
+            },
+            {
+                "text": "Yeah the big dailies dont like to dont like to step much out of their uh out of their home turf I have to admit the TIMES is kind of provincial too Its basically anything thats south of downtown they dont bother to cover",
+                "label": "b"
+            },
+            {
+                "text": "Now they have started here running three day or three times week Plano section",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And its just sort of you know four or five pages that covers whats going on in Plano But its still not an awful lot of news",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I know I uh it was it was big discovery when when the TIMES when the TIMES found out there was place called Orange County I mean the way they I mean the way theyve been handling it before they practically they practically acted like their reporters needed to shots to go south of the county border",
+                "label": "aa"
+            },
+            {
+                "text": "Oh I would imagine in uh you know in in Dallas they have plenty happening in Dallas to cover that it gets hard covering all of the sub- suburbs and of course they tend to cover the county and were not in Dallas county so they --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "-- tend to ignore places outside of the county",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah I I I find that attitude kind of arrogant though Its like youre taking our money but youre not bothering to cover the things that are interesting to us",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            }
+        ]
+    }
+]

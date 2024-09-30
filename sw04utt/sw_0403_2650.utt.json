@@ -1,0 +1,759 @@
+[
+    {
+        "conversation_id": "conv_2650",
+        "turns": [
+            {
+                "text": "Okay this is really ironic that this would I would get this subject today because just yesterday our dog ran away",
+                "label": "o"
+            },
+            {
+                "text": "Oh no",
+                "label": "ba"
+            },
+            {
+                "text": "And its just been tearing me up all day",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I bet",
+                "label": "ba"
+            },
+            {
+                "text": "Because we have just been looking all over for him Weve been to the pound weve been to the humane society weve been to the adoption center weve just been all over the neighborhood weve been calling neighbors So this is just really strange",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I guess so Have you lost him before",
+                "label": "aa"
+            },
+            {
+                "text": "No this is the first time Um hes gotten out before but hes always stayed right here --",
+                "label": "nn"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know hes never gone away And so this is just really strange you know because -",
+                "label": "+"
+            },
+            {
+                "text": "What kind of dog is he",
+                "label": "qw"
+            },
+            {
+                "text": "Um hes part golden Lab and part uh lets see Alaskan no not Alaskan I always forget",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Uh Australian shepherd",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "And",
+                "label": "%@"
+            },
+            {
+                "text": "boy hes big one",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah hes pretty big Thats why it really surprises me you know that he hasnt come back because like I said hes never gone away like this before and I would think you know he might I mean he might could get hurt by car or something I dont know that he could really get killed that easily because he is so big",
+                "label": "+@"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know but I dont know",
+                "label": "h"
+            },
+            {
+                "text": "Oh well I hope he comes back thats too bad",
+                "label": "sd"
+            },
+            {
+                "text": "Thanks I do too",
+                "label": "ft"
+            },
+            {
+                "text": "How long have you had him",
+                "label": "qw"
+            },
+            {
+                "text": "Oh about two years So hes -",
+                "label": "sd"
+            },
+            {
+                "text": "Oh thats tough",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah its really - gosh anyway -",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah you get very attached to animals dont you",
+                "label": "b"
+            },
+            {
+                "text": "That isnt that funny how we do",
+                "label": "qh"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "I mean we just really -",
+                "label": "%"
+            },
+            {
+                "text": "Well you know theyre always there for you and they dont talk back to you",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And uh its kind of pleasant",
+                "label": "sv"
+            },
+            {
+                "text": "Well theyre companions",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah sure sure",
+                "label": "aa"
+            },
+            {
+                "text": "Well do you have any",
+                "label": "qy"
+            },
+            {
+                "text": "Yes we have dog little white Lhasa And her name is Angel And we have cat who white cat Hes hes just Tabby just - and his name is Dominique We call him Neek",
+                "label": "ny"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "But -",
+                "label": "%"
+            },
+            {
+                "text": "How do they get along together",
+                "label": "qw"
+            },
+            {
+                "text": "Pretty good Uh weve we had the the dog first and uh shes kind of wimp and and the cat kind of rules but uh she likes him all right He we had another cat about two years ago It got leukemia feline leukemia --",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "-- so we had to have it put to sleep and uh then we got this new cat so uh I have two children and they really enjoy the animals And then my mother whos very elderly lives with us and shes really good friends with the dog Theyre very",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "good buddies",
+                "label": "+"
+            },
+            {
+                "text": "Thats what are so neat about animals I mean they are you know like I said theyre theyre really companions you know and theyre friends",
+                "label": "sv"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "you know I mean they you can love them all you want and they love you right back and they dont -",
+                "label": "+"
+            },
+            {
+                "text": "Thats right They dont care what you look like",
+                "label": "ba"
+            },
+            {
+                "text": "No",
+                "label": "aa"
+            },
+            {
+                "text": "or what you act like They just love you unconditionally",
+                "label": "+"
+            },
+            {
+                "text": "I know",
+                "label": "aa"
+            },
+            {
+                "text": "Its wonderful",
+                "label": "sv"
+            },
+            {
+                "text": "Its just so neat You know its - thats - I dont know this is just so hard",
+                "label": "sv"
+            },
+            {
+                "text": "Oh I know it has to be",
+                "label": "aa"
+            },
+            {
+                "text": "Its just its like I said weve had him for two years and hes never - I mean hes hes gotten out but hes always been right there Hes never been gone for at all --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know hes just always been right there when he gets out",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "You know its the first time hes ever been gone like this",
+                "label": "sd"
+            },
+            {
+                "text": "Oh thats really too bad thats awful well",
+                "label": "ba"
+            },
+            {
+                "text": "Uh I I just knew today uh you know that we looked at the pound and that we just went all over the place and I knew we were going to find him you know and when we didnt it was like oh no So I dont know",
+                "label": "sd"
+            },
+            {
+                "text": "Well I Ill I hope youll find him You most likely will",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah we keep you know - they told us like at the Humane Society and the adoption center you know dont give up hope you know and then",
+                "label": "aa"
+            },
+            {
+                "text": "Well have you put any posters up or anything like that",
+                "label": "qy"
+            },
+            {
+                "text": "Well not yet We were talking about that tonight since you know he we just he just got out yesterday we were just talking about that whether - we we were trying to find some pictures of him recently Weve got so many when he was puppy",
+                "label": "+@"
+            },
+            {
+                "text": "uh-huh yeah",
+                "label": "b"
+            },
+            {
+                "text": "you know but we just dont have whole lot We have him on film you know on the video camera",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know but you cant put that on the -",
+                "label": "sd"
+            },
+            {
+                "text": "No you sure cant",
+                "label": "aa"
+            },
+            {
+                "text": "you know so",
+                "label": "h"
+            },
+            {
+                "text": "Oh dear",
+                "label": "ba"
+            },
+            {
+                "text": "So I dont know I we will probably will put some things up Some posters and stuff up",
+                "label": "+"
+            },
+            {
+                "text": "Well thats good",
+                "label": "ba"
+            },
+            {
+                "text": "And hopefully that will help you know maybe around the neighborhood But we know lot of people that live in this neighborhood so that helps too you know if they can keep -",
+                "label": "sd"
+            },
+            {
+                "text": "They can keep their eyes open yeah",
+                "label": "^2"
+            },
+            {
+                "text": "yeah so -",
+                "label": "b^m"
+            },
+            {
+                "text": "That will help Well -",
+                "label": "sv"
+            },
+            {
+                "text": "I think that if somebody else picks him up - I think that uh if he gets out hell come back",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know I really do because he knows exactly where he lives so -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah he will I bet he does I know that its hard on you I know that Id be worried too",
+                "label": "b"
+            },
+            {
+                "text": "I know Its just like its its just so ironic that this would happen and I would get this this kind of call",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah isnt it though",
+                "label": "aa"
+            },
+            {
+                "text": "I know",
+                "label": "na"
+            },
+            {
+                "text": "Thats -",
+                "label": "%"
+            },
+            {
+                "text": "its very strange but -",
+                "label": "sd"
+            },
+            {
+                "text": "You know I know sometimes our cat will will stay out all night and when hes not right at the door in the morning I really worry that somethings happened to him that somebody hes got in fight or you know somebodys hit him and and uh if he doesnt come by mid morning then I really get scared But hes always come back eventually so -",
+                "label": "sd"
+            },
+            {
+                "text": "Well thats good Thats one thing about cats though theyre so small --",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and you know they can get hurt lot easier",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know they can get hurt lot easier",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "you know",
+                "label": "+"
+            },
+            {
+                "text": "they can",
+                "label": "aa"
+            },
+            {
+                "text": "so that would make you really",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "tend to worry about them you know if theyre not right there",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Well but hes real feisty guy He fights with other cats in the neighborhood because he doesnt want them on our property",
+                "label": "aa"
+            },
+            {
+                "text": "Is that right",
+                "label": "bh"
+            },
+            {
+                "text": "Hes - cats are really almost more territorial than than dogs are They just really do not want other animals on their property Theyre very very - he he just - any cat that comes near and even dog he wont he wont jump at them or anything but hell sit and hell watch and I think maybe he would if it came real close but hes very protective of our property",
+                "label": "%"
+            },
+            {
+                "text": "Huh Thats really - I I guess I really dont know cats that well because my mother never liked them",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "so I never had them growing up",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "so you know I never really had them around me you know so Ive never owned one you know since I -",
+                "label": "sd"
+            },
+            {
+                "text": "Well theyre really lot different than dogs because theyre not theyre very independent and theyre very hes very affectionate when he wants to be but if you want him to be and he doesnt want to be hell just hell you know either scratch you or run away",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "But when he wants to be uh hes really affectionate He likes to lay next to you and have you scratch his head and and and snuggle up to you and but if hes not in the mood youd better stay away from him",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "But dogs seem to be always in the mood Theyre always you know right there and like like you to pet them and loving",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah thats true I I like the way they come up and theyll theyll put their head underneath your hand you know",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah yeah oh",
+                "label": "b"
+            },
+            {
+                "text": "that - and uh most dogs do that I mean -",
+                "label": "%"
+            },
+            {
+                "text": "Yeah they do",
+                "label": "aa"
+            },
+            {
+                "text": "I dont know any that really dont I mean you know they know exactly how to get that attention you know",
+                "label": "sd"
+            },
+            {
+                "text": "They sure do",
+                "label": "aa"
+            },
+            {
+                "text": "they just you know come up and they put your you know -- -",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- or theyll rub their their head against you you know",
+                "label": "sv"
+            },
+            {
+                "text": "Now do you keep him indoors most of the time other than to go outs-",
+                "label": "qy"
+            },
+            {
+                "text": "Well no Well well hes outside during the day and then we get home at night we do bring him in",
+                "label": "nn"
+            },
+            {
+                "text": "You have fenced yard or -",
+                "label": "qy"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^m"
+            },
+            {
+                "text": "yeah The backyard its really big too for him to run in and stuff Thats why we couldnt understand why he would want to get out",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "you know because hes had all this room to run in and but -",
+                "label": "+"
+            },
+            {
+                "text": "Well how did he get out",
+                "label": "qw"
+            },
+            {
+                "text": "He dug hole under the fence",
+                "label": "sd"
+            },
+            {
+                "text": "Oh boy",
+                "label": "ba"
+            },
+            {
+                "text": "Well see he did he did it couple weeks ago dug hole and you know we we filled it back up --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- put him back in there He did it again --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- so we chained him up --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know but we really didnt want to keep him chained up because you know we feel like thats just too restricting for him",
+                "label": "sd"
+            },
+            {
+                "text": "Right right",
+                "label": "b"
+            },
+            {
+                "text": "So uh we got we we put dirt in the hole and then put some chicken wire around it you know so that he couldnt get out",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Well he kind of ripped through the chicken wire",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "So I cant - I I I just have not - I dont understand you know because its like hes got good home you know hes got - I mean we have two kids you know that just love him lot",
+                "label": "%"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know its like we cant understand why he kept wanting to get out you know we just couldnt -",
+                "label": "sd"
+            },
+            {
+                "text": "Well you know that animals are like that They like to roam and investigate",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah I guess thats -",
+                "label": "aa"
+            },
+            {
+                "text": "And see whats going on",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I guess thats probably true I dont think its anything we did",
+                "label": "aa"
+            },
+            {
+                "text": "No",
+                "label": "aa"
+            },
+            {
+                "text": "Least I hope not",
+                "label": "sd"
+            },
+            {
+                "text": "No Im sure that yeah -",
+                "label": "aa"
+            },
+            {
+                "text": "No I I know I mean hes always you know he really does have good home I think thats what really bothers me the most about it",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know its like -",
+                "label": "%"
+            },
+            {
+                "text": "How are your kids handling it",
+                "label": "qo"
+            },
+            {
+                "text": "Well I dont know if its quite hit him hit them",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I have two girls",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and they they just been real uh - I dont know at first you know they seemed to be upset but now its like uh well if he doesnt come home can we get another dog",
+                "label": "sd"
+            },
+            {
+                "text": "yeah that sounds like kids",
+                "label": "b"
+            },
+            {
+                "text": "Its like wait minute you know",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "poor Buddy you know I said hes only been gone day and you already want to replace him",
+                "label": "^q"
+            },
+            {
+                "text": "Whats his name did you call",
+                "label": "qw"
+            },
+            {
+                "text": "Buddy",
+                "label": "sd"
+            },
+            {
+                "text": "Buddy",
+                "label": "qy^m"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "We thats was our cats name that that that died",
+                "label": "sd"
+            },
+            {
+                "text": "Is that right",
+                "label": "bh"
+            },
+            {
+                "text": "Oh yeah We named him uh we named him Buddy after uh Buddy Bell uh the Ranger baseball player that used to be here",
+                "label": "ny"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "And we used to - we were really into that when we got him going to the Ranger games and we named him Buddy Beaner for some reason But Buddy after Buddy Bell so -",
+                "label": "%"
+            },
+            {
+                "text": "Thats funny",
+                "label": "ba"
+            },
+            {
+                "text": "But he was he was good cat too We miss him lot",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and I I feel real guilty because we had him like for six years and one year I forgot to get him his leukemia booster and he got it",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "And I just felt so bad I its real contagious and its - and the vet said it runs rampant in this area",
+                "label": "sd"
+            },
+            {
+                "text": "I didnt know that",
+                "label": "sd"
+            },
+            {
+                "text": "and if they dont have their booster any kind of saliva or anything from another cat if they get in fight it automatically like - they get it if the other cat has it so -",
+                "label": "sd"
+            },
+            {
+                "text": "I had I had no idea",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "I did not know that",
+                "label": "sd"
+            },
+            {
+                "text": "Oh It was - I just felt terrible I knew something was wrong with him because his appetite was - he was just getting real skinny",
+                "label": "b"
+            }
+        ]
+    }
+]

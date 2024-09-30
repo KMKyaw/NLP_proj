@@ -1,0 +1,275 @@
+[
+    {
+        "conversation_id": "conv_3269",
+        "turns": [
+            {
+                "text": "Real excited when I heard this So far Ive been trying to call all day because I keep getting these subjects like capital punishment so --",
+                "label": "o"
+            },
+            {
+                "text": "Oh yes",
+                "label": "b"
+            },
+            {
+                "text": "-- football I love this This is great Well were from Colorado so were Bronco fans And um we just moved here two years ago and they went to the Superbowl when we first moved here and they lost again That was pretty pitiful but they seem to be doing pretty good this year",
+                "label": "+"
+            },
+            {
+                "text": "Well I was from Illinois originally and I grew up Bear fan And uh then we moved here even when we knew we were being transferred here we became Cowboy fans",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "And we had some wonderful wonderful years there under Roger Staubach And we kind of got spoiled",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "We expected it to continue forever I think theyre doing pretty well this year though",
+                "label": "sd"
+            },
+            {
+                "text": "Well they havent they havent have they just lost one game this year",
+                "label": "qy"
+            },
+            {
+                "text": "I think two",
+                "label": "ng"
+            },
+            {
+                "text": "Two",
+                "label": "bk^m"
+            },
+            {
+                "text": "I know they lost yeah to Washington and Philadelphia",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah But theyre not doing bad People are pretty surprised that they I mean they beat the Giants",
+                "label": "b"
+            },
+            {
+                "text": "Yeah and wasnt that fun I went to the balloon festival in Plano and carried my little portable radio with me and I must say I attracted lot of attention",
+                "label": "aa"
+            },
+            {
+                "text": "I bet",
+                "label": "ba"
+            },
+            {
+                "text": "People running up saying oh whats the score whats the score",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Oh boy I bet all the men that got direct down there were just right on it",
+                "label": "qy^d"
+            },
+            {
+                "text": "Thats right and thats exactly what they said my wife dragged me away from the television",
+                "label": "na"
+            },
+            {
+                "text": "Yep",
+                "label": "b"
+            },
+            {
+                "text": "You know but I wasnt - I had forgotten or I probably wouldnt have been there",
+                "label": "%"
+            },
+            {
+                "text": "Yeah Yeah well I am Im big football fan I never wou- - my father was football fan my whole life and he used to have the football pool at the office and all this stuff and I just hated it And I think I was just mad because he spent so much time watching football on Sundays",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And uh so when I met my husband he was watching football and I figured out that I couldnt see him all weekend I couldnt see him until like Tuesday because MONDAY NIGHT FOOTBALL if I didnt like football So -",
+                "label": "sd"
+            },
+            {
+                "text": "Thats exactly where both of the wives came from I think",
+                "label": "sv"
+            },
+            {
+                "text": "Yep",
+                "label": "aa"
+            },
+            {
+                "text": "It was uh you know - its easier to join them than fight them",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "aa"
+            },
+            {
+                "text": "And if you want to see them you might just as well enjoy football",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And I used to tease my husband sometimes and say my gosh yo- did you bet the house or something this week to get so excited about these games",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "uh-huh Well I do I just I love it Its such I just think its such fun sport And uh Im just hoping that the Broncos can get back on their feet Were not convinced that were going to be Cowboy fans yet But uh -",
+                "label": "b"
+            },
+            {
+                "text": "Well it takes little brainwashing first",
+                "label": "sv"
+            },
+            {
+                "text": "Well I guess well first have to get to used to the idea that were staying here",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Thats even harder But -",
+                "label": "sd"
+            },
+            {
+                "text": "Are you uh transit usually I mean do you stay not in one place too long",
+                "label": "qy"
+            },
+            {
+                "text": "No were just - this is only the second place weve lived Weve only been married for five and half years And uh we have two small children and he had uh just got transferred here to -Systems so -",
+                "label": "nn"
+            },
+            {
+                "text": "Well it will take you little while but youll probably always have soft spot in your heart though for --",
+                "label": "sv"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- for Denver",
+                "label": "+"
+            },
+            {
+                "text": "Well I tell you this the weather here and theres no mountains or anything you know and when you go to football game in Colorado thats you know theres snow and its an adventure And here yeah --",
+                "label": "^h"
+            },
+            {
+                "text": "Oh I know",
+                "label": "aa"
+            },
+            {
+                "text": "-- youve just got to drive down to the to the stadium and uh -",
+                "label": "+"
+            },
+            {
+                "text": "Well if they close it in see well have the best of both worlds then --",
+                "label": "sv"
+            },
+            {
+                "text": "Yes",
+                "label": "aa"
+            },
+            {
+                "text": "-- as theyre talking about doing But uh Dan Reeves is pretty neat guy anyway",
+                "label": "+"
+            },
+            {
+                "text": "Well hes from here",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah thats right you know --",
+                "label": "aa"
+            },
+            {
+                "text": "So",
+                "label": "b@"
+            },
+            {
+                "text": "-- he was one of ours one of our boys",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Thats what I hear",
+                "label": "+@"
+            },
+            {
+                "text": "So we are never we never cheer against Denver unless theyre playing the Cowboys",
+                "label": "sd"
+            },
+            {
+                "text": "Which is rare",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Which is good Yeah But uh I - you know its funny in in Colorado when the Broncos went to the Superbowl three times in the last I dont know five or six years whatever its been Um they have these songs on the radio They take moder- popular songs and and change them to fit uh the Broncos and stuff",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And they had - I was just thinking about one the other day Uh if I saw picture of John Elway in the in the cafeteria at school um - but they did the Johnny Angel They did Johnny Elway to that",
+                "label": "%"
+            },
+            {
+                "text": "Johnny Elway",
+                "label": "b^m"
+            },
+            {
+                "text": "And and I was trying to get my son to sing that My husband was just having fit dont have him sing that song But they they do lot of fun things I think football is football is kind of sport that I think you kind of its hard not to like it Because you know theres just -",
+                "label": "sd"
+            },
+            {
+                "text": "Well there is so much about it --",
+                "label": "sv"
+            },
+            {
+                "text": "Its exciting",
+                "label": "sv"
+            },
+            {
+                "text": "-- to like You know --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- its so exciting And when the Cowboys won the Superbowl here of course they put together some real cute songs and we all ran out and bought the records and now we feel like theyre kind of collectors item",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Yeah they probabl- - I I wish I would have bought the tape when I was in uh Te- in Colorado Because uh I I think about that lot But you know when I first moved here was when they well no I guess it was about year ago they did this This interstate seventy-five song",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Or whatever it was about Central Expressway and getting it done in nineteen ninety-five and everything That was kind of funny song but they sure do it seems to me like they really love their Cowboys here Even when they were losing pitifully you know people still support them We drive by some houses everyday that have big signs we love the Cowbo- -",
+                "label": "+"
+            }
+        ]
+    }
+]

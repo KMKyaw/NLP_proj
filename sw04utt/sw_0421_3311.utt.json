@@ -1,0 +1,587 @@
+[
+    {
+        "conversation_id": "conv_3311",
+        "turns": [
+            {
+                "text": "All right uh well lets see",
+                "label": "o"
+            },
+            {
+                "text": "How old are you Lisa",
+                "label": "qw"
+            },
+            {
+                "text": "Im twenty",
+                "label": "sd"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "How old are you",
+                "label": "qw"
+            },
+            {
+                "text": "Im older",
+                "label": "sd"
+            },
+            {
+                "text": "Older",
+                "label": "b^m"
+            },
+            {
+                "text": "Older than you are",
+                "label": "sd"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "Okay we are supposed to talk about places we like to go So Im going and where are you from where are you calling from",
+                "label": "b^m"
+            },
+            {
+                "text": "Im calling from uh Provo Utah but Im from Plano Texas",
+                "label": "sd"
+            },
+            {
+                "text": "Oh you are from Plano My sister lives in Plano",
+                "label": "b^m"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "Yes her husband is the new Director of Admissions at uh University of Texas at Dallas",
+                "label": "ny"
+            },
+            {
+                "text": "Oh wow",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah so -",
+                "label": "b"
+            },
+            {
+                "text": "My dad used to work at also",
+                "label": "sd@"
+            },
+            {
+                "text": "Anyway so wheres your favorite place to go",
+                "label": "qw"
+            },
+            {
+                "text": "Uh generally we just go on family vacations to Arizona My grandparents live there Thats generally our usual summer vacation",
+                "label": "+@"
+            },
+            {
+                "text": "Where in Arizona",
+                "label": "qw"
+            },
+            {
+                "text": "Uh Tempe",
+                "label": "sd"
+            },
+            {
+                "text": "Okay Ive never been to Tempe",
+                "label": "bk"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "Thats where Id like to go What do you like about Tempe",
+                "label": "sd"
+            },
+            {
+                "text": "Uh mainly just being with family is it We just hang out and my grandparents have pool so we go swimming and uh -",
+                "label": "sd"
+            },
+            {
+                "text": "Pretty hot isnt it in the summer",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah but we keep cool just by going swimming and its fun to be with my cousins Theyre up there also my grandparents and --",
+                "label": "ny"
+            },
+            {
+                "text": "Thats good",
+                "label": "ba"
+            },
+            {
+                "text": "-- my cousins",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "Been to Hawaii",
+                "label": "qy"
+            },
+            {
+                "text": "No have you",
+                "label": "nn"
+            },
+            {
+                "text": "Yes in fact I just got some reservations Im going to go for uh almost two weeks this winter",
+                "label": "ny"
+            },
+            {
+                "text": "Oh my goodness",
+                "label": "ba"
+            },
+            {
+                "text": "Yes Its the longest - well actually I lived there so I was there longer but two weeks is the longest vacation Ill have ever taken there so --",
+                "label": "b"
+            },
+            {
+                "text": "Wow",
+                "label": "ba"
+            },
+            {
+                "text": "-- Im kind of looking forward to that one",
+                "label": "+"
+            },
+            {
+                "text": "Around Christmas time",
+                "label": "qy"
+            },
+            {
+                "text": "Uh no in March",
+                "label": "nn"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "Were going to go in March after my childrens birthdays and get all that business out of the way",
+                "label": "sd"
+            },
+            {
+                "text": "Wow",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah so I think I would like to go to Arizona I mean I was in Phoenix in January last January but it was rainy and icky",
+                "label": "b"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "It was the coldest its been there ever in January I think Its very cold",
+                "label": "sd"
+            },
+            {
+                "text": "So do you --",
+                "label": "qy"
+            },
+            {
+                "text": "But I would like to go to Tempe",
+                "label": "sd"
+            },
+            {
+                "text": "-- travel lot or -",
+                "label": "+"
+            },
+            {
+                "text": "Do we travel lot Uh some yeah Well Ive been I was travel agent",
+                "label": "qy^h"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "I mean I have been up until just few months ago But Im thinking of going back to work",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So you know lot of good vacation spots huh",
+                "label": "qy^g"
+            },
+            {
+                "text": "I lo- I know lot of good places to go But you definitely need to go to Hawaii Very definitely",
+                "label": "na"
+            },
+            {
+                "text": "Thats your favorite",
+                "label": "qy"
+            },
+            {
+                "text": "Yes it is my favorite My husband hasnt been to Europe yet and Id like to take him there And but hes traveled all over the United States and I havent Like I havent been down south Id like to go to New Orleans Have you been there",
+                "label": "ny"
+            },
+            {
+                "text": "I havent Where where do you live",
+                "label": "ng"
+            },
+            {
+                "text": "We I live in Yakima Washington",
+                "label": "sd"
+            },
+            {
+                "text": "Wow",
+                "label": "ba"
+            },
+            {
+                "text": "So its cold and rainy today Its yucky",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "But weve had some pretty nice weather We played tennis outdoors until last week so --",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "-- thats pretty good deal So do you go to school in Provo Utah",
+                "label": "+"
+            },
+            {
+                "text": "I do",
+                "label": "na"
+            },
+            {
+                "text": "Do you use NuSkin skin care Theyre located --",
+                "label": "qy"
+            },
+            {
+                "text": "I work --",
+                "label": "nd"
+            },
+            {
+                "text": "-- in Provo",
+                "label": "+"
+            },
+            {
+                "text": "-- for NuSkin",
+                "label": "+"
+            },
+            {
+                "text": "Do you",
+                "label": "bh"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "Im NuSkin person",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah I sell NuSkin too I",
+                "label": "ny"
+            },
+            {
+                "text": "Oh my goodness",
+                "label": "ba"
+            },
+            {
+                "text": "I am my only - - and best cus- - not only and best - but Im my best customer",
+                "label": "+"
+            },
+            {
+                "text": "Great",
+                "label": "ba"
+            },
+            {
+                "text": "Since were not supposed to talk about this though is there anything more intensive for the eye area than the eye cream",
+                "label": "qy"
+            },
+            {
+                "text": "Uh",
+                "label": "^h"
+            },
+            {
+                "text": "Do you know",
+                "label": "qy"
+            },
+            {
+                "text": "I dont probably maybe the rejuvenating cream is the only --",
+                "label": "no"
+            },
+            {
+                "text": "I have that too",
+                "label": "sd"
+            },
+            {
+                "text": "-- other thing I would use",
+                "label": "+"
+            },
+            {
+                "text": "Im forty-two I need something I need more",
+                "label": "sd"
+            },
+            {
+                "text": "Than the intensive eye",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah I didnt know if there was anything else And I use the Celltrex",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But anyway - well yes NuSkin is wonderful",
+                "label": "%"
+            },
+            {
+                "text": "Good yes",
+                "label": "ba"
+            },
+            {
+                "text": "I think its wonderful product Do you use it",
+                "label": "sv"
+            },
+            {
+                "text": "I do yeah we get free products every month so -",
+                "label": "na"
+            },
+            {
+                "text": "Oh my gosh Thats great",
+                "label": "ba"
+            },
+            {
+                "text": "Right right now Im getting about sixty bucks month free products so",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "Ive worked there about year",
+                "label": "sd"
+            },
+            {
+                "text": "Thats good Are they good to work for",
+                "label": "ba"
+            },
+            {
+                "text": "Yes theyre wonderful to work for",
+                "label": "ny"
+            },
+            {
+                "text": "Thats great",
+                "label": "ba"
+            },
+            {
+                "text": "Yep",
+                "label": "b"
+            },
+            {
+                "text": "Anyway so were supposed to be talking about places to go and you have not been to Europe Do you go to school",
+                "label": "ad^t"
+            },
+            {
+                "text": "uh-huh",
+                "label": "qy"
+            },
+            {
+                "text": "Do you ski",
+                "label": "qy"
+            },
+            {
+                "text": "I ski yes Ive -",
+                "label": "ny"
+            },
+            {
+                "text": "Ski - you probably ski very well in Utah",
+                "label": "%"
+            },
+            {
+                "text": "No I dont Actually since I grew up in Texas Ive only been here about two years and --",
+                "label": "nn"
+            },
+            {
+                "text": "Uh",
+                "label": "b"
+            },
+            {
+                "text": "-- have gone skiing about three times - well five times each season",
+                "label": "+"
+            },
+            {
+                "text": "Why did you move to Utah Youre going oh you are going to school",
+                "label": "qw"
+            },
+            {
+                "text": "Yeah I -",
+                "label": "ny"
+            },
+            {
+                "text": "At is that where is",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh Yep",
+                "label": "ny"
+            },
+            {
+                "text": "Okay I know some people that went to Thats great Pretty good",
+                "label": "bk"
+            },
+            {
+                "text": "I do like to ski",
+                "label": "sd"
+            },
+            {
+                "text": "Pretty pretty down there Huh",
+                "label": "qy^g"
+            },
+            {
+                "text": "Yeah I I said I do like to ski",
+                "label": "ny"
+            },
+            {
+                "text": "So where have you skied",
+                "label": "qw"
+            },
+            {
+                "text": "And its its kind of nice being up here just because its all like vacation in itself when you get to go",
+                "label": "sd"
+            },
+            {
+                "text": "Sure",
+                "label": "b"
+            },
+            {
+                "text": "If you like that kind of thing",
+                "label": "sd"
+            },
+            {
+                "text": "Sure so youre sophomore",
+                "label": "b"
+            },
+            {
+                "text": "I am actually --",
+                "label": "sd"
+            },
+            {
+                "text": "Or junior",
+                "label": "+"
+            },
+            {
+                "text": "-- junior",
+                "label": "+"
+            },
+            {
+                "text": "Youre junior",
+                "label": "b"
+            },
+            {
+                "text": "Beginning of my junior year",
+                "label": "+"
+            },
+            {
+                "text": "Good for you",
+                "label": "ba"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "What are you studying",
+                "label": "qw"
+            },
+            {
+                "text": "Nursing",
+                "label": "sd"
+            },
+            {
+                "text": "Good for you You sound like girl that has it together I would just encourage you to do little traveling though before you get married Because when you --",
+                "label": "ba"
+            },
+            {
+                "text": "You think",
+                "label": "b"
+            },
+            {
+                "text": "-- get married you wont have the money or the time",
+                "label": "+"
+            },
+            {
+                "text": "I know",
+                "label": "aa"
+            },
+            {
+                "text": "So just you know - dont dont be in any hurry",
+                "label": "%"
+            },
+            {
+                "text": "Im not Im not",
+                "label": "aa"
+            },
+            {
+                "text": "You really should go to Europe I went to Europe for six weeks after I graduated from college and that was just - I I mean I could have had that or down payment on new car and I took the trip And -- -",
+                "label": "ad"
+            },
+            {
+                "text": "And it was great",
+                "label": "qy"
+            },
+            {
+                "text": "-- uh I traveled with group of sixteen other students Actually they there was two other graduating seniors besides myself and we just had ball We stayed at -",
+                "label": "sd"
+            },
+            {
+                "text": "How long did you get to stay there",
+                "label": "qw"
+            },
+            {
+                "text": "Uh six weeks",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah It was wonderful so you should think about doing something like that",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh I just had friend that got back from Europe and she was there like all winter semester",
+                "label": "aa"
+            }
+        ]
+    }
+]

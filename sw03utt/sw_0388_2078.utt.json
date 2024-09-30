@@ -1,0 +1,915 @@
+[
+    {
+        "conversation_id": "conv_2078",
+        "turns": [
+            {
+                "text": "Here goes Sharon",
+                "label": "o"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "Well what do you think about Nolan Ryan being the first baseball player to earn million dollars Thats the only thing I found out tonight",
+                "label": "qo"
+            },
+            {
+                "text": "Oh you found that out tonight",
+                "label": "qy^h"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "I havent even heard that thats great I think he deserves every penny of it",
+                "label": "^h"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But there are some others out there that I dont believe deserve the money theyre getting",
+                "label": "sd"
+            },
+            {
+                "text": "Well isnt it funny how baseballs getting less than like football players would",
+                "label": "sv"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Wonder because football -",
+                "label": "%"
+            },
+            {
+                "text": "And they play lot they play lot longer season too",
+                "label": "sd"
+            },
+            {
+                "text": "And lot more games right",
+                "label": "qy^g"
+            },
+            {
+                "text": "Yeah thats exactly right",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But I think lets see the teams that were there last year were see somebody from California I dont even know who won the pennant last year",
+                "label": "^h"
+            },
+            {
+                "text": "Beats me I mean I know Yankees have won lot games",
+                "label": "no"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "through the years",
+                "label": "+"
+            },
+            {
+                "text": "Not lately though",
+                "label": "sv"
+            },
+            {
+                "text": "We have been talking about this I tried to call earlier",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and we had made list of all these uh baseball teams and the cities that they were from then I started cleaning and I dont even know where I even put that paper",
+                "label": "sd"
+            },
+            {
+                "text": "Threw it away",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah I was just cleaning and throwing",
+                "label": "ny"
+            },
+            {
+                "text": "Oh gosh Lets see The teams that - I think the As were in it last year The Oakland As and I think it was I dont think it was an all California baseball",
+                "label": "ba"
+            },
+            {
+                "text": "Well have you ever played baseball",
+                "label": "qy"
+            },
+            {
+                "text": "I played softball",
+                "label": "no"
+            },
+            {
+                "text": "Well thats what I did when I was growing up",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "That was fun",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah thats fun Thats whole different sport",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Yeah lets see but I think I think the Rangers need to go and I think the Pirates will go And uh lets see Rangers have got new guy this year I dont even remember his name either",
+                "label": "b"
+            },
+            {
+                "text": "Do you ever go see the Rangers",
+                "label": "qy"
+            },
+            {
+                "text": "Every once in while I I like to go on the nights when theres not anybody out there not very many people out there Its lot more fun when your not fighting crowd",
+                "label": "na"
+            },
+            {
+                "text": "Yeah I think its fun I like just looking at the billboards",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah - - sometimes when I if you go out there during the day you just fry under the sun",
+                "label": "b"
+            },
+            {
+                "text": "Yeah its nice at night",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Thats when Ive been",
+                "label": "sd"
+            },
+            {
+                "text": "It is -",
+                "label": "aa"
+            },
+            {
+                "text": "Well -",
+                "label": "%"
+            },
+            {
+                "text": "And do you know anything about that new stadium have you seen all those pictures that theyre going to put out there",
+                "label": "qy"
+            },
+            {
+                "text": "No",
+                "label": "nn"
+            },
+            {
+                "text": "Yeah that that huge - its suppose to be huge stadium and its going to have little shopping centers in it and little like lake or something running through it And uh theyre going to try to make it real community center out there Cou- -",
+                "label": "b"
+            },
+            {
+                "text": "And your going to be able to buy your - what was no wait about the liquor -",
+                "label": "qy"
+            },
+            {
+                "text": "Thats thats in uh Texas stadium where the football players",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah so you -",
+                "label": "b"
+            },
+            {
+                "text": "play and theyre never going to let liquor in there",
+                "label": "+"
+            },
+            {
+                "text": "Well theyre trying",
+                "label": "sv"
+            },
+            {
+                "text": "I know but they try every year and every year they get thrown out Its so stupid because they let you take it in there but they dont they dont allow you to sell it dont allow them to sell it there",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But uh that new stadiums going to be real nice and I heard that theres uh that you can bid on that stadium last night on the news I heard that they said you could you could bid on the stadium to have it named after you so -",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh right",
+                "label": "b"
+            },
+            {
+                "text": "And its going to go to the highest bidder",
+                "label": "sd"
+            },
+            {
+                "text": "Oh Well thats the way to do it",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah so that could be your you know fifteen minutes of fame",
+                "label": "aa"
+            },
+            {
+                "text": "You hear that Thats my kids turning on their music",
+                "label": "qh^c"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Holly turn it down I think its the Bart man the Simpsons",
+                "label": "t3"
+            },
+            {
+                "text": "Oh God I stay away from them",
+                "label": "sd"
+            },
+            {
+                "text": "I wish I could",
+                "label": "sd"
+            },
+            {
+                "text": "I bet you do",
+                "label": "ba"
+            },
+            {
+                "text": "Well where are you",
+                "label": "qw"
+            },
+            {
+                "text": "In Plano",
+                "label": "sd"
+            },
+            {
+                "text": "Okay Im in Garland",
+                "label": "bk"
+            },
+            {
+                "text": "Oh you are",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah my - my husband teaches in Plano",
+                "label": "ny"
+            },
+            {
+                "text": "Oh whats he teach uh-huh So what do you do",
+                "label": "qw"
+            },
+            {
+                "text": "I teach but I teach for Dallas",
+                "label": "sd"
+            },
+            {
+                "text": "Oh you do",
+                "label": "bh"
+            },
+            {
+                "text": "For right now Im trying to get out",
+                "label": "na"
+            },
+            {
+                "text": "Is that tough system to be in",
+                "label": "qy"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Real hard",
+                "label": "qy"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah I would think it",
+                "label": "b"
+            },
+            {
+                "text": "I mean its good because they they try new things you know but its like theyll try something and then they throw it out and get something else you know",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and you get tired of that",
+                "label": "sv"
+            },
+            {
+                "text": "Thats typical bureaucracy though Thats thats I think its going to be any where you go its just worse in the bigger cities than it is in the smaller ones",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I dont know sometimes the smaller ones are just as bad",
+                "label": "h"
+            },
+            {
+                "text": "Well but they cant be though they dont have as much money",
+                "label": "ar"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Most of the time",
+                "label": "sv"
+            },
+            {
+                "text": "but the politics the politics gets worse in the small towns sometimes",
+                "label": "sv"
+            },
+            {
+                "text": "Oh man in Dallas you dont even know whos in in administration theres so many of them",
+                "label": "sd"
+            },
+            {
+                "text": "You dont even know who to payoff huh",
+                "label": "qh"
+            },
+            {
+                "text": "I mean somebody walks in the classroom and you dont know what theyre there for you know when theyre coming how long theyre going to be",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah oh how funny",
+                "label": "b"
+            },
+            {
+                "text": "you know its just there they are and theyre writing the whole time",
+                "label": "sd"
+            },
+            {
+                "text": "No communication whatsoever",
+                "label": "qy^d"
+            },
+            {
+                "text": "No I had them walk out of my class and not say their name anything and I finally just got to where I go okay Im Debbie Moore you know may I ask who you are and what you are in my classroom for you know",
+                "label": "nn"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Because you know you never know where they are going what theyll report or -",
+                "label": "sd"
+            },
+            {
+                "text": "I know",
+                "label": "aa"
+            },
+            {
+                "text": "and theyll tell you theyve written something down and you hope theyre telling you the truth",
+                "label": "sd"
+            },
+            {
+                "text": "And you never see it",
+                "label": "qy^d"
+            },
+            {
+                "text": "No huh-uh",
+                "label": "nn"
+            },
+            {
+                "text": "Thats got to be frustrating",
+                "label": "ba"
+            },
+            {
+                "text": "Oh it is",
+                "label": "aa"
+            },
+            {
+                "text": "How long you taught taught in Dallas schools",
+                "label": "qw"
+            },
+            {
+                "text": "Uh this is my eleventh year",
+                "label": "sd"
+            },
+            {
+                "text": "Ugh thats about uh ten too many",
+                "label": "sv"
+            },
+            {
+                "text": "No actually its - now my jobs good",
+                "label": "ar"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "much better than lot",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "because Im Chapter One",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and all I do is teach reading all day long",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "and its just ten children at time",
+                "label": "sd"
+            },
+            {
+                "text": "Oh well thats not bad",
+                "label": "ba"
+            },
+            {
+                "text": "No Its good and youve got lot of federal money too",
+                "label": "aa"
+            },
+            {
+                "text": "But hasnt it changed lot over the years",
+                "label": "qy"
+            },
+            {
+                "text": "Teaching",
+                "label": "qy^h"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Oh yes",
+                "label": "ny"
+            },
+            {
+                "text": "Or working in the system",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yes when I first started teaching I remember I went to my - and I said okay I want to see curriculum guide you know so Ill know what Im suppose to teach and they go we dont have one We dont even know where one is",
+                "label": "ny"
+            },
+            {
+                "text": "Oh God",
+                "label": "ba"
+            },
+            {
+                "text": "And so I go okay I mean you just you did what you wanted to do",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "How funny",
+                "label": "ba"
+            },
+            {
+                "text": "and now they tell you what to teach and how long and you know what day",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah you dont know which is",
+                "label": "b"
+            },
+            {
+                "text": "what period",
+                "label": "+"
+            },
+            {
+                "text": "you dont know which is worse",
+                "label": "+"
+            },
+            {
+                "text": "Yeah No I know which is worse",
+                "label": "b"
+            },
+            {
+                "text": "Yeah I guess so Yeah being told what to do is worse",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So how long are we suppose to talk for",
+                "label": "qw^t"
+            },
+            {
+                "text": "Well you can talk for ten minutes but you dont have to",
+                "label": "sd^t"
+            },
+            {
+                "text": "Oh you can",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah and no if you talk to ten then they come ov- on and say oh youve extended your limit and please say good-bye within the next five seconds",
+                "label": "ny"
+            },
+            {
+                "text": "Oh I havent ever talked that long",
+                "label": "sd"
+            },
+            {
+                "text": "Well you know I hadnt either till last night I was talking to this retired administrator from Cleveland Ohio",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and we started talking about gangs you know",
+                "label": "sd"
+            },
+            {
+                "text": "He lives in Cleveland",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Wow",
+                "label": "ba"
+            },
+            {
+                "text": "And everybody else that Ive talked to has been right around here",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But she was real interesting",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "And then tonight this woman called have you taken any incoming calls",
+                "label": "sd"
+            },
+            {
+                "text": "Th- yours is my second one",
+                "label": "na"
+            },
+            {
+                "text": "Okay So hers was the first one I got gotten and uh and she was telling me all her problems you know and it went over ten minutes",
+                "label": "bk"
+            },
+            {
+                "text": "Did she did she did you all not talk about the topic at all",
+                "label": "qy"
+            },
+            {
+                "text": "Well yeah we did but the topic was boring I thought",
+                "label": "ny"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "What would you serve uh if you were having dinner party",
+                "label": "qw"
+            },
+            {
+                "text": "Oh gosh all the other - the one I talked about the other night was good it was um about movies you know what have you seen at the movies lately and stuff like that",
+                "label": "%"
+            },
+            {
+                "text": "Oh yeah I could go on and on about that",
+                "label": "b"
+            },
+            {
+                "text": "Me too because we go all the time the guy I was talking to never goes he was boy it sounds like your really up on this I said I see at least two week",
+                "label": "sd"
+            },
+            {
+                "text": "Ugh neat",
+                "label": "ba"
+            },
+            {
+                "text": "So that was real good to talk about that Have you seen like uh SILENCE OF THE LAMBS",
+                "label": "sd"
+            },
+            {
+                "text": "No",
+                "label": "nn"
+            },
+            {
+                "text": "Youve got to go see that",
+                "label": "ad"
+            },
+            {
+                "text": "The last one I saw was DANCES OF THE WITH THE WOLVES WOLVES",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah we talked about that one too And he he said he didnt think it should have gotten all those awards he thought it was too long but I -",
+                "label": "b"
+            },
+            {
+                "text": "Oh I enjoyed it",
+                "label": "sd"
+            },
+            {
+                "text": "I did too",
+                "label": "sd"
+            },
+            {
+                "text": "I mean it was just more for my money",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah I didnt think it was too long at all Uh he said after about the first hour he started looking at his watch",
+                "label": "b"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "The other one you need to go see is SLEEPING WITH THE ENEMY",
+                "label": "ad"
+            },
+            {
+                "text": "uh-huh",
+                "label": "aa"
+            },
+            {
+                "text": "And how old are your kids",
+                "label": "qw"
+            },
+            {
+                "text": "One is eight and one is eleven",
+                "label": "sd"
+            },
+            {
+                "text": "You probably dont want to take them to see SILENCE OF THE LAMBS Its its not its not too cool for kids",
+                "label": "ad"
+            },
+            {
+                "text": "They usually pick their own",
+                "label": "sd"
+            },
+            {
+                "text": "I bet they do",
+                "label": "ba"
+            },
+            {
+                "text": "You know theyve got it all figured out",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah they want to see all the horror movies",
+                "label": "b"
+            },
+            {
+                "text": "Well and Ninja Turtles",
+                "label": "nd"
+            },
+            {
+                "text": "Yeah Ninja Turtles got to have those",
+                "label": "b"
+            },
+            {
+                "text": "But most of the time really we watch them on the video",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah you brin- - thats -",
+                "label": "b"
+            },
+            {
+                "text": "Dont you Just massive rental",
+                "label": "qy"
+            },
+            {
+                "text": "well heck thats lot cheaper then uh",
+                "label": "sv"
+            },
+            {
+                "text": "Going to -",
+                "label": "%"
+            },
+            {
+                "text": "taking them out to the show",
+                "label": "+"
+            },
+            {
+                "text": "I know",
+                "label": "aa"
+            },
+            {
+                "text": "Especially if you get them for couple of nights you dont have to watch them all in one ni- one time",
+                "label": "sv"
+            },
+            {
+                "text": "Thats what we do especially when its bad weather man just",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "plug it in",
+                "label": "+"
+            },
+            {
+                "text": "Of course you have to get there early if you want to get anything",
+                "label": "sv"
+            },
+            {
+                "text": "I know",
+                "label": "aa"
+            },
+            {
+                "text": "decent",
+                "label": "+"
+            },
+            {
+                "text": "Its good when you go to Tom Thumb though and theyre cheap and nobody has got them yet",
+                "label": "sv"
+            },
+            {
+                "text": "Thats true",
+                "label": "aa"
+            },
+            {
+                "text": "Unbelievable",
+                "label": "ba"
+            },
+            {
+                "text": "Thats true We saw um HEROES HAVE ALWAYS BEEN COWBOYS tonight",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "It was okay it was kind of slow and I felt like it kind of got chopped off at the end you know It just it - I dont know it one of those movies its not going to be around long it will be dollar movie in no time",
+                "label": "sd"
+            },
+            {
+                "text": "Do you read",
+                "label": "qy"
+            },
+            {
+                "text": "Not very much no",
+                "label": "ng"
+            },
+            {
+                "text": "No",
+                "label": "bh"
+            },
+            {
+                "text": "I dont have the patience to read",
+                "label": "sd"
+            },
+            {
+                "text": "See I do that to make myself go to sleep at night",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Oh my Mom and Dad read all the time",
+                "label": "b"
+            },
+            {
+                "text": "You saw FIELD OF DREAMS right long time ago",
+                "label": "qy^g"
+            },
+            {
+                "text": "Yeah sure did",
+                "label": "ny"
+            },
+            {
+                "text": "Well I was reading the book and its called SHOELESS JOE",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "It was so wonderful And then I was um I decided well I like this author so I got uh book of his short stories and thats been real good",
+                "label": "sd"
+            },
+            {
+                "text": "Who is the is the author",
+                "label": "qw"
+            },
+            {
+                "text": "Dont dont ask me",
+                "label": "no"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "The GHOST OF SHOELESS JOE was the name of the book",
+                "label": "sd"
+            },
+            {
+                "text": "Shoeless Joe Was it like the movie",
+                "label": "b^m"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "quite quite bit But you know in the movie the guy was black",
+                "label": "sd^e"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "he wasnt in the book",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "thats one difference There really wasnt lot of difference",
+                "label": "sd"
+            },
+            {
+                "text": "I didnt see I never even heard that there was book tied in with that movie Thats interesting That was good movie too",
+                "label": "sd"
+            },
+            {
+                "text": "Well do you think we covered baseball",
+                "label": "qy"
+            },
+            {
+                "text": "I think so",
+                "label": "na"
+            },
+            {
+                "text": "Okay well have good night",
+                "label": "fc"
+            }
+        ]
+    }
+]

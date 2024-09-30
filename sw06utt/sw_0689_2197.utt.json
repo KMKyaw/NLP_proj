@@ -1,0 +1,639 @@
+[
+    {
+        "conversation_id": "conv_2197",
+        "turns": [
+            {
+                "text": "Okay were rolling I uh - what what would you what would has your experience lead you to advise uh if my child were thinking of going to the Air Force Academy what would you say",
+                "label": "o"
+            },
+            {
+                "text": "Well Id encourage it",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Its good general - ed- education for bachelors degree",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And obviously and obviously its where they dont have any post graduate program there but you get an excellent wide uh basis of topics You know you get good broad education out of it",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You dont they dont graduate the best engineers or the best English majors but --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- maybe graduate pretty good overall students out of there",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh uh-huh uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "Uh",
+                "label": "%"
+            },
+            {
+                "text": "How do you feel about - it must be somewhat different environment from regular college How does that uh - how do you feel that is for someone at at that phase in their life",
+                "label": "qo"
+            },
+            {
+                "text": "Well the for some people its good because they maybe they need little discipline need little reining in at that that stage in their life Uh other people - it uh its uh suffocating",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "you know you kind of choke on it --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh uh-huh uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "-- uh it it depends on the person",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "on the individual but uh the one factor I think more than anything else in this day and age thats got to be big factor in your decisions just the the cost of how much youre going to pay --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "-- no matter where you go to school",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "And if youve been in for twelve years Im sure youve youve got your share of student loans that uh youre probably going to be paying off or have been or -",
+                "label": "sv"
+            },
+            {
+                "text": "Well I sort of - one of the reasons its taken so long is Ive been working all you know",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "sort of half student half working and source of income and stuff so Im actually managing to do this with zero debt",
+                "label": "+"
+            },
+            {
+                "text": "Oh thats good",
+                "label": "ba"
+            },
+            {
+                "text": "Uh I couldnt you couldnt do it otherwise",
+                "label": "sv"
+            },
+            {
+                "text": "Oh - I mean I know people that graduated or that I went to high school with that went to civilian colleges and they theyve got twenty thirty thousand dollar debts I mean you could have uh -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I think if theres any major piece of advice Id give is to find way of getting an education that doesnt incur that kind of debt",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Its not - I mean I remember seeing an article one time about you know if the average person who spent that much money going to college just took the same amount of money and put it in in an investment fund theyd be considerably wealthier than they would be from the job theyd get after college",
+                "label": "%"
+            },
+            {
+                "text": "Exactly",
+                "label": "aa"
+            },
+            {
+                "text": "So its its really kind of crazy",
+                "label": "sv"
+            },
+            {
+                "text": "Its its staggering when you think that just here in central New York is uh Hamilton College is just few miles south of you know maybe about twenty miles to the south from where I am --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh theyre looking for twenty-two thousand dollars for tuition and room and board now",
+                "label": "sd"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "year",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "%"
+            },
+            {
+                "text": "At just small - I mean they they they are - it is select",
+                "label": "sd"
+            },
+            {
+                "text": "Yes yes I know",
+                "label": "aa"
+            },
+            {
+                "text": "college",
+                "label": "+"
+            },
+            {
+                "text": "I was actually I th- I was thinking of trying to get job there I heard of it",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah But youre talking incredible tuitions now",
+                "label": "b"
+            },
+            {
+                "text": "Uh-uh",
+                "label": "b"
+            },
+            {
+                "text": "I dont know how many people actually pay the whole shot Very few I would imagine",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But uh I get - I just couldnt ima- - I mean its more money that I make in year so - You know it you know - me being one person with above the median income",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "for New York state you know - Im - Im second lieutenant in the Air Force now and",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "uh I - even as somebody making twice what I was making how could you put half of that into",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "to your childs education and then just when they make made make it to the college years its -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "My God I cant imagine",
+                "label": "sd"
+            },
+            {
+                "text": "Well my my real feeling about about the purpose of undergraduate education is its really the time yes you do get an education you do learn some things but you eventually forget most of it",
+                "label": "sv"
+            },
+            {
+                "text": "Yes",
+                "label": "aa"
+            },
+            {
+                "text": "But what you dont forget is the growing up Its really the period when people become adults I mean people who dont go to college become adults in other ways But really its the entry into adulthood I think And I think that the best way to choose college is to decide what kind of environment you want to be fostered in as you become you know as you gain new social skills as you become you know more of functioning member of society And maybe the Air Force Academy is perfect - as you said for someone who you know more you know who needs to learn self-discipline and so forth would be appropriate for them",
+                "label": "sv"
+            },
+            {
+                "text": "Or its also good environment it may be good for someone who already has self discipline who has certain amount of leadership quality in their own",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "that -",
+                "label": "+"
+            },
+            {
+                "text": "and want to develop that",
+                "label": "^2"
+            },
+            {
+                "text": "And that - yeah the - - its the same",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "It can benefit different people different ways",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But uh you know I I agree with that because I see people that I know - again from high school",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "that I still keep in touch with",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "that didnt go to college and they do the same old things they did in high school andneeds slash because following utt by repeats utt of is not necessarily the intended end of this utt",
+                "label": "+"
+            },
+            {
+                "text": "The same patterns of behavior you mean",
+                "label": "^2^g"
+            },
+            {
+                "text": "Same patterns of behavior",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "same uh same socializing same exact crowd that they hang with and its like its like frozen time you know",
+                "label": "+"
+            },
+            {
+                "text": "Exactly its ki- I find it kind of sad I really do",
+                "label": "aa"
+            },
+            {
+                "text": "It is It really is that they havent found anything anything better that uh - or their their experiences havent been broadened at all",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "to to you know you know - its its its tremendous thing when you sit in in college environment and discuss some issues and really sit there with people with disagreeing opinions and you hear all these different sides of the story --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- that you never thought of --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh thats another big thing I think people get out of college is the appreciation for different point differing points of view",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "you know or different opinions",
+                "label": "+"
+            },
+            {
+                "text": "Yeah in high school everyone sort of tries to have the same opinion it seems",
+                "label": "b"
+            },
+            {
+                "text": "Yeah exactly yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah the the one thing I think thats no good for anyone is these monster institutions These institutions of th- thirty thousand students and such",
+                "label": "b^m"
+            },
+            {
+                "text": "Oh I -",
+                "label": "%"
+            },
+            {
+                "text": "And I see some freshmen wandering around in there and theyre theyre just like you know someone from the country lost in the big city I mean",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "they they - I dont see them getting - I mean when I was undergraduate I went to relatively small school for my first two years and then I transferred to very large school",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And that worked out pretty well I went from you know second rate institution to higher rate institution",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But the first couple of years it doesnt matter to me what the quality of the education was I needed to make friends I needed to sort of learn the ropes You know there were things like that that mattered lot more and I needed basic really simple education that you can get pretty much anywhere for the first couple of years",
+                "label": "sd"
+            },
+            {
+                "text": "Well your educations lot what you make of it too so -",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah yeah exactly And if youre alienated - I mean I see people at supposedly really good universities who are just having psychological problems",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "that you think this isnt sinking in",
+                "label": "+"
+            },
+            {
+                "text": "Well I Ive seen more graduates from I and that -",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "being - I work in in labora- an Air Force laboratory and so weve got lot of uh I graduates that are in there and they are the biggest collection of screwed up people that I think Ive ever run into",
+                "label": "%"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "Even even more so uh like military academy grads are strange lot too I I mean I have to ad- confess to that",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah its sort of rare select environment",
+                "label": "b"
+            },
+            {
+                "text": "Yeah and they have their own quirks and tolerances and you know certain things that dont bother us at all",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "that would drive other people nuts and then certain things that - ways things we do - the way we do it that drive other people nuts that -",
+                "label": "+"
+            },
+            {
+                "text": "Right right sure",
+                "label": "aa"
+            },
+            {
+                "text": "But these I grads are off in their absolute own world It its - I I have more re- I have lot of respect for I masters and doctorate uh",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah Its top rated institution and now I -",
+                "label": "b"
+            },
+            {
+                "text": "degrees but theyre undergrads are like - I Im amazed at at thats lot of them even graduated",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But uh I dont know",
+                "label": "h"
+            },
+            {
+                "text": "Well I I had known lot of undergraduates who pick schools because they want the best reputation for school",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Not realizing that the reputation for I is because of the of the doctorate research",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "and the professors who go there and youre not going to see the professors --",
+                "label": "+"
+            },
+            {
+                "text": "Nope",
+                "label": "aa"
+            },
+            {
+                "text": "-- you know youre going to see some you know Uh so they - they they want you know they want the best and they dont think they think what the best is is",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "reputation for for research and thats one standard but its not relevant",
+                "label": "+"
+            },
+            {
+                "text": "No",
+                "label": "aa"
+            },
+            {
+                "text": "to what they need",
+                "label": "+"
+            },
+            {
+                "text": "Its interesting that you mention - and I didnt think about that before when you were talking but the service academies have all all the faculty uh for the most part is is military with few exchange",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "instruct- professors from other",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "schools But uh having the military faculty is really beneficial because they see it as doing their job and spending time with the cadets there uh is investing in the Air Force and it -",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "or the the military itself its the future officer corps and so I hear hor- horror stories from friends of mine that they could never see their instructors they could never get extra help",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "For me any time I needed extra help any time of the day --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "-- I had all my instructors home phone numbers --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "-- and could call them you go to their office anytime I had some instructors that uh would invite me over to their house for extended study things on weekends",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "%"
+            },
+            {
+                "text": "when I was having trouble with something and -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah you wont get that at I or virtually or anything like that",
+                "label": "b"
+            },
+            {
+                "text": "No no and that -",
+                "label": "aa"
+            },
+            {
+                "text": "And you - you know and you cant blame the professors either",
+                "label": "sv"
+            },
+            {
+                "text": "No",
+                "label": "aa"
+            },
+            {
+                "text": "because you look at their job description youd - you know - teaching is third down on the list of importance things and -",
+                "label": "+"
+            },
+            {
+                "text": "Right right Publish first and the -",
+                "label": "aa"
+            },
+            {
+                "text": "yeah and and thats appropriate if the university is trying to do serious research because its hard to be researcher and teacher at the same time",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "So Id say go to go to college that has teachers People who really are committed to the students and can afford to be because thats their job",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But oh well -",
+                "label": "%"
+            },
+            {
+                "text": "Yeah its theres lot of factors that people dont ever ever consider --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- in in their selection of college and uh I dont know maybe I wonder if if they enter these conversations that people have been having uh -",
+                "label": "+"
+            }
+        ]
+    }
+]

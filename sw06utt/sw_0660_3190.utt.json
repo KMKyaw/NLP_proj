@@ -1,0 +1,523 @@
+[
+    {
+        "conversation_id": "conv_3190",
+        "turns": [
+            {
+                "text": "Where have you been on wonderful vacation",
+                "label": "qw"
+            },
+            {
+                "text": "Well normally when we go on vacation we go home to Colorado",
+                "label": "sd"
+            },
+            {
+                "text": "Oh thats where we go home too",
+                "label": "sd"
+            },
+            {
+                "text": "Really Yeah Colorado Springs is where were from",
+                "label": "b"
+            },
+            {
+                "text": "Thats where we go",
+                "label": "sd"
+            },
+            {
+                "text": "How funny",
+                "label": "ba"
+            },
+            {
+                "text": "Yes my husbands family lives just off of Academy Boulevard at Maize land",
+                "label": "aa"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "We live up up uh Lake in the Broadmoor area --",
+                "label": "sd"
+            },
+            {
+                "text": "Uh",
+                "label": "%"
+            },
+            {
+                "text": "-- thats where my fam- my in-laws are",
+                "label": "sd"
+            },
+            {
+                "text": "Oh weve been there We havent skied at Broadmoor We went there last year at Christmas time and it was twenty-seven below",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "So we had to cancel our ski lessons",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh as of you cant even ski there anymore",
+                "label": "b"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah they closed it down",
+                "label": "ny"
+            },
+            {
+                "text": "Oh just this year",
+                "label": "qy"
+            },
+            {
+                "text": "uh-huh --",
+                "label": "ny"
+            },
+            {
+                "text": "Oh my -",
+                "label": "ba"
+            },
+            {
+                "text": "-- they dont have enough money --",
+                "label": "sd"
+            },
+            {
+                "text": "Uh",
+                "label": "%"
+            },
+            {
+                "text": "-- to keep it going it doesnt doesnt pay So -",
+                "label": "+"
+            },
+            {
+                "text": "So that wouldnt be good spot to go on vacation now --",
+                "label": "sv"
+            },
+            {
+                "text": "Well --",
+                "label": "ar"
+            },
+            {
+                "text": "-- if you were skier",
+                "label": "+"
+            },
+            {
+                "text": "-- you know well now I dont know Now Colorado Springs is real accessible to Lake Breckenridge --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- its only couple of hours away And uh so its it might not be too bad if you want to go skiing somewhere else But you cant cant ski up there any more",
+                "label": "sd"
+            },
+            {
+                "text": "No",
+                "label": "b"
+            },
+            {
+                "text": "Oh Id like to go on vacation I - my husband and I want to go to Florida --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- to go to Disney World but we have two little ones --",
+                "label": "+"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "-- that are under two right now so we want to wait until theyre little bit older --",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- to do that and -",
+                "label": "+"
+            },
+            {
+                "text": "Well we went on family cruise last year on the Premier Family Cruise Line and then we went to Disney It was all part of the package",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "And on the cruise ship they had Mickey and Minnie and Chip and Dale and Goofy and Donald Duck and it was really oriented toward little kids",
+                "label": "sd"
+            },
+            {
+                "text": "Well how fun",
+                "label": "ba"
+            },
+            {
+                "text": "So the kids could eat with Chip and Dale you know and you know --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- it was just lot of fun",
+                "label": "+"
+            },
+            {
+                "text": "Oh I bet",
+                "label": "ba"
+            },
+            {
+                "text": "So then we were on the cruise for three days in the Bahamas and then landed at Cape Canaveral and then drove over to Orlando and spent four days at Disney",
+                "label": "sd"
+            },
+            {
+                "text": "Wow well that sounds pretty",
+                "label": "ba"
+            },
+            {
+                "text": "Yes that was the way to travel",
+                "label": "b"
+            },
+            {
+                "text": "Yeah that sounds pretty good",
+                "label": "+"
+            },
+            {
+                "text": "Yes",
+                "label": "aa"
+            },
+            {
+                "text": "And it was all big package deal --",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "-- where you just pay one price --",
+                "label": "+"
+            },
+            {
+                "text": "Thats right",
+                "label": "na"
+            },
+            {
+                "text": "-- and get everything",
+                "label": "+"
+            },
+            {
+                "text": "Thats right and kids are really cheaper too",
+                "label": "na^r"
+            },
+            {
+                "text": "Really",
+                "label": "b"
+            },
+            {
+                "text": "We really lucked out because the ship we were supposed to be on developed engine trouble two days before our cruise so they said we could either cancel reschedule or take whatever was available So we took whatever was available and we left day early and they put us up at the Cocoa Beach Hilton and the ship that was available the only uh rooms that hadnt been booked were the suites",
+                "label": "sd"
+            },
+            {
+                "text": "Wow",
+                "label": "ba"
+            },
+            {
+                "text": "So we got the suites at the same price as regular cabin",
+                "label": "sd"
+            },
+            {
+                "text": "Oh --",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- what deal",
+                "label": "+"
+            },
+            {
+                "text": "So then our cruise was actually extended day and our Disney was extended day so we turned seven day trip into ten --",
+                "label": "sd"
+            },
+            {
+                "text": "Great",
+                "label": "ba"
+            },
+            {
+                "text": "-- and they paid for everything",
+                "label": "sd"
+            },
+            {
+                "text": "Well thats great",
+                "label": "ba"
+            },
+            {
+                "text": "Yes",
+                "label": "aa"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "So that was wonderful vacation",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah I bet That sounds like the way Id want to do it --",
+                "label": "aa"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "-- I think",
+                "label": "+"
+            },
+            {
+                "text": "Well what kind of things do you like to do when you go to Colorado",
+                "label": "qo"
+            },
+            {
+                "text": "Oh well we like to ski of course so we spend so much time with our families --",
+                "label": "sd"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "-- uh and seeing our friends because we moved to Texas about two years ago So when we go back we are just jam packed full of people to see and things to do --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- so we dont we dont get lot of time to just vacation We did um last year though go to San Antonio for Memorial Day --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- which was fun just to get to kind of walk around --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and see the sights down there and do that kind of thing Uh but you know other other than that with with both my kids being under two its real hard --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- to do any any kind of --",
+                "label": "+"
+            },
+            {
+                "text": "That would be -",
+                "label": "%"
+            },
+            {
+                "text": "-- events that uh --",
+                "label": "+"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "-- dont dont require as much",
+                "label": "+"
+            },
+            {
+                "text": "I know I think one of the places I always hit in Colorado is that current outlet store",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Thats funny -- needs slash because asks what was said before repeats word funny",
+                "label": "b"
+            },
+            {
+                "text": "Thats what -",
+                "label": "br"
+            },
+            {
+                "text": "-- funny you should mention that I just got my catalog this morning and was looking through it",
+                "label": "+@"
+            },
+            {
+                "text": "Oh with the Santa Claus on the cover",
+                "label": "qy^d"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Yes Ive already ordered from that one but we will probably be going up at Thanksgiving this year so -",
+                "label": "b"
+            },
+            {
+                "text": "Oh do you live where do you what state are you in",
+                "label": "qw"
+            },
+            {
+                "text": "Texas",
+                "label": "sd"
+            },
+            {
+                "text": "Oh youre in Texas",
+                "label": "sd"
+            },
+            {
+                "text": "Yes Im in the Dallas area",
+                "label": "aa"
+            },
+            {
+                "text": "So am I",
+                "label": "sd"
+            },
+            {
+                "text": "In Plano",
+                "label": "+"
+            },
+            {
+                "text": "Im in Garland",
+                "label": "sd"
+            },
+            {
+                "text": "Uh --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- so thats not too far",
+                "label": "+"
+            },
+            {
+                "text": "I talked to somebody from Wisconsin or something the other day",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Yeah so I guess they get people from all over",
+                "label": "b"
+            },
+            {
+                "text": "Yes",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah driving for Thanksgiving thats going to be quite drive for -",
+                "label": "b"
+            },
+            {
+                "text": "Well it was when we left last year We left on the eighteenth right before that big snow storm hit Colorado --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and we pulled in just as it hit",
+                "label": "sd"
+            },
+            {
+                "text": "Wow",
+                "label": "ba"
+            },
+            {
+                "text": "So how do you go Do you go up through the Raton Pass when you go up there",
+                "label": "qw"
+            },
+            {
+                "text": "Uh no Ret- oh - well wait minute yeah we do we do",
+                "label": "nn"
+            },
+            {
+                "text": "Thats on like Route two eighty-seven or something like that",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah uh-huh and then we go straight up through Trinidad --",
+                "label": "b"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "-- and straight up I Twenty-five from there",
+                "label": "+"
+            },
+            {
+                "text": "Okay we uh went different way when we went last Christmas because of bad weather and because we were pulling little Haul trailer because we had to take our dog in the car there was no room for luggage So we went all interstate We went up um through Oklahoma City --",
+                "label": "bk^r"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and then up through uh Kansas and then turned left and went in on I Seventy --",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- and it wound up only taking us about an extra hour It was little more mile wise --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but because you could go sixty-five miles an hour on the -",
+                "label": "sd"
+            }
+        ]
+    }
+]

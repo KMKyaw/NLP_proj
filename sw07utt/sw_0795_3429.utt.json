@@ -1,0 +1,359 @@
+[
+    {
+        "conversation_id": "conv_3429",
+        "turns": [
+            {
+                "text": "Well um since Im in college uh I mean uh I havent seen that much change Im kind of young still I dont know how much it changed in the last uh twenty years anyway But I dont know Do you do you have an idea of of how much",
+                "label": "sd"
+            },
+            {
+                "text": "No Im not that old either",
+                "label": "nn"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Im only twenty-nine",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay",
+                "label": "bk"
+            },
+            {
+                "text": "So social changes arent that much for me either",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah right Well I can remember are from from my childhood were the disco days - and maybe thats changed lot Uh --",
+                "label": "b"
+            },
+            {
+                "text": "Well yeah that -",
+                "label": "b"
+            },
+            {
+                "text": "-- the way the way people dress and uh -",
+                "label": "+"
+            },
+            {
+                "text": "I think attitudes are more lax now than they used to be",
+                "label": "sv"
+            },
+            {
+                "text": "More lax",
+                "label": "br^m"
+            },
+            {
+                "text": "uh-huh relaxed --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and laid back and stuff and -",
+                "label": "+"
+            },
+            {
+                "text": "Maybe people are little - more open-minded than maybe they used to be",
+                "label": "sv"
+            },
+            {
+                "text": "I think so",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I think so and lot - I think people are are used to now saying whats whats on their minds more --",
+                "label": "sd^r"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- more up front --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- than they used to be",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh Especially with like lot of the different organizations now like you know Pro-Life and and Pro- uh Choice in in the special interest groups maybe --",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- um like amnesty Uh yeah maybe people are little little more uh free to express their opinions socially free",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I think so I think women have come out more --",
+                "label": "aa"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "aa"
+            },
+            {
+                "text": "-- too on on like child abuse --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- and and the wife beatings and --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and like you said pro cho- pro-choice and --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- whatnot",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh Right",
+                "label": "b"
+            },
+            {
+                "text": "I think thats become more out- outstanding than it used to be where women I think used to be little bit afraid of coming out and saying something",
+                "label": "sv"
+            },
+            {
+                "text": "Right Just wasnt socially acceptable",
+                "label": "aa"
+            },
+            {
+                "text": "No huh-uh",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah Uh maybe maybe too big social change thats thats maybe for the worst is uh is is how um the peoples uh views on on relationships has changed you know and now we have now we have several you know we have to worry about AIDS and we have to worry about uh maybe people are becoming more aware more more afraid of --",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- relationships",
+                "label": "+"
+            },
+            {
+                "text": "Well I know like when I was in high school and junior high and stuff and sitting down and having the sex talk with mom you know --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and all that stuff and you know we didnt have to talk about - well basically her thing was just dont do it you know --",
+                "label": "+"
+            },
+            {
+                "text": "Ri- - right Yeah",
+                "label": "%"
+            },
+            {
+                "text": "-- but Im not Im not naive to think that my children are not going to not do it",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "It wasnt that long that I was that young",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And Ive got ten year old and you know he thought he knows about condoms and --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and he knows about AIDS and --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- its just different things you have to talk to them about now --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- that you would never even have dreamt to have to say anything about",
+                "label": "+"
+            },
+            {
+                "text": "Right It used to be that we were th- that we were trying to protect morality Now its were protecting our lives Its --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- its much different - we have you know - you cant just just hope for abstinence",
+                "label": "+"
+            },
+            {
+                "text": "No I dont I think thats stupidity on parents part I mean --",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- thats sex is rampant and it always will be and --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and I think too noticing the kids that the fourth and fifth graders which is what my son is --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and stuff they theyre just theyre more theyre very open",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I mean the boys are very open --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- because thats thats all I have is boys so thats all Im around --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- basically is boys but they talk about things that I my brother didnt talk about until he was in college --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know and and they sit down and they look at you right in the face and they expect truthful answer",
+                "label": "+"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "You cant get them give them the oh you know Cabbage Patch answers --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and stuff They they - that just does not go",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And they can tell me basically some things that I dont know",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But it its interesting listening to them I think I think the social changes in them I think I see it more with that generation --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- than I do with like our generation",
+                "label": "+"
+            },
+            {
+                "text": "Right right Yeah I I I imagine youre right I I teach swim lessons lot and and to see what see what kids talk about when uh you know theyre theyre open about well you know - kids are lot more educated now than I think that that like we were uh at that age --",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah I do too",
+                "label": "aa"
+            },
+            {
+                "text": "-- um about lot of things You know besides what besides what they learn uh from from our social environment is uh their education is just amazing Kids are kids are learning uh you know their math is just - every year uh algebra goes down grade you know and and uh students learn it earlier",
+                "label": "+"
+            },
+            {
+                "text": "I know well my son the my fourth grader he is -",
+                "label": "sd"
+            }
+        ]
+    }
+]

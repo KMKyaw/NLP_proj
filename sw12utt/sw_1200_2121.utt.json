@@ -1,0 +1,527 @@
+[
+    {
+        "conversation_id": "conv_2121",
+        "turns": [
+            {
+                "text": "Okay uh could you tell me what you think contributes most to uh air pollution",
+                "label": "o"
+            },
+            {
+                "text": "Well its hard to say I mean while its certainly the case that things like automobiles and factories uh pollute lot uh if you look at how much pollution is say kicked up by an active volcano uh its certainly less than clear that anything man can do in this sort of scale of things has much effect at all What do you think",
+                "label": "^h"
+            },
+            {
+                "text": "Um well you talked about uh volcanos Im not sure how many active volcanos there are now and and what the amount of material that they do uh put into the atmosphere I think probably the greatest cause is uh vehicles",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "especially around cities Um uh do you live right in the city itself",
+                "label": "+"
+            },
+            {
+                "text": "No Im more out in the suburbs but I certainly work near city",
+                "label": "nn"
+            },
+            {
+                "text": "Okay so ca-",
+                "label": "bk"
+            },
+            {
+                "text": "How about you",
+                "label": "qo"
+            },
+            {
+                "text": "Can you notice - well its its - I live in rural area",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Its mainly farms and uh no heavy industry Attleboro itself - I live in Rhode Island",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I see",
+                "label": "b"
+            },
+            {
+                "text": "And its in the north I live up in the uh northeast corner and Attleboro sits in just over the line",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "where Is plant is but there isnt lot of heavy industry Theres the freeways and we get an occasional - it depends which way the winds blowing from Boston cause were like forty miles south of Boston so well pick up that And uh Ive noticed over the past say maybe five or six years uh - we live about twenty miles away from the state airport and I notice that the fly patterns now of the jets are getting bigger theyre swinging wider so that now they are coming over over our homes",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And it seems like uh were catching all that residue Im not sure if its kerosene or what thats dropping But other than that you know we dont have the unless were catching it from the midwest the emissions",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know from the power plants Um",
+                "label": "+"
+            },
+            {
+                "text": "You mean like from the coal",
+                "label": "bf"
+            },
+            {
+                "text": "Yeah yeah we generate - one of our our biggest electrical plants in Rhode Island uses coal to uh",
+                "label": "ny"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "generate electricity Um there doesnt seem to be much emission from them but Im not sure about the rest of the country",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I notice locally major problem is Kodak Um its interesting because in order to uh keep with the standards which which tend to be visible uh whats coming out of your smokestack they do all their emissions at night Uh so people get up -",
+                "label": "b"
+            },
+            {
+                "text": "Okay well is that right",
+                "label": "b"
+            },
+            {
+                "text": "Yeah people get up in the morning in that neighborhood and theyve got this black ash on their cars which you know seems to be -",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah surprise surprise",
+                "label": "b"
+            },
+            {
+                "text": "Yeah I mean I really think that if the had anything on the ball theyd go in there with few phosphorous grenades light up the sky photograph the emissions at that point and uh you know -",
+                "label": "b"
+            },
+            {
+                "text": "Yeah There there must be uh uh some of the some of the uh larger plants up uh up around one hundred twenty-eight",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Um weve got reports that uh - during the night seems like theyd blow off their their stacks from uh",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "the warehouses for powerhouses",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and they do that at night too because",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "employees been complaining that the cars have been pitted and you know spots all over them",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "So youre right they could do something - about about that I guess",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah That seems little ridiculous",
+                "label": "aa"
+            },
+            {
+                "text": "How are your uh your lakes and uh -",
+                "label": "qo"
+            },
+            {
+                "text": "Oh theyve been getting cleaner",
+                "label": "sd"
+            },
+            {
+                "text": "They have",
+                "label": "qy^d"
+            },
+            {
+                "text": "Sure But um yeah Im not sure how much the water pollution is is directly related to the air pollution other than acid rain yeah",
+                "label": "na"
+            },
+            {
+                "text": "Acid rain yeah thats thats what I was uh -",
+                "label": "b^m"
+            },
+            {
+                "text": "I mean the stuff Ive read recently in Technology Review basically indicates that acid rain may be little bit uh overstated That lot of the die off theyve seen in forests may not really be due to acid rain at all Um ye- - Im not an expert",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah no Didnt they just have an article oh on uh - they were dumping lime",
+                "label": "aa"
+            },
+            {
+                "text": "Up here",
+                "label": "b"
+            },
+            {
+                "text": "Up upstate New York somewhere",
+                "label": "sd"
+            },
+            {
+                "text": "I havent read that",
+                "label": "sd"
+            },
+            {
+                "text": "over huge areas",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "and they thought that was more beneficial because you know it it some of it does soak in and some of it runs off right away into the in to the streams and rivers and some of the fish were supposedly making comeback",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I cant remember where - I I read that recently somewhere and I cant remember where",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah thats interesti-",
+                "label": "b"
+            },
+            {
+                "text": "But I I thought it was up there So thats interesting because New Hampshire",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and parts of Vermont um they showed pictures of of extensive tree damage that they attributed to acid rain",
+                "label": "+"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "Um you kind of think its something else then",
+                "label": "qy"
+            },
+            {
+                "text": "Well thats what the environmentalists were claiming in this article So that -",
+                "label": "nd"
+            },
+            {
+                "text": "Oh they didnt say they didnt say what though they just said they thought it was -",
+                "label": "bf"
+            },
+            {
+                "text": "They didnt say what they just said they thought acid rains contribution may be less than was previously suspected Um that it may be other natural things at work Um",
+                "label": "na"
+            },
+            {
+                "text": "Uh natural disease",
+                "label": "bf"
+            },
+            {
+                "text": "Yeah so its its less than clear Like I said I dont remember the article that well",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "But um I dont know I mean what do you think we can uh I guess as individuals or as group do about uh air pollution",
+                "label": "h"
+            },
+            {
+                "text": "Uh we can demand uh more efficient automobiles for one thing I still think thats thats uh one of our major causes of pollutants",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh how we go about that its uh uh its little bit difficult",
+                "label": "sv"
+            },
+            {
+                "text": "I think its up to individuals too to ask automakers for",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "for less pollutant vehicles",
+                "label": "+"
+            },
+            {
+                "text": "Yeah you ne- yo- ne- I think you need vehicle something like uh Ralph Nader Naders Raiders or",
+                "label": "b^r"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "where uh or uh uh which has lot of members",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh if you can get those types of groups",
+                "label": "+"
+            },
+            {
+                "text": "Do you really think that new vehicles though is big problem I mean I remember reading an article that said like its uh the older polluters the the twelve and fifteen year old cars you know contribute like ninety percent",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "of the automobile pollution and the new cars its hardly is hardly anything",
+                "label": "+"
+            },
+            {
+                "text": "Yeah theyre better but how about all the trucks and buses that are out there Uh when was the last time you saw truck that didnt belch smoke or uh -",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah but doesnt that just mean theyre out of tune",
+                "label": "b"
+            },
+            {
+                "text": "Uh Im not really sure You think that that that the uh the trucking indus- industry is that uh incompetent that they wouldnt you know - fuel is is one of their biggest costs",
+                "label": "no"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "So you would -",
+                "label": "%"
+            },
+            {
+                "text": "But diesel engines",
+                "label": "%"
+            },
+            {
+                "text": "Yeah diesel engines",
+                "label": "b"
+            },
+            {
+                "text": "It you know its it - I mean they do generate lot of soot but that at least that kind of particulate comes out of the air pretty quickly",
+                "label": "%"
+            },
+            {
+                "text": "Yeah Yeah We could also uh push for legislation for uh rapid transit systems This country seems to be little behind on that",
+                "label": "b"
+            },
+            {
+                "text": "Yeah On the other hand most people dont use rapid transit because its so inconvenient",
+                "label": "b"
+            },
+            {
+                "text": "Um yeah but only because we got used to uh single person single car",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "driving lot of people dont even like to carpool",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "But we could that Thatll help",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "pollution air pollution The uh United States and Canada are I guess is is going into uh some types of agreements to limit uh whats being given out by power plants",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "I guess Canadas quite concerned that were sending lot of our stuff up there",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah sure",
+                "label": "b"
+            },
+            {
+                "text": "So thats helping",
+                "label": "sv"
+            },
+            {
+                "text": "Well what do you think about like device meter right on tail pipe and you pay the tax based on how much you polluted",
+                "label": "qw"
+            },
+            {
+                "text": "Now thats an idea dont say that too loud though because uh every city and town will have meter on your tail pipe generating generating revenue",
+                "label": "ba"
+            },
+            {
+                "text": "Well it just means if you dont pollute right or you pollute very little you dont have to pay any tax or you just buy one of these things and it it uh - maybe you you could probably devise them so it slowly closed off your tail pipe and uh the less you pollute the longer the devise lasts and if you pollute lot then it closed off your tail pipe and you couldnt start your car anymore",
+                "label": "sd"
+            },
+            {
+                "text": "Thats thats an interesting concept Is that your idea",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah but uh you know its uh - I guess the difficulty would be to that somebody could obviously just take it right off the tail pipe again so you probably would have to build it right into the muffler or something",
+                "label": "ny"
+            },
+            {
+                "text": "Well I was going to say right You could put it in you could you could it could be installed like catalytic converter",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "I mean I guess you could take those off too but -",
+                "label": "sv"
+            },
+            {
+                "text": "You could take ca- - but mufflers would be little more obvious if you took that off",
+                "label": "%"
+            },
+            {
+                "text": "Yeah if you can take muffler off and only replace - well not unless it was built into every muffler",
+                "label": "aa"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And thats -",
+                "label": "%"
+            },
+            {
+                "text": "But if you was talking about something which was more or less universal that uh busses and any kind of vehicle had to pay pollution tax uh this would penalize the heavy polluters and not penalize the light polluters",
+                "label": "sd"
+            },
+            {
+                "text": "Thats thats quite concept You should uh pursue that I think or patent it you know",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah patent it thats good idea",
+                "label": "aa"
+            },
+            {
+                "text": "If you could come up with device thats the thing",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "But it shouldnt be too hard to do something like that But thats thats thought No",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "youre right and that will solve uh lot of problems I dont know if you uh if you approached the automobile industry if they would be too keen on installing something like that",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "Uh but you know proposal to uh uh I guess the proper authorities -",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "well you might uh generate some -- -",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah the automobile regulatory agencies or something",
+                "label": "b"
+            },
+            {
+                "text": "-- yeah you might generate some interest in it But thats thats good idea Other than that Im not sure what what individuals can do other than like I said get involved through group or an organization",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            }
+        ]
+    }
+]

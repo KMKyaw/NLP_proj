@@ -1,0 +1,827 @@
+[
+    {
+        "conversation_id": "conv_2621",
+        "turns": [
+            {
+                "text": "Well lot of women are knowl- as knowledge about football as I am Can I guess your favorite team if you had one might be the Steelers",
+                "label": "sv"
+            },
+            {
+                "text": "Yes uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Well I can understand that I you know I kind of like the Cowboys too",
+                "label": "sd"
+            },
+            {
+                "text": "Do you",
+                "label": "qy"
+            },
+            {
+                "text": "Theyve had some great games in the past",
+                "label": "na"
+            },
+            {
+                "text": "uh-huh I I always enjoy watching the stal- the Dallas and Pittsburgh together",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh me too",
+                "label": "b"
+            },
+            {
+                "text": "You know",
+                "label": "+"
+            },
+            {
+                "text": "It wasnt nearly as much fun when Bradshaw was playing for you guys Ill tell you He lives in the Dallas area now as matter of fact",
+                "label": "sv"
+            },
+            {
+                "text": "Does he really",
+                "label": "qy"
+            },
+            {
+                "text": "Well actually its probably closer to Fort Worth but its its in the same area He bought uh bought big horse farm out in little town called Roanoke Texas",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But he pops up on the Dallas scene quite often As matter of fact there was some talk about trying to get him involved with the team management in some sort of coaching job",
+                "label": "sd"
+            },
+            {
+                "text": "Oh wo- - I wonder if hed ever do that",
+                "label": "ba"
+            },
+            {
+                "text": "I dont know hed be good at it Hes such motivator he",
+                "label": "no"
+            },
+            {
+                "text": "Yes",
+                "label": "aa"
+            },
+            {
+                "text": "primarily you know with the quarterbacks",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "That would be his specialty I wished I wished they could work something I really like him I really do",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh Well what about the Houston Oilers Do you like them",
+                "label": "b"
+            },
+            {
+                "text": "Yeah okay Id love to see Dallas and Houston play in Super Bowl That would be really great",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "That may not ever happen I dont know Uh Houston has had some wonderful talent you know down through the years and in the earlier years they really had some super teams",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh And Warren Moon",
+                "label": "b"
+            },
+            {
+                "text": "Thats right",
+                "label": "ba"
+            },
+            {
+                "text": "is is proving himself quite well right now",
+                "label": "+"
+            },
+            {
+                "text": "He certainly is hes very good",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Hes very good",
+                "label": "sv^r"
+            },
+            {
+                "text": "Hes one of the few uh Black quarterbacks that there are",
+                "label": "sv"
+            },
+            {
+                "text": "Thats right Randall Cunningham was with Philadelphia I guess last year but hes no longer with the team So youre right there are very few Black quarterbacks or at least that are starting anyway",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "How do you think the Steelers are going to do this year You have any idea",
+                "label": "qo"
+            },
+            {
+                "text": "I dont know I hope they they do better They they - during the past couple of years theyve been doing little bit better",
+                "label": "no"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But uh I think they still have little I think theyre still such young team I think they still have little bit to go before they reach the potential",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "that it did when ever Bradshaw was playing",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah that was just such super team",
+                "label": "b"
+            },
+            {
+                "text": "Or if they even reach that potential again you know they may never reach that again",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah Well thats tough - it would be tough to do it really would",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "They have such super team for years that won what four Super Bowls",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah four in row",
+                "label": "ny"
+            },
+            {
+                "text": "Four in row I dont know if that could ever be duplicated again or not",
+                "label": "sd^m"
+            },
+            {
+                "text": "Oh I dont know",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Shooting for one for the thumb now is what they were saying",
+                "label": "sd"
+            },
+            {
+                "text": "Thats right And -",
+                "label": "ba"
+            },
+            {
+                "text": "But basically everyone that was on the team then is gone now so -",
+                "label": "sd"
+            },
+            {
+                "text": "Thats right",
+                "label": "ba"
+            },
+            {
+                "text": "I think Mike Webster was left but then he he just left",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh yeah",
+                "label": "b"
+            },
+            {
+                "text": "Uh",
+                "label": "%"
+            },
+            {
+                "text": "He may have been the last of the old guard I dont know",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah I think he is I think he was",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh yeah they had such super team",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Have you been following the big draft that occurred yesterday",
+                "label": "qy"
+            },
+            {
+                "text": "No I didnt",
+                "label": "nn"
+            },
+            {
+                "text": "I see",
+                "label": "bk"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "Theres quite bit of activity now of course they had so many you know nice uh choices because their record was so lousy the last few years They picked up",
+                "label": "sv"
+            },
+            {
+                "text": "Uh",
+                "label": "%"
+            },
+            {
+                "text": "you know quite few of the - of course you never know The guys they pick you know - may never play game You jus- never know its its gamble it really is",
+                "label": "+"
+            },
+            {
+                "text": "Yeah uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "They may get hurt or not be able to participate at that level if you know -",
+                "label": "sd"
+            },
+            {
+                "text": "Well who would you say is your favorite player or has ever been your favorite player",
+                "label": "qw"
+            },
+            {
+                "text": "Ever been",
+                "label": "qy"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Probably an old guy that played probably before you were born his name was Sam Huff He used to play for the New York Giants",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "That was one of the toughest guys that Ive ever seen in my life",
+                "label": "sd"
+            },
+            {
+                "text": "Really",
+                "label": "b"
+            },
+            {
+                "text": "as far as you know dedication He just went all out every single play",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Of course there have been some other great ones too Dick Butkis and Bradshaw you know theres been so many",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah ye- -",
+                "label": "b"
+            },
+            {
+                "text": "But if I had to pick one I would probably pick Sam Huff as matter of fact",
+                "label": "sd"
+            },
+            {
+                "text": "Oh you know thats really funny um well I I come from large family and the- theres quite few boys so thats kind of how I got in with the football Either watch that or watch nothing",
+                "label": "sv"
+            },
+            {
+                "text": "Thats right",
+                "label": "b"
+            },
+            {
+                "text": "And um at one time I could name all the players on the Steelers you know",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And but even when Bradshaw was playing I I dont know I I didnt particularly care for him",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I thought he was kind of cocky or something",
+                "label": "sd"
+            },
+            {
+                "text": "He is he is",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "of course the- quarterback has big ego",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "They really - they have to have they cant survive",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "They always think they can win you know which is the way it should be",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Boy he never gave up Ill tell you",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah him and Franco Harris I really didnt care for the either two of them",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I mean they were good but I you know you couldnt deny that",
+                "label": "sv"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "But I didnt I thought you know well I just didnt really care for either one of them",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh today my favorites out of those guys were probably um Lambert",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Ham",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and uh Stallworth and Swan",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh absolutely I cant disagree with that They were super players they really were",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "They really -",
+                "label": "%"
+            },
+            {
+                "text": "I I I like not just with the Pittsburgh I like watching on Saturday afternoons when theyll have like the plays or the the best plays from",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "you know from the week or something",
+                "label": "+"
+            },
+            {
+                "text": "Yeah highlights yeah",
+                "label": "b"
+            },
+            {
+                "text": "Yeah I love watching that Then I like watching their bloopers too you know",
+                "label": "b"
+            },
+            {
+                "text": "Yeah yeah thats kind of funny too as matter of fact Some of them bit embarrassing Yeah well they make mistakes too I guess",
+                "label": "b"
+            },
+            {
+                "text": "Yeah uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Absol- -",
+                "label": "%"
+            },
+            {
+                "text": "its funny that more people dont get hurt",
+                "label": "sv"
+            },
+            {
+                "text": "Absolutely",
+                "label": "aa"
+            },
+            {
+                "text": "You know especially I would say the receivers",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh oh they",
+                "label": "b"
+            },
+            {
+                "text": "when theyre in the air and they get tackled",
+                "label": "+"
+            },
+            {
+                "text": "They take such beating",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah its funny some of their necks dont get broken",
+                "label": "aa"
+            },
+            {
+                "text": "Absolutely I dont know how they do it Its it must just take hundred percent concentration I guess because they know theyre going to get hit its just matter of how hard you know or where",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah An they have to be in ideal physical shape basically",
+                "label": "b"
+            },
+            {
+                "text": "Oh absolutely They look like sometimes theyre just broken in two like match stem Gosh what beating - they really do take beating they really do",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah Well what did you think of um couple years ago for the Bears the Refrigerator",
+                "label": "b"
+            },
+            {
+                "text": "I think he was just probably passing phenomena I think I dont know I Im knowing what you know - of course Mike Ditka was in Dallas for years and years as coach is knowing his or you know knowing of his temperament Im just surprised he ever you know kept the guy around I really am Hes such hes about half hot head anyway such temper",
+                "label": "sv"
+            },
+            {
+                "text": "Oh you know and to me he does um oh hes just so big and fat",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "he doesnt even look like hes in shape Hes just so big no one can move him",
+                "label": "sv"
+            },
+            {
+                "text": "Thats right yeah absolutely Theres just so much mass there I guess they just cant - I dont know you know I - probably the guy is you know probably physically strong I you know - obviously not very fast",
+                "label": "ba"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But I guess its just like you say mass that nobody can seem - to get out of the way As far as him scoring touch downs you know I think that was kind of weird I dont know Dallas has guy uh his name is Nate Newton now he has real weight problem too He fights it every single year but he manages to still keep playing but",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "he has terrible weight problem",
+                "label": "+"
+            },
+            {
+                "text": "Wow",
+                "label": "ba"
+            },
+            {
+                "text": "They wa- - the coaches watch him all year long They they weigh him several times year just to make sure hes not you know completely out of control",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But I guess most every team has so- has someone like that I dont -",
+                "label": "sv"
+            },
+            {
+                "text": "Oh yeah theres there are some really big guys playing in football",
+                "label": "b"
+            },
+            {
+                "text": "Absolutely they get bigger and bigger it seems every year",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I guess you have to to you know to stay in the game I guess",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah you would uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Um now who - would you say that you have fav- - I mean other than Dallas would you say that you have uh favorite quarterback I mean the quarterbacks seem to get most of the the attention you know",
+                "label": "%"
+            },
+            {
+                "text": "Oh yeah sure well youd have to uh or I would have to say you know someone like Montana I guess whos done so well for so many years",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah I re- I I enjoy watching him play",
+                "label": "b"
+            },
+            {
+                "text": "Yeah his age is about to catch up with him though Hes no Spring chicken anymore",
+                "label": "b"
+            },
+            {
+                "text": "No but hes still performing",
+                "label": "b"
+            },
+            {
+                "text": "And like you say Warren Moons an excellent Warren Moons an excellent - But hes very exciting to watch",
+                "label": "sv"
+            },
+            {
+                "text": "Yes he is",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh sure",
+                "label": "b"
+            },
+            {
+                "text": "I I I enjoy watching him also",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh absolutely",
+                "label": "b"
+            },
+            {
+                "text": "What about uh Marino",
+                "label": "qo"
+            },
+            {
+                "text": "Uh Im - obviously hes very good quarterback Id I never was you know too whole lot of big fan you know",
+                "label": "%"
+            },
+            {
+                "text": "I think hell get better as he gets older",
+                "label": "sv@"
+            },
+            {
+                "text": "Yeah he may uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Because he he well wa- he was the youngest quarterback there was wasnt he",
+                "label": "+@"
+            },
+            {
+                "text": "Yes he was I believe thats right at one point in time Ye- - but hes very young fellow",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Yeah of course quarterback can look so good if hes got lot if hes got good supporting cast you know",
+                "label": "b"
+            },
+            {
+                "text": "Thats true thats true",
+                "label": "ba"
+            },
+            {
+                "text": "If not he gets beat to death like poor old Troy Aikman has the last couple of years anyway you kno- - we- - Dallas did better last year hopefully theyll do better this year",
+                "label": "sv"
+            },
+            {
+                "text": "Uh probably around twelve uh-huh Yeah uh I didnt I dont know I I just think you know Marino will get better and uh his teams not as good as what it was when he went to the Super Bowl",
+                "label": "t3"
+            },
+            {
+                "text": "Thats right",
+                "label": "ba"
+            },
+            {
+                "text": "you know so -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Miamis had some down years too",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But they all do I guess its its cyclical I guess",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "As the players get older get slower",
+                "label": "+@"
+            },
+            {
+                "text": "Yeah Thats true ye- - and with age comes",
+                "label": "b"
+            },
+            {
+                "text": "Yeah with - yeah",
+                "label": "b"
+            },
+            {
+                "text": "you know - the the - Im sure arthritis sets in with them",
+                "label": "+"
+            },
+            {
+                "text": "Oh yes very much so",
+                "label": "aa"
+            },
+            {
+                "text": "you know",
+                "label": "+"
+            },
+            {
+                "text": "Hip injuries and things like that yeah",
+                "label": "^2"
+            },
+            {
+                "text": "Right yeah",
+                "label": "b"
+            },
+            {
+                "text": "Yeah that that forces lot of the guys to get out of the game",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh and theyre so young",
+                "label": "b"
+            },
+            {
+                "text": "Thats right",
+                "label": "ba"
+            },
+            {
+                "text": "but theyre retired you know and their so young still",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh yeah I read some time well not too long ago that the average uh professional career only lasts seven years",
+                "label": "b"
+            },
+            {
+                "text": "Oh",
+                "label": "+@"
+            },
+            {
+                "text": "So thats when you think about it thats really not very long time of course",
+                "label": "sv"
+            },
+            {
+                "text": "Oh yeah but then you think about how many have been in there longer than that",
+                "label": "b"
+            },
+            {
+                "text": "But if the average is seven years that means lot of guys dont make it seven years you know",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah lot of them would have to get out like in just couple",
+                "label": "b"
+            },
+            {
+                "text": "Thats right yeah should this be two slash units thats ri- -",
+                "label": "ba@"
+            },
+            {
+                "text": "Holy smokes I didnt that doesnt seem like very long",
+                "label": "sv"
+            },
+            {
+                "text": "Thats thats pretty short career on average",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Of course they play their you know cards right and do some good investments theyll you know theyll do all right",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But lot of them dont unfortunately",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah Um what do you think of the uh Raiders used to the the Oakland -",
+                "label": "b"
+            },
+            {
+                "text": "Yeah they theyre always branded you know as bunch of outlaws and if their if their you know arrest record wont let abl- wont let them play anywhere else they seem to go to they seem to go to the Raiders But that just may be you know perceived - you know perception - I dont know",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Al Davis is hes kind of strange character strange strange looking guy Apparently hes kind of wild guy I dont really know for sure Theyve had some excellent teams though obviously",
+                "label": "sv"
+            },
+            {
+                "text": "Yes they have",
+                "label": "aa"
+            },
+            {
+                "text": "Im not sure theyve yet decided where they want to play they keeping talk about you know going -",
+                "label": "sv"
+            }
+        ]
+    }
+]

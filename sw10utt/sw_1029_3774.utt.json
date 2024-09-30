@@ -1,0 +1,451 @@
+[
+    {
+        "conversation_id": "conv_3774",
+        "turns": [
+            {
+                "text": "So Ive been concerned about crime lately",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh its really scary to listen to the news every night and --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- to hear about all the problems I wondered if you were taking any special precautions in your neighborhood",
+                "label": "+"
+            },
+            {
+                "text": "Well I I think we have neighborhood watch",
+                "label": "na"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I think Im not real - we dont get real involved Were never home so -- -",
+                "label": "sd^r"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh uh well I know they were going to start one but uh I havent heard any more since so I dont really know But as far as personally doing something no",
+                "label": "sd"
+            },
+            {
+                "text": "No um",
+                "label": "b"
+            },
+            {
+                "text": "How about you",
+                "label": "qo"
+            },
+            {
+                "text": "Well we moved in when we moved in there there wasnt any outside lights and --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- so weve been trying to install some uh outside lights and --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- we put up fence in the backyard Mostly you know not so much thinking that we would deter someone to break in but that our children would be safe --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- playing in the yard",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know",
+                "label": "+"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "And I guess most of the crime that Im concerned about generally is against my kids Its scary to send them off down the street few houses should this end the slash unit",
+                "label": "sd"
+            },
+            {
+                "text": "Oh Im sure it is",
+                "label": "ba"
+            },
+            {
+                "text": "To let them go play with someone and --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- because of what you hear about people getting picked up and --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- everything and --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- so I have to spend good deal of time watching them walk down the street and say call me before you leave and --",
+                "label": "+"
+            },
+            {
+                "text": "Um",
+                "label": "%@"
+            },
+            {
+                "text": "-- come back and -",
+                "label": "+"
+            },
+            {
+                "text": "I would too if I had kids We dont have any We did install uh motion detector light back in our driveway",
+                "label": "+@"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And that was mainly it was so when we pulled up the light would come on but also we have boat back there --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and we have neighborhood kids that like to get into mischief so -- -",
+                "label": "sd"
+            },
+            {
+                "text": "Oh no",
+                "label": "ba@"
+            },
+            {
+                "text": "-- we thought with that light you know it would maybe keep them from doing something to the boat",
+                "label": "sd"
+            },
+            {
+                "text": "Thats good thought",
+                "label": "+@"
+            },
+            {
+                "text": "Yeah so -",
+                "label": "b"
+            },
+            {
+                "text": "Well weve been real lucky that - I dont believe theres been you know much trouble in our neighborhood but it --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but it does seem there that there is lot more here in Plano of uh just bored teenagers",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah thats -- -",
+                "label": "b"
+            },
+            {
+                "text": "Vandalism",
+                "label": "sd"
+            },
+            {
+                "text": "-- what it is We live in Coppell and and thats pretty much what it is is --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know kids that are bored like you say",
+                "label": "+"
+            },
+            {
+                "text": "Yeah and they dont uh - I know my sister-in-law who lives in our neighborhood --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- theyve had their - they parked their car out on the street before and its been spray painted and --",
+                "label": "+"
+            },
+            {
+                "text": "Oh no",
+                "label": "ba"
+            },
+            {
+                "text": "-- few things like that and course you know - I dont know Im getting scared for kids to get older because you dont know if its someone their teenagers know --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- who and or is it just random --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- crime but uh weve been real lucky that no one in my family with the anywhere that they live has had been victim of you know serious crime",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "But uh its really scary to know that you can live normal life and try to be good citizen --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but it doesnt mean youll be safe and",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh I know it",
+                "label": "b"
+            },
+            {
+                "text": "But I guess I take lot of uh little bit of uh safety in knowing that lot of the crimes that they report are like drug related or --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "+@"
+            },
+            {
+                "text": "-- uh things that places usually that I wouldnt be going",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And things I usually wouldnt be involved in -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And uh theres not so much of it completely innocent --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- victims compared to - but it is scary",
+                "label": "+"
+            },
+            {
+                "text": "Yeah it is",
+                "label": "b"
+            },
+            {
+                "text": "Were you --",
+                "label": "qy"
+            },
+            {
+                "text": "Really is",
+                "label": "%"
+            },
+            {
+                "text": "-- raised in this area",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Im originally from Chicago but Ive been in this area in the Lewisville area for uh lets see about twenty-three years",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh So has it been getting worse that you noticed or --",
+                "label": "b"
+            },
+            {
+                "text": "Oh --",
+                "label": "na"
+            },
+            {
+                "text": "-- about the same",
+                "label": "+"
+            },
+            {
+                "text": "-- definitely",
+                "label": "+"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "In the last few years I think and uh like I say - now I dont think necessarily in this area here but --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- just Dallas in general I dont know I think back of when I was uh younger and in my party days some of the things I did you know I wouldnt be caught dead like being out that late at night",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "In the dark parking lot",
+                "label": "sd"
+            },
+            {
+                "text": "Right Take lot of chances Well I noticed that uh that uh when - we we moved here from Houston --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- not too long ago",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And so of course we were interested in schools --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh but the schools in Houston all have big tall fences around them and theyre not really very safe --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and so its been interesting to come to the Plano area where the schools dont have fences at all around them and its just whole different idea that that at least the people here feel that their kids are pretty safe at school",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And in Houston that there was the mentality that they werent safe at school",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "And so thats been something thats been good for the you know in this area that you feel like uh you know theres not going to be too many knifings or shootings --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- at school today",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I guess I dont know how people live with that --",
+                "label": "sv"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "-- every day",
+                "label": "+"
+            },
+            {
+                "text": "I dont either",
+                "label": "aa"
+            },
+            {
+                "text": "Pretty scary",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah um",
+                "label": "aa"
+            },
+            {
+                "text": "But anyway well I guess I wont take up more of your ti-",
+                "label": "fc"
+            }
+        ]
+    }
+]

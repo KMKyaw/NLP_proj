@@ -1,0 +1,471 @@
+[
+    {
+        "conversation_id": "conv_2962",
+        "turns": [
+            {
+                "text": "Well uh it seems to me that uh that - I do not know whether the jury system uh - I I should not say I do not know I do not feel very uh stronger that the jury system should be changed It seems to have worked uh time immemorial And when uh difficult decisions uh are made uh uh uh they generally prove out to be right by things that occur later on",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh I know in some cases now in some states depending on the criminal code uh unanimous verdict is not required And indeed some juries are no longer twelve people they are down to as little as small as six people in I think in petty in in uh in uh in minor felonies and uh and misdemeanor trials",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "Uh I think that the judges should be left to do most of the sentencing simply because uh there is always uh there is there is always jury that might be swayed uh by the moment uh to either to be too lenient or too vengeful I guess",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah On the other hand uh attorney uh uh justices are more apt to uh understand you know the cr- the prison crowding problems and things like that",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^r"
+            },
+            {
+                "text": "and have that sway their decisions one way or the other",
+                "label": "+"
+            },
+            {
+                "text": "But I mean is not that",
+                "label": "qy"
+            },
+            {
+                "text": "You know",
+                "label": "+"
+            },
+            {
+                "text": "uh is that reflection then of what is really happening in the real world If if if they keep giving everybody hundred year sentences and the people in various states it does not seem that people want to be taxed to build more prisons Or even in for that matter uh repair the uh the lack of judges and and and other uh -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I think that is what is happening I think uh the judges are trying to save the people from having to the cost of new prisons",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "They -",
+                "label": "%"
+            },
+            {
+                "text": "yeah you know that might be it I mean they",
+                "label": "aa^r"
+            },
+            {
+                "text": "they are saying",
+                "label": "sv(^q)"
+            },
+            {
+                "text": "they certainly -",
+                "label": "+"
+            },
+            {
+                "text": "oh well you know",
+                "label": "+"
+            },
+            {
+                "text": "I do not",
+                "label": "sd"
+            },
+            {
+                "text": "the the people cannot --",
+                "label": "+"
+            },
+            {
+                "text": "I dont know how --",
+                "label": "+"
+            },
+            {
+                "text": "-- afford it",
+                "label": "+"
+            },
+            {
+                "text": "-- it is in Virginia but in Florida now uh uh uh at eighteen years someone was just sentenced to eighteen years I heard it on TODAY uh without any specific recommendation for uh uh uh uh uh uh waving the normal uh procedures And the eighteen years will uh translate into something like uh four point seven if every if the if the prisoner is model prisoner",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and indeed the present overcrowding conditions uh prevail Plus I guess there was some credit for time this guy had already spent in jail waiting for trial",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "So uh yeah you might be right about that I I I do not know it just seems to me that only about uh from what I read only about ninety percent of the ca- only about ten percent of the pa- cases come for trial anyway",
+                "label": "aa"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And uh only about uh - four or five percent of uh - in the in the very end - or less than less than half the trials that go to uh less than half the cases that go to trial uh end up - with",
+                "label": "sd"
+            },
+            {
+                "text": "With conviction",
+                "label": "^2"
+            },
+            {
+                "text": "uh with the jury actually making the verdict",
+                "label": "+"
+            },
+            {
+                "text": "Oh okay",
+                "label": "b"
+            },
+            {
+                "text": "That most of it is plea bargained uh half way through or or most of the cases are plea bargained anyway",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "But uh uh how do you feel about the uh about the jury system itself Do you do you think that should be changed Or do you do you know in Virginia whether it is if they have smaller juries or -",
+                "label": "qo"
+            },
+            {
+                "text": "Uh I do not know exactly what the size of the juries I know one of my friends was uh uh brought up for jury duty",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "For - and he only heard very you know piddly type cases Most of it was uh robberies or things like that you know it was not any serious crimes So apparently even for the smallest crimes they give the person the you know any felony anyways",
+                "label": "%"
+            },
+            {
+                "text": "Yeah Well I guess we -",
+                "label": "b"
+            },
+            {
+                "text": "Th- they give the person the option for jury",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I guess we always focus on criminal trials with th- with the jury But I know you have right to ask for jury in",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "in any sort of case that even where damages are are are uh are the result of some sort of uh an action that you are bringing against someone else You can ask --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "-- for that to be heard before jury Takes heck of long time I guess to get there --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "-- in some states I I I do not know uh I should imagine Virginia from what I read uh uh is like every other state It it is faced with uh uh enormous costs to maintain the jury system and the prison system and the entire trial system Because I guess",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "everywhere I read that there is shortage of judges",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b^r"
+            },
+            {
+                "text": "Not that they wont appoint them but there is no budget for them I guess Or",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "and the courthouse that goes with them and the bailiffs and the clerk uh",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Whatever",
+                "label": "b"
+            },
+            {
+                "text": "court clerks So it seems uh - no I I I do not think I would change it The more I verbalize it I I do not think I would want to change the system",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "I do not --",
+                "label": "sd"
+            },
+            {
+                "text": "uh I do not think I would either",
+                "label": "sd"
+            },
+            {
+                "text": "-- know what we would replace it with",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I know it uh does seem like the the the the purpose of getting people in jail so that you know the the - I cannot think of the word I am looking for Anyway the deterrent",
+                "label": "aa"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "For people to to commit the cri- uh to not to commit the crime is sort of gone away People have - I do not know they just do not care any more The benefit I guess of crime outweighs what the deterrent is",
+                "label": "+"
+            },
+            {
+                "text": "Uh and yet --",
+                "label": "sv"
+            },
+            {
+                "text": "You know people that -",
+                "label": "%"
+            },
+            {
+                "text": "-- there are there are so many there are so many people in prison I mean the prison population uh as far as I I uh you know - my impression of it is that it has that it has doubled in the last ten years and tripled in the last twenty",
+                "label": "+"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "I mean it so has our I guess our population has grown some too But there there definitely is uh uh you know to me the one of the worst things that could ever happen uh from what I read and see and understand I mean I do no think I could handle prison",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I mean it would be --",
+                "label": "sv"
+            },
+            {
+                "text": "Well I would be interested in --",
+                "label": "sd"
+            },
+            {
+                "text": "-- very difficult",
+                "label": "+"
+            },
+            {
+                "text": "-- finding out what the uh percentage of drug related type things are",
+                "label": "+"
+            },
+            {
+                "text": "Well there must be",
+                "label": "sv"
+            },
+            {
+                "text": "and uh -",
+                "label": "%"
+            },
+            {
+                "text": "ca- very great degree of that",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But but there again I I do not know if the the jury system itself uh comes in to play there I would think that - one of the things that sort of bothers me is the ability - of course th- it is constitutional right that the press must have here is th- the interviewing of jurors after the trial I mean that it seems to me that that that when jury makes decision they should not be asked uh before television cameras and newspaper reporters how they reached that decision I mean I do not -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I imagine there is certain certain right of the press to have the ability to ask that But I I would think I if I did anything I would protect the juror from from any sort of an inquisition after",
+                "label": "sv"
+            },
+            {
+                "text": "Well I know uh on the other hand though when uh- after the Barry trial",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "up here you know the big local --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^r"
+            },
+            {
+                "text": "-- trial",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah Well",
+                "label": "b"
+            },
+            {
+                "text": "as well as national -",
+                "label": "+"
+            },
+            {
+                "text": "I do lot of business up in Washington I was there during the during the trial actually yeah",
+                "label": "+"
+            },
+            {
+                "text": "Yeah And the opposite was true of me Uh after the case was over I was like somebody get ahold of these people and find out why in the world did they vote the way they did",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "you know",
+                "label": "+"
+            },
+            {
+                "text": "yeah yeah",
+                "label": "b^r"
+            },
+            {
+                "text": "It was like well picture is not good enough We want to see I do not know what they wanted honestly Did they want the guy to I do not know - qy but its abandoned I mean just because you feel like he was being kicked on which he certainly was you know I think I - no doubt in my mind the federal government picked him out and selected him to be --",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Oh I felt that way",
+                "label": "aa"
+            },
+            {
+                "text": "-- prosecuted",
+                "label": "+"
+            },
+            {
+                "text": "I felt",
+                "label": "sd"
+            },
+            {
+                "text": "But --",
+                "label": "sv"
+            },
+            {
+                "text": "I felt -",
+                "label": "+"
+            },
+            {
+                "text": "-- it does not matter The guy was obviously --",
+                "label": "+"
+            },
+            {
+                "text": "no but -",
+                "label": "b"
+            },
+            {
+                "text": "-- guilty",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I always balanced in the in the situation I remember the jurors uh I thought to myself how did how did - they only I think they only uh found him --",
+                "label": "b"
+            },
+            {
+                "text": "One one count",
+                "label": "^2"
+            },
+            {
+                "text": "-- guilty on one count Which was uh not even which was class something felony Which was not even punishable",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "uh uh to the degree that they thought it But I do not know maybe when you are there in the - in the courtroom yourself and you are sitting there and you have got to make judgment on somebody - And the prosecutors do lousy job or maybe the evidence was not as sensational as the media presented it I mean I",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I am not making excuses for That might be it",
+                "label": "+"
+            },
+            {
+                "text": "Well yeah I think we are getting -",
+                "label": "b"
+            },
+            {
+                "text": "I think I am getting call coming in",
+                "label": "sd"
+            },
+            {
+                "text": "Oh Okay",
+                "label": "b"
+            },
+            {
+                "text": "All right nice --",
+                "label": "fc"
+            },
+            {
+                "text": "Well it has been nice --",
+                "label": "fc"
+            },
+            {
+                "text": "-- talking with you",
+                "label": "+"
+            },
+            {
+                "text": "-- talking --",
+                "label": "+"
+            },
+            {
+                "text": "Thank you",
+                "label": "ft"
+            },
+            {
+                "text": "-- to you uh-huh Bye-bye",
+                "label": "+"
+            }
+        ]
+    }
+]

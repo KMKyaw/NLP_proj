@@ -1,0 +1,295 @@
+[
+    {
+        "conversation_id": "conv_2293",
+        "turns": [
+            {
+                "text": "Okay",
+                "label": "o"
+            },
+            {
+                "text": "Well discussing air pollution today I guess",
+                "label": "sd^t"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Um uh well give me your first impressions",
+                "label": "ad"
+            },
+            {
+                "text": "Uh I dont know theres lot of air pollution",
+                "label": "h"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Um I think industries and companies provide lot of it --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and with uh I guess with the oil burning over in Kuwait and stuff that would have lot of air pollution in it",
+                "label": "sv"
+            },
+            {
+                "text": "Uh puts whole - yeah gets whole new picture to what real air pollution can be but uh that stuff going on over there - What what uh what part of Pennsylvania are you in",
+                "label": "%"
+            },
+            {
+                "text": "Um Im north of Pittsburgh so -",
+                "label": "sd"
+            },
+            {
+                "text": "Okay okay so its its amazing too you know with that with the oil wells burning over there thats the exact same stuff thats coming out of cars every day just in uh just in little different grade I guess",
+                "label": "bk"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But uh in Dallas weve got weve just uh brought in whole new set of requirements on inspections and things like that for cars because uh people just dont use mass transit and stuff in Dallas Everybody loves their car and you see an awful lot of uh one person vehicles on the road on during rush hours That seems to be our biggest problem down here Um you know theres uh theres lot of industry around but uh its not its - any pollution that industrys dumping around here is not going into the air Its typically water type situation",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Um We have couple we have like steel mill and couple refineries and stuff and I know theres lot of air pollution going in there and like they they get fined whenever they do the air pollution --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but the fine is nothing you know",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah its its",
+                "label": "b"
+            },
+            {
+                "text": "its like nothing to them",
+                "label": "^2"
+            },
+            {
+                "text": "like like two hours of output or something like that",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "Thats true thats true",
+                "label": "ba"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Yeah I uh I grew up in South Dakota so I was never I was never exposed --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- to anything of of the of the sort Um there were always people and what not were always telling us that uh farm chemicals and what not were destroying our water system and all that --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but we just we just never saw the results There was there was dust in the air during planting seasons and what not but that that was all we ever saw and then five years ago I moved to Dallas and I suddenly started to understand what burning eyes and all that stuff is about that Id always heard about It uh its it gets its real depressing In the morning sometime you can tell if its good day or bad day by uh how far out from downtown uh you can be on the road and still not see it",
+                "label": "sd"
+            },
+            {
+                "text": "Oh my God",
+                "label": "ba"
+            },
+            {
+                "text": "And uh yeah I mean its not - I dont think Dallas is considered uh real bad place for air pollution but you you can tell you can tell the differences in the days when its when the haze is kind of yellowish gray instead of just being foggy misty color --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh it its little its little disappointing sometimes you start to realize what youre breathing",
+                "label": "sd"
+            },
+            {
+                "text": "Uh yeah but I dont know what they can do to really prevent it you know - Like how - what can they do about the oil burning over in Kuwait What you know - I mean they fine the industries but you know that doesnt seem to stop them there --",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- I dont know what else they can do",
+                "label": "sd"
+            },
+            {
+                "text": "Right It its that there really isnt whole lot Its one of those uh its one of those things that if they do little bit and uh and you know - every little bit does help I do believe that Um but I also believe that the earth is kind of self-regulating system and uh it will clean itself up eventually It - the whole idea is not to not to push the limit too hard I guess --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- let the you know let the natural natural systems take care of the problem as much as possible",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah I I - yeah I just dont understand you know what else anyone can do about it I dont think its something that people really think about either",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know its I mean it it should probably be big issue you know because its its doing lot of damage but I - its something you know - I dont think many people really think about it because its nothing they - I dont think we really have too much control over it",
+                "label": "sv"
+            },
+            {
+                "text": "Right And its one of those things - it its so hard to measure what what the damage is --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- its kind of like oh - I guess its kind of like kind of like cigarette smoking you know It it could go on for years and years until they start to see some results and people can actually actually say Yeah its its its doing doing some damage --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and somethings got to be done Um theres you know theres lot of things like that It - you can uh you can pound on something for long time before it finally breaks but until it breaks you dont really know that there you were doing anything to it",
+                "label": "+"
+            },
+            {
+                "text": "Yeah exactly",
+                "label": "b"
+            },
+            {
+                "text": "But uh -",
+                "label": "%"
+            },
+            {
+                "text": "Well I really dont know too much else about it",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah well thats thats - I think we both agree its its one of those deals that uh - I just think theres lot of other problems right now --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh weve done lot to take care of it",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And uh -",
+                "label": "%"
+            },
+            {
+                "text": "Yeah we have tried - I mean you know and um I I know where you know where couple of the mills that have - I know they put things on their stacks you know to filter the smoke and do all kinds of things but I mean every now and then it breaks you know and --",
+                "label": "b"
+            },
+            {
+                "text": "Oh sure",
+                "label": "b"
+            },
+            {
+                "text": "-- and you just have smoke going out into the air for day or two until you can get it fixed",
+                "label": "+"
+            },
+            {
+                "text": "Sure",
+                "label": "b"
+            },
+            {
+                "text": "and so so you know its something we we have tried to help",
+                "label": "sd"
+            },
+            {
+                "text": "Oh theres no doubt about it",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I dont know if you ever happened to see some of the like Twenty Twenty and what not about Rumania and East Germany when they first got pictures out of there --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- about how some of their systems had been running for twenty and thirty years --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh you know they had absolutely no regulations no controls whatsoever and they had destroyed entire forests and what not just because the air was so polluted Thats thats the kind of things that uh you dont see in this country and thats thats why I think that you know its - I dont know if you can ever do enough but uh I think its all relative to the to the time and place and I think right now its its pretty much under control",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah okay well -",
+                "label": "b"
+            },
+            {
+                "text": "All righty",
+                "label": "fc"
+            },
+            {
+                "text": "uh-huh Its been nice talking to you",
+                "label": "fc"
+            },
+            {
+                "text": "Well you bet",
+                "label": "fc"
+            },
+            {
+                "text": "Okay bye-bye",
+                "label": "fc"
+            },
+            {
+                "text": "Bye",
+                "label": "fc"
+            }
+        ]
+    }
+]

@@ -1,0 +1,675 @@
+[
+    {
+        "conversation_id": "conv_3151",
+        "turns": [
+            {
+                "text": "Well how do you feel about spot test- spot testing for drugs",
+                "label": "qo"
+            },
+            {
+                "text": "Well basically I think it would be good idea myself I uh I think if somebodys not on drugs they have no reason you know to be afraid of it",
+                "label": "nd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh I do think that there has to be some controls uh like I dont think one test positive should uh be uh the end of it you know",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "I I think they should test more than once",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah its its --",
+                "label": "aa"
+            },
+            {
+                "text": "It -- -",
+                "label": "%"
+            },
+            {
+                "text": "its refreshing to hear somebody that has similar opinion as mine I mean all these people that are against it that may the- you know they may not even be on drugs They they call it an invasion of privacy",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I dont see that To me that just doesnt sound like valid argument because this company is paying you good money that youre working for --",
+                "label": "sv"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "-- and they I believe that they have the right to know if youre using dangerous substance",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "aa"
+            },
+            {
+                "text": "But -",
+                "label": "%"
+            },
+            {
+                "text": "Theres so many jobs that uh really have other peoples lives in their hands or even their own life and you know and its uh -- -",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh how can you do anything about problem besides if you dont know about it",
+                "label": "qh"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "You know and I just um I I think --",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- there definitely needs to be some control to it I guess it is possible to have false positive report",
+                "label": "+"
+            },
+            {
+                "text": "Yes No I I I agree that you know you there needs to be well thought out sane approach to how to administer that program",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Just because you you something can get mixed in the mail or --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh the chemicals could react incorrectly than than what you would expect them to And yeah you you know",
+                "label": "+"
+            },
+            {
+                "text": "Or somebodys test gets mixed up with somebody elses",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "I mean those things do happen",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Uh I certainly wouldnt want peoples lives ruined --",
+                "label": "sd"
+            },
+            {
+                "text": "Right and you know Ive -- -",
+                "label": "aa"
+            },
+            {
+                "text": "-- uh wrongly",
+                "label": "+"
+            },
+            {
+                "text": "-- the the the company that I work for uh has just recently well you know within the last couple of years instituted for all new hired employees - they submit to urine test",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And they they say that theres been you know they they theyve also implemented random testing",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And it hasnt happened to me in the couple of years that you know its been in progress --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but uh I I fully agree with it and theres you know theres all these memos going around about folks that are disgruntled and feel its an invasion of privacy and --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- I I agree with you If if if you feel its an invasion of privacy youve youve probably got something youre trying to hide",
+                "label": "+"
+            },
+            {
+                "text": "Yeah and you maybe need to look for some other type of job to do --",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- that uh doesnt require the testing",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Uh to me its to me its not an invasion or privacy I think its people have right to know if if uh their their life maybes in jeopardy or uh",
+                "label": "sv"
+            },
+            {
+                "text": "Or the quality of their product",
+                "label": "^2"
+            },
+            {
+                "text": "Yeah Their work the work theyre doing for their company Uh those things are all affected If not immediately it certainly does eventually",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I think thats where lot of the problem is at first It doesnt seem to uh bother the quality of work --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but eventually it does",
+                "label": "sv"
+            },
+            {
+                "text": "Right because it usually requires more and more of that substance that youre misusing --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "aa"
+            },
+            {
+                "text": "-- to get the same effect",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "Course I feel the same way on the AIDS problem I I dont think thats an invasion of privacy thats the only communicable disease that theyre not allowed to test for you know and its destroying lot of --",
+                "label": "sd"
+            },
+            {
+                "text": "and then --",
+                "label": "sd"
+            },
+            {
+                "text": "-- peoples lives",
+                "label": "+"
+            },
+            {
+                "text": "-- and one of the few that they dont have cure for",
+                "label": "+"
+            },
+            {
+                "text": "Yeah and its you know its its destroying peoples lives and I I think that person plus anybody in danger should should - know about it and be aware of it",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "I dont know Its its kind of hard to - I guess the gay movement has had lot to do with considering that that uh an invasion of privacy Of course thats not supposed to be what were talking about today I guess So",
+                "label": "h"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I kind of get off on tangent here Uh do you work for uh Texas Instruments",
+                "label": "+"
+            },
+            {
+                "text": "Yes I do",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And Im Im down in the the central but I dont know how familiar you are with Texas but Im in we live in town uh near town called Temple",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "Which is right in between Waco and Austin on the freeway",
+                "label": "+"
+            },
+            {
+                "text": "Oh thats probably why my brother did live in Grapevine Texas Thats near Dallas",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Were probably about two two and half hours south of him",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "Its pretty hot down there probably",
+                "label": "qy^d"
+            },
+            {
+                "text": "Oh my",
+                "label": "na"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Its actually we got about two inches of rain in about three hours yesterday",
+                "label": "sd"
+            },
+            {
+                "text": "Oh did you really",
+                "label": "bh"
+            },
+            {
+                "text": "And its --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh thats great",
+                "label": "ba"
+            },
+            {
+                "text": "-- cooled things down somewhat Its getting more humid now but -",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh We we need rain real bad up here",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Its uh everythings really getting dry Its uh -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Its been about three weeks since weve had any",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Its kind of at dangerous level here People hauling water and uh --",
+                "label": "b"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "-- its getting real bad",
+                "label": "+"
+            },
+            {
+                "text": "Wow",
+                "label": "ba"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "How about that",
+                "label": "bh"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "Well I hope you do get some rain up there",
+                "label": "sd"
+            },
+            {
+                "text": "Um So do I",
+                "label": "aa"
+            },
+            {
+                "text": "I -",
+                "label": "%"
+            },
+            {
+                "text": "Uh I cant think of anything else uh",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I I guess being in agreement --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- kind of tends to limit the conversation --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know",
+                "label": "+"
+            },
+            {
+                "text": "Uh I can understand I know if somebody is using drugs and doesnt think theres anything wrong with them I can see them objecting You know theres lot of people that think that theres nothing wrong with",
+                "label": "ba"
+            },
+            {
+                "text": "One of the things I found interesting - it its funny that you mentioned that I is pretty much worldwide company --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and we have manufacturing plants all around the world --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- including some places where the use of certain drugs that are illegal here are not illegal",
+                "label": "+"
+            },
+            {
+                "text": "Um uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Yeah they dont have to submit to drug testing like like they do here in the States and some places abroad",
+                "label": "b"
+            },
+            {
+                "text": "Oh Ill be darn",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah I thought that was kind of interesting too",
+                "label": "b"
+            },
+            {
+                "text": "Yeah yeah the different cultures and that --",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- too uh",
+                "label": "+"
+            },
+            {
+                "text": "I mean uh uh from quality standpoint thats not I mean just because its not illegal doesnt mean it doesnt affect you the same way",
+                "label": "sv"
+            },
+            {
+                "text": "No no Im sure it would have to affect you the same way I I cant think that would make any difference --",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- whether it was legal or not",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "it it would still have to affect you the same way",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah but like if youre going to do business in another country youve got to respect their rules",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I mean if if you know that thats the trade off",
+                "label": "sv"
+            },
+            {
+                "text": "Oh yeah You cant you go by their laws",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "The same way our people have to go by their laws when theyre over there Thats why lot get in trouble --",
+                "label": "sv"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "-- because they have to follow their rules and uh --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- some of the countries are very much against drugs and you use them you pay for it",
+                "label": "+"
+            },
+            {
+                "text": "Usually with you life in some places",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah lot of them Yeah Where where --",
+                "label": "aa"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "-- is it they lose the if they steal they lose thumb or finger",
+                "label": "+"
+            },
+            {
+                "text": "Yeah from the Middle East",
+                "label": "b"
+            },
+            {
+                "text": "Is that where it is",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah Iraq Iran in that area",
+                "label": "ny"
+            },
+            {
+                "text": "I thought wow",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know thats quite deterrent",
+                "label": "sv"
+            },
+            {
+                "text": "Well in Saudi Arabia you know using uh alcohol and drugs and something like that you get the death penalty",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So its pretty strict over there",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah So I guess you know we re- we have so many freedoms over here we sometimes forget about how --",
+                "label": "aa"
+            },
+            {
+                "text": "Well people tend to --",
+                "label": "sv(^q)"
+            },
+            {
+                "text": "-- great out country really is",
+                "label": "+"
+            },
+            {
+                "text": "-- take the first amendment out of context",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Which which means --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know I could do anything I want to and you cant stop me and you know -",
+                "label": "+"
+            },
+            {
+                "text": "They they abuse it --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- is what they do",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^m"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^m"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^m"
+            },
+            {
+                "text": "So thats -",
+                "label": "%"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "I dont know Im Im glad to see more and more companies implementing the policy",
+                "label": "h"
+            }
+        ]
+    }
+]

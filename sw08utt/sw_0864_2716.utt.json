@@ -1,0 +1,779 @@
+[
+    {
+        "conversation_id": "conv_2716",
+        "turns": [
+            {
+                "text": "Okay do you have any uh ideas on universal health insurance Do you have any strong opinions",
+                "label": "o"
+            },
+            {
+                "text": "Yeah I think its probably good ideal",
+                "label": "ny"
+            },
+            {
+                "text": "You do",
+                "label": "qy"
+            },
+            {
+                "text": "uh I think given uh given well given that there are so many people who dont have health insurance Its probably real smart thing",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "at least to have some basic coverage for everyone I mean you hear these horror stories of people homeless people going to the hospital and",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and being thrown out because they have no insurance",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "and having to go to someplace else You know it would be nice if no matter where you are or who you are what happened you know what happened to you you just go to the hospital and they say Okay just just take him and we will worry about who he is later so",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "That would be nice thing",
+                "label": "+@"
+            },
+            {
+                "text": "Yeah I feel like there should be some kind of coverage made but I Im really leery of kind of government administrative health insurance or medical plan because I just feel like everything that the government takes over is just going to be run much poorly and it is going to be about six times more expensive",
+                "label": "b"
+            },
+            {
+                "text": "Yeah I know that thats certainly true But I wonder about like like in Canada",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "In Canada where everybody uh everybody automatically has insurance in Canada",
+                "label": "sd"
+            },
+            {
+                "text": "Right and they have that in England too but I think that its pretty poor they get lot lower quality care than we do Now I know some people dont agree with me but uh I know you have to wait real long time to get for certain surgeries that arent emergency and you dont have the kind of choices that we have here",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And uh Ive worked lot in doctors offices and hospitals and I really dont want to give up having those choices",
+                "label": "sd"
+            },
+            {
+                "text": "Thats true Thats thats true",
+                "label": "aa"
+            },
+            {
+                "text": "I think - I mean there is night and day difference between good doctors and bad doctors and good hospitals and bad doc- hospitals",
+                "label": "%"
+            },
+            {
+                "text": "Thats true thats true",
+                "label": "aa"
+            },
+            {
+                "text": "And in England at least at the time when I was familiar with it about ten years ago they just told you what day you had to show up and where you had to show up and who your doctor was going to be",
+                "label": "sd"
+            },
+            {
+                "text": "Oh you - so didnt get any choices at all",
+                "label": "%"
+            },
+            {
+                "text": "No no I mean that",
+                "label": "nn"
+            },
+            {
+                "text": "Oh thats problem",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Yeah because I know I know even among - even now the way we have it now there are still -",
+                "label": "b"
+            },
+            {
+                "text": "Its getting worse isnt it",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah I mean like we have",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "an allows us to pick our own physicians",
+                "label": "+"
+            },
+            {
+                "text": "Right right",
+                "label": "b"
+            },
+            {
+                "text": "I mean I picked primary care physician and just didnt like him you know",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I had to switch because I just thought he was quack So",
+                "label": "sd"
+            },
+            {
+                "text": "Right Thats exactly the problem theres just so many such variation and its - but see I guess what they had in England and I guess in Canada is socialized medicine",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "+@"
+            },
+            {
+                "text": "So maybe thats like the extreme of it Do you think",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah yeah that is the extreme and what that what that I think that tends to do though is I think that tends to - it probably has two good and bad side",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "for young people wanting to become doctors Which again lot of people who are motivated because the money isnt I guess as much",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "for doctors anymore",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "so you wind you wind up getting the people who really want to be doctors being doctors",
+                "label": "sv"
+            },
+            {
+                "text": "Really want to -",
+                "label": "^2"
+            },
+            {
+                "text": "but then again you know you dont get those people who would be good",
+                "label": "sv(^q)"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "and are real smart and decided Hey I want to make lot of money so I will go into medicine You dont get those",
+                "label": "+"
+            },
+            {
+                "text": "Right or that - yeah exactly or people also get the feeling that well jeez you know you dont have to worry about you have lot of job security there and its more of uh seniority I would imagine kind of thing instead of having skill or or whatever to advance",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah Thats true",
+                "label": "aa"
+            },
+            {
+                "text": "so you dont necessarily get the kind of quality control or the kind of - I dont know",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah it would be nice to see something where at least -",
+                "label": "b"
+            },
+            {
+                "text": "I think we have to have something We really do",
+                "label": "sv"
+            },
+            {
+                "text": "I mean even something that says you know look free major medical for all you know everyone and then",
+                "label": "sv(^q)"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "beyond that you could work out on your own if you want",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I know I I dont know I - having worked in doctors offices and stuff I see it from physicians point of view And I",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I think the problem with the skyrocketing cost right now is the insurance companies because",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "I dont see doctors getting real rich and I think hospitals do make money but not nearly as much as insurance companies",
+                "label": "+"
+            },
+            {
+                "text": "Oh right No",
+                "label": "b"
+            },
+            {
+                "text": "I think they are really making killing and nobody is talking about it Nobodys -",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah they are the ones who make - I mean they are the ones - they have you know the although - I mean its - the unfortunate part of that is that the people I think tend to forget that doctors are humans as well",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So that - insurance companies have to charge substantial amount for certain people or certain types of of doctors given that you know someone decides to have malpractice suit against them well they could take you know it could be millions I mean unfortunately",
+                "label": "%"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And if the doctor whether it was you know - I mean Im sure there are those cases where where the doctor is wrong or malicious or something",
+                "label": "%"
+            },
+            {
+                "text": "Right right",
+                "label": "b"
+            },
+            {
+                "text": "But you know their you know",
+                "label": "sv"
+            },
+            {
+                "text": "Their mistakes are made",
+                "label": "^2"
+            },
+            {
+                "text": "Mistakes you know -",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Everybody makes mistakes unfortunately",
+                "label": "sv"
+            },
+            {
+                "text": "Sure",
+                "label": "aa"
+            },
+            {
+                "text": "It shouldnt be billion dollar you know industry It should be",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I made mistake and this is this is their compensation Not -",
+                "label": "+@"
+            },
+            {
+                "text": "So yeah I think thats the legal part of it coming into it to",
+                "label": "b"
+            },
+            {
+                "text": "Yeah that is big problem",
+                "label": "b"
+            },
+            {
+                "text": "I wonder if we should have limit on how much people can sue for",
+                "label": "sv"
+            },
+            {
+                "text": "That would be nice",
+                "label": "aa"
+            },
+            {
+                "text": "Or or I dont know because then thats where the insurance company - then if people werent having to spend these huge amounts of money on getting insurance coverage",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know -",
+                "label": "+@"
+            },
+            {
+                "text": "It would be lot better Yeah",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I mean Im sort of in in government run medicine program Sort of - Im in -",
+                "label": "sd"
+            },
+            {
+                "text": "Are you",
+                "label": "^g"
+            },
+            {
+                "text": "Well well Im graduate student",
+                "label": "sd"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "And uh -",
+                "label": "%"
+            },
+            {
+                "text": "At where",
+                "label": "qw"
+            },
+            {
+                "text": "At University of Rochester",
+                "label": "sd@"
+            },
+            {
+                "text": "Oh okay",
+                "label": "bk"
+            },
+            {
+                "text": "In Rochester New York",
+                "label": "+@"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Ill bet you are in Texas",
+                "label": "sv"
+            },
+            {
+                "text": "I - what Im in Texas yeah yeah",
+                "label": "%"
+            },
+            {
+                "text": "I was going to bet that okay Uh yeah and as it as it turns out my wife has pretty decent coverage through her company",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and can get me coverage as well",
+                "label": "+@"
+            },
+            {
+                "text": "Oh great",
+                "label": "ba"
+            },
+            {
+                "text": "But I yeah which is great",
+                "label": "+@"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And because the university the university offers me two plans They offer what they call the mandatory version",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "which is basically major medical and they offer the portion Which is",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "which is you know sort of everything else you need Sort of your your your basic care",
+                "label": "+@"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Beyond major medical and stuff",
+                "label": "+@"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "And they dont - and even though my my wifes insurance covers me",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "for everything",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I still have to pay them hundred and some odd dollars semester",
+                "label": "+"
+            },
+            {
+                "text": "Oh no",
+                "label": "ba"
+            },
+            {
+                "text": "And thats for the mandatory portion of the insurance",
+                "label": "sd"
+            },
+            {
+                "text": "That that that cant be legal",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah Im not actually sure if it is or not but people sort of keep fighting it and Im - and I mean to keep fighting it",
+                "label": "b"
+            },
+            {
+                "text": "Oh my gosh",
+                "label": "ba"
+            },
+            {
+                "text": "but you know its just one of these things where I just dont want to spend my time",
+                "label": "sd"
+            },
+            {
+                "text": "How can they how can they make you pay for insurance coverage",
+                "label": "qw"
+            },
+            {
+                "text": "Well the reason - their rational is is they make everyone pay for it so that it it keeps the cost of university health services down and everyone can use it You know it -",
+                "label": "%"
+            },
+            {
+                "text": "How how does it keep the cost down",
+                "label": "qw"
+            },
+            {
+                "text": "Because everyone is now forced to pay for this And there is like an -",
+                "label": "sd"
+            },
+            {
+                "text": "Oh so they just use the money for something else besides your insurance policy",
+                "label": "qy"
+            },
+            {
+                "text": "Well no well yeah well what they use it - no what they use it for is is is university health services We have",
+                "label": "nn"
+            },
+            {
+                "text": "Okay",
+                "label": "bk@"
+            },
+            {
+                "text": "we have hospital here and subportion of the hospital",
+                "label": "+"
+            },
+            {
+                "text": "Okay So youre subsidizing the hospital",
+                "label": "+@"
+            },
+            {
+                "text": "Right obviously were paying for the welfare state Now as it turns out as it turns out uh my wife and I have chosen to use the university as",
+                "label": "na"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "health services as our primary care facility We can do that",
+                "label": "+"
+            },
+            {
+                "text": "Oh good",
+                "label": "ba"
+            },
+            {
+                "text": "So in in - but in effect Im paying twice for one service So -",
+                "label": "%"
+            },
+            {
+                "text": "You are you are - I know And see thats the thing that is the thing now that Im in my thirties now and I have three kids - and I mean Im very liberal Im extremely liberal and uh I - but now I just in the last couple of years I have gotten to the point where I am saying I just cannot afford to pay anymore",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "to help people out I I want to keep helping people out but I need for the government or the agencies to find way to do it on the amount of money you know that I can afford",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I just cant afford anymore",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Its its just outrageously - Its just starting to get me angry and for the first time in my life I am starting to feel like I I - Well I guess it has to do with lot of the stuff that I find out I am paying for now",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know",
+                "label": "+@"
+            },
+            {
+                "text": "Well thats thats certainly true",
+                "label": "na"
+            },
+            {
+                "text": "I mean if I cant afford to have some kind of volun- optional operation for myself - Because our our medical coverage has gotten increasingly worse over lets see the past five years to the point now where even if we need surgery our insurance only covers eighty percent of it",
+                "label": "sd"
+            },
+            {
+                "text": "Right which is ridiculous",
+                "label": "b"
+            },
+            {
+                "text": "And right and so no matter what happens to me if I get in car accident this afternoon I have no way of you know no way of being able to afford the outrageous medical costs",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "because my insurance is now only eighty percent of whatever its going to be And uh so on top of that uh then what if I what if we decide to have universal health insurance Im subsidizing -",
+                "label": "+"
+            },
+            {
+                "text": "Everybody else",
+                "label": "^2"
+            },
+            {
+                "text": "And what if they are lucky enough to get into doctor and program thats going to say Okay well you really need to have those varicose veins fixed or your teeth fixed or something like that",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And I am paying for it You know stuff like that has happened with education and with other things that you hear about and its just Wait minute You know my kids arent getting that How come their their kids are getting that",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Exactly I dont I dont uh -",
+                "label": "aa"
+            },
+            {
+                "text": "And I know its only in few cases and I dont want them to uh to cut funding for welfare programs or anything I dont want them to do that because I know lot of people they live right on the edge and they need that",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But but -",
+                "label": "%"
+            },
+            {
+                "text": "Yeah its its one of the strange - I think its strange that as you get older -",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I think I think the tendency is that as people get older",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and gain I dont want I dont want to say more responsibility but you know things like homes and kids",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and so forth",
+                "label": "+@"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "They tend to lose that liberalism they had when they were younger",
+                "label": "+@"
+            },
+            {
+                "text": "Well yeah thats - and its uh its funny because couple of years ago I heard quote from Winston Churchill Lets see if I can remember it anybody whos not liberal in his twenties has no heart and person who is not conservative in his fifties has no brain It was something like that",
+                "label": "b"
+            },
+            {
+                "text": "Thats probably very true",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah and I dont know I guess thats whats happening to me but I I think its just starting uh its its - I I dont know maybe other people - I - do you think its sign of the times that people are starting to say All right we really mean it no more taxes or maybe this is just my own personal -",
+                "label": "b"
+            },
+            {
+                "text": "No I think I think people are starting to really mean it I mean everywhere you you look you are getting something new I mean you start off",
+                "label": "nn"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "you know especially uh - you guys I believe in Texas you dont have state tax do you",
+                "label": "+"
+            },
+            {
+                "text": "No no income tax",
+                "label": "nn"
+            },
+            {
+                "text": "Right we have we have federal income tax",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "State income tax local income tax",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "We have state tax on gasoline",
+                "label": "sd@"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Uh you know because our our -",
+                "label": "+@"
+            },
+            {
+                "text": "Wow",
+                "label": "ba"
+            },
+            {
+                "text": "So on top of the federal tax on gasoline",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "we have state tax on gasoline so we are just -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah but I tell you uh we have incredible property taxes down here",
+                "label": "b"
+            },
+            {
+                "text": "Oh that could be uh making up for the difference",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah and we dont have the services either that other states have",
+                "label": "b"
+            }
+        ]
+    }
+]

@@ -1,0 +1,655 @@
+[
+    {
+        "conversation_id": "conv_2370",
+        "turns": [
+            {
+                "text": "So well youre you you take this subject much more personally than I do I suppose",
+                "label": "sv"
+            },
+            {
+                "text": "I suppose I do because Ive seen lot of those changes the changes that women have had in the last genera- well you know not even the last generation the last fifteen years --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- twenty years going from - well take it back thirty years - Im going back too far from my parents generation when mom stayed home period -- -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and there was no such thing as job or any hope of job unti- well unless - if you were educated you got you know you might teach for year or two before you got married",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And if you really pushed it you taught until you had kids or something --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- you know if you had if you were teacher Then you know that was it until the kids were little",
+                "label": "+"
+            },
+            {
+                "text": "Yeah you you werent supposed to want job",
+                "label": "aa"
+            },
+            {
+                "text": "Yes There was not theres not supposed to be any reason to use this education or this brain that you might have for anything other than your house and your children and how clean can the bathroom floors be on any given day",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And then and then of course today its supposed to be all the other way Youre supposed to only want the job and and uh your kids should be totally happy in day care because everybody else goes to day care --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and and we have these wonderful people who are --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- who are totally prepared to tea- to teach your child everything they need to know in day care --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah but --",
+                "label": "b"
+            },
+            {
+                "text": "-- and well see how the generations go",
+                "label": "sd"
+            },
+            {
+                "text": "-- but uh really good day care is probably going to cost more than youre going to make at the job",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I - at least for lot of women --",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- depending on on what she did Ive I was an engineer with uh mechanical engineer with I and uh I did it for six years and for one - well I had one while I was pregnant and then one while my oldest was year old and and it just drove me crazy",
+                "label": "+"
+            },
+            {
+                "text": "Did you -",
+                "label": "%"
+            },
+            {
+                "text": "I could not do either well enou- - I couldnt put in enough overtime that was necess- or that you know things that would come up at work that would require me to stay late or to come in early or to do something on Saturdays --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- as is you know as is needed because my husband for long time was out of the country --",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- also with uh with work for like three months and -",
+                "label": "+"
+            },
+            {
+                "text": "So it was you and the kid and your work schedule is -",
+                "label": "bf"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Well thats the thing see you know maybe if you get along for example if youd been technician instead of an engineer You know the technicians work the eight to five job --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah might have been better",
+                "label": "aa"
+            },
+            {
+                "text": "-- and know when theyre going to be there",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But if youre going to be more professional oriented then youve got to have this to be able to perform well on the job youve got to have the flexibility that doesnt really go with the family",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah and so it was - in my case I just uh decided that as long as my kids were little I would be better off at home with them instead of driving myself crazy trying to do everything at once",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh So you figure one of these days youre going to go back to being an engineer Is that what youre saying",
+                "label": "b"
+            },
+            {
+                "text": "Well actually Ive found out that Im not going to go back to being an engineer",
+                "label": "sd"
+            },
+            {
+                "text": "What will you -",
+                "label": "qw"
+            },
+            {
+                "text": "Im Im Im photographer now",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay youve found something else",
+                "label": "bk"
+            },
+            {
+                "text": "I have I have branched out I was photographer before but when I went to college it was I felt like I couldnt support myself if I decided to be photographer --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- that it would just have to be hobby and Im very mechanical and mechanical engineering interested me so I did that And then I you know I did that for six years And then I stayed home with my son and did nothing",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And found out that I was that you know it was great but I was bored part of the time too And I wanted something else to do",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I mean you figure theres got to be more to life than sitting here playing with this child",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah its its great while theyre really little but as they get older --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and theyre more independent and theres things to do then its good for them to go to different - I mean it he goes to mothers day out program now once week Both of my kids do and so theyre getting they get the socialization with other kids and you know and not really school but but different authority than mom once in while you know kind of learning how to deal with society",
+                "label": "+"
+            },
+            {
+                "text": "And and they need that you know to be able to relate to other people besides --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah I think they do too",
+                "label": "aa"
+            },
+            {
+                "text": "-- the same person every day",
+                "label": "+"
+            },
+            {
+                "text": "And I need it for the break",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah well thats the other thing you know they talk about women leaving the home and going out to work well still taking care of the children is very important job",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And and someones got to do it and be able to do it right and --",
+                "label": "sv"
+            },
+            {
+                "text": "And enjoy it thats thats the whole thing",
+                "label": "^2"
+            },
+            {
+                "text": "-- and if its not mom then then dad or somebodys got to move in there --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and do the job because the kids really need it",
+                "label": "+"
+            },
+            {
+                "text": "I think thats the thing that were going to see well I think the biggest thing were going to see coming up in the next ten year even in the even now theyre starting to do it but I think its going to be more in the next ten to fifteen years is that theres going to be lot of women and theyre going to have to work it out to working part time",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Because if if I had been allowed to work you know maybe thirty hours week instead of fifty hours week I might still be working basically full time or part time if there was if there had been --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- some way to work it out because I liked my job really well",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But I was just pulled in so many different directions I was it was just driving me crazy And now with the photography thats you know its working thats what Im doing is working part time because I can put my kids in day care situation for few hours in the uh week --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and use those hours to do - The thing that Im doing is taking school pictures --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- in day cares and in Mothers Day Out programs and --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- also soccer teams and you know different stuff like that",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So my kids can be in day care for few hours week or my husband if its you know uh when hes at home can take care of them",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah so jobs have to I guess become more flexible",
+                "label": "b"
+            },
+            {
+                "text": "I think theyre really going to have to and not and not just for mothers for fathers as well",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Its going to have to be both",
+                "label": "sv"
+            },
+            {
+                "text": "Well so so thats another thing that has to adapt is you know the the fathers attitudes about you know who whose job is this",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Well it its his job too And I - to me the only important issue is the children because as far as housework goes you know men can do housework just as easily as women and thanks to lot of new inventions housework doesnt take as much time as it used to So uh -",
+                "label": "sv"
+            },
+            {
+                "text": "Its just convincing your husband --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah conv- - yeah just - yeah con -",
+                "label": "b"
+            },
+            {
+                "text": "-- that thats important or that its important enough for him to do it",
+                "label": "+"
+            },
+            {
+                "text": "Yeah well -",
+                "label": "b"
+            },
+            {
+                "text": "Because if he saw mom doing only that --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know all the time he was growing up --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- then its hard to think of it --",
+                "label": "+"
+            },
+            {
+                "text": "And you you you -",
+                "label": "%"
+            },
+            {
+                "text": "-- in that other uh that I should do it --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah you talk - yeah",
+                "label": "aa"
+            },
+            {
+                "text": "-- or just to think about doing it rather than having someone --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- tell him to do it I know that was big thing in our house for --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- long time was that if I wanted my husband to do something to help and even though we were both working the same number of hours and and doing things I had to come in there specifically and say --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- this needs to be done this is what you do it now",
+                "label": "+"
+            },
+            {
+                "text": "And man might say out loud well you know I understand this and I agree but still he was raised with mom taking care of him --",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Yes and -",
+                "label": "b"
+            },
+            {
+                "text": "-- and thats very hard attitude to change",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah and without and and its just they dont look at things Most of the men dont walk into the kitchen and see that the dishes are there and that yes you probably ought to unload the dishwasher and load the new ones in and run it",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "They just you know just scoot it on another spot on the sink and put the next plate down and in while get around to it And I think most women walk in and and and with Oh got to clean all this up Got to get this out and this in and this you know taken care of instead of having someone say --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah uh-huh yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- now this needs to be do- this is the time this needs --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- to be done but -",
+                "label": "+"
+            },
+            {
+                "text": "And lot of that is is how it was drilled into you when you were kid",
+                "label": "sv"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "Which brings us back to the idea you know someones got to be there taking care of the kids to drill in these --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know drill in the right ideas --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- to so that they know that uh you know male and female are both responsible for doing this --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh -",
+                "label": "%"
+            },
+            {
+                "text": "And I think thats thats going to show up lot more now in the in the next generation of of boys and girls Its not theyre not going to the boys in this next generation are not going to have to be told as much --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- this needs to be done because mom was there saying --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- that dad is there you know you both got to they were --",
+                "label": "+"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "-- both working at whatever things were needed to be done",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Theyre going to say to the kids --",
+                "label": "sv(^q)"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you need do this because it needs to be done --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- not because its womans job or mans job but because its dirty --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and it needs to be clean",
+                "label": "+"
+            },
+            {
+                "text": "But I think in between we got group of kids generation of kids who didnt learn to take responsibility because mom left to go get job and dad didnt move in to fill the gap And so basically no one was taking the responsibility --",
+                "label": "sv"
+            },
+            {
+                "text": "And its going to",
+                "label": "sv"
+            },
+            {
+                "text": "-- and I think thats happened in lot of cases",
+                "label": "sv"
+            },
+            {
+                "text": "Its going to - yeah some kids are really having it - If theyd been in day care the entire time and it wasnt - yeah the ones that are now getting to be teenagers and in some cases young college",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh Un you know --",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- some time day care is really good but sometimes its just its baby-sitting",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Its someone you know keeping an eye on the kids but the kids are basically doing what they want --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and not really having any relationship with the adults to say you know heres whats right and heres what wrong and heres what we expect of you",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I think that was one of the main reasons that I quit was because I wanted my kids to have my values and I felt like when they were young that was the time to instill it",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "That it could be it could be added to and strengthened as they grew older but when they were little you know - this is the way I feel about this and this is the way because I its that you know - when you when you if you if you teach them when theyre little the way you want them to be and the things that are important to you then you just you add onto it as they get older",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But if no one does anything when theyre little then its twice as hard as I think as they get older",
+                "label": "sv"
+            },
+            {
+                "text": "Yes Im saying this as Im trying to keep my nine month old from trashing something",
+                "label": "aa"
+            },
+            {
+                "text": "Yes I understand I wait until I put mine in bed before I make my calls",
+                "label": "b"
+            },
+            {
+                "text": "Yeah well shes usually in bed by this time but shes staying up late tonight But - yeah I want to have relationship with her You know my dad was very traditional dad and when I was child I didnt really know my dad very well and I miss that And I want -",
+                "label": "b"
+            },
+            {
+                "text": "Thats the thing if womans role like we said if womens roles change drastically mens roles will too",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah but men have to be convinced of that",
+                "label": "aa"
+            },
+            {
+                "text": "And lot of its for the better Some of the some of the womens roles I think are almost for the worse because were losing out on some things going back to work but I think if we can if we can expand the mens roles at the same time like your taking care of your child and your dad probably didnt very often -- -",
+                "label": "sv"
+            },
+            {
+                "text": "No",
+                "label": "aa"
+            },
+            {
+                "text": "-- I know mine almost never did",
+                "label": "sd"
+            }
+        ]
+    }
+]

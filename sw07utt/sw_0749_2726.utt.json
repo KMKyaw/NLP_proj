@@ -1,0 +1,839 @@
+[
+    {
+        "conversation_id": "conv_2726",
+        "turns": [
+            {
+                "text": "Okay yeah Im originally from New York and I go visit lot and their real estate up there is I mean ridiculous absolutely ridiculous",
+                "label": "o"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "An apartment here - like I live in an apartment and my apartment is three fifteen month and its just the one",
+                "label": "sd"
+            },
+            {
+                "text": "And how big is it",
+                "label": "qw"
+            },
+            {
+                "text": "its one bedroom Which is still kind of expensive but I prefer to live in uh in nice part of town because I feel safe here",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And I I I pay more to feel safe you know",
+                "label": "sd"
+            },
+            {
+                "text": "Right well wha- whats included in that",
+                "label": "b"
+            },
+            {
+                "text": "You mean in one bedroom",
+                "label": "br"
+            },
+            {
+                "text": "Like washer dryer or -",
+                "label": "qr"
+            },
+            {
+                "text": "Oh nothing",
+                "label": "sd"
+            },
+            {
+                "text": "Nothing",
+                "label": "b^m"
+            },
+            {
+                "text": "Huh-uh I mean just nothing no microwave - weve got I have ceiling fan",
+                "label": "aa"
+            },
+            {
+                "text": "Wow",
+                "label": "ba"
+            },
+            {
+                "text": "I guess thats something",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Its real cute its got little vaulted ceiling and mirrored uh mirrored uh - 2 slash units",
+                "label": "sd,o@"
+            },
+            {
+                "text": "Which one is it",
+                "label": "qw"
+            },
+            {
+                "text": "Its Wood uh listen to me I cant even think of the name of my own apartment Woodhollow -",
+                "label": "sd"
+            },
+            {
+                "text": "Where is tha- -",
+                "label": "qw"
+            },
+            {
+                "text": "right next to Village Green its on -",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay okay",
+                "label": "bk"
+            },
+            {
+                "text": "yeah kind of far north Waco",
+                "label": "b"
+            },
+            {
+                "text": "Yeah I I used to live in Waco so -",
+                "label": "b"
+            },
+            {
+                "text": "Oh okay yeah far north like on Lake Shore where all those apartments are",
+                "label": "bk"
+            },
+            {
+                "text": "Yeah yes yeah",
+                "label": "aa"
+            },
+            {
+                "text": "its right up there so -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah uh we live in house here",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and uh its three bedroom two bath",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and uh I its it I dont know I got two numbers today actually we were talking about mortgage insurance today with my agent",
+                "label": "h"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and uh its about sixteen hundred square feet",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "which is fine for the two of us",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "But it it you know we looked at lot of houses that were had more square footage",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "but they didnt use it right you know",
+                "label": "sd"
+            },
+            {
+                "text": "Right uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "It was bunch of empty you know hallway and stuff that cur- -",
+                "label": "sd"
+            },
+            {
+                "text": "that could have been used as - yeah yeah",
+                "label": "^2"
+            },
+            {
+                "text": "Yeah yeah really So weve used every bit of it and our house um we bought it for sixty-four",
+                "label": "aa"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "and uh the neighbors house next door to us sold for seventy-five",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "so i- you know I think we were - you know got good deal on it",
+                "label": "sd"
+            },
+            {
+                "text": "So that looks good when you all get ready to sell youll probably do really well",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah yeah yeah",
+                "label": "aa"
+            },
+            {
+                "text": "My father used to live in Dallas uh now he he went back to New Jersey were originally from the East But he -",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really my husbands from New Jersey",
+                "label": "b"
+            },
+            {
+                "text": "oh really he uh well actually right now he lives in Rhode Island he lived in New Jersey for while now hes in Rhode Island And uh he used to like to go and we used to go just every weekend just to look at houses for no reason we werent buying one every weekend but just to look at them And so I got pretty good feel of you know what I want when I do you know get my house whenever that is um What was I going to say about that I completely lost my train of thought Um but we we enjoy going looking at houses and and uh we now - I kind of have good idea of what I want I know I want big family area",
+                "label": "b"
+            },
+            {
+                "text": "Yeah thats what we were looking for the first thing",
+                "label": "aa"
+            },
+            {
+                "text": "uh yeah fire fireplace I saw this awesome house the other weekend it was great big family room and it was circular and the other side was the patio and the backyard and it had built in uh grill and every -",
+                "label": "b"
+            },
+            {
+                "text": "Wow",
+                "label": "ba"
+            },
+            {
+                "text": "I mean it was it was just an ul- the ultimate party room you know",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh yeah",
+                "label": "b"
+            },
+            {
+                "text": "I was just going I could have party in here But thats pretty nice",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "But thats what we had uh uh thats what we had looked for was our main concern was big living room",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "you know and big closet space you know",
+                "label": "+"
+            },
+            {
+                "text": "Right yeah I like lot of closet space I dont like because - I dont like to have lot of things out you know just all over the place",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "I like to have them kind of tucked away",
+                "label": "sd"
+            },
+            {
+                "text": "And uh so thats thats what we went for first and and it you know we we dont we just have big living room an and dining room is separate",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and you know some places have - like the house next door to us that we looked at",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "had living room dining room and den",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "But to stick wall between two rooms didnt do anything for us just so we could have living room and den",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So we opted for the just the whole wide room",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "that went from one end of the house to the other just about",
+                "label": "+"
+            },
+            {
+                "text": "My father had uh - I keep talking about my father because he owned house uh he had the kitchen kind of kitchen and very long family room",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "its just kind of one room and what he did he put uh bar right in the center",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "and put some uh glass rack down so you had like wine glasses hanging from the ceiling and then the bar and it just kind of it kind of separated it It was still you know together but it just looked lot better Because I personally dont like the combination rooms",
+                "label": "+"
+            },
+            {
+                "text": "Yeah right I but I I think for where we are",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "um I think we got real good deal on it and we you know we have - uh the backyard is just huge",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "It is just really - I think another house could fit back there",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Id like big backyard",
+                "label": "b"
+            },
+            {
+                "text": "And uh we really liked it of course when you have to mow it",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really",
+                "label": "b"
+            },
+            {
+                "text": "You know in uh middle of August its its kind of",
+                "label": "+"
+            },
+            {
+                "text": "little hot",
+                "label": "^2"
+            },
+            {
+                "text": "little hot yeah",
+                "label": "+"
+            },
+            {
+                "text": "Try to do it early in the mornings",
+                "label": "ad"
+            },
+            {
+                "text": "But uh its its nice and that was you know big selling point too and I think another thing that was really nice was that our neighbors on the other side of us bought the lot right next to us",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And theyve lived there and have it all built up you know theyve got whole garden and trees and everything so its not like were uh",
+                "label": "sd"
+            },
+            {
+                "text": "Wow",
+                "label": "ba"
+            },
+            {
+                "text": "kind of secluded you know we dont have neighbors fence coming up to ours",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh well thats good",
+                "label": "b"
+            },
+            {
+                "text": "You know right up to our bathroom window or whatever it is",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "Like lot of the little model homes that they sh- you know throw up in three days",
+                "label": "+"
+            },
+            {
+                "text": "Thats true they do throw those up",
+                "label": "aa"
+            },
+            {
+                "text": "And uh -",
+                "label": "%"
+            },
+            {
+                "text": "Are you all planning to move anytime are you looking for house or not",
+                "label": "qy"
+            },
+            {
+                "text": "No no not at all",
+                "label": "nn"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "in fact uh we we talked about that just little bit you know",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "we were joking around about uh winning sweepstakes",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and what would we do with the money and Steve said well Ill buy bigger house and I said no I would just fix this one",
+                "label": "+"
+            },
+            {
+                "text": "Yeah really",
+                "label": "b"
+            },
+            {
+                "text": "You know theres you know cause we I like where it is and I like how its laid out and it took us forever to find it",
+                "label": "sd"
+            },
+            {
+                "text": "To find it uh-huh",
+                "label": "b^m"
+            },
+            {
+                "text": "But when we found it it was we knew it",
+                "label": "sd"
+            },
+            {
+                "text": "You knew that was it",
+                "label": "bf"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh Ill probably Ill probably move but Ill probably move to another apartment or something because Im Im Im really uh - whats the word I move lot anyway",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "because the job I have I only work - like here Ill be here for like year and then Ill move off I can move up and so -",
+                "label": "+"
+            },
+            {
+                "text": "Where",
+                "label": "qw"
+            },
+            {
+                "text": "Im Im news reporter",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay",
+                "label": "bk"
+            },
+            {
+                "text": "I work at Channel Six",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay",
+                "label": "bk"
+            },
+            {
+                "text": "and so this is like my first job so I wont be here very long",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "so Im not even looking to buy anything as permanent as house you know",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "so Im st- staying in an apartment and Im not married or anything so",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "Its no biggie",
+                "label": "+"
+            },
+            {
+                "text": "Yeah and thats and thats one thing is once you you know you get into house its like you get more stuff",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and to put it all back into an apartment would just never work",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "aa"
+            },
+            {
+                "text": "God I cant believe we moved out of an apartment and had this much stuff and it actually fit you know",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Of course we got it on little bit of more furniture and stuff but it was just unreal",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah like Im amazed at how much stuff Ive accumulated in my apartment",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "because up to this point I was in school so Id go home every summer and I could take all my stuff home because I didnt have bed or couch or any any of that",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "but now I could not move back home And I just realized this you know the other day Im going wait minute I cant go back home for the summer or anything I have too much stuff",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So it was just like weird transition out of home so I have to move in apartments just because I have so much stuff",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah and thats - actually three fifteen over theres probably not real real bad",
+                "label": "b"
+            },
+            {
+                "text": "No its not its not",
+                "label": "aa"
+            },
+            {
+                "text": "For for Waco and and for as many",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "gosh as many as apartments and condos are over there",
+                "label": "+"
+            },
+            {
+                "text": "Oh my goodness yeah",
+                "label": "ba"
+            },
+            {
+                "text": "I mean it its just - and and especially around Lake Shore area that areas picked up quite bit since we were there and uh -",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh yeah uh-huh There there are tons of apartments down here I mean and it -",
+                "label": "b"
+            },
+            {
+                "text": "Yeah because I I had lived in the - gosh Im not sure what theyre called now but they were Lake Shore Apartments that are like right next to the baseball field Baseball field but",
+                "label": "aa"
+            },
+            {
+                "text": "yeah yeah I I think theyre called Lake Shore Villa or something",
+                "label": "aa"
+            },
+            {
+                "text": "No the ones next door to those there were Lake Shore -",
+                "label": "+"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "theres - I dont know what they look like now",
+                "label": "%"
+            },
+            {
+                "text": "And its nursing - there was nursing home or something right there",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah there was nursing home and then theres an apartment and then theres another apartment",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And we lived in those those third ones and they we moved in when they were brand new",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "uh you know we drive by now and think gosh you know",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "look how much its changed an",
+                "label": "+"
+            },
+            {
+                "text": "How often do you all come through Waco",
+                "label": "qw"
+            },
+            {
+                "text": "Oh every now and then",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "it just - we -",
+                "label": "%"
+            },
+            {
+                "text": "Depends on whats going on",
+                "label": "bf"
+            },
+            {
+                "text": "Its uh - yeah and its not really - now that its sixty-five it doesnt take hardly anytime to get there you know run to the mall or run to Sams or",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh uh-huh yeah",
+                "label": "b"
+            },
+            {
+                "text": "or whatever We used to run to Re- you know Red Lobster but now theyve got one in Killeen so -",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh all right",
+                "label": "b"
+            },
+            {
+                "text": "we dont have to run that far So thats thats about how things are and the seems like the market heres picking up",
+                "label": "sd"
+            },
+            {
+                "text": "You think uh-huh uh-huh",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah I really think it is",
+                "label": "aa"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "Just for the fact that the you know - its it seemed like as soon as we bought this house we saw all these houses for sale",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "you know and I think now lot of them are selling and lot of sellers are getting close to what they want instead of you know just having to give it away",
+                "label": "+"
+            },
+            {
+                "text": "Waco to me seems seems like its pretty steady I mean Im not real estate person or anything",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "but it its real college town and so you know you have these apartments and then the the houses are all most of the houses are pretty nice",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and I dont I dont you know really see lot on sale or anything and people are pretty stable here",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know I kind of see this as kind of retirement community as I always call it",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I I saw I see that lot too there",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And its nice too",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I liked living there",
+                "label": "sd"
+            },
+            {
+                "text": "Nice and quiet so I dont think I could live here much longer but Ill deal with it",
+                "label": "sd"
+            },
+            {
+                "text": "Well -",
+                "label": "%"
+            },
+            {
+                "text": "Well it -",
+                "label": "%"
+            },
+            {
+                "text": "I guess we chewed up the house market",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "and apartment market for while",
+                "label": "+"
+            },
+            {
+                "text": "Really okay well it was very nice talking to you",
+                "label": "aa"
+            },
+            {
+                "text": "You too Tanya",
+                "label": "fc"
+            },
+            {
+                "text": "Okay you take care",
+                "label": "fc"
+            },
+            {
+                "text": "All right",
+                "label": "fc"
+            },
+            {
+                "text": "Okay bye bye",
+                "label": "fc"
+            },
+            {
+                "text": "Bye bye",
+                "label": "fc"
+            }
+        ]
+    }
+]

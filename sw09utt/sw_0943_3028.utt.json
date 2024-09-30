@@ -1,0 +1,699 @@
+[
+    {
+        "conversation_id": "conv_3028",
+        "turns": [
+            {
+                "text": "Are you ready",
+                "label": "qy"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "She didnt announce that to you",
+                "label": "qy^t"
+            },
+            {
+                "text": "Oh I didnt I didnt quite hear all of it",
+                "label": "nd^t"
+            },
+            {
+                "text": "Oh I see Thats fine Um I think uh thats pleasurable for all of us if we choose the right restaurant",
+                "label": "bk"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "So what are your thoughts on dining out",
+                "label": "qw"
+            },
+            {
+                "text": "Well I I really choose restaurants more for the quality of food than anything else",
+                "label": "sd"
+            },
+            {
+                "text": "Not for the price",
+                "label": "qy^d"
+            },
+            {
+                "text": "Well little bit --",
+                "label": "na"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "-- for the price but uh I think that as far as quality of food goes the - some of the most expensive places Ive been --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- had the - the really the",
+                "label": "+"
+            },
+            {
+                "text": "The be- -",
+                "label": "%"
+            },
+            {
+                "text": "the worst quality of food",
+                "label": "+"
+            },
+            {
+                "text": "Really Okay",
+                "label": "bh"
+            },
+            {
+                "text": "Really Um lot of places that even dont look dont look like much",
+                "label": "na^m"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Some of the some of the best food I have ever had was out of outside or inside of place that we drove up and I was like Im not eating in there Are you nuts And uh we went in and it was the - it was the most wonderful food",
+                "label": "sd"
+            },
+            {
+                "text": "My word its like mama in the back kitchen huh",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah",
+                "label": "qy"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "Im serious",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Um lot of uh one place that we went just recently --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh was to Atchafalaya No thats not right Thats not right Thats not right",
+                "label": "+"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "Whats the name of that restaurant Where at The Hari Krishna Oh Kalachandjis Kalachandjis Its all vegetarian and it it was just fabulous I mean my husband was aghast because I ate turnip greens and liked it",
+                "label": "t3"
+            },
+            {
+                "text": "Wow And where was that at near your -",
+                "label": "ba"
+            },
+            {
+                "text": "Um Kalachandjis Its uh its Hari Krishna run restaurant",
+                "label": "sd"
+            },
+            {
+                "text": "Where is it in Dallas",
+                "label": "qw"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "Is it in the phone book",
+                "label": "qy"
+            },
+            {
+                "text": "Uh I think so It should be",
+                "label": "na"
+            },
+            {
+                "text": "Do you know how to spell it",
+                "label": "qy"
+            },
+            {
+                "text": "Uh it starts with",
+                "label": "sd"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "So",
+                "label": "sd"
+            },
+            {
+                "text": "Kalli I",
+                "label": "qy"
+            },
+            {
+                "text": "I think",
+                "label": "+"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "That should get you close enough to to be able to find it I think its uh probably listed in the restaurants you know",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh section yes uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But its uh its just fabulous food",
+                "label": "sd"
+            },
+            {
+                "text": "What about fast foods Do you have preference if you were going to eat fast food",
+                "label": "qo"
+            },
+            {
+                "text": "Well we like Arbys",
+                "label": "na"
+            },
+            {
+                "text": "You do",
+                "label": "bh"
+            },
+            {
+                "text": "As far as",
+                "label": "+"
+            },
+            {
+                "text": "like Arbys",
+                "label": "+"
+            },
+            {
+                "text": "fast food goes",
+                "label": "+"
+            },
+            {
+                "text": "See I dont like Arbys",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really Why",
+                "label": "bh"
+            },
+            {
+                "text": "No because they use everything they can and make this into pressed whatever They use the they use the insides of the animals heart and liver and they they form it and they make it look like roast beef and I said no thank you",
+                "label": "nn"
+            },
+            {
+                "text": "Oh no no no Someone has been lying to you What they use is roast beef",
+                "label": "ar"
+            },
+            {
+                "text": "Well thats not what I heard",
+                "label": "sd"
+            },
+            {
+                "text": "Thats what -",
+                "label": "%"
+            },
+            {
+                "text": "from one of somebody that was supposed to know what they were talking about",
+                "label": "+"
+            },
+            {
+                "text": "Oh my goodness",
+                "label": "ba"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Im surprised My dad worked for Arbys for several years",
+                "label": "sd"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Unless somebody is trying to blackball them",
+                "label": "sv"
+            },
+            {
+                "text": "Well thats happened before",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But we like good - uh - were we like Mexican food",
+                "label": "sd"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "And stuff like that And so um -",
+                "label": "sd"
+            },
+            {
+                "text": "How about the health food uh restaurants Well like this one but its probably not advertised as such is it Or -",
+                "label": "qo"
+            },
+            {
+                "text": "health food",
+                "label": "qy^h"
+            },
+            {
+                "text": "uh-huh Health food uh restaurants that -",
+                "label": "ny"
+            },
+            {
+                "text": "Like like - name one",
+                "label": "%"
+            },
+            {
+                "text": "Well --",
+                "label": "aa"
+            },
+            {
+                "text": "Im not sure what youre talking about",
+                "label": "sd"
+            },
+            {
+                "text": "-- well like um well I cant really think of any off the top of my head right now because theres so few and far between But they ought there are restaurants that cater to the people that are very health conscious You know as far as their cholesterol levels and their their fat content and you know the amount of calcium and so forth that are in each product and they list them Now theres one restaurant that does that and its called Rodolfos over on Preston Road and Royal Lane I believe",
+                "label": "+"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "And they - have very good food over there",
+                "label": "sd"
+            },
+            {
+                "text": "I dont guess Ive ever been to anything like that so",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I really dont have anything to compare it to",
+                "label": "+"
+            },
+            {
+                "text": "They do list um you know list the fat",
+                "label": "sd"
+            },
+            {
+                "text": "It would be good I think",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "aa"
+            },
+            {
+                "text": "uh I dont know how expensive they are It sounds like that it would probably -",
+                "label": "qw^d"
+            },
+            {
+                "text": "Well it was pretty reasonable I it was around ten dollars for lunch Okay wha- which is kind of high for lunch I guess",
+                "label": "sv"
+            },
+            {
+                "text": "For one person",
+                "label": "qy"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "Yes uh-huh",
+                "label": "ny^r"
+            },
+            {
+                "text": "bit",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah Uh but um you were served by maitre ds and and uh um men waiters",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah I I wont really be interested in going to in going there",
+                "label": "b"
+            },
+            {
+                "text": "Well",
+                "label": "sv"
+            },
+            {
+                "text": "Because",
+                "label": "+"
+            },
+            {
+                "text": "if youre looking for nice -",
+                "label": "+"
+            },
+            {
+                "text": "I feel like Im Im paying you know five dollars for the food probably and five dollars for something that I could get along quite well without",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh Well I guess if you were having if you were trying to impress somebody - like taking somebody that you hadnt seen for long time and wanted to show them good restaurant",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Maybe",
+                "label": "aa"
+            },
+            {
+                "text": "Its special occasion",
+                "label": "+"
+            },
+            {
+                "text": "maybe that Yeah",
+                "label": "+"
+            },
+            {
+                "text": "type thing Yeah",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I could see that",
+                "label": "aa^m"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "then maybe",
+                "label": "+"
+            },
+            {
+                "text": "And now the Red Lobster I found is very nice at lunchtime",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah I like the",
+                "label": "aa"
+            },
+            {
+                "text": "Because theyre -",
+                "label": "%"
+            },
+            {
+                "text": "the seafood that they when they had it you know the broiled -",
+                "label": "+"
+            },
+            {
+                "text": "Well they have lunch specials that - you cant you cant beat that price uh if you went to cafeteria",
+                "label": "%"
+            },
+            {
+                "text": "Yeah Probably thats true But I know lot of their lot of their specials sometimes are fried things",
+                "label": "aa"
+            },
+            {
+                "text": "Well I had the",
+                "label": "sd"
+            },
+            {
+                "text": "that you cant really get away from the fried",
+                "label": "+"
+            },
+            {
+                "text": "I had broiled chicken breast and it was excellent It was marinated broiled chicken breast and it was exce- -",
+                "label": "+"
+            },
+            {
+                "text": "Now why would you go to seafood restaurant to eat chicken",
+                "label": "qw"
+            },
+            {
+                "text": "Oh it was",
+                "label": "sd"
+            },
+            {
+                "text": "Thats one of my husbands pet peeves He doesnt understand why somebody would go to seafood place and eat either chicken or steak you know",
+                "label": "sd"
+            },
+            {
+                "text": "Well Ive never had catfish either in restaurant because Im from the north and that was no no",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "And I havent gotten over that from the north",
+                "label": "sd"
+            },
+            {
+                "text": "Oh catfish is wonderful",
+                "label": "sv"
+            },
+            {
+                "text": "I know they say that",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really",
+                "label": "b"
+            },
+            {
+                "text": "that is but Im",
+                "label": "+"
+            },
+            {
+                "text": "Really",
+                "label": "b"
+            },
+            {
+                "text": "but theyve got all these caution signs now on fish and so I kind of stay - -",
+                "label": "+"
+            },
+            {
+                "text": "Why",
+                "label": "qw"
+            },
+            {
+                "text": "Because of all the pollution in the lakes and the",
+                "label": "sv"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "everywhere I mean there isnt any safe haven anymore for fish",
+                "label": "+"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "I- and especially uh in Wisconsin and Michigan they say no buying of our fish",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Thats too bad",
+                "label": "sd"
+            },
+            {
+                "text": "I -",
+                "label": "%"
+            },
+            {
+                "text": "because Im probably not going to stop eating it",
+                "label": "+"
+            },
+            {
+                "text": "Well yeah So yo- I am and the the best brand of chicken to buy is the uh Pilgrim Pride because they dont use all these hormones to remote uh unnatural growth in their products",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So I mean we have to be on the lookout if we want to stay healthy",
+                "label": "sv"
+            },
+            {
+                "text": "Thats true",
+                "label": "aa"
+            },
+            {
+                "text": "So Im I you know I -",
+                "label": "%"
+            },
+            {
+                "text": "Oh on one hand I see that and on the other hand uh my older sister --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- remembers when uh at one point they were taking radioactive wastes --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and storing them in tin barrels which i- I guess",
+                "label": "+"
+            },
+            {
+                "text": "Corrode",
+                "label": "^2"
+            },
+            {
+                "text": "had half-life of oh five years if they sit empty on dry land",
+                "label": "+"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "So theyre putting radioactive waste in it which reduces it dramatically",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And then they take these things that will rust and they throw them in the ocean which is going to speedup the process even more",
+                "label": "sd"
+            },
+            {
+                "text": "Well Id like to get ahold of some engineers and knock their heads together if it would do any good",
+                "label": "sd"
+            },
+            {
+                "text": "Oh And then they wouldnt think They were floating around so they shot holes in them to sink them",
+                "label": "b"
+            },
+            {
+                "text": "Oh dear",
+                "label": "ba"
+            },
+            {
+                "text": "And this is before I was born",
+                "label": "sd"
+            },
+            {
+                "text": "Wow",
+                "label": "ba"
+            },
+            {
+                "text": "So I mean were taking thirty years ago",
+                "label": "sd"
+            },
+            {
+                "text": "Sure",
+                "label": "b"
+            },
+            {
+                "text": "this happened",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and and whos you know the tuna is radioactive --",
+                "label": "sv"
+            },
+            {
+                "text": "Thats right Everything we eat",
+                "label": "aa"
+            },
+            {
+                "text": "-- to certain extent",
+                "label": "+"
+            },
+            {
+                "text": "Everything",
+                "label": "sv"
+            },
+            {
+                "text": "You cant get away from it so I think",
+                "label": "sv"
+            },
+            {
+                "text": "everything we eat should have label on it",
+                "label": "+"
+            },
+            {
+                "text": "To some point -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "yeah you know So theres you know theres some things I think we can av- we you know we cant avoid for health purposes and some things that we just need to like you know - this is not in my control",
+                "label": "b^m"
+            },
+            {
+                "text": "Well you know -",
+                "label": "%"
+            },
+            {
+                "text": "So Im either going to be Im either going to starve to death or Im going to get over it and just go ahead and eat as healthily as I possibly can you know",
+                "label": "sv"
+            },
+            {
+                "text": "Well Becky you know even if you lived off your own land that you would have to put caution signs",
+                "label": "sv"
+            }
+        ]
+    }
+]

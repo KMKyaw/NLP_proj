@@ -1,0 +1,387 @@
+[
+    {
+        "conversation_id": "conv_2160",
+        "turns": [
+            {
+                "text": "Hello",
+                "label": "fp"
+            },
+            {
+                "text": "Hello there",
+                "label": "fp"
+            },
+            {
+                "text": "Did I reach the Dallas area",
+                "label": "qy"
+            },
+            {
+                "text": "I beg your pardon",
+                "label": "br"
+            },
+            {
+                "text": "Did I reach the Dallas area",
+                "label": "qy^r"
+            },
+            {
+                "text": "No youve reached Dayton Ohio",
+                "label": "nn"
+            },
+            {
+                "text": "Dayton Ohio Im from North Carolina",
+                "label": "b^m"
+            },
+            {
+                "text": "Oh youre from North Carolina Where in North Carolina",
+                "label": "sd"
+            },
+            {
+                "text": "In Raleigh",
+                "label": "sd"
+            },
+            {
+                "text": "Raleigh great",
+                "label": "b^m"
+            },
+            {
+                "text": "Yeah so need slash",
+                "label": "b"
+            },
+            {
+                "text": "Well my names Mary",
+                "label": "sd"
+            },
+            {
+                "text": "My name is Fernando sd",
+                "label": "+"
+            },
+            {
+                "text": "Fernando glad to know you",
+                "label": "fo"
+            },
+            {
+                "text": "So um do you well - howd you find out about this",
+                "label": "%"
+            },
+            {
+                "text": "Uh I was visiting my son down in Dallas and -",
+                "label": "sd^t"
+            },
+            {
+                "text": "Oh okay he works for I",
+                "label": "bk^t"
+            },
+            {
+                "text": "No no but his wife has contract with I and thats how we learned about it uh-huh",
+                "label": "nn^t"
+            },
+            {
+                "text": "Oh okay because Im down at State",
+                "label": "bk"
+            },
+            {
+                "text": "Yeah uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And so I took class and he said sign up and get some money --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "ba"
+            },
+            {
+                "text": "-- and just talk for five minutes So are you ready",
+                "label": "+"
+            },
+            {
+                "text": "Im ready",
+                "label": "na^t"
+            },
+            {
+                "text": "Okay lets get started",
+                "label": "%"
+            },
+            {
+                "text": "All right okay",
+                "label": "aa"
+            },
+            {
+                "text": "Okay so uh what do you think that uh - what do what do what do you think we can do to solve the crime in America",
+                "label": "%"
+            },
+            {
+                "text": "Oh if I knew that Id be very wealthy person",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah but what what what are the steps",
+                "label": "b"
+            },
+            {
+                "text": "Well you have to see I the way I look at it you have to think first of all why listen or ha- has crime increased and if so why has crime increased",
+                "label": "sv"
+            },
+            {
+                "text": "Well see the problem is is that um what happens is as that youre uh you know as you go from the country to city crime always increases right",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Because in the country people still respect uh the property of other people",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And so as as - and the people in the country dont want as much as the people in the city",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Now what happens is all those that dont have any money in the country move to the cities and they rush to get the same thing They say why cant we have the same things that these other people have and the thing that we can do is we need money for drugs and what we have to do is we have to go uh get some stuff steal it and then you know just resell it",
+                "label": "sv"
+            },
+            {
+                "text": "Its easy you said the magic word there",
+                "label": "bf"
+            },
+            {
+                "text": "Which one",
+                "label": "qw"
+            },
+            {
+                "text": "Drugs",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And that certainly is one reason why crime here has increased",
+                "label": "sv"
+            },
+            {
+                "text": "Thats uh thats uh the main reason I think uh everywhere because uh you have deaths I mean I mean you have murders and you have you know people stealing other peoples stuff and thats - lot of it has to do with drugs",
+                "label": "sv"
+            },
+            {
+                "text": "Oh yes",
+                "label": "aa"
+            },
+            {
+                "text": "It doesnt have to do - I mean the thing is is that you know its like you might be standing somewhere right and like lets say you youre youre you know youre driving out and youre driving back home and its late at night And you stop by one of these you know twenty-four hour you know gas stations joints",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And uh somebody walks in there with gun I mean theyre going to want the money and you can tell by the people who are always caught that these people are there to get money for drugs I mean they dont want the money so uh so they can do something else with it",
+                "label": "sv"
+            },
+            {
+                "text": "No they dont want the money for food thats for sure",
+                "label": "aa"
+            },
+            {
+                "text": "Right right and so -",
+                "label": "aa"
+            },
+            {
+                "text": "Well but you know the the strange thing uh perhaps not strange but something that many people dont realize is that you can go back as far as nineteen fifty-one and fifty-two and find that there were drug dealers at that time trying to influence the high school kids because uh Im retired educator",
+                "label": "sv"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "And in fifty-one and fifty-two the police came to the high school where I was and were telling us how to recognize when kids were on drugs how to recognize the pushers --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- outside the one entrance that they were giving their drugs away in order to get the kids started and so on and so on So its problem thats been around for over forty years and were just really uh uh now trying to uh figure out how to cope with the problem because it has grown so huge",
+                "label": "+"
+            },
+            {
+                "text": "Yeah theres theres uh song that I know which says you know tha- - its like in uh nineteen eighty-eight nineteen eighty-nine the local state and federal governments spent the least amount of money on crime in America and uh their figures I think are too so - I mean its like compared to you know compared to weapons or stuff like that I mean youre spending nothing on on crime in the country itself What youre doing is you you know - its like you have other things you know you have the AIDS were going to solve try to solve --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- the AIDS problem while while you know some people are getting killed here and there and then -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah and another one of the problems is that the people who are the dealers the big dealers in drugs",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "may be may be part of the power structure thats keeping us from spending the money in that direction",
+                "label": "+"
+            },
+            {
+                "text": "But those people never get caught The people that --",
+                "label": "sv"
+            },
+            {
+                "text": "Thats right theyll never get caught",
+                "label": "aa"
+            },
+            {
+                "text": "-- that that I - see their theory is that if Im surrounded and Im going to be caught Im going to try to find my way through and theyre not going to take me alive",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But I have such big army outside of my place that nobody can touch me",
+                "label": "sv"
+            },
+            {
+                "text": "Thats right But theyll -",
+                "label": "aa"
+            },
+            {
+                "text": "You know its like - of course I mean I might be you know the the leading drug dealer here but you wont find me dealing in drugs I mean theres no connection --",
+                "label": "sv"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "-- between me and the people that were caught you know",
+                "label": "+"
+            },
+            {
+                "text": "Thats right and they - one person doesnt know the other person down the line",
+                "label": "aa"
+            },
+            {
+                "text": "Right",
+                "label": "aa"
+            },
+            {
+                "text": "But the guy at the very top the one whos whos really making the millions and the millions is the one who also many times is part of the power structure uh the uh and had the political --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- uh pull to keep things from uh keep the interest or the emphasis in some other direction other than on the drug dealing because it sure is monstrous in this country",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I was I was at at party on Saturday and this guy comes over he goes hey how you doing he started talking to me and this guy was from Jamaica right",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And hes got his little brother selling drugs",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know and he goes yeah I just came up here to work and I go oh you did you make very good money up here He goes yeah I make lot lot of money he goes you know And uh in the movie GOOD FELLOWS -",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Yeah might spelling",
+                "label": "aa"
+            },
+            {
+                "text": "Did you see it",
+                "label": "qy"
+            },
+            {
+                "text": "Nope I only heard about it",
+                "label": "nn"
+            },
+            {
+                "text": "Okay in one part the guy goes out of jail and within uh two months he has all his house payments gone --",
+                "label": "bk"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- everything paid you know and he had enough money to you know - its like those guys at one point you know they had so much money that they didnt know what to do with it",
+                "label": "+"
+            },
+            {
+                "text": "Yeah really you know even in our prison systems theyre finding that theyre theyre having drugs smuggled into them",
+                "label": "b"
+            },
+            {
+                "text": "Yeah yeah thats that that was also in the movie",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Yeah So hello Mary",
+                "label": "b"
+            },
+            {
+                "text": "Been nice talking with you",
+                "label": "fc"
+            },
+            {
+                "text": "Weve been talking for five minutes",
+                "label": "fc"
+            },
+            {
+                "text": "I beg your - weve been talking for little bit I appreciate the call I enjoyed talking with you",
+                "label": "fc"
+            },
+            {
+                "text": "All right okay same here",
+                "label": "fc"
+            },
+            {
+                "text": "uh-huh bye-bye",
+                "label": "fc"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc"
+            }
+        ]
+    }
+]

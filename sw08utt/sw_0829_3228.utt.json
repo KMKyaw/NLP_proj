@@ -1,0 +1,575 @@
+[
+    {
+        "conversation_id": "conv_3228",
+        "turns": [
+            {
+                "text": "Okay Well what movie have you seen",
+                "label": "o"
+            },
+            {
+                "text": "I think the last one that we actually went to go see - well theres two I took my kids to see HUNDRED AND ONE DALMATIANS --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "+@"
+            },
+            {
+                "text": "-- of course they wanted to see it They had the Disney - book --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and they thought that was wonderful and they loved the dogs and --",
+                "label": "+"
+            },
+            {
+                "text": "Its one of my --",
+                "label": "sd"
+            },
+            {
+                "text": "-- so --",
+                "label": "+@"
+            },
+            {
+                "text": "-- favorite even",
+                "label": "+"
+            },
+            {
+                "text": "-- yes we went with some friends of ours and I was little worried about my son Hes about two and half --",
+                "label": "+@"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and hes going through stage right now where hes kind of afraid of dogs barking if he can --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- hear them and cant see them --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and he did real good through the whole movie except the part where the dogs are sending the message you know that the the the puppies are missing --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and it shows the town and you can hear all the barking but you --",
+                "label": "sd"
+            },
+            {
+                "text": "whole lot uh-huh --",
+                "label": "bf"
+            },
+            {
+                "text": "-- cant see the dogs",
+                "label": "+@"
+            },
+            {
+                "text": "-- kind of dark uh-huh",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah so that kind of bothered him --",
+                "label": "b"
+            },
+            {
+                "text": "Good",
+                "label": "ba"
+            },
+            {
+                "text": "-- but after that he did fine",
+                "label": "sd"
+            },
+            {
+                "text": "Well how - is he young",
+                "label": "%"
+            },
+            {
+                "text": "Yeah hell be three in January",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah okay that makes sense",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Well my kids very favorite and yours may be too young for it was HOME ALONE",
+                "label": "sd"
+            },
+            {
+                "text": "I loved that movie",
+                "label": "sd"
+            },
+            {
+                "text": "They uh - well we do too but they just want to rent that one That is their very favorite They think theyre so cute",
+                "label": "%"
+            },
+            {
+                "text": "Probably gives them ideas of what they want to do right",
+                "label": "sv"
+            },
+            {
+                "text": "I guess so I guess so I guess so Were not real big movie goers ourselves but we did try to go see about month ago that um DEAD AGAIN --",
+                "label": "na"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- that black and white one and I was not real impressed with it In fact we kept sitting there all through the theater going now what what did that mean wait wait run that back and we couldnt run it back --",
+                "label": "+"
+            },
+            {
+                "text": "Wasnt that good",
+                "label": "qy^d"
+            },
+            {
+                "text": "-- uh-huh But we we just kept trying to figure it out until finally toward the end and we thought we were being very quiet this man turned around and said Could you all please save that for later And Im sorry",
+                "label": "ny"
+            },
+            {
+                "text": "Oh no",
+                "label": "bd"
+            },
+            {
+                "text": "Were just not real big movie goers",
+                "label": "sd"
+            },
+            {
+                "text": "Well I like to watch the movies but its gotten so expensive that we --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- wait until they come out on video --",
+                "label": "+"
+            },
+            {
+                "text": "Well thats us too --",
+                "label": "sd"
+            },
+            {
+                "text": "-- and we rent them --",
+                "label": "sd"
+            },
+            {
+                "text": "-- thats us too",
+                "label": "sd^r"
+            },
+            {
+                "text": "-- and now we did go see HOME ALONE at the dollar movie and that was just hilarious I died",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I thought that was cute too",
+                "label": "aa"
+            },
+            {
+                "text": "And we we did also we went to see WHAT ABOUT BOB one night which is funny funny movie --",
+                "label": "sd"
+            },
+            {
+                "text": "And my husbands name is Bob and he wants to see that --",
+                "label": "sd"
+            },
+            {
+                "text": "-- its funny movie",
+                "label": "sd"
+            },
+            {
+                "text": "-- yeah he wanted to see that I thought the funny part in HOME ALONE was uh thats good for kids is kind of coming up with how they can deal with problems on their own without panicking --",
+                "label": "b"
+            },
+            {
+                "text": "Thats true",
+                "label": "aa"
+            },
+            {
+                "text": "-- and I thought they could learn lot of lessons from that The little guy is so cute and hes terribly rich by now",
+                "label": "sv"
+            },
+            {
+                "text": "I hope he stays cute --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah me too",
+                "label": "aa"
+            },
+            {
+                "text": "-- not spoiled you know you get to where --",
+                "label": "+"
+            },
+            {
+                "text": "Oh thats right",
+                "label": "aa"
+            },
+            {
+                "text": "-- the money goes to their heads or --",
+                "label": "+"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "-- goes to something you know they grow up too fast so But uh theres lot I want to see you know what I try to do when they come out is just make list of them that look good --",
+                "label": "+"
+            },
+            {
+                "text": "Thats right",
+                "label": "b"
+            },
+            {
+                "text": "-- so that when they come out in video You know Id like to see GREEN CARD I want to see AWAKENING",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh AWAKENING is supposed to be wonderful",
+                "label": "b"
+            },
+            {
+                "text": "Uh Id like to see SILENCE OF THE LAMBS",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah AWAKENING is supposed to be wonderful --",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- my mom saw that and she said that was an excellent movie",
+                "label": "sd"
+            },
+            {
+                "text": "And see Ive had somebody tell me that REGARDING HENRY you know the Harrison --",
+                "label": "sd"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "-- Ford movie is --",
+                "label": "+"
+            },
+            {
+                "text": "Yes",
+                "label": "b^r"
+            },
+            {
+                "text": "-- supposed to be really good Id like to see that",
+                "label": "+"
+            },
+            {
+                "text": "I think thats supposed to be good and I uh we have some doctors at church who said that DOCTOR was just wonderful",
+                "label": "sv"
+            },
+            {
+                "text": "Ive heard thats --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- good yeah So I think theres bunch of good movies coming out My kids want to see RESCUERS DOWN UNDER --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- so Im going to ha- - my went on the blitz about two weeks ago so Im getting it fixed right now --",
+                "label": "%"
+            },
+            {
+                "text": "Oh dear",
+                "label": "ba"
+            },
+            {
+                "text": "-- because they have their little movies their little you know Disney movies they watch all the time --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and stuff and -",
+                "label": "+"
+            },
+            {
+                "text": "Well on uh - back to your movie you saw that ten thousand - uh HUNDRED AND ONE DALMATIANS -- -",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- um did you all ever think about purchasing that one when it comes out",
+                "label": "qy"
+            },
+            {
+                "text": "You know I look at those - like CINDERELLA came out --",
+                "label": "^h"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- was for sale and I dont buy them I now I will copy them and rent them --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and keep them at home --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but I just have problem paying twenty five dollars for movie that I can go down and rent for dollar",
+                "label": "sv"
+            },
+            {
+                "text": "Well I understand that too I understand that too Now they had -- -",
+                "label": "aa"
+            },
+            {
+                "text": "You know they dont last that long",
+                "label": "sv"
+            },
+            {
+                "text": "-- uh-huh they had HOME ALONE offered for like - I think with the rebate you could get it for nine dollars --",
+                "label": "b"
+            },
+            {
+                "text": "Oh thats pretty good",
+                "label": "ba"
+            },
+            {
+                "text": "-- and I thought well now thats thats close enough to being several you know - you could rent it --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- more than onc- --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- more than four times and watch that",
+                "label": "+"
+            },
+            {
+                "text": "That that makes it worth it uh but lot of the Disney movies its just too expensive and I can rent them --",
+                "label": "sv"
+            },
+            {
+                "text": "Well I under- I understand --",
+                "label": "aa"
+            },
+            {
+                "text": "-- or I can make copy --",
+                "label": "sd"
+            },
+            {
+                "text": "-- I understand",
+                "label": "+"
+            },
+            {
+                "text": "-- you know my daughters in love with the LITTLE MERMAID --",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah of course",
+                "label": "b"
+            },
+            {
+                "text": "-- and I have copy thats just about worn out",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Shes four --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- so she just thinks the grou- - in fact she told me Mom if we have little girl and she has red hair were naming her Aerial",
+                "label": "sd"
+            },
+            {
+                "text": "Oh sweet",
+                "label": "ba"
+            },
+            {
+                "text": "Now Im not pregnant mind you but this is -",
+                "label": "sd"
+            },
+            {
+                "text": "But thats",
+                "label": "^2"
+            },
+            {
+                "text": "shes planning ahead",
+                "label": "sd"
+            },
+            {
+                "text": "in her plans",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Well its hard its hard to find movie any more these days that you can take your kids --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and even the ones that we rent at home the trouble with some of them I know - we rented ADVENTURES IN BABY-SITTING --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I know",
+                "label": "ba"
+            },
+            {
+                "text": "-- thinking that would be so cute and its precious movie but the language in it is just for no reason has to stick in -",
+                "label": "+"
+            },
+            {
+                "text": "Now see I remember thinking its wonderful movie but its been so long since I --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- watched it I dont remember the language",
+                "label": "+"
+            },
+            {
+                "text": "Well you watch",
+                "label": "sv"
+            },
+            {
+                "text": "Was it bad",
+                "label": "qy"
+            },
+            {
+                "text": "it differently when your kids are in the room you know --",
+                "label": "+"
+            },
+            {
+                "text": "Well thats true",
+                "label": "aa"
+            },
+            {
+                "text": "-- and I was just sitting there going Oh my goodness and Im going to have to stop and explain and they go I know Mommy I know",
+                "label": "sd"
+            },
+            {
+                "text": "Oh and see my kids werent in the roo- - youre right I watched it without them",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh yeah its its little different because you see things from different --",
+                "label": "b"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "-- different angle",
+                "label": "+"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh we rented - this summer before we went on vacation we rented Chevy Chase and that FAMILY VACATION",
+                "label": "sd"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "And those are just absolutely hilarious --",
+                "label": "sd"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "-- but you just really cant watch lot of that We had to fast forward through whole lot of it for them to see it",
+                "label": "sd"
+            },
+            {
+                "text": "Yes Some of it just isnt -",
+                "label": "b"
+            }
+        ]
+    }
+]

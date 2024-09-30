@@ -1,0 +1,519 @@
+[
+    {
+        "conversation_id": "conv_2934",
+        "turns": [
+            {
+                "text": "Okay Hows the weather been out there",
+                "label": "o"
+            },
+            {
+                "text": "Well the last three days its been pretty rainy We went to the beach --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh it started uh lets see around four oclock and uh it had thunder and lightning it was and then you know it was just overcast and rainy for uh the next two or three days straight How about yours",
+                "label": "sd"
+            },
+            {
+                "text": "Its pretty normal for this year you know uh they have tornados about once week and it rains about every three days The last two years before theyve had record rainfall By this time of the year theyd had enough rainfall for the whole year but this time were only um I think maybe five inches ahead of of uh normal",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So its not been bad at all",
+                "label": "sd"
+            },
+            {
+                "text": "Youre from Virginia",
+                "label": "qy^d"
+            },
+            {
+                "text": "Im from Texas",
+                "label": "ng"
+            },
+            {
+                "text": "Oh from Texas",
+                "label": "bk^m"
+            },
+            {
+                "text": "uh-huh And uh -",
+                "label": "ny"
+            },
+            {
+                "text": "I heard they had some flooding down there",
+                "label": "sd"
+            },
+            {
+                "text": "Um they had some flooding in Houston the other day real real bad --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- over I think it was over the weekend",
+                "label": "+"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "The radar just looked nasty --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- with bunch of red splotches all across it",
+                "label": "+"
+            },
+            {
+                "text": "Well the last couple of years were um were over as far as our rainfall goes Before that it was really dry and uh everybody was you know talking about rationing water and doing this and doing that Not really rationing water but just cutting down",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah thats",
+                "label": "+@"
+            },
+            {
+                "text": "And uh",
+                "label": "sd"
+            },
+            {
+                "text": "thats right",
+                "label": "+"
+            },
+            {
+                "text": "it seems like uh you know the weather pattern is just shifting and uh that uh jet stream is moving uh into our area North Carolina --",
+                "label": "+"
+            },
+            {
+                "text": "There - -",
+                "label": "%"
+            },
+            {
+                "text": "-- and across but its uh changing latitude",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh so you get lot more rain that way",
+                "label": "b"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh Brings in that cold air and mixes it with the with the warm air coming off the Atlantic Ocean",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Thats what -",
+                "label": "%"
+            },
+            {
+                "text": "Its finally cleared up Its just now st- still little overcast but the - but the sun has finally started popping out",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Is the temperature like sixty- sixties to eighties there too or -",
+                "label": "b"
+            },
+            {
+                "text": "Oh yeah well right now as matter of fact Im fixing to go play tennis Its um Id say its at least seventy-nine eighty well about seventy-eight seventy-nine degrees",
+                "label": "ny"
+            },
+            {
+                "text": "Um do you get east winds lot of the time from the ocean or -",
+                "label": "qy"
+            },
+            {
+                "text": "Um actually the uh the wind normally blows lets see let me think about this south southwest",
+                "label": "nd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Yeah uh but - but actually our I guess our weather pattern comes from the uh blows north east yeah --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- youre right it blows north east",
+                "label": "sd"
+            },
+            {
+                "text": "Thats the way it does here most of the time",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But uh sometimes it just comes straight from the north and then it and then it doesnt veer off to the east until you get down to Houston or or uh maybe mid mid-Texas --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- depends on how strong the cold fronts are",
+                "label": "sd"
+            },
+            {
+                "text": "How - how far are you from Houston",
+                "label": "qw"
+            },
+            {
+                "text": "Um well uh Richardsons suburb of Dallas",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I see so you so you dont hav- you dont get anything off the Gulf uh immediately from from the ocean",
+                "label": "bk"
+            },
+            {
+                "text": "Hardly ever unless theres hurricane or something like that",
+                "label": "ng"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Well uh its kind of early - - I was going to say the weather man on on uh one of our stations was talking about the way that the weathers doing now is like tropical weather and he was afraid if it kept doing that that theyd have er- early hurricanes this year",
+                "label": "%"
+            },
+            {
+                "text": "Um Well weve had some you know pretty pretty rough winds Oh uh Bangle- Bangladesh boy they they caught it bad",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Kind of wiped them ou-",
+                "label": "aa"
+            },
+            {
+                "text": "But well probably have our share of the hurricanes I know uh Hurricane Hugo you probably heard about that",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Uh last year",
+                "label": "sd"
+            },
+            {
+                "text": "Wiped everything out",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah and theyre still uh rebuilding from that storm and so the the beaches here just get really beat up and it usually comes this way",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "It comes up from uh Miami --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh down around or you know around the Bahamas and it usually travels uh northwest and uh itll go up the coast quite ways before it finally hits",
+                "label": "+"
+            },
+            {
+                "text": "Do - do you get many tornados this time of year or -",
+                "label": "qy"
+            },
+            {
+                "text": "Um lets see two years ago we had one as matter of fact it went within mile of my house",
+                "label": "^h"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "And um it was real odd The - barometric pressure drops during tornado and our uh fire alarm went off",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "So of course that woke everybody up and we knew what was going on to uh you know go downstairs or go into the bedro- bathroom and uh take cover",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "But uh we get uh - yeah were were uh we get our share of tornados",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh And uh the uh uh - you you arent in the mountains or anything like that are you",
+                "label": "b"
+            },
+            {
+                "text": "No huh-uh",
+                "label": "nn"
+            },
+            {
+                "text": "Theres just hil- theres just hills",
+                "label": "qy^d"
+            },
+            {
+                "text": "Were about two hours from the beach",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So uh you know its uh barometric pressure I believe is higher in the mountains and we cat- we catch some winds you know few winds coming off of them I think",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But uh lets see you all just had tornado uh over close to Oklahoma and Texas",
+                "label": "^h"
+            },
+            {
+                "text": "Yeah they they had lot of them They had huge one that was on um INSIDE EDITION the other night in uh the southern part of Kansas",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Um they took bunch of film of it It uh kind of chased them It was few hundred yards away and it chased them under an underpass and it was tossing around the car --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh gosh",
+                "label": "ba"
+            },
+            {
+                "text": "-- right before it got there and it tore up the people inside the car",
+                "label": "+"
+            },
+            {
+                "text": "Oh did it",
+                "label": "bh"
+            },
+            {
+                "text": "And the - the camera man on the news crew held the camera out they were hiding underneath the underpass and he held the camera out as the tornado went by",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "And - the the wind you know it had mike on it and the wind and everything was incredible",
+                "label": "sd"
+            },
+            {
+                "text": "Um Boy I would have like to have heard that That cou- would have been something",
+                "label": "sd"
+            },
+            {
+                "text": "Im surprised they didnt they because we saw it on the news couple of days in row and that and you know and that was way up in Kansas",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But over here its lot its big thing about tornados and people that get pictures of them",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh I used to live in Amarillo originally",
+                "label": "b"
+            },
+            {
+                "text": "Yeah --",
+                "label": "b"
+            },
+            {
+                "text": "So Im -",
+                "label": "%"
+            },
+            {
+                "text": "-- you can really see them well there",
+                "label": "qy^d"
+            },
+            {
+                "text": "Oh yeah We used to sit out uh especially in Borger we use to sit out on our back uh picnic table and watch them come out of the sky through the funnel clouds --",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and the only time we got worried is if it hit the ground But otherwise wed just sit back there and watch them go in and out of those clouds",
+                "label": "sd"
+            },
+            {
+                "text": "Its really strange the way it does that",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Especially the way it starts It starts you know just like little swirl in the clouds and and uh then it just grows from there",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And it and and usually its not even raining when it starts Its just -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah youd be amazed at how clear the sky was but the clouds are just really uh uh rolling --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- kind of just real pillowy I guess",
+                "label": "+"
+            },
+            {
+                "text": "Thats right and theyre black and sometimes theyre even green colored",
+                "label": "aa"
+            },
+            {
+                "text": "Oh well I was in that uh big tornado went through Wichita Falls",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "And uh the sky - I mean we were right in the middle of it when I mean signs and telephone poles were dropping all around us",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And whole roof of restaurant came off And uh it was eerie uh real eerie blue-green color",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And the lightning was almost continuous just uh you know as if you put your hand on one of those electric uh things that causes lightning",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh I think it was called the storm",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah thats it",
+                "label": "aa"
+            },
+            {
+                "text": "But um the - the whole sky was full of that eerie blue-green uh lightning",
+                "label": "sd"
+            },
+            {
+                "text": "Wow And thats about thats what we get this time of year just all the way sometimes all the way through June the last especially the last two years its rained uh what I think it rained nine inches in in one one of the Junes the last two years",
+                "label": "ba"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "And this year - - we usually get about five inches in May and its its over that",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh We havent got that much rain but uh when it rains its its been downpouring",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh All right well I hope you have good weather the rest of the summer",
+                "label": "b"
+            },
+            {
+                "text": "You too",
+                "label": "fc"
+            },
+            {
+                "text": "Have fun playing tennis",
+                "label": "fc"
+            },
+            {
+                "text": "Okay thanks",
+                "label": "fc"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc"
+            },
+            {
+                "text": "Bye",
+                "label": "fc"
+            }
+        ]
+    }
+]

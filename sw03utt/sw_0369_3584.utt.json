@@ -1,0 +1,487 @@
+[
+    {
+        "conversation_id": "conv_3584",
+        "turns": [
+            {
+                "text": "Well tell me about your home",
+                "label": "ad"
+            },
+            {
+                "text": "Okay Uh right now were living in - well its me my wife and uh two young boys And uh right now were in uh I guess its either zero lot line or garden home",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Which you might call it So we dont have big yard Uh but uh when my wife and I first moved in it was just the two of us So it was enough",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh and its uh I guess what they call story and half Because its not full two story",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Where you know everything on top is on bottom So its got real high ceilings on half the house and the other half is just standard sized ceilings",
+                "label": "+"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh its about five year old house now",
+                "label": "sd"
+            },
+            {
+                "text": "It sounds nice",
+                "label": "ba"
+            },
+            {
+                "text": "Its uh pretty nice Unfortunately the builder who built it went out of business already",
+                "label": "aa"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah It was - Landmark is the one who built it",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah Well you know these guys that gambled high --",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- lost big you know",
+                "label": "+"
+            },
+            {
+                "text": "Thats true",
+                "label": "aa"
+            },
+            {
+                "text": "And uh --",
+                "label": "sd"
+            },
+            {
+                "text": "Exactly what happened to them",
+                "label": "aa"
+            },
+            {
+                "text": "-- Im insulating myself from that problem Im building my own house",
+                "label": "+"
+            },
+            {
+                "text": "Oh thats nice",
+                "label": "ba"
+            },
+            {
+                "text": "And as I look out the window of my trailer I can envision all the insulation thats going up today",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Are you doing it yourself",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Wow",
+                "label": "ba"
+            },
+            {
+                "text": "I used to be builder",
+                "label": "sd"
+            },
+            {
+                "text": "Oh thats nice",
+                "label": "ba"
+            },
+            {
+                "text": "And I retired about five years ago and --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I see",
+                "label": "b"
+            },
+            {
+                "text": "-- started college",
+                "label": "+"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "And now Im college educated builder Theres still no work you know",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So uh you know I decided this summer that uh you know we had enough credit on the credit cards to buy the materials so I did",
+                "label": "sd"
+            },
+            {
+                "text": "Thats great",
+                "label": "ba"
+            },
+            {
+                "text": "And uh see the the the state has law that says you cannot borrow the money to build your own home",
+                "label": "sd"
+            },
+            {
+                "text": "- - is that so I didnt know that",
+                "label": "%"
+            },
+            {
+                "text": "You can borrow the money to pay somebody else to build your house but you cant borrow the money to build your own",
+                "label": "sd"
+            },
+            {
+                "text": "Well that sounds kind of dumb",
+                "label": "ba"
+            },
+            {
+                "text": "Well its to protect the the banks from guys that say yeah I want to build my own house and go out build spec home --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and then it doesnt sell and then the banks --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- holding the bag",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Well -",
+                "label": "%"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "As as you know anything that involves the government is works half as well as its supposed to costs three times as much Right",
+                "label": "sv"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "Hence the savings and loan problem we have",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah thats true",
+                "label": "aa"
+            },
+            {
+                "text": "But uh you know my home is uh fairly simple Its designed to be added on to",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Thats good",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Well I figure its just me and my wife but you know I like to do stuff with my hands and whatnot so I want --",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- to have shop",
+                "label": "+"
+            },
+            {
+                "text": "How big lot do you got it on",
+                "label": "qw"
+            },
+            {
+                "text": "Ten acres",
+                "label": "sd"
+            },
+            {
+                "text": "Wow Thats nice Thats real nice",
+                "label": "ba"
+            },
+            {
+                "text": "Well yeah Its really nice too because I cant see my nearest neighbor Hes on the other side of hill",
+                "label": "aa"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "And my second nearest neighbor is dot on the horizon Seriously",
+                "label": "sd"
+            },
+            {
+                "text": "God Thats pretty good",
+                "label": "ba"
+            },
+            {
+                "text": "Well in the winter time I can see see another guy but you know hes -- -",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- I can just make out his place you know",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Ive got thirty mile view to the east and about ten miles to the north",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And uh -",
+                "label": "%"
+            },
+            {
+                "text": "Oh thats pretty good",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah Well I took lot of time in choosing this site --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- because the the house has no heating or air conditioning",
+                "label": "+"
+            },
+            {
+                "text": "Oh you you you dont plan on putting any any of that in",
+                "label": "qy"
+            },
+            {
+                "text": "Well its got very small furnace",
+                "label": "nd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh well use wood burning stove as well",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But in the house itself Ive been working inside you know these lo- these many months --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and I have not had to use the heat",
+                "label": "sd"
+            },
+            {
+                "text": "Wow",
+                "label": "ba"
+            },
+            {
+                "text": "Because its all geothermal",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Thats pretty good",
+                "label": "b"
+            },
+            {
+                "text": "And with all the - see Ive got - on the south side is all glass Well as much as I could get in it you know",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And uh the east side is glass Ive got one two three four five six windows in the east side on forty-eight feet So its almost all glass",
+                "label": "+"
+            },
+            {
+                "text": "Wow",
+                "label": "ba"
+            },
+            {
+                "text": "And uh -",
+                "label": "%"
+            },
+            {
+                "text": "My wife would love that",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah I mean you know",
+                "label": "b"
+            },
+            {
+                "text": "She loves lots of windows",
+                "label": "sd"
+            },
+            {
+                "text": "Theres no place in the house where you can stand and not see four windows",
+                "label": "+"
+            },
+            {
+                "text": "Thats great",
+                "label": "ba"
+            },
+            {
+                "text": "So uh -",
+                "label": "%"
+            },
+            {
+                "text": "Is it single story",
+                "label": "qy"
+            },
+            {
+                "text": "Well not really Its uh its on the side of hill",
+                "label": "nd"
+            },
+            {
+                "text": "Oh I see",
+                "label": "bk"
+            },
+            {
+                "text": "So the first you know - the the the - what I call residential level --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- at the side thats in the hill is about four feet deep",
+                "label": "+"
+            },
+            {
+                "text": "Um I see",
+                "label": "bk"
+            },
+            {
+                "text": "And the side thats on the uh the other side is about six feet high",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "So Ive got pretty good grade there",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And then when I put the verandas whi- which will be twelve feet out all the way around on the north south and east sides --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- that will define the shop",
+                "label": "+"
+            },
+            {
+                "text": "Yeah thats kind of like like Victorian style",
+                "label": "b"
+            },
+            {
+                "text": "Exactly",
+                "label": "na"
+            },
+            {
+                "text": "Yeah I Ive always liked that The - you know I we dont have much yard but I built small deck in the back",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But you know I I see these magazines where you know dig your your own deck",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I I kind of wish I had them those size property and and uh one with grade on it so I can build real nice deck",
+                "label": "sd"
+            }
+        ]
+    }
+]

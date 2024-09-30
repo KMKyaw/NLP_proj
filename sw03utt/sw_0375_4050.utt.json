@@ -1,0 +1,335 @@
+[
+    {
+        "conversation_id": "conv_4050",
+        "turns": [
+            {
+                "text": "Hello",
+                "label": "o"
+            },
+            {
+                "text": "I pressed the button one so were recording right now Im sorry",
+                "label": "sd^t"
+            },
+            {
+                "text": "Thats okay Im Bill from Raleigh",
+                "label": "bd"
+            },
+            {
+                "text": "Okay and Im Melanie from Harrisville Utah",
+                "label": "b"
+            },
+            {
+                "text": "Oh another one from different state besides Texas",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Um okay Bill were talking about family reunions",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Okay um have you ever had to plan family reunion",
+                "label": "o"
+            },
+            {
+                "text": "Uh yes and no it wasnt really fa- planning one but it was kind of uh it was birthday --",
+                "label": "ny"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "-- and I brought lot of family together then",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh And how did you feel it went",
+                "label": "bk"
+            },
+            {
+                "text": "It went pretty good Im Ive worked in hotels so I I kind of know how to do these things",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "I used to you know",
+                "label": "sd"
+            },
+            {
+                "text": "All this planning and and getting together and such Um oh lets see what else",
+                "label": "qy^d"
+            },
+            {
+                "text": "Usually when we have kind of our family reunion its my grandmothers birthday and --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and its all of like she she comes from big family She has like seven sisters I think",
+                "label": "+"
+            },
+            {
+                "text": "Oh boy",
+                "label": "ba"
+            },
+            {
+                "text": "They show up and all their kids And then all she has uh - I have like uh - lets see she has four sons and two daughters and --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- they show up and all their kids so its pretty big reunion its about two hundred people maybe",
+                "label": "+"
+            },
+            {
+                "text": "Oh my word Well what did you find was most helpful in planning the birthday get together",
+                "label": "ba"
+            },
+            {
+                "text": "Um the probably the biggest challenge was getting place where everyone you know could eat comfortably and and everything uh",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "bk"
+            },
+            {
+                "text": "I guess probably the most helpful thing was that um for the rent we rented like rescue squad building or something --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "-- like that",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "bk"
+            },
+            {
+                "text": "And uh each one of the everybody that showed up donated some money for the rent and for for like soft drinks and --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "-- and so nobody like really got stuck with the bill",
+                "label": "+"
+            },
+            {
+                "text": "Oh thats good",
+                "label": "ba"
+            },
+            {
+                "text": "And each person in the family you know brought dish or something",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh and then did you have main meal or did everyone just bring - it was just pot luck",
+                "label": "bk"
+            },
+            {
+                "text": "It was kind of pot luck",
+                "label": "na"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know everybody brought their specialties I guess you would say",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah show off little bit",
+                "label": "b"
+            },
+            {
+                "text": "Yeah And of course my grandmothers food was as always gone first --",
+                "label": "ny"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "-- because shes such great cook",
+                "label": "+"
+            },
+            {
+                "text": "Oh Now how old is she",
+                "label": "bk"
+            },
+            {
+                "text": "Uh shes eighty-six",
+                "label": "sd"
+            },
+            {
+                "text": "Oh goodness Is she pretty spry is she you know pretty",
+                "label": "ba"
+            },
+            {
+                "text": "Now she does - she looks probably like shes in her early sixties --",
+                "label": "%"
+            },
+            {
+                "text": "Oh wow",
+                "label": "ba"
+            },
+            {
+                "text": "-- and if she didnt have arthritis shed get around better --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- than me as matter of fact",
+                "label": "+"
+            },
+            {
+                "text": "Oh Oh thats neat that shes in good health and that at that age Yeah",
+                "label": "bk"
+            },
+            {
+                "text": "Oh yeah My nickname for her is Honey Woman Thats what I call her",
+                "label": "b^m"
+            },
+            {
+                "text": "Really Well that sounds fun Well I I had real challenge of planning family reunion few years ago and there were - we sent out five hundred uh announcements because our family is quite large like your your family there And so that was real challenge and I was president of our family reunion for two years and I wasnt very at that duty for two years in row but I found that advance planning was the key to success",
+                "label": "b"
+            },
+            {
+                "text": "Uh also one thing thats helpful and I dont know if your familys spread out or whatever --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "-- but most of all my family lives like in the same county so -",
+                "label": "sd"
+            },
+            {
+                "text": "Oh thats wonderful though -",
+                "label": "ba"
+            },
+            {
+                "text": "But its just kind of like get on the telephone and its so and such days from such and such date --",
+                "label": "ad"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- and everybody just shows up",
+                "label": "sv"
+            },
+            {
+                "text": "Oh well that is that is helpful Yeah our family ranges from oh goodness well Australia I have brother lives in Australia to uh Boise Idaho and and uh all kinds of places",
+                "label": "aa"
+            },
+            {
+                "text": "I would say youre spread out then",
+                "label": "sv"
+            },
+            {
+                "text": "We are",
+                "label": "aa"
+            },
+            {
+                "text": "Uh my immediate family you know my my parents and my brothers and sisters I guess were the ones that have the gypsy blood or whatever because my dad was in the Army and were --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- were pretty strung out all over But since theyve moved back to Carolinas we still are the only ones do not live in --",
+                "label": "+"
+            },
+            {
+                "text": "In -",
+                "label": "%"
+            },
+            {
+                "text": "-- in Yantsen County",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "I live in Raleigh and then my my parents live in Greenville and I have one brother and his wife --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- live in Greenville and uh another brother that lives in outside of Fayetteville So I mean were were spread out but --",
+                "label": "+"
+            },
+            {
+                "text": "Boy",
+                "label": "ba"
+            },
+            {
+                "text": "-- everybody else is centralized in in my home town Waynesboro so -",
+                "label": "+"
+            },
+            {
+                "text": "Oh my gosh",
+                "label": "ba"
+            },
+            {
+                "text": "Nobody moves away except us",
+                "label": "sd"
+            },
+            {
+                "text": "They must really like it there",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah I got out as soon as I graduated",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah Oh",
+                "label": "b"
+            },
+            {
+                "text": "Just like this town is too small for me Good-bye",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Oh youre ready to move on to bi- -",
+                "label": "qy^d"
+            }
+        ]
+    }
+]

@@ -1,0 +1,279 @@
+[
+    {
+        "conversation_id": "conv_3543",
+        "turns": [
+            {
+                "text": "So Utah",
+                "label": "o"
+            },
+            {
+                "text": "Yes",
+                "label": "aa"
+            },
+            {
+                "text": "That thats thats the state that got was famous when they executed somebody",
+                "label": "sd"
+            },
+            {
+                "text": "Gary Gilmore",
+                "label": "sd"
+            },
+            {
+                "text": "Gary Gilmore",
+                "label": "b^m"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "By firing squad as I recall",
+                "label": "sd"
+            },
+            {
+                "text": "Thats right and we still have death penalty",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Some - gentleman uh that was one of the hi-fi murderers just had his conviction overturned well appealed again I guess we have the longest uh running inmates for death row too",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And then we had another guy uh Ronald Lafferty that thought God told him to kill his sister-in-law",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "He just got new trial because the judge felt that he was incompetent",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh how do you feel about the death penalty",
+                "label": "qo"
+            },
+            {
+                "text": "Well I yo- you know - until recently Ive been sort of - could go either way you know - it it sort of doesnt much you know - it didnt - it wasnt strong issue um I guess it still isnt strong issue But I must say I find it very silly the way politicians are running around creating more and more capital crimes um --",
+                "label": "%"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- instead of dealing with re- you know the real problems that you know that theyre theyre getting votes presumably by um - I assume theyre doing it for that reason",
+                "label": "+"
+            },
+            {
+                "text": "Well Im sure thats -",
+                "label": "sv"
+            },
+            {
+                "text": "By by by saying well this doing th- this particular crime in this particular way is capital crime now",
+                "label": "sv(^q)"
+            },
+            {
+                "text": "Well I kind of - agree with terrorism I think those guys should be done away with Thats one of the worst crimes in my book and uh drug dealing um thats close but uh terrorism definitely And --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh selling out your country -",
+                "label": "+"
+            },
+            {
+                "text": "Its not its not enough just to lock them up forever",
+                "label": "sv"
+            },
+            {
+                "text": "Uh no its got to be something that is going to cost them because we never lock anybody up forever",
+                "label": "aa"
+            },
+            {
+                "text": "Not often",
+                "label": "aap"
+            },
+            {
+                "text": "Not very often at all Weve got these guys in New York that uh Im sure you heard about the ones that killed uh the gentleman that came from Utah to watch the tennis --",
+                "label": "aa^m"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- people",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And I guess they got convicted the four of --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh murder",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "So youve come to definite opinion on it now",
+                "label": "qy^d"
+            },
+            {
+                "text": "Well I - Ive - it it seems like its gone gotten carried away um and I I do find it hard to dr- know where to draw line and so if I had to draw line Id say just no capital punishment I mean I dont I dont I dont see that it accomplishes whole lot whereas I do think that convicting people and and incarcerating them for long time if that could be improved upon that would have more impact I think",
+                "label": "%"
+            },
+            {
+                "text": "Yeah You kind of hate to -",
+                "label": "aa"
+            },
+            {
+                "text": "No wh- what about the argument where where somebody who is committing one capital crime chooses to commit more serious capital crime I mean murder um because that one at least you might escape from because his victim you know his witnesses will be gone Doesnt this doesnt this encourage",
+                "label": "o"
+            },
+            {
+                "text": "You mean --",
+                "label": "qy"
+            },
+            {
+                "text": "Uh",
+                "label": "+"
+            },
+            {
+                "text": "-- uh violence",
+                "label": "+"
+            },
+            {
+                "text": "More Doesnt this yeah I mean doesnt this encourage murder in order to wipe out the --",
+                "label": "+"
+            },
+            {
+                "text": "The witnesses",
+                "label": "^2"
+            },
+            {
+                "text": "-- the witnesses",
+                "label": "+"
+            },
+            {
+                "text": "Well maybe it would Uh I kind of have problem with our legal system at the moment uh as it is I think that people who uh infringe on other peoples rights uh and screw up their whole lives with rape uh child molesting uh terrorism just uh -",
+                "label": "no"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Theres just like five things that I think they ought to be snuffed for but Im Im for it for certain reasons",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I think that things like rape uh you cant get over uh it takes lifetime",
+                "label": "sv"
+            },
+            {
+                "text": "I see so so if if William Kennedy Smith had been found guilty you believe he should have been uh executed",
+                "label": "b"
+            },
+            {
+                "text": "Uh if it was",
+                "label": "nd"
+            },
+            {
+                "text": "six person jury could have decided either way of course",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah If it was it would probably have to be pattern You know we have plenty of convicted guys that go into jail and come back out do the same thing and go back and uh if theyre habitual like three times caught for rape or child molesting --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- then snuff them",
+                "label": "+"
+            },
+            {
+                "text": "Well the problem is that theyve just been let out of jail",
+                "label": "sv"
+            },
+            {
+                "text": "Pardon",
+                "label": "br"
+            },
+            {
+                "text": "The problem there is that theyve been let out jail If theyve been thrice convicted they should have been kept in longer",
+                "label": "sv^r"
+            },
+            {
+                "text": "Yeah but we dont seem to keep them long enough and then they learn such bad things in jail That isnt --",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah well -",
+                "label": "b"
+            },
+            {
+                "text": "-- place of rehabilitation",
+                "label": "+"
+            },
+            {
+                "text": "Yeah thats thats for sure",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah its tough question isnt it on whether at what point do they become so detrimental to society that society cant afford to keep them around to --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "-- keep giving them chances",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Uh lets see so the other question that they wanted was whether the place that we live in uh compares to how we feel Whats the laws there in",
+                "label": "^h"
+            }
+        ]
+    }
+]

@@ -1,0 +1,343 @@
+[
+    {
+        "conversation_id": "conv_3727",
+        "turns": [
+            {
+                "text": "Do you have kids",
+                "label": "qy"
+            },
+            {
+                "text": "Oh yeah I got three How about yourself",
+                "label": "ny"
+            },
+            {
+                "text": "Uh we have two and another one on the way",
+                "label": "sd"
+            },
+            {
+                "text": "Oh you have got uh young children then",
+                "label": "qy^d"
+            },
+            {
+                "text": "Well yeah uh we do we have uh six year old He is oldest and then uh our baby will be year on Monday",
+                "label": "ny"
+            },
+            {
+                "text": "Oh my goodness That is great",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "What kind of mix do you have boy and girl",
+                "label": "qw"
+            },
+            {
+                "text": "Two boys",
+                "label": "ng"
+            },
+            {
+                "text": "Two boys",
+                "label": "b^m"
+            },
+            {
+                "text": "Two boys Yeah",
+                "label": "sd^m"
+            },
+            {
+                "text": "Do you know what is on the way yet Are you -- -",
+                "label": "qy"
+            },
+            {
+                "text": "No I am just about three months and uh I dont think we really even want to find out",
+                "label": "nn"
+            },
+            {
+                "text": "-- I do not blame you",
+                "label": "ba"
+            },
+            {
+                "text": "We like surprises So We will take either",
+                "label": "sd"
+            },
+            {
+                "text": "Well we have got two boys and girl also Well we have got two boys and girl",
+                "label": "sd"
+            },
+            {
+                "text": "And uh does it - are the two boys first",
+                "label": "%"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "Maybe maybe you will get lucky and get girl this time",
+                "label": "sv"
+            },
+            {
+                "text": "Maybe huh We we kind of like our boys though too so -",
+                "label": "aa"
+            },
+            {
+                "text": "Well our boys one is uh he is in graduate school at and uh he is in the Navy He is lieutenant in the Navy and the Navy is sending him for his Masters in Ocean Engineering --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh my goodness",
+                "label": "ba"
+            },
+            {
+                "text": "-- and we have got another boy that is us out in Maryland He is wildlife biologist uh and our girl is thirteen She is in the seventh grade So we have got still all sorts of good activities since -",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah You kind of got uh span there huh Oh well what do you do with your seventh grader",
+                "label": "aa"
+            },
+            {
+                "text": "Well she is into little bit of everything She is uh loves riding horses so she goes out riding as much as she can",
+                "label": "sd"
+            },
+            {
+                "text": "Do you have horses",
+                "label": "qy"
+            },
+            {
+                "text": "No",
+                "label": "nn"
+            },
+            {
+                "text": "She just she knows people that does huh",
+                "label": "qy^g"
+            },
+            {
+                "text": "Well that - yeah but maybe that riding place that is North of town that she goes to - She rides English and does jumping takes lesson and all that kind of stuff",
+                "label": "%"
+            },
+            {
+                "text": "Oh does she Oh She must really like them",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah she is into uh - well she plays the flute in the band and the piccolo and she is into this uh odyssey of the mind thing which is uh takes lot of time for uh - it - - what they call peace group - I dont know if you have gotten into that with your kids but that is where the kind of - well it is program for --",
+                "label": "ny"
+            },
+            {
+                "text": "Advanced",
+                "label": "^2"
+            },
+            {
+                "text": "-- Advanced kids",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Yeah I have heard about it Our little boy is in the first grade and I I taught school for six years",
+                "label": "b"
+            },
+            {
+                "text": "Oh okay",
+                "label": "b"
+            },
+            {
+                "text": "So I do know about that program and -- -",
+                "label": "sd"
+            },
+            {
+                "text": "Well my wife is involved and she kind of heads that up for these kids and last year they they got uh the state level They did not win that but they uh got one local and uh one region and they got new mix of kids this time So it keeps them busy",
+                "label": "sd"
+            },
+            {
+                "text": "-- Oh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "It keeps them busy",
+                "label": "sd^r"
+            },
+            {
+                "text": "Oh yeah I bet Huh well so does she go actually out into different classroom with with uh other kids that are involved in this",
+                "label": "aa"
+            },
+            {
+                "text": "Well uh yes but they well they have - well you probably know peace group that uh that they are advanced type That they are special well uh classes for peace classes - I think that uh --",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- this happens to be uh uh - history is what their peace class is this year But uh so -",
+                "label": "+"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "They uh she enjoys that kind of stuff --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh how neat",
+                "label": "ba"
+            },
+            {
+                "text": "-- and uh does well with it So yeah",
+                "label": "+"
+            },
+            {
+                "text": "Challenging huh",
+                "label": "qy^g"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "Always something to do",
+                "label": "sd^e"
+            },
+            {
+                "text": "Well uh as far as our activities we are kind of on different level here But my -- -",
+                "label": "sd"
+            },
+            {
+                "text": "Well you will get to different levels I guarantee it",
+                "label": "sv"
+            },
+            {
+                "text": "-- Yeah yeah My husband is going to take our six year old to the monster truck show tonight",
+                "label": "aa"
+            },
+            {
+                "text": "Uh okay",
+                "label": "b"
+            },
+            {
+                "text": "They like to uh -- -",
+                "label": "sd"
+            },
+            {
+                "text": "That will be fun",
+                "label": "ba"
+            },
+            {
+                "text": "-- both boy things -",
+                "label": "sv"
+            },
+            {
+                "text": "Oh yeah yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah but we we do not have any real uh - like we dont really ski We have not taken our kids skiing or anything Of course the baby is young but -- -",
+                "label": "b^m"
+            },
+            {
+                "text": "Got to wait couple years",
+                "label": "ad"
+            },
+            {
+                "text": "-- Yeah Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Sledding that is what you have got to do Tobogganing",
+                "label": "ad"
+            },
+            {
+                "text": "The what",
+                "label": "br"
+            },
+            {
+                "text": "You have got to go tobogganing and sledding with them",
+                "label": "ad"
+            },
+            {
+                "text": "Oh well yeah we we have done that He in fact he just goes right out here We have got quite bit of snow uh last week we got lot",
+                "label": "aa"
+            },
+            {
+                "text": "Well you are welcome to keep that",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah You would like that huh",
+                "label": "b"
+            },
+            {
+                "text": "Well I grew up in Wisconsin I I had plenty of snow and --",
+                "label": "nd"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "-- when I was kid - and we have lived here about seventeen years but we use to take all of the kids tobogganing and ice skating and all of that kind of stuff --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- it is fun really",
+                "label": "sv"
+            },
+            {
+                "text": "It is fun",
+                "label": "aa^m"
+            },
+            {
+                "text": "As long as you do not have to drive in it",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah I - no I do not like that I - really it makes me nervous Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "I had plenty of snow to last me forever I I dont care if I ever see any well I dont care if I ever see it but keep it off of here",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah Well uh I dont mind it but uh uh the winter gets long",
+                "label": "aa"
+            },
+            {
+                "text": "Yes",
+                "label": "aa"
+            },
+            {
+                "text": "You know I get ready that - come about this time of year I am kind of ready for it to start getting spring and it is too early yet",
+                "label": "%"
+            },
+            {
+                "text": "Well you have got You have got five months before you will see that",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah we do we do We have had few early springs though in the last few years They have not been too bad Come about March it gets you know lot nicer",
+                "label": "aa"
+            },
+            {
+                "text": "Oh yeah Out oldest son When uh -",
+                "label": "aa"
+            }
+        ]
+    }
+]

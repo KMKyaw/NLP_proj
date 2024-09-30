@@ -1,0 +1,795 @@
+[
+    {
+        "conversation_id": "conv_2586",
+        "turns": [
+            {
+                "text": "So do you fish",
+                "label": "qy"
+            },
+            {
+                "text": "Oh yeah My dad has lake cabin and so we go there for the small lake uh just outside of the Dallas Fort Worth area It takes us about three hours to get there And we go and we fish and we catch bunch of junk Nothing nothing to talk about for the most part but its fun",
+                "label": "ny"
+            },
+            {
+                "text": "Uh from boat or from shore",
+                "label": "qr"
+            },
+            {
+                "text": "From the dock from shore",
+                "label": "sd"
+            },
+            {
+                "text": "Oh thats nice Uh mostly catfish or -",
+                "label": "ba"
+            },
+            {
+                "text": "Oh mostly we catch carp If were doing good we catch catfish or two once in while And you know we go ahead and eat those But weve never caught enough to really have what youd call fish fry What we normally do is just uh go ahead and clean it up and then uh you know put it in bag and freeze it And and somebody takes it home and eats it then when theres just couple people instead of whole crowd Usually theres pretty good crowd there so we dont ever catch enough to eat Carp is usually pretty much fun Because Ive caught up to about an eight pound carp on little you know little pole with twenty pound test line And that thats pretty good fight So thats lot of fun",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah real light line real light rig",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Well that sounds like fun",
+                "label": "sv"
+            },
+            {
+                "text": "They fight hard",
+                "label": "sd"
+            },
+            {
+                "text": "Fish in Colorado - different than that -",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "bh"
+            },
+            {
+                "text": "Mostly trout in the mountains",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah and in the rivers and stuff",
+                "label": "b"
+            },
+            {
+                "text": "Yeah yeah mountain streams and rivers",
+                "label": "ny"
+            },
+            {
+                "text": "Are they good to eat",
+                "label": "qy"
+            },
+            {
+                "text": "Uh yeah very Yeah very much there you know",
+                "label": "ny"
+            },
+            {
+                "text": "Oh you mean size wise theyre not very big",
+                "label": "qy"
+            },
+            {
+                "text": "Um by and large no But but theyre big fun",
+                "label": "nn"
+            },
+            {
+                "text": "Yeah Well Ive been - is that mostly uh fly fishing when youre doing that or -",
+                "label": "b"
+            },
+            {
+                "text": "What",
+                "label": "br"
+            },
+            {
+                "text": "Are you fly fishing or are you using bobber",
+                "label": "qy^r"
+            },
+            {
+                "text": "I I Im fly fisherman",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Yeah I I cast ways Im not highly proficient but its fun",
+                "label": "b"
+            },
+            {
+                "text": "Ive never even tried that My - if I dont have reel with button on it I tend to get so much backlash its not worth the trouble",
+                "label": "sd"
+            },
+            {
+                "text": "Well let me explain fly fly fishing to you then Youre not casting weight on the end of the line",
+                "label": "co"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Youre casting the weight of the line",
+                "label": "qy^d^r"
+            },
+            {
+                "text": "With the little thing on the end",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah well",
+                "label": "b"
+            },
+            {
+                "text": "Yeah I thought it had weight",
+                "label": "b"
+            },
+            {
+                "text": "the fly on the end weighs nothing It weighs less than the line",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "So what you do is you strip off oh four five six little rolls coils of line into your hand",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And you whip the line",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "As you whip it over your head",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "or side to side you slowly feed out more and more",
+                "label": "+"
+            },
+            {
+                "text": "Um So youre fishing downstream so it will carry some",
+                "label": "qy^d"
+            },
+            {
+                "text": "Well no no You fish upstream",
+                "label": "nn"
+            },
+            {
+                "text": "Oh you fish upstream",
+                "label": "qy^d^m"
+            },
+            {
+                "text": "Right And then you let it carry it downstream",
+                "label": "na"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And then you reel it in and you do it again",
+                "label": "sd"
+            },
+            {
+                "text": "You hope that they think its bug and",
+                "label": "bf"
+            },
+            {
+                "text": "Yeah exactly",
+                "label": "aa"
+            },
+            {
+                "text": "and eat it",
+                "label": "+"
+            },
+            {
+                "text": "Yeah exactly",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Jump at it Uh from what Im seeing and hearing and all the the big pattern thats really looking forward for spring is the grub pattern",
+                "label": "bf"
+            },
+            {
+                "text": "Thats fish",
+                "label": "br"
+            },
+            {
+                "text": "No no It it looks like grub Yeah",
+                "label": "nn"
+            },
+            {
+                "text": "Oh its its lure",
+                "label": "bf"
+            },
+            {
+                "text": "Okay whenever you yeah - lure fly",
+                "label": "aa"
+            },
+            {
+                "text": "I see",
+                "label": "bk"
+            },
+            {
+                "text": "Whenever you have something that looks like something else --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and its fly you call it pattern",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "All right uh you know theres bumble bee patterns --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- theres excuse me Uh theres bumble patterns theres mosquito patterns theres wasp patterns theres grub patterns",
+                "label": "+"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "Uh",
+                "label": "%"
+            },
+            {
+                "text": "Did someone just come up with this design and and youre going to make one for yourself",
+                "label": "qy"
+            },
+            {
+                "text": "Uh",
+                "label": "%"
+            },
+            {
+                "text": "or are you going to buy it",
+                "label": "qrr"
+            },
+            {
+                "text": "You can buy them Uh Ive got some And",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "They seemed to have been hitting real heavy on it in Fall",
+                "label": "+"
+            },
+            {
+                "text": "Oh its just that that just happens to be what the fish like this year huh",
+                "label": "bf"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "You know how that changes the phase of the moon and -",
+                "label": "sd"
+            },
+            {
+                "text": "I guess so We tend to use just bait",
+                "label": "na"
+            },
+            {
+                "text": "Yeah Yeah I I",
+                "label": "b"
+            },
+            {
+                "text": "And few lures but bait tends to work the best just some blood bait",
+                "label": "+"
+            },
+            {
+                "text": "You see Im from west Texas",
+                "label": "+"
+            },
+            {
+                "text": "Oh are you",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Where are you from",
+                "label": "qw"
+            },
+            {
+                "text": "Lubbock",
+                "label": "sd"
+            },
+            {
+                "text": "Oh Im from Midland",
+                "label": "sd"
+            },
+            {
+                "text": "Oh another west Texan",
+                "label": "bf"
+            },
+            {
+                "text": "I went to college at Tech so Youve been out to Buffalo Gap fishing",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah Ive been up there",
+                "label": "b"
+            },
+            {
+                "text": "It",
+                "label": "sv"
+            },
+            {
+                "text": "I didnt catch anything but Ive been up there",
+                "label": "sd"
+            },
+            {
+                "text": "It its kind of nice way to get away from everything for the day",
+                "label": "+"
+            },
+            {
+                "text": "Yeah its fun Its lazy Take picnic lunch I used to do that with my dad Every once in while wed go out on Saturday and just spend the day",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Before it got too hot",
+                "label": "+"
+            },
+            {
+                "text": "Well there you fish mornings and evenings",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "And nights",
+                "label": "+"
+            },
+            {
+                "text": "Yeah we do most of our fishing at night",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Just from the heat of it all Thats one advantage youve certainly got on us",
+                "label": "sd"
+            },
+            {
+                "text": "It at times gets incredibly hot here",
+                "label": "sd"
+            },
+            {
+                "text": "It does Ive only been up there once In the summer Well - no Ive been up there twice in the summer But both times it was really pleasant In fact it snowed on us in in gosh when was that",
+                "label": "bh"
+            },
+            {
+                "text": "June",
+                "label": "qy"
+            },
+            {
+                "text": "We were in Mesa Verde Park and it was like the end of Ju- It was just before July fourth",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "And it was twenty-eight twenty-nine degrees We were out in this silly tent with regular little sleeping bags not knowing any better And here it went and it froze and it snowed on us",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "We did not know what to do about it",
+                "label": "sd"
+            },
+            {
+                "text": "Fishing is not just just dragging fish out of the water Its its total experience you know getting out in nature and",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "hearing the crickets and listening to the birds and",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "seeing the squirrels and",
+                "label": "+"
+            },
+            {
+                "text": "Do -",
+                "label": "%"
+            },
+            {
+                "text": "camping out and eating out",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "of doors and -",
+                "label": "+"
+            },
+            {
+                "text": "Do you have to - do you wear waders when you fish",
+                "label": "qy"
+            },
+            {
+                "text": "Uh I probably ought to I just freeze",
+                "label": "ng"
+            },
+            {
+                "text": "Oh Goodness it must be little bit cold",
+                "label": "b"
+            },
+            {
+                "text": "Yeah yeah well you know",
+                "label": "aa"
+            },
+            {
+                "text": "Thats cold water around there",
+                "label": "sd"
+            },
+            {
+                "text": "ankle deep or standing on the bank and slipping it out there",
+                "label": "+"
+            },
+            {
+                "text": "Um Do you have any -",
+                "label": "qy"
+            },
+            {
+                "text": "You know I always intend to just stand on the bank and just kind of slip it",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I see",
+                "label": "bk"
+            },
+            {
+                "text": "out there and you know how it is The waters kind of -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah And you get you get little more carried away with it and you move little closer",
+                "label": "aa"
+            },
+            {
+                "text": "And then youre in to it just little bit and then you splash in and",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "the next thing you know your knees are wet",
+                "label": "+"
+            },
+            {
+                "text": "Do you have any kids that you take fishing",
+                "label": "qy"
+            },
+            {
+                "text": "Uh got stepdaughter",
+                "label": "na"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Shes real sweet And uh at times she enjoys it at times not",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "fuzzy little dog",
+                "label": "sd"
+            },
+            {
+                "text": "I have three and half year old and one and half year old",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "And the little one of course is could care less",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "The uh three and half year old has just gotten to the point - we got him little pole last year and just put uh his big thing last year was throwing it in the water and reeling it up That was what he considered fishing This year hes gotten to where he can We we were at friends uh stock pond we were out at their farm and and they had been fishing and let him use the pole while we wal- we all walked off healthy hundred yards or so and let him fish",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And he started trying to cast it So he he was kind of getting there but hes",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah you guys sure want to be out of range",
+                "label": "b"
+            },
+            {
+                "text": "Hes at dangerous point right now He understands the mechanics of pushing the button and throw but not necessarily the direction its going to go in",
+                "label": "+"
+            },
+            {
+                "text": "It takes time",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Last year we had oh just wonderful trip up to Travers Lake Trappers Lake in Colorado Oh it was cold and rain the whole time And we still had good time out",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "of the deal",
+                "label": "+"
+            },
+            {
+                "text": "Well thats good",
+                "label": "ba"
+            },
+            {
+                "text": "Uh and Colorado is beautiful place to live",
+                "label": "sv"
+            },
+            {
+                "text": "Oh yeah My husband would like to live there but I dont know All of our family is here so -",
+                "label": "aa"
+            },
+            {
+                "text": "Well and youve got to have - youve got to work for living",
+                "label": "sd"
+            },
+            {
+                "text": "Well yeah but I is up there so that part of it would probably work out",
+                "label": "aa"
+            },
+            {
+                "text": "What division you all in",
+                "label": "qw"
+            },
+            {
+                "text": "Im sorry what",
+                "label": "br"
+            },
+            {
+                "text": "What division are you all in",
+                "label": "qw^r"
+            },
+            {
+                "text": "Were both uh - I was uh military but hes division three It goes back and forth Division well - maybe division one right now Hes in computers",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "Well the only thing up here",
+                "label": "sd"
+            },
+            {
+                "text": "And hes in school",
+                "label": "sd"
+            },
+            {
+                "text": "is division one",
+                "label": "+"
+            },
+            {
+                "text": "and everything else I have some friends who work up there",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "bh"
+            },
+            {
+                "text": "Kathy and Kevin Guy",
+                "label": "sd"
+            },
+            {
+                "text": "Okay Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Yeah And they like to fish Theyve been inviting us to come up there in the summer Her dad has cabin and they go fishing up there",
+                "label": "b"
+            },
+            {
+                "text": "Oh fishings",
+                "label": "sd"
+            },
+            {
+                "text": "So that would be neat to",
+                "label": "sd"
+            },
+            {
+                "text": "fishing is fun up here Its not -",
+                "label": "+"
+            },
+            {
+                "text": "try it some time",
+                "label": "+"
+            },
+            {
+                "text": "It seems like the success ratio the success rate here is not as good as on some of the better lakes there But it is fun",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know",
+                "label": "sv"
+            },
+            {
+                "text": "long as you have good time thats the main point so -",
+                "label": "sv"
+            },
+            {
+                "text": "The the experience is is better up here I think",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know it seems more relaxing theres more to look at",
+                "label": "sv"
+            },
+            {
+                "text": "Definitely more to look at",
+                "label": "aa^m"
+            },
+            {
+                "text": "And and theres something about listening to water run thats relaxing to the soul",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know if youre if youre just sitting on nice hot lake",
+                "label": "+"
+            },
+            {
+                "text": "Yeah The only thing youve got to watch is when that creek comes up We camped next to one one time when we were there couple of summers ago And we figured we were up long way off And then it rained that night and we thought well wonder how far off we are And we got up the next day and that creek that had been fifty or sixty feet from our site of our tent was now about three feet away And its like oh well maybe we ought to move just touch So that was kind of funny",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah it it is interesting to watch that water rise all of sudden",
+                "label": "b"
+            },
+            {
+                "text": "Yeah I just love the way it looks I could almost just watch the wa- - we in fact we have gotten out on on trips before and just stopped and watched it because there was so much and if you were there I mean - it was - one time we were there and I guess it was late May so it was really your spring almost",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "you know at even though it was it was really summer down here And and the I guess the creek the mountains were really starting to melt and the creek was just wild just running And and all the white water and noise and the - it was just beautiful",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I- - it gets - foamy almost",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And you know its just pure and pristine",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And the froth and -",
+                "label": "+"
+            }
+        ]
+    }
+]

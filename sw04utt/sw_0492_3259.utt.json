@@ -1,0 +1,599 @@
+[
+    {
+        "conversation_id": "conv_3259",
+        "turns": [
+            {
+                "text": "Okay Ill just go with you first What kind of --",
+                "label": "o"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "-- eating out do you enjoy",
+                "label": "+"
+            },
+            {
+                "text": "Well I like dining out Of course it means that I dont have to cook",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "But um Im divorced woman I have one child --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and you know when when we dine out we go to like medium priced restaurants",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I dont I dont particularly - I think its sort of waste of money to go real to real high priced restaurant",
+                "label": "%"
+            },
+            {
+                "text": "Do you go like home cooking like Black-Eyed Pea and that kind of thing or --",
+                "label": "qr"
+            },
+            {
+                "text": "Um - -",
+                "label": "ng"
+            },
+            {
+                "text": "-- cafeteria",
+                "label": "+"
+            },
+            {
+                "text": "Not really We go wh- more for the uh Chinese --",
+                "label": "+"
+            },
+            {
+                "text": "Me too",
+                "label": "sd"
+            },
+            {
+                "text": "-- and Italian --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and stuff like that Mexican stuff --",
+                "label": "+"
+            },
+            {
+                "text": "Mexican uh-huh",
+                "label": "b^m"
+            },
+            {
+                "text": "-- that I cant cook",
+                "label": "+"
+            },
+            {
+                "text": "Uh we do too We do the same",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "What are your favorite places",
+                "label": "qw"
+            },
+            {
+                "text": "Um well I like Chinese food",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Um theres little place down on what is that Coit Road um Chinese Pavilion or something",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "That is really good and I like it And um I do I do like Chinese buffets",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah Well we go weve gone to August Moon and we think that was real good --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but our favorite when you have little more to spend is to go to Taiwan or May Dragon",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And those are excellent Theyre really nice place you could take someone to eat",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Its not the the rinky Chinese decorations --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but its very elegant nice place to eat",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "We go very very often we go out for fajitas Thats - my husband has just gotten stuck",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "And we go to On the Border",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And lots of places that have uh I think - and some of those and get fajitas and hell just eat chips until weve got three or four baskets coming back",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And then uh last weekend we went out for Italian also and for some reason the cooler weather makes me tend to want to go eat lasagna and garlic bread",
+                "label": "sd"
+            },
+            {
+                "text": "Right uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So we went to El Sorrento",
+                "label": "sd"
+            },
+            {
+                "text": "Ha- - yeah have you ever um --",
+                "label": "%"
+            },
+            {
+                "text": "It was fun",
+                "label": "sd"
+            },
+            {
+                "text": "-- tried Pappasitos",
+                "label": "+"
+            },
+            {
+                "text": "You know what This is thats real funny you said that because we were coming back Sunday on Central from church and Bob pointed to it and he said I keep hearing good things about that place were going to have to go",
+                "label": "qh^h"
+            },
+            {
+                "text": "Oh it is delicious",
+                "label": "sd"
+            },
+            {
+                "text": "Thats what he - tha- - in fact youre about the third or fourth person in the last month that said that",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So I guess well have to do it",
+                "label": "sd"
+            },
+            {
+                "text": "Its - you always stand in line when you go --",
+                "label": "%"
+            },
+            {
+                "text": "Thats what it thats what -- -",
+                "label": "%"
+            },
+            {
+                "text": "-- but its worth the wait",
+                "label": "sd"
+            },
+            {
+                "text": "-- MAGAZINE said that It said there was always line",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But thats probably I mean thats good thats good sign",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh And have you ever tried um the Macaroni Grill up on -",
+                "label": "aa"
+            },
+            {
+                "text": "Yes we did Now my kids didnt like it because they just wanted to get plain old spaghetti --",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- or lasagna and most of those things were little more northern Italy",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And they like just the traditional Theyre not very -",
+                "label": "sd"
+            },
+            {
+                "text": "Tha- th- theyre the Spaghetti Warehouse type",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yes they are Exactly Exactly",
+                "label": "ny"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "The place of the seventies",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah yeah but my little girl likes uh Spaghetti Warehouse --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- real well",
+                "label": "+"
+            },
+            {
+                "text": "Yeah most kids do",
+                "label": "b"
+            },
+            {
+                "text": "Its real entertaining for her",
+                "label": "sd"
+            },
+            {
+                "text": "- - do you ever go for steak Just steak and potato and salad bar that kind of thing",
+                "label": "%"
+            },
+            {
+                "text": "Um not really Thats steak is something that I cook at home",
+                "label": "ng"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know tha- that you grill out --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and I really dont particularly um -",
+                "label": "%"
+            },
+            {
+                "text": "Well Im Im real curious to try this one that has such commercials The uh that Del Lincoln and oh what is that guys name They do those real corny commercials",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "Its uh over theres one over there in Addison I cant remember his name Anyhow its some -",
+                "label": "sd"
+            },
+            {
+                "text": "Steak -",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah its some famous steak place over in Addison Theres theres second one downtown and they have these really corny radio commercials --",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but the- but their steak is supposed to be wonderful So I ha- I had not tried that My husband was saying that up north they have such nice restaurants where you can go after theater or after the movie",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And it seems like Ive been - - we found those one time and then they discontinued It was over in Addison",
+                "label": "%"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "And then they uh closed up",
+                "label": "sd"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "So most of these places are pretty much just uh theme restaurants --",
+                "label": "sv"
+            },
+            {
+                "text": "Right I think thats what --",
+                "label": "aa"
+            },
+            {
+                "text": "-- around here",
+                "label": "+"
+            },
+            {
+                "text": "-- goes you know really goes right now in the in the Dallas area",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Of course you know down next to downtown up around McKinney and everything --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know theres just theres different class --",
+                "label": "+"
+            },
+            {
+                "text": "Well thats exactly true",
+                "label": "aa"
+            },
+            {
+                "text": "-- of restaurants up there --",
+                "label": "+"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "-- that I cant even touch",
+                "label": "+"
+            },
+            {
+                "text": "Thats right Yeah Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "You know it would probably take my whole paycheck just to go in and --",
+                "label": "sv"
+            },
+            {
+                "text": "Thats - - yeah thats right",
+                "label": "%"
+            },
+            {
+                "text": "-- have one meal --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- up there but um -",
+                "label": "+"
+            },
+            {
+                "text": "I had friend who was taken to Lawrys downtown --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- for prime rib and I havent been We usually dont go for beef really anymore",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Where - weve gotten so used to doing chicken and things at home that thats thats usually the way well go --",
+                "label": "%"
+            },
+            {
+                "text": "Right uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- if were not going lasagna",
+                "label": "+"
+            },
+            {
+                "text": "Yeah when when I go out its its normally to get um some specialty type of food --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- besides you know because - chicken and --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- steaks and everything I grill at home",
+                "label": "+"
+            },
+            {
+                "text": "I know Well I understand",
+                "label": "ba"
+            },
+            {
+                "text": "And and really its theyre lot better than what I get in the restaurant",
+                "label": "sd"
+            },
+            {
+                "text": "Thats right and save you some money too",
+                "label": "aa"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "Well -- -",
+                "label": "%"
+            },
+            {
+                "text": "Saves you little bit money",
+                "label": "aa"
+            },
+            {
+                "text": "-- now what is your whats your childs favorite place to eat",
+                "label": "qw"
+            },
+            {
+                "text": "Um favorite place uh she has lot Taco Bell",
+                "label": "^h"
+            },
+            {
+                "text": "Oh yeah Theyre easy",
+                "label": "b"
+            },
+            {
+                "text": "Yeah thats right",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "Well mine enjoy that too They like to go pretty much where we like to go and theyll -- -",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and then our favorite thing on Fridays we generally order pizza in so --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- not Pizza Inn but pizza to our house",
+                "label": "+"
+            },
+            {
+                "text": "Right uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So weve done - Well um is there anything else youd like to discuss about it",
+                "label": "%"
+            },
+            {
+                "text": "No not that I know of",
+                "label": "nn"
+            },
+            {
+                "text": "I think weve I think its come to an eye conclusion so Ill talk with you later Thank you",
+                "label": "fc"
+            },
+            {
+                "text": "uh-huh thank you",
+                "label": "fc"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc^m"
+            }
+        ]
+    }
+]

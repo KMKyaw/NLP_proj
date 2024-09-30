@@ -1,0 +1,267 @@
+[
+    {
+        "conversation_id": "conv_4812",
+        "turns": [
+            {
+                "text": "So how do you feel about it",
+                "label": "qo"
+            },
+            {
+                "text": "Uh I I dont see any problem with with testing for random drugs",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah I I myself almost uh am in favor of it Uh I work at Honeywell and I went through pretty I dont know I went through standard drug testing thing before I I was brought on",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I think thats pretty standard At least at Honeywell it is Uh I think its important to insure the quality and and uh I dont know almost the goodness of character You know --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- that kind of thing Where do you work",
+                "label": "+"
+            },
+            {
+                "text": "Uh well Im graduate student right now at Carnegie Mellon",
+                "label": "nd"
+            },
+            {
+                "text": "Oh okay Oh okay",
+                "label": "bk"
+            },
+            {
+                "text": "And I I just came from Saint Paul",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh interviewing with Three",
+                "label": "+"
+            },
+            {
+                "text": "Oh great",
+                "label": "ba"
+            },
+            {
+                "text": "And uh they have policy for uh testing If you if they make you an offer then theyll test you right before you start",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And I guess the only drawback I can see to to drug testing is in in case you are on some sort of medication that might give some uh sort of false positive result --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- then there could --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- be some sort of problem But i- -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah And that that definitely happens you know I mean those the drug tests sure theyre accurate but theres always that margin of error",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And thats thats something to be aware of Another thing is lot of times you know they arent that accurate They arent that sensitive Like if youre on prescription drug of some kind you know what are they going to do about that",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know I was on couple of different prescription drugs when I was tested for Honeywell and uh uh you know I know they didnt catch that or else they would have said something Uh Im sure they screen for just particular few types Although the literature they give with you says yeah we do this and then they list about five thousand drugs they try to test for",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Uh I dont know What what program are you in over at Carnegie Mellon",
+                "label": "h"
+            },
+            {
+                "text": "Uh electrical engineering",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay Great Uh yeah Im graduate student at in Florida University of Central Florida",
+                "label": "bk"
+            },
+            {
+                "text": "Oh wow",
+                "label": "ba"
+            },
+            {
+                "text": "And this is actually an internship up here But uh they uh even for interns they they do the whole random drug or the whole drug testing thing so -",
+                "label": "sd"
+            },
+            {
+                "text": "They test you uh before they before you start or before you even --",
+                "label": "qy"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- interview or -",
+                "label": "+"
+            },
+            {
+                "text": "Uh they essentially - no I sure dont uh - they essentially uh they essentially uh made me the offer and then and then uh did the drug testing thing after that So uh it was one of those things where you go through the the general battery of all their tests and and then they essentially give you the offer --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and then at that point theyll theyll ask you to go to drug testing and things like that",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "So uh theres some noise on this end Im actually in mall calling so -",
+                "label": "sd^c"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "You probably wondered huh But -",
+                "label": "qy^g"
+            },
+            {
+                "text": "Yeah Wh- what happens if you were to fail Then do they give you like one ch- one more chance or two more chances",
+                "label": "ny"
+            },
+            {
+                "text": "Yes Thats good question I believe from what I remember of the literature they gave uh if you fail I believe they give you one more chance They probably give you chance to explain yourself --",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and then maybe give you another chance to go through it But uh you know once again those things are not that accurate so theres undoubtedly proportion of people who do fail you know But uh wha- - are you working right now anywhere or -",
+                "label": "+"
+            },
+            {
+                "text": "Uh no",
+                "label": "nn"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "Im just about to finish my Masters in May and uh --",
+                "label": "sd^e"
+            },
+            {
+                "text": "Oh okay Great",
+                "label": "bk"
+            },
+            {
+                "text": "-- just interviewing with companies right now",
+                "label": "+"
+            },
+            {
+                "text": "Yeah That was the first time Id ever gotten any kind of drug screening you know Was was going to Honeywell friend of mine is also doctoral student down there",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And hes doing an internship with I",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "And uh they basically uh did the same exact thing Uh we both got our internships at the same time and we both had to go through drug testing at the same time So one of those things where we went through kind of an identical process But uh -",
+                "label": "sd"
+            },
+            {
+                "text": "Did do they test you at right now at work too",
+                "label": "qy"
+            },
+            {
+                "text": "No no Thats --",
+                "label": "nn"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "-- one thing they dont do is is drug testing while youre on the job Uh I think I think the unwritten rule is yeah expect it but they dont do it",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "You know so Thats good I guess I dont know I mean I uh I have gone to couple of parties since since that time and while I dont do any drugs myself Ive seen some people who work there uh you know smoking joint or whatever",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh you know thats the kind of thing that would definitely come up you know But no they dont they dont really do that So -",
+                "label": "sd"
+            },
+            {
+                "text": "Wow Is it formal policy that they said they might test",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            }
+        ]
+    }
+]

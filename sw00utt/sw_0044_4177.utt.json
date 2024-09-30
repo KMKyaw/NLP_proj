@@ -1,0 +1,259 @@
+[
+    {
+        "conversation_id": "conv_4177",
+        "turns": [
+            {
+                "text": "Hi So do you think you get good coverage from the sources that you have",
+                "label": "fp"
+            },
+            {
+                "text": "Uh actually no because because Im in school I I kind of miss out on most of the current events I just catch the major ones off the news or if someone starts to talk about it",
+                "label": "nn"
+            },
+            {
+                "text": "Do you watch lot of to get the news then",
+                "label": "qy"
+            },
+            {
+                "text": "Uh I dont watch lot of it but thats the on- - basically thats my only major source of information",
+                "label": "ng"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "What about what about you",
+                "label": "qo"
+            },
+            {
+                "text": "Well I read uh - I get bunch of different things I get newspaper every day and I try to at at least have few minutes to look through that and I look through uh - I get NEWSWEEK every week which I I pretty much read that cover to cover and I as far as you know - that satisfies most of the short term news I get Uh dont watch much dont have enough time and uh dont listen to the radio too much especially the news channels or anything like that you know they might give you little blurbs like --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- this happened or that happened and thats about all I ever hear of it Uh but most of my news probably comes from NEWSWEEK and for the longer term I I read uh like SCIENTIFIC AMERICAN and and uh READERS DIGEST and some of those other types of magazines that come out which they - the news isnt like immediate what youd generally think of as news but its recent material",
+                "label": "+"
+            },
+            {
+                "text": "And its more in depth",
+                "label": "^2"
+            },
+            {
+                "text": "Yeah it is it is more in depth less broad Well actually its probably isnt less broad but its just more in depth and uh it is it is more sig- it is more just significant information you know It is the big events not the little events",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Not the fact that there was big auto accident down on the corner of Broad and Main you know",
+                "label": "sd"
+            },
+            {
+                "text": "I know where theyre just trying to fill in",
+                "label": "aa"
+            },
+            {
+                "text": "Yes or theyre making making time because they to fill in an hours worth of news",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Uh I get kind of bored watching actually when I watch the news on because --",
+                "label": "sd"
+            },
+            {
+                "text": "I know I do I do too",
+                "label": "b"
+            },
+            {
+                "text": "-- it goes so slow and then theres nothing that you know really is like oh so exciting",
+                "label": "+"
+            },
+            {
+                "text": "Yeah you may find one little uh news item interesting so you have to wait twenty minutes to to hear about it",
+                "label": "b"
+            },
+            {
+                "text": "Yeah that thats about what it ends up being Listen to the news to hear the traffic report or something",
+                "label": "b"
+            },
+            {
+                "text": "Yeah actually - you mention NEWSWEEK I I I do like uh NEWS AND WORLD REPORT I dont get to read it as much as I like but thats I think thats good magazine",
+                "label": "b"
+            },
+            {
+                "text": "Yeah I think theyre about the same I you know they they certainly have very similar uh charter at least in my mind And uh uh what what kind of uh what kind of news normally interests you I mean what do you what what do you find interesting --",
+                "label": "b"
+            },
+            {
+                "text": "Well --",
+                "label": "sd"
+            },
+            {
+                "text": "-- versus what do you find boring",
+                "label": "+"
+            },
+            {
+                "text": "-- right now trying to keep abreast of uh whats going on in Europe you know with all the Rs satellites breaking off trying to become independent and you know European community coming together",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Thats going to affect our uh economy quite bit",
+                "label": "sv"
+            },
+            {
+                "text": "I think it will - uh they they keep claiming its going to have big influence but weve yet to see it and th- - its real short term yet though I mean its only been three months or something like that --",
+                "label": "aa"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- since that happened so -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^r"
+            },
+            {
+                "text": "But they like to tell us that its going to be important",
+                "label": "sv"
+            },
+            {
+                "text": "Im Im pretty sure it is because uh --",
+                "label": "sv"
+            },
+            {
+                "text": "I think it is too",
+                "label": "aa"
+            },
+            {
+                "text": "-- once once Europe becomes unified and uh their economy becomes one big economy were going to be uh kind of hurting",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I I think thats possibility - uh it we might also be helped though because it it will be easier to do business over there too",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah definitely",
+                "label": "aa"
+            },
+            {
+                "text": "For the companies that already have presence over there and uh I know of at least one company that specifically went over there and established presence before nineteen ninety-two so that they would have it when it --",
+                "label": "sv"
+            },
+            {
+                "text": "Oh yeah --",
+                "label": "b"
+            },
+            {
+                "text": "-- came time",
+                "label": "+"
+            },
+            {
+                "text": "-- so they have toe hold I good toe hold",
+                "label": "bf"
+            },
+            {
+                "text": "Yep Because once youre in there then you can easily expand But getting in after nineteen ninety-two is more difficult",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah because when they first start off theyre going to be highly protectionist so -",
+                "label": "b"
+            },
+            {
+                "text": "Yes",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And theres already lot of evidence that they are being very protectionist even amongst themselves theyre being somewhat protectionist you know",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Like England doesnt want to do one thing and and Sweden doesnt want to do other thing and theyre theyve all got their own reasons which have to be resolved yet",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And some of it I mean is - Im sure within those peoples minds its quite justified",
+                "label": "%"
+            },
+            {
+                "text": "Yeah I I can understand their viewpoint theyre just theyre starting off their economys little bit weak so you want to --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- get established before they --",
+                "label": "+"
+            },
+            {
+                "text": "Before they --",
+                "label": "^2"
+            },
+            {
+                "text": "-- com- -",
+                "label": "+"
+            },
+            {
+                "text": "-- open up their borders to everyone",
+                "label": "+"
+            },
+            {
+                "text": "Yeah totally",
+                "label": "aa"
+            },
+            {
+                "text": "Uh what is the uh - do you watch anything like with sports or anything like that",
+                "label": "qw"
+            },
+            {
+                "text": "Actually Im not really into sports My roommates are so unfortunately I forced to watch quite bit of sports",
+                "label": "^h"
+            },
+            {
+                "text": "Against your will",
+                "label": "bf"
+            },
+            {
+                "text": "Yeah we have to fight over the remote control",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah at least you guys have remote control Its sometimes better to not have one of those Course you can always mislocate it Or misplace it I mean not mislocate it but misplace it and -",
+                "label": "b"
+            }
+        ]
+    }
+]

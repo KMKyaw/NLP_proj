@@ -1,0 +1,427 @@
+[
+    {
+        "conversation_id": "conv_2775",
+        "turns": [
+            {
+                "text": "Okay Tell me about your home",
+                "label": "o"
+            },
+            {
+                "text": "Well its an older home It was made back in the early sixties Its pier beam house",
+                "label": "sd"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "Got three bedrooms one bath and that just makes me scream",
+                "label": "sd"
+            },
+            {
+                "text": "Thats pretty tough What area do you live in",
+                "label": "ba"
+            },
+            {
+                "text": "I live in Houston",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay I see Is that pretty typical for your area",
+                "label": "bk"
+            },
+            {
+                "text": "Well for the neighborhood Im in - yeah",
+                "label": "^h"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^m"
+            },
+            {
+                "text": "This is one of the more established neighborhoods",
+                "label": "sd"
+            },
+            {
+                "text": "Huh-uh That sounds real interesting I live in suburb of Dallas and uh I live in the basic three bedroom two bath home So at least I have two bathrooms Thats not so bad but uh its pretty typical for the area as well Uh Ive always been interested in older homes personally So I think you can end up doing more with them it seems like What about yard space Do you have lot of big lot or anything like that",
+                "label": "b"
+            },
+            {
+                "text": "The whole lot Im sitting on is roughly half an acre",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I see",
+                "label": "bk"
+            },
+            {
+                "text": "About half of that about quarter acre of that Ive got garden",
+                "label": "sd"
+            },
+            {
+                "text": "Huh-uh Oh thats nice Because I have just like very small you know those basic tract houses like that We have very small yard and um I do have garden but its extremely small but uh it seems like though for your area that that is sort of different In big city like that most houses I would think would be sort of like what we live in Just you know basic tract house",
+                "label": "b"
+            },
+            {
+                "text": "Well in the uh newer neighborhoods and development communities the houses are so close together",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "if your neighbor is having an argument you can here it blow for blow",
+                "label": "sd"
+            },
+            {
+                "text": "Thats exactly right Thats the way we are We have uh one thing we have that we really enjoy here is we have hot tub in the back So we have we have quite few parties and uh seems like everyone that lives around us ends up you know hearing every conversation that goes on outside with everyone So uh thats true that is one thing that I dont enjoy about it is the houses are too close together But uh you know its fine for now hopefully eventually well move in larger home The only thing that I dont like also is the rooms are so small You know its very difficult to arrange furniture and things like that so - Are your rooms in your house bigger since its sixties home Because it seems like then that they built the homes much larger is that true",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah And theyve got better closet space",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "new houses that Ive seen",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Yeah Thats really it Thats plus At least we do have like three walk-in closets here So thats thats maybe not so typical but uh -",
+                "label": "aa"
+            },
+            {
+                "text": "It helps bunch",
+                "label": "^2"
+            },
+            {
+                "text": "Yeah It really does except when you have to fill them up and then you get those Visa bills in And -",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So anyway um anything else about the area about um - you know can you compare yourself to any thing around there",
+                "label": "qo"
+            },
+            {
+                "text": "Most of the neighborhood Im in is pretty typical This whole neighborhood was built between sixty and sixty-five",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah So its its -",
+                "label": "b"
+            },
+            {
+                "text": "Everybody has got pretty good size yard",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I mean I got probably the biggest if not the biggest yard Ive got pretty close to it",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^r"
+            },
+            {
+                "text": "in the entire neighborhood",
+                "label": "+"
+            },
+            {
+                "text": "Thats nice That is nice But you know too the only bad thing too is that then you have to keep up you know - you have to",
+                "label": "ba"
+            },
+            {
+                "text": "Well I",
+                "label": "sd"
+            },
+            {
+                "text": "the yard to deal with and -",
+                "label": "+"
+            },
+            {
+                "text": "I enjoy that though",
+                "label": "+"
+            },
+            {
+                "text": "Do you You must have more time than than I have Im sitting out here right now We had this terrible rain and Im looking at the yard and seeing how tall the grass has gotten and it seems like - now thats thats - I almost wish I was in an apartment or something You know",
+                "label": "bh"
+            },
+            {
+                "text": "Its rained",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Well um I dont know do we just terminate this or do you have to talk for certain amount of time Do you know",
+                "label": "b"
+            },
+            {
+                "text": "No we can after you go to somewhere between five and ten minutes theyll get little master recording on",
+                "label": "nn"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "this",
+                "label": "+"
+            },
+            {
+                "text": "Okay Well can you tell me anything else about the house Are you working on it I mean do people around that area seem to do lot of renovation",
+                "label": "b^r"
+            },
+            {
+                "text": "Yeah This entire neighborhood everybody keeps the places up real nice",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah Thats thats nice Yeah the town that I came from is uh is uh older town it like - the typical the typical homes there are like you know early nineteen hundreds late eighteen hundreds",
+                "label": "b"
+            },
+            {
+                "text": "Wow",
+                "label": "ba"
+            },
+            {
+                "text": "and I renovated house there and that was so much fun I mean there if you dont live in house thats at least seventy-five to hundred years old you know youre just nobody practically And that was really that was good experience for me to learn lot of discipline and uh was considered typical for that area So uh it was quite change for me to come to house like that now thats just you know very square little box and you know theres not whole lot you can do with it But uh anyway -",
+                "label": "sd"
+            },
+            {
+                "text": "Living in the city has some advantages",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah Thats true",
+                "label": "aa"
+            },
+            {
+                "text": "If given the choice Im getting out",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really Well I have lived in small town for you know - this this town was like less than ten thousand people and it was about sixty miles south of Dallas And you know I didnt move out of there until I was you know twenty-seven and that was just you know - so I love the big city You know I had lived in rural area for for so long so Ive enjoyed it but uh it can it can get kind of tough Its like rat race sometimes",
+                "label": "b"
+            },
+            {
+                "text": "Thats just something Ill never adapt to I dont I dont want to be part of the rat race I want to be basically just kind of left alone",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "If I want to sit around and mess with my garden Ill mess with my garden",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^r"
+            },
+            {
+                "text": "if I want to work in the flower beds -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah It sounds like you enjoy working outside as well I I -",
+                "label": "b^r"
+            },
+            {
+                "text": "Very much",
+                "label": "na"
+            },
+            {
+                "text": "yeah I really do enjoy that But I havent planted anything yet or you know I usually have gotten flowers coming out the gazoo but I I havent done that yet Ive had finals this week So uh",
+                "label": "b"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "you know Im just kind of trying to trying to stick in with that but uh since thats over with now maybe I can I can get this yard in shape Do you do lot of gardening",
+                "label": "+"
+            },
+            {
+                "text": "Uh landscaping is more than the gardening",
+                "label": "no"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "in the garden Ive got my beans peas",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^r"
+            },
+            {
+                "text": "Ive got some onions out",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^r"
+            },
+            {
+                "text": "tomatoes Im not real sure what theyre going to do this year",
+                "label": "+"
+            },
+            {
+                "text": "I never have much luck with tomatoes I do plant lot of beans because it seems like the uh bugs get on them so easily and I have real problem with anything like pesticides or anything like that so the only thing that I use is soap I water you know spray the plants because they say supposedly that will keep the bugs off them But uh I dont have luck with that tomato plant so I hate to spray them with anything Um what do you do Do you have any tips you could give me",
+                "label": "sd"
+            },
+            {
+                "text": "Um my favorite one is putting on the um tomato plant is to put uh dust",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and that stuff has been around since the beginning of time",
+                "label": "sd"
+            },
+            {
+                "text": "Thats true Thats true My dad is farmer so Ive heard him talk about that forever I guess it works but um you have to really wash your vegetables after that so it wont make you sick Lets see what else do you do to your house",
+                "label": "aa"
+            },
+            {
+                "text": "Well Ive done some rewiring on it",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Eventually if we stay here Im going to have to rewire the entire house",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really Do you plan on like adding any rooms or - you have enough space you could probably do that Or is it -",
+                "label": "b"
+            },
+            {
+                "text": "Ive talked about adding at least one more room and definitely adding another bath on",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I would think so if you only have one bathroom for three bedrooms thats tough Do you not like have half bath",
+                "label": "b"
+            },
+            {
+                "text": "Not even half bath",
+                "label": "ng^m"
+            },
+            {
+                "text": "Yeah Yeah Thats rough The house that I used to live in had one bath and half And that was even just with two people That was pain",
+                "label": "b"
+            },
+            {
+                "text": "The only thing that saves it with the schedule I work and the schedule my wife works were getting ready to go to work at totally different times",
+                "label": "sd"
+            },
+            {
+                "text": "Thats good",
+                "label": "ba"
+            },
+            {
+                "text": "So that Its not like were tripping over each other in the morning",
+                "label": "+"
+            },
+            {
+                "text": "Really That could account for lot of marital problems I think You get to know each other very well if you have to share bathroom",
+                "label": "b"
+            },
+            {
+                "text": "It doesnt work if youre trying to shave and shes trying to put her eyeliner on and",
+                "label": "sv"
+            },
+            {
+                "text": "No",
+                "label": "aa"
+            },
+            {
+                "text": "youre both fighting over the mirror",
+                "label": "+"
+            },
+            {
+                "text": "Thats right It does not make for happy situation Thats true Well do you have any children",
+                "label": "aa"
+            },
+            {
+                "text": "Ive got one",
+                "label": "na"
+            },
+            {
+                "text": "One child And they enjoy where theyre living",
+                "label": "b^m"
+            },
+            {
+                "text": "Well - hes nine months old",
+                "label": "%"
+            },
+            {
+                "text": "Oh so he doesnt know right I guess hes big help out in your garden Right",
+                "label": "sd"
+            },
+            {
+                "text": "He likes to dig around little bit His mother comes in and says why did you let him play in the dirt I guess hes enjoying himself",
+                "label": "sd"
+            },
+            {
+                "text": "Thats right Its healthy why not Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "He was eating the dirt I wouldnt worry about it",
+                "label": "sd"
+            },
+            {
+                "text": "No It wont hurt them I was big dirt eater supposedly when I was child and I turned out okay so dont worry about it Just let him enjoy himself So you think that you want to move away from the big city uh",
+                "label": "b"
+            },
+            {
+                "text": "Well thats what Ive always - I was raised up in town that was about ten thousand people",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah So youre just the opposite from me You want to go back to that uh",
+                "label": "b"
+            },
+            {
+                "text": "After we got married we moved ended up moving to the Houston area",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Yeah So are you from Texas",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "You are So its not you know - thats true Houston in itself is pretty tough place",
+                "label": "b"
+            }
+        ]
+    }
+]

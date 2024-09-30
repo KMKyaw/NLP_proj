@@ -1,0 +1,399 @@
+[
+    {
+        "conversation_id": "conv_2620",
+        "turns": [
+            {
+                "text": "All right I I think our experience of camping is - I I am the the passive member I get things ready and then I enjoy",
+                "label": "o"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh because my my husband is good camper and so they - he manages the troops and they do the work and I have fun",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Well uh uh your you said your family was gro- uh all grown up now how about when they were younger did you go cam- take them camping",
+                "label": "b"
+            },
+            {
+                "text": "Thats when we camped the most",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "When - I thinks its marvelous activity for younger families because uh I it seems like I would go through period of time where I just uh was really overworked you know and and getting out into nature and relaxing",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and having the family do good share of the work you know - and the part that I did was more fun than uh than labor because they did the the running and toting chores and I just helped cook and kind of organize you know",
+                "label": "+"
+            },
+            {
+                "text": "Yeah bu- - even cooking over an open fire is little more fun isnt it",
+                "label": "b"
+            },
+            {
+                "text": "It is isnt it It isnt Ha- what kinds of things have you tried Have you done uh uh uh the big pot cooking",
+                "label": "na"
+            },
+            {
+                "text": "Oh oh uh well it was really my ex who did the the uh uh the cooking back when we first started and we found that the you know what was one one great handy things was this uh uh uh hamburger helper",
+                "label": "no"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "Because all you needed was big frying pan",
+                "label": "+"
+            },
+            {
+                "text": "Big frying -",
+                "label": "sd^m"
+            },
+            {
+                "text": "you dumped everything in together and it was enough for all five of us six of us",
+                "label": "sd"
+            },
+            {
+                "text": "Oh thats interesting You know interesting enough uh the food part was kind of uh important thing in our camping Uh when my oldest son uh - always at the beginning I did all the shopping and everything But the the neat breakthrough was when my oldest son Mark took his uh uh cooking merit badge in and and Mark was the kind of camper who ate beef stroganoff and uh",
+                "label": "ba"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "I mean you know he did it up really good And so uh after he took that merit badge he did all the shopping and preparing getting ready for it",
+                "label": "+"
+            },
+            {
+                "text": "Well thats great",
+                "label": "ba"
+            },
+            {
+                "text": "It was it was marvelous experience because after that then all I had to do was uh follow the instructions you know and do And we did lot of interesting kinds of things like I would take corn bread and uh cook pan inside of pan over over camp uh stove",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And it works real good Its like an oven",
+                "label": "sd"
+            },
+            {
+                "text": "Well",
+                "label": "sd"
+            },
+            {
+                "text": "Just put uh put thing on it",
+                "label": "ad"
+            },
+            {
+                "text": "cooking was our secondary interest I mean -",
+                "label": "+"
+            },
+            {
+                "text": "What did you like to do most",
+                "label": "qw"
+            },
+            {
+                "text": "Well really just commune with nature",
+                "label": "sd"
+            },
+            {
+                "text": "Thats neat isnt it",
+                "label": "qy^g"
+            },
+            {
+                "text": "We started out uh - well we were living in Florida at the time and we early in life we discovered that six people all going on vacation gets to be very very expensive",
+                "label": "sd"
+            },
+            {
+                "text": "Right I agree",
+                "label": "aa"
+            },
+            {
+                "text": "So my ex decided were going to try camping and she went out one day on the spur of the moment and bought tent And thats how we got started",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "We did it for years and years uh",
+                "label": "sd"
+            },
+            {
+                "text": "Well now in Florida is ther- is there ti- are there times of the year when its very comfortable to camp or is it always kind of hot",
+                "label": "qr"
+            },
+            {
+                "text": "Well ye- uh yes and no I mean um ye- in the winter time yes its it gets kind of chilly or it can get chilly",
+                "label": "nd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But uh theres really no time of the year that you cant go",
+                "label": "sd"
+            },
+            {
+                "text": "Oh is that true",
+                "label": "qy"
+            },
+            {
+                "text": "Uh becau- -",
+                "label": "%"
+            },
+            {
+                "text": "Now now were were in Texas now and youre in Texas right",
+                "label": "sd"
+            },
+            {
+                "text": "Yes Im in Dallas",
+                "label": "ny"
+            },
+            {
+                "text": "Okay uh we have not camped great deal here because uh good share of the time in the Summer time its too hot really to be very comfortable camping",
+                "label": "bk"
+            },
+            {
+                "text": "Well it just depends on where you go for instance",
+                "label": "sd"
+            },
+            {
+                "text": "I gue- -",
+                "label": "%"
+            },
+            {
+                "text": "if you went down to the sea shore it would be wonderful nice breeze blowing in from the water",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah we have done that But but we camped mostly - when the kids were little we were in we were in New Jersey and -",
+                "label": "b"
+            },
+            {
+                "text": "Oh where abouts",
+                "label": "o@"
+            },
+            {
+                "text": "Uh in uh Allendale and uh and uh Waldwick its just about twelve miles south of the New York border",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "+@"
+            },
+            {
+                "text": "And wed go up to the Adirondacks and camp and it was so you know pick your own uh blueberries and make blueberry pancakes for breakfast",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yes yes ye-",
+                "label": "aa"
+            },
+            {
+                "text": "Uh also -",
+                "label": "%"
+            },
+            {
+                "text": "I co-",
+                "label": "sd"
+            },
+            {
+                "text": "go ahead -",
+                "label": "ad"
+            },
+            {
+                "text": "I come from up in that area Im New Yorker myself",
+                "label": "+"
+            },
+            {
+                "text": "Oh are you Where did you live",
+                "label": "bh"
+            },
+            {
+                "text": "little town called Tuckaho over by White Plains",
+                "label": "sd"
+            },
+            {
+                "text": "Oh oh yeah I know that I had cousin who lived in White Plains thats thats neat area But its that is particularly neat area for camping because -",
+                "label": "b"
+            },
+            {
+                "text": "Well that I wouldnt know I left there when I was quite young",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah it is neat though because there are lots of lakes fairly near by you dont have to go very far",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh and theres uh lot of trees lot of mountains and lot of uh hiking sort of things and and we had uh collapsible boat which we clipper little clipper sail boat",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And so we would sail and and uh did lot of camping that way",
+                "label": "sd"
+            },
+            {
+                "text": "Well uh me I outgrew uh sleeping bags and uh tents - and I now have motor home",
+                "label": "sd"
+            },
+            {
+                "text": "Oh do you Weve gotten out time or two on rented basis and its fun too I think",
+                "label": "bh"
+            },
+            {
+                "text": "Well I live in mine",
+                "label": "sd"
+            },
+            {
+                "text": "Do you",
+                "label": "bh"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "Thats neat so you kind of uh uh an everyday camper",
+                "label": "sv"
+            },
+            {
+                "text": "Uh well yes I consider myself what they call full-timer",
+                "label": "ny"
+            },
+            {
+                "text": "full time camper",
+                "label": "bf"
+            },
+            {
+                "text": "Yeah th- -",
+                "label": "aa"
+            },
+            {
+                "text": "Well now are you living alone now or -",
+                "label": "qy"
+            },
+            {
+                "text": "Ye- well just me and my dog",
+                "label": "ny"
+            },
+            {
+                "text": "You and your dog huh",
+                "label": "bf"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Hey that sounds great Well we dont we dont camp quite as much as we used to but uh I still think its great way to spend time with your family",
+                "label": "fe"
+            },
+            {
+                "text": "Oh yes definitely",
+                "label": "aa"
+            },
+            {
+                "text": "and enjoy nature and uh kind of wipe out the stress of everyday life Id always -",
+                "label": "+"
+            },
+            {
+                "text": "Nothing like the fresh outdoors",
+                "label": "bf"
+            },
+            {
+                "text": "right Id always come home just relaxed and uh comfortable and ready to go at it again so it was neat activity Good to talk to you Tell me your name again",
+                "label": "aa"
+            },
+            {
+                "text": "Jack",
+                "label": "sd"
+            },
+            {
+                "text": "Jack",
+                "label": "b^m"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "all right",
+                "label": "bk"
+            },
+            {
+                "text": "Are you uh from Dallas too Beth",
+                "label": "qy"
+            },
+            {
+                "text": "Ye- yes weve been here were were in Plano",
+                "label": "ny"
+            },
+            {
+                "text": "Oh",
+                "label": "ba"
+            },
+            {
+                "text": "but weve been here about uh eighteen years",
+                "label": "sd"
+            },
+            {
+                "text": "Well thats where we thats where I am Plano",
+                "label": "sd"
+            },
+            {
+                "text": "Are you are you - how about that Well were all lots of people from I up this way",
+                "label": "qy"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "All right good to talk to you",
+                "label": "fc"
+            },
+            {
+                "text": "Nice talking to you too Beth",
+                "label": "fc"
+            },
+            {
+                "text": "All right all right bye-bye",
+                "label": "fc"
+            },
+            {
+                "text": "Bye",
+                "label": "fc"
+            }
+        ]
+    }
+]

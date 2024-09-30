@@ -1,0 +1,587 @@
+[
+    {
+        "conversation_id": "conv_2661",
+        "turns": [
+            {
+                "text": "So eating out What are you interested in in restaurants",
+                "label": "o"
+            },
+            {
+                "text": "Right uh We eat out quite bit its just my husband and I at home now 2 slash units So -",
+                "label": "b"
+            },
+            {
+                "text": "Uh once week twice week",
+                "label": "qy"
+            },
+            {
+                "text": "Oh at least once week Were were retired now When we working out we ate out more than that",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I understand",
+                "label": "b"
+            },
+            {
+                "text": "Uh slash error",
+                "label": "o@"
+            },
+            {
+                "text": "Uh but we both work and we have daughter and we normally manage to eat out once week anyway",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh slash error Well what type of restaurant do you like Richard",
+                "label": "+@"
+            },
+            {
+                "text": "Uh really Im kind of open on food Im what you might call culinary adventurer Ill uh try anything once",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Been on real barbecue kick lately",
+                "label": "sd"
+            },
+            {
+                "text": "Oh have you",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "We like Chinese We eat lot of Chinese food",
+                "label": "sd"
+            },
+            {
+                "text": "Excuse me Uh yeah we usually have Chinese once month",
+                "label": "b"
+            },
+            {
+                "text": "What do you look for in restaurant",
+                "label": "qw"
+            },
+            {
+                "text": "I hate franchised restaurants",
+                "label": "sd"
+            },
+            {
+                "text": "You what You -",
+                "label": "br"
+            },
+            {
+                "text": "I despise --",
+                "label": "sd^r"
+            },
+            {
+                "text": "Oh I -",
+                "label": "%"
+            },
+            {
+                "text": "-- franchised restaurants I I I always prefer to go to something that seems more family run",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Uh some place where you seem to have the attitude like youre going into their home for dinner almost",
+                "label": "+"
+            },
+            {
+                "text": "I know what you mean I like some ambiance and I like good food I dont like fast food hamburgers and all of that",
+                "label": "sd"
+            },
+            {
+                "text": "I dont but I dont like something fake or put on either",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know if I could have good small restaurant or good large restaurant Id go to the good small restaurant",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I dont know why that is I think its probably due to pricing often",
+                "label": "sd"
+            },
+            {
+                "text": "Right uh-huh I dont care to go to place just for the price of it",
+                "label": "aa"
+            },
+            {
+                "text": "Well yeah yeah",
+                "label": "aa"
+            },
+            {
+                "text": "I mean its like continental French restaurant or something really --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- with high prices and seven courses isnt what I usually look for",
+                "label": "+"
+            },
+            {
+                "text": "It is what you look for",
+                "label": "br^m"
+            },
+            {
+                "text": "It isnt no that isnt what I look for More than 1 slash unit",
+                "label": "ng^r,o@"
+            },
+            {
+                "text": "Oh isnt isnt - Uh I try to get my moneys worth",
+                "label": "b^m"
+            },
+            {
+                "text": "Right",
+                "label": "aa"
+            },
+            {
+                "text": "And not just that I try to well thats big part of it I try to get my moneys worth",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know and not just in quantity you know but quality and and flavor and texture and care",
+                "label": "+"
+            },
+            {
+                "text": "Presentation and -",
+                "label": "bf"
+            },
+            {
+                "text": "Well presentations not always all of it either",
+                "label": "arp"
+            },
+            {
+                "text": "Well like --",
+                "label": "sd"
+            },
+            {
+                "text": "Its its important",
+                "label": "sv"
+            },
+            {
+                "text": "-- we weve been eating some in restaurant that that just changed hands recently and were trying to give them little patronage But Sunday we went there and I had pretty good meal of grilled pork chops and baked apple and potatoes",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So I said if they would just add little bit of cranberry sauce something like that",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah something little extra --",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah thats what I mean by -",
+                "label": "aa"
+            },
+            {
+                "text": "-- and just for color if nothing else",
+                "label": "sd"
+            },
+            {
+                "text": "Right uh-huh It would mean lot to the looks of the plate",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah yeah What I miss up here is Im originally Texan and I miss home cooked Mexican",
+                "label": "aa"
+            },
+            {
+                "text": "Tex-Mex Tex-Mex",
+                "label": "bf"
+            },
+            {
+                "text": "Yeah home cooked Tex-Mex Uh Mexican restaurants where its not owned by an Anglo or corporation",
+                "label": "aa"
+            },
+            {
+                "text": "Right I know Uh we have daughter in Texas and one in New Mexico and weve really gotten to like - we like the real Mexican food --",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- better than Tex-Mex",
+                "label": "+"
+            },
+            {
+                "text": "Well theres real Mexican food and theres real Tex-Mex Mexican you know by third or fourth generation Americans --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- of Hispanic heritage",
+                "label": "+"
+            },
+            {
+                "text": "Its all pretty good isnt it",
+                "label": "qy^g"
+            },
+            {
+                "text": "Oh yes and and theres big differences of course and of course when you talk about Mexican cuisine you thats kind of like talking about American food or Chinese food because its regional too",
+                "label": "ny"
+            },
+            {
+                "text": "Right uh-huh thats true",
+                "label": "aa"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "Im originally from Maine so we like seafood too And thats something we dont get here and were in the mountains in Virginia",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "And most of the seafoods frozen",
+                "label": "sd"
+            },
+            {
+                "text": "Uh yeah thats the way it is here in Colorado also No fresh or almost no fresh seafood --",
+                "label": "aa"
+            },
+            {
+                "text": "Right",
+                "label": "aa"
+            },
+            {
+                "text": "-- and in Texas we got it from the Gulf",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh thats true Lots of shrimp",
+                "label": "aa"
+            },
+            {
+                "text": "And yeah here couple years ago my wife and I went to Seattle on vacation And I think everything except breakfast was seafood for almost week",
+                "label": "aa"
+            },
+            {
+                "text": "I know it",
+                "label": "ba"
+            },
+            {
+                "text": "And it was - I was like man starving at every meal",
+                "label": "%"
+            },
+            {
+                "text": "I know the feeling We do the same thing My son-in-law is Texan and when he goes to Maine he eats lobster I guess at least twice day all the time hes up there",
+                "label": "ba"
+            },
+            {
+                "text": "Its lot cheaper there isnt it Lobster",
+                "label": "qy^g"
+            },
+            {
+                "text": "Oh yeah yeah Its like --",
+                "label": "ny"
+            },
+            {
+                "text": "Its like shrimp on the Gulf",
+                "label": "sd"
+            },
+            {
+                "text": "-- two ninety-eight pound for pound lobster",
+                "label": "+"
+            },
+            {
+                "text": "Two ninety-eight pound",
+                "label": "b^m"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Thats as cheap as steaks some places --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah cheaper right",
+                "label": "aa"
+            },
+            {
+                "text": "-- I mean in grocery store",
+                "label": "+"
+            },
+            {
+                "text": "Right yeah lot of the restaurants you can get two pou- two one pound lobsters for like ten ninety-nine",
+                "label": "aa"
+            },
+            {
+                "text": "Oh my gosh Ive got to go to Maine then You may have sold trip for some time",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah its good place to go",
+                "label": "aa"
+            },
+            {
+                "text": "Uh it sounds wonderful Uh so -",
+                "label": "sv"
+            },
+            {
+                "text": "Lots of little restaurants too with home cooked food thats up there",
+                "label": "sd"
+            },
+            {
+                "text": "That sound good Uh down in the Gulf Ive eaten bunch of those little uh seafood shacks weve called them",
+                "label": "sv"
+            },
+            {
+                "text": "Right uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh its just so much different than to eat something thats been frozen",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know --",
+                "label": "+"
+            },
+            {
+                "text": "We went to Gal- -",
+                "label": "sd"
+            },
+            {
+                "text": "-- shrimp straight out of the bay",
+                "label": "sd"
+            },
+            {
+                "text": "We were in Galveston last year aft- right aft- well the first of this year actually",
+                "label": "sd"
+            },
+            {
+                "text": "Hm",
+                "label": "b"
+            },
+            {
+                "text": "And ate in restaurant and they claimed to have the best shrimp on the Gulf coast",
+                "label": "sd"
+            },
+            {
+                "text": "Was it true",
+                "label": "qy"
+            },
+            {
+                "text": "No It wasnt On the way across Louisiana we pulled off we saw billboard and just pulled off taking chance on place And they had - it was small restaurant just kind of out of the way and they were set up with two buffets one for their regular Sunday chicken and roast beef and vegetables and everything",
+                "label": "nn"
+            },
+            {
+                "text": "Hm",
+                "label": "b"
+            },
+            {
+                "text": "And then one complete seafood buffet",
+                "label": "+"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "That was the best shrimp I have ever had in my life They had shrimp fixed probably six different ways",
+                "label": "sd"
+            },
+            {
+                "text": "Uh yes the cajuns",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh right It was wonderful",
+                "label": "aa"
+            },
+            {
+                "text": "They can they can do things to shrimp that that no one else can",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So have you eaten crawfish yet",
+                "label": "qy"
+            },
+            {
+                "text": "Uh I tried it but I didnt care for it Not there but at my brothers I tried it",
+                "label": "na"
+            },
+            {
+                "text": "Oh as with anything its preparation",
+                "label": "sv"
+            },
+            {
+                "text": "Thats probably true It - I wasnt hungry it wasnt meal 2 slash units We just - he went down and bought some at --",
+                "label": "aap"
+            },
+            {
+                "text": "Uh",
+                "label": "b"
+            },
+            {
+                "text": "-- local place that steams them just so wed try them",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh It - theres all kinds",
+                "label": "b"
+            },
+            {
+                "text": "Probably needed some cold beer with it and -",
+                "label": "sv"
+            },
+            {
+                "text": "So you do eat out lot",
+                "label": "qy^d"
+            },
+            {
+                "text": "Quite bit",
+                "label": "na"
+            },
+            {
+                "text": "One of our other real problems with going out to eat Sunday morning brunches",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "You know Sunday brunch all all you can eat brunches",
+                "label": "sd"
+            },
+            {
+                "text": "Right We used to do that once in while but we dont anymore",
+                "label": "b"
+            },
+            {
+                "text": "Uh we still find it fun",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Its fun but its just so much food Hate to come away feeling uncomfortable",
+                "label": "aa"
+            },
+            {
+                "text": "Well I work in machine shop and do lot of physical labor",
+                "label": "sd"
+            },
+            {
+                "text": "Do you well that makes difference",
+                "label": "bh"
+            },
+            {
+                "text": "And so -",
+                "label": "%"
+            },
+            {
+                "text": "Where do you go to brunches - Like at hotels or restaurants there",
+                "label": "qw"
+            },
+            {
+                "text": "Yeah uh actually one of our one of our favorites is chain Shoneys",
+                "label": "ny"
+            },
+            {
+                "text": "Oh yeah uh-huh We eat at Shoneys",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah in spite of the fact Ive spoken so badly about chains chain restaurants uh we uh do like Shoneys pretty well but then theres place up the pass up in the mountains that we pretty reliably like to go to on some Sunday mornings drive drive up to I think its about eight thousand foot elevation",
+                "label": "b"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "And and drive through Woodland Park and go for short drive in the mountains and have breakfast",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh that sounds nice",
+                "label": "b"
+            },
+            {
+                "text": "It it its the way to spend nice Sunday morning",
+                "label": "sv"
+            },
+            {
+                "text": "Right I imagine it is",
+                "label": "aa"
+            },
+            {
+                "text": "I think its as much the the trip to the mountains as it is the breakfast brunch You know and its not that far Its thirty miles",
+                "label": "sd"
+            },
+            {
+                "text": "Whe- - out of which direction",
+                "label": "%"
+            },
+            {
+                "text": "Colorado Springs",
+                "label": "sd"
+            },
+            {
+                "text": "Out of which direction from there",
+                "label": "qw^r"
+            },
+            {
+                "text": "West --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- west out of Colorado Springs",
+                "label": "sd"
+            }
+        ]
+    }
+]

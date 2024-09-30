@@ -1,0 +1,823 @@
+[
+    {
+        "conversation_id": "conv_3097",
+        "turns": [
+            {
+                "text": "Hi Pat",
+                "label": "fp"
+            },
+            {
+                "text": "Hi One of the interesting things that I have considered about the role change for women is that women of my age my generation were trained and taught and brought up to be the LEAVE IT TO BEAVER housewives",
+                "label": "fp"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But we are not living in that world",
+                "label": "sv"
+            },
+            {
+                "text": "We are certainly not our families have changed",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh families uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Society has changed",
+                "label": "sv"
+            },
+            {
+                "text": "Oh yeah sure",
+                "label": "aa"
+            },
+            {
+                "text": "Everything has changed Yeah yeah",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh Thats one of the - and it makes you really concerned I am glad I raised guys",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know let the world train them what to do But characteristically you know the women are trained or have been in the past trained in the home",
+                "label": "ad"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "And I really would be at loss to to raise and train girl I think I would",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah its - well even even raising boys today is different though because",
+                "label": "b"
+            },
+            {
+                "text": "Oh sure",
+                "label": "aa"
+            },
+            {
+                "text": "they are expected to do so much more than they used to",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know used to be they would just go off to work and come home and you know everything was done And it its different world Its",
+                "label": "sd"
+            },
+            {
+                "text": "Oh sure",
+                "label": "aa"
+            },
+            {
+                "text": "some good some bad uh",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "its nice that theres choice I I have chosen to stay at home",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and raise my children",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "And I have ten year old and twelve year old",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "And I was single parent for awhile and worked",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "And that was great I was able to and I was able to provide for my children and and you know",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "that was wonderful",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "But I I thank God everyday now that I have that choice",
+                "label": "sd"
+            },
+            {
+                "text": "Sure",
+                "label": "b"
+            },
+            {
+                "text": "And that I am able to do things at home and and uh I volunteer whole lot",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh thats my job right now",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "And I I love it",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "I really love it",
+                "label": "sd"
+            },
+            {
+                "text": "I did very much the same thing until my boys got into high school and said Mom please do not be involved",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Right right",
+                "label": "aa"
+            },
+            {
+                "text": "Then I went back to work",
+                "label": "sd"
+            },
+            {
+                "text": "Right and that will come",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I know that day will come",
+                "label": "sd"
+            },
+            {
+                "text": "Sure",
+                "label": "b"
+            },
+            {
+                "text": "and I am looking forward to that too",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "But thats different phase in my life",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b^r"
+            },
+            {
+                "text": "and I am I am glad that I am able to do what I want to do right now",
+                "label": "sd"
+            },
+            {
+                "text": "Well you know theres lot of things that have happened actually and and its its like the its like oil on top of water it changes but its never different --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- in lot of ways",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "Uh women at one time did very heavy physical labor --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "-- and were expected to maintain household",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "Then as times changed uh as it is today we do not do lot of physical labor",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "even in hous- even in housekeeping",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "and homemaking",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b^r"
+            },
+            {
+                "text": "theres not lot of physical labor",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "aa^r"
+            },
+            {
+                "text": "because there are -",
+                "label": "+"
+            },
+            {
+                "text": "You are not beating rugs",
+                "label": "bf"
+            },
+            {
+                "text": "uh-huh",
+                "label": "aa"
+            },
+            {
+                "text": "you are not right",
+                "label": "bf"
+            },
+            {
+                "text": "Right",
+                "label": "aa"
+            },
+            {
+                "text": "doing laundry by hand and that kind of thing",
+                "label": "+"
+            },
+            {
+                "text": "And in that respect we have to make ourselves become involved in physical exertion",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "or we really do develop some health problems",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So in in that in that respect I am not so sure that the hard work of years past was not better for us than we are willing to admit",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "And uh -",
+                "label": "%"
+            },
+            {
+                "text": "But dont you think its that way with men too I mean you know men are sitting behind desks whole lot more",
+                "label": "qy"
+            },
+            {
+                "text": "Oh absolutely true its",
+                "label": "aa"
+            },
+            {
+                "text": "than they used to",
+                "label": "+"
+            },
+            {
+                "text": "thats true with society",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "in general but specifically the womans role",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "in society has changed And you know medical reports tell us that women are developing diseases now that used to be predominately male diseases",
+                "label": "+"
+            },
+            {
+                "text": "Right right",
+                "label": "b"
+            },
+            {
+                "text": "Heart disease was characteristic of men",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b^r"
+            },
+            {
+                "text": "now theres almost equally predominant in women",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b^r"
+            },
+            {
+                "text": "And I -",
+                "label": "%"
+            },
+            {
+                "text": "And stress disorders and things like that",
+                "label": "bf"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^m"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "Right and I think that thats thats symptom of our society its symptom that theres theres general illness that needs to be healed",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I do not know what the healing process would be or what was causing the problem I am not I am not God",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "But I I do know that in raising my boys I really did meet lot of pressures saying you know you need to get them into music lessons you need to get them",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "into sports you need to get them into this they need to be busy and they need to be active And I fought all of those things I said if those boys want to be involved in that they will come to me and they will say Mom this is important to me I want to do it",
+                "label": "+"
+            },
+            {
+                "text": "Right right",
+                "label": "b"
+            },
+            {
+                "text": "otherwise I will guard their ability to have quiet time",
+                "label": "sd"
+            },
+            {
+                "text": "You know its funny",
+                "label": "sv"
+            },
+            {
+                "text": "I refused to cram their lives full",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah Its funny its funny I was rea-",
+                "label": "b"
+            },
+            {
+                "text": "And thats the way it is with woman too",
+                "label": "sv"
+            },
+            {
+                "text": "I was really looking forward to summer thinking oh we are going to have some time off",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And its been real busy And actually today is really the first as far as I am concerned the first day of summer",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Because we have had so much going on the past few weeks",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh you are right",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "uh well thats how society has changed uh",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "you know uh the family has changed we you know we find ourselves doing things that we never did as kids",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know I do not remember",
+                "label": "sd"
+            },
+            {
+                "text": "Well -",
+                "label": "%"
+            },
+            {
+                "text": "being involved in things like this",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Its its different",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "its just - I do not know only time will tell whether its better or worse",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "than the way we grew up But uh",
+                "label": "+"
+            },
+            {
+                "text": "Of course",
+                "label": "aa"
+            },
+            {
+                "text": "its its just very different",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "Well I just am very much believer in quiet personal time If you do not have the time to talk to yourself who are you going to talk to Right",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah yeah",
+                "label": "aa"
+            },
+            {
+                "text": "And I guarded my childrens rights for that and I think that thats one of the things that women are sacrificing that they should not do",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "They are sacrificing their time with themselves Theres nothing wrong with sitting and being bored if you thinking internally",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "and you are",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b^r"
+            },
+            {
+                "text": "working on your own self",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b^r"
+            },
+            {
+                "text": "You are finding out who you are",
+                "label": "sv"
+            },
+            {
+                "text": "But is not that difficult to do when you are working full time and have to come home and prepare meal and",
+                "label": "qh"
+            },
+            {
+                "text": "Well I think -",
+                "label": "sv"
+            },
+            {
+                "text": "get homework done and you know where do you find the time",
+                "label": "+"
+            },
+            {
+                "text": "Um Well in the first place its not your homework its your childrens homework",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I was always very careful to be there only when they came to me and asked me for help",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "I helped them with exactly what they asked for and thats all",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Thats part of the problem that women have always had and that is accepting responsibility for things that really are other peoples responsibilities",
+                "label": "sv"
+            },
+            {
+                "text": "Thats very true",
+                "label": "aa"
+            },
+            {
+                "text": "They",
+                "label": "%"
+            },
+            {
+                "text": "And then that way we have not changed in",
+                "label": "qy^g"
+            },
+            {
+                "text": "They -",
+                "label": "+"
+            },
+            {
+                "text": "hundreds of years have we",
+                "label": "+"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "That way husbands are crippled",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^r"
+            },
+            {
+                "text": "they are intellectual cripples",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and so are children",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "They do not know how to think for themselves and be responsible",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "for themselves I do not know why God made women brilliant I -",
+                "label": "+"
+            },
+            {
+                "text": "Didnt he though",
+                "label": "bf"
+            },
+            {
+                "text": "Yes but I do not know they tend to look at the mother as the one who solves all problems They",
+                "label": "aa"
+            },
+            {
+                "text": "Thats very true",
+                "label": "aa"
+            },
+            {
+                "text": "are all things to all people and thats never changed",
+                "label": "+"
+            },
+            {
+                "text": "Thats thats very true I as matter of fact I was talking to friend yesterday who said she has new policy in her home and when her her family comes to her and says fix this you know I am having problem with",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "you know another member of the family",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "she said I have taken new stance and I say no I will not",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "You know you work it out for yourself",
+                "label": "^q"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "And she said its amazing she said",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "you know every single person in this family expects me to get - and they dra- suck me into these arguments and",
+                "label": "+"
+            },
+            {
+                "text": "Thats right",
+                "label": "b"
+            },
+            {
+                "text": "these conversations and I ha- I am supposed to be the one who is going to fix it all and and soothe everybody And she said I am not doing it anymore I I just -",
+                "label": "+"
+            },
+            {
+                "text": "You know I think thats one of the things that we have today that is very useful and I think every woman ought to deal with it or ought to at least be exposed to it and that is mediation training",
+                "label": "sv"
+            },
+            {
+                "text": "Um uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh we are not talking about strikes or things we are talking about mediators who get involved in family crises",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "parents and children husbands and wives",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "uh you know boss and employee Those kinds of things Interpersonal mediation",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "because the mediator is an unbiased bystander who -",
+                "label": "sd"
+            }
+        ]
+    }
+]

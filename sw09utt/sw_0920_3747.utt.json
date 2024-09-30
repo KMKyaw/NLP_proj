@@ -1,0 +1,319 @@
+[
+    {
+        "conversation_id": "conv_3747",
+        "turns": [
+            {
+                "text": "Well what kind of music do you like",
+                "label": "qo"
+            },
+            {
+                "text": "Well seeing as how Im musician I like all kinds of music",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "All very very kinds",
+                "label": "sd"
+            },
+            {
+                "text": "Me too I mostly like classical and jazz",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Well I like everything from hard core country to you know Wagner and Mahler and I like new age stuff I I basically have wide range of musical likes Do you uh are you musical uh are you musician at all",
+                "label": "b"
+            },
+            {
+                "text": "Yeah I play the trumpet",
+                "label": "ny"
+            },
+            {
+                "text": "Do you",
+                "label": "bh"
+            },
+            {
+                "text": "uh-huh Mostly the trumpet music uh uh uh baroque and uh uh uh",
+                "label": "ny"
+            },
+            {
+                "text": "Jazz",
+                "label": "^2"
+            },
+            {
+                "text": "Romantic Baroque and romantic",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Yeah that is not there is uh things written for Doc Severenson and uh few other people But uh they are just uh - as far as solos and concertos are concerned - but the rest of them are just parts",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And uh -",
+                "label": "%"
+            },
+            {
+                "text": "Well I love baroque music so it is one of my favorite periods",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "In fact I I sing with Texas baroque ensemble",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Who are the trumpet players",
+                "label": "b"
+            },
+            {
+                "text": "Well we used to have uh Ralph Dutchen",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But now he is in Massachusetts He has come back couple of times Then there is trumpet player at North Texas the the teacher the main teacher",
+                "label": "sd"
+            },
+            {
+                "text": "Leonard",
+                "label": "^2"
+            },
+            {
+                "text": "Yeah And he has played And the two of them have played natural trumpets And occasionally when she cant get those people we use you know just uh flat trumpets with valves and like Glen Bell plays",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Uh Rick uh Bogarts played --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- too so but actually I like trumpet and organ together It is nice combination",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Richard Jung Julio recorded an album at the same time as didnt he",
+                "label": "b"
+            },
+            {
+                "text": "Yeah I think he did",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "With Paul Yeah He is wonderful Both of them are",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So do you like romantic music",
+                "label": "qy"
+            },
+            {
+                "text": "Well that is what that is mostly the rest of good trumpet marks are romantic music Mahler and Ruckner and Strauss",
+                "label": "no"
+            },
+            {
+                "text": "uh-huh Do you like opera",
+                "label": "b"
+            },
+            {
+                "text": "Uh I like I am liking it more and more now",
+                "label": "na"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Getting use to it They are mostly uh mostly Mozart",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I mean there is not any kind of trumpet parts but uh you know the I just like the melodies more --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh libretto",
+                "label": "+"
+            },
+            {
+                "text": "You dont like Puccini",
+                "label": "qy^d"
+            },
+            {
+                "text": "Uh yeah I like Rossini better than Puccini",
+                "label": "qy"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I like more comic licks",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Are you going to go see the Elixir of Love",
+                "label": "b"
+            },
+            {
+                "text": "No",
+                "label": "nn"
+            },
+            {
+                "text": "Do you ever go to the Dallas Opera",
+                "label": "qy"
+            },
+            {
+                "text": "Uh no I have never been to Dallas Opera only the Fort Worth Opera",
+                "label": "nn"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And my trumpet teacher used to play in the Fort Worth Opera",
+                "label": "sd"
+            },
+            {
+                "text": "Who was your trumpet teacher",
+                "label": "qw"
+            },
+            {
+                "text": "John Nelson",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh I know him I kind of know him",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Is he still around here",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah he plays in the Fort Worth Symphony and Fort Worth mostly",
+                "label": "ny"
+            },
+            {
+                "text": "Because I dont I have not seen him playing anywhere lately but maybe it is cause he is playing in Fort Worth",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Well I am basically Church musician I do Church in Plano",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And we do all kinds of music at my Church and we hire lots of instrumentalists off and on for uh different things So I am always making music of one kind or another",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Which Church is it",
+                "label": "b"
+            },
+            {
+                "text": "The Christ United Methodist Church in Plano",
+                "label": "sd"
+            },
+            {
+                "text": "It seems like lot of Churches are hiring more musicians now than they use to",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah Most Churches have the - well there are some of the few organizations that have the funds to uh you know do like big big works Uh but we hire you know we hire an orchestra at least twice year and then different instrumentalists off and on through out the year In fact we have - do you know John Qumenato",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "He plays at our Church lot In fact he is playing this Sunday at our Church But he plays pretty regularly",
+                "label": "sd"
+            },
+            {
+                "text": "He is still teaching at Brookhaven isnt he",
+                "label": "qy"
+            },
+            {
+                "text": "Uh I think so He teaches lot in Plano at high schools --",
+                "label": "na"
+            },
+            {
+                "text": "Uh yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and I think he teaches at Brookhaven",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah because I heard Glen Bell taught at Plano as well",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Glen teaches here too",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "They are the two of them are mainly pretty much the they have cornered the market on trumpet",
+                "label": "sv"
+            }
+        ]
+    }
+]

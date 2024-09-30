@@ -1,0 +1,403 @@
+[
+    {
+        "conversation_id": "conv_3647",
+        "turns": [
+            {
+                "text": "Brian in Plano Texas How are you doing today",
+                "label": "fp"
+            },
+            {
+                "text": "Hi fine Im Nancy How are you",
+                "label": "fp"
+            },
+            {
+                "text": "Great Nancy",
+                "label": "sd"
+            },
+            {
+                "text": "Im in Plano also",
+                "label": "sd"
+            },
+            {
+                "text": "Youre in Plano also huh",
+                "label": "sd"
+            },
+            {
+                "text": "Yes were not too long distance today",
+                "label": "b"
+            },
+            {
+                "text": "Well good to hear I was just talking to someone the other day from Pennsylvania",
+                "label": "b"
+            },
+            {
+                "text": "Oh that was good Utah Ive had couple of but that was it",
+                "label": "ba"
+            },
+            {
+                "text": "Really",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "All right Well good to hear good to hear",
+                "label": "bk"
+            },
+            {
+                "text": "Learned about their basketball team",
+                "label": "sd"
+            },
+            {
+                "text": "Which one",
+                "label": "qw"
+            },
+            {
+                "text": "Uh Jazz",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "The Utah Jazz",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Yeah theyre theyre pretty good Theyve got some --",
+                "label": "b"
+            },
+            {
+                "text": "Thats what I heard",
+                "label": "sd@"
+            },
+            {
+                "text": "-- good --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "+@"
+            },
+            {
+                "text": "-- good some good uh good players out there",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Well you ready for New Years Eve",
+                "label": "qy"
+            },
+            {
+                "text": "I am",
+                "label": "na"
+            },
+            {
+                "text": "Good Should we uh start this so we can -",
+                "label": "ba"
+            },
+            {
+                "text": "Okay",
+                "label": "aa"
+            },
+            {
+                "text": "What was your name again",
+                "label": "qw"
+            },
+            {
+                "text": "Nancy",
+                "label": "sd"
+            },
+            {
+                "text": "Nancy thats --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- right and Im Brian",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Just moment Okay Nancy then I guess the todays subject is benefits --",
+                "label": "ad^t"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- in the job other than salary What uh --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- what do you feel are important to you or other people as as crucial benefits",
+                "label": "+"
+            },
+            {
+                "text": "Well Im little different than other people because I dont have benefits with my job",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Im nurse and I --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- work I float --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- so that I have no benefits except higher pay --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- for doing that",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So I find that it makes up for what I pay for insurance and I I make enough money by the hour to make up for that",
+                "label": "sd"
+            },
+            {
+                "text": "To to compensate --",
+                "label": "qy^d"
+            },
+            {
+                "text": "Right",
+                "label": "na"
+            },
+            {
+                "text": "-- for some of the benefits",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "Yeah its cheaper for me to buy insurance by the month than to work staff someplace",
+                "label": "b"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "And then I have my freedom I can work seven days in row and take week off or whatever I want to do",
+                "label": "sd"
+            },
+            {
+                "text": "Well that thats an excellent - so actually that is benefit uh",
+                "label": "ba"
+            },
+            {
+                "text": "Well it is to me Most people prefer the security of nine to five and weekends off and --",
+                "label": "na"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- knowing that their insurance is paid and their retirement and Im just really not interested in --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- all that",
+                "label": "+"
+            },
+            {
+                "text": "Right well I guess thats good point uh",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I do belong to large corporation or my that where Im currently employed and theres uh theres some different things uh one that youve already mentioned is is health insurance I think through our health insurance that I can get better rates as through group plan --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- as opposed to going out and getting health insurance on an individual basis because I had to do that at one time when I wasnt employed with large corporation and that got to be somewhat expensive so I --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- I think one of the benefits I I see is the uh is the group uh group discount",
+                "label": "+"
+            },
+            {
+                "text": "Right and especially if you have family",
+                "label": "b"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "Then I think it makes big difference",
+                "label": "sv"
+            },
+            {
+                "text": "Yes and thats thats one thing I do have",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "If I didnt have family I dont think I would have as as male or as as an individual of in this stage of my life I dont think I would have insurance uh other",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "I dont think I would go through that expense One other benefit that you mentioned is the flexible work hours and in my previous job I really enjoyed because they had what was called flex schedule where I could go and I could work uh nine hour days and have like Friday only work four hours --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- or I could do uh work four days week at ten hours day and have you know three - day weekend",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And make uh make my job flexible in that case",
+                "label": "+"
+            },
+            {
+                "text": "Could you change that as you felt like it or did you have to do it the same every week",
+                "label": "qy"
+            },
+            {
+                "text": "Well basically yeah I had to do that uh the same uh for about every quarter of the year I mean --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh because I was in in position of management I had responsibilities over people that uh I needed to make my schedule uh so that if I was not there I would have coverage by some other management personnel so so I I think that uh that was that was an excellent benefit --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- that I really enjoyed and I dont - have that in my current operation but uh you mentioned uh flexible work schedule and thats thats good",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And uh what other benefits do you think are important",
+                "label": "qw"
+            },
+            {
+                "text": "Oh well I guess retirement that kind of thing which I dont worry much about so",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah yeah thats true",
+                "label": "b"
+            },
+            {
+                "text": "I just prefer to worry about today probably not practical attitude but thats who I am so -",
+                "label": "sd"
+            },
+            {
+                "text": "Well and thats an individual thing",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Yeah with uh with our current uh organization we do have nice retirement package and also nice thing that that we have in our corporation is uh is profit sharing plan where we can uh participate in the the profits of the company If were you know if weve been there while and were vested uh which means that you know we have an interest uh in the company --",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- that we can uh get some of the benefits of the either the profit high times or or in sense suffer during the low times and uh also uh in one of my wifes uh companies where she worked theyd had real nice profit sharing plan that that -",
+                "label": "+"
+            }
+        ]
+    }
+]

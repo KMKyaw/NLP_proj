@@ -1,0 +1,391 @@
+[
+    {
+        "conversation_id": "conv_3411",
+        "turns": [
+            {
+                "text": "What kind of car would you like to buy next",
+                "label": "qw"
+            },
+            {
+                "text": "Well I guess Cadillac I guess thats kind of everybodys dream",
+                "label": "sd"
+            },
+            {
+                "text": "Well why would that be",
+                "label": "qw"
+            },
+            {
+                "text": "Oh I guess its General Motors product and I like General Motors because theyre made in the United States and uh weve had General Motors for years and have always had real good luck with them",
+                "label": "sd"
+            },
+            {
+                "text": "Okay well thats good",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "If you had uh no financial requirements if you could buy any car in the entire world no matter what it cost what would you buy",
+                "label": "qw"
+            },
+            {
+                "text": "Oh um I think Id still go with the Cadillac",
+                "label": "sd"
+            },
+            {
+                "text": "Do you",
+                "label": "bh"
+            },
+            {
+                "text": "I dont I dont care about big fancy fancy -",
+                "label": "sd"
+            },
+            {
+                "text": "Which type of Cadillac uh is your favorite",
+                "label": "qw"
+            },
+            {
+                "text": "Oh I dont know I guess the Seville probably or -",
+                "label": "sd"
+            },
+            {
+                "text": "The Seville",
+                "label": "b^m"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Thats sharp looking car",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "That really is It it always has been though",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah they have been",
+                "label": "aa"
+            },
+            {
+                "text": "You know it doesnt have the Coup de Ville or the Sedan de Ville squareness It never really has Its always had its own unique look",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Well Ive always liked that I liked the the - one year they had couple years they had where the trunk head would look like belt buckles across the back of it",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah Right",
+                "label": "aa"
+            },
+            {
+                "text": "I thought now that looks sharp --",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- that looks real sharp",
+                "label": "^q"
+            },
+            {
+                "text": "Well I think the ones now with all of the uh fancy gold lettering --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and all you know I think theyre very pretty And course the top now the vin- what is it vinyl top I think those are pretty",
+                "label": "+"
+            },
+            {
+                "text": "Yeah and uh the - I Ive never really uh Ive never ridden in one recently um but theyre supposed to be just real smooth",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Just nice comfortable ride",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah they are and uh they theyre just always - they they look like theyre sturdy --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know they look like theyre very sturdy and you dont have to worry that much about um getting you know hurt like you would in small one",
+                "label": "+"
+            },
+            {
+                "text": "Right Now theyve got unique fa- uh feature in them now If uh if you have front end accident at such rate of speed the - the engine will actually drop out of the car so that it doesnt come through the so it doesnt go it doesnt go through the you know into the inside Itll go underneath the car instead",
+                "label": "aa"
+            },
+            {
+                "text": "Oh I didnt know that",
+                "label": "sd"
+            },
+            {
+                "text": "So thats thats big safety factor theyve got in them now",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah and I suppose they all have the balloons",
+                "label": "b"
+            },
+            {
+                "text": "The air bags yeah",
+                "label": "bc"
+            },
+            {
+                "text": "The air bags yeah Well -",
+                "label": "b^m"
+            },
+            {
+                "text": "So - well thats great thats great",
+                "label": "%"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "So you say youve always have preferred General Motors products",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah I do Um I I go for things you know built in the United States rather than foreign countries",
+                "label": "ny"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Help our economy and -",
+                "label": "sd"
+            },
+            {
+                "text": "What kind of uh General Motors cars have you had in the past",
+                "label": "qw"
+            },
+            {
+                "text": "Mostly Oldsmobiles",
+                "label": "sd"
+            },
+            {
+                "text": "Oldsmobiles Those are real nice riding cars too",
+                "label": "b^m"
+            },
+            {
+                "text": "Oh yeah Thats what we have now but of course if I have choice Id still have the Cadillac but uh Ive been very satisfied with the with the Oldsmobiles Weve driven them for about probably twenty years",
+                "label": "aa"
+            },
+            {
+                "text": "Has that been the Cutlass or the Sierra",
+                "label": "qr"
+            },
+            {
+                "text": "Uh no the Ninety-Eight",
+                "label": "nn"
+            },
+            {
+                "text": "The Ninety-Eight okay",
+                "label": "b^m"
+            },
+            {
+                "text": "uh-huh yeah So -",
+                "label": "b"
+            },
+            {
+                "text": "Well I dont think - uh lets see the Ninety-Eight now thats got that big eight engine in it doesnt it doesnt it",
+                "label": "sv"
+            },
+            {
+                "text": "Well I dont know The one we have has six",
+                "label": "sd"
+            },
+            {
+                "text": "Has little Six",
+                "label": "br^m"
+            },
+            {
+                "text": "uh-huh",
+                "label": "aa"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "But its very good car Its --",
+                "label": "sd"
+            },
+            {
+                "text": "It -",
+                "label": "%"
+            },
+            {
+                "text": "-- had not had one minutes problem with it and Ive had now I have twenty-three thousand miles on it",
+                "label": "+"
+            },
+            {
+                "text": "Oh thats great --",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- thats great Thats always nice to get uh reliability in product Especially when youre spending you know anywhere from fifteen to twenty-five thousand dollars for for single item",
+                "label": "ba"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "You know you just dont want any hassles --",
+                "label": "+"
+            },
+            {
+                "text": "No",
+                "label": "aa"
+            },
+            {
+                "text": "-- with it You just you expect it to do its its job and I think lot of lot of car manufacturers dont really keep that into consider- dont take that into consideration --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- you know",
+                "label": "+"
+            },
+            {
+                "text": "Yeah thats true",
+                "label": "aa"
+            },
+            {
+                "text": "They just expect you to buy their product but thats always been something thats been key factor in me is how reliable is this car going to be --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know Price is is an issue but its not the most important issue",
+                "label": "+"
+            },
+            {
+                "text": "No it really isnt because now you can get like five year financing on them and --",
+                "label": "aa"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- so um - but I I I would go with the General Motors any time",
+                "label": "+"
+            },
+            {
+                "text": "Well Ive always been Ford man myself",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "Oh",
+                "label": "%"
+            },
+            {
+                "text": "But thats all right",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah well sure",
+                "label": "aa"
+            },
+            {
+                "text": "You know its American made too --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- which is good",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Um but I Ive - ever since I guess I I was growing up my dads always had Fords and uh well I grew up in South Dakota So everybody has truck --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and my Ford trucks have just - Ive Ive just never had problems with them",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I honestly think I would die before my truck would keel over on me",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "Well I - yeah those are good products also Um lets see",
+                "label": "%"
+            }
+        ]
+    }
+]

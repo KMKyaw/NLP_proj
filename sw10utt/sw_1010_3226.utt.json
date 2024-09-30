@@ -1,0 +1,307 @@
+[
+    {
+        "conversation_id": "conv_3226",
+        "turns": [
+            {
+                "text": "Okay the topic of the conversation is national health insurance and the pros and cons and do I do we think that the government should finance it What is your opinion",
+                "label": "o"
+            },
+            {
+                "text": "I say yes",
+                "label": "sv"
+            },
+            {
+                "text": "You say yes",
+                "label": "bf"
+            },
+            {
+                "text": "Yes Mother lives in Florida and there are in her subdivision there are fifty percent Canadians who wont give up their Canadian citizenship because of the health insurance",
+                "label": "aa"
+            },
+            {
+                "text": "I have heard someone else uh say that uh the Canadian health insurance is absolutely excellent --",
+                "label": "sd"
+            },
+            {
+                "text": "Its wonderful",
+                "label": "sv"
+            },
+            {
+                "text": "-- and one of the ways that theyre financing it is they have an exorbitant tax on their cigarettes",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "This is --",
+                "label": "sv"
+            },
+            {
+                "text": "Well -",
+                "label": "b"
+            },
+            {
+                "text": "-- evidently this is one of the ways that theyre paying for the program plus discouraging the people to quit smoking so they dont have to pay out as many uh benefits on like lung cancer and things like this",
+                "label": "+"
+            },
+            {
+                "text": "Well even if thats - so you know really when you look at it they have full coverage they have which you know after you get used to it its not too bad and uh everything is covered --",
+                "label": "%"
+            },
+            {
+                "text": "Yeah we -",
+                "label": "b"
+            },
+            {
+                "text": "-- and we have so many people in the United States that we spend - well in my family alone we spent four thousand dollars in July on medical bills --",
+                "label": "sv"
+            },
+            {
+                "text": "Oh my word Lynn",
+                "label": "ba"
+            },
+            {
+                "text": "-- insurance didnt cover penny Yeah",
+                "label": "sd"
+            },
+            {
+                "text": "Thats horrible",
+                "label": "ba"
+            },
+            {
+                "text": "Yes it is horrible",
+                "label": "aa"
+            },
+            {
+                "text": "Well were fortunate in that we so far knock on wood most of us have been relati- real healthy --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah but -",
+                "label": "b"
+            },
+            {
+                "text": "-- so we dont have lot of medical bills",
+                "label": "sd"
+            },
+            {
+                "text": "Uh if youre healthy its fine but I had two kids in the hospital in July",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah but what worries me is the fact that I dont like the government telling me who I can see and who I cant see",
+                "label": "b"
+            },
+            {
+                "text": "Yeah but you know Richardson School District has the --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and ninety percent of the doctors you would choose are on that list",
+                "label": "sd"
+            },
+            {
+                "text": "Are they",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Well I know that Gre- James had it",
+                "label": "sd"
+            },
+            {
+                "text": "McCullum is",
+                "label": "sd"
+            },
+            {
+                "text": "I beg your pardon",
+                "label": "br"
+            },
+            {
+                "text": "McCullum is",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah I know that when James was with Continental Steel McCullum was part of that and and thats good But I also heard for instance like uh my friends daughter was on it through Texas Instruments and she was on that Kaiser Permanente --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and they had screwed up her appointment and when she went in she had to take whichever doctor was available and they - she would have had to wait like two months to get the doctor she wanted",
+                "label": "sd"
+            },
+            {
+                "text": "Well but thats --",
+                "label": "sd"
+            },
+            {
+                "text": "But then again I guess you can even do that in McCullum",
+                "label": "sv"
+            },
+            {
+                "text": "-- thats screw up in an appointment you know Im going back to the days when I was pregnant --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and I had two doctors and one was my favorite personality wise --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but when I delivered Ronnie he was not on call --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- the other guy delivered him --",
+                "label": "sd"
+            },
+            {
+                "text": "Well thats true and that still goes on",
+                "label": "ba"
+            },
+            {
+                "text": "-- you know and that - and you know if um I go to Townsend -- -",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- hes got new partner I go to both of them now You know I have no choice --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- because when I want to go if Dr Howe or whatever his name is is on duty I go to him",
+                "label": "+"
+            },
+            {
+                "text": "Well you know it uh - how do you think were going to pay for it More and more taxes",
+                "label": "%"
+            },
+            {
+                "text": "Well no we need to cut some of our spendings cut some of the fat off the top and whittle it down to the rest of us",
+                "label": "ar"
+            },
+            {
+                "text": "I know that its getting to the point that the insurance doesnt pay that much on catastrophic illnesses",
+                "label": "sv"
+            },
+            {
+                "text": "No",
+                "label": "b"
+            },
+            {
+                "text": "They dont pay anything on uh implants --",
+                "label": "sd"
+            },
+            {
+                "text": "No",
+                "label": "b"
+            },
+            {
+                "text": "-- or transplants and you know people are needing these and the average person cant afford you know heart or kidney --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- on just their own",
+                "label": "+"
+            },
+            {
+                "text": "But you known Ronnie in Austin went to program and went to social worker --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and at the same token there is something because he can get his pills for two dollars when Im paying fifteen on my medical insurance --",
+                "label": "sd"
+            },
+            {
+                "text": "Good grief",
+                "label": "ba"
+            },
+            {
+                "text": "-- and he can get free medical care but he has to go to the city hospital instead of seeing David --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and so again you know we went through it Ronnies home tonight and we talked about it and said you know is it worth it Yeah you know he pays forty-five dollars month for his prescriptions where he could pay six dollars",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So there --",
+                "label": "sd"
+            },
+            {
+                "text": "Very true",
+                "label": "ba"
+            },
+            {
+                "text": "-- are programs you know if you get on Medicare or Medicaid or one of those",
+                "label": "+"
+            },
+            {
+                "text": "Well I know they have the Medicaid you know for those that have trouble and I know that like we have the uh prescription cards which - thats helped bunches --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and wonder if the insurance companies are fighting the national health or wonder if theyre wanting it",
+                "label": "qy^d"
+            },
+            {
+                "text": "Thats what I read",
+                "label": "sd"
+            },
+            {
+                "text": "That they are wanting -",
+                "label": "bf"
+            }
+        ]
+    }
+]

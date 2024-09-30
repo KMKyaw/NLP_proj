@@ -1,0 +1,371 @@
+[
+    {
+        "conversation_id": "conv_4150",
+        "turns": [
+            {
+                "text": "All right",
+                "label": "qy"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "Okay How many kids do you have",
+                "label": "b"
+            },
+            {
+                "text": "I think - I think were going to talk about parents spending time with their children We",
+                "label": "sd^t"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "have three children who are eleven nine and eight So this is the big issue with us Although I dont recall marking it on my little things to talk about but perhaps they are little for words to be said like day care and quality time and -",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Anyway You dont have children",
+                "label": "h"
+            },
+            {
+                "text": "No",
+                "label": "nn"
+            },
+            {
+                "text": "But youre married",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah we weve been married for two and half years Weve been trying for about two years but --",
+                "label": "ny"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- no luck yet Hopefully -",
+                "label": "+"
+            },
+            {
+                "text": "You know I know were not supposed to do this long distance but actually Im getting call I wonder if I could possibly take it on call waiting Could I ask you to hold one minute",
+                "label": "sd^t"
+            },
+            {
+                "text": "uh-huh",
+                "label": "aa"
+            },
+            {
+                "text": "Ill be right back Excuse me",
+                "label": "sd"
+            },
+            {
+                "text": "Had- -",
+                "label": "%"
+            },
+            {
+                "text": "just moment Theyre going to get mad",
+                "label": "+"
+            },
+            {
+                "text": "She had another call She has just three kids eleven nine and eight",
+                "label": "t3"
+            },
+            {
+                "text": "Hello",
+                "label": "fp"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Im so sorry",
+                "label": "fa"
+            },
+            {
+                "text": "All right",
+                "label": "aa"
+            },
+            {
+                "text": "That was my daughters Brownie leader telling me that there is meeting tomorrow --",
+                "label": "sd"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "-- Brownie meeting",
+                "label": "+"
+            },
+            {
+                "text": "That keeps you bu- - do you have lot of activities with your kids",
+                "label": "sv"
+            },
+            {
+                "text": "Well I dont want to I dont want this to be unilateral conversation but yes we do Both my husband and I work and our children are sixth fourth and third grade And the school years are wonderful theyre just wonderful",
+                "label": "sd^t"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "The kids they are real people and they are interesting and they they have all their own activities and um I think as parents we really enjoy them in in our personal situation our children have not yet decided to rebel",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh So theyre pretty good kids huh",
+                "label": "b"
+            },
+            {
+                "text": "Im su- sure thats coming though But",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "they are wonderful kids",
+                "label": "+"
+            },
+            {
+                "text": "Well we had ni- wh- growing up I guess I can talk about us We had nine kids in our family We had eight boys and one girl But my Dad uh -",
+                "label": "sd"
+            },
+            {
+                "text": "You had eight boys and one girl",
+                "label": "br^m"
+            },
+            {
+                "text": "Yeah And the time that my we spent with our Dad was he owned his own business so we worked with him most of the time So thats how we spent most of the time with him",
+                "label": "aa"
+            },
+            {
+                "text": "Are you Mormons",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Thats what the Utah and the large family",
+                "label": "sd"
+            },
+            {
+                "text": "That was dead giveaway huh",
+                "label": "qy^g"
+            },
+            {
+                "text": "Well were Catholics I came from family of five I had four brothers",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "the only girl",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "And everyone always asked if the girl got spoiled",
+                "label": "sd"
+            },
+            {
+                "text": "Which that -",
+                "label": "%"
+            },
+            {
+                "text": "I never felt spoiled In fact I always thought my toys were destroyed",
+                "label": "sd"
+            },
+            {
+                "text": "I was going to say my sister wasnt spoiled very much",
+                "label": "sd"
+            },
+            {
+                "text": "No Usually busy fighting for survival",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah thats - But -",
+                "label": "b"
+            },
+            {
+                "text": "Well I do think with working parents it is I mean there are some real issues here Um",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "that I think um - I dont know Its an interesting problem I happen to um - Im pediatrician",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "My husband is physician so uh I I I talk to parents about this lot But children - I I think working mothers or mothers who choose to work outside the home um need very early to come to grips with any guilt",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "that they feel and decide whats best for them and their family",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I feel when my children were very young I had jobs that helped me be flexible with my schedule and spend time with them and all that sort of thing And I long ago decided Im better mother because I work outside the home",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I really believe that And it has um helped us to afford some things for our children that we couldnt otherwise that I think are wonderful particularly at this age and I think our kids are real secure",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And have real sense of priorities and that they can do anything and be anything both male and female lot so I know it sounds like rationalization but its I really think its true for our family",
+                "label": "+"
+            },
+            {
+                "text": "Wel- -",
+                "label": "%"
+            },
+            {
+                "text": "and I think it has worked very well",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Its like you said you know to each his own And were planning on having my wife stay home And but -",
+                "label": "b"
+            },
+            {
+                "text": "Theres no question I think thats really the best If if woman is happy doing that",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I hate to put it quite that way",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I was twenty-nine when I had my first child and uh I would not have been real fulfilled I really would not have been totally staying home with young child",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Its wonderful its wonderful to be mother but uh I like th- I like the way I did it",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "I sort of worked half time I had very flexible hours I nursed all three of our children until they were at least year and I",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "you can do that despite working very easily which is one of the things I preach all the time to to mothers",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Um and I think we choose very very carefully the um alternative situations that we had them in",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Some baby-sitting groups - again I know it sounds like rationalization but I really do think sometimes they very early on are around lots of other children and they they learn to share They learn not necessarily to be the center of attention but that at the same time we have to be sure they are secure",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I think that helps",
+                "label": "sd"
+            },
+            {
+                "text": "Well thats good Sounds like youre have handle on it",
+                "label": "ba"
+            },
+            {
+                "text": "Well so so So your wife does she work right now",
+                "label": "qy"
+            },
+            {
+                "text": "Um no not right now",
+                "label": "nn"
+            },
+            {
+                "text": "Shes out -",
+                "label": "bf"
+            },
+            {
+                "text": "Right Well we just moved down here We used to live up in Seattle for couple of years",
+                "label": "aa"
+            },
+            {
+                "text": "Youre still trying to dry out",
+                "label": "qy^d"
+            },
+            {
+                "text": "Its thats no problem here Yeah we really liked it up there but then wh- -",
+                "label": "sd"
+            }
+        ]
+    }
+]

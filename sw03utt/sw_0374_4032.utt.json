@@ -1,0 +1,355 @@
+[
+    {
+        "conversation_id": "conv_4032",
+        "turns": [
+            {
+                "text": "Okay Martin do you do any exercise",
+                "label": "o"
+            },
+            {
+                "text": "Yes I do Uh I like to uh play basketball and weight lifting Those are probably the two main things I like to do",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh Um so those are more or less indoor sports Hows the --",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "-- weather out there in Georgia",
+                "label": "+"
+            },
+            {
+                "text": "Um in in in the winter you typically its its probably too cold to go out and do things like tennis Um I like to play tennis in the --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- summer time or in the spring fall but in the winter it gets pretty cold",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "Um yeah so its mostly indoor sports I think in the winter",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Um how about yourself",
+                "label": "qo"
+            },
+            {
+                "text": "Well yeah Im on exercise program Im riding my Aerodyne bike um --",
+                "label": "^h"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- half an hour every morning and Im just about ready to up it to up to forty-five minutes morning and I feel like thats been real nice exercise in the winter time Its --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- its kind of kept me from getting cabin fever and um has seemed to be real nice aerobic exercise",
+                "label": "+"
+            },
+            {
+                "text": "Right Do you do uh any anaerobic type weight lifting or weight training type exercise",
+                "label": "b"
+            },
+            {
+                "text": "No huh-uh I first of all Id like to get my weight off Im about fifty pounds overweight and so Id like to get the weight off and then Id really like to get into that",
+                "label": "nn"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh we have my husband and I have aerobic video thats called The Firm I dont know if youve heard of it but its an aerobic video with not necessarily bouncing around and jumping up and down but youre using weights and that is the most incredible aerobic workout I have ever done Its --",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "-- its really fun",
+                "label": "+"
+            },
+            {
+                "text": "Yes its its its aero- its similar to aerobics with weights --",
+                "label": "b"
+            },
+            {
+                "text": "Yes uh-huh",
+                "label": "aa"
+            },
+            {
+                "text": "-- but its like low impact aerobics just --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- with weights",
+                "label": "+"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "Okay are you familiar with um step or bench aerobics",
+                "label": "o"
+            },
+            {
+                "text": "Um no I mean yes I am but I have never done it myself Have you done that",
+                "label": "nn"
+            },
+            {
+                "text": "Uh yes I have In in Atlanta thats um - most of the health clubs --",
+                "label": "ny"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- are all - thats the thats the in thing",
+                "label": "+"
+            },
+            {
+                "text": "Thats the big thing huh",
+                "label": "bh"
+            },
+            {
+                "text": "At first it was just regular aerobics but now bench or step aerobics have --",
+                "label": "sv"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "-- kind of taken over",
+                "label": "+"
+            },
+            {
+                "text": "So how is that",
+                "label": "qw"
+            },
+            {
+                "text": "Um it they call it low impact aerobics and its supposed to burn off more calories --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "-- at the same time And from when Ive done it it does give you good real good workout But only thing Im concerned about is potential for injury to your knees --",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know that and movement of going up on the step --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know that could create problem",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "They they seem to think that it it wont but you never know",
+                "label": "sv"
+            },
+            {
+                "text": "Now if um playing basketball are you knees - do you have healthy knees",
+                "label": "%"
+            },
+            {
+                "text": "Yeah I I think my ankles probably are my main weak point",
+                "label": "ny"
+            },
+            {
+                "text": "Oh dear",
+                "label": "ba"
+            },
+            {
+                "text": "But Ive Ive kind of taken care of that I wear high tops and then also an an- support ankle brace which is very stiff --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and um we- wearing that I havent had any problems in the past year or so",
+                "label": "sd"
+            },
+            {
+                "text": "Oh thats good Well that sounds you sound just like my husband He --",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- he injured his ankle about seven months ago playing volleyball and oh hes just had heck of time getting that ankle healthy",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I -",
+                "label": "b"
+            },
+            {
+                "text": "So thats what he does he wears his his brace and his high tops and -",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Yeah I did I injured mine so many times that --",
+                "label": "b"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- rehabilitating became quite easy",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "I mean it would only take three or four days and I could play again on it --",
+                "label": "sd"
+            },
+            {
+                "text": "Wow",
+                "label": "ba"
+            },
+            {
+                "text": "-- because after while you just learn how to rehabilitate yourself --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- to play that way",
+                "label": "+"
+            },
+            {
+                "text": "Oh dear Oh",
+                "label": "ba"
+            },
+            {
+                "text": "But um so how how successful is your exercise video",
+                "label": "qw"
+            },
+            {
+                "text": "It is amazing how fast you take off the inches --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and I would once I start my forty- Id like to do the forty-five minutes day on the bike for week and then every other day Id like to incorporate the video and then the bike on the other day",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But it is really amazing how fast the inches come off and the muscle builds --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- real fast Um you can start - they recommend doing the video without weights for the first month and then after that you can just start with your five pound dumbbells and then build up to your uh twenty-five pound dumbbells --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and then youre just doing repetitious exercises throughout the whole video and its hour long video so -",
+                "label": "sd"
+            },
+            {
+                "text": "So its good workout",
+                "label": "bf"
+            },
+            {
+                "text": "It is yeah I really enjoy that so Im looking forward to losing this weight and --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- being firm and healthy",
+                "label": "+"
+            },
+            {
+                "text": "So in the winter I guess theres lot of - its quite cold and --",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "-- snow",
+                "label": "+"
+            },
+            {
+                "text": "Yes Now this one has been quite mild Um we could have been out walking throughout the whole winter because really we only had about three weeks of snow on the ground It was quite chilly but not -",
+                "label": "ny"
+            }
+        ]
+    }
+]

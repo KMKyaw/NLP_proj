@@ -1,0 +1,491 @@
+[
+    {
+        "conversation_id": "conv_3115",
+        "turns": [
+            {
+                "text": "All right and and your occupation is teaching",
+                "label": "b"
+            },
+            {
+                "text": "Im Im substitute teacher",
+                "label": "na"
+            },
+            {
+                "text": "Substitute teacher",
+                "label": "b^m"
+            },
+            {
+                "text": "Is is this Pat Im talking to now",
+                "label": "qy"
+            },
+            {
+                "text": "Yes it is it is",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah Im substitute teacher in I believe the same school system we both work in",
+                "label": "b"
+            },
+            {
+                "text": "Right Well I was just trying to make an introduction here",
+                "label": "b"
+            },
+            {
+                "text": "Oh okay",
+                "label": "aa"
+            },
+            {
+                "text": "But oh and and I havent told you Im going to be at different school this year now",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Ive just gotten another job at an elementary library at Barron",
+                "label": "sd"
+            },
+            {
+                "text": "Well I bet youre youre you may dress differently then for that",
+                "label": "sv"
+            },
+            {
+                "text": "Right I - well not really Ive got the every day Ive got to uh read to kindergartners so Im going to be down on the floor with them Ive got about forty kindergartners Im going to be doing working with every day for uh you know half hour So Ill be Ill probably be wearing slacks as often as I do because Im Im if Im going to be down on the floor messing with them Im not going to wear nylons and you know --",
+                "label": "b"
+            },
+            {
+                "text": "Well",
+                "label": "sd"
+            },
+            {
+                "text": "-- nice nylons and dresses",
+                "label": "+"
+            },
+            {
+                "text": "What I wear sometimes depends on on how cold I think the school might be or what room I might be in --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- since Im sub and have different rooms to go to And always carry sweater",
+                "label": "+"
+            },
+            {
+                "text": "Well of course youve been at Clark enough that you know its always cold",
+                "label": "sv"
+            },
+            {
+                "text": "Yes",
+                "label": "aa"
+            },
+            {
+                "text": "But you dont know uh I guess at some of the other schools you go to unless youve been there",
+                "label": "qy^d"
+            },
+            {
+                "text": "No you try to layer so you can add or or --",
+                "label": "nn"
+            },
+            {
+                "text": "Subtract",
+                "label": "^2"
+            },
+            {
+                "text": "-- or take off",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And its its interesting to notice when you go to different schools that some are little more fancier than others and have very casual uh -",
+                "label": "sd"
+            },
+            {
+                "text": "I I think some of the dress codes are different at different schools Thats one of things one of the things I ask about you know whether whether she would allow slacks and she said she doesnt have problem with that she just didnt like sloppy dressing",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And and I said well you know that was okay And Im - basically I just you know I wear slacks year round except every about once week I try to wear skirt And and in the winter you know I just add maybe wear longer sleeve shirts than I do in the summer And add heavier jacket or you know wear jackets more in the winter than I do in the summer",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Thats about - I dont I dont really work in profession that requires that I wear business suit and you know look really -",
+                "label": "%"
+            },
+            {
+                "text": "Right and well for me sometimes they even have dress up days or they you know have have spirit week that that you wear your different outfits --",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and you have to have the color for that particular school if you if you choose to participate in --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- spirit week And one might be hat day where you have to come up with some --",
+                "label": "+"
+            },
+            {
+                "text": "And you never know that though --",
+                "label": "qy^g"
+            },
+            {
+                "text": "-- sort of hat",
+                "label": "+"
+            },
+            {
+                "text": "-- sometimes when youre going in do you",
+                "label": "+"
+            },
+            {
+                "text": "No but because I sort of stick to several schools uh Im usually aware that there might be spirit week going on and and might might remember to do it",
+                "label": "nn"
+            },
+            {
+                "text": "Right right",
+                "label": "b"
+            },
+            {
+                "text": "And then many schools on particular day during uh I guess football season maybe all year long they wear the school colors for uh game day --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- which -",
+                "label": "+"
+            },
+            {
+                "text": "On what Thursd- Thursday",
+                "label": "^2"
+            },
+            {
+                "text": "Right it might be Thursday for the high schools and it may be Friday for the senior high schools",
+                "label": "b"
+            },
+            {
+                "text": "Right right So that would kind of give you clue I guess and and sometimes you get the long term stuff so youre aware ahead of time --",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- of whats going on That - so thats - and I dont know you know I I think about well the dress code they have for the kids you know Are - they put one on the parents or the teachers and say they have to the men have to wear ties and there can be no blue jeans worn and because some of the teachers I know wear uh dress up jeans not sloppy looking jeans --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but tapered jeans that theyve had dry cleaned so they have got the crease and uh you know theyll wear it with nice top And and uh I dont know that that looks that bad But if youre going to tell the kids they - have to dress up I guess you can tell the teachers that too",
+                "label": "+"
+            },
+            {
+                "text": "Yeah it it - I see that the - I think the elementary school teachers or maybe even the middle school teachers dress little fancier than than some of the high school teachers I think",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But it I think it varies it it just so much Anything anything can go",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And you can see in some of the departments in some of the schools like history at Clark theyre all pretty fancy But theyre just sort of into clothes and then theres other departments --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- that arent",
+                "label": "+"
+            },
+            {
+                "text": "Right right",
+                "label": "b"
+            },
+            {
+                "text": "And theyll just wear your common ordinary you know whatever you might --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah theres couple --",
+                "label": "b"
+            },
+            {
+                "text": "-- might say",
+                "label": "+"
+            },
+            {
+                "text": "-- teachers up there that that do dress up more than others",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And so you try to maybe follow those if you know youre going there you dont want to dress too tacky because youre going to be in the same room with them",
+                "label": "sd"
+            },
+            {
+                "text": "Right Well and you always - course its standing joke you know when the when the men come in in tie and suit coat you say you know what have you got job interview today or",
+                "label": "b"
+            },
+            {
+                "text": "Or youre going --",
+                "label": "^2"
+            },
+            {
+                "text": "there theres",
+                "label": "+"
+            },
+            {
+                "text": "-- to be observed",
+                "label": "+"
+            },
+            {
+                "text": "Theres usually yeah theres usually something going on that that uh and would would uh cause that to happen --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and I I dont know how coach would feel if that teaches health or Eng- you know English or whatever that they had to wear tie I - some of those male coaches that might really -",
+                "label": "sd"
+            },
+            {
+                "text": "Right They go around in their little coaching shorts or --",
+                "label": "b"
+            },
+            {
+                "text": "Right and -shirt",
+                "label": "b"
+            },
+            {
+                "text": "-- parachute pants",
+                "label": "+"
+            },
+            {
+                "text": "Right That I didnt ever understand I mean weve got coaches that teach health for five periods and then have athletics sixth period so -",
+                "label": "b"
+            },
+            {
+                "text": "Yeah well at --",
+                "label": "b"
+            },
+            {
+                "text": "Whether -",
+                "label": "%"
+            },
+            {
+                "text": "-- Vines the coaches dont do that They they dress pretty good I would say and then they go to their coaching and they they put their shorts --",
+                "label": "+"
+            },
+            {
+                "text": "Change then",
+                "label": "^2"
+            },
+            {
+                "text": "-- on there",
+                "label": "+"
+            },
+            {
+                "text": "Well see thats what I would think",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Thats what I would think",
+                "label": "sd"
+            },
+            {
+                "text": "But they they dont look you know they dont wear their sweat pants or or anything Theyre they dress like any other teacher would in --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- in classroom situation not in",
+                "label": "+"
+            },
+            {
+                "text": "Course we had had one coach one period hed teach and the next period Health and then period of --",
+                "label": "sd"
+            },
+            {
+                "text": "Those I can understand",
+                "label": "sd"
+            },
+            {
+                "text": "-- and and thats hard",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know so he just left warm-ups on but but uh no I think really probably they could they could uh really - and I dont know if if they put make uniforms the thing for the kids I guess the teachers will have to follow suit with dark skirt and white top and -",
+                "label": "sd"
+            },
+            {
+                "text": "I dont think well ever get to that",
+                "label": "sd"
+            },
+            {
+                "text": "You dont think so",
+                "label": "b"
+            },
+            {
+                "text": "No I dont think I think were going the opposite direction Its the parochial schools that I guess many ti- - theyve had uniforms for years I - dont really know if they still do",
+                "label": "nn"
+            },
+            {
+                "text": "Well some of them yes they do and and its not --",
+                "label": "sd"
+            },
+            {
+                "text": "It certainly makes it easier to dress",
+                "label": "sd"
+            },
+            {
+                "text": "-- at some of the private schools but even theres couple public schools in Dallas where where the kids wear uniforms and the teachers you know dress --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- in accordance with that",
+                "label": "+"
+            },
+            {
+                "text": "Well its certainly cheaper and easier in the long run I think that you dont have to be concerned about your wardrobe",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh Well I I think it would make difference at school I I dont think we should be spending time saying somebodys wearing torn clothing or wearing sh- too shorts too short or theyve got the really short skirt and the black nylons and the high you know - I mean --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- its lot of trouble to to take care of that And of course the kids say then why bother just let me wear what I want And and yet we cant to that either Id like to see them go to to not necessarily uniform but saying that theyve got to wear button down shirt You know that would that would alleviate any -shirts with sayings on them But if they could wear button-down shirt and pair of dark slacks and they could buy them anywhere they wanted and -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah but I doubt that that would come ab- --",
+                "label": "b"
+            },
+            {
+                "text": "And then the girls -",
+                "label": "sv"
+            },
+            {
+                "text": "-- that that will come about Just -",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Yeah I I -",
+                "label": "b"
+            },
+            {
+                "text": "I dont - no not in Plano",
+                "label": "%"
+            },
+            {
+                "text": "No not -",
+                "label": "aa"
+            },
+            {
+                "text": "They may get - -- -",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- but they said in the Dallas schools that that helps their educational process there",
+                "label": "sd"
+            },
+            {
+                "text": "Well I think it does It it takes their minds off of of trying to compete",
+                "label": "sv"
+            },
+            {
+                "text": "Highland Parks thinking about going that route",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So it - and then I think thats going to push teachers to dress lot more professionally than they do",
+                "label": "%"
+            },
+            {
+                "text": "Yeah I I dont think lot of teachers are very professional but -",
+                "label": "b"
+            },
+            {
+                "text": "Yeah I agree with you on -",
+                "label": "aa"
+            }
+        ]
+    }
+]

@@ -1,0 +1,411 @@
+[
+    {
+        "conversation_id": "conv_4608",
+        "turns": [
+            {
+                "text": "So um how do you feel about the crime in your city Is it uh -",
+                "label": "qo"
+            },
+            {
+                "text": "Well um Minneapolis isnt too bad Uh I know that theres been some increases in crime lately in terms of murders",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh thats kind of gone up in scale and and some other things Uh I personally had little experience the other day Uh somebody broke my passenger window and stole uniform out of my truck",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really",
+                "label": "b"
+            },
+            {
+                "text": "But actually you know when you look at at Minneapolis as compared to where I used to live its really quite bit better",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh because I came from Florida and in Orlando theres crime is getting to be bigger problem than ever so -",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "What part of California are you from",
+                "label": "qw"
+            },
+            {
+                "text": "San Jose California",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really I have good friend there",
+                "label": "bh"
+            },
+            {
+                "text": "Here you know the real problems are the gangs",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "lot of gang related lot of murders uh just in general the whole - weve only been here couple of years Uh before that we lived in Colorado but in comparison to Colorado its real noticeable",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah uh-huh",
+                "label": "aa"
+            },
+            {
+                "text": "I mean you can just feel I mean I can just sense - I mean I wont even I wont go to the grocery store at night",
+                "label": "%"
+            },
+            {
+                "text": "Yeah Yeah thats -",
+                "label": "aa"
+            },
+            {
+                "text": "You know And it its that kind of thing and uh -",
+                "label": "b"
+            },
+            {
+                "text": "Thats really shame when it has to constrain your activities like -",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah We have neighborhood watch program in the house uh the development that we live in which I think is great way to reduce uh home theft burglary and things --",
+                "label": "aa"
+            },
+            {
+                "text": "Sure",
+                "label": "b"
+            },
+            {
+                "text": "-- of that sort Do you have that where you live or -",
+                "label": "+"
+            },
+            {
+                "text": "Well uh interestingly enough right before I moved up here - Im an intern and then I go --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- back down in May Uh but in Orlando before I moved up we had real problem with it Uh weve been broken into in my apartment about four times --",
+                "label": "+"
+            },
+            {
+                "text": "Oh no",
+                "label": "ba"
+            },
+            {
+                "text": "-- in like two and half weeks And one of the things that I I helped organize was neighborhood watch type situation --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- down there Uh because they were just - its one of those things where the new thing is that they operate in the daylight because --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- everybody went to work you know and then the houses were left unguarded uh but yeah I think given that people are pretty conscientious about it - thats good way to to work it with neighborhood --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- watch",
+                "label": "+"
+            },
+            {
+                "text": "Well you know uh also Ive heard that uh the newest thing is lot of people are specializing in robbing people during the time theyre home",
+                "label": "sd"
+            },
+            {
+                "text": "Oh is that right",
+                "label": "bh"
+            },
+            {
+                "text": "Like on the weekends high percentage of uh free time - I think its like fifty percent of most peoples free time is uh spent doing yard work --",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- outdoors So they wait while youre out outdoors They know the house is unlocked and then they just slip in",
+                "label": "+"
+            },
+            {
+                "text": "Thats amazing",
+                "label": "ba"
+            },
+            {
+                "text": "Slip in slip out you know They know exactly what theyre going for",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So Ive heard thats really on the rise as far as --",
+                "label": "sd"
+            },
+            {
+                "text": "Uh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh you know new type of crime",
+                "label": "+"
+            },
+            {
+                "text": "Yeah it almost seems like theyre getting quite bit smarter",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Really you know",
+                "label": "b"
+            },
+            {
+                "text": "Unfortunately yes",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah unfortunately its starting to really you know look at peoples habits and --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- where they are at particular points of the day",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Like one of the guys I work with really laughs when he looks at Minneapolis because hes from Detroit --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh the the crime level there of course is quite bit quite bit uh more pronounced uh --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but uh yeah I guess",
+                "label": "b"
+            },
+            {
+                "text": "I mean -",
+                "label": "%"
+            },
+            {
+                "text": "I think weve got neighborhood watch program here in Minneapolis Im not real sure Uh",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah it helps to know your neighbors you know They give you - youre supposed to make lists of uh cars Like I know lot of my neighbors right around my development If I see car thats unfamiliar we we have list - is that what you you did in your program Where you have list of license plates",
+                "label": "b"
+            },
+            {
+                "text": "Pretty much",
+                "label": "na"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Yeah I was I was basically involved in that in the organization of it",
+                "label": "b^m"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And then I left right in the middle of it Im not sure --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- where we went from there but -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Well",
+                "label": "b"
+            },
+            {
+                "text": "Yeah that that whole thing of being alert and kind of noticing your surroundings noticing people who look suspicious --",
+                "label": "b^m"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh activities like that sure",
+                "label": "+"
+            },
+            {
+                "text": "I mean you you hate to be paranoid but there are really only so many things you can do You can have the house alarm uh --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- neighborhood watch program you know uh as woman not go out at night --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- uh you can do that which is what I choose to do",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah One of the frustrating things about that is that you really are limited --",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- even even if you know that the threat is there --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- its against the law to set traps its against the law to do lot of things you know They could basically uh - when I was getting robbed down in Florida I was really considering electrifying doors --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh Thats -",
+                "label": "aa"
+            },
+            {
+                "text": "-- um things like that like --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- they did in Miami that time",
+                "label": "sd"
+            },
+            {
+                "text": "But its not uh - if you kill someone in your home as long as they are in your home its considered self-defense though",
+                "label": "%"
+            },
+            {
+                "text": "Thats not always true",
+                "label": "ar"
+            },
+            {
+                "text": "It isnt",
+                "label": "bh"
+            },
+            {
+                "text": "No There was there was case about two years ago --",
+                "label": "nn"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- where guy knew he was going to get robbed and essentially what he had done is set elec- electrocution trap --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- for the burglar in his own home",
+                "label": "+"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "The guy came in while he was home and sure enough he fell into the trap and was severely burned He didnt die but he was severely burned and he took the guy to court and won settlement",
+                "label": "sd"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah So that really that makes you think you know",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Its like your hands are re- very much tied",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah Well I think if if you had ha- handgun though in other words it wasnt premeditated you had handgun its the middle of the night someones down- -",
+                "label": "aa"
+            }
+        ]
+    }
+]

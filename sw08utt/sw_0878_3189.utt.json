@@ -1,0 +1,439 @@
+[
+    {
+        "conversation_id": "conv_3189",
+        "turns": [
+            {
+                "text": "Hi Clarice Um have you had family reunion recently",
+                "label": "fp"
+            },
+            {
+                "text": "Yes just this last summer we went back to Utah and we met it was my we usually go to my family reunion but this one was my husbands --",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and theyre usually quite similar I think",
+                "label": "sd"
+            },
+            {
+                "text": "Are you both from Utah originally",
+                "label": "qy"
+            },
+            {
+                "text": "No hes from here --",
+                "label": "nn"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "bk"
+            },
+            {
+                "text": "-- but uh most of his people are from Oregon so we kind of met halfway --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and so this was one - and they um planned it up in the mountains and got cabin --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh how nice",
+                "label": "ba"
+            },
+            {
+                "text": "-- and had you know - things like that have to be planned like they had planned - that we went to the reunion in end of Jul- June and first of July --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- that part --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- the fourth of July weekend but we had to plan everything like clear in December January --",
+                "label": "+"
+            },
+            {
+                "text": "Sure sure",
+                "label": "b"
+            },
+            {
+                "text": "-- to reserve that",
+                "label": "+"
+            },
+            {
+                "text": "Now was this his entire family cousins aunts uncles --",
+                "label": "qr"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- like that or his immediate family",
+                "label": "+"
+            },
+            {
+                "text": "No --",
+                "label": "nn"
+            },
+            {
+                "text": "Oh wow",
+                "label": "ba"
+            },
+            {
+                "text": "-- this was everybody",
+                "label": "sd"
+            },
+            {
+                "text": "Oh wow how many people were there",
+                "label": "ba"
+            },
+            {
+                "text": "Oh I oh I jeez I think over um three hundred --",
+                "label": "sd"
+            },
+            {
+                "text": "Wow",
+                "label": "ba"
+            },
+            {
+                "text": "-- were there It was quite large -- -",
+                "label": "+"
+            },
+            {
+                "text": "Wow",
+                "label": "ba"
+            },
+            {
+                "text": "-- it was great big lodge and so we had plenty of room and everything and some of them live in that area so it wasnt too hard for them to come in the day and leave",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But um that was great big thing and we do that with his family about every five years",
+                "label": "sd"
+            },
+            {
+                "text": "Oh thats",
+                "label": "o@"
+            },
+            {
+                "text": "great big one",
+                "label": "+"
+            },
+            {
+                "text": "wonderful oh",
+                "label": "+@"
+            },
+            {
+                "text": "And then like immediate family we do like we try to do one thing once year",
+                "label": "sd"
+            },
+            {
+                "text": "Now how many how many people are in his immediate family",
+                "label": "qw"
+            },
+            {
+                "text": "Well he has eight brothers and sisters --",
+                "label": "sv"
+            },
+            {
+                "text": "Oh wow",
+                "label": "ba"
+            },
+            {
+                "text": "-- so thats big by itself",
+                "label": "sd"
+            },
+            {
+                "text": "Wow it really is and you get together once year",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Wow",
+                "label": "ba"
+            },
+            {
+                "text": "So we have little shindig with them",
+                "label": "sd"
+            },
+            {
+                "text": "Are they all here in the area or are they --",
+                "label": "qy"
+            },
+            {
+                "text": "Um --",
+                "label": "sd"
+            },
+            {
+                "text": "-- scattered",
+                "label": "+"
+            },
+            {
+                "text": "-- theyre close in close proximity Um lets see there are four of them who live here in Texas and his mom and dad",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So um the others live in close neighboring um states like Nevada Arizona --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- I think like that yeah --",
+                "label": "+"
+            },
+            {
+                "text": "Oh wow thats wonderful",
+                "label": "ba"
+            },
+            {
+                "text": "-- so its been fun How about you",
+                "label": "sd"
+            },
+            {
+                "text": "Well we dont really get together I I would love to and thats why I checked that I wanted to do that because I would love to plan family reunion sometime Um I have sister in Colorado and uh sister in upstate New York and sister in Connecticut and here I am in Texas So were kind of scattered right now",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh my my cousins have you know they put on family reunion um once year but its always like the second week in September so its - the kids are already back in school --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and so and thats back in the -- -",
+                "label": "sd"
+            },
+            {
+                "text": "Thats hard",
+                "label": "ba"
+            },
+            {
+                "text": "-- and thats in New York and theres no way I mean theres --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- just no possible way",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And its not really weekend its just like day kind of thing because most of them are you know um - my family moved to Connecticut the rest of the family stayed in New York --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh on Long Island and so theyre all kind of local and close and so they just have you know day picnic and uh Ive always thought it would be so neat even if it were just my immediate family to have like weekend type thing --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- that would be so wonderful",
+                "label": "sd"
+            },
+            {
+                "text": "It really is fun and my moms family does it once year just like you said --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- once year um they have Wednesday through Saturday type thing You can come and go as you please type thing",
+                "label": "sd"
+            },
+            {
+                "text": "Oh wow",
+                "label": "ba"
+            },
+            {
+                "text": "And they do that once year I kind of missed it this year and felt bad but you cant go every year you just --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- cannot do that",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "And do they they have hotel or where do you stay",
+                "label": "qy"
+            },
+            {
+                "text": "Um basically they just stay with each other brothers or sisters There are enough in the area to to just kind of span yourself out",
+                "label": "sd"
+            },
+            {
+                "text": "Take everybody yeah",
+                "label": "^2"
+            },
+            {
+                "text": "Whoevers mom and dad it is you usually go and stay with them like I go stay with my mother and my cousins they just go stay with their mom and dad you know --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- kind of thing And so its not hard in in that respect because they all are pretty centralized in one Utah area --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- so thats not hard but --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh that sounds so wonderful isnt that nice",
+                "label": "ba"
+            },
+            {
+                "text": "-- the real planning thats the real key --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and they send out - my moms family now - this is the first reunion with my husbands family Ive really been involved with but my moms family each brother and sister takes turn one year and thats how they divide it up --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and then",
+                "label": "o@"
+            },
+            {
+                "text": "But then one brother and sister from each family -",
+                "label": "sd"
+            },
+            {
+                "text": "Um she has ten in that family --",
+                "label": "+@"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and each one of them take their turn",
+                "label": "sd"
+            },
+            {
+                "text": "Oh wow uh-huh",
+                "label": "ba"
+            },
+            {
+                "text": "And then the the parent whos turn it is the child whose turn it is --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- her children help her like if it was my mothers turn --",
+                "label": "+"
+            },
+            {
+                "text": "Oh I see uh-huh",
+                "label": "ba"
+            },
+            {
+                "text": "-- all of us children would help her --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- put it on --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- kind of thing",
+                "label": "+"
+            },
+            {
+                "text": "Oh wow",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah and um the thing is that um the the real part is there are two mailings that go out and the first one is to just kind of give an approximate date and time so you can start making -",
+                "label": "b"
+            }
+        ]
+    }
+]

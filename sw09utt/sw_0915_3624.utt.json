@@ -1,0 +1,551 @@
+[
+    {
+        "conversation_id": "conv_3624",
+        "turns": [
+            {
+                "text": "Okay all set",
+                "label": "o"
+            },
+            {
+                "text": "Good morning",
+                "label": "fp"
+            },
+            {
+                "text": "Good morning Lets see music um well I play couple of instruments",
+                "label": "fp^m"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I try to",
+                "label": "sd"
+            },
+            {
+                "text": "What do you play",
+                "label": "qw"
+            },
+            {
+                "text": "Um clarinet is my primary instrument and I also play little bit of saxophone flute and piano --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- when I get the opportunity which isnt very often",
+                "label": "+"
+            },
+            {
+                "text": "Really thats too bad",
+                "label": "b"
+            },
+            {
+                "text": "How about yourself",
+                "label": "qo"
+            },
+            {
+                "text": "I play uh the violin --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and play trumpet --",
+                "label": "+"
+            },
+            {
+                "text": "Uh",
+                "label": "b"
+            },
+            {
+                "text": "-- and I run municipal band and I sometimes conduct",
+                "label": "sd"
+            },
+            {
+                "text": "Oh wow",
+                "label": "ba"
+            },
+            {
+                "text": "So Im pretty busy too I play in three different symphony orchestras",
+                "label": "sd"
+            },
+            {
+                "text": "Wow",
+                "label": "ba"
+            },
+            {
+                "text": "We have --",
+                "label": "sd"
+            },
+            {
+                "text": "Thats great",
+                "label": "ba"
+            },
+            {
+                "text": "-- nice big one here in State College called the Nitny Valley --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- Symphony I play in the Altoona Symphony was about forty-five miles away --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and I play in slightly smaller one called the Lockhaven --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- Symphony and Community Orchestra",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh So are you professional musician",
+                "label": "b"
+            },
+            {
+                "text": "No Im uh just retiring from Penn State University --",
+                "label": "nn"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- only I I should should have been I spend about half my time playing music or preparing for it somewhere",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But uh Ive been working at uh Penn State --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and using up all my nighttimes and weekends --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh going to these orchestra rehearsals and and concerts and so forth",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh I understand yeah Im in one community band here and thats just - well we rehearse once week We generally have concert every other week and -",
+                "label": "b"
+            },
+            {
+                "text": "You have one that often",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Thats amazing because --",
+                "label": "sd"
+            },
+            {
+                "text": "Thats lot",
+                "label": "sv"
+            },
+            {
+                "text": "-- I I I have it set up here that we have at least six to seven rehearsals per concert",
+                "label": "+"
+            },
+            {
+                "text": "No we sure dont",
+                "label": "nn"
+            },
+            {
+                "text": "Wow",
+                "label": "ba"
+            },
+            {
+                "text": "Well one thing is we have summer ser- summer series and every single Sunday night we play at the library to have little --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- out outdoor stage set up --",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- and so we do that every Sunday night --",
+                "label": "sd"
+            },
+            {
+                "text": "You are busy",
+                "label": "sv"
+            },
+            {
+                "text": "-- during the summer yeah and then I dont know We just have an awful lot of engagements and were just having to turn lot of people down um because you know uh we dont want to do things like have concert back to back or even two days in row",
+                "label": "+"
+            },
+            {
+                "text": "Where do you get all this music I mean you you must back up and play some of the music twice",
+                "label": "qw"
+            },
+            {
+                "text": "Oh yes definitely we really do You know you get your little Sousa book and you just flip through it and that sort of thing",
+                "label": "qy"
+            },
+            {
+                "text": "Oh okay So your you dont play pretty well full concert band music most of the time then",
+                "label": "bk"
+            },
+            {
+                "text": "It really depends on who shows up",
+                "label": "no"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Um and its always mystery because it actually doesnt matter who shows up it matters what instruments they brought because so many --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- people switch instruments so often",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But um yeah in the winter we do more concert stuff and -",
+                "label": "b"
+            },
+            {
+                "text": "How many people in your band",
+                "label": "qw"
+            },
+            {
+                "text": "Um I think theres about seventy",
+                "label": "sd"
+            },
+            {
+                "text": "Seventy",
+                "label": "b^m"
+            },
+            {
+                "text": "Yeah theres lot",
+                "label": "b"
+            },
+            {
+                "text": "Holy mackerel thats -",
+                "label": "ba"
+            },
+            {
+                "text": "But on any given night theres not seventy --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know it alternates quite lot",
+                "label": "+"
+            },
+            {
+                "text": "Boy that is huge organization thats great",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah it really is",
+                "label": "aa"
+            },
+            {
+                "text": "Because about the best I can normally hope for is about fifty --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- in in the band I have here",
+                "label": "+"
+            },
+            {
+                "text": "Yeah well -",
+                "label": "b"
+            },
+            {
+                "text": "But that fills stage and keeps us busy but they were half have been professionals from uh lot of them are from uh faculty at Penn State here",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay",
+                "label": "b"
+            },
+            {
+                "text": "And so they want to play things that uh push them to do So thats why we have to work real hard when we get concert together",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "We have about four concerts per year indoors --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and two or three that we play outside",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And the last one we did was in large uh mall close here we played Christmas about an hour out in this mall",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So that worked out very nicely",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah thats fun",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Well lets see Well theres another band around here Someone at work is trying to get me to join that one because they need clarinet players --",
+                "label": "^h"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and their concert schedule isnt as heavy but they have more in the summer I think they have ten in the summer you know one one week after the other I think theyre like Monday nights --",
+                "label": "sd"
+            },
+            {
+                "text": "Wow that -",
+                "label": "ba"
+            },
+            {
+                "text": "-- and they dont have rehearsals during that time period",
+                "label": "+"
+            },
+            {
+                "text": "Are you just saying you you sight read every concert",
+                "label": "qy"
+            },
+            {
+                "text": "Uh well its not really sight reading when youve done it you know again and again and again but --",
+                "label": "nd"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "-- some people are yeah --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- some of them are",
+                "label": "sd"
+            },
+            {
+                "text": "And where where does this happen Laurie is this in Dallas",
+                "label": "qw"
+            },
+            {
+                "text": "Well theyre in the suburbs of Dallas in Richardson and Plano",
+                "label": "nd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Were real close to Dallas",
+                "label": "sd"
+            },
+            {
+                "text": "Well I declare",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Thats amazing",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah well its more of I think its very much more of social group than anything else you know",
+                "label": "b"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "And and people always bring refreshments for after rehearsal and --",
+                "label": "sd"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "-- hang around for an hour or so and",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Thats probably why we get so many people",
+                "label": "+"
+            },
+            {
+                "text": "Do any of your you in your group get paid for any of this",
+                "label": "qy"
+            },
+            {
+                "text": "Um well the conductor gets paid little bit you know we do get some money from the city --",
+                "label": "na"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- because we do play at lot of city events",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Um I think hes the only one that gets paid",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh And you do have to buy your music Who who sponsors you basically the city",
+                "label": "b"
+            },
+            {
+                "text": "The city uh-huh",
+                "label": "na^m"
+            },
+            {
+                "text": "Yeah uh my band is sponsored through what they call Parks and Recreation",
+                "label": "b"
+            },
+            {
+                "text": "Yeah its similar thing",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I cant remember what they call it but the same type of thing",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Um but we do get an awful lot of music you know we can borrow music from any of the area colleges --",
+                "label": "sd"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "-- or you know if some some group just isnt going to play any more theyll just give us their music and that type of thing",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And we do an awful lot of you know - we dont charge for any of our performances but we get lot of donations",
+                "label": "sd"
+            },
+            {
+                "text": "Well I I work the same way",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Well Ill be darned Its amazing",
+                "label": "ba"
+            }
+        ]
+    }
+]

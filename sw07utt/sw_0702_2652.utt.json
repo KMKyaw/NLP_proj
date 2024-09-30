@@ -1,0 +1,623 @@
+[
+    {
+        "conversation_id": "conv_2652",
+        "turns": [
+            {
+                "text": "Okay Guess we can go ahead Uh well I guess you know its you know - since living in Dallas its always so hot so in the summertime I just I wear lots of shorts so because I dont work during the day",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So do you work",
+                "label": "qy"
+            },
+            {
+                "text": "Yes uh-huh yeah I do work",
+                "label": "ny"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Uh and - but I work at manufacturing plant so I wear lot of blue jeans",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and -shirts",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But occasionally I have to get dressed up and wear panty hose and dress",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and high heel shoes and I feel really uncomfortable doing that and",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "in the plant so uh its its problem for me",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But normally I just wear blue jeans and -shirt",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Very very comfortable I like that so much better than having to wear dress clothes",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah and buying suits and stuff yeah because just being at home - and I work at home so",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I just have you know I just wear my you know my shorts and stuff like that I dont go out and spend lots of money on uh different you know suits and stuff you know",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But when I - before I got married you know I was working so I uh you know I had more suits and stuff then but -",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Worry about all that kind of stuff -",
+                "label": "sd"
+            },
+            {
+                "text": "Well I have plenty of suits and dress clothes because Im like you when I first started working",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "uh I have all these suits and blouses and skirts and mix and match and that kind of stuff",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "but now that I you know work in the manufacturing plant then its just its so much more difficult for me to to actually get dressed up to come in to work like that",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Uh but occasionally I have to because uh part of my job is teaching",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and training and uh so you have to look just little bit nicer than your normal",
+                "label": "+"
+            },
+            {
+                "text": "When youre training right",
+                "label": "bf"
+            },
+            {
+                "text": "garb",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Than your normal garb But Im like you too uh I moved from Ohio down to here --",
+                "label": "sd^r"
+            },
+            {
+                "text": "uh-huh moved from",
+                "label": "b"
+            },
+            {
+                "text": "-- and I had mostly polyesters and",
+                "label": "sd"
+            },
+            {
+                "text": "Winter",
+                "label": "+"
+            },
+            {
+                "text": "wools and winter clothes --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and buying all these cotton clothes and then of course you have to iron them all the time",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Thats really - thats been problem for me",
+                "label": "%"
+            },
+            {
+                "text": "Yeah because I came from Wyoming and I had wool suits and wool skirts and You know Ive got all these clothes that I never wear",
+                "label": "aa"
+            },
+            {
+                "text": "Right",
+                "label": "aa"
+            },
+            {
+                "text": "because you cant wear them here",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "aa"
+            },
+            {
+                "text": "And uh the seasons are just so much different You have so much summer",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh so then when I you know I finally get chance to go out with my husband its like real chore to find something nice to wear",
+                "label": "sd"
+            },
+            {
+                "text": "Thats true thats true",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Well I know I was just now uh uh putting away lot of my winter clothes",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and I was going through here and I was thinking I havent worn this in three years",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And because its wool skirt and theres just not that many opportunities to wear it",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And I have five or six wool skirts",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "so I was thinking well maybe you know I need to think about getting rid of them but no I folded it up neatly and put it away maybe next year",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah You hate to get rid of it because you know how much you spent on them",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "aa"
+            },
+            {
+                "text": "And its real hard to get rid of some of that stuff I know",
+                "label": "sd"
+            },
+            {
+                "text": "I know I agree with you 2 slash units",
+                "label": "aa,o@"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "Well I know last year uh well this past winter it wasnt that cold",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But the previous winter we had more uh cold weather where I was able to actually wear",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "your double and triple layerings of uh clothes --",
+                "label": "+"
+            },
+            {
+                "text": "Clothes yeah",
+                "label": "b^m"
+            },
+            {
+                "text": "-- yeah like you would when youre up north So",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "thats really interesting",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah and I I just dont spend you know - right now my clothes come from Target you know",
+                "label": "aa"
+            },
+            {
+                "text": "Yes yes yes and theyre all one hundred percent cotton and -",
+                "label": "aa"
+            },
+            {
+                "text": "Yes and they - you take them out of the drier and theyre wadded up in ball",
+                "label": "aa"
+            },
+            {
+                "text": "Yes yes I know So I uh I have my ironing board sitting out all the time Looks like this should be the end of slash unit not continue in Bs next turn",
+                "label": "aa"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "I never put mine away See note above",
+                "label": "+@"
+            },
+            {
+                "text": "Im so glad to meet somebody that that their iron board is their permanent fixture in their house",
+                "label": "sd"
+            },
+            {
+                "text": "It is it is",
+                "label": "sd"
+            },
+            {
+                "text": "You know I have very little furniture but my ironing board is part of my decor so -",
+                "label": "sd"
+            },
+            {
+                "text": "Thats true and and Ive been looking at these uh uh like in Home Depot where you can go and theyve got that ironing boards that will just flip right down off of the uh uh what the the the door",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh - and then you can ha- actually have one where you can put it inside of wall you know to have it",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "permanently attached and thats what Im thinking Im going to have to do because mines sitting right out in front of my bedroom and its just its just an eyesore I think",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "with all the -",
+                "label": "+"
+            },
+            {
+                "text": "well yeah it is it is but its like uh I just dont want to do it",
+                "label": "aa"
+            },
+            {
+                "text": "Uh-uh uh-uh",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "No Ive been thinking about putting the ironing board in the closet",
+                "label": "o"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and and running you know line in there for my iron so I could do it in there and I wouldnt have to have that eyesore",
+                "label": "+"
+            },
+            {
+                "text": "Yeah thats an idea",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So I have big closet",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I you know - if I have - if I know Im having somebody come over to the house and theres possibility they might be going back into my room",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I will put it away",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "but I iron our clothes as we go along",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "so you know -",
+                "label": "%"
+            },
+            {
+                "text": "I no longer do that weekly thing",
+                "label": "sd"
+            },
+            {
+                "text": "Right no",
+                "label": "aa"
+            },
+            {
+                "text": "because I have so many and Im like you",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I the night before or that day I will iron whatever it is that we need and thats it",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Because its too many - hundred percent cotton",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh You cant iron it all and -",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Yeah And then with my kids theyre always getting into you know - they cant decide what they want to wear so they",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "change their minds you know I know I mean my oldest is only four but shes still changes her mind two or three times",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "before she figures out what shes going to wear so -",
+                "label": "+"
+            },
+            {
+                "text": "Right Oh I know I know",
+                "label": "aa"
+            },
+            {
+                "text": "And then they never put anything back",
+                "label": "sd"
+            },
+            {
+                "text": "No no of course not No that uh that would be too simple",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh Yeah that that thats called smart you know they dont we dont do that kind of stuff you know Seems this should end in slash",
+                "label": "b"
+            },
+            {
+                "text": "Absolutely not",
+                "label": "aa"
+            },
+            {
+                "text": "Thats called too easy on mom See note above this would seem to be an indep slash unit",
+                "label": "+@"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "Our lot in life is to make her life miserable so -",
+                "label": "^q"
+            },
+            {
+                "text": "uh-huh absolutely absolutely",
+                "label": "aa"
+            },
+            {
+                "text": "Uh",
+                "label": "%"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Yeah well thats - its been good talking to you to see somebody hear somebody that does the same thing I do because I tell people what I do and they just go oh how do you do that Its like its easy you just do it you know",
+                "label": "b"
+            },
+            {
+                "text": "Thats right Thats right you do you do More than 1 slash unit",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So uh - but yeah I uh I know several of my girlfriends though we uh we all keep our ironing boards out and just uh an ever present thing in our household so -",
+                "label": "%"
+            },
+            {
+                "text": "Yeah yeah I dont think Id know what to do if it wasnt there you know My husband wouldnt know where to hang his dirty clothes",
+                "label": "b"
+            },
+            {
+                "text": "There you go",
+                "label": "ba"
+            },
+            {
+                "text": "You know",
+                "label": "o"
+            },
+            {
+                "text": "Things that need to be mended",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "things that have to get ironed",
+                "label": "+"
+            },
+            {
+                "text": "He wouldnt know where to put things so -",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh uh-huh Thats true",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah so -",
+                "label": "b"
+            },
+            {
+                "text": "Oh well it was nice talking with you",
+                "label": "fc"
+            },
+            {
+                "text": "Oh it was nice talking with you too",
+                "label": "fc"
+            },
+            {
+                "text": "Okay take care",
+                "label": "fc"
+            },
+            {
+                "text": "Take care Bye-bye",
+                "label": "fc"
+            },
+            {
+                "text": "uh-huh bye-bye",
+                "label": "fc"
+            }
+        ]
+    }
+]

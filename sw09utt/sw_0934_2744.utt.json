@@ -1,0 +1,687 @@
+[
+    {
+        "conversation_id": "conv_2744",
+        "turns": [
+            {
+                "text": "That sounded like one",
+                "label": "o"
+            },
+            {
+                "text": "uh-huh Um I think that there is something definitely wrong with our school system just because of the results that you see coming out of the school system",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "as far as uh people dropping out of school uh grades on test scores being low uh more and more people taking - trying to get out of high school instead of just going through high school",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know something must be wrong as far as uh mak- not just the teaching techniques but just motivation",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "within within the schools themselves",
+                "label": "+"
+            },
+            {
+                "text": "Yeah excuse me just minute",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "aa"
+            },
+            {
+                "text": "uh Im on the other line Karen Im sorry",
+                "label": "+"
+            },
+            {
+                "text": "Oh its okay",
+                "label": "bd"
+            },
+            {
+                "text": "Okay Uh she uh - yeah well the the results - I I hear what youre youre saying about the results",
+                "label": "b^m"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh its what to do about it I guess is the the big thing",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Im Im in kind of an interesting situation in that my my wife teaches school here in Plano",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I know that uh the results that they get out of the system sometime is is certainly not you know up to what the effort they put into it you know Ive seen that for years yeah",
+                "label": "sd"
+            },
+            {
+                "text": "Right and I know uh I work around you know lot of teachers and I - I understand how uh supportive they are of their students and how excited they are",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "but some how I dont think the students are getting excited",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah Ive often wondered if it doesnt come back to the the home environment",
+                "label": "aa"
+            },
+            {
+                "text": "Oh yes definitely uh-huh",
+                "label": "aa"
+            },
+            {
+                "text": "And uh it if uh no matter what they do in the the classroom if they go home at night and you know its all totally undone uh -",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "The the thing that uh uh that Karen my wife has has run into so often is that you run into group of kids that are going to succeed no matter what no matter how bad their teachers are",
+                "label": "sd"
+            },
+            {
+                "text": "Right right",
+                "label": "b"
+            },
+            {
+                "text": "no matter what lousy system theyre in or anything else",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "these people somehow manage to uh you know",
+                "label": "sd"
+            },
+            {
+                "text": "Progress uh-huh",
+                "label": "^2"
+            },
+            {
+                "text": "push on through and are successful Its uh unfortunately probably what maybe twenty-five or thirty percent of them do that",
+                "label": "+"
+            },
+            {
+                "text": "Yeah not not even that much probably",
+                "label": "aa"
+            },
+            {
+                "text": "Well ye- that would be be at the absolute most",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah uh-huh",
+                "label": "aa"
+            },
+            {
+                "text": "And uh you know those those that you know come out you know fall out of the system that are are real trouble -",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I I wonder whether thats just uh uh part of the system you know",
+                "label": "qy^d"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "if you know in democracy where you know people have kind of uh freedom to sort of do what they want",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "you know there theres an inefficiency there",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and youve got to let those you know those -",
+                "label": "sv"
+            },
+            {
+                "text": "And speaking speaking of doing what you want uh just in society today being that its nineteen ninety-one",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "um lot of teenagers and young people have lot more freedom as far as what they do",
+                "label": "+"
+            },
+            {
+                "text": "Oh oh yeah",
+                "label": "aa"
+            },
+            {
+                "text": "as far as you know even even something as simple as staying up late um watching television late um",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "going out late start dating you start dating too early you know",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "just little things like that that do start in the home",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "that can that plays big part because you spend eight hours of your day or more in school and so any other part of your life thats going to definitely affect your school life",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "because you spend so much time there",
+                "label": "+"
+            },
+            {
+                "text": "And sometimes in some systems they make everything so competitive you know",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "you from the minute that you walk in until yo- until you leave your your competing against somebody else or your competing against uh system or or something",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "you know and then lot of the- - there is personality type I believe that is really noncompetitive Theyre cooperative rather than competitive",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and when they get into real competitive system they just say oh well what the heck",
+                "label": "sv(^q)"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and uh tend not to you know do too awful well",
+                "label": "+"
+            },
+            {
+                "text": "Right I talked to guy the other day and he is now in in program thats trying to get him out of high school because he he fell back several years ago and hes going to he he will have gone to school five years",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Um and the reason that he was doing so badly couple of years ago was because his mother died",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and he was having to uh support his entire family take care of his brothers and sisters you know",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and all that had an adverse affect on his school life",
+                "label": "sd"
+            },
+            {
+                "text": "I would think so yeah",
+                "label": "ba"
+            },
+            {
+                "text": "And yeah and that and thats perfect example of how your home life you know plays definite part And you know",
+                "label": "b^m"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "aa"
+            },
+            {
+                "text": "any other aspect of your life an but now now that hes in this program and you know hes I guess okay hes hes making straight - and you know it just it it was there it was just I guess school was not number one priority for him at that time",
+                "label": "+"
+            },
+            {
+                "text": "Yeah it uh - right survival becomes more of priority than than education",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "aa"
+            },
+            {
+                "text": "and unfortunately you know theres uh theres and old joke about uh you know - educations wasted on the youth anyway You dont you dont really appreciate it until youre much older anyway",
+                "label": "sd"
+            },
+            {
+                "text": "Right exactly",
+                "label": "aa"
+            },
+            {
+                "text": "I know when I went to school uh my attitude was kind of one of you know these people are you know taking tremendous amount of my time",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "you know and Ive got better things to be doing than sitting here listening to this stuff over and over again",
+                "label": "+"
+            },
+            {
+                "text": "Ex- exactly",
+                "label": "aa"
+            },
+            {
+                "text": "I guess today that would be uh some how or other there would be program of some sort that would take care of that sort of thing but -",
+                "label": "sv"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "The uh the cure some of the cures that Ive heard for this that that sort of make sense -",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "uh most teachers after they have taught for very long especially at the the lower grades can spot problem almost immediately",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh its kind of these intervention programs Now lot of people will get to looking at these and say hey thats socialism and thats communism",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "and thats you know - and then it gets political",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But uh boy",
+                "label": "ba"
+            },
+            {
+                "text": "When people start talking about programs that help for me I dont care if its socialist or I dont care as long as its something thats going to do some good or that looks like it could be beneficial",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh yeah",
+                "label": "aa"
+            },
+            {
+                "text": "I mean thats the point Im at now I mean thats the point we all should be at is like finding some solution",
+                "label": "sd"
+            },
+            {
+                "text": "Um yeah",
+                "label": "b"
+            },
+            {
+                "text": "I mean you know nothing totally radical but if its something that you know might help you know - because theres not lot being done",
+                "label": "sv"
+            },
+            {
+                "text": "Well you know the the radical programs in some cases are just totally unacceptable There are kids families that should just simply be taken out of the homes you know",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "aa"
+            },
+            {
+                "text": "And uh uh you know uh just removed from those situations",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "or theyre never going to get anywhere But yet politically that is not very popular view",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Im sure that if you you know ran on platform of you know were going to find the kids that are having trouble at home and were going to take them out of the home -",
+                "label": "sv(^q)"
+            },
+            {
+                "text": "Take them out",
+                "label": "b"
+            },
+            {
+                "text": "Yeah you know how far youre going to get with that",
+                "label": "b"
+            },
+            {
+                "text": "Yeah not very far at all",
+                "label": "aa"
+            },
+            {
+                "text": "Uh but unfortunately its its something like that in lieu of that you know is the intervention programs in school where the these kids are are spotted fairly early on",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and uh you know theres well thats get to be problem in Texas you know",
+                "label": "sd"
+            },
+            {
+                "text": "I mean its its almost like -",
+                "label": "%"
+            },
+            {
+                "text": "because different school systems have got more or less money to take care of that sort of thing",
+                "label": "+"
+            },
+            {
+                "text": "Right right",
+                "label": "aa"
+            },
+            {
+                "text": "you got counselors and all that But you know you can counsel kid eight hours day and then he goes home and and uh you know in the in worst cases hes got parents either on drugs or or something like that",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "or they dont care You know mamma wha- guess what I did in school today well who cares you know",
+                "label": "sv"
+            },
+            {
+                "text": "An lot of it lot of the parents now are so young",
+                "label": "sv"
+            },
+            {
+                "text": "True",
+                "label": "ba"
+            },
+            {
+                "text": "You know that theyre they still they still dont know whats going on and how are they supposed to you know teach their kids that are coming up you know whats going on I mean its just its vicious cycle",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "that were you know dead smack dead in the center of and we have to try to swim out You know kind of like the Bermuda Triangle were just sinking and its almost impossible to swim back up",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But um yeah theres definitely problems",
+                "label": "b^m"
+            },
+            {
+                "text": "Yeah Im -",
+                "label": "aa"
+            },
+            {
+                "text": "its just the solutions that you know theyre going to be in our political system theyre going to be on everyones mind for quite while too long",
+                "label": "sv"
+            },
+            {
+                "text": "I dont know if youve ever had too much to do with uh oh especially Asian Japanese families coming here in Plano weve got uh quite few",
+                "label": "qy^d"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh engineering types people who have come from Japan",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "and they put their kids in the schools and theyre appalled",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know not so much at what the schools are teaching but what they let the kids get away with",
+                "label": "sd"
+            },
+            {
+                "text": "Um uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know they they see most uh - theyre theyre quite upset about the uh the disruptive influence of school Most of them would say you know those people should be removed from the school system",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And in Japan they would be you know",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "But uh here again you get back into political thing where uh -",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah theres theres - right Theres definitely too much leeway as far as -",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I mean Ive only been out of Ive been out of college only two years",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and you were saying that you dont appreciate education until you get out and I I already you know I really didnt I really dont see myself going back to school or anything but I appreciate more what I had",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I had all these classes and all this knowledge and this big library across the street from my dorm",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah were you at Baylor",
+                "label": "b"
+            },
+            {
+                "text": "and I just didnt take as much advantage of it as I should have",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah did you go to Baylor",
+                "label": "b"
+            },
+            {
+                "text": "No I went to at Austin uh-huh",
+                "label": "nn"
+            },
+            {
+                "text": "Oh oh okay Im uh -",
+                "label": "bk"
+            },
+            {
+                "text": "So I mean all kinds of resources and you know just there",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and Id give anything to have that right now in my in my regular li- - I mean you you have everything given to you I dont see why people wouldnt want that I dont know I - but then if I was young I wouldnt see it",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh well thats thats it you you dont have uh",
+                "label": "aa"
+            },
+            {
+                "text": "But you know now that its gone I -",
+                "label": "sd"
+            },
+            {
+                "text": "you dont have the view",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "I graduated from Texas Tech",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "more than two years ago I guarantee and you know I kind of look back at it sometimes well that was lot of fun but we-",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "you know Im not sure that that I took the greatest advantage of you know what I went through there",
+                "label": "+"
+            },
+            {
+                "text": "Right yeah I did lot and I experienced lot and I I feel like I got good college education but just when I got out I feel like I should have spent more time in the library I should have taken those continuing educations classes or whatever they were you know",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "the informal classes that you dont get credit for you know",
+                "label": "sd"
+            }
+        ]
+    }
+]

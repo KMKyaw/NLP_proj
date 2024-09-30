@@ -1,0 +1,459 @@
+[
+    {
+        "conversation_id": "conv_2610",
+        "turns": [
+            {
+                "text": "So how do you feel about the metric system",
+                "label": "qo"
+            },
+            {
+                "text": "Oh I like it I I I have foreign actually I have more than one foreign automobile And I I I find the uh I find the the nondecimal system with all the halves and quarters - I was trying to build shed and they give you these measurements like forty-two and three eighths inches and we had to go little less and trying to figure whats less than three eighths uh",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah and its - I forget how many millimeters So you used the metric",
+                "label": "b"
+            },
+            {
+                "text": "Well no What we did was wind up using - and you just go you just go down and and you get out the the so many inches and and we just marked little bit less than that uh which is somewhat awkward but had it been millimeters you could have done - I think whats interesting - the way engineering people do is they - they in essence have gotten around it by by listing uh decimal inches",
+                "label": "nn"
+            },
+            {
+                "text": "Uh yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "Do you- are you involved in any engineering drawing stuff that",
+                "label": "qy"
+            },
+            {
+                "text": "Uh yeah yeah Uh I work in metal fab and tenths of inches are are normal And you know me- you know it is broken up in you know the inch is broken up and has been for quite some time for in tenths hundredths thousandths ten thousandths of an inch",
+                "label": "ny"
+            },
+            {
+                "text": "Well have have you do you are you involved in any other uh metric type things like -",
+                "label": "qy"
+            },
+            {
+                "text": "Yes I am I I have Suzuki motorcycle and and Ive had motorcycles Japanese motorcycles for years and years and the metric system comes easy to me But my -",
+                "label": "ny"
+            },
+            {
+                "text": "I think its interesting you we- you know when yo- you go out there and youre looking for wrench and you want the next size larger Ive got I inherited some some stuff like fifteen thirty seconds",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Well now that ones fairly easy because thats probably slightly under half an inch But some of them like like twenty-seven - and and there are some thirty seconds and some of the things that that uh dont translate",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah yeah trans- - yeah To go from from eighths to sixteenths to uh thirty seconds and remember where it falls it -",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah and and youve got to go over there and try it and I suppose you know I need larger one I need smaller one I mean obviously you can look at it and say well anyway - I think the other thing thats interesting is that lot of our stuff is already changed that we havent - I dont know do you do you drink adult beverages",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah I drink beer",
+                "label": "ny"
+            },
+            {
+                "text": "We- th- have you noticed that um that lot of the um lot of -",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah whiskey is in liters",
+                "label": "ny"
+            },
+            {
+                "text": "Yes",
+                "label": "aa"
+            },
+            {
+                "text": "And and the next - yeah point seven five liters and then liters and then one point seven five liters yeah",
+                "label": "%"
+            },
+            {
+                "text": "Its like fifth like fifths of whiskey I thought was always kind of strange",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Whats fifth of whiskey",
+                "label": "qh"
+            },
+            {
+                "text": "Yeah I I always wondered about that myself",
+                "label": "aa"
+            },
+            {
+                "text": "It was marketing ploy",
+                "label": "sv"
+            },
+            {
+                "text": "And and they had quarts at the same time though",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah But the idea was is that by with five fifths um they could uh they could uh they could sell five and and um it was simply ploy to to get people you know --",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- to buy to buy more for - its uh I find that interesting",
+                "label": "+"
+            },
+            {
+                "text": "Its -",
+                "label": "%"
+            },
+            {
+                "text": "But its like you know the the the the soda and this kind of things coming in --",
+                "label": "sd"
+            },
+            {
+                "text": "Liters",
+                "label": "^2"
+            },
+            {
+                "text": "-- on- one liter bottles and um I I think its kind of generational Although I must admit that that I am not I ca- Im not conversant in saying you know thats three centimeters away I mean or or or",
+                "label": "+"
+            },
+            {
+                "text": "Yeah It its like I say I work in machine shop and uh everythings still inches",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "+@"
+            },
+            {
+                "text": "Everythings still fractions of inches or pa- or tenths --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Its its hard to think --",
+                "label": "aa"
+            },
+            {
+                "text": "-- or thousandths or or -",
+                "label": "+"
+            },
+            {
+                "text": "-- though",
+                "label": "+"
+            },
+            {
+                "text": "Yes it is mental thing It is conversion thing",
+                "label": "aa"
+            },
+            {
+                "text": "Its like mill you know We we do uh um well we use one mill bond wire or one point five mill co- bond wire on --",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- on semiconductor devices And well whats mill and -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah But what really annoys me is the way we in the United States have been converting to metric We have eighty-nine Chevy Blazer And before that we had Horizon Uh you know Plymouth Horizon",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And both of them were mismatch of both American and metric",
+                "label": "sd"
+            },
+            {
+                "text": "Dont you find that interesting Uh that they that that theyre doing that uh in any field for ho- why why why pieces - could you could you get any connection on which was metric and which wasnt",
+                "label": "qy"
+            },
+            {
+                "text": "Uh okay The engine itself was mostly metric because it came from Canada",
+                "label": "b"
+            },
+            {
+                "text": "Oh okay",
+                "label": "bk"
+            },
+            {
+                "text": "And the starter was Bosch American so -",
+                "label": "sd"
+            },
+            {
+                "text": "The bolts were were Eng- were were English then",
+                "label": "bf"
+            },
+            {
+                "text": "Yeah yeah It was it was annoying One one half of the starter wa- you know three bolts on the starter and two of them were American and one of them was metric",
+                "label": "aa"
+            },
+            {
+                "text": "Now thats strange",
+                "label": "ba"
+            },
+            {
+                "text": "And uh you go from the uh water pump up to the radiator and on the water pump it was all metric And and on you know the factory fittings you know the factory uh --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- screw lock --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- uh uh radiator hose clamps",
+                "label": "+"
+            },
+            {
+                "text": "Essentially they do that though because if if you look at General Motors the size - and and and of course Ford and Chrysler If they all went if they all went metric - but in sense um you know its like when yo- measurement though when when you put uh you know one point four three two inches whe- when youre milling something uh --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- you simply set your uh equipment or or you measu- or you got your calipers there and and you measure you know you mic it to see if its accurate and -",
+                "label": "+"
+            },
+            {
+                "text": "Right Its its not problem either way",
+                "label": "aa"
+            },
+            {
+                "text": "No",
+                "label": "aa"
+            },
+            {
+                "text": "Like I said my only complaint is where they mixed them on the same car",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And you go to look at it and you dont know which set to reach in American or metric",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and and youre never quite sure well is that metric bolt",
+                "label": "sv"
+            },
+            {
+                "text": "You get you pair of metric pliers right",
+                "label": "qy^g"
+            },
+            {
+                "text": "Right right",
+                "label": "na"
+            },
+            {
+                "text": "And you beat on it and metric hammer",
+                "label": "qy^d"
+            },
+            {
+                "text": "It it can be annoying and my other con- concern is is the American government going to force us to go",
+                "label": "sv"
+            },
+            {
+                "text": "Oh I think I dont think so I I think that th- uh I think theyve now just taken the attitude that well if it happens if it - because it there lot of things that that uh um like sports you know Its hundred meter",
+                "label": "sv"
+            },
+            {
+                "text": "Oh absolutely",
+                "label": "aa"
+            },
+            {
+                "text": "And uh uh but automobile races - if it - I dont think theyd ever - its still going to be the Indianapolis Five Hundred Theyre not going to -",
+                "label": "%"
+            },
+            {
+                "text": "Yeah Yeah Theyre not going to change that to meters It will always be",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah And and it I I dont think it I dont you know I dont think I dont think its particularly bothersome because in reality uh - you its like troy ounces in ounces of gold How many ounces of gold you know",
+                "label": "b"
+            },
+            {
+                "text": "Twelve",
+                "label": "sd"
+            },
+            {
+                "text": "I was trying I was trying to figure up gold content on something It had has uh gold plated uh header And and theyre trying to think of whats Troy ounce",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Theres twelve troy ounces to the pound",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Now that makes you know -",
+                "label": "b"
+            },
+            {
+                "text": "Yeah And and is that going to change too",
+                "label": "b"
+            },
+            {
+                "text": "Well I mean and and then theres metric ton and then theres ton But whats metric ton",
+                "label": "sd"
+            },
+            {
+                "text": "Uh se- -- -",
+                "label": "%"
+            },
+            {
+                "text": "I dont know",
+                "label": "sd"
+            },
+            {
+                "text": "-- I dont remember I I read it And are we still going to maintain drams for perfume",
+                "label": "no"
+            },
+            {
+                "text": "Yeah And and then but then the medicine And and some of these other things and and the chemistry in those kinds of areas milliliter",
+                "label": "ny"
+            },
+            {
+                "text": "Its all metric all ready",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah And and so um but but when you go to order drink um you know say they they I dont know its uh -",
+                "label": "ny"
+            },
+            {
+                "text": "And what will shot be Will shot be an ounce",
+                "label": "qw"
+            },
+            {
+                "text": "I dont know And and but you know when you go to the store and and youre trying to figure you know well this box is is uh is is twelve ounces - and and this ones uh uh three pounds um and you -",
+                "label": "no"
+            },
+            {
+                "text": "And the other ones two point one kis and and youre youre lost",
+                "label": "sv"
+            },
+            {
+                "text": "Thats right And and I dont know I I think that I I think I think the Federal government is going to more or less leave it alone I think theyve got I think there are more pressing problems",
+                "label": "aa"
+            },
+            {
+                "text": "Oh yeah The economy",
+                "label": "aa"
+            },
+            {
+                "text": "Yes",
+                "label": "aa"
+            },
+            {
+                "text": "Uh what I was thinking about is an economical issue concerning it Uh machinist has huge number of dollars invested in tooling Personal tools to be able to do his job",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah But but are are the tools that uh - if youre cutting - are you talking about cutting equipment or tools for tha- for set up",
+                "label": "aa"
+            },
+            {
+                "text": "Uh tools for set up and for measurement Uh you got to have one tenth indicator its hundred dollars Uh five tenths indic- uh usually two one tenth indicators --",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "-- at hundred dollars each Uh five tenths indicator at about hundred dollars You got to have uh six inch set of calipers at anywhere from sixty to hundred twenty dollars You got to have zero to one for sixty dollars Uh one to two inch micrometer for sixty dollars two to three for eighty dollars three to four for eighty dollars",
+                "label": "+"
+            },
+            {
+                "text": "So youve got thousands of dollars or so I mean you get thousand dollars worth of tools",
+                "label": "bf"
+            },
+            {
+                "text": "Real fast",
+                "label": "aa"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "Real real fast Edge finders and -",
+                "label": "aa"
+            },
+            {
+                "text": "But I was thinking about though that that when you actually get to the milling equipment though when it starts turning -",
+                "label": "%"
+            },
+            {
+                "text": "Well I know because okay Your end mills will be measured in inches or fractions of inches",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know",
+                "label": "qh"
+            },
+            {
+                "text": "But whe- you when you when you simply drilling hole I mean real simple thing like gee - I need hole there",
+                "label": "sv(^q)"
+            },
+            {
+                "text": "What size hole",
+                "label": "qh"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "As in metric size hole or or an American sized hole",
+                "label": "qh"
+            },
+            {
+                "text": "Yeah And and what but the thing is then youve got to with screws and thats the other issue Uh the pitch and -",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah yeah Well and thread",
+                "label": "aa"
+            }
+        ]
+    }
+]

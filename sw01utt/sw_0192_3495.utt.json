@@ -1,0 +1,215 @@
+[
+    {
+        "conversation_id": "conv_3495",
+        "turns": [
+            {
+                "text": "Okay what do you feel are some of the main problems",
+                "label": "o"
+            },
+            {
+                "text": "Well Im in Im in an urban area Im in Dallas",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And were finding that crime is going up very quickly and has become major problem uh even more major problem Uh in Dallas some of the major problems uh - drugs seems to be re- related to quite bit of the crime we have now There is lot of theft lot of assault dealing with uh people trying to get money for drugs",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And uh I think thats national problem though",
+                "label": "sv"
+            },
+            {
+                "text": "It it its --",
+                "label": "sd"
+            },
+            {
+                "text": "Its not unique",
+                "label": "sv"
+            },
+            {
+                "text": "-- pretty bad here too Weve had lot of murders drug related and stuff",
+                "label": "+"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "In Durham which is right next to Raleigh",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh Well now were pretty close to the golden triangle arent you",
+                "label": "b"
+            },
+            {
+                "text": "Yeah that that - Durham Raleigh and Chapel Hill is the triangle",
+                "label": "ny"
+            },
+            {
+                "text": "Right research triangle --",
+                "label": "aa"
+            },
+            {
+                "text": "Right",
+                "label": "aa"
+            },
+            {
+                "text": "-- and all of that And uh Im sure you have lot of students there uh and lot of researchers so you you may have you know perhaps little better economic climate but in all your cities now it seems like th- there is crowd thats really effected by this bill",
+                "label": "+"
+            },
+            {
+                "text": "Yeah its its really its - and Ive seen in more in Durham than I have in Raleigh or or --",
+                "label": "aa"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "-- or Chapel Hill Chapel Hill is kind of ritzy city or whatever I mean its kind of - Im Im sure there is problems with it but it has pretty low crime rate Compare compared to to Durham has probably got the worst Theyve had like forty-eight murders since the beginning of the year",
+                "label": "+"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "And over half of it has been drug related",
+                "label": "sd"
+            },
+            {
+                "text": "Um Well here uh Im not sure how many Dallas has had Ive uh - Houston is averaging about two week or three or four I I dont know number every week -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Uh Dallas is having quite few Seems like most of ours are occurring in late at night or or like I say drug related Uh I guess the other thing was that are causing lot of the crime now is the decrease in values Seems like lot of people dont hold human life quite as high as perhaps they used to",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Uh I -",
+                "label": "%"
+            },
+            {
+                "text": "Well that - and the and the economy is so bad and",
+                "label": "%"
+            },
+            {
+                "text": "The economy is lousy",
+                "label": "bf"
+            },
+            {
+                "text": "And so many people have been laid off and stuff Theyve done special stories on the news local news here",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "We had lot of bank robberies and different lot of break ins and stuff I know like week or so ago - I live in in town house which is you know - its pretty nice neighborhood and this lady was going to work she came home and everything in her house was total gone light fixtures everything And nobody thought any different they just thought she was moving It was moving man pulled right up to her house broke in and stole everything she owned",
+                "label": "sd"
+            },
+            {
+                "text": "Boy that really that really takes someone who is bold to do that",
+                "label": "sv"
+            },
+            {
+                "text": "Well yeah its its its pretty bad",
+                "label": "aa"
+            },
+            {
+                "text": "Well now do you find that security is very good in in in town home",
+                "label": "qy"
+            },
+            {
+                "text": "Uh I would say so for the majority in in our in my little section of the neighborhood because there is always somebody at home --",
+                "label": "na"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and we all know one another and and on our one little section of the street we all know one another and know that were not moving and different things like that",
+                "label": "sd"
+            },
+            {
+                "text": "Well that -",
+                "label": "%"
+            },
+            {
+                "text": "Its - I Im Im probably the one of the youngest people that live over here",
+                "label": "%"
+            },
+            {
+                "text": "I see",
+                "label": "bk"
+            },
+            {
+                "text": "Most people are are retired or or or you know theyre theyre in their forties or or whatever So and Im in my twenties so I Im Im out more than they are but --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- theyre at home at night so I really dont worry about anything",
+                "label": "+"
+            },
+            {
+                "text": "Well I think you hit on one point there is you know each other",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Im Im in neighborhood where we try to keep up with everything Uh I am oh about three blocks off major road and uh couple of blocks off another road that kind of runs - I guess you would say the neighborhood road it runs between the high school and the the commercial districts and uh Im over the northeast part of Dallas Its in nice neighborhood The houses here uh before the recession were running two hundred thousand or so and course everythings down ten to twenty percent now",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah see thats the same thing here",
+                "label": "b"
+            },
+            {
+                "text": "But we have uh - one one thing that effects us is we have apartments that are probably about half mile away and now the economy is bad they have trouble keeping those full so theyve dropped the uh - theyre not nearly as selective as they used to be",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And course thats kind of like cancer in an apartment complex You start letting that happen and they go down and then before you know it you have drugs and lot of other things so uh Im sure that aggravates it also",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But unemployment now in Dallas or in Texas is up around six point -",
+                "label": "sd"
+            }
+        ]
+    }
+]

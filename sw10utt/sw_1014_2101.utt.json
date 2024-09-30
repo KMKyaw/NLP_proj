@@ -1,0 +1,407 @@
+[
+    {
+        "conversation_id": "conv_2101",
+        "turns": [
+            {
+                "text": "Well do you have any uh television programs that you watch regularly",
+                "label": "qy"
+            },
+            {
+                "text": "Oh this is kind of tough I dont too often watch you know shows that are on on regular bases",
+                "label": "^h"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I dont have lot of time and I dont really like some of them to tell you the truth I mean I dont thing they have any redeeming value",
+                "label": "sd"
+            },
+            {
+                "text": "No",
+                "label": "b"
+            },
+            {
+                "text": "But uh oh I watch things like uh SIXTY MINUTES",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "every week Uh ugh its kind of tough to think of some of the others Although I do watch some of some of those frivolous things Uh like on Thursday nights at nine oclock when I get home from aerobics I will watch uh KNOTS LANDING",
+                "label": "+"
+            },
+            {
+                "text": "Oh you will",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah just something like that for you know uh end of the evening type of thing -",
+                "label": "ny"
+            },
+            {
+                "text": "Relax",
+                "label": "bf"
+            },
+            {
+                "text": "but uh How about you",
+                "label": "qo"
+            },
+            {
+                "text": "Well I watch um - I like news programs like you mentioned and sometimes I will watch um like the cable news network evening news program",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I dont get that so I dont have that choice",
+                "label": "b"
+            },
+            {
+                "text": "Yeah I I like that I I watch that couple of times week um it comes on like at nine oclock",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "at night and I really dont have any like situation comedies that I watch regularly I I have seen that um MURPHY BROWN that comes on",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Monday nights before and its kind of cute",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and but I dont -",
+                "label": "%"
+            },
+            {
+                "text": "But theres couple of those Ive seen once in while",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "uh I cant think of the name of the one that has the uh military uh fellow",
+                "label": "sd"
+            },
+            {
+                "text": "Oh but -",
+                "label": "b"
+            },
+            {
+                "text": "I mean hes playing military part Hes the husband of",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "the girl on DESIGNING WOMEN",
+                "label": "+"
+            },
+            {
+                "text": "Right I know who youre talking about I havent I have seen it I think maybe once",
+                "label": "b"
+            },
+            {
+                "text": "Yeah you know it wa- it was on one time when I saw it and you know it its pretty cute",
+                "label": "b"
+            },
+            {
+                "text": "I like that Well I um I - we really dont watch too many programs regularly My children like some of the morning childrens shows",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "when theyre home They um - I just have one son whos in kindergarten so in the morning they will like to watch like um EUREKAS CASTLE its called Its just like SESAME STREET",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "show but and they watch couple of shows like that but I dont watch any daytime at all",
+                "label": "+"
+            },
+            {
+                "text": "Yeah no I dont -",
+                "label": "b"
+            },
+            {
+                "text": "And uh -",
+                "label": "%"
+            },
+            {
+                "text": "I guess uh theres some uh things on Channel Thirteen that I watch pretty regularly",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "On Saturdays they have uh variety of things uh and lot of times I record it and watch it some other time But uh",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "they have programs on uh house repairs and",
+                "label": "+"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "how to build things and um they have calligraphy show and I do calligraphy so I watch that",
+                "label": "+"
+            },
+            {
+                "text": "Oh thats nice",
+                "label": "ba"
+            },
+            {
+                "text": "And um they have lot of cooking shows",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And oh you know Ill just short of have it on sometimes to just sort of pick up little tidbits from those I dont sit and watch them but but I enjoy some of it and especially if Im uh cooking on Saturday evening or something and one of those is on it kind of inspires me",
+                "label": "sd"
+            },
+            {
+                "text": "That sounds like good idea I notice that um since we moved here that we we did get the cable and when the newspaper comes out on Sunday I sometimes read through the movies that will be listed",
+                "label": "ba"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and I record some And then uh we have just totally cut down and we never go to like video tape rental anymore because theres always plenty of things that we can record and then",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and watch and then record over it something else And so thats been really nice because if you decide one evening you would like to stay home and have quiet evening and watch movie then you have two or three saved",
+                "label": "+"
+            },
+            {
+                "text": "Yeah we do some of that In fact I probably am more interested in watching some of the movies that are on",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "than you know other kinds of things",
+                "label": "+"
+            },
+            {
+                "text": "Well thats probably what I watch most frequently besides like news programs is the movies and they have couple of channels that are like nostalgic older movies",
+                "label": "sd"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "that I have really enjoyed that Im seeing for the first time",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Like the MARX BROTHERS and things like that",
+                "label": "+"
+            },
+            {
+                "text": "Yeah those are pretty good I I like those old ones",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "much better than some of the new stuff",
+                "label": "+"
+            },
+            {
+                "text": "Right And so we we have really enjoyed that and its really nice not to be running out Some of the video rentals can be expensive and -",
+                "label": "b"
+            },
+            {
+                "text": "Yeah And boy the movie can be unbelievable",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh right Going and paying six dollars for ticket for one person at the theater or something So we - I have - and its so convenient at home and you can do it anytime - you take the notion",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And so I have really enjoyed that but but there are - I do have friends that watch programs like they want to see particular program and they are either home watching it or definitely recording it They have some programs that they wont miss",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Im not that hung up to most things I mean if I miss something big deal",
+                "label": "b"
+            },
+            {
+                "text": "Yes Well and things are repeated",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Thats true",
+                "label": "b"
+            },
+            {
+                "text": "so often that you know if if I have seen just program once chances are itll be that exact same show",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "if I ever decide to tune it in again",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "the only one Ive ever seen and itll be showing again Pretty funny",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But uh is something that we try an- to not um deliberately try not to get hung up on it",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "like you say",
+                "label": "+"
+            },
+            {
+                "text": "We do too Too many other things to do and too much going on",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh And we dont want our kids to to grow up thinking that thats what you do with your",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "spare time",
+                "label": "+"
+            },
+            {
+                "text": "Right I agree",
+                "label": "aa"
+            },
+            {
+                "text": "So its little bit something that we try doing and theres theres lot of good childrens programs that you could watch they could watch several hours every day",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And you could say oh thats good program for them because its educational but still you want them to go out and do other things Even if theyre",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "good programs you dont want them sitting there watching them",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Anyway Well -",
+                "label": "o"
+            },
+            {
+                "text": "Okay Well we probably exhausted that huh",
+                "label": "b"
+            },
+            {
+                "text": "Yeah That was pretty good I I like that and um I guess its time to go",
+                "label": "ny"
+            },
+            {
+                "text": "Okay I enjoyed talking to you",
+                "label": "aa"
+            },
+            {
+                "text": "Yes Nice to have spoken with you too",
+                "label": "fc"
+            },
+            {
+                "text": "Okay",
+                "label": "fc"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc"
+            },
+            {
+                "text": "Good-bye",
+                "label": "fc"
+            }
+        ]
+    }
+]

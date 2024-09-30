@@ -1,0 +1,271 @@
+[
+    {
+        "conversation_id": "conv_4802",
+        "turns": [
+            {
+                "text": "Okay Uh read any good books lately",
+                "label": "o"
+            },
+            {
+                "text": "Uh yes I Ive read uh several good books lately Uh lot of them related to uh business and financial matters since thats what I do for living",
+                "label": "ny"
+            },
+            {
+                "text": "Oh okay uh-huh",
+                "label": "bk"
+            },
+            {
+                "text": "How about yourself",
+                "label": "qo"
+            },
+            {
+                "text": "Uh well Im in graduate school and so I read lot of books but I dont know if I consider very many of them good Uh I havent read book for enjoyment since I guess around Christmas Uh I re- received uh uh several books for Christmas and at Christmas break I read uh SARUM by uh uh fellow named Rutherford",
+                "label": "^h"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "Uh its the history of uh - well its sort of the his- the historical fiction about uh the Salisbury area in in England",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And so I I really enjoyed that book lot Uh hes not quite as good as you know Michener or some of uh some of the other historical writers But he he did this job well so -",
+                "label": "sd"
+            },
+            {
+                "text": "Well that sounds good",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah Uh do you find th- do you find you have much chance to read for for just pleasure or mostly for business",
+                "label": "b"
+            },
+            {
+                "text": "No I read for pleasure some also I read book recently called IRON JOHN",
+                "label": "nn"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Have you seen that by Bly",
+                "label": "qy"
+            },
+            {
+                "text": "I dont think I have seen it",
+                "label": "ng"
+            },
+            {
+                "text": "Okay Well its book about uh uh Greek gods and and Greek uh mythology --",
+                "label": "bk"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- as well as uh man and interacting with other men and book about uh men and how they mature through life",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh Oh",
+                "label": "b"
+            },
+            {
+                "text": "And how they deal with life itself",
+                "label": "sd"
+            },
+            {
+                "text": "Okay I think I have heard about that Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But its uh its all revolved around uh mythology",
+                "label": "sd@"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh as far as uh traditions from uh other cultures and our culture",
+                "label": "+@"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And how we uh interact with one another",
+                "label": "+@"
+            },
+            {
+                "text": "uh-huh Yeah that sounds great Did did it have something to mention about uh sort of uh cultural rituals of of manhood",
+                "label": "b"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "Okay Yeah I have heard of that I have uh someone suggested that I read it Is it IRON JOHN",
+                "label": "b"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "Okay Good",
+                "label": "bk"
+            },
+            {
+                "text": "By Bly I believe it is uh-huh",
+                "label": "sd"
+            },
+            {
+                "text": "Okay Great",
+                "label": "bk"
+            },
+            {
+                "text": "And uh its very interesting book",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Uh what are your favorite uh - do you have favorite subject to read whether it be science fiction or or history or -",
+                "label": "b"
+            },
+            {
+                "text": "Well it depends again if were talking about uh - I read lot of religious books",
+                "label": "^h"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh just because I have an interest in that area",
+                "label": "+@"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I read lot of books in the area of uh uh psychology and self-help type uh materials",
+                "label": "sd"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "Uh always trying to understand people --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- better and understand myself in relation to other people and try to understand where the people are coming from because Im in people business",
+                "label": "+"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "And uh so that thats - my work is my hobby",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh That --",
+                "label": "b"
+            },
+            {
+                "text": "So I I enjoy it",
+                "label": "sd"
+            },
+            {
+                "text": "-- sounds great Uh who is your whose your favorite religious author",
+                "label": "+"
+            },
+            {
+                "text": "Well I dont know if I have favorite --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh religious author I would have to say that uh some of the ones that consistently put out good materials uh you know that thats difficult because one person might write one book extremely well and some other ones might not write as well",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh I had to stop here and think second One of the ones that Ive read recently that Ive read several of his books and I thought that each one of his books were good Hes the man out of San Antonio And uh -",
+                "label": "^h"
+            },
+            {
+                "text": "Max Lucado",
+                "label": "qy"
+            },
+            {
+                "text": "Max Lucado",
+                "label": "sd^m"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Max consistently writes good books",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah Uh hes great man Ive met him several times Uh",
+                "label": "b"
+            },
+            {
+                "text": "Yes I know him yeah",
+                "label": "b"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "But --",
+                "label": "sv"
+            },
+            {
+                "text": "Uh",
+                "label": "b@"
+            },
+            {
+                "text": "-- uh theres other authors also that have uh uh that write good books from time to time but not consistently put out the materials all the time",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "+@"
+            },
+            {
+                "text": "Uh Id say another which is local writer here in Plano uh is uh - Im trying to think of his name Hes with the Bible church And that is uh - I see his name but I cant - I mean I see him but I cant see his name But he uh he talks about uh he talks about lot of different topics and -",
+                "label": "sv"
+            }
+        ]
+    }
+]

@@ -1,0 +1,427 @@
+[
+    {
+        "conversation_id": "conv_2609",
+        "turns": [
+            {
+                "text": "Well do you think uh - I mean I wonder - the assumption is that it is problem uh and Ive never actually had too many people explain to me why its problem though I have the same instinctual feeling that its problem and uh but its not clear to me that it is",
+                "label": "%"
+            },
+            {
+                "text": "Uh bo- -",
+                "label": "%"
+            },
+            {
+                "text": "Um its problem if those voting dont represent the population demographically or in terms of their opinions But if those who dont vote if you made them vote - and it those who dont vote would have voted exactly the same way you know in other words if forty percent had voted for that person and sixty percent for the other just like everyone who did vote its not clear to me that it is really problem um",
+                "label": "sv"
+            },
+            {
+                "text": "Um thats thats interesting because I had thought - I ha- feel that its problem also but I see your point on that",
+                "label": "ba"
+            },
+            {
+                "text": "I mean I I assume that those who dont vote - I mean if you look at the break down of those who dont vote they tend to be you know - poor blacks for example vote very little and things like that and I assume that they would vote differently if they were voting than your average voter But I dont know if thats the case",
+                "label": "%"
+            },
+            {
+                "text": "Uh",
+                "label": "b"
+            },
+            {
+                "text": "In fact Ive heard of studies that suggest that that isnt",
+                "label": "sd"
+            },
+            {
+                "text": "Apparently they dont think its problem",
+                "label": "sv"
+            },
+            {
+                "text": "Uh I guess not Im I I vote religiously I really do Um I guess I guess Im fan of democracy and uh wish I could vote on more things frankly",
+                "label": "am"
+            },
+            {
+                "text": "Thats right um",
+                "label": "aa"
+            },
+            {
+                "text": "But its funny because here in California things are getting uh increasingly democratically oriented in in the sense of people being able to vote for things I mean we have these initiatives state initiatives now",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "The first really popular you know wide spread one was uh Proposition Thirteen which was uh tax revolt",
+                "label": "sd"
+            },
+            {
+                "text": "Right I - -",
+                "label": "bk"
+            },
+            {
+                "text": "against property taxes Uh and you know now were - and that was whatever ten years ago and now were up to Proposition Hundred and fifty or something like that I mean weve just - there were apparently voters who just threw up their hands after the last voters pamphlet because they were asked being asked to make decisions on topics that would have three different competing proposals and you had to vote for you know yes or no on each of them and no one could make heads or tails out of some of them and it was incredibly complicated and difficult And lot of people revolted against that they said we dont want to have to decide all these things you know thats thats thats why we hire people who uh you know to to make these decisions for us",
+                "label": "+"
+            },
+            {
+                "text": "I I kind of feel the opposite though",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I wish we were given an opportunity to vote on more things",
+                "label": "sd"
+            },
+            {
+                "text": "I do - -",
+                "label": "aa"
+            },
+            {
+                "text": "I think our elected officials say they are speaking for us but theyre not speaking for me",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh uh-huh Yeah I wouldnt mind having oh more votes than I get to have frankly",
+                "label": "aa"
+            },
+            {
+                "text": "Thats true",
+                "label": "aa"
+            },
+            {
+                "text": "Anyone who doesnt vote its fine with me as long as I can have their vote",
+                "label": "sd"
+            },
+            {
+                "text": "slash error",
+                "label": "x@"
+            },
+            {
+                "text": "That would make me happy though Maybe not in in deep philosophical sense but in selfish sense it probably would I dont know its interesting uh some countries voting is obligatory",
+                "label": "sd"
+            },
+            {
+                "text": "Well slash error",
+                "label": "+@"
+            },
+            {
+                "text": "Uh it is in Australia for example",
+                "label": "sd"
+            },
+            {
+                "text": "Is that true",
+                "label": "br"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "aa"
+            },
+            {
+                "text": "I didnt know that I was think- - that is one solution to it",
+                "label": "sd"
+            },
+            {
+                "text": "I dont know how I feel about that",
+                "label": "sd"
+            },
+            {
+                "text": "But I dont - thats not really democratic Not what Id consider truly democratic",
+                "label": "%"
+            },
+            {
+                "text": "Well Australia considers itself every bit as much democracy as the United States",
+                "label": "sd"
+            },
+            {
+                "text": "As - uh-huh",
+                "label": "%"
+            },
+            {
+                "text": "And its not for me to say that theyre not",
+                "label": "h"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Um they they feel - I mean here you have the right to vote and they simply define it as duty there You know we have just as we have - duty to pay taxes you know is that democratic I mean we dont have the right to pay taxes in this country we have the duty to pay taxes",
+                "label": "%"
+            },
+            {
+                "text": "Its duty right",
+                "label": "aa"
+            },
+            {
+                "text": "And in that country its duty to pay taxes and its duty to vote on how those taxes are spent And its not clear to me that thats so much less democratic Um",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I dont know but part of me rebels against that",
+                "label": "+"
+            },
+            {
+                "text": "I its thats",
+                "label": "qy^g"
+            },
+            {
+                "text": "but then Im an American",
+                "label": "sd"
+            },
+            {
+                "text": "its complex question when you start thinking about it isnt it",
+                "label": "+"
+            },
+            {
+                "text": "Yeah And some people dont vote I mean there is - like three or four percent of Australians dont vote and I think theyre el- eligible for fine I dont know if they actually are fined or or what happens but youre eligible for some sort of fine if you dont vote",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh Thats interesting I have people here that I know that have never registered to vote",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I think I think they feel they can criticize if they dont",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah I was sort of - -",
+                "label": "b"
+            },
+            {
+                "text": "I told them if they dont vote they dont have the right to criticize",
+                "label": "sd"
+            },
+            {
+                "text": "Well I - thats how I feel I mean if yo- if you vote and your guy looses well you leas- you least tried and you can say something but if you dont vote I sort of feel like part of me and its kind of nasty part of me feels like well if you didnt vote you get whats coming to you you know",
+                "label": "%"
+            },
+            {
+                "text": "Thats right I feel th- -",
+                "label": "aa"
+            },
+            {
+                "text": "And certainly thats true in the overall I mean no one individual thats true for but for the population as whole I sort of feel that way When they especially when someone they they dont vote for someone because they dont like any of them and then the person gets in and they dont like him and he turns out to have been worse than her that they might have voted for or something like that listen two utts And you know I say well you know voting for the lesser of two evils is still important",
+                "label": "sv"
+            },
+            {
+                "text": "I think it is too Sometimes it is difficult choice You dont feel as though you have much of choice but -",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah yeah I mean you I mean its its funny because technically you do I mean you have the right to do write in candidate But of course thats thats not really vote Um",
+                "label": "b"
+            },
+            {
+                "text": "It doesnt really gain anything",
+                "label": "sv"
+            },
+            {
+                "text": "Yes it rea- really doesnt and so its its complicated situation but I would like to see - I dont know I I Im Im thinking of actually moving to Australia and",
+                "label": "aa"
+            },
+            {
+                "text": "Is that goin- -",
+                "label": "%"
+            },
+            {
+                "text": "and perha- perhaps Ill call you back and let you know what how the Australian system works I mean not because of the vo- I mean Im not thinking of moving there because of the voting",
+                "label": "+"
+            },
+            {
+                "text": "Not be- -",
+                "label": "%"
+            },
+            {
+                "text": "but just because of job opportunity",
+                "label": "+"
+            },
+            {
+                "text": "Oh I see",
+                "label": "bk"
+            },
+            {
+                "text": "And uh I -",
+                "label": "%"
+            },
+            {
+                "text": "Im inte- are you I employee Im interested",
+                "label": "qy"
+            },
+            {
+                "text": "No Im not",
+                "label": "nn"
+            },
+            {
+                "text": "Not okay I just wondered",
+                "label": "b^m"
+            },
+            {
+                "text": "And uh so Im Im really quite quite curious how that would work to have both I mean you know and I believe in the in certain uh - Soviet bloc countries you are are obliged to vote too In fact it was even pretty much spelled out who you did vote for up until fairly recently and thats what I think of when I think of youre obliged to vote But when you actually really are given as much choice as you are in this country with its two party system um I dont know I kind of - part of me is wary and part of me likes the idea of having it be more of duty um",
+                "label": "sd"
+            },
+            {
+                "text": "Well uh maybe they should - perhaps that would be solution if they were required to vote at least for their first three or four years after they become of voting age",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Required to register and vote for four years and perhaps they would be indoctrinated that this is their duty",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh uh-huh Well thats thought or certain privileges come from voting which arent that important but are nice to have I dont know The right to write your -",
+                "label": "b"
+            },
+            {
+                "text": "Maybe it should go with drivers license",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah thats see thats an example of right not not - actually - thats considered privilege not right",
+                "label": "aa"
+            },
+            {
+                "text": "That is privilege right tha- -",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah but technically people most people - technically its privilege but most people think of it as right I mean in other words if the government denies you driving denies you drivers license people get very upset But actually its privilege",
+                "label": "b"
+            },
+            {
+                "text": "It is",
+                "label": "aa"
+            },
+            {
+                "text": "which is allowed to be revoked",
+                "label": "+"
+            },
+            {
+                "text": "Thats correct",
+                "label": "aa"
+            },
+            {
+                "text": "And fortunately voting isnt that",
+                "label": "sv"
+            },
+            {
+                "text": "Maybe it should maybe it should be",
+                "label": "sv"
+            },
+            {
+                "text": "Except well except if youre felon if youre felon it is taken away from you",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I mean they will take away your right to vote under certain circumstances",
+                "label": "sd"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "Um so gosh so we dont have great solution yet do we",
+                "label": "^h"
+            },
+            {
+                "text": "Dont have great - I I think I checked that as question Id be willing to discuss too Oh",
+                "label": "b^m"
+            },
+            {
+                "text": "But I I also I also I dont know if youve uh read any of the um oh what do they call those The uh the early republican uh republic documents uh when they were arguing through constitutional law written by Hamilton and all those people",
+                "label": "qy^d"
+            },
+            {
+                "text": "No no I havent",
+                "label": "nn"
+            },
+            {
+                "text": "Um oh Hamilt- I think it was Hamilton who wrote number ten or something where he was arguing for republican not in the sense of the Republican party now",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "versus democratic uh government and arguing successfully why the United States should be republic not democracy Which indeed it really is republic not democracy Where he defines dep- democracy as everyone votes for the issues and republic is people who vote for someone who then in turn votes for the issues In other words you vote for representatives",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And the whole idea was um presumably those who get voted in would be wiser than the average person and and specialist and able to make more informed decisions and can protect against the tyranny of democracy",
+                "label": "sd"
+            },
+            {
+                "text": "slash error",
+                "label": "b@"
+            },
+            {
+                "text": "Because just as you can have tyranny of single um you know bad ruler or something you can have tyranny of the majority",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh slash error",
+                "label": "+@"
+            },
+            {
+                "text": "And uh he makes very uh passionate good argument for why you dont want some things decided by democratic process because anytime you have majority um they can change the law in democ- fully democratic process and there are cases when you dont want that to be the case Um oh you know candi- - if theres some minority that people dont like because of you know racial hatred or something like that the majority can just simply vote again- vote against them",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And cases like that he argues need to be constrained and and actually I agree except that I dont trust the people who are appointed to vote",
+                "label": "sd"
+            },
+            {
+                "text": "Sometimes I think we have that right now with Congress",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah well I I mean I feel that I feel that wa- -",
+                "label": "aa"
+            },
+            {
+                "text": "I think theyre looking after their own self preservation more than theyre actually looking after the good of the country",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah well their job is to be reelected by in large and so they work on that job And theres also an antigovernment mood in the country you know where government is misspending your dollars and and theyre all fools and you know throw throw the bastards out that kind of thing",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And theres notion that somehow if someone isnt as much as government person theyre less corrupt and theyre more likely to be good which is really strange because I mean if Im hiring plumber I want real plumber I want someone trained in -",
+                "label": "sv"
+            }
+        ]
+    }
+]

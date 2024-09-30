@@ -1,0 +1,731 @@
+[
+    {
+        "conversation_id": "conv_2968",
+        "turns": [
+            {
+                "text": "Okay what do you read",
+                "label": "o"
+            },
+            {
+                "text": "Uh well I read everything uh I guess uh wh- -",
+                "label": "sd"
+            },
+            {
+                "text": "What is your favorite",
+                "label": "qw"
+            },
+            {
+                "text": "Uh well I like all kinds uh in fact I was just reading uh magazine now An automobile magazine Uh I like historical uh books TIME magazine newspaper how how to do it type things uh uh",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I am not much into magazines I do read them I like GOOD HOUSEKEEPING and stuff like that I will get --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- ideas out for my own house and yard and stuff Main thing I like Pierce Anthony I love Pierce Anthony novels",
+                "label": "+"
+            },
+            {
+                "text": "Oh the novels yeah No I am not into soap soaps and all that stuff I am uh not into novels at all really oth- other than historical things Uh uh I am kind of chore person I like to do - I am again I am fix it person I I would read all those kinds of things",
+                "label": "sd"
+            },
+            {
+                "text": "Figures What like those uh magazines you get through the mail",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah I will buy car magazines course I am an engineer and I read the engineering magazines",
+                "label": "ny"
+            },
+            {
+                "text": "I -",
+                "label": "%"
+            },
+            {
+                "text": "and the money magazines And uh well I am reading historical uh not novel but historical book now about the uh Russia before uh the czar not before the czar during the czars time and what it was like and everything",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh What about like those TIME books that they put out about uh uh oh ancient discoveries You know th- - how they found out like that uh ancient man per- performed uh brain surgery successfully And stuff like --",
+                "label": "b"
+            },
+            {
+                "text": "Oh you --",
+                "label": "qy"
+            },
+            {
+                "text": "-- that",
+                "label": "+"
+            },
+            {
+                "text": "-- mean the ancient astronauts things",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "I have read some of that I I did not - some of that is uh it is very interesting without question",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I I do not really know that they have the answers in those books Th- they make conclusions in them that may or --",
+                "label": "h"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "-- may not be true",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "But they are very interesting",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Th- that they have what they have discovered",
+                "label": "+"
+            },
+            {
+                "text": "Oh I like far out facts or whatever",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I like to read stuff like that But I am superficial buff I cannot take day I just -",
+                "label": "sd"
+            },
+            {
+                "text": "You are what kind of buff",
+                "label": "qw^d"
+            },
+            {
+                "text": "Superficial",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay",
+                "label": "bk"
+            },
+            {
+                "text": "I like I like it if it is fun I do not get too into it",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah Right",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Well I am kind of hobbyist so I I read all those things that uh - and being an engineer all those books that would bore everybody else you know how to do things",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Yeah Well -",
+                "label": "b"
+            },
+            {
+                "text": "I am one of those crazy people that reads the directions It always make my wife mad I -",
+                "label": "sd"
+            },
+            {
+                "text": "Because you read it",
+                "label": "^2"
+            },
+            {
+                "text": "when she ever there is something I say well have you read the directions No I hate reading the directions I say well engineers we we are the few people in the world --",
+                "label": "sd"
+            },
+            {
+                "text": "You are an --",
+                "label": "qy"
+            },
+            {
+                "text": "-- that read --",
+                "label": "+"
+            },
+            {
+                "text": "-- engineer",
+                "label": "+"
+            },
+            {
+                "text": "-- the directions Yeah shouldnt there be slash unit after directions",
+                "label": "+@"
+            },
+            {
+                "text": "Are you an engineer for I",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Okay uh I worked at I for little while",
+                "label": "bk"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh we have got book that says uh HOW DO THEY DO THAT",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And it answers everything",
+                "label": "sv"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah And I - well not everything but lot of silly little questions",
+                "label": "ny"
+            },
+            {
+                "text": "Oh yeah That -",
+                "label": "b"
+            },
+            {
+                "text": "Like what makes firefly light",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "you know",
+                "label": "+@"
+            },
+            {
+                "text": "yeah Those are oh interesting Oh you like science things Uh I have not gotten them in long time What is that uh one that is on That book uh NATIONAL GEOGRAPHIC is really fascinating book uh",
+                "label": "b"
+            },
+            {
+                "text": "Now -",
+                "label": "%"
+            },
+            {
+                "text": "uh if you ever get those or -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah uh-huh Well that do not -",
+                "label": "b"
+            },
+            {
+                "text": "But I have not gotten them in years uh th- they were kind of expensive I know people just collect them like they are",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "uh They have wonderful pi- photographs and just amazing photographs that --",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- they have done",
+                "label": "+"
+            },
+            {
+                "text": "We used - my little sister was blind and going to school and she would have to come home at night cut out different - she was not fully blind just legally blind",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But she would have to cut out different colors and that is the best book to go through those NATIONAL --",
+                "label": "sd"
+            },
+            {
+                "text": "It is",
+                "label": "ba"
+            },
+            {
+                "text": "-- GEOGRAPHIC",
+                "label": "+"
+            },
+            {
+                "text": "It is They they they uh - the photographers just got --",
+                "label": "ba^r"
+            },
+            {
+                "text": "And they are great",
+                "label": "ba"
+            },
+            {
+                "text": "-- fantastic pictures in those things Uh",
+                "label": "+"
+            },
+            {
+                "text": "Oh now I do like NATIONAL GEOGRAPHIC and stuff Because I like I said I like reading about I dont know animals I love reading about animals",
+                "label": "sd@"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "The gorillas and stuff",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And the sloth it fascinates me Thats something moves that slow",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "And it is just weird",
+                "label": "sv"
+            },
+            {
+                "text": "You know I have not uh - of course was it all books and things or was it any - did it say anything about newspapers I have forgotten what the question was exactly But uh",
+                "label": "%"
+            },
+            {
+                "text": "Oh well -",
+                "label": "%"
+            },
+            {
+                "text": "what do you read I guess in general Or -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Well we can talk about anything we want",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Uh I I glance at all newspapers I do like uh - since the re- since the economy is doing so bad I never have read the uh uh financial pages more often than now you know And trying to analyze and look for some good news in in there you know Uh",
+                "label": "b"
+            },
+            {
+                "text": "Well for me --",
+                "label": "sv"
+            },
+            {
+                "text": "to see if the -",
+                "label": "+"
+            },
+            {
+                "text": "-- there is no imme- - well wh- you know - the financial pages does not hit me directly Which I am sure it does if I get into it But like I said I do not keep up on all that",
+                "label": "+"
+            },
+            {
+                "text": "Well I have only been more interested because of things are doing so bad and everything I thought --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah The -",
+                "label": "b"
+            },
+            {
+                "text": "-- well uh see if there is anything in there that uh uh would be - positive you know You always look for things with",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "with this terrible recession that we are in uh",
+                "label": "+"
+            },
+            {
+                "text": "With everything --",
+                "label": "qy^d"
+            },
+            {
+                "text": "to see if there is any go- -",
+                "label": "+"
+            },
+            {
+                "text": "-- going down",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah yeah It is uh - hopefully uh we will recover here uh",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah I know I heard Bush say that you know we are either bottoming out or seem to be",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But that is Bush saying that",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah Right and he he - yeah I know - I do not really know if uh any one person knows uh uh what some of the problems are Uh but there there are some there are some interesting things in the paper really",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Well I like Ann Landers",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "No I like getting the paper and reading the want ads and just - I do skim over it",
+                "label": "%"
+            },
+            {
+                "text": "It -",
+                "label": "%"
+            },
+            {
+                "text": "But mainly I am front page person I do not go into the details",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah No I glance at it I I - wi- with the so much uh - you sound like you have family too But with family and everything there is just so much going on that I uh actually I am more of - - not more of radio buff but uh it is easier to do when I do some chores or yard work or anything put the radio on and listen to that And -",
+                "label": "b"
+            },
+            {
+                "text": "Well I know at I they have most of the stuff on the printout dont they I mean on the computer where you can read the daily --",
+                "label": "qy^g"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- news",
+                "label": "+"
+            },
+            {
+                "text": "yeah I do - every time I come in uh I will punch up but they call it News and all that",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I I do get uh - it gets little bit of everything Even the the last page is uh is sport uh listings and and different things Uh and world news",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "you know about",
+                "label": "+"
+            },
+            {
+                "text": "Yeah When I wor- -",
+                "label": "b"
+            },
+            {
+                "text": "you can read it in one minute you know",
+                "label": "+"
+            },
+            {
+                "text": "Huh When I worked at I I read that more than I read the regular newspaper",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Because I would read that every day because you would find ten minutes here that you do not have anything to do I know you do being an engineer",
+                "label": "+@"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "There are some times when you have got ten or fifteen or even an hour off",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Not much not in the area I worked in We had an engineer in there every ten minutes",
+                "label": "o"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "Oh yeah It is it is it is uh interesting uh with the computer to read the computer news and all that I I guess that is tha- that is source of reading I hadnt thought about that in that respect uh",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Well it just encouraged me to read it",
+                "label": "b"
+            },
+            {
+                "text": "Oh yeah yeah It it does have good uh simple uh you know - again you can read it in uh in lot less than ten minutes It is usually -",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "you can you can page through it in -",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I do not read everything on - some of the stuff is pretty boring I I skip over some of that But uh",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "uh it is -",
+                "label": "+"
+            },
+            {
+                "text": "Well see that is me with the newspaper",
+                "label": "sd@"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Especially financial page",
+                "label": "+@"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "I do not -",
+                "label": "%"
+            },
+            {
+                "text": "Well -",
+                "label": "%"
+            },
+            {
+                "text": "uh I read it so less and I watch so little I did not even know what the deal was with this uh oh - I cannot remember his name now Him and his wife are getting divorced and he is tycoon or something",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah Uh",
+                "label": "b"
+            },
+            {
+                "text": "What is his name",
+                "label": "qw"
+            },
+            {
+                "text": "uh Trump Donald Trump Yeah",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Trump I did not even know I still do not know what the whole deal was with that",
+                "label": "aa"
+            },
+            {
+                "text": "Well I guess because he was so rich you know - When you are that rich uh you always get into the paper whatever if you have family problem whatever",
+                "label": "sv"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Well he had young girlfriend He was he is well into his forties and I guess he got young girlfriend who uh - and and then every every time you take - you you are that rich you just get uh in that uh in the news immed- immediately you know",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Immediately",
+                "label": "b"
+            },
+            {
+                "text": "Uh which is tough",
+                "label": "+@"
+            },
+            {
+                "text": "So that is all it was He was just having an affair on his wife",
+                "label": "qy"
+            },
+            {
+                "text": "Well that and uh his business is going down the tubes so bad you know",
+                "label": "na"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "He was uh uh essentially like you said tycoon Uh Donald Trump and had it all He was high roller for about ten years and then he is now uh essentially bankrupt you know",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "And so uh - -",
+                "label": "%"
+            },
+            {
+                "text": "That has got to be hard to go from really rich --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- to poor",
+                "label": "+@"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Which I am sure he aint poor",
+                "label": "+@"
+            },
+            {
+                "text": "No right uh who knows uh what he has really got But uh he was kind of an arro- arrogant guy so I think the newsmen uh enjoyed uh writing about him on his way down you know",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And his wife was very uh uh seemed to be very smart And actually running some of his business It was uh she was actually somewhat of business partner of his uh did very well",
+                "label": "sd@"
+            },
+            {
+                "text": "Huh",
+                "label": "%"
+            },
+            {
+                "text": "Ivana Trump uh Oh yeah they have been on all the news and everything In the in the papers and uh uh on Barbara Walters and everything else",
+                "label": "sd"
+            },
+            {
+                "text": "Well see that is like I said I like I do not watch much any more either",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "But I have got three kids",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah I can imagine",
+                "label": "b"
+            },
+            {
+                "text": "So it is hard to watch",
+                "label": "sd@"
+            },
+            {
+                "text": "Right yeah",
+                "label": "b"
+            },
+            {
+                "text": "Except for Donald Duck",
+                "label": "+@"
+            },
+            {
+                "text": "Uh uh I know what you mean really",
+                "label": "sd"
+            },
+            {
+                "text": "Well anyway I have enjoyed talking to you",
+                "label": "fc"
+            },
+            {
+                "text": "Okay Yeah well uh hang in there And good luck with those kids",
+                "label": "fc"
+            },
+            {
+                "text": "Yeah And have good holiday",
+                "label": "fc"
+            },
+            {
+                "text": "Right Bye-bye",
+                "label": "fc"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc"
+            }
+        ]
+    }
+]

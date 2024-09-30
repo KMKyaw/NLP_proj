@@ -1,0 +1,435 @@
+[
+    {
+        "conversation_id": "conv_3142",
+        "turns": [
+            {
+                "text": "Okay well I guess I enjoy eating out um uh here and there or its its good change and good change from cooking and eating at home and I guess I like variety of variety of restaurants",
+                "label": "o"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh sometimes its fun to go out and just have hamburger and french fries and and sort of hamburger and french fry meal and sometimes its I enjoy its I enjoy going out having formal meal",
+                "label": "sd"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "And uh sometimes its nice to go out and have salad",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Something you know -",
+                "label": "%"
+            },
+            {
+                "text": "Do you usually go out uh with the children or without them",
+                "label": "qr"
+            },
+            {
+                "text": "Well variety I I like to go sometimes without them and sometimes I sometimes its okay to take them along So -",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Sometimes I think we pay the baby-sitter as much as paying for their dinner --",
+                "label": "sd"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "-- or lunches so uh it just you know it just varies we do mix Sometimes its really nice to be able to go out and eat with just my husband and it wouldnt even really matter which restaurant it was just to you know have moment of peace and quiet without --",
+                "label": "+"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "-- little ones at the table",
+                "label": "+"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "So uh I guess --",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Well -",
+                "label": "%"
+            },
+            {
+                "text": "-- I guess actually on those those times uh we even there are times I even say oh please dont sit us next to table with other children this is our night out So but uh anyway where do you like to eat",
+                "label": "+"
+            },
+            {
+                "text": "Uh well uh we dont have any children so uh we tend to like to try all sorts of different things And uh were very attracted to exotic food",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh we like Indian food and Thai cuisine and uh sort of gourmet Mexican and uh things like that as well as Tex-Mex and Italian and uh Chinese and things and and things of that sort Now yes of course we like to occasionally go out and get down and dirty with barbecue or hamburgers --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- or something like that too And uh we probably go out one to two times week",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And uh uh were pretty much regulars at an Italian local Italian restaurant",
+                "label": "sd"
+            },
+            {
+                "text": "Oh which one do you like",
+                "label": "qw"
+            },
+            {
+                "text": "Momos",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay Well its been long time since weve been in there but uh but its good Theres an Italian restaurant over over by the mall over by uh Plano Parkway there pas- -- -",
+                "label": "bk"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- Oh is it Camparis or something",
+                "label": "qh"
+            },
+            {
+                "text": "Ive heard about it I havent been in there",
+                "label": "sd"
+            },
+            {
+                "text": "Well its good I havent my husband had been in there several times and we went in there actually we went in there for lunch one day",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh their pastas were great",
+                "label": "sd"
+            },
+            {
+                "text": "Tha- thats one of the things good pasta means lot to me I I like different kinds of food So when we go out Im always looking for something other than the standard menu even if its Mexican Restaurant like something other than uh you know the standard tacos enchiladas tamales and --",
+                "label": "sd"
+            },
+            {
+                "text": "Youre brave",
+                "label": "sv"
+            },
+            {
+                "text": "-- fajitas now Yes yes and once in while things backfire I mean weve gone for Romanian food and Lebanese food and things like that --",
+                "label": "+"
+            },
+            {
+                "text": "Oh God",
+                "label": "ba"
+            },
+            {
+                "text": "-- And Im not fond of some of those things but well try well try anything",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Ethiopian weve had Ethiopian And uh not in Plano of course",
+                "label": "sd"
+            },
+            {
+                "text": "No I dont think so",
+                "label": "aa"
+            },
+            {
+                "text": "But we really we really do enjoy going out and uh and um Im pretty adventurous in cooking too which also occasionally backfires",
+                "label": "sd"
+            },
+            {
+                "text": "Oh well Even though traditional it can backfire",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah I think were supposed to say what will bring us back to restaurant or or what attracts us to restaurant How do you usually find new restaurant",
+                "label": "aa"
+            },
+            {
+                "text": "Uh well my husbands kind of the eth- he hes the ethnic fan So hes - I dont know You know what we read we read the uh MAGAZINE --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh So do we",
+                "label": "b"
+            },
+            {
+                "text": "-- we we check that and uh the Friday section in the newspaper --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- the pull out section there They often do ratings of restaurants so -- -",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- uh weve uh weve usually we often save those and ventured out on from there uh just for something that had high rating",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh We have found uh number of restaurants either through and the Friday paper and sometimes the the OBSERVER Which my husband usually picks up",
+                "label": "b"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "And also through coupons When new restaurant opens up they usually send out coupons",
+                "label": "+"
+            },
+            {
+                "text": "Thats",
+                "label": "aa"
+            },
+            {
+                "text": "And you know when they say you know buy one get one free",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Thats right",
+                "label": "+"
+            },
+            {
+                "text": "Its hard to resist so well go in And very often well find place that we like and well stick with it once they give they no longer give coupons Well well uh well stay there",
+                "label": "+"
+            },
+            {
+                "text": "Oh good Oh good",
+                "label": "ba"
+            },
+            {
+                "text": "But weve found probably half of our sort of regular restaurants through coupons and the other half through the through the newspaper reviews",
+                "label": "sd"
+            },
+            {
+                "text": "Oh Oh yeah We I guess we we use the coupons too Thats true Thats true",
+                "label": "aa"
+            },
+            {
+                "text": "I mean its wonderful particularly if you have more than two people and youve got say four or something like that Its very expensive to go out to eat",
+                "label": "sd"
+            },
+            {
+                "text": "Oh right Right",
+                "label": "aa"
+            },
+            {
+                "text": "So yeah that that is really one of our - its almost hobby with us",
+                "label": "b"
+            },
+            {
+                "text": "Well I think that its just thats ex- - sometimes I think going out to eat its its sort of recreation",
+                "label": "sv"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "So uh just just change of pace --",
+                "label": "sv"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "-- from uh eating at home So uh --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- anyway I guess uh as far as as far as service when we go out --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- gosh its nice its nice to have someone come and wait the table",
+                "label": "+"
+            },
+            {
+                "text": "Oh absolutely",
+                "label": "aa"
+            },
+            {
+                "text": "And clear the table and -",
+                "label": "+"
+            },
+            {
+                "text": "And do the dishes",
+                "label": "^2"
+            },
+            {
+                "text": "Yeah and do the dishes - And uh actually its kind of nice to you know - I always - uh waitress or waiter that waits the table its nice that theyre attentive but its not nice when theyre too attentive",
+                "label": "aa"
+            },
+            {
+                "text": "Oh yes",
+                "label": "aa"
+            },
+            {
+                "text": "So uh weve had experience with that too So -",
+                "label": "sd"
+            },
+            {
+                "text": "- - - my sister who also lives here in Dallas uh tends to uh chat with waiters and waitresses and become their best friends during the course of dinner which drives me absolutely batty",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah Well how we -- -",
+                "label": "aa"
+            },
+            {
+                "text": "but -",
+                "label": "%"
+            },
+            {
+                "text": "-- it may it may help their tip may not huh",
+                "label": "sv"
+            },
+            {
+                "text": "Whats your favorite restaurant",
+                "label": "qw"
+            },
+            {
+                "text": "Gosh I guess just in Plano I Plano I like to go to Souper Salads",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh Chilis Chilis is always fine",
+                "label": "sd"
+            },
+            {
+                "text": "Sure",
+                "label": "b"
+            },
+            {
+                "text": "I guess if we go to Dallas into Dallas we like uh the Routh is it Routh Street Cafe",
+                "label": "sd"
+            },
+            {
+                "text": "You know weve never been there",
+                "label": "sd"
+            },
+            {
+                "text": "Well --",
+                "label": "sv"
+            },
+            {
+                "text": "And thats supposed to be wonderful",
+                "label": "sd"
+            },
+            {
+                "text": "-- well you would like it",
+                "label": "+"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "Youd like it especially it youre adventuresome",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "It just weve weve taken people there several times and uh they have good they have good choice of things that are very different sounding I guess its whether you call it Southwestern but uh oh we had venison --",
+                "label": "sd"
+            },
+            {
+                "text": "Ooh",
+                "label": "ba"
+            },
+            {
+                "text": "-- venison chili one time Which was absolutely wonderful And then I guess it must be seasonal and weve been back oh I guess its in the winter season well theyve never had it --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- when weve been back so But uh well you ought to try that Its its its very good",
+                "label": "+"
+            },
+            {
+                "text": "I would probably like that One or two times in my life Ive ever had venison Ive loved it But you know just its just not - I dont know people who hunt so - uh --",
+                "label": "sd"
+            },
+            {
+                "text": "No",
+                "label": "o"
+            },
+            {
+                "text": "-- Thats thats supposed to be wonderful place - uh uh uh here in Plano well we tend to go to Momos - fairly often And uh sometimes well go you know we we also go to Chilis and uh Colters Bar and and uh we go to lil- there is little Thai place thats over on Park that we go to My husband particularly likes that We go into Dallas lot and because were both were from the Richardson North Dallas area up until fairly recently And uh well go down to uh Blue Mesa Grill Mexican food and -- -",
+                "label": "sd"
+            },
+            {
+                "text": "Oh thats good Yes Ive been there",
+                "label": "sv"
+            }
+        ]
+    }
+]

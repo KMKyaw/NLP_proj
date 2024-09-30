@@ -1,0 +1,219 @@
+[
+    {
+        "conversation_id": "conv_4646",
+        "turns": [
+            {
+                "text": "Do you know anyone that uh is is in nursing home or has ever been in one",
+                "label": "qr"
+            },
+            {
+                "text": "No But I my grandparents were looking into it before so I know what theyve said",
+                "label": "nn"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^m"
+            },
+            {
+                "text": "Well Im trying to think My uh uh wifes grandmother had Alzheimers and they were going to put her into nursing home and uh they when they put her in she had all kinds of trouble and the nursing home made them come and take her back because she was being you know nuisance Or worse than nuisance I mean --",
+                "label": "^h"
+            },
+            {
+                "text": "Oh they thought it was too much of bother",
+                "label": "bf"
+            },
+            {
+                "text": "-- she sort of went you know bananas and they couldnt couldnt deal with her So I guess you need to uh know whether its you know no deposit no return kind of thing whether -",
+                "label": "+"
+            },
+            {
+                "text": "Right If theyre equipped too to handle the kind of patients youre going to have --",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "-- you know put in there too Because I know my grandparents wanted to have some independence still",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "They wanted some place they can go and have their meals and nurse on staff just in case they needed her but they wanted to be independent as well",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Have their own room",
+                "label": "+"
+            },
+            {
+                "text": "My grandmother actually was in nursing home that uh - there was retirement hotel and then uh - there was some sort of full-time care place that was also associated with it so for uh the first few years she had her own apartment and you know made her own meals sometimes But could could also go and eat someplace else",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And then uh as she became less able to take care of herself then she moved into this other part that was able to uh provide full-time care and uh she didnt have to do anything anymore But my experience has been that most people that move into nursing homes die very quickly And thats som- - I dont know whether thats because they you know sort of give up hope once they get in there or what the the reason is But I think the average length of time that somebody lives in nursing home is only like six months or something",
+                "label": "sd"
+            },
+            {
+                "text": "Well lot of its probably to do with the fact that people go to it because they need help",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "They need health care so theyre already ill before they go",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Thats probably large factor",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah If if you can take care of yourself at all or have someone that can take care of you then you stay where you are Then you only go there as last resort",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Or people send you there as last resort",
+                "label": "sd"
+            },
+            {
+                "text": "Right right Thats what my grandparents - it was just so that the rest of the relatives would have peace of mind knowing that if anything happened there was somebody there for them",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So that was their thinking Somebody who would know what to do in the event of an emergency",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And also so they could find someplace that they enjoyed while they still had choices to make",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b^r"
+            },
+            {
+                "text": "So they wouldnt be stuck going into just whatever nursing home was available at the time I guess thats problem too for people Wait lists and all",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I guess",
+                "label": "b"
+            },
+            {
+                "text": "That uh - you cant always get in when you want too and of course you cant just sit around and wait",
+                "label": "%"
+            },
+            {
+                "text": "Right When you need it you need it --",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- I guess",
+                "label": "+"
+            },
+            {
+                "text": "And the money is also another issue How youre going to pay for it",
+                "label": "qh"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "At that stage of life you only have so much money left and I guess its not exactly fair for the younger family members to have to put it in their savings",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I mean it is kind of fair but its also not fair because they have their own children to raise",
+                "label": "sv"
+            },
+            {
+                "text": "Sure",
+                "label": "b"
+            },
+            {
+                "text": "So its another problem",
+                "label": "sv"
+            },
+            {
+                "text": "And you probably if it were you you probably wouldnt want someone choosing place for you to live based on lowest price",
+                "label": "sv"
+            },
+            {
+                "text": "Right right So it its just so complicated anymore I think People outlive their savings And with medicine being the way it is youre extending life where sometimes the quality of living has gone down and theyre not necessarily enjoying life anymore",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah Well maybe thats the purpose of the nursing home is to have them go someplace where they can see that its not worth continuing",
+                "label": "b"
+            },
+            {
+                "text": "Its just shame thats the way it has to be I think --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- the retirement home ideas nice idea To go and find older people and with similar interests and someplace to stay and cause like if your spouse died all alone itd be nice to go someplace with people similar to you",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "To have friends",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Ive known quite few people that have uh gone to retirement communities I dont know if they have them back there but here in California and in Ari- -",
+                "label": "aa"
+            }
+        ]
+    }
+]

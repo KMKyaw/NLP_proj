@@ -1,0 +1,415 @@
+[
+    {
+        "conversation_id": "conv_3565",
+        "turns": [
+            {
+                "text": "youve done -",
+                "label": "o"
+            },
+            {
+                "text": "Our most recent series of projects I guess was inside was uh we remodeled bathroom recently",
+                "label": "sd"
+            },
+            {
+                "text": "Well how did it go",
+                "label": "qo"
+            },
+            {
+                "text": "Well it went pretty well uh other than the fact that we encountered some uh problems that you run across in older homes with plumbing which one thing led to another and eventually we ended up replacing all the pipes from the sink clear back to the main drain",
+                "label": "sd"
+            },
+            {
+                "text": "Gee like starting over I guess",
+                "label": "ba"
+            },
+            {
+                "text": "Which meant you needed to take the wall out and start all over",
+                "label": "+"
+            },
+            {
+                "text": "Uh",
+                "label": "%"
+            },
+            {
+                "text": "It wasnt one of those - it started out as Sunday project --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and by by the next Sunday it was done It wasnt one dayer Believe me",
+                "label": "sd"
+            },
+            {
+                "text": "Boy that sounds like uh - course uh I dont know once you get it done then you probably wont have that problem again",
+                "label": "%"
+            },
+            {
+                "text": "Yeah its good for another thirty years",
+                "label": "b"
+            },
+            {
+                "text": "Um youve got an older house",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "They are built little bit more sturdy than -",
+                "label": "sv"
+            },
+            {
+                "text": "Well thats the thing that surprised me because once I got into the plumbing --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- everything in there was copper and it was all soldered",
+                "label": "+"
+            },
+            {
+                "text": "Oh is that right",
+                "label": "ba"
+            },
+            {
+                "text": "Thats what drove me bananas because you know Im going to the hardware store saying give me plastic pipe and --",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "-- and cement -- -- to fit them together and nothing wanted to go so it was like I had to go all the way back to the main drain and start all over",
+                "label": "+"
+            },
+            {
+                "text": "And just start at square one",
+                "label": "^2"
+            },
+            {
+                "text": "Really",
+                "label": "b"
+            },
+            {
+                "text": "Uh",
+                "label": "%"
+            },
+            {
+                "text": "That was an all day job just to get it plumbed",
+                "label": "sd"
+            },
+            {
+                "text": "Well and then if you do it wrong -",
+                "label": "sv"
+            },
+            {
+                "text": "Fortunately I was very fortunate uh in the fact that uh when I made the installation of the sink and everything bolted up and we turned the water on --",
+                "label": "sd"
+            },
+            {
+                "text": "Everything went all right",
+                "label": "^2"
+            },
+            {
+                "text": "-- nothing leaked everything worked And I just said thats marvelous I appreciate it",
+                "label": "+"
+            },
+            {
+                "text": "Thats the type of thing you cross your fingers and are glad when that happens",
+                "label": "sv"
+            },
+            {
+                "text": "Well I expected something to leak you know --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- left fitting loose or --",
+                "label": "+"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "-- didnt use teflon tape on one of them or something like that",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "But it all came together so I I felt pretty fortunate about that",
+                "label": "sd"
+            },
+            {
+                "text": "All worked out all right huh",
+                "label": "bf"
+            },
+            {
+                "text": "How about you",
+                "label": "qo"
+            },
+            {
+                "text": "Well um well probably the last thing I did was uh paint and wallpaper kids room --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh I learned to - I used the wrong kind of paint This wasnt must have not been very good quality because it just hasnt stood up very well",
+                "label": "sd"
+            },
+            {
+                "text": "What kind of paint",
+                "label": "qw"
+            },
+            {
+                "text": "It was latex paint paint it was flat --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and I wonder if maybe I should have used gloss Uh but they say you ought to use your gloss mainly in your -- -- kitchens and things like that",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah that and semigloss for trim work and usually flat for walls",
+                "label": "b"
+            },
+            {
+                "text": "Yeah but I think maybe uh - I dont know if it was just the -",
+                "label": "ny"
+            },
+            {
+                "text": "Was it not washable paint",
+                "label": "qy"
+            },
+            {
+                "text": "Well it it is latex paint but it just kind of is is - so you know so its supposed to wash youre supposed to be able to wash it --",
+                "label": "no"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but it um just looks dingy I dont know how else to explain it",
+                "label": "sd"
+            },
+            {
+                "text": "What color is it",
+                "label": "qw"
+            },
+            {
+                "text": "Its pink",
+                "label": "sd"
+            },
+            {
+                "text": "Pink okay",
+                "label": "b^m"
+            },
+            {
+                "text": "Its kind of got uh oh just kind of worn look to it I dont know even how to say - just didnt turn out quite as nice as I would have liked but -",
+                "label": "sd"
+            },
+            {
+                "text": "Did you uh require more than one can of paint",
+                "label": "qy"
+            },
+            {
+                "text": "I we put two coats on it and its small room but I think it only took one uh can",
+                "label": "sd"
+            },
+            {
+                "text": "You didnt have to mix paint then right",
+                "label": "qy^g"
+            },
+            {
+                "text": "No",
+                "label": "nn"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "We did uh oh - you do mix the color as far as you start with uh white and --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- then they add the color",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know what Im saying but -",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah But you only had one can of paint that you --",
+                "label": "ny"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "-- did the entire room with",
+                "label": "+"
+            },
+            {
+                "text": "Right And then I wall papered couple of walls and uh -",
+                "label": "b"
+            },
+            {
+                "text": "Howd that go",
+                "label": "qw"
+            },
+            {
+                "text": "Well that was the first time Ive ever wallpapered and uh -",
+                "label": "sd"
+            },
+            {
+                "text": "Kind of fun isnt it",
+                "label": "qy^g"
+            },
+            {
+                "text": "Thats an education in itself",
+                "label": "no"
+            },
+            {
+                "text": "Really",
+                "label": "b"
+            },
+            {
+                "text": "But uh the dye lots uh must have been little bit different from - first of all it takes quite few rolls even small room if youre trying to match design",
+                "label": "sd"
+            },
+            {
+                "text": "Repeating patterns is what you have to check for --",
+                "label": "sd"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "-- when you when you buy your paper",
+                "label": "+"
+            },
+            {
+                "text": "Thats what I needed and I didnt think about that I got Mickey Mouse print is what I got",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And so lot is wasted",
+                "label": "sd"
+            },
+            {
+                "text": "Normally it will tell you on the roll how often pattern repeats",
+                "label": "sd"
+            },
+            {
+                "text": "So you know how - See I didnt even think to look for that",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And then the - one of them was just different color different color pink is what it ended up being",
+                "label": "%"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "And -",
+                "label": "%"
+            },
+            {
+                "text": "When you did your papering did you start in the middle of the wall",
+                "label": "qy"
+            },
+            {
+                "text": "No I didnt",
+                "label": "nn"
+            },
+            {
+                "text": "Or did you start at the edge",
+                "label": "qrr"
+            },
+            {
+                "text": "Is that how youre supposed to do I started at one edge and went over then you had to cut around the closet --",
+                "label": "qy"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and cut around window --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but uh -",
+                "label": "%"
+            },
+            {
+                "text": "Ive had my best luck in papering when I start in the middle of wall and Ill start with plumb line",
+                "label": "sd"
+            },
+            {
+                "text": "And start right there -",
+                "label": "bf"
+            },
+            {
+                "text": "And start in the middle of the wall and and go from there and go all the way around the room",
+                "label": "+"
+            },
+            {
+                "text": "Do you seem to get it straighter is that the advantage or whats the -",
+                "label": "qy"
+            },
+            {
+                "text": "Well you you -",
+                "label": "%"
+            }
+        ]
+    }
+]

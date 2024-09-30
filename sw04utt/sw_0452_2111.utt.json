@@ -1,0 +1,551 @@
+[
+    {
+        "conversation_id": "conv_2111",
+        "turns": [
+            {
+                "text": "Our community doesnt really have any organized recycling drive",
+                "label": "sd"
+            },
+            {
+                "text": "Where do you live",
+                "label": "qw"
+            },
+            {
+                "text": "I live in San Antonio",
+                "label": "sd"
+            },
+            {
+                "text": "San Antonio",
+                "label": "ba^m"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Well uh I live in Garland and were just beginning to - we we just built real big recycling center",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "that recycles everything imaginable but as far as uh trash pick up and stuff that lot of the communities are doing",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "theyre testing that So theyre really not full full force into it but theyre trying so were attempting it but I wish we could do more",
+                "label": "+"
+            },
+            {
+                "text": "Yeah theres theres been no emphasis on recycling at all in San Antonio I used to work for the power company here and there was discussion for while about uh building garbage burning uh",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "electric generation plant but it just wasnt cost effective at the time",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "And theres theres little recycling trucks and things throughout the city but there isnt any uh advertising campaign Theres just not any push to recycle",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "I recycle my newspapers and uh alumi- my aluminum stuff",
+                "label": "sd"
+            },
+            {
+                "text": "Right thats what I do",
+                "label": "aa"
+            },
+            {
+                "text": "But uh they make it as hard as possible its not very convenient to do",
+                "label": "sv"
+            },
+            {
+                "text": "Right when they put centers and stuff like that -",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Yeah well we have those uh which I think is one of the best things is those cash for cans I dont know if you all have those things around",
+                "label": "aa"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "And I really like that because that makes it real convenient because theyre in almost every shopping center and you can just stop by Now everything else like the tra- uh paper and plastic and stuff you still have to go to the centers but",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "but for aluminum thats real nice and I started doing that at work Um I put out trash can and and for people to put their aluminum cans in",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and thats really helped lot I mean everybodys pitched in and",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "you know it doesnt bother them to walk little bit farther put their aluminum in can rather than just throwing it in their trash can",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So I really I really like that but people are really concerned its just that sometimes its not the right people",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "which is really really sad because I wish we would do more At work we started uh all the recycling stuff Theyre really trying I think what started it at work was that planet earth thing we had last year",
+                "label": "+"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "And uh that really started lot of stuff off but you know sometimes it dwindles down",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah where I work now we recycle all the computer paper",
+                "label": "b"
+            },
+            {
+                "text": "Thats good",
+                "label": "ba"
+            },
+            {
+                "text": "But thats about the extent of it",
+                "label": "sd"
+            },
+            {
+                "text": "Well thats uh - at least your trying something",
+                "label": "%"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Its just yeah - it would be nice if it could be more",
+                "label": "%"
+            },
+            {
+                "text": "And Im sure that the uh driving factor for recycling the computer paper is that we get paid to do so",
+                "label": "sv"
+            },
+            {
+                "text": "Oh do you really",
+                "label": "bh"
+            },
+            {
+                "text": "We sell the paper back to the uh to paper manufacturing company",
+                "label": "sd"
+            },
+            {
+                "text": "Well thats neat idea",
+                "label": "ba"
+            },
+            {
+                "text": "Well it it defrays the cost of buying the paper I think I - not by much but it does defray it some",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Enough to make it worth our while to have several bins through out the building",
+                "label": "sv"
+            },
+            {
+                "text": "Well thats thats really good I mean at least theyre trying",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Yeah I know lot of companies that waste so much that - Im even trying - you know that was one thing we noticed last week that we had some new people move into our building and you know the nice cardboard boxes that you move packing boxes slash error",
+                "label": "b"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "And they were just used one time and thrown in the dumpster and I thought I dont understand this you know",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Were trying to cut cost and everything like that and and recycle and all that stuff and and here we are wasting And I dont understand sometimes the way the thinking the logic behind it",
+                "label": "^q"
+            },
+            {
+                "text": "Well the last time uh someone moved offices in my building and uh the uh properties people came in with all with the good cardboard boxes Not the cheap ones of course",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And packed everything up and moved them and left them lying around I I took several home because Im moving pretty soon and theyre good boxes",
+                "label": "+"
+            },
+            {
+                "text": "Thats exactly what I did",
+                "label": "sd"
+            },
+            {
+                "text": "And they were just going to throw them away",
+                "label": "sd"
+            },
+            {
+                "text": "Exactly what I did exactly",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Because I didnt want to waste that",
+                "label": "sd"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b"
+            },
+            {
+                "text": "And its hard enough to find good packing boxes",
+                "label": "sv"
+            },
+            {
+                "text": "Right and and these boxes are - you can unfold them",
+                "label": "aa"
+            },
+            {
+                "text": "Right",
+                "label": "aa"
+            },
+            {
+                "text": "So you know there they dont take up much storage space",
+                "label": "sd"
+            },
+            {
+                "text": "Exactly right well thats very good",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah yeah I I felt little guilty about taking the boxes for about two seconds until I realized they would be thrown away so -",
+                "label": "b"
+            },
+            {
+                "text": "Right right",
+                "label": "aa"
+            },
+            {
+                "text": "I thought well I was doing them favor by taking them",
+                "label": "sd"
+            },
+            {
+                "text": "I found about five uh about nine of them that had not even been folded into boxes",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "that were in the dumpsters Oh gosh so many people need so many people go to the grocery store and stuff and get those boxes",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "when you know these are perfect so -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah the ones at the grocery store half the time theyve pulled the lid off so you cant use it anyway",
+                "label": "b"
+            },
+            {
+                "text": "Right right right",
+                "label": "aa"
+            },
+            {
+                "text": "Those - and the real sturdy boxes that copy room paper comes in with the nice lids Those get thrown away",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh right",
+                "label": "b"
+            },
+            {
+                "text": "And I am constantly scouting out the copy room for those boxes",
+                "label": "sd"
+            },
+            {
+                "text": "Thats exactly what I do",
+                "label": "sd"
+            },
+            {
+                "text": "Those are perfect boxes to put files in",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Theyre good for storage and stuff like that Thats what I do with lot of my daughters things is Ill store her you know like her out dated or out of out of season clothes in them and theyre just perfect",
+                "label": "b"
+            },
+            {
+                "text": "What what Ive done in the past - I dont have any now but I would buy some cheap wallpaper from somewhere and cover those nice boxes with the lids",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and you can stack them up and and leave them out and put things in them even",
+                "label": "sd"
+            },
+            {
+                "text": "And they look just as good Thats smart idea",
+                "label": "^2"
+            },
+            {
+                "text": "uh-huh yeah",
+                "label": "b"
+            },
+            {
+                "text": "I think Ill have to try that Thats really cute",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah well you know its cheaper than going and buying the kind at Target that are all ready with the little design on them or whatever",
+                "label": "b"
+            },
+            {
+                "text": "Theyre the exact same thing Thats all they are they just made them look fancy",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh yeah",
+                "label": "b"
+            },
+            {
+                "text": "You saved me some money",
+                "label": "sd"
+            },
+            {
+                "text": "slash error",
+                "label": "x@"
+            },
+            {
+                "text": "And youre recycling",
+                "label": "sd"
+            },
+            {
+                "text": "Yes slash error should be aa yeah",
+                "label": "+@"
+            },
+            {
+                "text": "Well thats neat Well do you all have uh - we have places that uh pay for paper to recycle I know you do yours at work but for newspaper -",
+                "label": "ba"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But ours are real hard to find Thats the one thing that really discourages me I saved pa- you know I recycle paper but they - its almost like they dont want the paper because they dont pay at all",
+                "label": "sd"
+            },
+            {
+                "text": "slash error",
+                "label": "x"
+            },
+            {
+                "text": "I mean theyre real hard to find the places that pay And thats really discouraging I mean I just go ahead and take it to the the regular place where its you know they just accept it",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh slash error should be",
+                "label": "+@"
+            },
+            {
+                "text": "But they uh I think they should yeah if they want people to recycle I think its uh you know - like the aluminum you know - it gets people to uh doing it you know you might you dont have to pay them lot",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I live near Walmart and theres big uh uh huge dumpster looking thing sitting out front in fact I think theres two of them that have several openings",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and its for recycling and they have aluminum and newspaper and plastic and some other category",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I dont - maybe theres two for aluminum And you dont get paid but its real convenient just to chunk the newspapers in there",
+                "label": "%"
+            },
+            {
+                "text": "Well thats thats good",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I - the one thing I dont like about the newspaper also is uh - like at work we have two different trash cans at your desk You have one for paper and one for just your normal trash",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "but in uh in the paper one you have to separate You have to make sure you dont throw away any of the slick paper like magazines",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You cant throw any of that away and you cant throw certain file type things away and I just think its such hassle it seems like it would be it would be easy to take it all I dont know of course I dont know all that about recycling so",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "it probably is hassle But I do get tired of having to separate paper you know",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh It gets to be uh - I guess you have to make it habit I mean you have to get so used to doing it that its habit",
+                "label": "b"
+            },
+            {
+                "text": "Right right And we had uh write up in our paper uh this last time at work about um - they come and empty your trash every other day they do your normal trash and every other day they do your recycling trash",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And somebody was writing in complaining that the people had uh dumped all the trash in the same bin",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "And when they were questioned about it they said well were running late or we didnt have time to do those bins or something and thats real discouraging Thinking youre sitting there working to separate it and then they -",
+                "label": "sd"
+            },
+            {
+                "text": "And someone else isnt going to take the time to put it in two separate bags",
+                "label": "^2"
+            },
+            {
+                "text": "Right right so theyre theyre really trying to start keeping an eye out for those you know - talking to the people again about you know - separate them - because that is discouraging when you when you do that It was hard to get used to those two different trash cans",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But luckily that will all get straightened out and and theyll theyll start separating them Because I dont mind doing that I feel like Im doing uh doing something for the community when Im doing that",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But anyway -",
+                "label": "%"
+            },
+            {
+                "text": "Well Ive enjoyed talking to you",
+                "label": "fc"
+            },
+            {
+                "text": "You too",
+                "label": "fc"
+            },
+            {
+                "text": "Well I thank you Bye bye",
+                "label": "fc"
+            },
+            {
+                "text": "Bye",
+                "label": "fc"
+            }
+        ]
+    }
+]

@@ -1,0 +1,787 @@
+[
+    {
+        "conversation_id": "conv_2953",
+        "turns": [
+            {
+                "text": "Well -",
+                "label": "o"
+            },
+            {
+                "text": "Well what kind of music did you all listen to",
+                "label": "qw"
+            },
+            {
+                "text": "Oh my goodness Now see we think of classic rock that they you know have on all the easy listening stations now --",
+                "label": "^h"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- as our heart and soul I mean it was - that is really good question because that was everything from the Rolling Stones to the Beatles I mean we were there",
+                "label": "+"
+            },
+            {
+                "text": "No now well then you was in the uh - or I am sorry",
+                "label": "ar"
+            },
+            {
+                "text": "Yeah I was -",
+                "label": "b"
+            },
+            {
+                "text": "I am going to make you sound like youre --",
+                "label": "sv"
+            },
+            {
+                "text": "Well I was",
+                "label": "bd"
+            },
+            {
+                "text": "-- eighty something",
+                "label": "+"
+            },
+            {
+                "text": "I was in seventh grade when the Beatles came out",
+                "label": "+"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "I was --",
+                "label": "sd"
+            },
+            {
+                "text": "Woodstock",
+                "label": "sd"
+            },
+            {
+                "text": "-- fourteen years old",
+                "label": "+"
+            },
+            {
+                "text": "What was -",
+                "label": "qw"
+            },
+            {
+                "text": "Woodstock",
+                "label": "^2"
+            },
+            {
+                "text": "yeah what was you doing during Woodstock",
+                "label": "ny"
+            },
+            {
+                "text": "Well I wanted to go I was in Chicago And I guess I was close to eighteen or something I I - it was like I think the summer between my uh high school and college Somewhere around in there",
+                "label": "^h"
+            },
+            {
+                "text": "uh-huh",
+                "label": "+@"
+            },
+            {
+                "text": "I cant quite remember the year And uh -",
+                "label": "h"
+            },
+            {
+                "text": "You would have had ball",
+                "label": "sv"
+            },
+            {
+                "text": "Uh yeah",
+                "label": "ny"
+            },
+            {
+                "text": "I I kind of liked would have liked to have been there",
+                "label": "sv"
+            },
+            {
+                "text": "We could not we could not get it together to drive I mean you know we had never driven outside of you know",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "ten miles out of town at that time And here we were all hep to go to Woodstock you know",
+                "label": "+"
+            },
+            {
+                "text": "Dont you wish you had been able to though",
+                "label": "qy^g"
+            },
+            {
+                "text": "I really do You -",
+                "label": "na"
+            },
+            {
+                "text": "Oh that would have been such great memory",
+                "label": "sv"
+            },
+            {
+                "text": "It would have been incredible I I think of uh you know all the social changes that were going on around that time And",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and the sixties as being so revolutionary in lot of ways in terms of raising peoples consciousness Everything from - well I mean I remember we had the first Earth Day back then you know",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "we got out of school at at uh the university and we celebrated Earth Day",
+                "label": "sd"
+            },
+            {
+                "text": "You went and planted tree or something",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah Planted trees and stuff and we did not realize you know the implications of all that then",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh Well -",
+                "label": "b"
+            },
+            {
+                "text": "and lot of the stuff that goes on --",
+                "label": "+"
+            },
+            {
+                "text": "well",
+                "label": "o@"
+            },
+            {
+                "text": "-- today",
+                "label": "+"
+            },
+            {
+                "text": "growing up with - when I grew up it just was not we did not have any causes",
+                "label": "+@"
+            },
+            {
+                "text": "Well",
+                "label": "o@"
+            },
+            {
+                "text": "To me it didnt doesnt seem like we have got much you know what I mean",
+                "label": "sv"
+            },
+            {
+                "text": "Well you do Youll - - - I mean there - there was no name to it It was everything that was started in the sixties You --",
+                "label": "+@"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- had you had to fight for racial equality",
+                "label": "+"
+            },
+            {
+                "text": "Well I do remember demonstrations over busing",
+                "label": "sd"
+            },
+            {
+                "text": "And busing themsel- -",
+                "label": "^2"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "It was like just continuum You know everything sort of had seed in the sixties",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And womens rights I mean things for women were totally different for you by that time",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah Well right By the time I was born even now you know womens rights uh - we just -",
+                "label": "aa"
+            },
+            {
+                "text": "You just assume -",
+                "label": "sv"
+            },
+            {
+                "text": "we are totally equal now There is not really lot to fight over Now I saw something on last night on TWENTY-TWENTY You know mens uh fathers or daddies - now wait minute Daddies Are People Too",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "It is about lot of men you know all right going through divorces The judge will usually uh give custody to the mother ninety-seven percent of the time Because they go through the female",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Well we learned --",
+                "label": "b"
+            },
+            {
+                "text": "Uh",
+                "label": "o@"
+            },
+            {
+                "text": "-- from KRAMER VERSUS KRAMER didnt we",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Something like that But it does seem you know -",
+                "label": "+@"
+            },
+            {
+                "text": "It seems unfair",
+                "label": "^2"
+            },
+            {
+                "text": "Yeah It really does",
+                "label": "aa"
+            },
+            {
+                "text": "But it - see men are coming into their own --",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- now too",
+                "label": "+"
+            },
+            {
+                "text": "They are well - I thought about that I thought well now men you know have to fight to be equal And I think that is only right though really He - one guy said the judge looked at him and said Well now Mister So and So he says I have never seen uh calves follow bull They always follow the heifer That is why I always he said That is why I always give custody to the mama And he said Well he said does that mean you are going to shoot them if they break leg and you know butcher them if they get fat He said My kids are my cattle",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know But that that is the way most people feel that women should get custody",
+                "label": "+@"
+            },
+            {
+                "text": "Well are you married and do you have children",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah I am married and I have got two kids",
+                "label": "ny"
+            },
+            {
+                "text": "Two kids And and how does your husband respond to all the new social uh changes",
+                "label": "b^m"
+            },
+            {
+                "text": "My husband is not conformist at all He is still back there in the seventies",
+                "label": "sd"
+            },
+            {
+                "text": "Well see bless his heart you know",
+                "label": "o@"
+            },
+            {
+                "text": "Well I mean he is still wearing bell bottoms jea- not bell bottoms but flared pants And he - well I do not like them but",
+                "label": "sd"
+            },
+            {
+                "text": "They are --",
+                "label": "sv"
+            },
+            {
+                "text": "you know to him -",
+                "label": "+@"
+            },
+            {
+                "text": "-- going to be back in style any day now",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Any day now Well he just you know he is he is his own person He",
+                "label": "b"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "you know he does stay with it as far as music and stuff goes but he wears what clothes he wants to Which we are both that way If something is out of style I do not really care If I like it I am going to wear it",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But uh my husband is not conformist at all",
+                "label": "sd"
+            },
+            {
+                "text": "Oh Well see that that is the spirit of the sixties And whether we are talking about the rain forests -",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I tell - you you know the situation you have right now and and all of our generations is what to do with the children Because both mother and father have to work now",
+                "label": "%"
+            },
+            {
+                "text": "Well uh we are trying to keep away from that My husband works for the railroad",
+                "label": "ar"
+            },
+            {
+                "text": "Oh okay",
+                "label": "bk"
+            },
+            {
+                "text": "We have got it real tight But I have got four month old baby and I do not want to work I want to tend to her",
+                "label": "sd"
+            },
+            {
+                "text": "Thats",
+                "label": "sd"
+            },
+            {
+                "text": "I want to raise my kids",
+                "label": "sd"
+            },
+            {
+                "text": "Thats see that is your commitment",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You do not know what you are changing when you do something like that",
+                "label": "sv"
+            },
+            {
+                "text": "Well -",
+                "label": "%"
+            },
+            {
+                "text": "You do not understand the total commitment it takes to be parent",
+                "label": "sv"
+            },
+            {
+                "text": "Right Well when he grew up he grew up with his - we both grew up with single mothers",
+                "label": "b"
+            },
+            {
+                "text": "Uh",
+                "label": "b"
+            },
+            {
+                "text": "And my mom had six kids",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So she had to work And you know I was raised by my sisters and stuff And I can I cant see the difference But I know that it would have been better had Mom been able to stay home with us",
+                "label": "sd"
+            },
+            {
+                "text": "That one person --",
+                "label": "bf"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- that you could always count on being there",
+                "label": "+"
+            },
+            {
+                "text": "Right And my husband was the same way And we just - I want to raise my kids I do not want day care or an aunt or anybody else raising them",
+                "label": "aa"
+            },
+            {
+                "text": "Well -",
+                "label": "%"
+            },
+            {
+                "text": "I want to be there to make sure that - well they need guidance and they do need parental guidance --",
+                "label": "sd"
+            },
+            {
+                "text": "They definitely --",
+                "label": "aa"
+            },
+            {
+                "text": "-- twenty-four --",
+                "label": "+"
+            },
+            {
+                "text": "-- do",
+                "label": "+"
+            },
+            {
+                "text": "-- hours day",
+                "label": "+"
+            },
+            {
+                "text": "They definitely do I -",
+                "label": "aa^r"
+            },
+            {
+                "text": "Do you stay home with yours",
+                "label": "qy"
+            },
+            {
+                "text": "Uh well see I if I had some I would I I have not - I had an unfortunate thing happen and I am you know - and it is not going to happen that way",
+                "label": "na"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But my my uh friends are having babies right and left so I get to see the different ways that they",
+                "label": "sd"
+            },
+            {
+                "text": "They raise them",
+                "label": "^2"
+            },
+            {
+                "text": "uh all raise them And and one gal she started business in her home And she she hired an au pair which is college kid to come in and take care of her two boys while she works in the other end of the house",
+                "label": "+"
+            },
+            {
+                "text": "Well but see now -",
+                "label": "%"
+            },
+            {
+                "text": "And the guy lives in with her you know",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I mean you know it is family sort of unit sort of thing and the -",
+                "label": "sd"
+            },
+            {
+                "text": "Okay sweetie Let mommy talk",
+                "label": "t3"
+            },
+            {
+                "text": "And so -",
+                "label": "%"
+            },
+            {
+                "text": "Well I think thats neat",
+                "label": "sv"
+            },
+            {
+                "text": "So that is different way And then my other girlfriend just you know tears her hair out and goes at it you know twenty-four hours day watching both kids all the time And I think there is point where you just have to get away",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And it is good for the kid and it is good for you to develop you know your interest so you do not stop growing --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- at the same time",
+                "label": "+"
+            },
+            {
+                "text": "Well I know the family is really going through changes But now we are trying to go back to about the sixties when the parents you know when the mother was staying at home",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Unit - Or that - what do they call it the nuclear family",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah But uh -",
+                "label": "b"
+            },
+            {
+                "text": "Do you have any uh - do you have your mom or anybody around you that --",
+                "label": "qy"
+            },
+            {
+                "text": "Uh",
+                "label": "b"
+            },
+            {
+                "text": "-- helps you",
+                "label": "+"
+            },
+            {
+                "text": "well my family is Kentucky Now my one of my sisters is down here",
+                "label": "^h"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Her husband happened to get job at I They moved out here but - - his family lives here and my husband was in the service when I met him",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And so we weve been all over Okay Kyle Then I - he got sunburn and he is itching so I am keep having to scratch his back",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "See uh I would love to get business going out of my home Outside of I mean going -",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "aa"
+            },
+            {
+                "text": "yeah",
+                "label": "b"
+            },
+            {
+                "text": "Well that is -",
+                "label": "%"
+            },
+            {
+                "text": "I would rather work at home if I could",
+                "label": "sd"
+            },
+            {
+                "text": "Well see and and that is uh the sort of the thing of the nineties is --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah That --",
+                "label": "b"
+            },
+            {
+                "text": "-- women --",
+                "label": "+"
+            },
+            {
+                "text": "-- is the trend",
+                "label": "+"
+            },
+            {
+                "text": "-- working out of their own home",
+                "label": "+"
+            },
+            {
+                "text": "Yeah They are bringing offices I mean jus- I mean big businesses into their home Bringing their computers home --",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- and working from there",
+                "label": "+"
+            },
+            {
+                "text": "And I think you know the more we try to you know shape that the more input we have into what that whole system is going to look like Because that is that is our choice now too That is",
+                "label": "sv"
+            },
+            {
+                "text": "Well I think",
+                "label": "sv"
+            },
+            {
+                "text": "that is our cause",
+                "label": "+"
+            },
+            {
+                "text": "I think one that would be uh - it is uh - kids could see their parents you know how hard they work",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "they would understand more When uh we first moved down here I was working I was working twelve hour shift and it was three and four days week",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh -",
+                "label": "%"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "oh my little boy just he went wild You know I mean because because he had been used to me --",
+                "label": "sd"
+            },
+            {
+                "text": "Being there all --",
+                "label": "^2"
+            },
+            {
+                "text": "-- being there --",
+                "label": "+"
+            },
+            {
+                "text": "-- the time",
+                "label": "+"
+            },
+            {
+                "text": "-- all the time yeah",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And he is just now - well when I got pregnant I went ahead and quit work and decided just to stay at home and it was costing too much at home than more at home than I was bringing in So -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah See the- the- the economic situation on the whole thing - And then uh well it is - see we do have things that we are concerned about here",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "This generation - I dont know Social change is always going to go on but I think we have taken big leap in the last you know twenty thirty years",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh nothing is the same",
+                "label": "sv"
+            },
+            {
+                "text": "No it seems like it is totally different Of course I do not have much to compare it to To me",
+                "label": "aa"
+            },
+            {
+                "text": "Well -",
+                "label": "%"
+            },
+            {
+                "text": "our causes do not seem as important as you alls were Do you know what I mean",
+                "label": "+"
+            },
+            {
+                "text": "Yeah But we we grew we passed them on to you you know I mean -",
+                "label": "ny"
+            },
+            {
+                "text": "You you what",
+                "label": "br"
+            },
+            {
+                "text": "I said We passed --",
+                "label": "sd^r"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "-- them --",
+                "label": "+"
+            },
+            {
+                "text": "We passed them on to us",
+                "label": "bf"
+            },
+            {
+                "text": "-- on to you I mean you know because it takes lot of hard work It takes writing letters to Congressmen and",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and you know just being very very politically astute about how to shape and mold the future And and uh you know um did we make the right choices We do not know we will never know",
+                "label": "+"
+            },
+            {
+                "text": "No",
+                "label": "aa"
+            },
+            {
+                "text": "I mean you know I I think we made wrong choice when I look at the children of today Yeah I think we made some big wrong choices",
+                "label": "sv"
+            },
+            {
+                "text": "Okay yeah",
+                "label": "b"
+            },
+            {
+                "text": "And I think business got in the way I think the greed of the eighties got -",
+                "label": "sv"
+            }
+        ]
+    }
+]

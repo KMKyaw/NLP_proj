@@ -1,0 +1,211 @@
+[
+    {
+        "conversation_id": "conv_2265",
+        "turns": [
+            {
+                "text": "Uh tell you what Um Ill let you start",
+                "label": "co"
+            },
+            {
+                "text": "Okay My major source of information I guess is news Excuse me I uh wake up to it in the morning This is my I guess my prime time for news first thing in the morning while Im getting ready to go to work Oh I quite frequently glance through headlines or in the newspaper But uh primarily mine is news How about yourself",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah I have to have to agree with you um I normally dont have time in the morning to to watch any type of Usually catch it going to work on the radio Or when I drag the paper in from the front and it catch the head lines which is normal what you see the night before on the evening news",
+                "label": "b"
+            },
+            {
+                "text": "Huh-uh LISTEN-- I think this and successive Huh-uh answers should be uh-huh True",
+                "label": "aa*"
+            },
+            {
+                "text": "So Ive Ive kind of - we have one year old in the house so its kind of hard sometimes to watch during the night but I usually try to catch the ten oclock or um",
+                "label": "%"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b*"
+            },
+            {
+                "text": "those type of - I have to say during the war were the American public was probably flooded with too much information and as far as the sub question about the was am I satisfactorily covered I have to say yes But when it came to the war issues whos telling the truth Between the channels there was uh the casualties the amount of missiles launched were different and it was almost too much information over communicated",
+                "label": "+"
+            },
+            {
+                "text": "Well thats true but I - my personal opinion is that the various network news medias were trying to interpret the news to the best of their abilities since they were not very well informed by the military",
+                "label": "aa"
+            },
+            {
+                "text": "True I agree with you",
+                "label": "aa"
+            },
+            {
+                "text": "Now I can appreciate that especially after what happened in Vietnam",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah which is joke",
+                "label": "aa"
+            },
+            {
+                "text": "Uh lets face it todays uh means of communication we could newscaster could very well giveaway piece of top secret information",
+                "label": "o"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b*"
+            },
+            {
+                "text": "And uh pat himself on the back for for uh making good scoop",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Thats good point Um but I would have to say across-the-board Im satisfied with the way uh the news is spread Um of course here at Texas Instruments uh the rumor mill runs rampant The secretarys probably the best resource of what the layoff status is",
+                "label": "aa"
+            },
+            {
+                "text": "Very true I find -News very enlightening too",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And I check that everyday Of course with that goes along with the stock price of I",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I agree you - I think Im glad you mentioned that because I think I have to since I dont have the opportunity in the morning Ill probably catch the head lines on -News Thats good point",
+                "label": "aa"
+            },
+            {
+                "text": "Of course -NEWS is more or less headlines",
+                "label": "sd"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b*"
+            },
+            {
+                "text": "Uh I dont think much of their sports coverage",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah True Kind of -",
+                "label": "aa"
+            },
+            {
+                "text": "Only give the scores",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But uh thats all right Im not outside of pro football Im not too interested in other games other sports anyway",
+                "label": "sd"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "aa"
+            },
+            {
+                "text": "But the uh -NEWS is good way to keep up-to-date I think they do pretty good job of selecting the most important items",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah They do Surely do Uh anything else crossed your mind I guess most of us go by the audio which is the television or the radio",
+                "label": "aa"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b*"
+            },
+            {
+                "text": "Um but you need to continue to read so you people learn to read you know",
+                "label": "sv"
+            },
+            {
+                "text": "Well I spent twenty years in profession commercial broadcasting radio and and I know what it takes to get some of those little bits and pieces of news on the air",
+                "label": "sd"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b*"
+            },
+            {
+                "text": "I mean there there are times where uh the reporter actually will risk is life life and limb Ive seen it happen time and time again And uh well I remember one time up in Nashville Tennessee One of the fellows got mixed up in riot that was going on down there",
+                "label": "sd"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "b*"
+            },
+            {
+                "text": "but he was lucky he got out of it for some reason Because he was carrying camera uh they left him alone",
+                "label": "sd"
+            },
+            {
+                "text": "Ouch Everybody got excited",
+                "label": "fe"
+            },
+            {
+                "text": "Huh-uh",
+                "label": "aa*"
+            },
+            {
+                "text": "Thats tough Thats tough Well Ive enjoyed speaking with you",
+                "label": "sv"
+            },
+            {
+                "text": "Nice to talk to you too Jim",
+                "label": "fc"
+            },
+            {
+                "text": "Did you get your catalog on your your gifts",
+                "label": "qy^t"
+            },
+            {
+                "text": "No",
+                "label": "nn"
+            },
+            {
+                "text": "Really I just got mine in the mail so it kind of sparked me to keep calling",
+                "label": "sd^t"
+            },
+            {
+                "text": "Oh Well Ill be looking for it then",
+                "label": "b"
+            },
+            {
+                "text": "There not to shabby Correction Theyre not too shabby Theyre pretty good",
+                "label": "sv*"
+            },
+            {
+                "text": "Is that right",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Well good slash error",
+                "label": "o@"
+            },
+            {
+                "text": "Have great day",
+                "label": "fc"
+            },
+            {
+                "text": "You too",
+                "label": "+@"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc"
+            }
+        ]
+    }
+]

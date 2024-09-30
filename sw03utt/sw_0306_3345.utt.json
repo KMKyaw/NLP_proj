@@ -1,0 +1,455 @@
+[
+    {
+        "conversation_id": "conv_3345",
+        "turns": [
+            {
+                "text": "Well you keep up with current events",
+                "label": "qy"
+            },
+            {
+                "text": "Um somewhat Yeah somewhat --",
+                "label": "na"
+            },
+            {
+                "text": "Not -",
+                "label": "%"
+            },
+            {
+                "text": "-- not as well as I would like to probably --",
+                "label": "sd"
+            },
+            {
+                "text": "Is that right",
+                "label": "bh"
+            },
+            {
+                "text": "-- but thats the way it goes",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah where whereabouts in Pennsylvania",
+                "label": "b"
+            },
+            {
+                "text": "What",
+                "label": "br"
+            },
+            {
+                "text": "Where in Pennsylvania",
+                "label": "qw"
+            },
+            {
+                "text": "Um State College I go to Penn State",
+                "label": "sd"
+            },
+            {
+                "text": "Oh do you well great",
+                "label": "bk"
+            },
+            {
+                "text": "Yep",
+                "label": "b"
+            },
+            {
+                "text": "Hows uh - well no were not supposed to talk about that Were supposed to talk about current events",
+                "label": "%"
+            },
+            {
+                "text": "Right exactly uh",
+                "label": "aa"
+            },
+            {
+                "text": "Well Im current event junkie So I I watch I try to watch the news and I read the newspaper and I like to read TIME magazine and PEOPLE magazine to keep up with whats going on in the world",
+                "label": "sd"
+            },
+            {
+                "text": "I see",
+                "label": "b"
+            },
+            {
+                "text": "-",
+                "label": "x"
+            },
+            {
+                "text": "Well what particularly are you interested in",
+                "label": "qw"
+            },
+            {
+                "text": "Well I just pretty uh little you know about everything - And not --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and then again not everything but you know I like to know pretty well whats happening Political things dont interest me great deal except I do like to stay informed enough to feel like I halfway vote intelligently you know --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but uh other than that uh I just you know - just the events that happen around the world interest me",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Stay in touch with it and know feel like I know whats going on Now I have to say all three of my children none of them are too interested in current events",
+                "label": "+"
+            },
+            {
+                "text": "I see",
+                "label": "b"
+            },
+            {
+                "text": "But I always have been --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and I stay up with it But uh how do you how do you uh stay aware of most of the current events Uh newspaper",
+                "label": "sd"
+            },
+            {
+                "text": "Um --",
+                "label": "sd"
+            },
+            {
+                "text": "news or what",
+                "label": "+"
+            },
+            {
+                "text": "-- uh well some of both",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I read I read the newspapers sometimes --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and I watch that sort of thing --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- occasionally --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah thats good",
+                "label": "b"
+            },
+            {
+                "text": "-- and I read magazines and such",
+                "label": "sd"
+            },
+            {
+                "text": "Well you stay up with it pretty well then",
+                "label": "bf"
+            },
+            {
+                "text": "Well yeah I mean not not that badly --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- anyway so I am I am interested in whats going on and Im particularly interested in certain things of course like all the news about Haiti recently --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh yes uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- because Ive been down there --",
+                "label": "+"
+            },
+            {
+                "text": "Oh youve been there --",
+                "label": "bh"
+            },
+            {
+                "text": "-- and yeah",
+                "label": "ny"
+            },
+            {
+                "text": "-- well you would be interested in it then",
+                "label": "sv"
+            },
+            {
+                "text": "Right exactly",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah uh I follow it you know I dont just read everything about it but Im always aware of whats going on like that --",
+                "label": "b"
+            },
+            {
+                "text": "Yep",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh because it is its interesting --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh I dont know I feel sorry for those people down there theyve just been so terribly mistreated for so many many years you know",
+                "label": "h"
+            },
+            {
+                "text": "Thats true",
+                "label": "aa"
+            },
+            {
+                "text": "I mean",
+                "label": "+"
+            },
+            {
+                "text": "Theyve never really had good leader",
+                "label": "sv"
+            },
+            {
+                "text": "through Papa Doc I mean he was --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- terrible tyrant --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and I think its been better since he died but its still been bad --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- but uh even that priest that was in control there for while that they overthrew uh Ive read some things about him that he was he wasnt too good himself",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah he was pretty pretty much - he didnt mind having people bumped off for certain things you know",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But uh",
+                "label": "sv"
+            },
+            {
+                "text": "I see",
+                "label": "b"
+            },
+            {
+                "text": "Its one of the reasons the wasnt so you know didnt do more than they did at the time --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- because they werent all that excited about him although hes probably better than lot of them but uh but then again who you know - those people are so used to it I guess its the only thing that works",
+                "label": "+"
+            },
+            {
+                "text": "Yeah so what do you think about the quality of news coverage in America",
+                "label": "b"
+            },
+            {
+                "text": "I think its pretty darned good I think were lucky to have as good coverage as we have --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- I really do Now I they sometimes they jump on it and and and go little to the extreme the media does but uh but thats kind of understandable because you know of course if you watch it more more than once day I mean its the same thing over and over and over and over and I listen to the radio --",
+                "label": "sd"
+            },
+            {
+                "text": "Right right",
+                "label": "b"
+            },
+            {
+                "text": "-- so I you hear so much you get little tired of it but then again so many people you got to understand only catch it once day maybe --",
+                "label": "sv"
+            },
+            {
+                "text": "Yep",
+                "label": "b"
+            },
+            {
+                "text": "-- but I think the quality of our uh our news is just uh I dont believe it could be better --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- I really dont",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah well you know I think it probably could be it always could be better but I",
+                "label": "b"
+            },
+            {
+                "text": "I dont think so",
+                "label": "ar"
+            },
+            {
+                "text": "would agree that its pretty good",
+                "label": "+"
+            },
+            {
+                "text": "I dont think our news could be better",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I I mean I mean what else could they do to make it better",
+                "label": "qh"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "I dont see anything that they could do",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah well I think that um - I dont know",
+                "label": "b"
+            },
+            {
+                "text": "Well you always --",
+                "label": "sv"
+            },
+            {
+                "text": "The um -",
+                "label": "%"
+            },
+            {
+                "text": "-- want to think everything can be improved upon --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "aa"
+            },
+            {
+                "text": "-- I understand what youre saying",
+                "label": "ba"
+            },
+            {
+                "text": "Right I think that",
+                "label": "aa"
+            },
+            {
+                "text": "But by trial and error over the years I think they got it about as good as theyre going to get it",
+                "label": "sv"
+            },
+            {
+                "text": "Well that may be so yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Uh --",
+                "label": "sv"
+            },
+            {
+                "text": "I think that --",
+                "label": "sv"
+            },
+            {
+                "text": "-- nothing is perfect",
+                "label": "+"
+            },
+            {
+                "text": "-- Im not always satisfied with how dig they deep into the --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- how deep they dig into things and such",
+                "label": "+"
+            },
+            {
+                "text": "Well thats true I understand what youre saying and then again I understand why they cant dig too much deeper thats why we have",
+                "label": "aa"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "has the time since thats all they do is news --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- to dig deeper",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            }
+        ]
+    }
+]

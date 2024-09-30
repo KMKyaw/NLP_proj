@@ -1,0 +1,487 @@
+[
+    {
+        "conversation_id": "conv_3419",
+        "turns": [
+            {
+                "text": "Uh Kate what kind of uh where do you like to eat out",
+                "label": "qw"
+            },
+            {
+                "text": "Well we uh we really like the Mexican food you know here in Texas --",
+                "label": "sd"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh so we try and go around to different Mexican restaurants trying them out and so uh Tias is probably our favorite uh restaurant there and I think they have one of the best services that uh that we really like it",
+                "label": "sd"
+            },
+            {
+                "text": "Do you Have you tried Mother Mesquites",
+                "label": "bh"
+            },
+            {
+                "text": "No Wheres that at",
+                "label": "nn"
+            },
+            {
+                "text": "Thats at Skillman and --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- there is - its where Skillman uh curves into Forest Lane --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and its real good Mexican food Another real good one is uh Rafaels down on McKinney Avenue",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Theyre both very good",
+                "label": "sd"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Oh that uh no we havent explored uh you know too many places Um you know lot of the big name brand I guess uh chains --",
+                "label": "%"
+            },
+            {
+                "text": "Chains uh-huh",
+                "label": "b^m"
+            },
+            {
+                "text": "-- yeah but um oh weve tried places you know down uh by the Collin Creek Mall the uh you know Alvarez and um gosh we tried what was across the street El Pasos --",
+                "label": "b"
+            },
+            {
+                "text": "Oh El Chicos or El Fenix --",
+                "label": "^2"
+            },
+            {
+                "text": "-- El Chicos or something yeah something --",
+                "label": "+"
+            },
+            {
+                "text": "-- one uh-huh",
+                "label": "+"
+            },
+            {
+                "text": "-- something like that uh-huh uh-huh",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh uh-huh Well I like Tias better than I do El Chicos or El Fenix",
+                "label": "b"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "Uh much better Uh Mother Mesquites is one of our favorites but then fajitas are one of my uh - I like it better than just about anything --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yes",
+                "label": "aa"
+            },
+            {
+                "text": "-- and they make very good fajitas there --",
+                "label": "sv"
+            },
+            {
+                "text": "Yes",
+                "label": "aa"
+            },
+            {
+                "text": "-- in their own uh homemade flour tortillas that are just absolutely wonderful",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Especially with butter and honey on them",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh uh-huh Oh I know I tell I tell you what They are they just um theyre excellent uh excellent food I wish I could make them here at home",
+                "label": "b"
+            },
+            {
+                "text": "Yes yes so do I",
+                "label": "aa"
+            },
+            {
+                "text": "Just cant make those flour tortillas But -",
+                "label": "sd"
+            },
+            {
+                "text": "Well what else do you like",
+                "label": "qo"
+            },
+            {
+                "text": "Well I love uh I love seafood --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and I notice they have like the you know The Louisiana Purchase um Razzoos has opened up down you know off of um um oh close to six thirty-five",
+                "label": "sd"
+            },
+            {
+                "text": "Yes now I havent eaten there Have you eaten there",
+                "label": "b"
+            },
+            {
+                "text": "Yes I have eaten there Now the only problem - note the setup for negative comment I love the food Its lot of cajun food and --",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- good seafood but uh the service has always been so strange every time Ive been in there Mostly its been at lunch time --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh but I hear at night though they have uh you know the outdoor um bar and um uh thats its really uh you know kind of lively",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So its its really good All their blackened grill stuff",
+                "label": "sv"
+            },
+            {
+                "text": "Oh I we like uh uh for the cajun the spicy we like Atchafalayas out on Belt Line in Addison --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and its good restaurant",
+                "label": "sd"
+            },
+            {
+                "text": "Oh well that sounds great",
+                "label": "ba"
+            },
+            {
+                "text": "And fish for one of the best fish restaurants in town is either Vincents --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- there in Plano --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- or uh I believe its Rusty Scupper over on uh uh Dallas Parkway --",
+                "label": "+"
+            },
+            {
+                "text": "Huh slash error",
+                "label": "b@"
+            },
+            {
+                "text": "-- in Addison which is absolutely wonderful",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "+"
+            },
+            {
+                "text": "The service is great They have every kind of fish that you could imagine youd want --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and the the atmosphere is wonderful too If you want really special night out and fish food --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- thats good place to go",
+                "label": "+"
+            },
+            {
+                "text": "Oh well I uh I have children and and work and so we uh we can eat lot of fast food",
+                "label": "sd"
+            },
+            {
+                "text": "Fast food well I can understand that two utts I can remember when our children were small",
+                "label": "ba^m@"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "We lived in the Chicago area at the time and we had lot of McDonalds --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- when they were first coming out",
+                "label": "+"
+            },
+            {
+                "text": "I know",
+                "label": "ba"
+            },
+            {
+                "text": "I cant look McDonalds in the face now",
+                "label": "sd"
+            },
+            {
+                "text": "I I know I Im so sick of McDonalds and we used to eat there we used to eat there all the time And so now we we we branch out at this Wendys or some other fast food joint",
+                "label": "aa"
+            },
+            {
+                "text": "Well Taco Buenos good",
+                "label": "sv"
+            },
+            {
+                "text": "Oh and and cheap too",
+                "label": "sv"
+            },
+            {
+                "text": "And cheap and cheap",
+                "label": "b^m"
+            },
+            {
+                "text": "Yeah but but the kids theyve got those expensive tastes so uh they like Tias so they can sit down --",
+                "label": "b"
+            },
+            {
+                "text": "Yes yes --",
+                "label": "b"
+            },
+            {
+                "text": "-- and all that good kind of stuff",
+                "label": "+"
+            },
+            {
+                "text": "-- yes Sounds like my grandchildren",
+                "label": "b^r"
+            },
+            {
+                "text": "Yeah I know They they theyre just spoiled rotten but uh but no I uh uh we love to eat out of course its just so much easier and simpler --",
+                "label": "b"
+            },
+            {
+                "text": "Oh yes",
+                "label": "aa"
+            },
+            {
+                "text": "-- yeah So we uh we usually eat out generally two or three times week",
+                "label": "b"
+            },
+            {
+                "text": "Well its just my husband and I and its either dinners at home or we go out to eat",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "And I would much rather go out to eat than dinners",
+                "label": "sd"
+            },
+            {
+                "text": "Oh me too me too So I know uh I I know that I uh you know I just work and Im just tired when I get home and I I just dont feel like cooking",
+                "label": "aa"
+            },
+            {
+                "text": "Oh no no",
+                "label": "aa"
+            },
+            {
+                "text": "And uh you know on the weekends theres always things to do and uh so we like to go out to lunch on Saturdays especially",
+                "label": "sd"
+            },
+            {
+                "text": "I like breakfast out",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I like the IHOP there in Plano",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah now I weve been there twice and and both times I just oh the food just didnt quite settle with me --",
+                "label": "b"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- and I dont know what it was",
+                "label": "sd"
+            },
+            {
+                "text": "Oh now thats surprising --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- because normally theyre just theyre real good",
+                "label": "+"
+            },
+            {
+                "text": "Yes and I love -",
+                "label": "aa"
+            },
+            {
+                "text": "I like because they theyre even if theyre crowded theyre fast service you know --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- um dont have to wait forever for table",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh yeah",
+                "label": "b"
+            },
+            {
+                "text": "And we also like Owens uh --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh family restaurant",
+                "label": "^2"
+            },
+            {
+                "text": "-- country sausa- yeah --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- yeah We think its good",
+                "label": "aa"
+            },
+            {
+                "text": "Now I havent been there befo- I went to one I think in Ohio or or or somewhere up there but Ive never been to that one here I know its just down the street",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Its good",
+                "label": "b"
+            },
+            {
+                "text": "So Now have you been to Applebees",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yes yes",
+                "label": "ny"
+            },
+            {
+                "text": "Yes",
+                "label": "b^m"
+            },
+            {
+                "text": "And we like Applebees",
+                "label": "sd"
+            },
+            {
+                "text": "Yes I I really like that too so that was uh -",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah it its fun I like your up there in Plano that uh Country Steak House",
+                "label": "b"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Have you tried it",
+                "label": "qy"
+            },
+            {
+                "text": "Ive been Ive been there twice uh-huh yeah so -",
+                "label": "na"
+            },
+            {
+                "text": "We like it because its fairly reasonable and they have we go for the salad bar",
+                "label": "sd"
+            },
+            {
+                "text": "Salad bar yes",
+                "label": "b^m"
+            }
+        ]
+    }
+]

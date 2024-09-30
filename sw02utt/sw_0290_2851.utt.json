@@ -1,0 +1,847 @@
+[
+    {
+        "conversation_id": "conv_2851",
+        "turns": [
+            {
+                "text": "All right Well uh quite few and theyre varied They dont uh uh encompass uh many handcrafts like knitting and that kind of thing",
+                "label": "o"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But I do uh quite bit of wreath making and my dogs are my hobbies I do lot of gardening I go to estate sales which takes up lot of time",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Now what do you mostly do",
+                "label": "qo"
+            },
+            {
+                "text": "Well mostly right now Im I do lot of sports and stuff like that is my hobbies and do lot of things with my family as much as possible Were uh were about to take the kids to go roller skating and birthday party and stuff",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "so -",
+                "label": "%"
+            },
+            {
+                "text": "boy",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "That should be fun",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah Fun for them",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah How old are they",
+                "label": "aa"
+            },
+            {
+                "text": "Uh Ive got little girl whos six and little girl thats three",
+                "label": "sd"
+            },
+            {
+                "text": "Well I think thats better than having that party at home",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah Well uh this is friends party and they they rented - or you know they - the party - they uh just rent skates and stuff for the kids",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So uh --",
+                "label": "sd"
+            },
+            {
+                "text": "And",
+                "label": "sd"
+            },
+            {
+                "text": "-- theyre",
+                "label": "+"
+            },
+            {
+                "text": "the --",
+                "label": "+"
+            },
+            {
+                "text": "theyre looking forward to it",
+                "label": "+"
+            },
+            {
+                "text": "-- the the skating rink does the rest practically",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I guess",
+                "label": "+"
+            },
+            {
+                "text": "yeah uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Boy what help that is",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah So uh -",
+                "label": "b"
+            },
+            {
+                "text": "What kind of -",
+                "label": "%"
+            },
+            {
+                "text": "how long have you lived in North Carolina",
+                "label": "qw"
+            },
+            {
+                "text": "Well not that long",
+                "label": "sd"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "Uh just since October We moved here from Enid Oklahoma",
+                "label": "sd"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So uh we are were originally from Virginia this part of the country",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But we did spend twenty years in Norman and Enid --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and loved it",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But we needed to get back uh --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- to our older parents",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But I am loving it The weather is divine",
+                "label": "sd"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "- uh - did you like Oklahoma",
+                "label": "%"
+            },
+            {
+                "text": "Oh yes",
+                "label": "ny"
+            },
+            {
+                "text": "while you were there",
+                "label": "+"
+            },
+            {
+                "text": "Very much Yeah",
+                "label": "sd^e"
+            },
+            {
+                "text": "Um what did you all do",
+                "label": "qw"
+            },
+            {
+                "text": "Well my husband was with uh University of Oklahoma and",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Phillips University in Enid",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And then he went with uh family corporation that had uh has oil and ranching and varied enterprises",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh he just quit perfectly good job and came we came East",
+                "label": "sd"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "So is uh is he working there then or -",
+                "label": "qy"
+            },
+            {
+                "text": "Yes uh-huh Hes doing uh quite bit of consulting work and",
+                "label": "ny"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "has been offered permanent position and hes contemplating -",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "He hes liking this free time actually",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "Its just wonderful after all",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "these years of working",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Well how did how did you get uh hooked up with the I switchboard thing",
+                "label": "b"
+            },
+            {
+                "text": "Um gal who works uh with I on this project",
+                "label": "sd^t"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I think shes temporary worker Uh mother is my best friend",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I see",
+                "label": "b"
+            },
+            {
+                "text": "in Virginia So",
+                "label": "+"
+            },
+            {
+                "text": "I see",
+                "label": "b"
+            },
+            {
+                "text": "we have spread the word little bit in this part of the country",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh - - my wife has talked more than I have uh shes talked to four five different people It seems like she hasnt talked to anybody from Dallas In fact shes talked to couple of people from North Carolina I think",
+                "label": "b"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Uh what is her name",
+                "label": "qw"
+            },
+            {
+                "text": "Her names Tina",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Well I havent talked to her I havent",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I havent talked to Tina yet",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh - - uh the the call was probably for her They wouldnt accept my uh I number so we put hers in But uh uh like I said were getting getting the kids ready to go to the birthday party",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "so -",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But uh some of - yeah I Ive only talked to one or two and theyve theyve all been in Dallas But she hasnt talked to anybody",
+                "label": "%"
+            },
+            {
+                "text": "Yeah Yeah",
+                "label": "b"
+            },
+            {
+                "text": "in Dallas yet So thats interesting",
+                "label": "+"
+            },
+            {
+                "text": "Well you havent told me uh what sports that you are active in",
+                "label": "ad"
+            },
+            {
+                "text": "Well the sport I like best probably is basketball But uh I guess Im probably better at softball And so Id - like during the summer months its occupies quite bit of my",
+                "label": "sd"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "time But I play in couple of leagues and and occasionally in tournament or something on weekend But my family usually goes with me We try to do everything we can together",
+                "label": "+"
+            },
+            {
+                "text": "Well I think thats uh easy entertainment for",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "family too",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Well they uh - good friend of mine that plays on one of my teams we uh - thats usually the team I play on with the tournaments and stuff and they have couple of kids that are almost my kids age So they play together",
+                "label": "b"
+            },
+            {
+                "text": "Under the stands",
+                "label": "^2"
+            },
+            {
+                "text": "pretty well and -",
+                "label": "+"
+            },
+            {
+                "text": "Under the",
+                "label": "^2"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "bleachers",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "slash error",
+                "label": "x@"
+            },
+            {
+                "text": "pretty much And uh Tina enjoys uh the other lady",
+                "label": "aap"
+            },
+            {
+                "text": "uh-huh slash error should be",
+                "label": "+@"
+            },
+            {
+                "text": "real well So they - you know thats kind of nice Its like getting together with",
+                "label": "+"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "them",
+                "label": "+"
+            },
+            {
+                "text": "Well its getting",
+                "label": "qy^g"
+            },
+            {
+                "text": "So to speak",
+                "label": "na"
+            },
+            {
+                "text": "little hot isnt it It -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Well its been raining lot here so far So we havent really had any kind of real heat I think its going to be warm enough this afternoon we were noticing while ago its already eighty in in the house So it looks like an air conditioner",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "day But -",
+                "label": "+"
+            },
+            {
+                "text": "It sure does Or maybe this evening anyway",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah It - yeah but you know Im sure youre familiar with that living",
+                "label": "b"
+            },
+            {
+                "text": "Very",
+                "label": "aa"
+            },
+            {
+                "text": "here",
+                "label": "+"
+            },
+            {
+                "text": "much so",
+                "label": "+"
+            },
+            {
+                "text": "We go we go through Enid you know quite bit We go to Tulsa from time to time And my my parents live in southern Illinois So we drive",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "up there And well - lot of times we take seventy-five and uh it seems like seems like that goes through Enid",
+                "label": "+"
+            },
+            {
+                "text": "No",
+                "label": "ar"
+            },
+            {
+                "text": "I know",
+                "label": "+"
+            },
+            {
+                "text": "No it doesnt",
+                "label": "ar"
+            },
+            {
+                "text": "Ive either seen the signs or -",
+                "label": "sd"
+            },
+            {
+                "text": "Enid is uh - its in the northwest Its uh directly across the straight uh state from Tulsa Uh",
+                "label": "%"
+            },
+            {
+                "text": "Um I know Ive seen",
+                "label": "sd"
+            },
+            {
+                "text": "Sure you have",
+                "label": "aa"
+            },
+            {
+                "text": "the sign somewhere",
+                "label": "+"
+            },
+            {
+                "text": "Yes Well Enid is",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "not uh an unknown little city It uh -- -",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- an awful lot of people know where it is or have been there And it",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "was uh very uh self-sufficient uh wealthy uh town",
+                "label": "+"
+            },
+            {
+                "text": "Uh",
+                "label": "b"
+            },
+            {
+                "text": "for long time anyway You know",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "until uh everything happened the bottom fell out But -",
+                "label": "+"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "its beginning to do well But theres lot of uh old time wealth there that",
+                "label": "sd"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "has helped to stabilize things",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh So uh how - - you said youve just lived in North Carolina just like",
+                "label": "b"
+            },
+            {
+                "text": "Si- -",
+                "label": "no"
+            },
+            {
+                "text": "six months then is -",
+                "label": "+"
+            },
+            {
+                "text": "Yes Something like that",
+                "label": "ny"
+            },
+            {
+                "text": "And you really like",
+                "label": "qy^g"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "it there huh Ive heard so many people talk about that area - Ive never been there --",
+                "label": "+"
+            },
+            {
+                "text": "Well --",
+                "label": "sd"
+            },
+            {
+                "text": "-- but they sure",
+                "label": "x"
+            },
+            {
+                "text": "-- its its",
+                "label": "+"
+            },
+            {
+                "text": "say its pretty",
+                "label": "+"
+            },
+            {
+                "text": "pretty The weather is wonderful Uh this winter we - it was just - we had so many wonderful days And -",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "uh I - if it got to be forty degrees I decided it was too cold to to walk the dogs Isnt it",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "funny how how",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "your standards change",
+                "label": "+"
+            },
+            {
+                "text": "Yeah It really does My wife and I spent couple years uh doing church work up in the state of Washington right",
+                "label": "ny"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "on the coast And it rains",
+                "label": "+"
+            },
+            {
+                "text": "Sure",
+                "label": "ba"
+            },
+            {
+                "text": "you know lot there But you get used to it I mean its like fine mist all the time and it doesnt really - it gets to where it doesnt bother",
+                "label": "+"
+            },
+            {
+                "text": "Well",
+                "label": "sd"
+            },
+            {
+                "text": "you",
+                "label": "+"
+            },
+            {
+                "text": "Carolina this part is very much like that too Very two utts",
+                "label": "sd@"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "foggy and",
+                "label": "+"
+            },
+            {
+                "text": "It -",
+                "label": "%"
+            },
+            {
+                "text": "misty The moss grows",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "on the trees in the woods up",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "eight ten",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "feet",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Thats the way it is was there too",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah I think however thats like February Uh I know it did it all February And some people said to me Well thats our wintertime",
+                "label": "b"
+            },
+            {
+                "text": "Oh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Well I know you",
+                "label": "sv"
+            },
+            {
+                "text": "But -",
+                "label": "%"
+            },
+            {
+                "text": "need to go And Ive enjoyed talking to you",
+                "label": "+"
+            },
+            {
+                "text": "Well I have enjoyed talking to you too It was nice",
+                "label": "fc"
+            },
+            {
+                "text": "Thanks so much",
+                "label": "fc"
+            },
+            {
+                "text": "to talk to you",
+                "label": "+"
+            },
+            {
+                "text": "Have -",
+                "label": "%"
+            },
+            {
+                "text": "I hope you enjoy",
+                "label": "fc"
+            },
+            {
+                "text": "Oh thank you",
+                "label": "fc"
+            },
+            {
+                "text": "North Carolina",
+                "label": "+"
+            },
+            {
+                "text": "And I hope you enjoy",
+                "label": "fc"
+            },
+            {
+                "text": "slash error",
+                "label": "x@"
+            },
+            {
+                "text": "and get through that birthday party",
+                "label": "+"
+            },
+            {
+                "text": "Yeah slash error Well I hope",
+                "label": "+@"
+            },
+            {
+                "text": "Yeah I do",
+                "label": "fc"
+            },
+            {
+                "text": "I live through it",
+                "label": "+"
+            },
+            {
+                "text": "too",
+                "label": "+"
+            },
+            {
+                "text": "Thats what I hope Okay Thanks lot",
+                "label": "fc"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc"
+            },
+            {
+                "text": "Good-bye",
+                "label": "fc"
+            }
+        ]
+    }
+]

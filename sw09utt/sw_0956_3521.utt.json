@@ -1,0 +1,403 @@
+[
+    {
+        "conversation_id": "conv_3521",
+        "turns": [
+            {
+                "text": "So - are you news person",
+                "label": "qy"
+            },
+            {
+                "text": "Uh I really am I enjoy I enjoy listening to the news and getting as much as I can Although you know Im full time student and I work full time too so or not full time but I work quite bit and so --",
+                "label": "na"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "-- so I mostly depend on the radio you know on the way to work I like I like to listen to national public radio uh all things considered",
+                "label": "+"
+            },
+            {
+                "text": "Yes great show",
+                "label": "b"
+            },
+            {
+                "text": "Yeah and I like to listen to that and catch you know - I dont get I dont get lot of uh sometimes I dont get the current events you know Because that show kind of has feature stories that might not directly deal with uh you know some important issue on the day But -",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah so so the real the real current news and the hard news --",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "-- is is not there is not really enough of it there",
+                "label": "+"
+            },
+            {
+                "text": "Right thats right yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah Ive had Ive had that frustration too I --",
+                "label": "b^m"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- end up switching stations from time to time",
+                "label": "+"
+            },
+            {
+                "text": "Yeah you you li- you like - uh programming",
+                "label": "b"
+            },
+            {
+                "text": "Uh in general",
+                "label": "na"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Uh I --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- watch lot of --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh and SPAN",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh I I subscribe to three newspapers",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh you know I sort of cant get enough of this",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And and I when I travel elsewhere Im often amazed at the local papers how little they have",
+                "label": "sd"
+            },
+            {
+                "text": "- - - -",
+                "label": "%"
+            },
+            {
+                "text": "Of world world events --",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and national events",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "Well in in Dallas what are the what is the newspaper situation",
+                "label": "qw"
+            },
+            {
+                "text": "Well we - we we have big newspaper situation Uh because we used to have two newspapers up until uh last Sunday and uh major uh one of our major papers just closed down They closed shop and said well we cant put any more papers out were done",
+                "label": "sd"
+            },
+            {
+                "text": "Was was that the the better paper or -",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah I thought so It was it was more effective paper as far as I was concerned It it had uh uh it got to the news you know and gave you the dirty facts pretty quick and easy",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh which I like I dont I dont like to you know I like to save the editorial information or the the politically uh weighted information you know for the for different section I like just to get to the you know find out whats happening --",
+                "label": "+"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "-- pretty quick And I feel that the other newspaper uh - the - the DALLAS MORNING NEWS is the one thats still here The TIMES HERALD is the one that closed up",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh the the MORNING NEWS was was i- is okay but you know you have to wade through lot of editorial garbage as far as Im concerned",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know many times it doesnt doesnt reflect my own opinion and -",
+                "label": "sd"
+            },
+            {
+                "text": "But if you if you were to look at the front page of todays MORNING NEWS --",
+                "label": "qy"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- MORNING TIMES rather - would you would you see things about what is going on in Europe",
+                "label": "+"
+            },
+            {
+                "text": "No no thats the problem",
+                "label": "nn"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "But - you know you see you see Troy Aikmans knee surgery on the front page you know",
+                "label": "sv"
+            },
+            {
+                "text": "Whoever Troy Aikman is",
+                "label": "qw^d"
+            },
+            {
+                "text": "Yeah quarterback for the Broncos or for the for the Cowboys",
+                "label": "b"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "Uh you know you know you know what I mean --",
+                "label": "qw"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "-- that there is uh local news that uh that really lot of times doesnt doesnt change change my life one way or the other",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So uh -",
+                "label": "%"
+            },
+            {
+                "text": "I guess its current events but not the kind of current events that changes the world",
+                "label": "sv"
+            },
+            {
+                "text": "Right right yeah Not something youll youll uh be interested in ten years from now by any means",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know How how about you Uh I guess in Washington you guys have several papers that are pretty --",
+                "label": "+"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "-- pretty effective --",
+                "label": "+"
+            },
+            {
+                "text": "lot of them",
+                "label": "sd^e"
+            },
+            {
+                "text": "-- dont you",
+                "label": "+"
+            },
+            {
+                "text": "I I rather like the WASHINGTON POST",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But I also get the NEW YORK TIMES and the WALL STREET JOURNAL",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh and uh each of them covers different things in in dif- dif- --",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- in different ways and so its you know if I only looked at one of them I would have different perspect- clearly would have different perspective on the world",
+                "label": "+"
+            },
+            {
+                "text": "Right yeah Uh I I have question Uh does does the WALL STREET JOURNAL uh - I Ive kind of gathered lately that uh maybe their information is not just only related to business Is that is that correct assumption",
+                "label": "aa"
+            },
+            {
+                "text": "That that is certainly true",
+                "label": "na"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh they will they will have articles - like few days ago they had nice article on Einstein you know --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "-- theory of relativity",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "You know that started on the front page ran in into the full almost full page inside",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Now these are feature kind of articles",
+                "label": "sd"
+            },
+            {
+                "text": "Wow",
+                "label": "ba"
+            },
+            {
+                "text": "All the all the uh you know the bulk of the paper certainly is about business kinds of activities",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "But but there is some very good other articles --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh youll find in the in the JOURNAL",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh Do you find that youre uh uh disappointed or pleased with uh uh the performance of like network coverage of news",
+                "label": "b"
+            },
+            {
+                "text": "Uh I wish it were in more depth",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh that doesnt mean to say longer just more facts would be nice",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh has has you know was was pretty good during the war",
+                "label": "sv"
+            },
+            {
+                "text": "Oh yeah definitely",
+                "label": "aa"
+            },
+            {
+                "text": "Uh and they were you know sort of had unique vantage point for for doing that reporting",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So but you know its not its never quite -",
+                "label": "%"
+            }
+        ]
+    }
+]

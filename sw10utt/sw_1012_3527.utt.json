@@ -1,0 +1,547 @@
+[
+    {
+        "conversation_id": "conv_3527",
+        "turns": [
+            {
+                "text": "Okay do do you have home or apartment",
+                "label": "o"
+            },
+            {
+                "text": "uh-huh I have home",
+                "label": "ny"
+            },
+            {
+                "text": "Okay do you have to do lot of upkeep",
+                "label": "bk"
+            },
+            {
+                "text": "Not really we have small backyard and small front yard --",
+                "label": "ng"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but uh uh I do basically like the shrubbery and the planting and the weeding and he mows the lawn because the lawn mower is too heavy Thats another story",
+                "label": "sd"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "And uh and uh I do the edging and stuff like that but uh it doesnt take us that long because our our yard is so small",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But uh I try and do as much you know flowering as I can and --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- that kind of stuff",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "The seasonal things",
+                "label": "+"
+            },
+            {
+                "text": "Yeah uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But uh I think we have one of the nicest yards in the in the neighborhood",
+                "label": "sd"
+            },
+            {
+                "text": "Well thats nice I wish I could say that Ours is pretty small too but it it takes about an hour with the two of us working --",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- to you know do the bushes and all of that sort of thing",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Uh the worst part is controlling the weeds",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "Which I hate because we dont like to use lot of the chemicals and because like we have dog and and you know hes going to be out in the yard and who knows who he eats out there",
+                "label": "+"
+            },
+            {
+                "text": "Thats true",
+                "label": "ba"
+            },
+            {
+                "text": "But we try not to use them but we end up using some anyway Uh um what else I get to put out all the Christmas lights out there and all that sort of thing",
+                "label": "sd"
+            },
+            {
+                "text": "I dont",
+                "label": "sd"
+            },
+            {
+                "text": "No",
+                "label": "bh"
+            },
+            {
+                "text": "No he does that",
+                "label": "nn"
+            },
+            {
+                "text": "Oh okay Well if they if they go up - like one year we --",
+                "label": "bk"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- did the edge of the house --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- all the way up on the roof and I --",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b@"
+            },
+            {
+                "text": "-- I went up on the roof once and Ill never do it again",
+                "label": "+"
+            },
+            {
+                "text": "Oh God",
+                "label": "+@"
+            },
+            {
+                "text": "I decided I was afraid",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Dont blame you",
+                "label": "b"
+            },
+            {
+                "text": "So this year he got lazy so I said fine Ill put some on the bushes And thats about it thats all --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- it gets",
+                "label": "+"
+            },
+            {
+                "text": "Huh okay we dont have that many bushes to put them on Uh our our yard is very uh narrow --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and so we have some bushes but we dont have too many but we have nice tree in the front and --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh we have people that an association that comes and mows everybodys front yard --",
+                "label": "+"
+            },
+            {
+                "text": "Oh wow",
+                "label": "ba"
+            },
+            {
+                "text": "-- and uh they keep hitting it the tree with the lawn mower",
+                "label": "sd"
+            },
+            {
+                "text": "Oh no",
+                "label": "ba"
+            },
+            {
+                "text": "You know every time you do that it uh kind of kills the tree for while",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And so thats kind of stunt its growth for just while until we get it back going again",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "And we started mowing our own lawn --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- because they were doing that And so anyways I have nice full tree now and and we put we fill it with lights and --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- that kind of thing",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "And they would uh they also edged - when they would edge in into the shrubbery and --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh no",
+                "label": "ba@"
+            },
+            {
+                "text": "-- oh gosh it was getting really bad so we -",
+                "label": "+"
+            },
+            {
+                "text": "But you still have to pay for it though even though theyre not going to do it",
+                "label": "+"
+            },
+            {
+                "text": "Yeah because its an association fee",
+                "label": "ny"
+            },
+            {
+                "text": "Oh is it real expensive",
+                "label": "qy"
+            },
+            {
+                "text": "Yes --",
+                "label": "ny"
+            },
+            {
+                "text": "Oh gosh",
+                "label": "ba"
+            },
+            {
+                "text": "-- its like seventy month",
+                "label": "sd"
+            },
+            {
+                "text": "Oh my goodness",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah and I dont like - I I just get really upset every time I make that check out",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But uh -",
+                "label": "%"
+            },
+            {
+                "text": "Well do do they do other things for you all",
+                "label": "qy"
+            },
+            {
+                "text": "They take care of the uh landscape because we live in cul-de-sac and there is island in the middle --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- so they care of that and there is pool and they take care of the pool --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and and there is pond they take care of the pond in the park area and that kind of thing",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh so youre basically paying oh - and the sprinkler system that - that - our yard doesnt have sprinkler system but the island does and uh --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- certain sharing areas have sprinkler systems and --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and so that way if someone moves out the entire neighborhood is mowed and watered and that kind of thing you know",
+                "label": "+"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "But you knew when you moved in youd have to pay that didnt you",
+                "label": "qy^g"
+            },
+            {
+                "text": "Well it it it went up what we pay",
+                "label": "na"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "And thats the bad thing I just hope it doesnt go up any more because --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- we just cant afford it anymore I dont know what to do if you cant afford it",
+                "label": "+"
+            },
+            {
+                "text": "I dont know either Thats interesting",
+                "label": "ba"
+            },
+            {
+                "text": "So uh but theyre - thats what they do They take care of basically the front yards and --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- unless you dont want them to do it",
+                "label": "+"
+            },
+            {
+                "text": "Now do at - do things like plant bushes and trees",
+                "label": "%"
+            },
+            {
+                "text": "They - - only in like in the common areas and in the island",
+                "label": "%"
+            },
+            {
+                "text": "Oh okay",
+                "label": "bk"
+            },
+            {
+                "text": "But they dont do it in your yard",
+                "label": "sd"
+            },
+            {
+                "text": "So there is like no restriction on what types of bushes you can have or anything like that",
+                "label": "qy"
+            },
+            {
+                "text": "Right uh-huh yeah so weve added bushes and and shrubbery too",
+                "label": "na"
+            },
+            {
+                "text": "uh-huh Yeah when we moved into our house I just hated the bushes they had I I ripped most of them out and put them somewhere in the back",
+                "label": "b"
+            },
+            {
+                "text": "I know",
+                "label": "ba"
+            },
+            {
+                "text": "And put new ones out front But that was lot of work",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Took me long time",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah thats what we did when we first moved in too",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Just rearranged some things",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah and then then we put in sprinkler system and",
+                "label": "b"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "We wont go through that again I will pay someone to do it",
+                "label": "+"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "Oh it took so long",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Because my husband was you know digging the trenches because he didnt want to get trencher you know there is machine that will --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- do it Because you know there is so many people that broke either their water main or their gas main doing it And --",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- I guess that costs you an absolute fortune",
+                "label": "+"
+            },
+            {
+                "text": "Thats true so gosh you did it manually",
+                "label": "aa"
+            },
+            {
+                "text": "By hand",
+                "label": "sd"
+            },
+            {
+                "text": "Oh Oh gosh",
+                "label": "b"
+            },
+            {
+                "text": "Yeah but it works great now that weve got it",
+                "label": "b"
+            },
+            {
+                "text": "I bet",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah its nice",
+                "label": "b"
+            },
+            {
+                "text": "Yeah thats good investment there",
+                "label": "b"
+            },
+            {
+                "text": "Yeah well we needed to because were having some foundation trouble you know you have to keep the the area moist --",
+                "label": "b"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- around the house or it makes it worse so we had an incentive there --",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- to do that",
+                "label": "+"
+            }
+        ]
+    }
+]

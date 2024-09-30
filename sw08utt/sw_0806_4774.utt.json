@@ -1,0 +1,379 @@
+[
+    {
+        "conversation_id": "conv_4774",
+        "turns": [
+            {
+                "text": "Been on the line for awhile I almost forgot what the topic was",
+                "label": "sd^t"
+            },
+            {
+                "text": "Okay Uh based -",
+                "label": "b"
+            },
+            {
+                "text": "Uh but I know what it is",
+                "label": "sd^t"
+            },
+            {
+                "text": "Oh okay Good",
+                "label": "b"
+            },
+            {
+                "text": "Uh let me see I I I I Im kind of - I dont - you know Im Im kind of in the middle I I think its great idea --",
+                "label": "^h"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but when it comes to me its like almost an insult you know so its - I Ive come from the teaching field",
+                "label": "sv"
+            },
+            {
+                "text": "Right So do I",
+                "label": "aa"
+            },
+            {
+                "text": "So so its just like I dont know I I guess I guess Id have to go with uh - I I Id be for it",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know But uh you know I I I dont know Its just kind of kind of delicate subject I guess But I I I would I would probably go for for going ahead and doing it you know If its got to be done for everyone",
+                "label": "+@"
+            },
+            {
+                "text": "Right I think if its got to be done for one person in the company it should be random testing it should be for everybody",
+                "label": "aa"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "You know when they answer the company I think itll make it lot easier --",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- and theyd run into less problems",
+                "label": "sv@"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Because uh - I dont know I come from the teaching field too and it sort of uh - its pro and con ty- - I dont know where to stand on it",
+                "label": "+@"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Im more or less if they told me I had to well then fine but --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- if you know if they made me then Id probably - if I had my druthers Id probably say well no you know just this -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah You kind of goes into your privacy and --",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "aa"
+            },
+            {
+                "text": "-- you know but I guess if they - you know you know theres uh - I guess theres some companies that arent that are doing it",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And it it seems to be working out so -",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah I think its its what theyre basically trying to do I dont know up here in Massachusetts anyhow what theyre basically trying to do is uh oh gosh uh any people who had di- tested positively getting them into drug program",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Or rehab program",
+                "label": "+@"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And uh anybody who uh gee is you know di- doesnt accept the rehab program then theyre more or less getting laid off",
+                "label": "sd"
+            },
+            {
+                "text": "See thats hard",
+                "label": "by"
+            },
+            {
+                "text": "I I think thats really hard to because you know you never know I dont know it - thats - its really weird issue Im sort of --",
+                "label": "o@"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- on the fence about it",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But I - you know that thats whats theyre coming across as is some of the companies anyhow Oh we can get you into drug program But then you wear that stigma --",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- you know",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Where uh like lot of people are saying well I only smoked joint last night I dont have any problems you know",
+                "label": "sv(^q)@"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Or something like that yeah",
+                "label": "+@"
+            },
+            {
+                "text": "Then I kind of hear it goes into like uh - this is just something Ive heard that it kind of goes into like uh just your off the counter medication that you could be taking for cold That it kind of affects that too",
+                "label": "sd"
+            },
+            {
+                "text": "Right Anything with an- - you know if you drink lot of caffeine or -",
+                "label": "aa"
+            },
+            {
+                "text": "Oh I didnt know that",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah somebody was saying telling me if you drink it in you know an awful lot of caffeine that that can show up as positive test",
+                "label": "b"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "I know Im an epileptic so Id probably test positive and --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah See things like that so -",
+                "label": "aa"
+            },
+            {
+                "text": "-- and then Id have heck of time explaining what drug is in my system you know",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And lot of times those are the things I dont like to disclose to an employer because then they dont want to have anything to do with you",
+                "label": "sv"
+            },
+            {
+                "text": "Right right uh-huh",
+                "label": "aa"
+            },
+            {
+                "text": "You know its very personal I wouldnt want to have it disclosed because --",
+                "label": "sd"
+            },
+            {
+                "text": "See thats -",
+                "label": "%"
+            },
+            {
+                "text": "-- then Id always wonder if they fired me you know why did you fire me",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Thats where I kind of get into - cause it kind of gets into your personal life you know And --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- wha- whats kind of next",
+                "label": "+"
+            },
+            {
+                "text": "Yeah It it hits me as the Orwell thing Big brother is watching",
+                "label": "b"
+            },
+            {
+                "text": "The what",
+                "label": "br^m"
+            },
+            {
+                "text": "Orwell",
+                "label": "sd^r"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "And you know his book Brig big brother is watching",
+                "label": "o@"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "You know youre being controlled",
+                "label": "sd@"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "That type of deal and I sh- - I dont really you know I dont know Seems awful strange Id hate to have to - if I had my choice between company that did testing and company who didnt --",
+                "label": "+@"
+            },
+            {
+                "text": "Right",
+                "label": "aa"
+            },
+            {
+                "text": "-- Id probably take the company who didnt",
+                "label": "+@"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Because I feel thered be more trust in the employee",
+                "label": "+@"
+            },
+            {
+                "text": "Right",
+                "label": "aa"
+            },
+            {
+                "text": "But I can understand why they need it with all the you know train accidents and everything else",
+                "label": "sd"
+            },
+            {
+                "text": "So do you think theyll kind of push into the teaching field eventually I kind of think they will",
+                "label": "qy"
+            },
+            {
+                "text": "I think they will too because uh you know its just going to follow",
+                "label": "na"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I dont know I we havent had any of it in our school system So uh you know --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah We havent either",
+                "label": "b"
+            },
+            {
+                "text": "-- hopefully we wont",
+                "label": "+"
+            },
+            {
+                "text": "Yeah But I I I just kind of think its heading that way though you know Its just because its just hitting to close to home with the kids and stuff and I just --",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- I just kind of think its going to eventually head that way",
+                "label": "+"
+            },
+            {
+                "text": "Well and eventually its going to be not only the tea- - you know the kids are --",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- going to be under scrutiny its going to be the teachers",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And if they can test the teachers that gives them the full right to test the kids",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And then they you know caught everybody",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            }
+        ]
+    }
+]

@@ -1,0 +1,419 @@
+[
+    {
+        "conversation_id": "conv_2992",
+        "turns": [
+            {
+                "text": "Well I know that uh - I have only like two or three favorite television shows",
+                "label": "o"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I think one of my favorite then is from the guy Stephen is it Brochco who does like LAW --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh-huh and uh he also did HILLSTREET BLUES",
+                "label": "b^m"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I like those type of shows",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah we really enjoy that too",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh I dont get lot to watch whole lot of We have couple of young children and so --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- were usually outside and so its usually the nine oclock shows that if we get them in bed we usually watch that and LAW is one of my favorites",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah me too I know they uh I think theyre different than lot of other shows of which they have like the re runs in the middle of the season --",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and then towards the end when everybody else is showing reruns they start showing some of their newer stuff",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So I thought that was really interesting the way that they did that Oh and so you must watch lot of uh Disney or cartoons then",
+                "label": "sv"
+            },
+            {
+                "text": "Well we have on SESAME STREET and MISTER ROGERS that kind of stuff and I think those programs are really good for children I know that both of mine have probably learned quite bit from there",
+                "label": "no"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Its kind of nice to know that theyre just going to be seeing you know not lot of violence and that kind of stuff --",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- and they usually uh show lot of things that really teach them different things about the world So -",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "My so- older son hes going to be five and hes more into watching the cartoons and that kind of stuff now",
+                "label": "sd"
+            },
+            {
+                "text": "Oh thats true thats true Well I noticed that my kids are uh older now theyre --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh getting close to the teenage years But they did - we watched all of MISTER ROGERS and everything but even some of your uh cartoons can be very violent --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and you know they talk about death and we were watching uh oh gosh BUGS BUNNY just last night --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and um I think it was on I have to remember which channel but anyway uh we were watching that and it was talking about opera and they showed like what they thought an opera would be and one of the things was to kill the rabbit kill the rabbit --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- and I thought Oh how violent you know to kill the rabbit So he ended up killing the rabbit in the end uh but then of course the rabbit comes back to life and says well see this is how an opera is supposed to be And I thought gee whiz if little kid was watching this you know that would be pretty violent even for small child",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Well yeah and you know they especially boys I mean theyre always talking about shooting and killing and all that kind of stuff --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and I dont think that they really realize that death is forever you know",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And showing them something like that really doesnt --",
+                "label": "sv"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "-- teach them that it is",
+                "label": "+"
+            },
+            {
+                "text": "Thats right Well I dont think cartoons portray that but like -",
+                "label": "aa^r"
+            },
+            {
+                "text": "No and to get them to feel like that thats just pretend I think --",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- is the hardest part you know",
+                "label": "+"
+            },
+            {
+                "text": "Yeah cat has nine lives --",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- but they dont they just have one like we do Oh so thats really funny but uh --",
+                "label": "ar"
+            },
+            {
+                "text": "Uh- -",
+                "label": "b"
+            },
+            {
+                "text": "-- weve gotten - uh-huh go ahead",
+                "label": "+"
+            },
+            {
+                "text": "I was just going to say I know that at least before our kids were born we used to always enjoy watching the COSBY SHOW Thursday nights usually had pretty good with that and as far as very good comedy",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I like to watch DESIGNING WOMEN if the kids --",
+                "label": "sd"
+            },
+            {
+                "text": "Yes",
+                "label": "aa"
+            },
+            {
+                "text": "-- are in bed by then",
+                "label": "+"
+            },
+            {
+                "text": "Yes yeah thats true thats good show I used to watch uh DALLAS I dont I dont know where youre at -- should be slash unit because orients to it and following utt by couldnt be made without info from",
+                "label": "aa^r"
+            },
+            {
+                "text": "Were were in Dallas",
+                "label": "sd"
+            },
+            {
+                "text": "-- Dallas yeah I used to watch DALLAS years ago And somewhere in the middle I got uh bored and uh so I in fact I didnt even watch the finale Uh you know thats about how disinterested I had become",
+                "label": "+@"
+            },
+            {
+                "text": "Yes Well I did watch it just to see what it was --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and it wasnt really that great So -",
+                "label": "sv"
+            },
+            {
+                "text": "Well actual- -",
+                "label": "%"
+            },
+            {
+                "text": "I think",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "after while they just kind of you know theres no new stuff they can do theyve done everything dirty in the book --",
+                "label": "+"
+            },
+            {
+                "text": "Yep",
+                "label": "b"
+            },
+            {
+                "text": "-- you know so -",
+                "label": "+"
+            },
+            {
+                "text": "Yep I know I know Was it actually based on book",
+                "label": "aa"
+            },
+            {
+                "text": "Well no I imagine -",
+                "label": "nn"
+            },
+            {
+                "text": "Oh but you were just talking about - okay okay",
+                "label": "sd"
+            },
+            {
+                "text": "Everything you could think of you know --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah right",
+                "label": "b"
+            },
+            {
+                "text": "-- had hard time and I think maybe with DALLAS as far as they lost lot of characters that had been around at the first",
+                "label": "+"
+            },
+            {
+                "text": "Thats true thats true",
+                "label": "aa"
+            },
+            {
+                "text": "Where - I dont know I never watched KNOTS LANDING but I think theyve had lot of their characters stay around",
+                "label": "%"
+            },
+            {
+                "text": "Stay uh-huh uh-huh You know and if you notice on DALLAS they lost all the women",
+                "label": "b^m"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Yes So the men mainly stayed but the women were the ones who left and I thought that was very interesting and wondered kind of wondered about that Uh well anyway thats whole new issue",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Oh",
+                "label": "aa"
+            },
+            {
+                "text": "Oh goodness so Anyway I dont know if our five minutes are over yet But we uh we also have the paid uh television channels Uh the only thing I dont like about it especially with teenagers is that all the violence the sex the nudity and the curse words --",
+                "label": "ba"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know And so I know they didnt pick up these curse words from me So uh they had to have picked them up from uh the",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "One nice thing though about the cable company we use they have uh they have that little parental uh uh key",
+                "label": "sv"
+            },
+            {
+                "text": "Where you can lock up",
+                "label": "br"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "the channel or whatever",
+                "label": "+"
+            },
+            {
+                "text": "Yeah uh-huh So I I have that at home and I keep the keys with me",
+                "label": "ny^r"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And thats about the only way that I can that I can do it Because their natural curiosity you know to go towards that way and want -- -",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- yeah",
+                "label": "b^m"
+            },
+            {
+                "text": "And I dont know the way the generations are growing up now I mean I just think they watch so much more I try to limit what they watch They arent sitting in the house watching all day --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- because I think its good for them to have physical activity and that kind of stuff too",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And especially in the summer time we arent in the house very much in the evenings Its the only cool time to be outside",
+                "label": "sd"
+            },
+            {
+                "text": "Thats true well and here lately it hasnt been that cool anyway with the humidity being so high",
+                "label": "aa"
+            },
+            {
+                "text": "Well true",
+                "label": "aa"
+            },
+            {
+                "text": "Well it was nice talking to you",
+                "label": "fc"
+            },
+            {
+                "text": "Well it was nice talking to you too",
+                "label": "fc"
+            },
+            {
+                "text": "Okay talk with you later",
+                "label": "fc"
+            },
+            {
+                "text": "Okay Good-bye",
+                "label": "fc"
+            },
+            {
+                "text": "Good-bye",
+                "label": "fc"
+            }
+        ]
+    }
+]

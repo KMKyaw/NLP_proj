@@ -1,0 +1,815 @@
+[
+    {
+        "conversation_id": "conv_2482",
+        "turns": [
+            {
+                "text": "Uh so you have children I take it",
+                "label": "qy^d"
+            },
+            {
+                "text": "No I dont",
+                "label": "nn"
+            },
+            {
+                "text": "You dont",
+                "label": "qy"
+            },
+            {
+                "text": "No huh-uh",
+                "label": "nn"
+            },
+            {
+                "text": "So its not very valid topic",
+                "label": "bf"
+            },
+            {
+                "text": "No its not Do you have children",
+                "label": "aa"
+            },
+            {
+                "text": "Uh yes",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "One",
+                "label": "sd"
+            },
+            {
+                "text": "One",
+                "label": "b^m"
+            },
+            {
+                "text": "Stepdaughter",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Ten",
+                "label": "sd"
+            },
+            {
+                "text": "Ten",
+                "label": "b^m"
+            },
+            {
+                "text": "And uh you know how they are at that age I guess you having been ten once yourself",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah Once upon time I was Well I have two dogs those are my kids",
+                "label": "aa"
+            },
+            {
+                "text": "Oh we have one",
+                "label": "sd"
+            },
+            {
+                "text": "What kind is it",
+                "label": "qw"
+            },
+            {
+                "text": "Keeshonden",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "fuzzy little thing",
+                "label": "sd"
+            },
+            {
+                "text": "what",
+                "label": "br"
+            },
+            {
+                "text": "fuzzy little dog",
+                "label": "sd^r"
+            },
+            {
+                "text": "Yeah yeah theyre cute",
+                "label": "aa"
+            },
+            {
+                "text": "Rather rather odd personality he hes fun",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Anyway uh time we spend with our children",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "It seems almost as though children hate it",
+                "label": "sv"
+            },
+            {
+                "text": "Do they",
+                "label": "qy"
+            },
+            {
+                "text": "Yes Time spent with Mom and Dad is uh next is probably one of the worst punishments spent on earth to them",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah especially when they get like into the teenage stage",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I guess Yeah I remember when I was that age",
+                "label": "h"
+            },
+            {
+                "text": "They you know - parents are curse that they just have to live with",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So it its interesting",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But we do spend time driving in the mountains and -",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Oh how nice I would love to live up there",
+                "label": "b"
+            },
+            {
+                "text": "Well Do you work for I",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Youre working then",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "With every passing day we wonder if we will be",
+                "label": "sd"
+            },
+            {
+                "text": "Thats what I heard Ive always thought about maybe transferring up there and I thought if I do that I might not have job so -",
+                "label": "sd"
+            },
+            {
+                "text": "Its its better to be employed",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "aa"
+            },
+            {
+                "text": "Especially these days where there is not job right around the corner",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh I know it",
+                "label": "aa"
+            },
+            {
+                "text": "And that creates family tensions",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah Yeah Im sure it does So you only have the you only have the stepdaughter at home",
+                "label": "aa"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "You all dont have any other children around there",
+                "label": "qy^d"
+            },
+            {
+                "text": "No no I dont have any an- children",
+                "label": "nn"
+            },
+            {
+                "text": "uh-huh So how does she feel about going out and doing stuff with you all",
+                "label": "b"
+            },
+            {
+                "text": "Uh well it varies what it is of course but usually Mom and Dad are curse",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know they theyd much rather be with friends",
+                "label": "sv"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "ba"
+            },
+            {
+                "text": "friends are cool parents arent",
+                "label": "sv"
+            },
+            {
+                "text": "No huh-uh",
+                "label": "aa"
+            },
+            {
+                "text": "Well I remember - well Im sure part of it is male female thing you know",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I I remember whenever I was growing up often times spent with my Dad was oh just wonderful you know go",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "go hunting or go to the races",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "or or oh any number of things",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And wed have um great times",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "ba"
+            },
+            {
+                "text": "and it seems that well now the banks not available",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Um",
+                "label": "b"
+            },
+            {
+                "text": "And entirely too much time is spent - my wife and I were wondering what if",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "+"
+            },
+            {
+                "text": "and and what ifs always rough",
+                "label": "sv"
+            },
+            {
+                "text": "Oh yeah Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "But you know we do have our trips and we do have our fun and",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I dont know little girls arent interested in lot of the same things little boys are or were",
+                "label": "+"
+            },
+            {
+                "text": "Like fishing and -",
+                "label": "bf"
+            },
+            {
+                "text": "Hunting and and",
+                "label": "^2"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Looking for arrowheads and -",
+                "label": "+"
+            },
+            {
+                "text": "My husband will say that hed like to have little boy to take hunting and fishing and I said well you can take little girl hunting and fishing just as easily",
+                "label": "sd"
+            },
+            {
+                "text": "Uh but they dont like it",
+                "label": "sv"
+            },
+            {
+                "text": "Thats probably right",
+                "label": "aap"
+            },
+            {
+                "text": "There there there is difference there",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And and -",
+                "label": "%"
+            },
+            {
+                "text": "No if my Dad had done that when I was kid I probably wouldnt have liked it I go now with my husband And I enjoy it but -",
+                "label": "aa"
+            },
+            {
+                "text": "Well girls at that age",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Video games boys and malls",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "Not necessarily in that order and friends of course",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And thats little tough for fathers",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh I imagine",
+                "label": "aa"
+            },
+            {
+                "text": "Fathers dont even like malls they despise shopping",
+                "label": "sv"
+            },
+            {
+                "text": "Uh",
+                "label": "%"
+            },
+            {
+                "text": "So is that quality time",
+                "label": "qh"
+            },
+            {
+                "text": "Huh no I think not",
+                "label": "b"
+            },
+            {
+                "text": "Yeah if - but there is camping and we both enjoy that",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh she likes to do that",
+                "label": "b"
+            },
+            {
+                "text": "Somewhat yeah yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah yeah Well thats good",
+                "label": "b"
+            },
+            {
+                "text": "Getting up in the mountains and getting away from it all and",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "thats somewhat fun",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh She -",
+                "label": "b"
+            },
+            {
+                "text": "Its -",
+                "label": "%"
+            },
+            {
+                "text": "Huh",
+                "label": "br"
+            },
+            {
+                "text": "so what do you think about child rearing Is - how how would you spend time with kids",
+                "label": "qo"
+            },
+            {
+                "text": "Probably doing outdoorsie stuff and keeping trying to keep them away from the I guess And McDonalds",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "ba"
+            },
+            {
+                "text": "I I always said that if I had kid they wouldnt know what McDonalds is",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah but -",
+                "label": "b"
+            },
+            {
+                "text": "But they learn from their friends dont they",
+                "label": "sv"
+            },
+            {
+                "text": "Well yeah and amazingly lot of times its real easy",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know lot of times whenever we head out of town on trip or something",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "its real easy to swing in there for breakfast",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Breakfast and run",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And breakfast is kind of funny meal anyway",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah It is",
+                "label": "aa"
+            },
+            {
+                "text": "and uh kids eat funny",
+                "label": "sv"
+            },
+            {
+                "text": "This lady in our bass club we had tournament yesterday and she was talking about her daughter said one week her daughter will uh be on no meat kick and one week shell eat nothing but Twix candy bars you know she just eats weird",
+                "label": "sd"
+            },
+            {
+                "text": "And little girls are worse about it than little boys",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "They -",
+                "label": "%"
+            },
+            {
+                "text": "Theyre always wanting to go on diet or something",
+                "label": "sv"
+            },
+            {
+                "text": "Or or something yeah",
+                "label": "aap"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Go on diet or they they have well - to some extent the public schools or the schools in general",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "influence them",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "the eating meat kick",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know like its really morally wrong to eat meat or something",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I Im not sure Of course thats not the way I was raised being raised in West Texas",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Oh is that where youre from",
+                "label": "b"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Born in Denton raised in Lubbock",
+                "label": "sd"
+            },
+            {
+                "text": "Oh Um",
+                "label": "b"
+            },
+            {
+                "text": "So I understand about bass",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Huh",
+                "label": "b"
+            },
+            {
+                "text": "But it but it is interesting",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I I will tell you yeah Every person out there should have kids at least once or or have some they can borrow for time",
+                "label": "^h"
+            },
+            {
+                "text": "Thats the kind I like",
+                "label": "sd"
+            },
+            {
+                "text": "because everyone needs some torture in their lives",
+                "label": "+"
+            },
+            {
+                "text": "My Mother used to put that curse on my sister I hope you have kids just like yourself And my Grandmother must have put that on my Dad because he got my sister shes just like him",
+                "label": "sd"
+            },
+            {
+                "text": "Uh But Jenny is sweet kid",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Im sure she is",
+                "label": "b"
+            },
+            {
+                "text": "And yeah we do do things",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and it its funny its almost like lot of things that were available to us as children",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "to go do",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "The moneys not available",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh I know I dont know how people can afford kids I mean -",
+                "label": "aa"
+            },
+            {
+                "text": "You know we were talking about how much it cost to go to Disney Land",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Golly couple - three hundred dollars",
+                "label": "fe"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "ba"
+            },
+            {
+                "text": "You know for just for just day not in- you know day or two not including lodging and food and all that",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Its - I dont see how anyone can afford it",
+                "label": "%"
+            },
+            {
+                "text": "Uh",
+                "label": "%"
+            },
+            {
+                "text": "And I understand Six Flags is real expensive now",
+                "label": "sd"
+            },
+            {
+                "text": "Its uh - I heard its twenty bucks whack For adults",
+                "label": "%"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah That is awful high Oh well",
+                "label": "b"
+            },
+            {
+                "text": "Twenty bucks whack now",
+                "label": "b^m"
+            },
+            {
+                "text": "Yeah or twenty-one",
+                "label": "aa"
+            },
+            {
+                "text": "But at least once you pay your way in there",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "at Six Flags",
+                "label": "+"
+            },
+            {
+                "text": "yeah everythings free except for the food",
+                "label": "b"
+            },
+            {
+                "text": "Yeah yeah food and junk to carry out So thats thats not as bad",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But golly You know Disney World or Disney Land",
+                "label": "fe"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Well our problem is that you know trip to Six Flags or Disney World or uh Disney Land or God forbid Disney World would take forever",
+                "label": "sd"
+            },
+            {
+                "text": "Really",
+                "label": "b"
+            },
+            {
+                "text": "Or youd have to pay air fare",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and ooh for family you know for family it gets pretty expensive pretty quick",
+                "label": "sv"
+            },
+            {
+                "text": "OH yeah",
+                "label": "ba"
+            },
+            {
+                "text": "Rent car when you get there and all that Yeah",
+                "label": "sd"
+            },
+            {
+                "text": "Thats why I lucked out my Dad worked for Braniff when I was kid so we got you know our air fare free and we got -",
+                "label": "sd"
+            }
+        ]
+    }
+]

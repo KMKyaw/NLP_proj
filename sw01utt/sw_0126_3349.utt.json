@@ -1,0 +1,315 @@
+[
+    {
+        "conversation_id": "conv_3349",
+        "turns": [
+            {
+                "text": "Well what are your hobbies",
+                "label": "qw"
+            },
+            {
+                "text": "Well actually my hobbies now are shirt making Im making shirts and sweat shirts In fact thats what I was doing when you called",
+                "label": "sd"
+            },
+            {
+                "text": "Well that sounds interesting What kinds of uh sweat shirts and shirts do you make",
+                "label": "sv"
+            },
+            {
+                "text": "Um right now Im making Christmas ones with poinsettias and bears and --",
+                "label": "sd"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "-- all that kind of thing",
+                "label": "+"
+            },
+            {
+                "text": "Is that silk screening or -",
+                "label": "qy"
+            },
+            {
+                "text": "Um no Im have material that I cut out and then you um - theres this stuff called Wonder Under that you un- that you iron it on and then you iron that on the shirt and you paint around it",
+                "label": "nn"
+            },
+            {
+                "text": "Oh I see",
+                "label": "bk"
+            },
+            {
+                "text": "So its real fun I started doing it as um just something fun to do and now Im selling them and pretty -",
+                "label": "sd"
+            },
+            {
+                "text": "Well hows it going",
+                "label": "qo"
+            },
+            {
+                "text": "Pretty good I just started last week and I sold seven I didnt wasnt expecting that so -",
+                "label": "sd"
+            },
+            {
+                "text": "Well that sounds great",
+                "label": "ba"
+            },
+            {
+                "text": "I guess in my spare time Ill be making shirts So -",
+                "label": "sd"
+            },
+            {
+                "text": "Well somebody has to do it",
+                "label": "sv"
+            },
+            {
+                "text": "Thats right you know",
+                "label": "aa"
+            },
+            {
+                "text": "Give you little Christmas money any way",
+                "label": "sv"
+            },
+            {
+                "text": "Thats correct Well what are your hobbies",
+                "label": "aa"
+            },
+            {
+                "text": "Well I I kind of have hobby fads I guess",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "When I was growing up I was was into coin collecting and that dropped off about the time I hit puberty I guess and then my hobbies in high school went just to the sports Now my latest one is classic cars Ive --",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "-- I had sixty-six Mustang I was rebuilding Almost had it done and I went on went ahead and sold it",
+                "label": "+"
+            },
+            {
+                "text": "Oh my gosh",
+                "label": "ba"
+            },
+            {
+                "text": "But it was fun I really enjoyed it",
+                "label": "sd"
+            },
+            {
+                "text": "Well howd you learn to do that --",
+                "label": "qw"
+            },
+            {
+                "text": "Oh you just -",
+                "label": "sd"
+            },
+            {
+                "text": "-- to fix them up You just get book that tells you how to do it or what",
+                "label": "+"
+            },
+            {
+                "text": "No you just kind of - all I did is uh I bought the car and then uh you know you can - I uh was just in supermarket and I seen magazine for you know - basically it it was called MUSTANG MAGAZINE and --",
+                "label": "nn"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and so I bought it and they had uh some names some companies that sold mustang parts and I just started ordering some parts and and you know basically you know I what I did was I redid the whole interior I didnt do too much to the engine because the engine was pretty good but the the whole interior and then part of the exterior just kind of do it",
+                "label": "+"
+            },
+            {
+                "text": "Whered you get the car",
+                "label": "qw"
+            },
+            {
+                "text": "Well we lived we lived in South Dakota and I bought it up there before I moved down here",
+                "label": "sd"
+            },
+            {
+                "text": "Wow",
+                "label": "ba"
+            },
+            {
+                "text": "So it was it was kind of rusted out there there isnt too much rust on any vehicles down here",
+                "label": "sd"
+            },
+            {
+                "text": "Well thats true thats true Well that sounds neat",
+                "label": "aa"
+            },
+            {
+                "text": "Well gee I guess there really isnt too much to talk about on hobbies",
+                "label": "sv^t"
+            },
+            {
+                "text": "Lets see",
+                "label": "^h"
+            },
+            {
+                "text": "That that about covers mine and shirt making about covers yours",
+                "label": "sd"
+            },
+            {
+                "text": "Well lets see Ive done other hobbies Im hobby person Ive always done lot of craft stuff I always have done needlepoint and cross stitch and all that and I collect dolls I have huge collection of dolls which is still in New Mexico with my parents",
+                "label": "^h"
+            },
+            {
+                "text": "In New Mexico",
+                "label": "br^m"
+            },
+            {
+                "text": "uh-huh from New Mexico",
+                "label": "aa"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "So Lets see what else I started collecting music boxes I guess thats hobby",
+                "label": "^h"
+            },
+            {
+                "text": "Yeah that is",
+                "label": "aa"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "Thats interesting How many music boxes do you have",
+                "label": "ba"
+            },
+            {
+                "text": "Probably - uh about twenty",
+                "label": "sd"
+            },
+            {
+                "text": "Do they all play different songs --",
+                "label": "qy"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "-- or do some of them play the same song",
+                "label": "qrr"
+            },
+            {
+                "text": "They they all play different songs",
+                "label": "sd"
+            },
+            {
+                "text": "Well thats neat Whats the most expensive one you bought",
+                "label": "ba"
+            },
+            {
+                "text": "The most expensive I dont know Ive gotten all of them for gifts I dont -- -",
+                "label": "b^m"
+            },
+            {
+                "text": "Oh really",
+                "label": "b"
+            },
+            {
+                "text": "-- bought few of them I usually get them for Christmas gifts or and like when people go you know to on trips or something",
+                "label": "sd"
+            },
+            {
+                "text": "Well thats interesting It used to be tea spoons was the thing",
+                "label": "ba"
+            },
+            {
+                "text": "Thats true I never collected those never collected those",
+                "label": "aa"
+            },
+            {
+                "text": "Well thats interesting music boxes",
+                "label": "ba"
+            },
+            {
+                "text": "I have dolls from all over too That I started when I was little girl and I have lot of dolls People would always bring them when they go to the countries and um and I did that when I went to Europe one summer I bought doll everywhere we went so -",
+                "label": "sd"
+            },
+            {
+                "text": "Well how was Europe",
+                "label": "qo"
+            },
+            {
+                "text": "economy It was great it was quick I was in I was in high school and I was in tour and we went all - its kind of its kind of to establish better rapport with the different countries and um it was called People to People and wed stay in peoples homes and then we got to also tour big cities and I really enjoyed it",
+                "label": "sd"
+            },
+            {
+                "text": "Was that in high school --",
+                "label": "qy"
+            },
+            {
+                "text": "uh-huh --",
+                "label": "ny"
+            },
+            {
+                "text": "-- or was that college thing",
+                "label": "qrr"
+            },
+            {
+                "text": "-- in was in high school So Id like to go back because we had you know - everything was rushed --",
+                "label": "sd^r"
+            },
+            {
+                "text": "I bet",
+                "label": "aa"
+            },
+            {
+                "text": "-- everything was like an hour or two hours at the Louvre you know things like that where you need the whole day but --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- but it really -",
+                "label": "+"
+            },
+            {
+                "text": "Thats where camcorder would come in handy",
+                "label": "sv"
+            },
+            {
+                "text": "Exactly thats true",
+                "label": "aa"
+            },
+            {
+                "text": "Well that sounds real neat So you you havent been back to Europe since then huh",
+                "label": "ba"
+            },
+            {
+                "text": "No I always thought I would but who knows now I got married and maybe some day Maybe its one of those retirement things",
+                "label": "nn"
+            },
+            {
+                "text": "There you go Well does you husband uh - what does he think of your uh shirts and -",
+                "label": "aa"
+            },
+            {
+                "text": "Well he likes it all right Hes been pretty good because theres shirt stuff all over the house",
+                "label": "sd"
+            },
+            {
+                "text": "Does he help out much or -",
+                "label": "qy"
+            }
+        ]
+    }
+]

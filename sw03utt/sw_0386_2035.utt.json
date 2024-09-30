@@ -1,0 +1,351 @@
+[
+    {
+        "conversation_id": "conv_2035",
+        "turns": [
+            {
+                "text": "Hi Diana",
+                "label": "fp"
+            },
+            {
+                "text": "Hi",
+                "label": "fp^m"
+            },
+            {
+                "text": "Have you all been able to do much as family these days",
+                "label": "qy"
+            },
+            {
+                "text": "Pardon me",
+                "label": "br"
+            },
+            {
+                "text": "Have you all been able to do much as uh as full family these days all of you",
+                "label": "qy^r"
+            },
+            {
+                "text": "Oh yes weve uh been um weve gone other you know all kinds of places we go out to dinner",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "we take the kids to the park and uh you know whenever we he my husband has time off or something we take them to the zoo or we you know we do everything we can possibly as family",
+                "label": "sd"
+            },
+            {
+                "text": "Do you work outside the home",
+                "label": "qy"
+            },
+            {
+                "text": "No I dont",
+                "label": "nn"
+            },
+            {
+                "text": "Yeah I dont either it makes it little bit easier I think that way",
+                "label": "b"
+            },
+            {
+                "text": "Yeah it does an an then uh you know my husband enjoys spending time with the kids you know hell hell take them out just to be with them",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So he they can have time with him an",
+                "label": "sd"
+            },
+            {
+                "text": "So you have break too",
+                "label": "qy^d"
+            },
+            {
+                "text": "Right so and we uh we try to teach our kids as much as we can at home you know we have we try to spend like Monday nights we call it family home evening",
+                "label": "na"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and have our kids uh you know have little lessons with them and you know just see count see how things are going in our family and you know teach them about their grandparents or something like that Bring out pictures of them so they get to know them and we just do all kinds of fun things like that an -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah we have family thats far away It sounds like you might too",
+                "label": "b"
+            },
+            {
+                "text": "Yeah we do so they",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "you know the only way they know their grandparents is by pictures And uh -",
+                "label": "+"
+            },
+            {
+                "text": "Right and phone calls thats about about it",
+                "label": "b"
+            },
+            {
+                "text": "Yeah right and uh you know they we you know we go to the park or we go in the backyard and sit down an -",
+                "label": "aa"
+            },
+            {
+                "text": "Thats wha- yeah thats what we mostly do pretty simple things",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Especially since my youngest one is excuse me only fourteen months",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "She shes really getting to the age where shes playing",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and likes to go places",
+                "label": "+"
+            },
+            {
+                "text": "Yeah and with you know me being at home and just having the one income you know you dont have this lot of extra money to to do lot of you know extra things",
+                "label": "b"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "So you you make more fun than you know - You know the kids just think its wonderful just maybe to go get an ice cream cone or",
+                "label": "sv"
+            },
+            {
+                "text": "Oh thats big thrill for them",
+                "label": "sv"
+            },
+            {
+                "text": "yeah or uh you know go get bag of and Ms or something like that they they think thats lot of fun So we just we try to spend as much time as we can We you know - our our whole weekends are divi- are devoted to our children except for we might go out you know one evening or something",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "but during the day you know its all devoted to our kids and they come go to church with us and so -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah thats true",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah so -",
+                "label": "b"
+            },
+            {
+                "text": "Have um have you ever been to the Science its called the Science Place",
+                "label": "qy"
+            },
+            {
+                "text": "Yes yes thats what -",
+                "label": "ny"
+            },
+            {
+                "text": "We ju- we havent lived here too long and we went there couple of weeks ago and uh -",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh the kids thought that was wonderful",
+                "label": "b"
+            },
+            {
+                "text": "Oh yeah we - I guess theres Science Place One and Science Place Two Weve only been in I think its Science Place Two",
+                "label": "b"
+            },
+            {
+                "text": "I is Im not sure which one we went into it was about year or so ago when we went",
+                "label": "sd"
+            },
+            {
+                "text": "The one we went in had uh - the thing that sticks out most in my mind is that like kids place area",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh yeah",
+                "label": "b"
+            },
+            {
+                "text": "That really seem they really seemed to go wild in there",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah they had lot of fun in there and uh theres uh theres some petting you know like uh uh - I think its Owens Country Farms has free petting you know like farm that you can go to and the kids can pet animals and stuff",
+                "label": "aa"
+            },
+            {
+                "text": "Wheres that",
+                "label": "qw"
+            },
+            {
+                "text": "Thats on Plano Road uh its like in Richardson you go up Plano Road its like little bit past Campbell and Plano Road",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And thats lot of fun",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "They have tours going through there and uh the kids think that was lot of fun too",
+                "label": "sd"
+            },
+            {
+                "text": "Oh that does sound like fun Its little bit of ways",
+                "label": "ba"
+            },
+            {
+                "text": "We take you know whenever we take them to Showbiz - or they think its wonderful just to go to McDonalds you know they dont go for the food they go for the to play around and",
+                "label": "sd"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "Theres another place in Mesquite called Monkey Business",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and its indoor fun park and it has bunch of different rides for kids",
+                "label": "sd"
+            },
+            {
+                "text": "Thats sounds fun too",
+                "label": "ba"
+            },
+            {
+                "text": "And parents get in free and its like during the week its like five dollars admission per child all day",
+                "label": "sd"
+            },
+            {
+                "text": "And and you said about Plano and Campbell is the petting",
+                "label": "qy^d"
+            },
+            {
+                "text": "The petting farm yeah",
+                "label": "^2"
+            },
+            {
+                "text": "That sounds fun I think maybe well try to do that",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah yeah and the one in Mesquite is uh Scyene exit",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And its its uh - the kids just had wonderful time there they you know you just pay that admission and then all the the the rides are free You know of course they have all the little video games and you know those little quarter rides you know to and stuff like that but",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "they thought that was lot of fun You can have birthday parties there an I think that was better than like Showbiz Pizza cause theres more for them to do",
+                "label": "+"
+            },
+            {
+                "text": "Because they can just do - you dont have to have tokens for everything",
+                "label": "%"
+            },
+            {
+                "text": "Yeah right",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So they had lot of fun",
+                "label": "sd"
+            },
+            {
+                "text": "That does sound like fun Well Ive gotten some good ideas from you",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah I we try to do lot of things as family and you know inexpensively as possible so -",
+                "label": "b"
+            },
+            {
+                "text": "Definitely Well I think I dont know if weve done five minutes but Im sure that will be good",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah that will be good yeah",
+                "label": "fc"
+            },
+            {
+                "text": "It was good talking to you",
+                "label": "fc"
+            },
+            {
+                "text": "Well it was good talking to you",
+                "label": "fc^m"
+            },
+            {
+                "text": "I really appreciate your suggestions",
+                "label": "fc"
+            },
+            {
+                "text": "Oh no problem Well take care",
+                "label": "fc"
+            },
+            {
+                "text": "Okay bye-bye",
+                "label": "fc"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc^m"
+            }
+        ]
+    }
+]

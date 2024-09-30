@@ -1,0 +1,675 @@
+[
+    {
+        "conversation_id": "conv_2836",
+        "turns": [
+            {
+                "text": "Okay Uh far as you know crime in the cities Im sure like in yours its pretty pretty bad Uh probably the biggest thing weve got going now is the robberies and theft and probably murder --",
+                "label": "o"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- are the two top ones that we have How about you",
+                "label": "+"
+            },
+            {
+                "text": "Uh well I dont actually live in the city but Id probably say thats roughly right I mean crimes against property seem to outnumber crimes against life but I I think with the current war on drugs and all this kind of stuff Id say probably the police department would claim the number one crimes crimes are probably solicitation of prostitution uh and sale of drugs",
+                "label": "h"
+            },
+            {
+                "text": "uh-huh Prob- probably right if you look at it from that stand point",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "What uh - is there anything uh that you particularly are concerned with in your particular area as far as security and that sort of thing",
+                "label": "%"
+            },
+            {
+                "text": "Uh where I live now its its not so bad I mean I can basically leave my front door unlocked and not have to worry about it Uh but I do have friends that live in the city and I think that they get lot of fallout from this war on drug thing Uh just because there are like crack houses you know on their street and stuff like this",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Do you live in real small town or or out in the country",
+                "label": "b"
+            },
+            {
+                "text": "I live out in the country yeah",
+                "label": "sd"
+            },
+            {
+                "text": "How far out from the city I mean do you -",
+                "label": "qw"
+            },
+            {
+                "text": "Im about fifteen miles out",
+                "label": "sd"
+            },
+            {
+                "text": "About fifteen miles I live in little suburb uh which is I guess from Dallas is twelve miles or so --",
+                "label": "b^m"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but its pretty congested We are considered in the country",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "but it doesnt really feel like youre in the country",
+                "label": "sv"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "Our major crimes in our immediate town uh is probably robberies house robberies --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and very few instances of you know alcohol drugs uh reported However Im sure theyre there",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But uh right now our neighborhood is running about uh eighty percent of the homeowners have been robbed",
+                "label": "sd"
+            },
+            {
+                "text": "Wow",
+                "label": "ba"
+            },
+            {
+                "text": "sometime during their their uh existence in that neighborhood",
+                "label": "+"
+            },
+            {
+                "text": "Thats huge",
+                "label": "sv"
+            },
+            {
+                "text": "And since that time everybodys got some sort of burglar system or you know uh burglar alarms --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh and including the out uh the outer perimeter type uh devices",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "sensors and things like that Its cut back you know considerably but it it just shifts it from our neighborhood to another neighborhood to other neighborhood so it still uh remains city wide pretty pretty high",
+                "label": "+"
+            },
+            {
+                "text": "Are there are there any theories on why this is happening",
+                "label": "qy"
+            },
+            {
+                "text": "Uh I would say the majority of its happening during the day uh between probably ten in the morning and three in the afternoon",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Most -",
+                "label": "%"
+            },
+            {
+                "text": "But why Why is it happening",
+                "label": "qw"
+            },
+            {
+                "text": "Well most families most families are young and both people are working",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So theyre happening during the hours theyre gone from work",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh so uh I would say thats probably their prime motivation Theyll theyll stock your house and uh look at your pattern and then go from there",
+                "label": "sv"
+            },
+            {
+                "text": "So theyre professionals",
+                "label": "qy^d"
+            },
+            {
+                "text": "Uh they classify most of them as professionals",
+                "label": "na"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "Uh you get few of them that are little bit sloppier uh just taking uh you know just junk items that they they can just get you know ten to twenty bucks for real quick",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Probably the biggest items that uh that you get in our neighborhood or would be the high classed automobiles the you know Mercedes Volvos things that they can get you know big dollars for --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "-- and the jewelry are the major targets guns that sort of stuff",
+                "label": "+"
+            },
+            {
+                "text": "Um",
+                "label": "%"
+            },
+            {
+                "text": "Very few you know penny penny ante stuff",
+                "label": "sd"
+            },
+            {
+                "text": "Well what do you think can be done to reduce that sort of crime",
+                "label": "qw"
+            },
+            {
+                "text": "Well uh the police force for one I think they could uh definitely add to the police force and the type equipment that they use Uh its oh right now I think we are about thirty thousand people and theres only eight officers that patrol for thirty",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "for that amount of people --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "-- which is not very many",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And -",
+                "label": "%"
+            },
+            {
+                "text": "But I mean thats going to tend to - I mean it seems to me that sort of approach will tend to simply make the cost of committing the crime slightly higher in other words youve increased the probability of somebody being caught little bit The real question is how do you convince people not to commit such crimes in the first place",
+                "label": "sv"
+            },
+            {
+                "text": "Well the - course in our particular state uh we have the prison overcrowding whatever so theyre giving the early release uh",
+                "label": "%"
+            },
+            {
+                "text": "Right Theyre doing that in our state too",
+                "label": "b"
+            },
+            {
+                "text": "Yeah and and its - I think what they need to do is stop building more jails and start giving stiffer sentences uh but for the -",
+                "label": "b"
+            },
+            {
+                "text": "So you think that would be deterrent",
+                "label": "qy"
+            },
+            {
+                "text": "That would be certainly be deterrent",
+                "label": "na"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh not necessarily you know give in to their uh human rights desires You know if theyre overcrowded just keep cramming them in there till they just suffocate Uh",
+                "label": "sv"
+            },
+            {
+                "text": "Well what about an innocent person who happens to have been found guilty",
+                "label": "qw"
+            },
+            {
+                "text": "Uh I think theyd have to go to extra measures to make sure persons guilty you know in lot of cases Course I I know you cant be hundred percent foolproof",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Uh",
+                "label": "%"
+            },
+            {
+                "text": "So youd youd rather see it harder to convict somebody",
+                "label": "bf"
+            },
+            {
+                "text": "Id rather see it little bit harder and have little bit more evidence",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "uh to convict somebody and then those convicted especially of you know murder and and uh you know major crimes",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "uh to reach the life sentences and you know death penalties and follow-through with that",
+                "label": "+"
+            },
+            {
+                "text": "Huh",
+                "label": "%"
+            },
+            {
+                "text": "Uh especially you know in the case of murder --",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- uh I know in my case I my wife and daughter were kidnapped",
+                "label": "sd"
+            },
+            {
+                "text": "Oh wow",
+                "label": "ba"
+            },
+            {
+                "text": "during house robbery back in eighty-five --",
+                "label": "+"
+            },
+            {
+                "text": "Oh my goodness",
+                "label": "ba"
+            },
+            {
+                "text": "-- and we caught the individuals got caught we uh",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "we went through the court system and all that sort of thing and uh you know two counts of kidnapping uh --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know the the forty-five to the head you know just the the mental anguish and the whole nine yards --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- uh you know the guy only got five years",
+                "label": "+"
+            },
+            {
+                "text": "Wow",
+                "label": "ba"
+            },
+            {
+                "text": "And you know he was out within two months because of the parole system So what what -",
+                "label": "sd"
+            },
+            {
+                "text": "Did you did you sue him under the civil system",
+                "label": "qy"
+            },
+            {
+                "text": "Do what now",
+                "label": "br"
+            },
+            {
+                "text": "Did you sue him under the civil system",
+                "label": "qy^r"
+            },
+            {
+                "text": "- no Im not real familiar with that",
+                "label": "nn"
+            },
+            {
+                "text": "Well you could probably sue him for mental anguish or something right",
+                "label": "sv"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "and try to get money from him and -",
+                "label": "+"
+            },
+            {
+                "text": "Well the insurance companies and all that tried to tried to go after him and they said well you know he theyre he has no job he has nothing theres nothing that he has that that you could go after",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Makes you wish that had uh still had indentured servitude for this sort of thing",
+                "label": "b"
+            },
+            {
+                "text": "Yeah Uh very seld- -",
+                "label": "aa"
+            },
+            {
+                "text": "But they give the guy job in prison and make him pay his damn debt",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah They dont do that here Course they pay them but they dont you dont - you or the insurance companies never see any of that money",
+                "label": "b"
+            },
+            {
+                "text": "Yeah thats too bad",
+                "label": "b"
+            },
+            {
+                "text": "And uh you know and theyre right now theyre reluctant to go after him because theyre you know theyre theyre repeat offenders they uh been in jail before",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "theyve been released you know several times which is another",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "uh deal I hate to see",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "But uh you know basically the guy commits you know three major crimes and and uh",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I I think thats re- -",
+                "label": "b"
+            },
+            {
+                "text": "and car theft on top of it",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "destroys my car",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^r"
+            },
+            {
+                "text": "and were out you know uh you know fifteen thousand dollars and",
+                "label": "sd"
+            },
+            {
+                "text": "Thats awful",
+                "label": "ba"
+            },
+            {
+                "text": "you know the guy gets out in two months and he goes out and commits it again Fact hes back in jail now So what what uh -",
+                "label": "+"
+            },
+            {
+                "text": "Gives you sympathy for the vigilantes",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah What what deterrent does he really have",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Yeah I think in our in our particular neighborhood vigilantism is becoming real real possibility",
+                "label": "b^m"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh weve had couple instances where break ins where the people have actually you know shot the people --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh my God",
+                "label": "ba"
+            },
+            {
+                "text": "-- and uh return offenders have - theyve actually waited for them where theyve robbed you know particular neighborhood theyll rob one house then other people will wait up you know and wait for somebody to do something else try to take it in their own hands",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Course it doesnt always work out in their favor",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b^r"
+            },
+            {
+                "text": "But uh nevertheless",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I think people are just getting fed up and saying you know you cant arrest all of us you can",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "you know you can get some of us you cant get all of us",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh and were beginning to see more and more of that",
+                "label": "sd"
+            },
+            {
+                "text": "And that thats deterrent too If you think the home owner might be armed right and awake --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- here you break in and youre going to get shot",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah thats I mean thats certainly possibility in in - we have had few cases where the guy has broken in you know during the middle of the night and gotten himself shot to death",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh it helps for while --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "-- but then just another different set of people come in and most of the people are transients from out outside of the state",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "%"
+            },
+            {
+                "text": "Uh I would say probably eighty percent of them that are caught theyre from places like up in Oklahoma and Louisiana Arkansas you know across the the border",
+                "label": "sv"
+            },
+            {
+                "text": "Wow",
+                "label": "ba"
+            },
+            {
+                "text": "So you know people who dont readily read the newspapers in our town or whatever --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- its not many from the local communities",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b^r"
+            },
+            {
+                "text": "But uh its problem and I I just I think that the court systems need to be more accurate in in stiffer in their penalties",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "would be definite deterrent and",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and uh giving the uh police uh agencies little bit more jurisdiction over what they do when they when they catch these people",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh I mean I I tend to agree with you I think uh what I would like to see is number one completely getting rid of these victimless crimes Uh theres no reason to enforce those and spend time and money doing it --",
+                "label": "aa"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- and and worry about these things where people are getting hurt And I think one of the big things that you can do is to increase deterrence is uh if someone is found guilty of uh felony level offense they lose their citizenship And they lose their constitutional rights",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know and just lot of things that were trying to worry about you know protecting these people from we just dont protect them",
+                "label": "+"
+            },
+            {
+                "text": "I know like in my wifes case they made her feel like the criminal",
+                "label": "sd"
+            },
+            {
+                "text": "I know and I think I think thats ridiculous",
+                "label": "aa"
+            },
+            {
+                "text": "They they went to all all -",
+                "label": "%"
+            }
+        ]
+    }
+]

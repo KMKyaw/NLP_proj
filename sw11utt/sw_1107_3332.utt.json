@@ -1,0 +1,431 @@
+[
+    {
+        "conversation_id": "conv_3332",
+        "turns": [
+            {
+                "text": "Doug you want to start",
+                "label": "ad"
+            },
+            {
+                "text": "Sure",
+                "label": "aa"
+            },
+            {
+                "text": "You dont use any credit cards I dont imagine",
+                "label": "qy^d"
+            },
+            {
+                "text": "No Of course I use credit cards I have couple of credit cards --",
+                "label": "nn"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh use them",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh do you use them lot",
+                "label": "b"
+            },
+            {
+                "text": "Oh we try not to",
+                "label": "ng"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Were on pretty strict and tight budget",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "We use the credit cards however when were at situation where we dont have either the cash or the checkbook handy",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Or we use credit cards also if we want to get an extended warranty on an item that were purchasing So",
+                "label": "sd"
+            },
+            {
+                "text": "Oh well thats an idea thats thought uh-huh",
+                "label": "ba"
+            },
+            {
+                "text": "So yes and basically we use it mainly when were traveling --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- or out of state or --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- or somewhere where you know they dont take local they dont take out of state checks --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and so when were traveling some - Do you use credit cards often",
+                "label": "sd"
+            },
+            {
+                "text": "My husband loves them Uh we do use them Uh we try not to but he hes one who believes in credit cards and he uses them quite bit",
+                "label": "no"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "He likes using them and then just pay at the end of the month",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah well --",
+                "label": "b"
+            },
+            {
+                "text": "He he likes that",
+                "label": "sd"
+            },
+            {
+                "text": "-- thats thats good thing because lot of people dont pay at the end of the month --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and they just pay the minimum required balance",
+                "label": "sd"
+            },
+            {
+                "text": "And thats when you get into expenses",
+                "label": "sv"
+            },
+            {
+                "text": "Yes and you get in over your head",
+                "label": "aa"
+            },
+            {
+                "text": "Right",
+                "label": "aa"
+            },
+            {
+                "text": "Itll uh - some people I know also try to use it as float --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- where they buy something now and say well Im going to buy this when its good and on sale and then I can --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- go ahead and pay for it when I get my check at the end of the month when Im being paid",
+                "label": "+"
+            },
+            {
+                "text": "Right Well sometimes you do come on bargains and that and its really useful",
+                "label": "b"
+            },
+            {
+                "text": "Thats true",
+                "label": "aa"
+            },
+            {
+                "text": "And some places wont take you know like personal checks or cash even --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but they would take credit card",
+                "label": "sd"
+            },
+            {
+                "text": "Right How - how are the laws in Pennsylvania uh as as regard well not the laws but the rates credit card rates in Pennsylvania For example down here when you go up to gas station --",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you get an extra charge for credit cards --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- than you would by paying for cash Are they the same there",
+                "label": "+"
+            },
+            {
+                "text": "We - yeah we have the same thing up here so we dont deal where they do that We cha- you know we go to places where they dont charge extra Some of them charge five cents gallon even like the gas stations more -",
+                "label": "%"
+            },
+            {
+                "text": "Thats pretty steep",
+                "label": "ba"
+            },
+            {
+                "text": "And uh we just try to avoid you know the ones that do that we just dont uh go there --",
+                "label": "sd"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "-- because theres enough other ones around that dont charge you anything extra --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- because actually to me credit cards are the same as cash to me they are anyway",
+                "label": "+"
+            },
+            {
+                "text": "Yes because you make the deduction at the time of the purchase and and so that --",
+                "label": "aa"
+            },
+            {
+                "text": "Right",
+                "label": "aa"
+            },
+            {
+                "text": "-- the end of the month or when you get your credit card bill --",
+                "label": "+"
+            },
+            {
+                "text": "Right yeah",
+                "label": "aa"
+            },
+            {
+                "text": "-- are you saying that that way youre not left stranded --",
+                "label": "+"
+            },
+            {
+                "text": "Yes",
+                "label": "aa"
+            },
+            {
+                "text": "-- and high and dry",
+                "label": "+"
+            },
+            {
+                "text": "Yeah right",
+                "label": "ny"
+            },
+            {
+                "text": "Very good Youre youre one of the good I guess good faithful shoppers that dont get into problem when it comes to budgeting their money",
+                "label": "ba"
+            },
+            {
+                "text": "Well I cant say we never have Now we have you know at times made payments --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- on our things but we try not to We try hard",
+                "label": "+"
+            },
+            {
+                "text": "Well yeah well I see that as an advantage to credit card also --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- that you can --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- can find yourselves in those situations and use credit card to --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- to help yourself",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "So I think that theres great advantage to credit card in those situations",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh Yeah because sometimes uh theres times when you may maybe couldnt take advantage of something --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but with credit card you can So -",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh uh-huh Um do you have uh multiple credit cards",
+                "label": "b"
+            },
+            {
+                "text": "Uh",
+                "label": "%"
+            },
+            {
+                "text": "And do you find that advantageous or -",
+                "label": "qy"
+            },
+            {
+                "text": "Well I think were narrowing it down actually Uh uh like I said my husband likes them and we have quite few but we really get when you get down to the nitty gritty theres probably three that we use --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- most of the time",
+                "label": "+"
+            },
+            {
+                "text": "Right Were were actually in the same boat",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "We like to use three uh basic credit cards",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "That way were not confused and we dont have an awful lot of expenses or surprises when it comes --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- the end of the month And do you find that you get an awful lot of credit card applications through the mail",
+                "label": "+"
+            },
+            {
+                "text": "Oh yes",
+                "label": "ny"
+            },
+            {
+                "text": "Once week twice week or three times week",
+                "label": "sd"
+            },
+            {
+                "text": "Well its not every week but you you do get them They make it very readily available",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Almost too much so But I re- I really dont like it the charges that you know - we try to limit look at that also what they charge per year --",
+                "label": "sv"
+            },
+            {
+                "text": "Right so the annual fee -",
+                "label": "b"
+            },
+            {
+                "text": "-- to use our money you know --",
+                "label": "+"
+            },
+            {
+                "text": "Right right",
+                "label": "b"
+            },
+            {
+                "text": "-- theyre charging us to spend our money and I Im not real crazy about that so we try to look at that also",
+                "label": "sd"
+            },
+            {
+                "text": "Yes so there is the basic annual fee for the credit card --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- plus they charge any where from seventeen to twenty-three percent --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- uh based upon what the state will allow",
+                "label": "+"
+            }
+        ]
+    }
+]

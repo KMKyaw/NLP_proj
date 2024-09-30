@@ -1,0 +1,643 @@
+[
+    {
+        "conversation_id": "conv_3020",
+        "turns": [
+            {
+                "text": "So where was your last vacation",
+                "label": "qw"
+            },
+            {
+                "text": "Uh actually my last vacation was in Connecticut Uh we went home to visit family Before that we were in Hawaii",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I Id well actually I did visit Hawaii once but I never made it off of Oahu",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "which Ive heard is not the nicest of the islands",
+                "label": "+"
+            },
+            {
+                "text": "It wasnt actually It - - when we were in Oah- Oahu uh I couldnt wait to get off We we took cruise and we went to four different islands and it was really nice Kauai was nice and Maui was nice We had we had great time",
+                "label": "ar"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "We were there for ten days",
+                "label": "sd"
+            },
+            {
+                "text": "Oh thats - wow Yeah",
+                "label": "%"
+            },
+            {
+                "text": "Yeah yes So where have you been",
+                "label": "b^m"
+            },
+            {
+                "text": "Oh Ive be- Ive been lots of places My last vacation was actually in Morocco I guess we that one would count",
+                "label": "sd"
+            },
+            {
+                "text": "Morocco Really",
+                "label": "b"
+            },
+            {
+                "text": "Uh that was about year and half ago and -",
+                "label": "sd"
+            },
+            {
+                "text": "No kidding An- what what did you just decide to go there or -",
+                "label": "ba"
+            },
+            {
+                "text": "Uh well my husband is French and we were living in France at the time --",
+                "label": "nd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and we decided that I Ive never been to Africa and I needed to get that continent since I hadnt been there yet And it its actually its fairly common vacation place for French people to go and they speak French and",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "so uh you know in that sense is just little bit easier and it just seemed like it would be fun place to go And",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Oh Im sure it was wonderful",
+                "label": "b"
+            },
+            {
+                "text": "So we we didnt really have enough time We had about little bit less than two weeks",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And as always it don- it seems bit uh rushed We do lot of traveling around We rented car and drove pretty much everywhere",
+                "label": "sv"
+            },
+            {
+                "text": "Was it hot",
+                "label": "qy"
+            },
+            {
+                "text": "No in fact some of the days we froze It was -",
+                "label": "nn"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "well we were there in the winter",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "In Jan- uh January or February I dont remember which",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh I was born in Saudi Arabia and uh",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "when my father worked there we they used to travel quite bit all around you know",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "in in Europe and whatnot but I was very young so I dont remember that and",
+                "label": "+"
+            },
+            {
+                "text": "At wha- at excuse me at what age did you -",
+                "label": "qw"
+            },
+            {
+                "text": "I was three when we moved back here",
+                "label": "+"
+            },
+            {
+                "text": "Oh thats too bad because -",
+                "label": "ba"
+            },
+            {
+                "text": "So I dont remember but we have all these wonderful pictures of all these great places that they have been",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and that I was when I was baby but so Morocco I think would be wonderful because thats you know thats that area of the world I think would be great",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah It was very interesting vacation The only thing I didnt like was in some of the more touristy areas --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh um the it would just be besieged by people wanting to be your guide and you there were some places",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "where people defini- - there would be kids there that were excellent at ripping you off",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and we had nothing taken because we knew and we had things in inside pockets and in you know in jacket underneath coat type of thing",
+                "label": "sd"
+            },
+            {
+                "text": "Really",
+                "label": "b"
+            },
+            {
+                "text": "But -",
+                "label": "%"
+            },
+            {
+                "text": "We we found that in Jamaica It was the same way",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "that people would come up and try and sell you well try and sell drugs and things like that but they they were so destitute and I guess they they make all their money on tourism and and they would come up and ask you you know if if you want to buy different things and really after awhile it really gets annoying",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "you know it its little scary too when theyre coming up and theyre all over you",
+                "label": "sd"
+            },
+            {
+                "text": "The the worst place was in Marrakech --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and the other cities it wasnt nearly as bad and couple of them it was what we did in some of the other cities and they tell you to do that is to hire local guide --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- it doesnt matter who it is and they keep everyone else away from you",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really",
+                "label": "b"
+            },
+            {
+                "text": "And its worth it and its like ten dollars day or something and its worth it just to keep everyone else away from badgering you --",
+                "label": "sv"
+            },
+            {
+                "text": "Really",
+                "label": "b"
+            },
+            {
+                "text": "-- and you feel stupid doing that but we did it",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and we were much happier",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and you also get in to see things that you might not get into --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- if you were alone uh",
+                "label": "+"
+            },
+            {
+                "text": "Well thats great Where else have you been",
+                "label": "ba"
+            },
+            {
+                "text": "Uh",
+                "label": "^h"
+            },
+            {
+                "text": "Well you lived in France",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "so youve been all through Europe",
+                "label": "qy^d"
+            },
+            {
+                "text": "No actually I havent been all through Europe",
+                "label": "nn"
+            },
+            {
+                "text": "No",
+                "label": "b"
+            },
+            {
+                "text": "like I havent been to Italy yet",
+                "label": "+"
+            },
+            {
+                "text": "Really",
+                "label": "b"
+            },
+            {
+                "text": "Uh were going to go for conference in September and so hopefully well get to travel little bit too",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh my more exciting spots have been - Ive been to the Galapagos Islands",
+                "label": "sd"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "uh-huh that was one of the most wonderful vacations Ive ever had",
+                "label": "ny"
+            },
+            {
+                "text": "Lots of wildlife huh Yeah",
+                "label": "qy^g"
+            },
+            {
+                "text": "Yes If you like wildlife its fabulous vacation",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "If you dont like wildlife its probably not of interest But it that was really really fabulous and just the photos I have of it and gosh incredible and be so close",
+                "label": "sv"
+            },
+            {
+                "text": "Now when was that when were you there",
+                "label": "qw"
+            },
+            {
+                "text": "Um August eighty-eight",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And then actually after there I went to um Hawaii lot of my travel has been sort of based around conferences or business meetings --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and so I went to Hawaii and then to Australia --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and Japan and China",
+                "label": "+"
+            },
+            {
+                "text": "Did you go on the Barrier Re- - did you see the Great Barrier Reef and and go snorkeling",
+                "label": "qy"
+            },
+            {
+                "text": "I I actually I didnt go diving",
+                "label": "ng"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I Im diver and so",
+                "label": "sd"
+            },
+            {
+                "text": "Oh diving",
+                "label": "b"
+            },
+            {
+                "text": "thats thats actually been another of my favorite vacations has been taking little diving trips --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but uh - no I didnt get to the Great Barrier Reef I drove from Sidney down to Melbourne and over to Au- Adelaide",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Its gorgeous absolutely gorgeous The coastline was just incredible Its huge",
+                "label": "sd"
+            },
+            {
+                "text": "Is it really",
+                "label": "bh"
+            },
+            {
+                "text": "Australia Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b^m"
+            },
+            {
+                "text": "Uh but -",
+                "label": "%"
+            },
+            {
+                "text": "Did you have shrimp Ive seen in you know - they they show all this wonderful seafood and and great big prawns you know the big shrimp and -",
+                "label": "qy"
+            },
+            {
+                "text": "I dont remember if I had shrimp",
+                "label": "no"
+            },
+            {
+                "text": "No Didnt have shrimp there huh",
+                "label": "bh"
+            },
+            {
+                "text": "I dont think so",
+                "label": "ng"
+            },
+            {
+                "text": "I remember food",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I like that too But uh in fact I didnt eat out that much there because I was traveling by myself in car it would have been I think much more fun to do it like in the van",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "with bunch of people",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But uh -",
+                "label": "%"
+            },
+            {
+                "text": "Oh youre adventurous You went by yourself",
+                "label": "ba"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Really",
+                "label": "b"
+            },
+            {
+                "text": "And I was by myself in China too",
+                "label": "sd"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Oh wow",
+                "label": "ba"
+            },
+            {
+                "text": "China was little bit more uh of challenge But it it wasnt more of challenge in sense because I hired guide all the time",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and so I never you know got out by myself or not much",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Was it very expensive",
+                "label": "b"
+            },
+            {
+                "text": "No actually I paid about either thousand dollars or little bit - no maybe it was about thousand dollars maybe little bit less I dont really remember for ten days including all my meals guide car the airfare and",
+                "label": "nn"
+            },
+            {
+                "text": "Youre kidding No kidding",
+                "label": "ba"
+            },
+            {
+                "text": "but this is from Hong Kong",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "because I was already in Hong Kong and um but it only cost you about thousand dollars to go there and I went to Beijing Shanghai Chengdu and actually then I took train up from Shanghai to little Quingdao I think is the name of it Its little uh sort of getaway retreat village not far from Shanghai Its just train ride",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And that - I had two internal one yeah two internal plane flights and couple of other things It was really -",
+                "label": "%"
+            },
+            {
+                "text": "All for thousand dollars",
+                "label": "qy"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Wow That really surprises me",
+                "label": "ba"
+            },
+            {
+                "text": "Around thousand",
+                "label": "sd"
+            },
+            {
+                "text": "I guess I relate it to to Japan where things are very expensive arent they",
+                "label": "qy^g"
+            },
+            {
+                "text": "Oh Japa- Japans ridiculous",
+                "label": "na"
+            },
+            {
+                "text": "Yeah Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And I stayed I didnt stay in the top of the line hotels but I stayed in - they were all completely clean",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and you know they were newly built and they were sort of the lower end of the top of the line hotels",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "because they said you cant stay in the cheap stuff",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah and you dont want to stay in the very very very exclusive",
+                "label": "aa"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "because you dont really even get flavor of the country if youre -",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Yeah yeah Wow",
+                "label": "b"
+            },
+            {
+                "text": "Uh but - yeah that was - tha- I highly recommend that way to go If youre ever interested in going the route I dealt with this woman her name was Rita at China Tours in Boston",
+                "label": "%"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah Uh and friend of mine who had gone for business trip to China and she just gave me this womans name to contact and it would really be fun I think ideally with like two couples because you have car and driver --",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and guide and then -",
+                "label": "+"
+            }
+        ]
+    }
+]

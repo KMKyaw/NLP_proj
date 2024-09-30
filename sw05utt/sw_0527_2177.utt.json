@@ -1,0 +1,459 @@
+[
+    {
+        "conversation_id": "conv_2177",
+        "turns": [
+            {
+                "text": "Cindy have you seen DANCES WITH WOLVES",
+                "label": "qy"
+            },
+            {
+                "text": "No I havent Have you",
+                "label": "nn"
+            },
+            {
+                "text": "Oh that is wonderful movie",
+                "label": "na"
+            },
+            {
+                "text": "uh-huh its not the length isnt too long",
+                "label": "b"
+            },
+            {
+                "text": "No",
+                "label": "nn"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Oh goodness no",
+                "label": "nn"
+            },
+            {
+                "text": "Uh slash error",
+                "label": "b@"
+            },
+            {
+                "text": "You dont even you dont even realize it you know",
+                "label": "sv"
+            },
+            {
+                "text": "Well we all heard different opinions about it Uh -",
+                "label": "+"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "uh-huh one that you know - yeah it was too long and they thought that you know at certain points that it was going to end and it didnt and it kept going on and - uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Oh I thought it was great",
+                "label": "sd"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Now Ive seen you know some different clips of it um and it it looks good its just I havent had the time to go to the movies lately",
+                "label": "sd"
+            },
+            {
+                "text": "Well yeah and I heard story about theres theres certain scene in the movie where theres um where theyre theyre on buffalo hunt",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And they have particular child actor uh whos whos being supposedly run down by buffalo",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And when they were trying to film that the buffalo that they used for that scene was Neil Youngs buffalo",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I cant remember what they said his name was But he has fetish for Oreo cookies",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh oh",
+                "label": "b"
+            },
+            {
+                "text": "And he got him to run like he was running down the kid by luring him with oreo cookies",
+                "label": "sd"
+            },
+            {
+                "text": "Hey thatd work for me let me tell you",
+                "label": "ba"
+            },
+            {
+                "text": "I thought that was really funny",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh Now Ive seen another clip of um the guy that plays in MURPHY BROWN I dont know his name but he played the uh the the character in it that was very like gross I mean very dirty an- -",
+                "label": "b"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "bk"
+            },
+            {
+                "text": "Oh I saw the one clip of him and ugh it was first - I guess he was taking Kevin Costner to like the site where he was going to be or whatever",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "bk"
+            },
+            {
+                "text": "That was rather um gross",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah the wagon the wagon driver",
+                "label": "b"
+            },
+            {
+                "text": "Yeah yeah But other than that Ive heard the the you know the um the scenery in it --",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "-- is absolutely beautiful",
+                "label": "+"
+            },
+            {
+                "text": "And uh the costuming -- slash error",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh really",
+                "label": "b"
+            },
+            {
+                "text": "-- yeah was - slash error the only thing about the costuming my husband remarked that it didnt that that um the Indians all appeared to be wearing new things",
+                "label": "+"
+            },
+            {
+                "text": "Oh really",
+                "label": "b"
+            },
+            {
+                "text": "And they should have taken them out and rolled them in the dirt little more --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- probably --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- to age to age the material so they they did very authentic reproductions of the",
+                "label": "+"
+            },
+            {
+                "text": "The styles uh-huh",
+                "label": "^2"
+            },
+            {
+                "text": "of the actual stuff but they didnt they didnt age it --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- quite enough it seemed",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But it was very good movie",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh Well I guess I will have to see it then",
+                "label": "b"
+            },
+            {
+                "text": "What have you seen lately",
+                "label": "qw"
+            },
+            {
+                "text": "Um actually have been to the movies um I think the last movie I saw was MISERY",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I didnt see that",
+                "label": "sd"
+            },
+            {
+                "text": "Oh very suspenseful",
+                "label": "sd"
+            },
+            {
+                "text": "I dont I dont like Stephen King",
+                "label": "sd"
+            },
+            {
+                "text": "I really dont either but I went with someone and once I was there I couldnt believe I mean its an excellent movie",
+                "label": "aa"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "I wasnt sure because uh just generally you know that kind of scary stuff I I just dont want to have anything to do with it",
+                "label": "sd"
+            },
+            {
+                "text": "Its not necessarily its not necessarily scary as it is suspenseful I mean its not",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I think I heard somebody talking about that she cuts his foot off or something you know",
+                "label": "b"
+            },
+            {
+                "text": "No in in the book apparently she cuts his feet off but in the movie she she disables him but not by cutting his feet",
+                "label": "ar"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "Um she she breaks both of his ankles",
+                "label": "sd"
+            },
+            {
+                "text": "Ugh",
+                "label": "ba"
+            },
+            {
+                "text": "And that I couldnt watch and but you know you could tell when it was coming",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So yeah um that was so that he couldnt leave her cause she -",
+                "label": "%"
+            },
+            {
+                "text": "It still just seems little twisted to me",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah yeah I mean need slash",
+                "label": "aa"
+            },
+            {
+                "text": "Im not sure I would have enjoyed that at all",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah well as far as that goes - yeah I mean you wouldnt like to see anybo- anything happen to anybody but it was just how she got so caught up her emotions -- -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and you know and and she feel madly in love with this writer",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And there was this - but she was killer and the the character was you know prior to that had had been someone that had killed other people --",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- but no one knew that",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "ba"
+            },
+            {
+                "text": "So But - So yeah we just havent had the time to go to the movies lately",
+                "label": "%"
+            },
+            {
+                "text": "I know we dont see movies at the movies lot",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "The last - we did go see DANCES WITH WOLVES and we went to see NOT WITHOUT MY DAUGHTER but mostly we wait until they come out on video tape and then we rent them",
+                "label": "%"
+            },
+            {
+                "text": "Right right Now I want to see SLEEPING WITH THE ENEMY",
+                "label": "aa"
+            },
+            {
+                "text": "Oh yeah --",
+                "label": "aa"
+            },
+            {
+                "text": "Uh -- needs slash",
+                "label": "%@"
+            },
+            {
+                "text": "-- that looks really good too",
+                "label": "sv"
+            },
+            {
+                "text": "-- yeah aa that looks good And there were couple others that I just havent had the time",
+                "label": "+"
+            },
+            {
+                "text": "And SILENCE OF THE LAMBS",
+                "label": "sd"
+            },
+            {
+                "text": "Now see I -",
+                "label": "%"
+            },
+            {
+                "text": "Im Im intrigued by it but Im not sure I want to go see it yet",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I dont think I want to see that either I know - I dont think I could",
+                "label": "b"
+            },
+            {
+                "text": "I think uh - well now we had some friends that went to see it and they said it was okay",
+                "label": "%"
+            },
+            {
+                "text": "Really",
+                "label": "b"
+            },
+            {
+                "text": "So it might not be as - I think they may be playing up --",
+                "label": "%"
+            },
+            {
+                "text": "Really",
+                "label": "b"
+            },
+            {
+                "text": "-- um some aspects of the movie that arent the main aspects",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Now we went to see the JAGGED EDGE",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I liked that movie",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "So its it seems like you know that kind of --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- the thriller suspense and not not real um strange in other ways",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh um Well I guess thats about it It was nice",
+                "label": "b"
+            },
+            {
+                "text": "Okay Maybe well talk to you again",
+                "label": "fc"
+            },
+            {
+                "text": "Okay it was nice talking to you",
+                "label": "fc"
+            },
+            {
+                "text": "Alright",
+                "label": "fc"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc"
+            }
+        ]
+    }
+]

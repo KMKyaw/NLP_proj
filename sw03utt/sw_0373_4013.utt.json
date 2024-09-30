@@ -1,0 +1,367 @@
+[
+    {
+        "conversation_id": "conv_4013",
+        "turns": [
+            {
+                "text": "Okay so you have eight children Um what type of things do you do as family to spend time together",
+                "label": "o"
+            },
+            {
+                "text": "Oh we spend lot of time outdoors jogging bicycling uh going to the park um some time watching --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- movies --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- um generally cheap things",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh Yeah we know how that goes Uh with lots of kids you dont have lots of money for recreation",
+                "label": "b"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "Well thats fun So um lets see uh some of the things we do together as family we like to play games lot and you may think this is funny but one of our funnest games we like to play together is hide and seek and we just have hoot playing hide and seek when its dark --",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- in our house and that is so fun The kids just get crack out of that Um we like we do like to go to the park too you uh like your family Um we dont do lot of vacationing Have you taken lot of vacations together or -",
+                "label": "+"
+            },
+            {
+                "text": "Most of our vacations are to go and see Grandma and Grandpa",
+                "label": "no"
+            },
+            {
+                "text": "uh-huh and whe- -",
+                "label": "b"
+            },
+            {
+                "text": "We get an occasional one or two day thing --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "-- but most of them are going and seeing Grandma and Grandpa",
+                "label": "sd"
+            },
+            {
+                "text": "Oh now where do they live",
+                "label": "qw"
+            },
+            {
+                "text": "In Arizona",
+                "label": "sd"
+            },
+            {
+                "text": "Oh so thats bit of drive for you there",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "Oh so you like to go there for the holidays and -",
+                "label": "qy^d"
+            },
+            {
+                "text": "Oh we dont go very often for holidays Generally we try to get all of our kids back home for the holidays --",
+                "label": "nd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and let Grandma and Grandpa come and visit us",
+                "label": "+"
+            },
+            {
+                "text": "Oh uh-huh Uh what are the ages of your kids then",
+                "label": "b"
+            },
+            {
+                "text": "They range from twenty-four to five",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah So you have some in the nest and some out huh",
+                "label": "b"
+            },
+            {
+                "text": "Thats right How old are your children",
+                "label": "na"
+            },
+            {
+                "text": "We have - ours start at twelve and then they go down to four",
+                "label": "%"
+            },
+            {
+                "text": "I think the hardest thing for us has been is to find ac- you know leisure time activities that all of our kids can enjoy together --",
+                "label": "sd"
+            },
+            {
+                "text": "I bet yeah",
+                "label": "ba"
+            },
+            {
+                "text": "-- with the age span that we have you know like the older kids love playing board games and that kind of thing --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but the young kids dont understand it --",
+                "label": "sd"
+            },
+            {
+                "text": "Yes uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and so they get real frustrated when we try to do that and -",
+                "label": "sd"
+            },
+            {
+                "text": "Yes and then if you want to play something on the little kids level then the older kids get real bored and they want to do something else So -",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Yeah I can I can relate to that Um do you feel that the current trend in families spending time together is positive one or negative one",
+                "label": "b"
+            },
+            {
+                "text": "I think its improving actually",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "We had an interesting experience the other day We we have pretty much routine that we spend we dont have our kids play with other kids on Sunday --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and we just kind of keep them at home --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and our next door neighbor uh - we were at soccer game Saturday and our next door neighbor was there and somebody came up and asked if their daughter could spend Saturday night at their house --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and she said no Sundays our family day --",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and we keep our kids at home so we can spend time with them",
+                "label": "^q"
+            },
+            {
+                "text": "Thats good",
+                "label": "ba"
+            },
+            {
+                "text": "And I think those kinds of things are happening lot where we are right now",
+                "label": "sv"
+            },
+            {
+                "text": "Oh good",
+                "label": "ba"
+            },
+            {
+                "text": "I think its gone to one extreme where the families were just running all different direction --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and I think more people are interested in spending time with their kids now",
+                "label": "sv"
+            },
+            {
+                "text": "I think so and I feel like you know like President Bush Bush has mentioned quite often that we are trying to become kinder and gentler nation and it does begin with the families at home --",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and so I Im firm believer in that too",
+                "label": "sd"
+            },
+            {
+                "text": "I think lot of people are panicked how kids are turning out and how things are going for kids and realizing theyve got to start doing something So -",
+                "label": "sv"
+            },
+            {
+                "text": "Yes thats thats true Well we see that lot out here in Utah and um hopefully hopefully its going to spread huh",
+                "label": "aa"
+            },
+            {
+                "text": "Utahs lot better than Texas",
+                "label": "sv"
+            },
+            {
+                "text": "Oh Um do you have lot of large families out there in Texas or -",
+                "label": "b"
+            },
+            {
+                "text": "Very few",
+                "label": "ng"
+            },
+            {
+                "text": "Very few You feel like youre in the minority",
+                "label": "b^m"
+            },
+            {
+                "text": "Oh definitely When we tell people how many kids we have they look at us like we didnt have good sense",
+                "label": "na"
+            },
+            {
+                "text": "Oh dear",
+                "label": "ba"
+            },
+            {
+                "text": "But uh -",
+                "label": "%"
+            },
+            {
+                "text": "Well out here in Utah five is about the --",
+                "label": "sd"
+            },
+            {
+                "text": "Average",
+                "label": "^2"
+            },
+            {
+                "text": "-- the average yeah",
+                "label": "+"
+            },
+            {
+                "text": "My wife and I were in Utah until --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- I guess we were about twenty-four",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Never been back since then but",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "We have kids up there now so we get up occasionally",
+                "label": "+"
+            },
+            {
+                "text": "Oh Oh I have some relatives out there in Texas in fact my moms out there in Texas right now in Dallas spending month with her cousins on their ranch and -",
+                "label": "b"
+            },
+            {
+                "text": "Where where in Dallas",
+                "label": "qw"
+            },
+            {
+                "text": "Well uh no Im trying Aberdeen",
+                "label": "ar"
+            },
+            {
+                "text": "Huh",
+                "label": "br"
+            },
+            {
+                "text": "Is is that close to Dallas",
+                "label": "qy"
+            },
+            {
+                "text": "I dont have any idea Ive never --",
+                "label": "no"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "-- heard of it Must be --",
+                "label": "+"
+            },
+            {
+                "text": "Dont you",
+                "label": "%"
+            },
+            {
+                "text": "-- little town",
+                "label": "+"
+            },
+            {
+                "text": "Its I guess its out there clear out They have ranch that has like five hundred acres and -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            }
+        ]
+    }
+]

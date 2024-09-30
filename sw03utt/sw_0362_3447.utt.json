@@ -1,0 +1,327 @@
+[
+    {
+        "conversation_id": "conv_3447",
+        "turns": [
+            {
+                "text": "The way - Ill go ahead and start the way I work uh the way I dress --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- for work is uh this year nineteen ninety-one has been really suit and tie or I shouldnt say suit but coat and tie every day",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "year ago I changed jobs from being researcher --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- to doing marketing for the research group",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Which means kind of I guess its different set of standards I guess",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So uh I I dress almost the same every day I mean pretty much its white shirt and --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- slacks and shoes and --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- coat But it was very different before How do you dress",
+                "label": "+"
+            },
+            {
+                "text": "Well Im drafter so I just wear blue jeans and tennis shoes and I have sweatshirt on today",
+                "label": "^h"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And thats pretty much the norm for me If I come in in dress everybodys shocked",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah I understand",
+                "label": "b"
+            },
+            {
+                "text": "They ask me you know what are you doing in dress and its usually I havent done my laundry lately",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "Ran out of jeans",
+                "label": "^q"
+            },
+            {
+                "text": "I understand thats funny So does it change",
+                "label": "b"
+            },
+            {
+                "text": "No",
+                "label": "nn"
+            },
+            {
+                "text": "Your dress no",
+                "label": "b"
+            },
+            {
+                "text": "No huh-uh",
+                "label": "nn^m"
+            },
+            {
+                "text": "So or I guess do you have things like presentations to do or anything like that",
+                "label": "qy"
+            },
+            {
+                "text": "No huh-uh",
+                "label": "nn"
+            },
+            {
+                "text": "So back in my old job up until through nineteen eighty --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- I would usually wear blue jeans and pullover shirts and the like but probably once month or so there was some reason that I would have to put on suit",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "For customer presentation or something",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah Every now and then Ill get dressed up and come in but thats for my husbands job and not mine",
+                "label": "b"
+            },
+            {
+                "text": "Oh I see I understand",
+                "label": "b"
+            },
+            {
+                "text": "I have to go to business meeting once month with him but -",
+                "label": "sd"
+            },
+            {
+                "text": "Oh Well thats interesting",
+                "label": "ba"
+            },
+            {
+                "text": "So -",
+                "label": "+"
+            },
+            {
+                "text": "Lets see uh what else about this uh it it seems like I is pretty cut and dried with two like two or three levels",
+                "label": "^h"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "That theres the - upper management that always wears gray suits",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And the people that dont uh I would if you if I want to say dont have power or dont have authority or whatever --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- like I used to be in that research --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and I guess you are",
+                "label": "qy^d"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "That we dress in the jeans and then theres kind of the the branch manager level --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- or marketing people that kind of do that middle thing",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "aa"
+            },
+            {
+                "text": "But theres not much",
+                "label": "sv"
+            },
+            {
+                "text": "Mi- middle of the road",
+                "label": "sv"
+            },
+            {
+                "text": "Its nice that theres not requirement --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "aa"
+            },
+            {
+                "text": "-- for it",
+                "label": "+"
+            },
+            {
+                "text": "Sometimes I think there should be Some of these women around here look like they came off of Harry Hines",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah right Yeah I guess you see those once in while",
+                "label": "aa"
+            },
+            {
+                "text": "And you know the they have the no shorts deal and some of these mini skirts you know are worse than shorts ever thought about being",
+                "label": "sd"
+            },
+            {
+                "text": "Sure",
+                "label": "aa"
+            },
+            {
+                "text": "But uh",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "You know thats I guess thats one of the things you got to put up with when you dont have dress code",
+                "label": "+"
+            },
+            {
+                "text": "Thats right thats right I guess theyre the isnt there dress code something about spaghetti straps Im not even sure what they are",
+                "label": "aa"
+            },
+            {
+                "text": "Supposedly and backless things --",
+                "label": "sv"
+            },
+            {
+                "text": "Oh backless all right",
+                "label": "b"
+            },
+            {
+                "text": "-- but Ive seen those too but -",
+                "label": "sd"
+            },
+            {
+                "text": "Okay so this wasnt necessarily big conversation but I think we we did it",
+                "label": "b"
+            },
+            {
+                "text": "Uh yeah",
+                "label": "b"
+            },
+            {
+                "text": "Okay and and your name was Lisa",
+                "label": "b"
+            },
+            {
+                "text": "Lisa",
+                "label": "na^m"
+            },
+            {
+                "text": "Great",
+                "label": "ba"
+            },
+            {
+                "text": "Are you the Expressway sites",
+                "label": "qy"
+            },
+            {
+                "text": "I am yes and I work in the north building",
+                "label": "na"
+            },
+            {
+                "text": "Oh okay",
+                "label": "bk"
+            },
+            {
+                "text": "Uh well thank you",
+                "label": "ft"
+            },
+            {
+                "text": "Thank you",
+                "label": "ft^m"
+            },
+            {
+                "text": "All right good day",
+                "label": "fc"
+            },
+            {
+                "text": "uh-huh bye-bye",
+                "label": "fc"
+            }
+        ]
+    }
+]

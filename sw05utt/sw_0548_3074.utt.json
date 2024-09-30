@@ -1,0 +1,751 @@
+[
+    {
+        "conversation_id": "conv_3074",
+        "turns": [
+            {
+                "text": "Yes um I I think that Plano has really done fantastic job I mean at least their plans have are good Um how- however I was - maybe you saw in the paper this morning that um theyve had some problems with",
+                "label": "o"
+            },
+            {
+                "text": "With the plastic",
+                "label": "^2"
+            },
+            {
+                "text": "the recycling on plastic uh-huh I thought that was most interesting",
+                "label": "+"
+            },
+            {
+                "text": "Well I just I thought it was sad that they it started out as good program two utts",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But then people started dumping trash",
+                "label": "+"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "and the wrong objects in there and I",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and that concerned me that people were using it as way to get rid of things they just didnt want to set at the curb or take to the --",
+                "label": "+"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "-- dump and",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and uh",
+                "label": "+"
+            },
+            {
+                "text": "I guess thats going to happen",
+                "label": "sv"
+            },
+            {
+                "text": "I its too bad that people have to ruin",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "good part thing",
+                "label": "+"
+            },
+            {
+                "text": "really good effort thats right yeah",
+                "label": "bf"
+            },
+            {
+                "text": "But uh -",
+                "label": "%"
+            },
+            {
+                "text": "Well I was thinking about the other day um when I when Dick and I were oh many many years ago when we were first married and he was in graduate school in Missouri um I went oh - I was probably this was probably - see it have been like nineteen sixty-seven or sixty-eight um we I went to meeting and uh one of the the speakers at the meeting was woman who was recycling and um",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "she was from Saint Louis and she had this fantastic um family effort in in recycling and she was dividing her colored glass and her plastics",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "and her aluminum and I thought wow I mean how one person is doing that you know but my my thought was its shame I mean its wonderful that shes doing it and it but wouldnt it be mu- much nicer if we all did it because her effort would have really um really uh been good example for all of us And yet you know and we were just sort of talking about it at the time And here we are you know now were doing it on",
+                "label": "+"
+            },
+            {
+                "text": "Doing it -",
+                "label": "ba"
+            },
+            {
+                "text": "city wide basis in in communities So its wonderful that weve come that far I think but slash error",
+                "label": "+"
+            },
+            {
+                "text": "What did she do with - if if she - was she like group that was doing it",
+                "label": "%"
+            },
+            {
+                "text": "Um",
+                "label": "+"
+            },
+            {
+                "text": "or was she doing it on her own and",
+                "label": "qrr"
+            },
+            {
+                "text": "I think she was",
+                "label": "sd"
+            },
+            {
+                "text": "what did she do with the -",
+                "label": "+"
+            },
+            {
+                "text": "I was trying to remember it seems to me that she was doing it on her own and living in Saint Louis there were places where she could actually take her",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "uh things herself uh and so it wasnt you know something that was being picked up or um and I think she was encouraging other people to do it if they would But I remember her saying yes I have trash can for this and trash can for that and trash can for the other thing and I thought wow thats that is wonderful that somebody does that",
+                "label": "+"
+            },
+            {
+                "text": "You you have to really want to do it though",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "This is - even even what you recycle - because we we do the the plastics and the",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and the aluminum",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "and the glass and the paper",
+                "label": "+"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "And um and of course then you know you try to buy right too but slash error",
+                "label": "sv"
+            },
+            {
+                "text": "Sure you do uh-huh",
+                "label": "ba"
+            },
+            {
+                "text": "Um lot of our neighbors say well what you have to rinse out this and you have to make sure its that sd",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and you have to - its uh we we had neighbors that complained when we got the new garbage cans",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh Isnt that amazing",
+                "label": "b"
+            },
+            {
+                "text": "And I thought what are you complaining about",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Well you know",
+                "label": "%"
+            },
+            {
+                "text": "when youre only going to get picked up once month you know",
+                "label": "+"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "or once week and -",
+                "label": "+"
+            },
+            {
+                "text": "People I dont know they find fault in everything rather than say this is good effort",
+                "label": "sv"
+            },
+            {
+                "text": "Rather than work with it",
+                "label": "bf"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I dont know Its its - I under- I know what youre saying kind of people like that - and slash error",
+                "label": "h"
+            },
+            {
+                "text": "Well its for everybodys benefit",
+                "label": "sv"
+            },
+            {
+                "text": "Well sure it is ba",
+                "label": "+"
+            },
+            {
+                "text": "I mean its its not so maybe we dont realize it in our lifetime but we you have to think grandchildren",
+                "label": "%"
+            },
+            {
+                "text": "Yep",
+                "label": "b"
+            },
+            {
+                "text": "and great grandchildren and",
+                "label": "+"
+            },
+            {
+                "text": "Yeah its on down the line",
+                "label": "b"
+            },
+            {
+                "text": "what kind of quality of life are you leaving them",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And and the and I have real concern about that",
+                "label": "sd"
+            },
+            {
+                "text": "Yes Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Uh",
+                "label": "%"
+            },
+            {
+                "text": "I agree When -",
+                "label": "aa"
+            },
+            {
+                "text": "Weve never had much trash because wh- while - I was raised in big family and",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and Genes family wasnt big but they werent rich",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and they had to to recycle",
+                "label": "sd"
+            },
+            {
+                "text": "Sure",
+                "label": "ba"
+            },
+            {
+                "text": "And and you know the fu- - well they didnt - they just used things they didnt",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "throw things away",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "before they were used up and -",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Well I know um I guess I got good example from my mother because she was always very very conscientious about recycling things and she is to this day and you know I mean shell even -",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "um if she - for instance she she would take the waxed paper out of cereal box and use that for you know when she made cookies it would go on that or",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "if she needed to wrap something for needed uh sandwich paper or something shed use that",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "She just she recycles everything And I have done the same thing I recycle like zip lock bags and",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "things like that My kids get the biggest kick out of that Although they do the same thing I mean they --",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- I think they give me hard time but I think they know that thats",
+                "label": "+"
+            },
+            {
+                "text": "Theyve picked up the hab- -",
+                "label": "bf"
+            },
+            {
+                "text": "its the right way",
+                "label": "+"
+            },
+            {
+                "text": "Well they do and when they actually get out away from the home",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and have to do their own buying of things",
+                "label": "+"
+            },
+            {
+                "text": "Yes and they appreciate how much it costs to do that",
+                "label": "aa"
+            },
+            {
+                "text": "Th- and then they say well hey you know mom used to do this and --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- dad used to do that",
+                "label": "+"
+            },
+            {
+                "text": "Thats right",
+                "label": "aa"
+            },
+            {
+                "text": "and pretty soon theyre theyre figuring out thats not such bad way slash error with utt2 one utt to go slash error",
+                "label": "sv@"
+            },
+            {
+                "text": "Thats true yeah slash error--two utts",
+                "label": "aa@"
+            },
+            {
+                "text": "But -",
+                "label": "+"
+            },
+            {
+                "text": "Well I dont know you know I I wonder how how you instill in people the necessity for doing just little bit extra to to make this whole thing work I mean the extra like washing out bottles and jars or the extra of actually uh making sure that uh you take stuff over to you know - some people are compl- now are complaining because the stuff isnt picked up at the curbside you know and I think golly Moses you just do your part You know people are not - you you you cant be waited on all your life and expect things to always ha- work ou- out",
+                "label": "h"
+            },
+            {
+                "text": "Right Well see this this is what concerns me You - over in Europe they dont have the kind of waste we do here",
+                "label": "b"
+            },
+            {
+                "text": "No thats right",
+                "label": "aa"
+            },
+            {
+                "text": "You youve got to be in country even in in Mexico",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "you dont see things thrown away",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "like we do here",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "I mean what we throw away is is ransom kings",
+                "label": "sv"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "ransom to most people",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and I - and even to people in our country",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "who scavenge for food and",
+                "label": "+"
+            },
+            {
+                "text": "Yeah yeah",
+                "label": "b"
+            },
+            {
+                "text": "and and I I think you have to get into period of need",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "bef- - you cant tell person that lives in hundred two hundred three hundred thousand dollar house that have all that they need",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and all that they could want --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- that theyve got to be careful",
+                "label": "+"
+            },
+            {
+                "text": "No",
+                "label": "aa"
+            },
+            {
+                "text": "This is uh I this is why I thought Jimmy Carter was never very po- very pos- -",
+                "label": "sd"
+            },
+            {
+                "text": "Uh slash error",
+                "label": "b@"
+            },
+            {
+                "text": "you know people didnt like him",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "+"
+            },
+            {
+                "text": "Because he tried to say",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "turn off the lights",
+                "label": "+"
+            },
+            {
+                "text": "Yeah right",
+                "label": "aa"
+            },
+            {
+                "text": "conserve this do that",
+                "label": "+"
+            },
+            {
+                "text": "do those little things yeah",
+                "label": "bf"
+            },
+            {
+                "text": "And and uh",
+                "label": "sv"
+            },
+            {
+                "text": "that make lot of difference uh-huh",
+                "label": "bf"
+            },
+            {
+                "text": "the pe- I nobody wanted to hear it",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Yeah its I you know - and",
+                "label": "aa"
+            },
+            {
+                "text": "Its -",
+                "label": "%"
+            },
+            {
+                "text": "I think youre right though I think that it has to really hit home before",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "the message sometimes Or you have to grow up with it being im- important in your life",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "um oh oh um before the message really takes hold sometimes And um I dont know its uh its just really interesting to me how now more aware of things I am than I even myself than I used to be",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "few years ago I mean like I Id go to the um to the um cafeteria for lunch sometimes --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and they use styrofoam plates when they wouldnt",
+                "label": "sd"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "need to use styrofoam plates",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "You know and I think to myself thats thats crazy I wonder if you know maybe I need to bring that to someones attention you know",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and and uh Im seeing more and more of that and and I think its uh just McDonalds effort to reduce the number of of styrofoam uh boxes that they use",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "sd"
+            },
+            {
+                "text": "for hamburgers and stuff I think is good good example you know that even",
+                "label": "+"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "industry is willing to do it",
+                "label": "+"
+            },
+            {
+                "text": "I I think the big question too were looking at is would you be willing to pay more for product",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "so it can be recycled",
+                "label": "+"
+            },
+            {
+                "text": "Well I think that may thats kind of what its coming to Im sure",
+                "label": "sv"
+            },
+            {
+                "text": "Thats thats right and",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and uh do we have to wait until all the landfills",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "are full and there is nowhere else to put our garbage",
+                "label": "+"
+            },
+            {
+                "text": "Thats right yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Or and I dont - with the mind set of the American public I think what they will do is start paying Mexico --",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- to take our trash slash error",
+                "label": "+@"
+            },
+            {
+                "text": "Wow That doesnt",
+                "label": "ba"
+            },
+            {
+                "text": "That isnt that isnt harmful sv",
+                "label": "+"
+            },
+            {
+                "text": "wouldnt surprise me uh-huh",
+                "label": "+"
+            },
+            {
+                "text": "Or they will go dump it out in the middle of some ocean",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah yeah Uh slash error",
+                "label": "b"
+            },
+            {
+                "text": "Thats the way we solve problems",
+                "label": "sv"
+            },
+            {
+                "text": "I know it and unfortunately -",
+                "label": "+"
+            },
+            {
+                "text": "And its sad",
+                "label": "sv"
+            }
+        ]
+    }
+]

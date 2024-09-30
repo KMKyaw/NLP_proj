@@ -1,0 +1,851 @@
+[
+    {
+        "conversation_id": "conv_2959",
+        "turns": [
+            {
+                "text": "Are you Vietnam veteran Dudley",
+                "label": "qy"
+            },
+            {
+                "text": "Uh no",
+                "label": "nn"
+            },
+            {
+                "text": "No Do you have family who were in the Vietnam War",
+                "label": "bh"
+            },
+            {
+                "text": "Uh no My father was uh came in right after World War two",
+                "label": "nn"
+            },
+            {
+                "text": "Okay So he was too old and you were too young right",
+                "label": "bk"
+            },
+            {
+                "text": "I am too young yeah",
+                "label": "na"
+            },
+            {
+                "text": "All right Do you know some folks who have been there",
+                "label": "bk"
+            },
+            {
+                "text": "Uh yes",
+                "label": "ny"
+            },
+            {
+                "text": "Okay",
+                "label": "bk"
+            },
+            {
+                "text": "couple",
+                "label": "sd"
+            },
+            {
+                "text": "Okay How did it influence them",
+                "label": "b"
+            },
+            {
+                "text": "Uh the the one guy I worked with down in Austin hated it Uh he was lineman down there",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And while he was there he caught some kind of strange disease",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh all his hair fell out and he had like hundred and five fever for while and",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And uh -",
+                "label": "+"
+            },
+            {
+                "text": "Uh what about long lasting effects on him Has he still suffering from those problems",
+                "label": "qw"
+            },
+            {
+                "text": "I do not think he was in combat",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "so",
+                "label": "%"
+            },
+            {
+                "text": "Well I have talked with number of Vietnam veterans and I really I had no one directly related to me involved",
+                "label": "sd^t"
+            },
+            {
+                "text": "uh-huh",
+                "label": "+"
+            },
+            {
+                "text": "But uh my sisters husband was in Vietnam And it it really made completely different man out of him",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "He went to Vietnam one man and came back another not better",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Then uh another friend of mine went and he was in combat But he came back and he said Okay that is it That is behind me I am going on with my life Much like what Roger Staubach did",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "He was uh he was Vietnam war veteran",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "And uh -",
+                "label": "%"
+            },
+            {
+                "text": "But he was in the Navy though",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "he was",
+                "label": "+"
+            },
+            {
+                "text": "That is true",
+                "label": "ba"
+            },
+            {
+                "text": "It makes lot of difference",
+                "label": "sd"
+            },
+            {
+                "text": "Right And but uh most of the folks that I have met that were actually on the land or in combat are still still carry lot of anger",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "They really do And uh I I I I really do not think that we did those young men right",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "I think that uh Desert Storm shows lot of learning since that time",
+                "label": "sv"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "Uh",
+                "label": "%"
+            },
+            {
+                "text": "Well the armed forces did so much to you know Agent Orange they did so much to their own people all during that time",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah That is true",
+                "label": "b"
+            },
+            {
+                "text": "You know and they ta- they take",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "even now uh they take free hand as far as medicine and uh you know how they treat the war casualties you know If you come back and your leg is blown off",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "you know or or it is hanging by thread they still cant put it back together now But",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But what they do afterwards and how they re- rehabilitate you -",
+                "label": "+"
+            },
+            {
+                "text": "Well you know one of the most troublesome things that I have encountered as result is the incredible influx of southeast Asians into this country --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- since that conflict",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Uh not so much that I say I do not want you here But there is just such surge of southeast Asians It has affected the culture of this country uh",
+                "label": "sv"
+            },
+            {
+                "text": "Oh yeah Its ab-",
+                "label": "ba"
+            },
+            {
+                "text": "very much",
+                "label": "+"
+            },
+            {
+                "text": "its about nine or ten percent now",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Yeah Yeah Well uh the culture is changing Look how much more Oriental food we have restaurants now",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "for example Uh even ten years ago there were not that many lot of shops are are operated by southeast Asians",
+                "label": "+"
+            },
+            {
+                "text": "Thats true",
+                "label": "ba"
+            },
+            {
+                "text": "lot of people have complained in the schools There is culture change there The southeast Asians seem to be very hungry there seem to be very studious And uh tends to cause our kids to really have to buckle down to keep up with them which is not bad",
+                "label": "sv"
+            },
+            {
+                "text": "No",
+                "label": "b"
+            },
+            {
+                "text": "Not really Uh but it might in the long run you can see where scholarships for example",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "uh even jobs Uh jobs that would normally go to an American with lesser education might be going to to some of these people here And that is all result of of of Vietnam And and you see lot of lot of men that were over there brought families back",
+                "label": "+"
+            },
+            {
+                "text": "Yeah That is -",
+                "label": "b"
+            },
+            {
+                "text": "Uh and it concerns me that there is probably lot of mixed breed youngsters still there",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And I would be concerned or interested to find out how they are doing now",
+                "label": "sd"
+            },
+            {
+                "text": "Well they are probably not doing very well at all",
+                "label": "sv"
+            },
+            {
+                "text": "I know that there -",
+                "label": "%"
+            },
+            {
+                "text": "Because I know there is there is still people even in the Dallas area There are there are still people trying to get some member of their family back from uh Vietnam",
+                "label": "sv"
+            },
+            {
+                "text": "You are talking about - --",
+                "label": "qr"
+            },
+            {
+                "text": "Uh",
+                "label": "%"
+            },
+            {
+                "text": "-- or --",
+                "label": "+"
+            },
+            {
+                "text": "uh",
+                "label": "%"
+            },
+            {
+                "text": "-- missing in actions",
+                "label": "+"
+            },
+            {
+                "text": "na- native Vietnamese people",
+                "label": "sd"
+            },
+            {
+                "text": "Native Vietnamese people",
+                "label": "bf"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Okay",
+                "label": "b"
+            },
+            {
+                "text": "They were lost you know when they were little and and they - never did get back or -",
+                "label": "sd"
+            },
+            {
+                "text": "Oh I had not - That that had not occurred to me",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "That would be --",
+                "label": "sv"
+            },
+            {
+                "text": "And uh",
+                "label": "sv"
+            },
+            {
+                "text": "-- an interesting concept",
+                "label": "+"
+            },
+            {
+                "text": "and as is really big waste because they didnt they didnt win they didnt regain any of the land that they had It spilled over into uh now I cant even think of the country But -",
+                "label": "+"
+            },
+            {
+                "text": "Cambodia",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah Cambodia",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And to Laos and",
+                "label": "+@"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and all they did is run and hide",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And they were not really fighting you know it it would have been the same as Desert Storm if all they had been fighting was North Vietnam",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But and I am not even sure who was involved more Whether it was China or Russia",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know they were pouring they were pouring weapons in there and and advising well digging tunnels for them",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know and there is no way that they could ever catch them",
+                "label": "+"
+            },
+            {
+                "text": "Well I think the terrain had lot to do with the the success of Desert Storm as opposed to that in Vietnam",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah that is right",
+                "label": "b"
+            },
+            {
+                "text": "You know there is incredible cover --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- in Vietnam And you cant find much cover on in sand --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- dune",
+                "label": "+"
+            },
+            {
+                "text": "yeah all they can do is dig in and they",
+                "label": "b"
+            },
+            {
+                "text": "That is right",
+                "label": "ba"
+            },
+            {
+                "text": "you know - and then they try to camouflage the top",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Well now even I think even now and in Vietnam they could probably have done better job Because they could they could kill all those plants you know which would devastate the country as far as farming from then on But and the and the Corps of Engineers I think do better job now like they did in Desert Storm Because --",
+                "label": "sv"
+            },
+            {
+                "text": "Well -",
+                "label": "%"
+            },
+            {
+                "text": "-- they had - he he dug bunch of moats and filled them with oil --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and he set lot of booby traps all along the way as they went And they had to you know they had to blow them up or",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "or disarm them",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And then they had to fill in little bridges all the way where he where he had made those moats",
+                "label": "sd"
+            },
+            {
+                "text": "What world war do you think they found the experience for that",
+                "label": "qw"
+            },
+            {
+                "text": "Uh",
+                "label": "%"
+            },
+            {
+                "text": "Dont you think they learned from the mistakes in Vietnam",
+                "label": "qy"
+            },
+            {
+                "text": "- - yeah partially",
+                "label": "%"
+            },
+            {
+                "text": "Part of it is that",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "part of it is technology",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Part of it is technology yeah",
+                "label": "b"
+            },
+            {
+                "text": "But --",
+                "label": "sv"
+            },
+            {
+                "text": "Because --",
+                "label": "%"
+            },
+            {
+                "text": "-- when when",
+                "label": "+"
+            },
+            {
+                "text": "-- all - go ahead",
+                "label": "+"
+            },
+            {
+                "text": "When you get into trouble like that in place like Vietnam you do tend to analyze the problems that you get into and you say Never more",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And and you overcome those problems and you are prepared next time",
+                "label": "sv"
+            },
+            {
+                "text": "I think that is one of the reasons that they have they have pretty much avoided getting involved in South America Because --",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- look what happened when they were looking for Noriega and they lost him for four hours when they were right on top of him",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "you know",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "He probably just went right down into tunnel",
+                "label": "sv"
+            },
+            {
+                "text": "Sure Sure Sure Well I know that uh from personal standpoint people was one of the finest assets that we lost We did not actually physically lose them They did not lose their lives but they lost whole lot of the life they might have had",
+                "label": "b"
+            },
+            {
+                "text": "Yeah That is right",
+                "label": "b"
+            },
+            {
+                "text": "Uh being entirely different people I had dinner Monday night with Vietnam veteran who is just now beginning to recover from the drug and alcohol struggle that he had",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "That is long time to suffer",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah And they they really need - everybody that has that has stood there - its - when i- - in Vietnam I think it was much closer contact You stand there with rifle and blow piece of somebody apart",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "or blow their head off",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and that has to affect you if you are human you know",
+                "label": "sv"
+            },
+            {
+                "text": "Oh yeah yeah",
+                "label": "ba"
+            },
+            {
+                "text": "So they had to --",
+                "label": "sv"
+            },
+            {
+                "text": "I cant uh -",
+                "label": "%"
+            },
+            {
+                "text": "-- work all that that anger out and the and the nightmares that come along with it",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah You bet",
+                "label": "ba"
+            },
+            {
+                "text": "I do not",
+                "label": "sv"
+            },
+            {
+                "text": "you bet",
+                "label": "ba"
+            },
+            {
+                "text": "I do not really think that anybody can ever for- forget that but they can they can reason and",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and try to adjust to to why they were there",
+                "label": "+"
+            },
+            {
+                "text": "Yeah Well you see that is what the veterans are so angry about now They say Well were going to listen to this and we are going to look at this find out what our mistakes were and we are not going to make them again But that does not undo the ones that were done And that is what makes the veterans angry",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And I cannot blame them I do not know solution",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But I sure cannot blame them for being angry On the other hand you know you can be angry about something for very long time or you can say Well that is the way it is and go on with your life Uh",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "For the most part I wish that it had not happened",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But it did",
+                "label": "sd"
+            },
+            {
+                "text": "And that",
+                "label": "sv"
+            },
+            {
+                "text": "So",
+                "label": "%@"
+            },
+            {
+                "text": "and that was that was in the in the era when Kennedy was president that they were afraid of everything",
+                "label": "+"
+            },
+            {
+                "text": "That is right",
+                "label": "+@"
+            },
+            {
+                "text": "you know And and and they - initially got into it because of Eisenhower And he just he did not want to be in it any more than than what we started out in August with Desert Storm",
+                "label": "+"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "ba"
+            },
+            {
+                "text": "And then it just blew up into the war",
+                "label": "sv"
+            },
+            {
+                "text": "Well it has been that way for very very long time though I can remember when I was in the sixth grade and that was many years ago",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "We were reading about the French --",
+                "label": "sd"
+            },
+            {
+                "text": "French yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- struggling with that --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- in southeast Asia So and and and the Asians historically have always had these kinds of wars going on",
+                "label": "+"
+            },
+            {
+                "text": "Right yeah",
+                "label": "b"
+            },
+            {
+                "text": "There there has not been lot of peace in that part of the world",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I really I do not know i- we should not have maybe gotten involved But if we did we certainly should have supported our people who were there",
+                "label": "h"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "More so supported them when they got home",
+                "label": "sv"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And uh I am afraid that they were treated as castaways for the most part",
+                "label": "sv"
+            },
+            {
+                "text": "Exactly",
+                "label": "ba"
+            },
+            {
+                "text": "And I I saw the movie BORN ON THE FOURTH OF JULY and I think it did good job depicting the temperament of the times",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Yeah More than what was APOCALYPSE NOW",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh Well Dudley have we pretty well discussed the subject",
+                "label": "b"
+            },
+            {
+                "text": "Yeah I think so",
+                "label": "b"
+            },
+            {
+                "text": "Well I think so I enjoyed talking to you",
+                "label": "sv"
+            },
+            {
+                "text": "Yes it was nice talking to you",
+                "label": "fc"
+            },
+            {
+                "text": "uh-huh",
+                "label": "fc"
+            },
+            {
+                "text": "Okay bye-bye",
+                "label": "fc"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc^m"
+            }
+        ]
+    }
+]

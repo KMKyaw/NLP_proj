@@ -1,0 +1,367 @@
+[
+    {
+        "conversation_id": "conv_4643",
+        "turns": [
+            {
+                "text": "You interested in woodworking",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah Actually I uh I guess I am Um it just seems kind of funny that this is topic of discussion Uh I do uh some uh woodworking myself Uh in fact Im in the middle of project right now making bed for my son",
+                "label": "ny"
+            },
+            {
+                "text": "Um What kind of -- -",
+                "label": "qw"
+            },
+            {
+                "text": "Its uh",
+                "label": "sd"
+            },
+            {
+                "text": "-- pine",
+                "label": "qy^2"
+            },
+            {
+                "text": "Its uh its uh plywood uh face I guess But I cut it out in the shape of crayon box and then I painted uh about eight different uh colors uh you know the crayons that are sticking up it will be the headboard --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh I guess hes young",
+                "label": "b"
+            },
+            {
+                "text": "-- and then - yes Hes about five and half years old",
+                "label": "%"
+            },
+            {
+                "text": "Oh hell be delighted",
+                "label": "sv"
+            },
+            {
+                "text": "Oh yeah uh-huh Now I just have to finish it though I got uh it got delayed for little bit and uh because of work and now uh Ive got to jump back in and finish the - because Ive got it all cut out its all uh - Ive done most of the coloring but Ive got to go second layer with the yellow",
+                "label": "aa"
+            },
+            {
+                "text": "Did you do it with jigsaw or do you have powered you know -",
+                "label": "qr"
+            },
+            {
+                "text": "Uh yeah Uh I did uh jigsaw uh and the uh regular straight saw for some of it",
+                "label": "ny"
+            },
+            {
+                "text": "Um",
+                "label": "b"
+            },
+            {
+                "text": "So yeah to do the uh th- the turn cut Uh how about yourself",
+                "label": "b"
+            },
+            {
+                "text": "Well Im I am interested in woodworking I dont have lots of tools Our local schools have adult education in the evening --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh and I use their tools - - an- and some of their guidance Im an artist",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay",
+                "label": "b"
+            },
+            {
+                "text": "And Im very handy and you know if I touch it it turns into something us- --",
+                "label": "sd"
+            },
+            {
+                "text": "Thats great",
+                "label": "ba"
+            },
+            {
+                "text": "-- usually Im slash error",
+                "label": "+"
+            },
+            {
+                "text": "What what type of art do you focus on",
+                "label": "qw"
+            },
+            {
+                "text": "Uh well actually Im very you know - slash error I have Masters degree and and my projects had to do with acrylic painting but Im really interested in the crafts",
+                "label": "+@"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "I make stain glass Ive done some silver jewelry making and I kind of - once I get so- you know really pretty good at something I want to try something else",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah Kind of jack of all trades master of none",
+                "label": "b"
+            },
+            {
+                "text": "Yeah well no actually I get good enough to sell it or have people say oh wow you didnt buy it you made it",
+                "label": "aa"
+            },
+            {
+                "text": "Thats great",
+                "label": "ba"
+            },
+            {
+                "text": "And then I its like well the thrill is gone so lets do something else",
+                "label": "%"
+            },
+            {
+                "text": "Right You want to uh - explore new field or or -",
+                "label": "aa"
+            },
+            {
+                "text": "Well yeah I Im signed up for class in pottery making because Ive never tried that yet --",
+                "label": "aa"
+            },
+            {
+                "text": "Huh So you --",
+                "label": "qw"
+            },
+            {
+                "text": "-- but -",
+                "label": "%"
+            },
+            {
+                "text": "-- have in in what division of art",
+                "label": "+"
+            },
+            {
+                "text": "Well I I actually have Masters of art and its in art education",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay",
+                "label": "bk"
+            },
+            {
+                "text": "So Im licensed teacher but jobs being what they are I substitute teach --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- and that way I have time for my kids too And Ive been fortunate that I can afford to work part-time I dont know how long thats going to last",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b^r"
+            },
+            {
+                "text": "And uh theyre cutting back so I dont go in all that often but --",
+                "label": "sd"
+            },
+            {
+                "text": "Huh slash error",
+                "label": "b@"
+            },
+            {
+                "text": "-- Ive been real interested in some of those cute country country kind of things",
+                "label": "+"
+            },
+            {
+                "text": "Yeah slash error",
+                "label": "b@"
+            },
+            {
+                "text": "Uh I see stuff in craft galleries for five hundred dollars and I say oh no and and I go and I make it",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b^r"
+            },
+            {
+                "text": "Thats how I started jewelry making I I love to cook",
+                "label": "sd"
+            },
+            {
+                "text": "Oh thats great",
+                "label": "ba"
+            },
+            {
+                "text": "And I saw silver necklace that had these little teeny weeny silver spatulas and and and knife and and fork and all kinds of stuff --",
+                "label": "sd"
+            },
+            {
+                "text": "Huh slash error",
+                "label": "b@"
+            },
+            {
+                "text": "-- and I went and I signed up for class because then again you get you know get someone to guide you and you get the tools you dont --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah slash error",
+                "label": "b@"
+            },
+            {
+                "text": "-- feel like buying",
+                "label": "+"
+            },
+            {
+                "text": "Exactly",
+                "label": "aa"
+            },
+            {
+                "text": "And I made necklace that I saw in gallery for three hundred twenty dollars It took me lot of time but --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- it didnt - but if it cost me twenty dollars you know - and then I -",
+                "label": "+"
+            },
+            {
+                "text": "And your time then youre that much farther ahead",
+                "label": "^2"
+            },
+            {
+                "text": "Yeah Then I saw one of these country looking wood watermelons It was solid watermelon with wedge cut out of it",
+                "label": "b"
+            },
+            {
+                "text": "Right Ive seen them and then the watermelon the red with the with the seeds painted in and -",
+                "label": "b"
+            },
+            {
+                "text": "Oh yeah uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Thats neat",
+                "label": "sv"
+            },
+            {
+                "text": "I went there we have Home Depot out here I dont know if youve heard of it I went and I got --",
+                "label": "sd"
+            },
+            {
+                "text": "Yes We have one",
+                "label": "ny"
+            },
+            {
+                "text": "-- two six foot inch thick boards turned into watermelon I had to cut into slabs and build up this big square and turn it on the lath and --",
+                "label": "+"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "-- cutting that wedge out was no joke",
+                "label": "+"
+            },
+            {
+                "text": "Oh Im Im sure",
+                "label": "ba"
+            },
+            {
+                "text": "We did it on I had uh I did it --",
+                "label": "sd"
+            },
+            {
+                "text": "band saw",
+                "label": "qy^d"
+            },
+            {
+                "text": "-- through Adult Ed again",
+                "label": "+"
+            },
+            {
+                "text": "What",
+                "label": "br"
+            },
+            {
+                "text": "I did it through Adult Ed again",
+                "label": "sd^r"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And the teacher was one of these negative people oh thats dangerous we cant do that we just cant do that And Im going well how about this way I I want to do that that was the plan here",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "So we did get the wedge cut out by building some kind of --",
+                "label": "sd"
+            },
+            {
+                "text": "cradle for it",
+                "label": "^2"
+            },
+            {
+                "text": "-- cradle for it",
+                "label": "+"
+            },
+            {
+                "text": "Yeah so you can steady it and then you used handsaw or backsaw",
+                "label": "b"
+            },
+            {
+                "text": "Well it the instructions in the book I had said use coping saw but theres no coping saw big enough to for fourteen inch wide watermelon that -- -",
+                "label": "sd"
+            },
+            {
+                "text": "Right right",
+                "label": "b"
+            },
+            {
+                "text": "-- and he wanted me to do it by hand with regular saw I said Im not that steady its not going to happen",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So we built cradle for it and we got th- once it was turned we got one - one cut out on the table saw on the radial saw by getting the other one out without the slice now flying in your face was something you had to think about",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "Now did you cut quarter wedge in this",
+                "label": "qy"
+            },
+            {
+                "text": "Uh Id say its about an eighth You know jus- -",
+                "label": "ng"
+            },
+            {
+                "text": "Well I Im envisioning uh uh water- watermelon like log and then uh what Ive seen of this kind before is you have the uh the uh - its uh - if youre looking at adding on you have -",
+                "label": "sd"
+            }
+        ]
+    }
+]

@@ -1,0 +1,699 @@
+[
+    {
+        "conversation_id": "conv_3666",
+        "turns": [
+            {
+                "text": "Hello",
+                "label": "fp"
+            },
+            {
+                "text": "Yes I forgot we had to hit one Our time will be up",
+                "label": "fp"
+            },
+            {
+                "text": "Well I hit one and nothing happened Whats going on",
+                "label": "sd^t"
+            },
+            {
+                "text": "Well just go ahead and talk thats all",
+                "label": "sd"
+            },
+            {
+                "text": "Are you sure",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Dont they usually tell you to say something",
+                "label": "qy^t"
+            },
+            {
+                "text": "I dont think so",
+                "label": "ng"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Okay were supposed to talk about lawn and garden",
+                "label": "b"
+            },
+            {
+                "text": "Yes Im Im supposed to find out what you do for your lawn --",
+                "label": "aa"
+            },
+            {
+                "text": "What do I do",
+                "label": "qy"
+            },
+            {
+                "text": "-- and garden uh-huh",
+                "label": "+"
+            },
+            {
+                "text": "Well I uh I cut it --",
+                "label": "sd"
+            },
+            {
+                "text": "Good",
+                "label": "b"
+            },
+            {
+                "text": "-- occasionally",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh youre ahead of me",
+                "label": "b"
+            },
+            {
+                "text": "Is uh is that good Okay",
+                "label": "qy"
+            },
+            {
+                "text": "Thats better",
+                "label": "na"
+            },
+            {
+                "text": "And I edge it occasionally",
+                "label": "sd"
+            },
+            {
+                "text": "Oh thats really good",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah see am I good or what",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And uh",
+                "label": "sd"
+            },
+            {
+                "text": "I dont do any of that",
+                "label": "sd"
+            },
+            {
+                "text": "Uh much beyond that I dont do",
+                "label": "+"
+            },
+            {
+                "text": "Really well I call my lawn man Eric whatever his name is I cant remember",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Whos going to come and build me fence too",
+                "label": "+"
+            },
+            {
+                "text": "Oh he is going to build you fence",
+                "label": "qy^d"
+            },
+            {
+                "text": "Well hes giving me an estimate",
+                "label": "no"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And for ten dollars week I dont see any reason --",
+                "label": "sv"
+            },
+            {
+                "text": "What for --",
+                "label": "br"
+            },
+            {
+                "text": "-- for me to --",
+                "label": "+"
+            },
+            {
+                "text": "-- fence",
+                "label": "+"
+            },
+            {
+                "text": "-- be doing it No for my yard needs slash unit",
+                "label": "+"
+            },
+            {
+                "text": "Oh well I thought isnt he the same one",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah he is",
+                "label": "+@"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Yeah but ten dollars or what - what does he charge not even that What does he charge me",
+                "label": "b^m"
+            },
+            {
+                "text": "Well my - I dont know",
+                "label": "%"
+            },
+            {
+                "text": "Its like next to nothing Th- its ten because I - its forty month",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But if theres five weeks I still pay forty",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah but you know you ought to get him to - pull the weeds",
+                "label": "b"
+            },
+            {
+                "text": "Well he wont pull weeds He says hell spray them but he wont pull them",
+                "label": "sd"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "Uh he wont cut them is what he wont do",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Because he said with the rocks --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- that its too dangerous for him to take the the trimmer --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- over the rocks and hes right",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Thats true But he just says to keep spraying them so",
+                "label": "sv"
+            },
+            {
+                "text": "Well so -",
+                "label": "%"
+            },
+            {
+                "text": "Anyway Gene sprayed them once or twice for me so --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah so --",
+                "label": "b"
+            },
+            {
+                "text": "-- that was real -",
+                "label": "+"
+            },
+            {
+                "text": "-- you havent you havent pulled any weeds lately",
+                "label": "+"
+            },
+            {
+                "text": "No No There are two out front I thought Id grab one of these days but I havent bothered as I walk on by",
+                "label": "nn"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I started to pull the weeds in the rocks out front --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and all of sudden I came cross this big clump of weeds and there was dog dirt in it --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh oh goody",
+                "label": "ba"
+            },
+            {
+                "text": "-- and I threw the gloves in the trash bag that was out there and I left the whole thing and --",
+                "label": "sd"
+            },
+            {
+                "text": "I thought you were going to say there --",
+                "label": "sd"
+            },
+            {
+                "text": "-- that was about month ago",
+                "label": "+"
+            },
+            {
+                "text": "-- I thought you were going to say there was snake in the weeds",
+                "label": "+"
+            },
+            {
+                "text": "I would rather snake no",
+                "label": "sd"
+            },
+            {
+                "text": "Oh God oh",
+                "label": "ba"
+            },
+            {
+                "text": "I just left the whole thing The bag is still out there because I havent touched it",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I havent gone back over there It really made me mad",
+                "label": "sd"
+            },
+            {
+                "text": "Oh God",
+                "label": "ba"
+            },
+            {
+                "text": "So anyway but -",
+                "label": "%"
+            },
+            {
+                "text": "But uh how are your your flowers your little things you planted Did they die or what",
+                "label": "qw"
+            },
+            {
+                "text": "Oh yeah now they died",
+                "label": "ny"
+            },
+            {
+                "text": "Oh theyre all - so they oh - are they going to come back in the spring",
+                "label": "%"
+            },
+            {
+                "text": "I dont know",
+                "label": "no"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "I dont know and then I got some nice uh mums at Thanksgiving that I put in the pots out there --",
+                "label": "sd^r"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and I thought they were supposed to live through all the cold weather",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "They looked real pretty until about week before Christmas then they started to die too",
+                "label": "sv"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "So I dont think any of it comes back but --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- I dont know maybe these - sometimes things do that arent even supposed to",
+                "label": "+"
+            },
+            {
+                "text": "I dont know uh",
+                "label": "sd"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "Those flowers remember those little ones you gave me",
+                "label": "qy"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah well theyre I know they were still blooming up until about few weeks ago",
+                "label": "b^m"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah",
+                "label": "ny"
+            },
+            {
+                "text": "Well thats good Theyre the best kind",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah they",
+                "label": "b"
+            },
+            {
+                "text": "They theyre like indestructible",
+                "label": "sv"
+            },
+            {
+                "text": "Theyre really pretty",
+                "label": "+"
+            },
+            {
+                "text": "They really grow nice and sometimes theyre not supposed to come back but lots of times they do",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Well see Theyre letting us have lot of time on this --",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah I mean --",
+                "label": "ny"
+            },
+            {
+                "text": "-- arent they",
+                "label": "+"
+            },
+            {
+                "text": "-- isnt it supposed to be five minutes",
+                "label": "+"
+            },
+            {
+                "text": "But thats because we didnt hit one for long time",
+                "label": "sd"
+            },
+            {
+                "text": "We didnt disconnect did we",
+                "label": "qy^g"
+            },
+            {
+                "text": "I hope not Neither one of us --",
+                "label": "sv"
+            },
+            {
+                "text": "Boy I hate to think --",
+                "label": "sd"
+            },
+            {
+                "text": "-- is getting paid for this",
+                "label": "+"
+            },
+            {
+                "text": "-- I hate to think Id be talking to you without getting paid",
+                "label": "+"
+            },
+            {
+                "text": "Yeah really I know it I cant believe this I got somebody from --",
+                "label": "b"
+            },
+            {
+                "text": "What",
+                "label": "br"
+            },
+            {
+                "text": "-- Utah --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and somebody - where was the person last night --",
+                "label": "+"
+            },
+            {
+                "text": "Youre kidding",
+                "label": "ba"
+            },
+            {
+                "text": "-- was from far away",
+                "label": "+"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "And we get each other down the street This is so funny",
+                "label": "sd"
+            },
+            {
+                "text": "Well the uh - I - I talked to someone woman from Oklahoma City and some woman from Dallas and that was it",
+                "label": "%"
+            },
+            {
+                "text": "Yeah Ive had Dallas Arlington Ive had uh one Plano --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and then lady from Brigham Utah whose --",
+                "label": "+"
+            },
+            {
+                "text": "Wow",
+                "label": "ba"
+            },
+            {
+                "text": "-- son lives in Plano on Ranier someplace",
+                "label": "+"
+            },
+            {
+                "text": "Really",
+                "label": "bh"
+            },
+            {
+                "text": "And then uh another state I cant remember but she told me about the Utah Jazz we talked about basketball",
+                "label": "+"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "And I dont remember what what the place was last night but --",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- Im thinking Colorado but Im not sure Id know the place anyway",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So -",
+                "label": "%"
+            },
+            {
+                "text": "I dont know th- -",
+                "label": "h"
+            },
+            {
+                "text": "But mostly theyre from the area",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "It -",
+                "label": "%"
+            },
+            {
+                "text": "Well there isnt really much to talk about as far as lawn and garden goes",
+                "label": "sv"
+            },
+            {
+                "text": "Not for me",
+                "label": "aa"
+            },
+            {
+                "text": "Not for me --",
+                "label": "sd^m"
+            },
+            {
+                "text": "You know not --",
+                "label": "sd"
+            },
+            {
+                "text": "-- either What --",
+                "label": "+"
+            },
+            {
+                "text": "-- not for me --",
+                "label": "+"
+            },
+            {
+                "text": "-- do I -",
+                "label": "+"
+            },
+            {
+                "text": "-- because all I have is rocks and weeds",
+                "label": "+"
+            },
+            {
+                "text": "Yeah but I dont you know - I what do I do cut it one you know and and edge it and thats about it",
+                "label": "b"
+            },
+            {
+                "text": "I know",
+                "label": "sd"
+            },
+            {
+                "text": "What do I do with it",
+                "label": "qw"
+            },
+            {
+                "text": "I know were not typical Texans",
+                "label": "sd"
+            },
+            {
+                "text": "No",
+                "label": "aa"
+            },
+            {
+                "text": "Bu- -",
+                "label": "%"
+            },
+            {
+                "text": "Whats going on are they going to tell us to stop or what",
+                "label": "qw"
+            },
+            {
+                "text": "I dont know I hope so Come on come on",
+                "label": "no"
+            },
+            {
+                "text": "Isnt it five minutes",
+                "label": "qy"
+            },
+            {
+                "text": "I dont know",
+                "label": "no"
+            },
+            {
+                "text": "I I mean Im all talked out about gardens",
+                "label": "sd"
+            },
+            {
+                "text": "I know Well we can talk about something else Its just suggested topic",
+                "label": "sd"
+            },
+            {
+                "text": "Oh oh its just suggested",
+                "label": "qy^d"
+            },
+            {
+                "text": "So hows the baby do you think",
+                "label": "qo"
+            },
+            {
+                "text": "What",
+                "label": "br"
+            },
+            {
+                "text": "Hows the -",
+                "label": "qw"
+            },
+            {
+                "text": "We could talk",
+                "label": "co"
+            },
+            {
+                "text": "Lets talk about the baby",
+                "label": "ad"
+            },
+            {
+                "text": "Lets talk about the baby",
+                "label": "+"
+            }
+        ]
+    }
+]

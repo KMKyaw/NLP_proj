@@ -1,0 +1,223 @@
+[
+    {
+        "conversation_id": "conv_4642",
+        "turns": [
+            {
+                "text": "I uh try to stay away from cars as much as possible in terms of -- -- repair Actually uh that is really sore spot with me I I think perhaps the automotive industry is improving but uh like ten years ago uh reliability of automobiles at least automobiles was pretty dismal and not only that but the uh repair capability of uh service departments and dealerships was equally dismal --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh it seemed that the only way I could reliably take care of my car was to repair it myself which is not my cup of tea",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But uh I -",
+                "label": "%"
+            },
+            {
+                "text": "So do you have car",
+                "label": "qy"
+            },
+            {
+                "text": "Pardon",
+                "label": "br"
+            },
+            {
+                "text": "Do you have car",
+                "label": "qy^r"
+            },
+            {
+                "text": "Well at that time actually I had Volkswagen Rabbit --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and uh it was it was real lemon Uh subsequently I got uh Buick Century and it wasnt as bad",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But uh last year I bought Honda Accord and I take it in once every seventy-five hundred miles for its periodic maintenance and that is it And its wonderful",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah We used to have Honda Accord and theyre good Theyre really good cars Every time I get taken to an auto repair place you know every time I go I get taken Bad --",
+                "label": "b"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know Woman goes in and they go all right we got sucker Lets ge- see how much money we can get out of her you know",
+                "label": "+"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "Thats what happens every time",
+                "label": "sv"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh so -",
+                "label": "%"
+            },
+            {
+                "text": "So wha- what do you have",
+                "label": "qo"
+            },
+            {
+                "text": "I have Pontiac Six Thousand",
+                "label": "sd"
+            },
+            {
+                "text": "All the more reason to uh have Honda",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah But our Honda just got old and just wore out It was lets see eleven years old and it just just out of it - so",
+                "label": "aa"
+            },
+            {
+                "text": "- so you bought Pontiac",
+                "label": "qy"
+            },
+            {
+                "text": "No huh-uh My hu- uh ex-husbands - this is just happened couple of weeks ago Hes my ex-husband but just few months ago when he was my husband uh his father gave us this car and everything is wrong with it I mean the power steering fluid leaks the oil leaks the brake fluid leaks you know",
+                "label": "+@"
+            },
+            {
+                "text": "Now thi- - wha- how old is the car",
+                "label": "%"
+            },
+            {
+                "text": "Uh eighty-seven",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "And he just doesnt take care of things and but I was awarded the car so There is man in my church that is mechanic and I can trust him So he is trying to get you know things fixed on it",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "But its just you know leak leak leak everywhere But uh you know I hate to go into repair place because theyll tell me something is wrong with it and its not you know and charge me twice as much The last time I took it into repair shop the man told me I needed master cylinder So I said okay And he charged me hundred and thirty something dollars and then uh about month later man was looking at my car and he asked me - you know not man not repair man but just friend and I was telling him that I just new master cylinder put on and he looked at - and he said thats not new master cylinder --",
+                "label": "sd"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "-- and I didnt even know what one was And uh he showed it to me and it was old rusty just awful It was no more new than nothing",
+                "label": "sd"
+            },
+            {
+                "text": "So apparently it was the same one that was on there",
+                "label": "bf"
+            },
+            {
+                "text": "Uh more than likely",
+                "label": "aa"
+            },
+            {
+                "text": "Apparently just uh re- re- uh probably filled the the brake fluid up and that was it",
+                "label": "bf"
+            },
+            {
+                "text": "That was it probably It was ve- - I was so irritated And thats happened to me more than once or twice Jus- just just about every time Ive went in somewhere",
+                "label": "aa"
+            },
+            {
+                "text": "So whats the solution to that I guess find reputable service",
+                "label": "sv"
+            },
+            {
+                "text": "And and you ju- can hardly find one you know",
+                "label": "sv"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "The guy thats doing most of my my car now uh goes to my church and thats the only reason you know I go to him --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- because I know him and I know he will tell me the truth Because he doesnt even charge me for for doing it so hes not going to you know take me",
+                "label": "+"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "I just pay for the parts and he does it so",
+                "label": "sd"
+            },
+            {
+                "text": "Well thats wonderful",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah",
+                "label": "aa"
+            },
+            {
+                "text": "Youre lucky",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah I am so I dont know I dont know what the solution to that is because the place where you buy your car theyre usually the worst one of all We took our Honda to the Honda dealership and they ended up telling us we needed brand new engine for our car",
+                "label": "aa"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah And so idiots as we were neither one of us knew much about cars we you know they told us we just had to have one and we bought one We didnt no more need no new engine give me break you know",
+                "label": "ny"
+            },
+            {
+                "text": "Huh",
+                "label": "b"
+            },
+            {
+                "text": "So it was it was not good and uh -",
+                "label": "sd"
+            }
+        ]
+    }
+]

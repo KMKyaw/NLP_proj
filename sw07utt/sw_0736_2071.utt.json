@@ -1,0 +1,307 @@
+[
+    {
+        "conversation_id": "conv_2071",
+        "turns": [
+            {
+                "text": "Okay Ellen what kind of car do you think youre going to buy",
+                "label": "o"
+            },
+            {
+                "text": "Well as matter of fact I was thinking about that the other day and uh I really dont know the answer uh I would sort of like to uh think about something in the way of uh uh sort of sporty car but not any not you know luxury type sporty one",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But um something that still has lots of amenities and you know gadgets and things",
+                "label": "sd"
+            },
+            {
+                "text": "Oh you do want lot of that stuff",
+                "label": "qy^d"
+            },
+            {
+                "text": "Yeah well yeah I like I like some of those things They come in really handy",
+                "label": "ny"
+            },
+            {
+                "text": "What kind of uh things are you going to consider you know what uh you said something about the about the - well what do you call them you said amenities",
+                "label": "qw"
+            },
+            {
+                "text": "Amenities",
+                "label": "b^m"
+            },
+            {
+                "text": "that they have but what about um their reputation of the company or the price",
+                "label": "+"
+            },
+            {
+                "text": "Yeah well of course I guess uh price is always the big consideration but -",
+                "label": "b"
+            },
+            {
+                "text": "It is for me other people",
+                "label": "sd"
+            },
+            {
+                "text": "yeah",
+                "label": "b"
+            },
+            {
+                "text": "dont seem to have the same problem",
+                "label": "+"
+            },
+            {
+                "text": "Well thats thats big one in my book",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "but uh um I have preferences for uh for some uh makers over others um and I would sort of like to buy American",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "but you know Im not so totally hung up on that that I wouldnt buy something else how about you",
+                "label": "sd"
+            },
+            {
+                "text": "Well um the last car we bought was American because of because of that reason but have not been entirely happy with uh several things about the car - it doesnt seem like the quality is quite as high as I expected it to be",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "Because several things minor things sort of - but still they cost us money um that we didnt feel like we should have had to pay on car that that was that new",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "you know we bought the car new and after - um well well well under two years we had to replace the clutch",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "And they just said well you know clutches are disposable and I said since when",
+                "label": "sd(^q)"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Brake pads are disposable",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "you know we know that but I never thought clutch was disposable",
+                "label": "+"
+            },
+            {
+                "text": "Yeah I wouldnt have thought so either",
+                "label": "aa"
+            },
+            {
+                "text": "Yeah so that was that was kind of shock",
+                "label": "aa"
+            },
+            {
+                "text": "Oh Yeah I I guess theres lot to to think about when youre trying to make that decision",
+                "label": "b"
+            },
+            {
+                "text": "Yeah you know the less actually the less you spend on car it seems like luxury cars - theyre called luxury cars even though theyre much more expensive like like uh uh Mercedes Benz they dont have the history of breaking down or things like that that would go wrong would definitely not be considered disposable",
+                "label": "aa"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "You would never think of having to replace the clutch in Mercedes",
+                "label": "sv"
+            },
+            {
+                "text": "No but then -",
+                "label": "aa"
+            },
+            {
+                "text": "especially not after two years",
+                "label": "+"
+            },
+            {
+                "text": "No but on the other hand I guess too uh whenever you do have to have some major work done on one of those it costs fortune",
+                "label": "aa"
+            },
+            {
+                "text": "Really Oh I dont know",
+                "label": "bh"
+            },
+            {
+                "text": "Yeah Ive uh worked with couple of people who have owned uh various years uh",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Mercedes and even though they do lot of the work themself then just buying the parts and everything is is pretty expensive But for them its its sort of hobby too",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "to own them",
+                "label": "+"
+            },
+            {
+                "text": "What kind of - what brand of car are you thinking about buying or like what things are you looking at",
+                "label": "qw"
+            },
+            {
+                "text": "Well I havent re- really gotten that far with it um Ive always sort of liked General Motors",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "little bit better than some of the others but uh oh I guess I really dont know",
+                "label": "+"
+            },
+            {
+                "text": "How come - Ive been kind of um - I guess the commercials are getting to me the Toyota commercials",
+                "label": "%"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "and I know that lot of people Ive Ive known that have had Toyotas have been just extremely happy with them that hardly had any problems at all",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah that - I think thats -",
+                "label": "b"
+            },
+            {
+                "text": "I think they have really good uh quality",
+                "label": "sv"
+            },
+            {
+                "text": "uh-huh My uh daughter has owned two different ones and uh you know weve had some work done on them but its not too bad and the reason - one of the reasons we um bought the first one was because friend of ours had Toyota that he just really drove for years and years and years and he lived way out in the country so he put lot of miles on it",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and you knew it had had been through whole lot",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and yet you know it it held up pretty doggone good so",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "I thought they would -",
+                "label": "+"
+            },
+            {
+                "text": "They seem to be really durable",
+                "label": "sv"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "So I dont know Im Im not ready to buy new car yet but I dont know if if the next time Im going to try to to stay with buying something American or if Im going to go for little more what I would consider to be long-term investment",
+                "label": "h"
+            },
+            {
+                "text": "Yeah Well - and I guess you know you always have to think about things like your gas mileage and stuff like that you know - you -",
+                "label": "b"
+            },
+            {
+                "text": "Oh its easy to get gas mileage in this car",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "it gets excellent gas mileage",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah thats one of the big throwing cards for some of the foreign ones",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Well we talked long enough",
+                "label": "ad^t"
+            },
+            {
+                "text": "I think so",
+                "label": "aa"
+            },
+            {
+                "text": "Okay well enjoyed it",
+                "label": "b"
+            },
+            {
+                "text": "All righty thanks",
+                "label": "fc"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc"
+            }
+        ]
+    }
+]

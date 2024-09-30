@@ -1,0 +1,435 @@
+[
+    {
+        "conversation_id": "conv_3071",
+        "turns": [
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Um I guess were supposed to talk about music",
+                "label": "sd^t"
+            },
+            {
+                "text": "Okay",
+                "label": "aa"
+            },
+            {
+                "text": "And uh let me go ahead and push one here Uh do you ha- - are you musician yourself",
+                "label": "co^t"
+            },
+            {
+                "text": "Uh well I sing",
+                "label": "na"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "I dont play an instrument",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Where - do you sing in in choir or choral group",
+                "label": "b"
+            },
+            {
+                "text": "Oh not right now",
+                "label": "ng"
+            },
+            {
+                "text": "uh-huh What kind of singing do you like to do",
+                "label": "b"
+            },
+            {
+                "text": "Oh pretty much anything",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah uh-huh Um are you uh are are have you have you been singing long time or have you studied",
+                "label": "b"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "long time out all through college and everything I was in the choirs",
+                "label": "sd"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "And Ive had some classical vocal training",
+                "label": "sd"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "uh-huh",
+                "label": "ny"
+            },
+            {
+                "text": "Oh great Did did you do that in uh Texas or somewhere else",
+                "label": "ba"
+            },
+            {
+                "text": "No I was in Europe",
+                "label": "nn"
+            },
+            {
+                "text": "Oh Whereabouts",
+                "label": "b"
+            },
+            {
+                "text": "In uh in Germany",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Oh thats wonderful Um well I likewise sang in high school and in college in choirs and then I didnt sing in choral group um until after I was uh married and I sang in couple of uh community choirs and then um waited for while and now Ive for about the last eight years Ive sung in church choir here",
+                "label": "b"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "b"
+            },
+            {
+                "text": "in Texas And um so I I enjoy just the chorals singing lot",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "as well Um are you soprano alto or -",
+                "label": "+"
+            },
+            {
+                "text": "Soprano",
+                "label": "sd"
+            },
+            {
+                "text": "soprano Yeah so am I Do you - and uh what kind of music do you like to sing Um you were saying you had classical training Do you have particular composer that you like or",
+                "label": "b^m"
+            },
+            {
+                "text": "Oh well",
+                "label": "%"
+            },
+            {
+                "text": "particular type",
+                "label": "+"
+            },
+            {
+                "text": "as far as opera goes Im I think most fond of Verdi",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh Ive been listening to um some uh some advertisements for MADAM BUTTERFLY and Im wondering if you if you have ever done anything like that have you ever done any uh if",
+                "label": "b"
+            },
+            {
+                "text": "No no",
+                "label": "nn"
+            },
+            {
+                "text": "if you had done MADAM BUTTERFLY",
+                "label": "+"
+            },
+            {
+                "text": "I havent done uh - Id love to",
+                "label": "sd"
+            },
+            {
+                "text": "Yes",
+                "label": "b"
+            },
+            {
+                "text": "but um thats uh Puccini I think right",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh yes uh-huh Um MADAM BUTTERFLY was um in Dallas its been two or three years ago now and then I went to see that and",
+                "label": "ny"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "it was really wonderful It was particularly well - the acting was particularly nice I thought and um so",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "it was quite popular Um you dont play um an instrument so",
+                "label": "+"
+            },
+            {
+                "text": "No",
+                "label": "aa@"
+            },
+            {
+                "text": "uh um have you ever wanted to like guitar or piano or -",
+                "label": "+"
+            },
+            {
+                "text": "Uh I think it would be nice if I played the piano",
+                "label": "+@"
+            },
+            {
+                "text": "Yeah yeah That I think thats always good instrument for anybody who sings or does you know some other kind of instrument I think piano is always good background",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "beginner - Um I played piano all through well I guess from the time I was fi- five until I graduated from college and uh then I was piano teacher for while while my husband was in graduate school so um that was the instrument both of my children started on but neither of them stayed with it",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "One of them um turned into violist and the other one is the boy is um guitar and and percussion so -",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Um but the - I I think that the piano background is very um useful and um Im sure that it for you it would have been great to be able to accompany yourself",
+                "label": "%"
+            },
+            {
+                "text": "Oh yeah",
+                "label": "aa"
+            },
+            {
+                "text": "just for practicing and so on uh-huh Do you have any other kind of music that you like",
+                "label": "+"
+            },
+            {
+                "text": "Um oh I like to listen to all different kinds of music",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh I have - I used to work with fellow who had um - although this was computer company he had his uh in musical uh I guess it was in composition actually from University of North Texas and uh yet when I would go into his his office every now and then you never knew what kind of music hed be playing on the radio It may be country it might be classical it might be rock you know --",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- it was just he said that that just about what you said that he just liked all kinds of music",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "And that was that was neat for for me to hear that somebody is -",
+                "label": "sd"
+            },
+            {
+                "text": "Theres you know some of the really totally country stuff I dont really particularly like but -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah yeah Um do you have any plans to uh do anything with your music in the near future or -",
+                "label": "b"
+            },
+            {
+                "text": "Well I have I have like we - I wish I could --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- but I I dont really know how to go about it without having degree or -",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "um",
+                "label": "%"
+            },
+            {
+                "text": "I know that there are if youre interested in choral singing - Im not sure where you are in Texas but I do know that some communities have uh community choruses and",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "uh thats often good way to get back into it again Um its not - terribly demanding You might have to audition but that probably wouldnt be problem but um there usually you know - that they take tours and things like that - and you get to know --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- you know people socially as well as as in musical setting so --",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "-- thats always fun I think thats well thats one reason why I have enjoyed my choir so much is that not only do we sing wonderful music but weve gotten to know each other quite well um in on social level and",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "and I think we sing better because of that I think you know",
+                "label": "+"
+            },
+            {
+                "text": "Thats good",
+                "label": "ba"
+            },
+            {
+                "text": "I think we sing more like uh people who trust each other",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh yeah",
+                "label": "b"
+            },
+            {
+                "text": "which is really nice So whereabouts in Texas are you if I could ask",
+                "label": "+"
+            },
+            {
+                "text": "Oh Im in Flower Mound",
+                "label": "sd"
+            },
+            {
+                "text": "Flower Mound okay",
+                "label": "b^m"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Well Im in Plano so um were just not too far apart actually",
+                "label": "sd"
+            },
+            {
+                "text": "Yeah thats pretty close",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh It was funny um uh its you know - I talk to people all over uh Texas um and only one person outside of the coun- uh of the state so Im always asking where where in the state you know the person is from if theyre in Texas",
+                "label": "b"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "Um are do you have family",
+                "label": "qy"
+            },
+            {
+                "text": "Um Im married",
+                "label": "na"
+            },
+            {
+                "text": "uh-huh I was wondering if your if your spouse - or if you know if you had uh other musical people in your family",
+                "label": "b"
+            },
+            {
+                "text": "Im sorry",
+                "label": "br"
+            },
+            {
+                "text": "Uh if you have other people in your family who are also musical",
+                "label": "qy^d"
+            },
+            {
+                "text": "Oh little bit",
+                "label": "na"
+            },
+            {
+                "text": "uh-huh Do you come by it naturally Was your were your parents that musical",
+                "label": "b"
+            },
+            {
+                "text": "Yeah I think so",
+                "label": "ny"
+            },
+            {
+                "text": "Yeah yeah That often is the case um the you know - its it sometimes it will skip Like my husband is not musical at all but his mother is very musical and um and his children are very musical so you never know where the talent is going to show up I guess sometimes So um well Im not sure how long weve talked",
+                "label": "b"
+            },
+            {
+                "text": "I think -",
+                "label": "%"
+            },
+            {
+                "text": "I havent paid havent been paying attention to the to the clock But uh Ill bet weve done weve done at least five minutes",
+                "label": "sd^t"
+            },
+            {
+                "text": "Probably",
+                "label": "sd"
+            },
+            {
+                "text": "Well Ive enjoyed talking with you",
+                "label": "fc"
+            },
+            {
+                "text": "Okay",
+                "label": "fc"
+            },
+            {
+                "text": "uh Becky and um maybe well talk again",
+                "label": "+"
+            },
+            {
+                "text": "All right thanks",
+                "label": "fc"
+            },
+            {
+                "text": "uh-huh Bye-bye",
+                "label": "fc"
+            },
+            {
+                "text": "Bye-bye",
+                "label": "fc"
+            }
+        ]
+    }
+]

@@ -1,0 +1,567 @@
+[
+    {
+        "conversation_id": "conv_3296",
+        "turns": [
+            {
+                "text": "Now were ready Do you have personal computer",
+                "label": "o"
+            },
+            {
+                "text": "We have one",
+                "label": "na"
+            },
+            {
+                "text": "You do in your home",
+                "label": "qy"
+            },
+            {
+                "text": "Yes yes maam",
+                "label": "ny"
+            },
+            {
+                "text": "I do not have one in my home I use one all day at work but I dont have one at home",
+                "label": "sd"
+            },
+            {
+                "text": "Do you wish you -",
+                "label": "%"
+            },
+            {
+                "text": "Do you find you use it lot",
+                "label": "qy"
+            },
+            {
+                "text": "I dont use it as much as my children and my husband do My actually my husband and I are taking class at our local junior college called micro micro computers one one and were just touching on data base spreadsheets and word processing and just kind of you know different kinds of storage and were just kind of touching on basic --",
+                "label": "ng"
+            },
+            {
+                "text": "uh-huh uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- computer",
+                "label": "+"
+            },
+            {
+                "text": "What kind do you have",
+                "label": "qw"
+            },
+            {
+                "text": "We have an I compatible Its Gateway brand --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- that we bought mainly for our children to have educational programs",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh Well that sounds interesting",
+                "label": "b"
+            },
+            {
+                "text": "Yeah What kind of computer do you use at work",
+                "label": "b"
+            },
+            {
+                "text": "I have one I type",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh and I use it all day at work and I put all my personal stuff on it at work",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "So I really dont havent had need for one at home but probably if I didnt have access to one all the time at work Id want one at home",
+                "label": "sd"
+            },
+            {
+                "text": "Right I worked on my airline Apollo Focal Point computer for about four years",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Which was different",
+                "label": "+"
+            },
+            {
+                "text": "Yeah",
+                "label": "b"
+            },
+            {
+                "text": "But I didnt -",
+                "label": "%"
+            },
+            {
+                "text": "What is that tracing tracking the flights and things",
+                "label": "qy"
+            },
+            {
+                "text": "Right right",
+                "label": "na"
+            },
+            {
+                "text": "Uh",
+                "label": "b"
+            },
+            {
+                "text": "How long are we supposed to talk on this",
+                "label": "qw^t"
+            },
+            {
+                "text": "They tell us when were through",
+                "label": "sd^t"
+            },
+            {
+                "text": "Oh okay okay This is",
+                "label": "bk"
+            },
+            {
+                "text": "They come in and tell us Have you just started doing this",
+                "label": "sd^t"
+            },
+            {
+                "text": "This is my very first time",
+                "label": "+"
+            },
+            {
+                "text": "Oh really",
+                "label": "bh"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "Theyll come in and tell us that the switchboard is full now and its time for you to wind up in the next thirty seconds or something like that",
+                "label": "sd^t"
+            },
+            {
+                "text": "Oh okay",
+                "label": "bk"
+            },
+            {
+                "text": "Its not more than five min-",
+                "label": "sd^t"
+            },
+            {
+                "text": "Uh-oh",
+                "label": "ba"
+            },
+            {
+                "text": "But Im going to ignore that Thats call on my other line so --",
+                "label": "sd"
+            },
+            {
+                "text": "Oh okay",
+                "label": "b"
+            },
+            {
+                "text": "-- Im just going to ignore it But -",
+                "label": "+"
+            },
+            {
+                "text": "Oh okay That I have that too",
+                "label": "b"
+            },
+            {
+                "text": "Its kind of hassle when you have this but other times it -",
+                "label": "sv"
+            },
+            {
+                "text": "- where do you work",
+                "label": "qw"
+            },
+            {
+                "text": "I work at Texas Instruments",
+                "label": "sd"
+            },
+            {
+                "text": "Oh you do",
+                "label": "bh"
+            },
+            {
+                "text": "Yes",
+                "label": "ny"
+            },
+            {
+                "text": "Oh well of course",
+                "label": "ba"
+            },
+            {
+                "text": "I sure do",
+                "label": "sd^e"
+            },
+            {
+                "text": "Of course Thats why you why youre making these calls right",
+                "label": "ba"
+            },
+            {
+                "text": "Well no Im doing this at home Im already home for the day",
+                "label": "nn"
+            },
+            {
+                "text": "Oh I see Well this is pretty good deal",
+                "label": "bk"
+            },
+            {
+                "text": "I do it you know I cant do it at work I Im I work in the legal department so Im pretty busy",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But I use my there mostly for creating legal documents We use Word Perfect Lotus",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Uh",
+                "label": "b"
+            },
+            {
+                "text": "Oh you do know Lotus huh Oh thats great Thats something we want to learn",
+                "label": "qh^g"
+            },
+            {
+                "text": "Yeah its really - I love Lotus",
+                "label": "b"
+            },
+            {
+                "text": "Oh",
+                "label": "b"
+            },
+            {
+                "text": "I think thats about my favorite",
+                "label": "sd"
+            },
+            {
+                "text": "Ive heard that people that finally learn how to use it really like it",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "Thats great",
+                "label": "ba"
+            },
+            {
+                "text": "It really is and I know theres still hundred things I dont know how to do on it",
+                "label": "aa"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But uh you know you learn something every time you use it",
+                "label": "sd"
+            },
+            {
+                "text": "I have question On this this thing that Im this survey or whatever you know this --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- I volunteered for Do I start calling in myself or do I wait for people to call me",
+                "label": "+"
+            },
+            {
+                "text": "You can did they give you number to call",
+                "label": "na"
+            },
+            {
+                "text": "Right and eight hundred number -",
+                "label": "na"
+            },
+            {
+                "text": "You can start calling in whenever its convenient for you but you can only make one call day",
+                "label": "sd^t"
+            },
+            {
+                "text": "Oh only one day",
+                "label": "bk^m"
+            },
+            {
+                "text": "Yeah if youve talked to someone like youre talking to me now --",
+                "label": "b"
+            },
+            {
+                "text": "Right",
+                "label": "b"
+            },
+            {
+                "text": "-- and I place the call this counts as your call",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "So you cannot make call now until tomorrow",
+                "label": "sd^t"
+            },
+            {
+                "text": "Oh I see Okay so then do you get the five bucks or do I",
+                "label": "bk"
+            },
+            {
+                "text": "No we both do",
+                "label": "nn"
+            },
+            {
+                "text": "Oh we both do Well thats --",
+                "label": "bk^m"
+            },
+            {
+                "text": "Didnt they --",
+                "label": "qy^t"
+            },
+            {
+                "text": "-- -",
+                "label": "+"
+            },
+            {
+                "text": "-- ask you for your I number when you answered",
+                "label": "+"
+            },
+            {
+                "text": "Right I had to put that in",
+                "label": "na"
+            },
+            {
+                "text": "Okay so you both do",
+                "label": "bk"
+            },
+            {
+                "text": "Well thats pretty good deal",
+                "label": "ba"
+            },
+            {
+                "text": "From what I understand -",
+                "label": "aa"
+            },
+            {
+                "text": "So why why are we doing this",
+                "label": "qy"
+            },
+            {
+                "text": "Its for research",
+                "label": "sd"
+            },
+            {
+                "text": "Actually Im doing this for somebody else but you know for friend of mine",
+                "label": "sd"
+            },
+            {
+                "text": "Its research type project on --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- uh voice activated electronics you know",
+                "label": "+"
+            },
+            {
+                "text": "Oh",
+                "label": "bk"
+            },
+            {
+                "text": "To uh - its uh -- -",
+                "label": "%"
+            },
+            {
+                "text": "Its almost like that",
+                "label": "sd"
+            },
+            {
+                "text": "-- well they call it the speech lab that is setting this thing up",
+                "label": "sd"
+            },
+            {
+                "text": "Like voice command --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- computer type --",
+                "label": "+"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- thing oh",
+                "label": "+"
+            },
+            {
+                "text": "Theyre doing research for lot of big companies from what I understand on this Now I dont know",
+                "label": "sd"
+            },
+            {
+                "text": "Well thats wonderful",
+                "label": "ba"
+            },
+            {
+                "text": "I dont know everything about it but they uh try to get as many people as they possibly can to contribute to this and that way they can check voice patterns",
+                "label": "+"
+            },
+            {
+                "text": "I see different kinds of voices and things",
+                "label": "bk"
+            },
+            {
+                "text": "uh-huh and get the computer where it recognizes voices",
+                "label": "aa"
+            },
+            {
+                "text": "Wonderful See thats why I its interesting because you have I Im going to say you have an accent",
+                "label": "ba"
+            },
+            {
+                "text": "Well I probably do because Ive -",
+                "label": "aa"
+            },
+            {
+                "text": "And I and I think that I dont I mean to you - but - you know -",
+                "label": "sv"
+            },
+            {
+                "text": "Well Ive been - I was born and raised in Texas Have lived here forever so I probably do",
+                "label": "sd"
+            },
+            {
+                "text": "And youre in what city",
+                "label": "qw"
+            },
+            {
+                "text": "Im in Richardson Its right outside of Dallas",
+                "label": "sd"
+            },
+            {
+                "text": "Okay my sister one of my sisters lives in Plano",
+                "label": "bk"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "And thats right outside of -",
+                "label": "sd"
+            },
+            {
+                "text": "Well Richardsons right between Dallas and Plano",
+                "label": "sd"
+            },
+            {
+                "text": "How about that I probably went through Richardson then",
+                "label": "ba"
+            },
+            {
+                "text": "You probably did",
+                "label": "aa"
+            },
+            {
+                "text": "And then I have sister that lives in Austin",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "But -",
+                "label": "%"
+            },
+            {
+                "text": "Well what are you doing way in Washington",
+                "label": "qw"
+            },
+            {
+                "text": "Well were actually all from Nebraska They just are recently moved there My brother-in-law is director of Admissions at the University of Texas --",
+                "label": "sd"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "-- in Dallas",
+                "label": "+"
+            },
+            {
+                "text": "Well thats interesting",
+                "label": "ba"
+            },
+            {
+                "text": "Yeah and then my sister works at the Air Force Base",
+                "label": "b"
+            },
+            {
+                "text": "uh-huh So I imagine they use personal computers",
+                "label": "b"
+            },
+            {
+                "text": "Actually yes they both have personal computers",
+                "label": "ny"
+            },
+            {
+                "text": "Do they do their correspondence on it",
+                "label": "qy"
+            },
+            {
+                "text": "Uh I think they just send Christmas letters on it",
+                "label": "ng"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "As far as I - mostly my one sister uses hers for her children",
+                "label": "%"
+            },
+            {
+                "text": "uh-huh",
+                "label": "b"
+            },
+            {
+                "text": "You know childrens games",
+                "label": "+"
+            }
+        ]
+    }
+]
